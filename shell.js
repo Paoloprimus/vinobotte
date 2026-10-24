@@ -4,11 +4,11 @@ var css=`
 :root[data-theme=light]{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
 :root[data-theme=dark]{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}
 body{padding-top:0!important;display:block!important}
-.sh-head{max-width:none!important;margin:0!important;text-align:left!important;position:sticky;top:0;z-index:50;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:8px;padding:8px 12px;background:var(--bg);border-bottom:1px solid var(--line);font:16px/1.3 Georgia,'Times New Roman',serif;color:var(--ink)}
+.sh-head{max-width:none!important;margin:0!important;text-align:left!important;position:sticky;top:0;z-index:50;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:8px;padding:16px 16px;background:var(--bg);border-bottom:1px solid var(--line);font:16px/1.3 Georgia,'Times New Roman',serif;color:var(--ink)}
 .sh-head *{box-sizing:border-box}
 .sh-tit{display:flex;flex-direction:column;align-items:center;color:var(--acc);text-decoration:none;text-align:center;line-height:1.15}
-.sh-tit .t1{font-size:19px;font-weight:700}
-.sh-tit .t2{font-size:12px;color:var(--ink)}
+.sh-tit .t1{font-size:30px;font-weight:700}
+.sh-tit .t2{font-size:16px;color:var(--ink);margin-top:2px}
 .sh-dx{display:flex;justify-content:flex-end;gap:6px}
 .sh-b{display:inline-flex;align-items:center;justify-content:center;font:inherit;font-size:15px;color:var(--ink);background:none;border:1px solid var(--line);border-radius:4px;padding:7px;cursor:pointer}
 .sh-b:hover,.sh-b:focus-visible{border-color:var(--acc);color:var(--acc)}
@@ -28,7 +28,7 @@ body{padding-top:0!important;display:block!important}
 .sh-foot{margin-top:40px;padding:18px 16px;border-top:1px solid var(--line);text-align:center;font:14px/1.6 Georgia,'Times New Roman',serif;color:var(--ink)}
 .sh-foot a{color:var(--acc);text-decoration:none;margin:0 8px}
 .sh-foot a:hover{text-decoration:underline}
-@media (max-width:560px){.sh-tit .t1{font-size:17px}.sh-tit .t2{font-size:10.5px}}
+@media (max-width:560px){.sh-tit .t1{font-size:21px}.sh-tit .t2{font-size:11.5px}}
 `;
 var st=document.createElement('style');st.textContent=css;document.head.appendChild(st);
 function g(k){try{return localStorage.getItem(k)}catch(e){return null}}
@@ -46,7 +46,7 @@ pm.innerHTML='<button class="sh-b x" data-chiudi>✕</button><h2>Menu</h2><a hre
 var pi=document.createElement('aside');pi.id='sh-pi';pi.className='sh-pan dx';pi.setAttribute('aria-label','Impostazioni');
 pi.innerHTML='<button class="sh-b x" data-chiudi>✕</button><h2>Impostazioni</h2><fieldset><legend>Tema</legend><label><input type="radio" name="vb-tema" value="auto"> Automatico</label><label><input type="radio" name="vb-tema" value="light"> Chiaro</label><label><input type="radio" name="vb-tema" value="dark"> Scuro</label></fieldset><fieldset><legend>Dimensione del testo</legend><label><input type="radio" name="vb-testo" value="normale"> Normale</label><label><input type="radio" name="vb-testo" value="grande"> Grande</label></fieldset>';
 var foot=document.createElement('footer');foot.className='sh-foot';
-foot.innerHTML='<div><a href="/privacy/">Privacy</a><a href="/nota-metodologica/">Nota metodologica</a><a href="mailto:info@vinobot.it">Contatti</a></div><div>© 2026 VinoBot. Tutti i diritti riservati.</div>';
+foot.innerHTML='<div><a href="/privacy/">Privacy</a><a href="/nota-metodologica/">Nota metodologica</a><a href="mailto:info@vinobot.it">Contatti</a></div><div>© 2026 VinoBotte. Tutti i diritti riservati.</div>';
 document.body.insertBefore(head,document.body.firstChild);
 document.body.appendChild(vel);document.body.appendChild(pm);document.body.appendChild(pi);document.body.appendChild(foot);
 function apri(p,b){chiudi();p.classList.add('on');vel.hidden=false;b.setAttribute('aria-expanded','true');}
