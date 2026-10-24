@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>VinoBotte — Guida produttori italiani vini DOC e DOCG</title>
+<meta name="description" content="VinoBot: guida ai produttori italiani di vini DOC e DOCG. Valpolicella e Soave.">
+<style>
+:root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+@media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif;padding:40px 16px 56px}
+main{max-width:1080px;margin:0 auto}
+header{text-align:center;max-width:560px;margin:0 auto 28px}
+h1{font-size:clamp(40px,12vw,64px);line-height:1.05;font-weight:700;margin:0 0 10px;letter-spacing:-.01em}
+.sotto{margin:0 0 22px;font-size:18px}
+.cerca{display:flex;gap:8px}
+.cerca button{font:inherit;font-size:18px;color:var(--bg);background:var(--acc);border:0;border-radius:4px;padding:0 18px;cursor:pointer}
+#q{flex:1;min-width:0;font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:12px;width:100%;font-size:18px}
+#q::placeholder{color:#a7a196;opacity:1}
+.griglia{display:grid;grid-template-columns:repeat(4,1fr);gap:28px 24px}
+@media (max-width:900px){.griglia{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:560px){.griglia{grid-template-columns:1fr}}
+.reg a{color:inherit;text-decoration:none}.reg a:hover,.reg a:focus-visible{text-decoration:underline}
+.reg{margin:0 0 10px;font-size:28px;font-weight:400;font-variant:small-caps;letter-spacing:.14em;color:var(--acc)}
+a.vai{display:block;border-bottom:1px solid var(--line);padding:12px 4px;font-size:17px;color:var(--acc);text-decoration:none}
+.regione a.vai:first-of-type{border-top:1px solid var(--line)}
+a.vai:hover,a.vai:focus-visible{text-decoration:underline}
+#n{margin:14px 0 6px;font-size:14px}
+#ris{list-style:none;margin:0;padding:0;border-top:1px solid var(--line);max-width:720px;margin-inline:auto}
+#ris li{border-bottom:1px solid var(--line)}
+#ris a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+#ris a:hover .nm,#ris a:focus-visible .nm{text-decoration:underline}
+.nm{color:var(--acc);font-weight:700}
+.sub{font-size:14px;grid-column:1 / -1}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<main>
+<header>
+<h1>VinoBotte</h1>
+<p class="sotto">Guida produttori italiani vini DOC e DOCG</p>
+<form id="f" class="cerca"><input id="q" type="search" placeholder="Cerca cantina, vino, comune, regione ..." aria-label="Cerca cantina, vino, comune, regione" autocomplete="off"><button type="submit">Invio</button></form>
+</header>
+<div id="n" role="status" hidden></div>
+<ul id="ris" hidden></ul>
+<div class="griglia" id="griglia">
+<section class="regione">
+<h2 class="reg"><a href="/veneto/">Veneto</a></h2>
+</section>
+</div>
+</main>
+<script>
+let D=null,carica=null;
+const q=document.getElementById('q'),n=document.getElementById('n'),ris=document.getElementById('ris'),gr=document.getElementById('griglia');
+const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+const esc=s=>s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
+function dati(){return carica||(carica=fetch('/cerca.json').then(r=>r.json()).then(j=>{D=j.map(x=>({x,k:norm(x.join(' '))}));return D}).catch(()=>{carica=null;return []}))}
+async function cerca(){
+ const t=norm(q.value.trim());
+ if(!t){n.hidden=ris.hidden=true;gr.hidden=false;return}
+ const d=await dati();
+ const parole=t.split(/\s+/);
+ const r=d.filter(o=>parole.every(w=>o.k.includes(w))).slice(0,200);
+ gr.hidden=true;n.hidden=ris.hidden=false;
+ n.textContent=r.length+(r.length===1?' risultato':' risultati')+(r.length===200?' (primi 200)':'');
+ ris.innerHTML=r.map(({x})=>'<li><a href="/pagine/'+x[1]+'.html"><span class="nm">'+esc(x[0])+'</span><span>'+esc(x[2])+'</span><span class="sub">'+esc(x[3])+(x[4]?' · '+esc(x[4]):'')+'</span></a></li>').join('');
+}
+document.getElementById('f').addEventListener('submit',e=>{e.preventDefault();cerca()});q.addEventListener('focus',dati);q.addEventListener('input',cerca);
+</script>
+</body>
+</html>
