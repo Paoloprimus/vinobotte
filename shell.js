@@ -1,4 +1,7 @@
 (function(){
+try{history.scrollRestoration='manual'}catch(e){}
+function cima(){window.scrollTo(0,0)}
+cima();window.addEventListener('pageshow',cima);window.addEventListener('load',function(){cima();setTimeout(cima,60)});
 var SEZ=[['Valpolicella','/valpolicella/'],['Soave e Recioto di Soave','/soave/'],['Lessini Durello','/durello/'],['Bardolino','/bardolino/'],['Custoza','/custoza/'],['Prosecco DOC','/prosecco/'],['Colli Euganei','/euganei/'],['Venezia','/venezia/'],['Conegliano Valdobbiadene','/conegliano/'],['Asolo Montello','/asolo/'],['Delle Venezie','/venezie/']];
 var css=`
 :root[data-theme=light]{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
@@ -27,6 +30,9 @@ body{padding-top:0!important;display:block!important}
 .sh-pan label{display:block;padding:4px 0}
 .sh-bc{max-width:none;margin:0;padding:10px 16px;background:var(--bg);font:14px/1.4 Georgia,'Times New Roman',serif;color:var(--ink)}
 .sh-bc ol{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:2px 0}
+.sh-bc li{border:0!important;display:inline!important;padding:0!important;margin:0!important}
+.sh-bc li a,.sh-bc li span{display:inline!important;grid-template-columns:none!important;padding:0!important;gap:0!important}
+.sh-bc ol{border:0!important}
 .sh-bc li+li:before{content:'›';margin:0 7px;color:var(--ink);opacity:.6}
 .sh-bc a{color:var(--acc);text-decoration:none}
 .sh-bc a:hover,.sh-bc a:focus-visible{text-decoration:underline}
@@ -88,6 +94,8 @@ applica();
   var nav=document.createElement('nav');nav.className='sh-bc';nav.setAttribute('aria-label','Percorso');
   nav.innerHTML='<ol>'+tr.map(function(x,i){var e=String(x[0]).replace(/&/g,'&amp;').replace(/</g,'&lt;');return '<li>'+(x[1]&&i<tr.length-1?'<a href="'+x[1]+'">'+e+'</a>':'<span aria-current="page">'+e+'</span>')+'</li>'}).join('')+'</ol>';
   var hd=document.querySelector('.sh-head');hd.parentNode.insertBefore(nav,hd.nextSibling);
+  function alinea(){var m=document.querySelector('main,article');if(!m)return;var r=m.getBoundingClientRect(),pl=parseFloat(getComputedStyle(m).paddingLeft)||0;nav.style.paddingLeft='0px';var nl=nav.getBoundingClientRect().left;nav.style.paddingLeft=Math.max(16,r.left+pl-nl)+'px';}
+  alinea();window.addEventListener('resize',alinea);window.addEventListener('load',alinea);
  }
 })();
 })();
