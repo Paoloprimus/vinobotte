@@ -18,9 +18,10 @@ h1{font-size:clamp(40px,12vw,64px);line-height:1.05;font-weight:700;margin:0 0 1
 .cerca button{font:inherit;font-size:14px;color:var(--bg);background:var(--acc);border:0;border-radius:4px;padding:0 12px;cursor:pointer}
 #q{flex:1;min-width:0;font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:5px 8px;width:100%;font-size:14px}
 #q::placeholder{color:#a7a196;opacity:1}
-.griglia{display:grid;grid-template-columns:repeat(4,1fr);gap:28px 24px}
-@media (max-width:900px){.griglia{grid-template-columns:repeat(2,1fr)}}
-@media (max-width:560px){.griglia{grid-template-columns:1fr}}
+.griglia{display:flex;flex-wrap:wrap;justify-content:center;gap:28px 24px}
+.griglia .regione{width:calc(25% - 18px);text-align:center}
+@media (max-width:900px){.griglia .regione{width:calc(50% - 12px)}}
+@media (max-width:560px){.griglia .regione{width:100%}}
 .reg a{color:inherit;text-decoration:none}.reg a:hover,.reg a:focus-visible{text-decoration:underline}
 .reg{margin:0 0 10px;font-size:28px;font-weight:400;font-variant:small-caps;letter-spacing:.14em;color:var(--acc)}
 a.vai{display:block;border-bottom:1px solid var(--line);padding:12px 4px;font-size:17px;color:var(--acc);text-decoration:none}
@@ -46,6 +47,18 @@ a.vai:hover,a.vai:focus-visible{text-decoration:underline}
 <div class="griglia" id="griglia">
 <section class="regione">
 <h2 class="reg"><a href="/veneto/">Veneto</a></h2>
+</section>
+<section class="regione">
+<h2 class="reg"><a href="/toscana/">Toscana</a></h2>
+</section>
+<section class="regione">
+<h2 class="reg"><a href="/lombardia/">Lombardia</a></h2>
+</section>
+<section class="regione">
+<h2 class="reg"><a href="/piemonte/">Piemonte</a></h2>
+</section>
+<section class="regione">
+<h2 class="reg"><a href="/emilia-romagna/">Emilia-Romagna</a></h2>
 </section>
 </div>
 </main>

@@ -25,6 +25,12 @@ body{padding-top:0!important;display:block!important}
 .sh-pan fieldset{border:0;padding:0;margin:0 0 16px}
 .sh-pan legend{font-weight:700;margin-bottom:6px}
 .sh-pan label{display:block;padding:4px 0}
+.sh-bc{max-width:none;margin:0;padding:10px 16px;background:var(--bg);font:14px/1.4 Georgia,'Times New Roman',serif;color:var(--ink)}
+.sh-bc ol{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:2px 0}
+.sh-bc li+li:before{content:'›';margin:0 7px;color:var(--ink);opacity:.6}
+.sh-bc a{color:var(--acc);text-decoration:none}
+.sh-bc a:hover,.sh-bc a:focus-visible{text-decoration:underline}
+.sh-bc [aria-current]{color:var(--ink)}
 .sh-foot{margin-top:40px;padding:18px 16px;border-top:1px solid var(--line);text-align:center;font:14px/1.6 Georgia,'Times New Roman',serif;color:var(--ink)}
 .sh-foot a{color:var(--acc);text-decoration:none;margin:0 8px}
 .sh-foot a:hover{text-decoration:underline}
@@ -42,7 +48,7 @@ var head=document.createElement('header');head.className='sh-head';
 head.innerHTML='<div><button class="sh-b" id="sh-m" aria-label="Menu" title="Menu" aria-expanded="false" aria-controls="sh-pm"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><a class="sh-tit" href="/"><span class="t1">VinoBotte</span><span class="t2">Guida ai produttori vini DOC e DOCG</span></a><div class="sh-dx"><button class="sh-b" id="sh-i" aria-label="Impostazioni" title="Impostazioni" aria-expanded="false" aria-controls="sh-pi"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg></button><button class="sh-b" id="sh-e" type="button" aria-label="Esci" title="Esci"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4M16 17l5-5-5-5M21 12H9"/></svg></button></div>';
 var vel=document.createElement('div');vel.className='sh-vel';vel.hidden=true;
 var pm=document.createElement('nav');pm.id='sh-pm';pm.className='sh-pan sx';pm.setAttribute('aria-label','Menu');
-pm.innerHTML='<button class="sh-b x" data-chiudi>✕</button><h2>Menu</h2><a href="/">Home</a><a href="/veneto/">Veneto</a><div class="sub">'+SEZ.map(function(x){return '<a href="'+x[1]+'">'+x[0]+'</a>'}).join('')+'</div>';
+pm.innerHTML='<button class="sh-b x" data-chiudi>✕</button><h2>Menu</h2><a href="/">Home</a><a href="/veneto/">Veneto</a><div class="sub">'+SEZ.map(function(x){return '<a href="'+x[1]+'">'+x[0]+'</a>'}).join('')+'</div><a href="/toscana/">Toscana</a><a href="/lombardia/">Lombardia</a><a href="/piemonte/">Piemonte</a><a href="/emilia-romagna/">Emilia-Romagna</a>';
 var pi=document.createElement('aside');pi.id='sh-pi';pi.className='sh-pan dx';pi.setAttribute('aria-label','Impostazioni');
 pi.innerHTML='<button class="sh-b x" data-chiudi>✕</button><h2>Impostazioni</h2><fieldset><legend>Tema</legend><label><input type="radio" name="vb-tema" value="auto"> Automatico</label><label><input type="radio" name="vb-tema" value="light"> Chiaro</label><label><input type="radio" name="vb-tema" value="dark"> Scuro</label></fieldset><fieldset><legend>Dimensione del testo</legend><label><input type="radio" name="vb-testo" value="normale"> Normale</label><label><input type="radio" name="vb-testo" value="grande"> Grande</label></fieldset>';
 var foot=document.createElement('footer');foot.className='sh-foot';
@@ -62,4 +68,26 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')chiudi()});
  pi.querySelectorAll('input[name='+n+']').forEach(function(i){i.checked=i.value===v;i.onchange=function(){s(n,i.value);applica()}});
 });
 applica();
+
+(function(){
+ var p=location.pathname.replace(/index\.html$/,''),m,tr=[['Home','/']];
+ var REG={toscana:'Toscana',lombardia:'Lombardia',piemonte:'Piemonte','emilia-romagna':'Emilia-Romagna'};
+ var SEZMAP={};SEZ.forEach(function(x){SEZMAP[x[1].replace(/\//g,'')]=x});
+ var h1=document.querySelector('h1'),nome=h1?h1.textContent.trim():document.title.split(' — ')[0];
+ if(p==='/'||p==='')tr=null;
+ else if(p==='/veneto/')tr.push(['Veneto']);
+ else if((m=p.match(/^\/([a-z-]+)\/$/))&&SEZMAP[m[1]]){tr.push(['Veneto','/veneto/']);tr.push([SEZMAP[m[1]][0]]);}
+ else if((m=p.match(/^\/([a-z-]+)\/$/))&&REG[m[1]])tr.push([REG[m[1]]]);
+ else if(p.indexOf('/pagine/')===0){
+  tr.push(['Veneto','/veneto/']);
+  var mt=document.querySelector('meta[name=vb-sez]'),k=mt&&mt.content;
+  if(k&&SEZMAP[k])tr.push([SEZMAP[k][0],SEZMAP[k][1]]);
+  tr.push([nome]);
+ } else tr.push([nome]);
+ if(tr){
+  var nav=document.createElement('nav');nav.className='sh-bc';nav.setAttribute('aria-label','Percorso');
+  nav.innerHTML='<ol>'+tr.map(function(x,i){var e=String(x[0]).replace(/&/g,'&amp;').replace(/</g,'&lt;');return '<li>'+(x[1]&&i<tr.length-1?'<a href="'+x[1]+'">'+e+'</a>':'<span aria-current="page">'+e+'</span>')+'</li>'}).join('')+'</ol>';
+  var hd=document.querySelector('.sh-head');hd.parentNode.insertBefore(nav,hd.nextSibling);
+ }
+})();
 })();

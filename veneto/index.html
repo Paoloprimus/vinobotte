@@ -9,28 +9,32 @@
 @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif;padding:24px 16px 56px}
-main{max-width:480px;margin:0 auto}
+main{max-width:1080px;margin:0 auto}
 .top a{color:var(--acc);text-decoration:none;font-weight:700}
-.reg{margin:18px 0 10px;font-size:28px;font-weight:400;font-variant:small-caps;letter-spacing:.14em;color:var(--acc)}
-a.vai{display:block;border-bottom:1px solid var(--line);padding:16px 8px;font-size:20px;color:var(--acc);text-decoration:none}
-a.vai:first-of-type{border-top:1px solid var(--line)}
-a.vai:hover,a.vai:focus-visible{text-decoration:underline}
+h1.reg{margin:18px 0 26px;font-size:28px;font-weight:400;font-variant:small-caps;letter-spacing:.14em;color:var(--acc);text-align:center}
+.griglia{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+@media (max-width:900px){.griglia{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:560px){.griglia{grid-template-columns:1fr}}
+a.vai{display:flex;align-items:center;justify-content:center;text-align:center;min-height:84px;padding:14px 12px;border:1px solid var(--line);border-radius:6px;font-size:18px;color:var(--acc);text-decoration:none}
+a.vai:hover,a.vai:focus-visible{border-color:var(--acc);background:rgba(122,31,43,.06)}
 </style>
 </head>
 <body>
 <main>
 <h1 class="reg">Veneto</h1>
-<a class="vai" href="/valpolicella/">Produttori Vini Valpolicella →</a>
-<a class="vai" href="/soave/">Produttori Vini Soave e Recioto di Soave →</a>
-<a class="vai" href="/durello/">Produttori Vini Lessini Durello →</a>
-<a class="vai" href="/bardolino/">Produttori Vini Bardolino →</a>
-<a class="vai" href="/custoza/">Produttori Vini Custoza →</a>
-<a class="vai" href="/prosecco/">Produttori Vini Prosecco DOC →</a>
-<a class="vai" href="/euganei/">Produttori Vini Colli Euganei →</a>
-<a class="vai" href="/venezia/">Produttori Vini Venezia →</a>
-<a class="vai" href="/conegliano/">Produttori Vini Conegliano Valdobbiadene →</a>
-<a class="vai" href="/asolo/">Produttori Vini Asolo Montello →</a>
-<a class="vai" href="/venezie/">Produttori Vini Delle Venezie →</a>
+<div class="griglia">
+<a class="vai" href="/valpolicella/">Valpolicella</a>
+<a class="vai" href="/soave/">Soave e Recioto di Soave</a>
+<a class="vai" href="/durello/">Lessini Durello</a>
+<a class="vai" href="/bardolino/">Bardolino</a>
+<a class="vai" href="/custoza/">Custoza</a>
+<a class="vai" href="/prosecco/">Prosecco DOC</a>
+<a class="vai" href="/euganei/">Colli Euganei</a>
+<a class="vai" href="/venezia/">Venezia</a>
+<a class="vai" href="/conegliano/">Conegliano Valdobbiadene</a>
+<a class="vai" href="/asolo/">Asolo Montello</a>
+<a class="vai" href="/venezie/">Delle Venezie</a>
+</div>
 </main>
 <script src="/shell.js" defer></script>
 </body>
