@@ -2,7 +2,7 @@
 try{history.scrollRestoration='manual'}catch(e){}
 function cima(){window.scrollTo(0,0)}
 cima();window.addEventListener('pageshow',cima);window.addEventListener('load',function(){cima();setTimeout(cima,60)});
-var SEZ=[['Valpolicella','/valpolicella/'],['Soave e Recioto di Soave','/soave/'],['Lessini Durello','/durello/'],['Bardolino','/bardolino/'],['Custoza','/custoza/'],['Prosecco DOC','/prosecco/'],['Colli Euganei','/euganei/'],['Venezia','/venezia/'],['Conegliano Valdobbiadene','/conegliano/'],['Asolo Montello','/asolo/'],['Delle Venezie','/venezie/']];
+var SEZ=[['Valpolicella','/valpolicella/'],['Soave e Recioto di Soave','/soave/'],['Lessini Durello','/durello/'],['Bardolino','/bardolino/'],['Custoza','/custoza/'],['Prosecco DOC','/prosecco/'],['Colli Euganei','/euganei/'],['Venezia','/venezia/'],['Conegliano Valdobbiadene','/conegliano/'],['Asolo Montello','/asolo/'],['Colli Berici','/colli-berici/'],['Gambellara','/gambellara/'],['Garda DOC','/garda/'],['Breganze','/breganze/'],['Delle Venezie','/venezie/']];
 var css=`
 :root[data-theme=light]{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
 :root[data-theme=dark]{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}
@@ -54,7 +54,7 @@ var head=document.createElement('header');head.className='sh-head';
 head.innerHTML='<div><button class="sh-b" id="sh-m" aria-label="Menu" title="Menu" aria-expanded="false" aria-controls="sh-pm"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><a class="sh-tit" href="/"><span class="t1">VinoBotte</span><span class="t2">Guida ai produttori vini DOC e DOCG</span></a><div class="sh-dx"><button class="sh-b" id="sh-i" aria-label="Impostazioni" title="Impostazioni" aria-expanded="false" aria-controls="sh-pi"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg></button><button class="sh-b" id="sh-e" type="button" aria-label="Esci" title="Esci"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4M16 17l5-5-5-5M21 12H9"/></svg></button></div>';
 var vel=document.createElement('div');vel.className='sh-vel';vel.hidden=true;
 var pm=document.createElement('nav');pm.id='sh-pm';pm.className='sh-pan sx';pm.setAttribute('aria-label','Menu');
-pm.innerHTML='<button class="sh-b x" data-chiudi>✕</button><h2>Menu</h2><a href="/">Home</a><a href="/veneto/">Veneto</a><div class="sub">'+SEZ.map(function(x){return '<a href="'+x[1]+'">'+x[0]+'</a>'}).join('')+'</div><a href="/friuli-venezia-giulia/">Friuli Venezia Giulia</a><div class="sub"><a href="/collio/">Collio</a><a href="/colli-orientali/">Friuli Colli Orientali</a><a href="/friuli-grave/">Friuli Grave</a><a href="/friuli-doc/">Friuli DOC</a><a href="/prosecco-fvg/">Prosecco DOC</a></div><a href="/toscana/">Toscana</a><a href="/lombardia/">Lombardia</a><a href="/piemonte/">Piemonte</a><a href="/emilia-romagna/">Emilia-Romagna</a>';
+pm.innerHTML='<button class="sh-b x" data-chiudi>✕</button><h2>Menu</h2><a href="/">Home</a><a href="/veneto/">Veneto</a><div class="sub">'+SEZ.map(function(x){return '<a href="'+x[1]+'">'+x[0]+'</a>'}).join('')+'</div><a href="/friuli-venezia-giulia/">Friuli Venezia Giulia</a><div class="sub"><a href="/collio/">Collio</a><a href="/colli-orientali/">Friuli Colli Orientali</a><a href="/friuli-grave/">Friuli Grave</a><a href="/friuli-doc/">Friuli DOC</a><a href="/prosecco-fvg/">Prosecco DOC</a></div><a href="/toscana/">Toscana</a><a href="/lombardia/">Lombardia</a><div class="sub"><a href="/lugana/">Lugana</a></div><a href="/piemonte/">Piemonte</a><a href="/emilia-romagna/">Emilia-Romagna</a><div class="sub"><a href="/gutturnio/">Gutturnio (Colli Piacentini)</a></div>';
 var pi=document.createElement('aside');pi.id='sh-pi';pi.className='sh-pan dx';pi.setAttribute('aria-label','Impostazioni');
 pi.innerHTML='<button class="sh-b x" data-chiudi>✕</button><h2>Impostazioni</h2><fieldset><legend>Tema</legend><label><input type="radio" name="vb-tema" value="auto"> Automatico</label><label><input type="radio" name="vb-tema" value="light"> Chiaro</label><label><input type="radio" name="vb-tema" value="dark"> Scuro</label></fieldset><fieldset><legend>Dimensione del testo</legend><label><input type="radio" name="vb-testo" value="normale"> Normale</label><label><input type="radio" name="vb-testo" value="grande"> Grande</label></fieldset>';
 var foot=document.createElement('footer');foot.className='sh-foot';
@@ -83,6 +83,8 @@ applica();
  if(p==='/'||p==='')tr=null;
  else if(p==='/veneto/')tr.push(['Veneto']);
  else if(p==='/friuli-venezia-giulia/')tr.push(['Friuli Venezia Giulia']);
+ else if(p==='/lugana/'){tr.push(['Lombardia','/lombardia/']);tr.push(['Lugana']);}
+ else if(p==='/gutturnio/'){tr.push(['Emilia-Romagna','/emilia-romagna/']);tr.push(['Gutturnio (Colli Piacentini)']);}
  else if(p==='/friuli-doc/'){tr.push(['Friuli Venezia Giulia','/friuli-venezia-giulia/']);tr.push(['Friuli DOC']);}
  else if(p==='/friuli-grave/'){tr.push(['Friuli Venezia Giulia','/friuli-venezia-giulia/']);tr.push(['Friuli Grave']);}
  else if(p==='/colli-orientali/'){tr.push(['Friuli Venezia Giulia','/friuli-venezia-giulia/']);tr.push(['Friuli Colli Orientali e Ramandolo']);}
@@ -92,7 +94,9 @@ applica();
  else if((m=p.match(/^\/([a-z-]+)\/$/))&&REG[m[1]])tr.push([REG[m[1]]]);
  else if(p.indexOf('/pagine/')===0){
   var mt=document.querySelector('meta[name=vb-sez]'),k=mt&&mt.content;
-  if(k==='prosecco-fvg'){tr.push(['Friuli Venezia Giulia','/friuli-venezia-giulia/']);tr.push(['Prosecco DOC','/prosecco-fvg/']);}
+  if(k==='lugana'){tr.push(['Lombardia','/lombardia/']);tr.push(['Lugana','/lugana/']);}
+  else if(k==='gutturnio'){tr.push(['Emilia-Romagna','/emilia-romagna/']);tr.push(['Gutturnio (Colli Piacentini)','/gutturnio/']);}
+  else if(k==='prosecco-fvg'){tr.push(['Friuli Venezia Giulia','/friuli-venezia-giulia/']);tr.push(['Prosecco DOC','/prosecco-fvg/']);}
   else if(k==='friuli-doc'){tr.push(['Friuli Venezia Giulia','/friuli-venezia-giulia/']);tr.push(['Friuli DOC','/friuli-doc/']);}
   else if(k==='friuli-grave'){tr.push(['Friuli Venezia Giulia','/friuli-venezia-giulia/']);tr.push(['Friuli Grave','/friuli-grave/']);}
   else if(k==='colli-orientali'){tr.push(['Friuli Venezia Giulia','/friuli-venezia-giulia/']);tr.push(['Friuli Colli Orientali e Ramandolo','/colli-orientali/']);}
