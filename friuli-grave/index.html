@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Friuli Grave — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Friuli Grave</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Friuli Grave</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Albino Armani","s":"albino-armani-friuli-grave","c":"Sequals","d":["Friuli Grave"]},{"n":"Arcania","s":"arcania-friuli-grave","c":"Rive d'Arcano","d":["Friuli Grave"]},{"n":"Azzano","s":"azzano-friuli-grave","c":"Pavia di Udine","d":["Friuli Grave"]},{"n":"Bianchi","s":"bianchi-friuli-grave","c":"San Vito al Tagliamento","d":["Friuli Grave"]},{"n":"Bollacasa Screm","s":"bollacasa-screm-friuli-grave","c":"Azzano Decimo","d":["Friuli Grave"]},{"n":"Borgo Veritas","s":"borgo-veritas-friuli-grave","c":"","d":["Friuli Grave"]},{"n":"Bosco Albano","s":"bosco-albano-friuli-grave","c":"Pasiano di Pordenone","d":["Friuli Grave"]},{"n":"Botter","s":"botter-friuli-grave","c":"Fossalta di Piave","d":["Friuli Grave"]},{"n":"Butussi","s":"butussi-friuli-grave","c":"Corno di Rosazzo","d":["Friuli Grave"]},{"n":"Cabert (Cantina di Bertiolo)","s":"cabert-friuli-grave","c":"Bertiolo","d":["Friuli Grave"]},{"n":"Cantina di Conegliano, Vittorio Veneto e Casarsa","s":"cantina-di-conegliano-vittorio-veneto-e-casarsa-friuli-grave","c":"Vittorio Veneto","d":["Friuli Grave"]},{"n":"Cantina Rauscedo","s":"cantina-rauscedo-friuli-grave","c":"San Giorgio della Richinvelda","d":["Friuli Grave"]},{"n":"Casula","s":"casula-friuli-grave","c":"Fiume Veneto","d":["Friuli Grave"]},{"n":"Ca’ de Mocenigo","s":"ca-de-mocenigo-friuli-grave","c":"Caneva","d":["Friuli Grave"]},{"n":"Del Poggio","s":"del-poggio-friuli-grave","c":"Fagagna","d":["Friuli Grave"]},{"n":"Driutti","s":"driutti-friuli-grave","c":"Manzano","d":["Friuli Grave"]},{"n":"Ferrin","s":"ferrin-friuli-grave","c":"Camino al Tagliamento","d":["Friuli Grave"]},{"n":"Fossa Mala","s":"fossa-mala-friuli-grave","c":"Fiume Veneto","d":["Friuli Grave"]},{"n":"Gelisi","s":"gelisi-friuli-grave","c":"San Quirino","d":["Friuli Grave"]},{"n":"Gruppo Martellozzo","s":"gruppo-martellozzo-friuli-grave","c":"San Quirino","d":["Friuli Grave"]},{"n":"I Magredi","s":"i-magredi-friuli-grave","c":"San Giorgio della Richinvelda","d":["Friuli Grave"]},{"n":"Le Due Torri","s":"le-due-torri-friuli-grave","c":"Corno di Rosazzo","d":["Friuli Grave"]},{"n":"Le Monde","s":"le-monde-friuli-grave","c":"Prata di Pordenone","d":["Friuli Grave"]},{"n":"Lea Winery","s":"lea-winery-friuli-grave","c":"San Vito al Tagliamento","d":["Friuli Grave"]},{"n":"Pighin","s":"pighin-friuli-grave","c":"Pavia di Udine","d":["Friuli Grave"]},{"n":"Pitars","s":"pitars-friuli-grave","c":"San Martino al Tagliamento","d":["Friuli Grave"]},{"n":"Quinta della Luna","s":"quinta-della-luna-friuli-grave","c":"San Quirino","d":["Friuli Grave"]},{"n":"Rapais","s":"rapais-friuli-grave","c":"Maniago","d":["Friuli Grave"]},{"n":"San Simone","s":"san-simone-friuli-grave","c":"Porcia","d":["Friuli Grave"]},{"n":"Sbaiz","s":"sbaiz-friuli-grave","c":"Camino al Tagliamento","d":["Friuli Grave"]},{"n":"Stocco","s":"stocco-friuli-grave","c":"Bicinicco","d":["Friuli Grave"]},{"n":"Tenuta Fernanda Cappello","s":"tenuta-fernanda-cappello-friuli-grave","c":"Sequals","d":["Friuli Grave"]},{"n":"Terre Rosse","s":"terre-rosse-friuli-grave","c":"Bicinicco","d":["Friuli Grave"]},{"n":"Tomasella","s":"tomasella-friuli-grave","c":"Mansuè","d":["Friuli Grave"]},{"n":"Vendrame – Vignis del Doge","s":"vendrame-vignis-del-doge-friuli-grave","c":"Codroipo","d":["Friuli Grave"]},{"n":"Vignaioli Veneto Friulani","s":"vignaioli-veneto-friulani-friuli-grave","c":"Fontanelle","d":["Friuli Grave"]},{"n":"Vigneti Pittaro","s":"vigneti-pittaro-friuli-grave","c":"Codroipo","d":["Friuli Grave"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    
