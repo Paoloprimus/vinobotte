@@ -37,10 +37,10 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Azienda Agricola Pieriboni","s":"azienda-agricola-pieriboni-gambellara","c":"Montebello Vicentino","d":["Gambellara"]},{"n":"Azienda Vitivinicola Marchetto","s":"azienda-vitivinicola-marchetto-gambellara","c":"Gambellara","d":["Gambellara"]},{"n":"Cantina Sociale Gambellara","s":"cantina-sociale-gambellara-gambellara","c":"Gambellara","d":["Gambellara"]},{"n":"Roberto Zonin","s":"roberto-zonin-gambellara","c":"Gambellara","d":["Gambellara"]}];
+    const D=[{"n":"Azienda Agricola Pieriboni","s":"azienda-agricola-pieriboni","c":"Montebello Vicentino","d":["Gambellara"]},{"n":"Azienda Vitivinicola Marchetto","s":"azienda-vitivinicola-marchetto","c":"Gambellara","d":["Gambellara"]},{"n":"Cantina Sociale Gambellara","s":"cantina-sociale-gambellara","c":"Gambellara","d":["Gambellara"]},{"n":"Roberto Zonin","s":"roberto-zonin","c":"Gambellara","d":["Gambellara"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
-    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
     function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
     function mostra(){
      const t=norm(q.value.trim());

@@ -37,10 +37,10 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Azienda Agricola Conati","s":"azienda-agricola-conati-lugana","c":"Fumane","d":["Lugana"]},{"n":"Azienda Agricola Fraccaroli","s":"azienda-agricola-fraccaroli-lugana","c":"Peschiera del Garda","d":["Lugana"]},{"n":"Azienda Agricola La Ghidina","s":"azienda-agricola-la-ghidina-lugana","c":"Villafranca di Verona","d":["Lugana"]},{"n":"Azienda Agricola Ottella","s":"azienda-agricola-ottella-lugana","c":"San Benedetto di Lugana Peschiera del Garda","d":["Lugana"]},{"n":"Cantina Sociale Gambellara","s":"cantina-sociale-gambellara-lugana","c":"Gambellara","d":["Lugana"]},{"n":"Corte Sermana","s":"corte-sermana-lugana","c":"Peschiera del Garda","d":["Lugana"]}];
+    const D=[{"n":"Azienda Agricola Conati","s":"azienda-agricola-conati","c":"Fumane","d":["Lugana"]},{"n":"Azienda Agricola Fraccaroli","s":"azienda-agricola-fraccaroli","c":"Peschiera del Garda","d":["Lugana"]},{"n":"Azienda Agricola La Ghidina","s":"azienda-agricola-la-ghidina","c":"Villafranca di Verona","d":["Lugana"]},{"n":"Azienda Agricola Ottella","s":"azienda-agricola-ottella","c":"San Benedetto di Lugana Peschiera del Garda","d":["Lugana"]},{"n":"Cantina Sociale Gambellara","s":"cantina-sociale-gambellara","c":"Gambellara","d":["Lugana"]},{"n":"Corte Sermana","s":"corte-sermana","c":"Peschiera del Garda","d":["Lugana"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
-    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
     function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
     function mostra(){
      const t=norm(q.value.trim());

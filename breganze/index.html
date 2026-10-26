@@ -37,10 +37,10 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Azienda Agricola Firmino Miotti","s":"azienda-agricola-firmino-miotti-breganze","c":"Breganze","d":["Breganze"]},{"n":"Maculan","s":"maculan-breganze","c":"Breganze","d":["Breganze"]}];
+    const D=[{"n":"Azienda Agricola Firmino Miotti","s":"azienda-agricola-firmino-miotti","c":"Breganze","d":["Breganze"]},{"n":"Maculan","s":"maculan","c":"Breganze","d":["Breganze"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
-    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
     function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
     function mostra(){
      const t=norm(q.value.trim());
