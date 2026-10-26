@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Azienda Agricola Costalunga","s":"azienda-agricola-costalunga-colli-berici","c":"Castegnero","d":["Colli Berici"]},{"n":"Cantina Mattiello","s":"cantina-mattiello-colli-berici","c":"Longare","d":["Colli Berici"]},{"n":"Cantina Sociale Gambellara","s":"cantina-sociale-gambellara-colli-berici","c":"Gambellara","d":["Colli Berici"]},{"n":"Fattoria Le Vegra","s":"fattoria-le-vegra-colli-berici","c":"Arcugnano","d":["Colli Berici"]}];
+    const D=[{"n":"Azienda Agricola Costalunga","s":"azienda-agricola-costalunga-colli-berici","c":"Castegnero","d":["Colli Berici"]},{"n":"Cantina Mattiello","s":"cantina-mattiello-colli-berici","c":"Longare","d":["Colli Berici"]},{"n":"Cantina Sociale Gambellara","s":"cantina-sociale-gambellara-colli-berici","c":"Gambellara","d":["Colli Berici"]},{"n":"Fattoria Le Vegra","s":"fattoria-le-vegra-colli-berici","c":"Arcugnano","d":["Colli Berici"]},{"n":"Pegoraro","s":"pegoraro-colli-berici","c":"Barbarano Mossano","d":["Colli Berici"]},{"n":"PuntoZero","s":"puntozero-colli-berici","c":"Lonigo","d":["Colli Berici"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
