@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Chianti Colli Senesi — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Chianti Colli Senesi</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Chianti Colli Senesi</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Agricola Fontanelle","s":"agricola-fontanelle-colli-senesi","c":"Chianciano Terme","d":["Chianti Colli Senesi"]},{"n":"Agriturismo La Vigna","s":"agriturismo-la-vigna-colli-senesi","c":"Torrita di Siena","d":["Chianti Colli Senesi"]},{"n":"Banfi","s":"banfi-colli-senesi","c":"Montalcino","d":["Chianti Colli Senesi"]},{"n":"Barbanera","s":"barbanera-colli-senesi","c":"Cetona","d":["Chianti Colli Senesi"]},{"n":"Bichi Borghesi","s":"bichi-borghesi-colli-senesi","c":"Casole d'Elsa","d":["Chianti Colli Senesi"]},{"n":"Bindi Sergardi","s":"bindi-sergardi-colli-senesi","c":"Monteriggioni","d":["Chianti Colli Senesi"]},{"n":"Biologica Allegretti","s":"biologica-allegretti-colli-senesi","c":"Castelnuovo Berardenga","d":["Chianti Colli Senesi"]},{"n":"Borgo Montauto","s":"borgo-montauto-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Borgo Santinovo","s":"borgo-santinovo-colli-senesi","c":"Colle di Val d'Elsa","d":["Chianti Colli Senesi"]},{"n":"Campochiarenti (Medan )","s":"campochiarenti-medan-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Campriano","s":"campriano-colli-senesi","c":"Murlo","d":["Chianti Colli Senesi"]},{"n":"Carpineta Fontalpino","s":"carpineta-fontalpino-colli-senesi","c":"Castelnuovo Berardenga","d":["Chianti Colli Senesi"]},{"n":"Casa Alla Madonna","s":"casa-alla-madonna-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Casa Alle Vacche","s":"casa-alle-vacche-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Casa Lucii Società Agricola Semplice","s":"casa-lucii-societa-agricola-semplice-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Casale Di Falchini","s":"casale-di-falchini-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Castel Di Pugna","s":"castel-di-pugna-colli-senesi","c":"Siena","d":["Chianti Colli Senesi"]},{"n":"Castello Di Farnetella","s":"castello-di-farnetella-colli-senesi","c":"Castelnuovo Berardenga","d":["Chianti Colli Senesi"]},{"n":"Cercignano","s":"cercignano-colli-senesi","c":"Colle di Val d'Elsa","d":["Chianti Colli Senesi"]},{"n":"Cesani Vincenzo","s":"cesani-vincenzo-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Colombaia","s":"colombaia-colli-senesi","c":"Colle di Val d'Elsa","d":["Chianti Colli Senesi"]},{"n":"Consorzio Agrario Di Siena Soc. Coop","s":"consorzio-agrario-di-siena-soc-coop-colli-senesi","c":"Poggibonsi","d":["Chianti Colli Senesi"]},{"n":"F.Lli Vagnoni","s":"f-lli-vagnoni-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Fattoria Belvedere","s":"fattoria-belvedere-colli-senesi","c":"Colle di Val d'Elsa","d":["Chianti Colli Senesi"]},{"n":"Fattoria del Cerro","s":"fattoria-del-cerro-colli-senesi","c":"Montepulciano","d":["Chianti Colli Senesi"]},{"n":"Fattoria Di Fugnano E Bombereto Di Laura Dell’Aira E Roberta Lo Casto","s":"fattoria-di-fugnano-e-bombereto-di-laura-dellaira-e-roberta-lo-casto-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Fattoria La Muraglia","s":"fattoria-la-muraglia-colli-senesi","c":"Monteriggioni","d":["Chianti Colli Senesi"]},{"n":"Fattoria Montepescini","s":"fattoria-montepescini-colli-senesi","c":"Murlo","d":["Chianti Colli Senesi"]},{"n":"Fattoria Poggiarello Agricola Crisbi – Amministrazione Brini","s":"fattoria-poggiarello-agricola-crisbi-amministrazione-brini-colli-senesi","c":"Poggibonsi","d":["Chianti Colli Senesi"]},{"n":"Fornacelle","s":"fornacelle-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Fornaci Di Sotto","s":"fornaci-di-sotto-colli-senesi","c":"Castelnuovo Berardenga","d":["Chianti Colli Senesi"]},{"n":"Guardastelle Agriturismo And Wineyard","s":"guardastelle-agriturismo-and-wineyard-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Il Ciliegio Di Pattaro S. E Figli","s":"il-ciliegio-di-pattaro-s-e-figli-colli-senesi","c":"Monteriggioni","d":["Chianti Colli Senesi"]},{"n":"Il Colombaio Di Santa Chiara Di Logi Alessio","s":"il-colombaio-di-santa-chiara-di-logi-alessio-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Il Drago E La Fornace","s":"il-drago-e-la-fornace-colli-senesi","c":"Colle di Val d'Elsa","d":["Chianti Colli Senesi"]},{"n":"Il Palagione Di Rota M","s":"il-palagione-di-rota-m-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Il Sambuco","s":"il-sambuco-colli-senesi","c":"Monteriggioni","d":["Chianti Colli Senesi"]},{"n":"La Grotta","s":"la-grotta-colli-senesi","c":"S. ANDREA A MONTECCHIO","d":["Chianti Colli Senesi"]},{"n":"La Selva","s":"la-selva-colli-senesi","c":"Siena","d":["Chianti Colli Senesi"]},{"n":"La Torre","s":"la-torre-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Le Bertille","s":"le-bertille-colli-senesi","c":"Montepulciano","d":["Chianti Colli Senesi"]},{"n":"Montalpruno di Tosi","s":"montalpruno-di-tosi-colli-senesi","c":"Poggibonsi","d":["Chianti Colli Senesi"]},{"n":"Monte Chiaro Di Griccioli Alessandro","s":"monte-chiaro-di-griccioli-alessandro-colli-senesi","c":"Siena","d":["Chianti Colli Senesi"]},{"n":"Montemorli","s":"montemorli-colli-senesi","c":"Poggibonsi","d":["Chianti Colli Senesi"]},{"n":"Montenidoli Di Maria Elisabetta Fagiuoli","s":"montenidoli-di-maria-elisabetta-fagiuoli-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Morfini Anna","s":"morfini-anna-colli-senesi","c":"Siena","d":["Chianti Colli Senesi"]},{"n":"Mormoraia","s":"mormoraia-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Podere La Castellaccia","s":"podere-la-castellaccia-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Podere La Marronaia","s":"podere-la-marronaia-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Podere Le Volute","s":"podere-le-volute-colli-senesi","c":"San Gimignano","d":["Chianti Colli Senesi"]},{"n":"Priori Di Nardi Sara","s":"priori-di-nardi-sara-colli-senesi","c":"Monteriggioni","d":["Chianti Colli Senesi"]},{"n":"San Gregorio","s":"san-gregorio-colli-senesi","c":"Chiusi","d":["Chianti Colli Senesi"]},{"n":"Sergio Farnetani","s":"sergio-farnetani-colli-senesi","c":"Sinalunga","d":["Chianti Colli Senesi"]},{"n":"Stomennano","s":"stomennano-colli-senesi","c":"Monteriggioni","d":["Chianti Colli Senesi"]},{"n":"Tenuta Croce Di Bibbiano","s":"tenuta-croce-di-bibbiano-colli-senesi","c":"Poggibonsi","d":["Chianti Colli Senesi"]},{"n":"Tenute Silvio Nardi","s":"tenute-silvio-nardi-colli-senesi","c":"Montalcino","d":["Chianti Colli Senesi"]},{"n":"Torre Alle Tolfe Di Castelli Mania","s":"torre-alle-tolfe-di-castelli-mania-colli-senesi","c":"Siena","d":["Chianti Colli Senesi"]},{"n":"Vecchia Cantina di Montepulciano","s":"vecchia-cantina-di-montepulciano-colli-senesi","c":"Montepulciano","d":["Chianti Colli Senesi"]},{"n":"Vivito","s":"vivito-colli-senesi","c":"Certaldo","d":["Chianti Colli Senesi"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    

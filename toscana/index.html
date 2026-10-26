@@ -9,16 +9,32 @@
 @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif;padding:24px 16px 56px}
-main{max-width:720px;margin:0 auto;text-align:center}
-h1.reg{margin:18px 0 18px;font-size:28px;font-weight:400;font-variant:small-caps;letter-spacing:.14em;color:var(--acc)}
-a{color:var(--acc)}
+main{max-width:1080px;margin:0 auto}
+.top a{color:var(--acc);text-decoration:none;font-weight:700}
+h1.reg{margin:18px 0 26px;font-size:28px;font-weight:400;font-variant:small-caps;letter-spacing:.14em;color:var(--acc);text-align:center}
+.griglia{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+@media (max-width:900px){.griglia{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:560px){.griglia{grid-template-columns:1fr}}
+a.vai{display:flex;align-items:center;justify-content:center;text-align:center;min-height:56px;padding:10px 12px;font-size:19px;color:var(--acc);text-decoration:none}
+a.vai:hover,a.vai:focus-visible{text-decoration:underline}
+.num{margin:-16px 0 22px;font-size:13px;color:var(--ink);opacity:.75;text-align:center;letter-spacing:.02em}
+a.vai{flex-direction:column}
+a.vai small{display:block;margin-top:4px;font-size:13px;color:var(--ink);opacity:.75}
 </style>
 </head>
 <body>
 <main>
 <h1 class="reg">Toscana</h1>
-<p>Sezione in preparazione.</p>
-<p><a href="/">Torna alla home</a></p>
+<p class="num">869 produttori</p>
+<div class="griglia">
+<a class="vai" href="/brunello/">Brunello di Montalcino<small>200 produttori</small></a>
+<a class="vai" href="/chianti-classico/">Chianti Classico<small>309 produttori</small></a>
+<a class="vai" href="/bolgheri/">Bolgheri<small>79 produttori</small></a>
+<a class="vai" href="/nobile/">Nobile di Montepulciano<small>85 produttori</small></a>
+<a class="vai" href="/maremma/">Maremma Toscana<small>114 produttori</small></a>
+<a class="vai" href="/colli-senesi/">Chianti Colli Senesi<small>59 produttori</small></a>
+<a class="vai" href="/valdarno/">Valdarno di Sopra<small>23 produttori</small></a>
+</div>
 </main>
 <script src="/shell.js" defer></script>
 </body>

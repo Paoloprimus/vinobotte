@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Valdarno di Sopra — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Valdarno di Sopra</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Valdarno di Sopra</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Campo del Monte","s":"campo-del-monte-valdarno","c":"Terranuova Bracciolini","d":["Valdarno di Sopra"]},{"n":"Cantina Le Pietre","s":"cantina-le-pietre-valdarno","c":"Reggello","d":["Valdarno di Sopra"]},{"n":"Casanuova-Thilo Besançon","s":"casanuova-thilo-besancon-valdarno","c":"Figline e Incisa Valdarno","d":["Valdarno di Sopra"]},{"n":"Clio Cicogni","s":"clio-cicogni-valdarno","c":"Montevarchi","d":["Valdarno di Sopra"]},{"n":"Fattoria Bellosguardo","s":"fattoria-bellosguardo-valdarno","c":"Castiglion Fibocchi","d":["Valdarno di Sopra"]},{"n":"Fattoria Fazzuoli","s":"fattoria-fazzuoli-valdarno","c":"Terranuova Bracciolini","d":["Valdarno di Sopra"]},{"n":"Fattoria La Traiana","s":"fattoria-la-traiana-valdarno","c":"Terranuova Bracciolini","d":["Valdarno di Sopra"]},{"n":"Il Borro","s":"il-borro-valdarno","c":"Loro Ciuffenna","d":["Valdarno di Sopra"]},{"n":"Il Carnasciale","s":"il-carnasciale-valdarno","c":"Montevarchi","d":["Valdarno di Sopra"]},{"n":"La Salceta","s":"la-salceta-valdarno","c":"Loro Ciuffenna","d":["Valdarno di Sopra"]},{"n":"Mannucci Droandi","s":"mannucci-droandi-valdarno","c":"Montevarchi","d":["Valdarno di Sopra"]},{"n":"Mansalto","s":"mansalto-valdarno","c":"Monte San Savino","d":["Valdarno di Sopra"]},{"n":"Migliarina & Montozzi","s":"migliarina-e-montozzi-valdarno","c":"Bucine","d":["Valdarno di Sopra"]},{"n":"Petrolo","s":"petrolo-valdarno","c":"Montevarchi","d":["Valdarno di Sopra"]},{"n":"Pian del Pino","s":"pian-del-pino-valdarno","c":"Terranuova Bracciolini","d":["Valdarno di Sopra"]},{"n":"Podere La Madia","s":"podere-la-madia-valdarno","c":"Loro Ciuffenna","d":["Valdarno di Sopra"]},{"n":"Podere Ortica","s":"podere-ortica-valdarno","c":"Civitella in Val di Chiana","d":["Valdarno di Sopra"]},{"n":"Tenuta Prato al Sole","s":"tenuta-prato-al-sole-valdarno","c":"Bucine","d":["Valdarno di Sopra"]},{"n":"Tenuta San Jacopo","s":"tenuta-san-jacopo-valdarno","c":"Cavriglia","d":["Valdarno di Sopra"]},{"n":"Tenuta Scrafana","s":"tenuta-scrafana-valdarno","c":"Montevarchi","d":["Valdarno di Sopra"]},{"n":"Tenuta Sette Ponti","s":"tenuta-sette-ponti-valdarno","c":"Castiglion Fibocchi","d":["Valdarno di Sopra"]},{"n":"Villa le Vigne","s":"villa-le-vigne-valdarno","c":"Montevarchi","d":["Valdarno di Sopra"]},{"n":"Èjamu","s":"ejamu-valdarno","c":"Loro Ciuffenna","d":["Valdarno di Sopra"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    
