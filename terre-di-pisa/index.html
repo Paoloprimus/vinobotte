@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"La Piana","s":"la-piana","c":"Palaia","d":["Terre di Pisa"]},{"n":"Podere Spazzavento","s":"podere-spazzavento","c":"Ponsacco","d":["Terre di Pisa Vermentino"]},{"n":"Vallorsi","s":"vallorsi","c":"","d":["Terre di Pisa"]}];
+    const D=[{"n":"Badia di Morrona","s":"badia-di-morrona","c":"Terricciola","d":["Terre di Pisa"]},{"n":"La Piana","s":"la-piana","c":"Palaia","d":["Terre di Pisa"]},{"n":"Pietro Beconcini","s":"pietro-beconcini","c":"San Miniato","d":["Terre di Pisa"]},{"n":"Podere Spazzavento","s":"podere-spazzavento","c":"Ponsacco","d":["Terre di Pisa Vermentino"]},{"n":"Vallorsi","s":"vallorsi","c":"","d":["Terre di Pisa"]},{"n":"Villa Saletta","s":"villa-saletta","c":"","d":["Terre di Pisa"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
