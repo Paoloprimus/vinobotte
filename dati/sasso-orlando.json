@@ -1,0 +1,49 @@
+{
+ "nome": "Tenuta Sasso Orlando",
+ "slug": "sasso-orlando",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Bagnarello, Campiglia Marittima, LI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 333 9222894 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutasassoorlando.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.tenutasassoorlando.it/|tenutasassoorlando.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela DOP Suvereto e Val di Cornia Wine [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle cantine del Consorzio di tutela DOP Suvereto e Val di Cornia Wine, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.suveretowine.com/cantina-suvereto/tenuta-sasso-orlando/",
+   "etichetta": "suveretowine.com"
+  }
+ ]
+}

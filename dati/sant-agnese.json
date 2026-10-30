@@ -1,0 +1,63 @@
+{
+ "nome": "Sant'Agnese",
+ "slug": "sant-agnese",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda agricola Sant'Agnese di Paolo Gigli [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01760550499 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Campo alle Fave 1, Piombino, LI [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0565 277069 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@santagnesefarm.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://santagnesefarm.it/|santagnesefarm.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela DOP Suvereto e Val di Cornia Wine [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://santagnesefarm.it/",
+   "etichetta": "santagnesefarm.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle cantine del Consorzio di tutela DOP Suvereto e Val di Cornia Wine, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.suveretowine.com/cantina-suvereto/santagnese/",
+   "etichetta": "suveretowine.com"
+  }
+ ]
+}

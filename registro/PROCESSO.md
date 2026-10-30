@@ -66,3 +66,4 @@ Il generatore delle schede nasce in `valpolicella-web/annuario` (24/10). Poi il 
 - Promosse 33 cantine (28 toscane, 5 liguri): `arricchimenti/wip_promossi.json` + `rifusione/aggiungi_wip.py` (nel rebuild dopo aggiungi_montecucco). Nuova regione Liguria (gruppo Colli di Luni).
 - Siti trovati sbagliati e corretti nella lista: La Tommasina e Via del Ferro (Piemonte), Morandi (Arezzo), Carlini (Rimini), Terre della Luna (Franciacorta), scambio Fattoria La Torre / Fattoria Tori.
 - Restano in `wip/schede-wip.csv` le cantine senza DOC/DOCG indicata sul sito o senza sede, con il motivo nella colonna Stato.
+- Val di Cornia: altre 7 cantine promosse con sede e contatti dalla scheda del consorzio (suveretowine.com): Bulichella, Montepeloso, Macchion dei Lupi, Rigoli, Sasso Orlando, Monte Solaio, Sant'Agnese. Totale promosse dalla lista: 40.

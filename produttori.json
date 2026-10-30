@@ -43513,5 +43513,110 @@
 "lucchi-e-guastalli"
 ],
 "primario": "lucchi-e-guastalli"
+},
+{
+"slug": "bulichella",
+"nome": "Bulichella",
+"regione": "Toscana",
+"comune": "Suvereto",
+"tipi": {
+"val-di-cornia": [
+"Val di Cornia"
+]
+},
+"membri": [
+"bulichella"
+],
+"primario": "bulichella"
+},
+{
+"slug": "montepeloso",
+"nome": "Montepeloso",
+"regione": "Toscana",
+"comune": "Suvereto",
+"tipi": {
+"val-di-cornia": [
+"Val di Cornia"
+]
+},
+"membri": [
+"montepeloso"
+],
+"primario": "montepeloso"
+},
+{
+"slug": "macchion-dei-lupi",
+"nome": "Macchion dei Lupi",
+"regione": "Toscana",
+"comune": "Suvereto",
+"tipi": {
+"val-di-cornia": [
+"Val di Cornia"
+]
+},
+"membri": [
+"macchion-dei-lupi"
+],
+"primario": "macchion-dei-lupi"
+},
+{
+"slug": "rigoli",
+"nome": "Rigoli",
+"regione": "Toscana",
+"comune": "Campiglia Marittima",
+"tipi": {
+"val-di-cornia": [
+"Val di Cornia"
+]
+},
+"membri": [
+"rigoli"
+],
+"primario": "rigoli"
+},
+{
+"slug": "sasso-orlando",
+"nome": "Tenuta Sasso Orlando",
+"regione": "Toscana",
+"comune": "Campiglia Marittima",
+"tipi": {
+"val-di-cornia": [
+"Val di Cornia"
+]
+},
+"membri": [
+"sasso-orlando"
+],
+"primario": "sasso-orlando"
+},
+{
+"slug": "monte-solaio",
+"nome": "Monte Solaio",
+"regione": "Toscana",
+"comune": "Campiglia Marittima",
+"tipi": {
+"val-di-cornia": [
+"Val di Cornia"
+]
+},
+"membri": [
+"monte-solaio"
+],
+"primario": "monte-solaio"
+},
+{
+"slug": "sant-agnese",
+"nome": "Sant'Agnese",
+"regione": "Toscana",
+"comune": "Piombino",
+"tipi": {
+"val-di-cornia": [
+"Val di Cornia"
+]
+},
+"membri": [
+"sant-agnese"
+],
+"primario": "sant-agnese"
 }
 ]

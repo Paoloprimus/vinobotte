@@ -837,5 +837,173 @@
   "consorzio": null,
   "regione": "Liguria",
   "url_consorzio": ""
+ },
+ {
+  "wip": "Bulichella",
+  "slug": "bulichella",
+  "nome": "Bulichella",
+  "comune": "Suvereto",
+  "sede": "Località Bulichella 131, Suvereto, LI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0565 829892",
+  "email": "info@bulichella.it",
+  "sito": "https://www.bulichella.it/",
+  "dom": "bulichella.it",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/la-bulichella/",
+  "dati_consorzio": true
+ },
+ {
+  "wip": "Montepeloso",
+  "slug": "montepeloso",
+  "nome": "Montepeloso",
+  "comune": "Suvereto",
+  "sede": "Località Poggetto, Zona Artigianale, Suvereto, LI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0565 828180",
+  "email": "contact@montepeloso.it",
+  "sito": "https://www.montepeloso.it/it/home.html",
+  "dom": "montepeloso.it",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/montepeloso/",
+  "dati_consorzio": true
+ },
+ {
+  "wip": "Macchion dei Lupi",
+  "slug": "macchion-dei-lupi",
+  "nome": "Macchion dei Lupi",
+  "comune": "Suvereto",
+  "sede": "Località Acquari 192, Suvereto, LI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 347 3240899",
+  "email": "info@macchiondeilupi.it",
+  "sito": "https://macchiondeilupi.it/",
+  "dom": "macchiondeilupi.it",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/macchion-dei-lupi/",
+  "dati_consorzio": true
+ },
+ {
+  "wip": "Rigoli",
+  "slug": "rigoli",
+  "nome": "Rigoli",
+  "comune": "Campiglia Marittima",
+  "sede": "Via degli Ulivi 8, Campiglia Marittima, LI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 329 3160822",
+  "email": "info@rigolivini.com",
+  "sito": "https://rigolivini.com/",
+  "dom": "rigolivini.com",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/rigoli/",
+  "dati_consorzio": true
+ },
+ {
+  "wip": "Sasso Orlando",
+  "slug": "sasso-orlando",
+  "nome": "Tenuta Sasso Orlando",
+  "comune": "Campiglia Marittima",
+  "sede": "Località Bagnarello, Campiglia Marittima, LI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 333 9222894",
+  "email": "info@tenutasassoorlando.it",
+  "sito": "http://www.tenutasassoorlando.it/",
+  "dom": "tenutasassoorlando.it",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/tenuta-sasso-orlando/",
+  "dati_consorzio": true
+ },
+ {
+  "wip": "Monte Solaio",
+  "slug": "monte-solaio",
+  "nome": "Monte Solaio",
+  "comune": "Campiglia Marittima",
+  "sede": "Via di Venturina 17, Campiglia Marittima, LI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0565 843291",
+  "email": "info@montesolaio.com",
+  "sito": "https://www.montesolaio.com/",
+  "dom": "montesolaio.com",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/montesolaio/",
+  "dati_consorzio": true
+ },
+ {
+  "wip": "Sant'Agnese (Suvereto)",
+  "slug": "sant-agnese",
+  "nome": "Sant'Agnese",
+  "comune": "Piombino",
+  "sede": "Località Campo alle Fave 1, Piombino, LI",
+  "rag": "Azienda agricola Sant'Agnese di Paolo Gigli",
+  "piva": "01760550499",
+  "tel": "+39 0565 277069",
+  "email": "info@santagnesefarm.it",
+  "sito": "https://santagnesefarm.it/",
+  "dom": "santagnesefarm.it",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/santagnese/",
+  "dati_consorzio": true
  }
 ]
