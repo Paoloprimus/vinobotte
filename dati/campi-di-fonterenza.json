@@ -1,0 +1,109 @@
+{
+ "nome": "Campi di Fonterenza",
+ "slug": "campi-di-fonterenza",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01432180527 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Fonterenza, 99 Sant'Angelo in Colle,53020 Montalcino [[1]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 338 4620489\n+39 3473157605 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "francesca1976padovani@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://fonterenza.it/|fonterenza.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Brunello di Montalcino DOCG; Rosso di Montalcino DOC [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Brunello di Montalcino [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Sangiovese; Brunello di Montalcino [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=14165626596969167390|Mappa}} — valutazione 5 su 5 (11 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://fonterenza.it/",
+   "etichetta": "fonterenza.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 27 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-campi-di-fonterenza/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://fonterenza.it/",
+   "etichetta": "fonterenza.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Fonterenza Società Agricola Semplice di Francesca e Margherita Padovani» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=14165626596969167390",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

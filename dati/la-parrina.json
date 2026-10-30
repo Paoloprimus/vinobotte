@@ -1,0 +1,132 @@
+{
+ "nome": "La Parrina",
+ "slug": "la-parrina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Antica Fattoria La Parrina [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01387150533 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada della Parrina snc, 58015 Albinia (Orbetello), GR [[2]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0564 862626 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "agriturismo@parrina.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.parrina.it/|parrina.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Parrina DOC [[4]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Parrina DOC [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Parrina DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Tre Bicchieri del Gambero Rosso 2019 e 2021\nIWSC: Silver Award [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/anticafattorialaparrina|anticafattorialaparrina}}\nInstagram {{https://www.instagram.com/anticafattorialaparrina/|@anticafattorialaparrina}} [[5]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://shop.parrina.it/|shop.parrina.it}} [[5]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "https://www.parrina.it/",
+   "etichetta": "parrina.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://www.parrina.it/",
+   "etichetta": "parrina.it"
+  },
+  {
+   "n": 3,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 26 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-la-parrina/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://www.parrina.it/",
+   "etichetta": "parrina.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.parrina.it/",
+   "etichetta": "parrina.it"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

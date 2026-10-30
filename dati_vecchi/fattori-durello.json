@@ -1,0 +1,153 @@
+{
+ "nome": "Fattori",
+ "slug": "fattori-durello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Fattori s.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Olmo 4, località Terrossa, 37030 Roncà (VR) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fattoriwines.com/|www.fattoriwines.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[2]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Valpolicella: {{/pagine/fattori.html|scheda Valpolicella}} [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Soave e Recioto di Soave: {{/pagine/fattori-soave.html|scheda Soave}} [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Vigneti sulle colline di Terrossa dalla fine dell’800 con Antonio e il padre Daniele (1888); oggi la famiglia con Antonio Fattori [[4]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Amarone da vigneto di 16,5 ettari a Bastia (Montecchia di Crosara), a 450 m, coltivazione biologica [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione Lessini Durello (Monti Lessini) letto nelle pagine della cantina; le annate non sono indicate.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "36 Brut Durello",
+     "denominazione": "Lessini Durello DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "60 Pas Dosé Durello",
+     "denominazione": "Lessini Durello DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Brut Durello",
+     "denominazione": "Metodo Classico (denominazione non indicata)",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Lessini Durello nelle pagine lette"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "fattoriwines.com con schede PDF dei vini e certificazione SQNPI [[9]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito della cantina; elenco del consorzio consultato dal vivo). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «2».",
+   "url": "https://fattoriwines.com/2",
+   "etichetta": "fattoriwines.com/2"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti/2/4/18».",
+   "url": "https://fattoriwines.com/prodotti/2/4/18",
+   "etichetta": "fattoriwines.com/prodotti/2/4/18"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti/2/7/14».",
+   "url": "https://fattoriwines.com/prodotti/2/7/14",
+   "etichetta": "fattoriwines.com/prodotti/2/7/14"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti/2/7/8».",
+   "url": "https://fattoriwines.com/prodotti/2/7/8",
+   "etichetta": "fattoriwines.com/prodotti/2/7/8"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti/2/7/22».",
+   "url": "https://fattoriwines.com/prodotti/2/7/22",
+   "etichetta": "fattoriwines.com/prodotti/2/7/22"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti/2/3/12».",
+   "url": "https://fattoriwines.com/prodotti/2/3/12",
+   "etichetta": "fattoriwines.com/prodotti/2/3/12"
+  }
+ ]
+}

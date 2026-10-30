@@ -1,0 +1,182 @@
+{
+ "nome": "Cantina Valetti",
+ "slug": "valetti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Vinicola Valetti Luigi S.r.l.; P.IVA 03924330230 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Pragrande 8, 37011 Bardolino (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7235075; valetti@valetti.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.valetti.it/|www.valetti.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Bardolino D.O.C. [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Struttura",
+     "valore": "Cantina nuova a Bardolino con barricaia per i grandi rossi veronesi [[4]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Grappe (Amarone, Bardolino) e olio extravergine [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella e il rosso IGT; la cantina produce soprattutto Bardolino, Chiaretto, Lugana, Custoza e altri. Il sito non riporta le annate. [[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[12]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[9]]"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino Classico DOC; Bardolino Classico Superiore DOCG; Chiaretto di Bardolino spumante DOC; Chiaretto di Bardolino Classico DOC; Montebaldo Bardolino DOC [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite guidate e degustazioni tutti i giorni su prenotazione [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Pagina Shop online sul sito; altri marketplace: presenza non verificata [[11]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://valetti.it/contatti/",
+   "etichetta": "valetti.it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «cantina».",
+   "url": "https://valetti.it/cantina/",
+   "etichetta": "valetti.it/cantina"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini/grappe-e-olio».",
+   "url": "https://valetti.it/vini/grappe-e-olio/",
+   "etichetta": "valetti.it/vini/grappe-e-olio"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://valetti.it/vini/",
+   "etichetta": "valetti.it/vini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «vino/amarone-della-valpolicella-doc-primo-calice».",
+   "url": "https://valetti.it/vino/amarone-della-valpolicella-doc-primo-calice/",
+   "etichetta": "valetti.it/vino/amarone-della-valpolicella-doc-primo-calice"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «vino/valpolicella-ripasso-superiore-doc-primo-calice».",
+   "url": "https://valetti.it/vino/valpolicella-ripasso-superiore-doc-primo-calice/",
+   "etichetta": "valetti.it/vino/valpolicella-ripasso-superiore-doc-primo-calice"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «vino/valpolicella-doc».",
+   "url": "https://valetti.it/vino/valpolicella-doc/",
+   "etichetta": "valetti.it/vino/valpolicella-doc"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «degustazioni».",
+   "url": "https://valetti.it/degustazioni/",
+   "etichetta": "valetti.it/degustazioni"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «shop-online».",
+   "url": "https://valetti.it/shop-online/",
+   "etichetta": "valetti.it/shop-online"
+  },
+  {
+   "n": 12,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/azienda-vinicola-valetti-luigi-srl/",
+   "etichetta": "consorziobardolino.it"
+  }
+ ]
+}

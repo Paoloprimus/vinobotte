@@ -1,0 +1,104 @@
+{
+ "nome": "Villa Russiz",
+ "slug": "villa-russiz",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Russiz 4/6, 34070 Capriva del Friuli (GO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0481 80047[[1]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "odv@villarussiz.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.villarussiz.it|villarussiz.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Collio [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Legata alla Fondazione Villa Russiz, attiva dal 1891 nell’accoglienza di minori in difficoltà. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Collio",
+     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://villarussiz.it/shop|villarussiz.it/shop}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=5111284587473980773|Mappa}} — valutazione 4,7 su 5 (144 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Collio, scheda della cantina nell’elenco dei produttori, consultata il 25 ottobre 2026.",
+   "url": "https://www.collio.it/cantina/villa-russiz/",
+   "etichetta": "collio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.villarussiz.it",
+   "etichetta": "villarussiz.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Fondazione Villa Russiz» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=5111284587473980773",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

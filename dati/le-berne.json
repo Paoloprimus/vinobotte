@@ -1,0 +1,124 @@
+{
+ "nome": "Le Berne",
+ "slug": "le-berne",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "SOC. AGRICOLA LE BERNE S.S. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Poggio Golo, 7 – 53045 – Cervognano di Montepulciano [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0578767328 [[2]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@leberne.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.leberne.it|leberne.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Nobile di Montepulciano [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nel 1967 Giuliano Natalini e il padre Egisto acquistano il podere mezzadrile dove già vivevano. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Vino Nobile di Montepulciano DOCG; Vino Nobile di Montepulciano Riserva DOCG; Rosso di Montepulciano DOC; Vin Santo di Montepulciano DOC [[4]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Vino Nobile di Montepulciano DOCG; Rosso di Montepulciano DOC; Vin Santo di Montepulciano DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/leberne|leberne}}\nInstagram {{https://www.instagram.com/le_berne_winery/|@le_berne_winery}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=15994516027687464313|Mappa}} — valutazione 4,9 su 5 (238 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.leberne.it",
+   "etichetta": "leberne.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio del Vino Nobile di Montepulciano, scheda dell’azienda nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://aziendeconsorziovinonobile.it/scheda/le-berne/",
+   "etichetta": "aziendeconsorziovinonobile.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.leberne.it",
+   "etichetta": "leberne.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.leberne.it",
+   "etichetta": "leberne.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Le Bèrne - Vino Nobile di Montepulciano» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=15994516027687464313",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

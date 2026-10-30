@@ -1,0 +1,82 @@
+{
+ "nome": "Tenuta Maule",
+ "slug": "tenuta-maule-durello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Non disponibile: la scheda del Consorzio non era raggiungibile il 24 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Non disponibile nelle fonti consultate"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio di Tutela della DOC Prosecco: {{/pagine/tenuta-maule-prosecco.html|scheda Prosecco DOC}} [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Lessini Durello",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  }
+ ]
+}

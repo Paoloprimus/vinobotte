@@ -1,0 +1,108 @@
+{
+ "nome": "Fattoria della Talosa",
+ "slug": "fattoria-della-talosa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Fattoria della Talosa Società Agricola S.a.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00136070521 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Talosa, 8 – 53045 – Montepulciano [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0578757929 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.talosa.it|talosa.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Nobile di Montepulciano [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Proprietà dell'imprenditore romano Angelo Jacorossi e della sua famiglia dal 1972. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Vino Nobile di Montepulciano DOCG; Rosso di Montepulciano DOC; Chianti Colli Senesi DOCG; Vin Santo di Montepulciano DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=4905460002774412695|Mappa}} — valutazione 4,7 su 5 (260 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.talosa.it",
+   "etichetta": "talosa.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio del Vino Nobile di Montepulciano, scheda dell’azienda nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://aziendeconsorziovinonobile.it/scheda/fattoria-della-talosa/",
+   "etichetta": "aziendeconsorziovinonobile.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Talosa - Cantina Storica» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=4905460002774412695",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

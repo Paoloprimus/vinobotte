@@ -1,0 +1,168 @@
+{
+ "nome": "Masottina",
+ "slug": "masottina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Masottina [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Custoza 2, 31020, Conegliano (Tv) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0438 400775 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@masottina.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.masottina.it/|masottina.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Vini Venezia [[4]]\nConsorzio Tutela Vini DOC Delle Venezie [[5]]"
+    },
+    {
+     "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
+     "valore": "Via Brandolini, 54, 31020 Castello Roganzuolo (TV); tel. +390438400775; info@masottina.it; www.masottina.it [[3]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via Bradolini 54 - 31020 Castello Roganzuolo - Treviso TV Italia; tel. 0438 402034; info@masottina.it; masottina.it [[5]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
+     "valore": "31015 Conegliano; info@masottina.it; denominazioni: Venezia [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: \"Rive\" brut, \"Rive\" extra dry, brut, extra dry [[3]]"
+    }
+   ],
+   "vini": [
+    {
+     "nome": "Pinot Grigio Dorsoduro",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Pinot Grigio Dorsoduro single vineyard",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[5]]"
+    }
+   ],
+   "tipo": "vini"
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "E-commerce; Vendita al dettaglio [[3]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fra 100.000 e 500.000 bottiglie [[3]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "Biologico; SQNPI [[3]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=5564107972500757927|Mappa}} — valutazione 4,4 su 5 (45 recensioni) [[6]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[7]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 29 ottobre 2026.",
+   "url": "https://www.masottina.it/",
+   "etichetta": "masottina.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/masottina/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 6,
+   "testo": "Scheda «Masottina» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=5564107972500757927",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 7,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

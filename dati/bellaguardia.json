@@ -1,0 +1,155 @@
+{
+ "nome": "Bellaguardia",
+ "slug": "bellaguardia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "BELLAGUARDIA S.S. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Ziggiotti, 36075 Montecchio Maggiore (VI) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 347 6800188 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bellaguardia.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.bellaguardia.it|bellaguardia.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Lessini Durello DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Spumanti Metodo Classico affinati nelle grotte sotto il castello di Giulietta a Montecchio Maggiore, a 10-12 gradi; le cuvée più profonde, a 25 metri, restano sui lieviti oltre vent’anni [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito elenca nove spumanti Metodo Classico, con la sola scheda tecnica in PDF; la denominazione non è indicata. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Bellaguardia ZERO",
+     "denominazione": "Denominazione non indicata (spumante Metodo Classico, linea Cuvée)",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Bellaguardia EXTRABRUT",
+     "denominazione": "Denominazione non indicata (spumante Metodo Classico, linea Cuvée)",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Bellaguardia 1920",
+     "denominazione": "Denominazione non indicata (spumante Metodo Classico, linea Purezze)",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Bellaguardia Millenovecento20",
+     "denominazione": "Denominazione non indicata (spumante Metodo Classico, linea Purezze; edizione limitata)",
+     "annata": "2019 [[3]]"
+    },
+    {
+     "nome": "Bellaguardia Capuleti Rosé",
+     "denominazione": "Denominazione non indicata (spumante Metodo Classico)",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Bellaguardia Montecchi",
+     "denominazione": "Denominazione non indicata (spumante Metodo Classico)",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Bellaguardia Archivio 1302",
+     "denominazione": "Denominazione non indicata (spumante Metodo Classico, linea Riserva Archivio)",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Bellaguardia Archivio Romeo",
+     "denominazione": "Denominazione non indicata (spumante Metodo Classico, linea Riserva Archivio)",
+     "annata": "2013 (esaurito) [[3]]"
+    },
+    {
+     "nome": "Bellaguardia Archivio Bianco Pietra",
+     "denominazione": "Denominazione non indicata (spumante Metodo Classico, linea Riserva Archivio)",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/bellaguardiacastelli|bellaguardiacastelli}}\nInstagram {{https://www.instagram.com/bellaguardia_metodoclassico/|@bellaguardia_metodoclassico}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=4119416212760995343|Mappa}} — valutazione 4,8 su 5 (16 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://montilessini.com/bellaguardia/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «bellaguardia.it/vini», consultata il 24 ottobre 2026.",
+   "url": "https://www.bellaguardia.it/vini",
+   "etichetta": "bellaguardia.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.bellaguardia.it",
+   "etichetta": "bellaguardia.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Bellaguardia» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=4119416212760995343",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

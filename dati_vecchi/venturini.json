@@ -1,0 +1,174 @@
+{
+ "nome": "Venturini",
+ "slug": "venturini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agr. Venturini Massimino e Figli s.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Wine shop Via Semonte 20, San Pietro in Cariano; sede produttiva Via Olmi 9, San Pietro in Cariano [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Ufficio +39 045 7701331; info@viniventurini.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.viniventurini.com/|www.viniventurini.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda agricola Venturini Massimino dal 1963 a San Floriano; oggi Daniele e Mirco con la quarta generazione [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "15 ettari sulle colline della Valpolicella Classica, 250 m, esposizione sud-ovest; Corvina, Corvinone, Rondinella, Molinara [[3]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine di oliva [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito descrive le linee per tipologia (Amarone, Recioto, Valpolicella Classico, IGT) senza schede nominative con annata; le tipologie sono quelle indicate nelle pagine dedicate. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–sab 8:30–12:30 e 14–18:30; domenica su prenotazione [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visita guidata in cantina e degustazioni su prenotazione [[9]] [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Pagina “Dove acquistare” sul sito; marketplace: presenza non verificata [[11]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.viniventurini.com/contatti/",
+   "etichetta": "viniventurini.com/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://www.viniventurini.com/chi-siamo/",
+   "etichetta": "viniventurini.com/chi-siamo"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «olio-extravergine-doliva».",
+   "url": "https://www.viniventurini.com/olio-extravergine-doliva/",
+   "etichetta": "viniventurini.com/olio-extravergine-doliva"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini-tradizionali».",
+   "url": "https://www.viniventurini.com/vini-tradizionali/",
+   "etichetta": "viniventurini.com/vini-tradizionali"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «vino-amarone-della-valpolicella».",
+   "url": "https://www.viniventurini.com/vino-amarone-della-valpolicella/",
+   "etichetta": "viniventurini.com/vino-amarone-della-valpolicella"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «vino-recioto-docg-valpolicella».",
+   "url": "https://www.viniventurini.com/vino-recioto-docg-valpolicella/",
+   "etichetta": "viniventurini.com/vino-recioto-docg-valpolicella"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «vini-classici-valpolicella-vino-classico-superiore».",
+   "url": "https://www.viniventurini.com/vini-classici-valpolicella-vino-classico-superiore/",
+   "etichetta": "viniventurini.com/vini-classici-valpolicella-vino-classico-superiore"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «visita-guidata-in-cantina-valpolicella».",
+   "url": "https://www.viniventurini.com/visita-guidata-in-cantina-valpolicella/",
+   "etichetta": "viniventurini.com/visita-guidata-in-cantina-valpolicella"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «degustazione-vino-vapolicella-igt-classici».",
+   "url": "https://www.viniventurini.com/degustazione-vino-vapolicella-igt-classici/",
+   "etichetta": "viniventurini.com/degustazione-vino-vapolicella-igt-classici"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «dove-acquistare-vini-valpolicella».",
+   "url": "https://www.viniventurini.com/dove-acquistare-vini-valpolicella/",
+   "etichetta": "viniventurini.com/dove-acquistare-vini-valpolicella"
+  }
+ ]
+}

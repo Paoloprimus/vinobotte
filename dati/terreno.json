@@ -1,0 +1,122 @@
+{
+ "nome": "Terreno",
+ "slug": "terreno",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Terreno S.r.l. Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04031610480 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Citille, 4, Greve in Chianti 50022 FI [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3351536335 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@terreno.eu [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://terreno.eu|terreno.eu}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti Classico [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "La famiglia Ruhne, proprietaria, produce vino nella tenuta dal 1988. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Punteggi",
+     "valore": "Decanter.com (2024)\nJancisRobinson.com (2024) [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/terrenovino|terrenovino}}\nInstagram {{https://www.instagram.com/terrenovino/|@terrenovino}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://shop.terreno.eu/en/shop/|shop.terreno.eu/en/shop}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8919342899350692170|Mappa}} — valutazione 4,7 su 5 (181 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://terreno.eu",
+   "etichetta": "terreno.eu"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Vino Chianti Classico, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.chianticlassico.com/aziende/terreno/",
+   "etichetta": "chianticlassico.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://terreno.eu",
+   "etichetta": "terreno.eu"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Terreno Azienda Agricola Srl» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8919342899350692170",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

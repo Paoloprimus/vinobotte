@@ -1,0 +1,145 @@
+{
+ "nome": "Suavia",
+ "slug": "suavia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Suavia di Tessari Valentina [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Centro Fittà 26, 37038 Soave (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390457675089 [[2]]\n045 767 50 89 [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@suavia.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.suavia.it|suavia.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda agricola di famiglia dedicata alla vite e al vino sulle colline del Soave Classico; sede a Fittà di Soave; anno di fondazione non indicato [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini che il sito indica con denominazione Soave o Recioto di Soave; Fittà, Castellaro e Tremenalto sono elencati senza denominazione e non sono inclusi. Il sito non riporta le annate. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Soave Classico",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Monte Carbonare",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Acinatium",
+     "denominazione": "Recioto di Soave DOCG",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/SuaviaVini|SuaviaVini}}\nInstagram {{https://www.instagram.com/suavia_wine/|@suavia_wine}}\nYouTube {{https://www.youtube.com/@suaviawine|@suaviawine}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=14988225310023926477|Mappa}} — valutazione 4,6 su 5 (31 recensioni) [[7]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[8]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/suavia-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.suavia.it",
+   "etichetta": "suavia.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «suavia.it», consultata il 24 ottobre 2026.",
+   "url": "https://www.suavia.it",
+   "etichetta": "suavia.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «suavia.it/prodotto/soave-classico-doc-suavia», consultata il 24 ottobre 2026.",
+   "url": "https://www.suavia.it/prodotto/soave-classico-doc-suavia/",
+   "etichetta": "suavia.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «suavia.it/prodotto/monte-carbonare-suavia», consultata il 24 ottobre 2026.",
+   "url": "https://www.suavia.it/prodotto/monte-carbonare-suavia/",
+   "etichetta": "suavia.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «suavia.it/prodotto/acinatium», consultata il 24 ottobre 2026.",
+   "url": "https://www.suavia.it/prodotto/acinatium/",
+   "etichetta": "suavia.it"
+  },
+  {
+   "n": 7,
+   "testo": "Scheda «Suavia» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=14988225310023926477",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 8,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

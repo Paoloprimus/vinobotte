@@ -1,0 +1,110 @@
+{
+ "nome": "Bellotto & C",
+ "slug": "bellotto-c",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Bellotto & C. S.S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03446670279 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "30026 Portogruaro [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni Venezia dichiarate",
+     "valore": "Lison Pramaggiore, Venezia, Lison [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0421 704852 [[3]] [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "bellottovini@libero.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bellottovini.it/|bellottovini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Venezia [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda agricola a conduzione familiare presso Portogruaro (Venezia), nata nel 1994 per iniziativa di Tersilo Bellotto con la moglie Pierina e poi con i figli Manuel, Giacomo e Federica. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Vini Venezia",
+     "valore": "Non indicato nella elenco dei produttori del Consorzio; non ancora raccolto dai siti delle cantine [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12983843378567485057|Mappa}} — valutazione 4,7 su 5 (19 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 29 ottobre 2026.",
+   "url": "https://www.bellottovini.it/",
+   "etichetta": "bellottovini.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.bellottovini.it/",
+   "etichetta": "bellottovini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Azienda Agricola Bellotto & C.s.s.a.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12983843378567485057",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

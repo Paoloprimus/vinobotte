@@ -1,0 +1,92 @@
+{
+ "nome": "Magnàs",
+ "slug": "magnas",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Corona, 47, 34071 Cormons GO [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0481 60991[[1]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@magnas.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.magnas.it|magnas.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Collio [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Piccola azienda vitivinicola e agrituristica di famiglia contadina friulana, quattro generazioni. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Collio",
+     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=17104579735267912466|Mappa}} — valutazione 4,9 su 5 (44 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Collio, scheda della cantina nell’elenco dei produttori, consultata il 25 ottobre 2026.",
+   "url": "https://www.collio.it/cantina/magnas/",
+   "etichetta": "collio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.magnas.it",
+   "etichetta": "magnas.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Azienda Agricola Magnas» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=17104579735267912466",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

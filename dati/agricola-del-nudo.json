@@ -1,0 +1,94 @@
+{
+ "nome": "Agricola Del Nudo",
+ "slug": "agricola-del-nudo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Granaione 90 Campagnatico GR 58042 IT [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3395384108 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@nudo.bio [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.nudo.bio|nudo.bio}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini della Maremma Toscana [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nata dall’amicizia tra l’agricoltore Stefano Bambagioni e l’enologo svizzero Roland Krebser, che si incontrano nel 2009; la prima produzione per la vendita è del 2012 (3.000 bottiglie), poi salita a circa 24.000; viticoltura biologica. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/vignaenaoli_official/|@vignaenaoli_official}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini della Maremma Toscana, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.aziendevinimaremma.it/directory/listing/agricola-del-nudo",
+   "etichetta": "aziendevinimaremma.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.nudo.bio",
+   "etichetta": "nudo.bio"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

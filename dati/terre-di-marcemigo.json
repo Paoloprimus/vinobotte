@@ -1,0 +1,163 @@
+{
+ "nome": "Terre di Marcemigo",
+ "slug": "terre-di-marcemigo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Terre di Marcemigo di Tommasi Luigi [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via delle Fontane 20, 37039 Tregnago (VR); nuova sede in apertura a Cogollo di Tregnago [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "Cell. +39 349 6772208 e +39 348 3926018 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@terredimarcemigo.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.terredimarcemigo.it/|www.terredimarcemigo.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Giovane azienda di famiglia della Val d’Illasi; prima vinificazione propria nel 2015 [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Impianti giovani a Guyot, solo uve di proprietà [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella e il rosso IGT; l’azienda produce anche Soave. [[3]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Bacchus",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "2016 [[4]]"
+    },
+    {
+     "nome": "Batai",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "2015 [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–ven 9–12 e 15–17 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/TerrediMarcemigo|TerrediMarcemigo}} [[6]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "Presente [[7]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook [[2]]"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12889056651219829595|Mappa}} — valutazione 5 su 5 (4 recensioni) [[8]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[9]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contattaci».",
+   "url": "https://terredimarcemigo.it/contattaci/",
+   "etichetta": "terredimarcemigo.it/contattaci"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «azienda-vinicola-di-famiglia».",
+   "url": "https://terredimarcemigo.it/azienda-vinicola-di-famiglia/",
+   "etichetta": "terredimarcemigo.it/azienda-vinicola-di-famiglia"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/bacchus-amarone-della-valpolicella-docg».",
+   "url": "https://terredimarcemigo.it/prodotto/bacchus-amarone-della-valpolicella-docg/",
+   "etichetta": "terredimarcemigo.it/prodotto/bacchus-amarone-della-valpolicella-docg"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/batai-valpolicella-superiore-doc».",
+   "url": "https://terredimarcemigo.it/prodotto/batai-valpolicella-superiore-doc/",
+   "etichetta": "terredimarcemigo.it/prodotto/batai-valpolicella-superiore-doc"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.terredimarcemigo.it/",
+   "etichetta": "terredimarcemigo.it"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «carrello».",
+   "url": "https://terredimarcemigo.it/carrello/",
+   "etichetta": "terredimarcemigo.it/carrello"
+  },
+  {
+   "n": 8,
+   "testo": "Scheda «Terre di Marcemigo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12889056651219829595",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 9,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

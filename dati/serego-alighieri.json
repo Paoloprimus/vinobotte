@@ -1,0 +1,144 @@
+{
+ "nome": "Serego Alighieri",
+ "slug": "serego-alighieri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede (wine shop)",
+     "valore": "Via Stazione Vecchia 472, Gargagnago, 37015 Sant’Ambrogio di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Guest house",
+     "valore": "Via Giare 277, Gargagnago, 37015 Sant’Ambrogio di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390457703622 [[2]]\n+39 045 770 36 22 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "serego@seregoalighieri.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.seregoalighieri.it/en/|seregoalighieri.it/en}} — raggiungibile al controllo del 29 ottobre 2026 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "1353: Pietro Alighieri, figlio di Dante, acquista la tenuta di Casal dei Ronchi a Gargagnago; 1549: la famiglia Alighieri si unisce ai Serego; primi anni Venti del Novecento: scuola di agricoltura per reimpiantare i vitigni autoctoni dopo la fillossera [[4]]"
+    },
+    {
+     "etichetta": "Proprietà",
+     "valore": "Dal 1973 la tenuta entra nel Gruppo Masi [[4]]"
+    },
+    {
+     "etichetta": "Cantine",
+     "valore": "Appassimento di almeno 100 giorni; botti di ciliegio da 600 litri e botti di rovere [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Dalla home del sito, senza annate; solo i vini a denominazione Valpolicella. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Vaio Armaron",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Montepiazzo",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Casal dei Ronchi",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Tour e degustazioni prenotabili dal sito (sezione «Tours & Tastings»); ospitalità in guest house [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Vaio Armaron tra i dieci migliori vini al mondo secondo Wine Spectator [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/seregoalighieri/|@seregoalighieri}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=17421190983254662865|Mappa}} — valutazione 4,7 su 5 (197 recensioni) [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «seregoalighieri.it/en/contact-us», consultata il 24 ottobre 2026.",
+   "url": "https://www.seregoalighieri.it/en/contact-us",
+   "etichetta": "seregoalighieri.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.seregoalighieri.it/en/",
+   "etichetta": "seregoalighieri.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «seregoalighieri.it/en», consultata il 24 ottobre 2026.",
+   "url": "https://www.seregoalighieri.it/en/",
+   "etichetta": "seregoalighieri.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «seregoalighieri.it/en/estate», consultata il 24 ottobre 2026.",
+   "url": "https://www.seregoalighieri.it/en/estate",
+   "etichetta": "seregoalighieri.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «seregoalighieri.it/en/wines», consultata il 24 ottobre 2026.",
+   "url": "https://www.seregoalighieri.it/en/wines",
+   "etichetta": "seregoalighieri.it"
+  },
+  {
+   "n": 6,
+   "testo": "Scheda «Foresteria Serego Alighieri» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=17421190983254662865",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

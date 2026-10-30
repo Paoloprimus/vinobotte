@@ -1,0 +1,100 @@
+{
+ "nome": "Guizzo Casa Vinicola",
+ "slug": "guizzo-casa-vinicola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Guizzo Casa Vinicola SAS e C. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Spinade, 12, 31049, Guia (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+393489096153 [[2]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@guizzo.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://guizzo.it/|guizzo.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Casa vinicola di Valdobbiadene che si presenta attiva dal 1925, con uve raccolte a mano solo dalle colline di Valdobbiadene. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Conegliano Valdobbiadene",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto dal sito della cantina [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/guizzo_valdobbiadene/|@guizzo_valdobbiadene}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12684729839003895029|Mappa}} — valutazione 4,8 su 5 (78 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/guizzo-casa-vinicola/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://guizzo.it/",
+   "etichetta": "guizzo.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Casa Vinicola Guizzo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12684729839003895029",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

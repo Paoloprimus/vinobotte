@@ -1,0 +1,127 @@
+{
+ "nome": "Balestri Valda",
+ "slug": "balestri-valda",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Balestri Valda di Rizzotto Guido [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Monti 44, 37038 Soave (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 7675393 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.vinibalestrivalda.com|vinibalestrivalda.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito presenta una «nuova generazione di viticoltori» (dichiarazione di Laura Rizzotto), senza anno di fondazione; punto vendita aperto su appuntamento telefonico [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini Soave e Recioto di Soave; il sito scrive i nomi senza DOC/DOCG né annate. La cantina produce anche altri vini (Libertate da Trebbiano di Soave, Sengialta, Lunalonga, spumanti) di cui la denominazione non è scritta. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Soave Classico",
+     "denominazione": "Soave Classico",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto di Soave",
+     "denominazione": "Recioto di Soave",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Punto vendita aperto previo appuntamento telefonico; visite e degustazioni secondo il calendario di vendemmia e cantina [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/balestri-valda/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «vinibalestrivalda.com/it/chi-siamo».",
+   "url": "https://vinibalestrivalda.com/it/chi-siamo/",
+   "etichetta": "vinibalestrivalda.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «vinibalestrivalda.com/it/cosa-facciamo».",
+   "url": "https://vinibalestrivalda.com/it/cosa-facciamo/",
+   "etichetta": "vinibalestrivalda.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «vinibalestrivalda.com/it/vini/soave-classico».",
+   "url": "https://vinibalestrivalda.com/it/vini/soave-classico/",
+   "etichetta": "vinibalestrivalda.com"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «vinibalestrivalda.com/it/vini/recioto-soave».",
+   "url": "https://vinibalestrivalda.com/it/vini/recioto-soave/",
+   "etichetta": "vinibalestrivalda.com"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «vinibalestrivalda.com/it/visite-degustazioni».",
+   "url": "https://vinibalestrivalda.com/it/visite-degustazioni/",
+   "etichetta": "vinibalestrivalda.com"
+  }
+ ]
+}

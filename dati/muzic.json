@@ -1,0 +1,104 @@
+{
+ "nome": "Muzic",
+ "slug": "muzic",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Muzic [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00478100316 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Bivio, 4, 34070 San Floriano del Collio GO [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0481 884201 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinamuzic.it|cantinamuzic.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Collio [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Collio",
+     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1941676118704653885|Mappa}} — valutazione 4,8 su 5 (42 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.cantinamuzic.it",
+   "etichetta": "cantinamuzic.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Collio, scheda della cantina nell’elenco dei produttori, consultata il 25 ottobre 2026.",
+   "url": "https://www.collio.it/cantina/muzic/",
+   "etichetta": "collio.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Azienda Agricola Muzic di Muzic Giovanni» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1941676118704653885",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

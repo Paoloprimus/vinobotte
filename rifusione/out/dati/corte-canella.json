@@ -1,0 +1,157 @@
+{
+ "nome": "Corte Canella",
+ "slug": "corte-canella",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Corte Canella di Venturini Gloria & C. Società Agricola Semplice (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03690990233 [[3]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 347 944 5573 · info@cortecanella.it [[3]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Canella 14, 37031 Illasi (VR) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortecanella.it/|www.cortecanella.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dalla home del sito; il sito non indica le annate. [[3]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Solo il vino a denominazione Soave; la cantina produce anche vini Valpolicella e altri. Pagina del sito consultata dal vivo il 24 ottobre 2026; il sito non riporta l’annata. [[8]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Asante",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "SIAMONOI",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "ViteFà",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "IL 56",
+     "denominazione": "Soave DOC",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Il sito ha pagine per degustazioni di vini, Amarone, Recioto, Valpolicella e grappa; dettagli non nel testo salvato [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortecanella.it con negozio e carrello [[7]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre. Pagine consultate il 24 ottobre 2026 (da copia salvata del sito della cantina; elenco del consorzio consultato dal vivo). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.cortecanella.it/",
+   "etichetta": "cortecanella.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-della-valpolicella-docg».",
+   "url": "https://www.cortecanella.it/amarone-della-valpolicella-docg/",
+   "etichetta": "cortecanella.it/amarone-della-valpolicella-docg"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «product/recioto-della-valpolicella-docg-vitefa».",
+   "url": "https://www.cortecanella.it/product/recioto-della-valpolicella-docg-vitefa/",
+   "etichetta": "cortecanella.it/product/recioto-della-valpolicella-docg-vitefa"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «degustazione-vini».",
+   "url": "https://www.cortecanella.it/degustazione-vini/",
+   "etichetta": "cortecanella.it/degustazione-vini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «negozio».",
+   "url": "https://www.cortecanella.it/negozio/",
+   "etichetta": "cortecanella.it/negozio"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «cortecanella.it/soave-doc».",
+   "url": "https://www.cortecanella.it/soave-doc/",
+   "etichetta": "cortecanella.it"
+  }
+ ]
+}

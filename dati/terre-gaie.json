@@ -1,0 +1,118 @@
+{
+ "nome": "Terre Gaie",
+ "slug": "terre-gaie",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Terre Gaie [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Mattiette, 550 - 35030 Vo' (Padova) [[1]]"
+    },
+    {
+     "etichetta": "Ruolo nell’elenco del Consorzio",
+     "valore": "Imbottigliatore, Produttore [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "049 9940462 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@terregaie.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.terregaie.it|www.terregaie.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini D.O.C. Colli Euganei [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Fior d’Arancio Colli Euganei DOCG; Prosecco DOC; Colli Euganei Serprino DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://facebook.com/terregaie|terregaie}}\nInstagram {{https://www.instagram.com/terregaie_/|@terregaie_}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12708015462915600687|Mappa}} — valutazione 4,7 su 5 (34 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini D.O.C. Colli Euganei, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinieuganei.it/",
+   "etichetta": "consorziovinieuganei.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.terregaie.it",
+   "etichetta": "terregaie.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.terregaie.it",
+   "etichetta": "terregaie.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Terre Gaie Srl» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12708015462915600687",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "nome": "Borgo San Gabriele",
+ "slug": "borgo-san-gabriele",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Borgo San Gabriele [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Col de Fer 18, 33070 Caneva (PN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 340 740 5728 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@borgosangabriele.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "Indicato nella mappa del Consorzio e su Falstaff (www.borgosangabriele.it), ma il sito non risulta esistere (verifica manuale del 25 ottobre 2026) [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Brut Millesimato",
+     "denominazione": "Prosecco DOC",
+     "annata": "2017 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Falstaff, pagina del vino (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.falstaff.com/en/wines/borgo-san-gabriele-2017-brut-millesimato-prosecco-doc",
+   "etichetta": "falstaff.com"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

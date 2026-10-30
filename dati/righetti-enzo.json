@@ -1,0 +1,93 @@
+{
+ "nome": "Righetti Enzo",
+ "slug": "righetti-enzo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Pozzoi 2, 37010 Cavaion Veronese (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "045 7235655 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@righettienzo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.righettienzo.it|righettienzo.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda agricola familiare di circa 9 ettari a Cavaion Veronese [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino Classico DOC; Chiaretto di Bardolino spumante DOC; Chiaretto di Bardolino Classico DOC [[1]]"
+    }
+   ],
+   "nota": "Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[1]]"
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13736794947708698715|Mappa}} — valutazione 4,9 su 5 (51 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/righetti-enzo/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Azienda Agricola Righetti Enzo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13736794947708698715",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

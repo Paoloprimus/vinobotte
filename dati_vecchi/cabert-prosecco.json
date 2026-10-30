@@ -1,0 +1,229 @@
+{
+ "nome": "Cabert",
+ "slug": "cabert-prosecco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cabert S.p.A. (Cantina di Bertiolo); P.IVA 00167540301 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Madonna 27, 33032 Bertiolo (UD) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0432 917434; info@cabert.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cabert.it/|www.cabert.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[2]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini DOC Delle Venezie: {{/pagine/cabert-delle-venezie.html|scheda Delle Venezie}} [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio DOC Friuli: {{/pagine/cabert-friuli-doc.html|scheda Friuli DOC}} [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito riporta «Passione per il vino dal 1960» [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Chardonnay",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Friulano",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Sauvignon",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Traminer Aromatico",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Cabernet Franc",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Cabernet Sauvignon",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot Nero",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Merlot",
+     "denominazione": "DOC (denominazione specifica non indicata nel sito)",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Refosco dal Peduncolo Rosso",
+     "denominazione": "DOC (denominazione specifica non indicata nel sito)",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Prosecco",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Prosecco Rosé",
+     "denominazione": "Prosecco Rosé DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Violino Frizzante",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Picolit",
+     "denominazione": "DOCG",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Chardonnay",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Friulano",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Ribolla Gialla",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Sauvignon",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Cabernet Sauvignon",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Merlot",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Refosco dal Peduncolo Rosso",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Schioppettino",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot Grigio Blush",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Il sito parla di vini «pluripremiati in tutto il mondo» (recensione) ma non elenca premi [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda del Consorzio e sito ufficiale della cantina, consultati il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «cabert.it».",
+   "url": "https://www.cabert.it/",
+   "etichetta": "cabert.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026 (dati copiati dal sito del Consorzio).",
+   "url": "https://www.docfriuli.eu/aziende/",
+   "etichetta": "docfriuli.eu"
+  }
+ ]
+}

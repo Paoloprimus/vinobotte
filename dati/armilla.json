@@ -1,0 +1,100 @@
+{
+ "nome": "Armilla",
+ "slug": "armilla",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Tavernelle n. 6 - 53024 - Montalcino (Siena) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577816012 / +39 3473083262 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@armillawine.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.armillawine.com|armillawine.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Brunello di Montalcino [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Progetto di famiglia nato negli anni Ottanta (il sito indica «dal 1980») a Tavernelle, sul versante sud-ovest di Montalcino; cantina volutamente piccola, con poche etichette tutte di Sangiovese. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Brunello di Montalcino; Rosso di Montalcino [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2112460694131612146|Mappa}} — valutazione 5 su 5 (3 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio del Vino Brunello di Montalcino, scheda della cantina nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziobrunellodimontalcino.it/it/1395/armilla",
+   "etichetta": "consorziobrunellodimontalcino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.armillawine.com",
+   "etichetta": "armillawine.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Armilla» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2112460694131612146",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "nome": "Marchesini Fratelli Società Agricola",
+ "slug": "marchesini-fratelli-societa-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Marchesini Fratelli Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Preela Poggi 3, Loc. Bossema, Cavaion Veronese (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0457236297 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fratellimarchesini.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fratellimarchesini.com/|fratellimarchesini.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda familiare fondata nei primi anni '60, vino e olio su 20 ettari [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino Classico DOC; Chiaretto di Bardolino Classico DOC [[1]]"
+    }
+   ],
+   "nota": "Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[1]]"
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1311529320625762332|Mappa}} — valutazione 4,9 su 5 (40 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/marchesini-fratelli-societa-agricola/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Marchesini Fratelli Winery 🍇» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1311529320625762332",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

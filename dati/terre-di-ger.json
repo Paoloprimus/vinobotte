@@ -1,0 +1,106 @@
+{
+ "nome": "Terre di Ger",
+ "slug": "terre-di-ger",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Terre di Ger ss di Spinazzè Gianluigi & C. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada della Meduna, 33076 Pravisdomini (PN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0434 644452 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@terrediger.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.terrediger.it|terrediger.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio DOC Friuli [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini nella scheda del Consorzio, senza denominazione: la scheda indica soltanto il nome del vino, per tipo (bianco, rosso) in base alle icone. L’elenco è lo stesso formato per tutti i soci; la denominazione di ciascun vino va verificata sul sito della cantina [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Cabernet franc",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot grigio",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=3112068653438262644|Mappa}} — valutazione 4,5 su 5 (14 recensioni) [[2]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/terre-di-ger/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 2,
+   "testo": "Scheda «Terre di Ger» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=3112068653438262644",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

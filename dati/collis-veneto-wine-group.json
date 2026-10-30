@@ -1,0 +1,173 @@
+{
+ "nome": "Collis Veneto Wine Group",
+ "slug": "collis-veneto-wine-group",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Collis Veneto Wine Group S.c.a. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03790110237 [[1]]"
+    },
+    {
+     "etichetta": "REA",
+     "valore": "VR365609 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cappuccini 6, 37032 Monteforte d’Alpone (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 6108222 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@collisgroup.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.collisgroup.it/|www.collisgroup.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vini Valpolicella [[3]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[4]]\nConsorzio Tutela Vino Lessini Durello DOC [[5]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via Cappuccini n.6, 37032. Monteforte d'Alpone; tel. 045 6108222; info@collisgroup.it; collisgroup.it [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Natura",
+     "valore": "Realtà cooperativa che unisce oltre duemila viticoltori tra Verona, Vicenza e Padova [[6]]"
+    },
+    {
+     "etichetta": "Numeri dichiarati",
+     "valore": "7.200 ettari (il sito indica anche 7.000), presenza in oltre 70 Paesi [[6]]"
+    },
+    {
+     "etichetta": "Società controllata",
+     "valore": "Collis Heritage S.p.A., Via Casette 4, Negrar di Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari uffici",
+     "valore": "Lun–ven 8–13 e 15–18 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio Decanto",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[2]]"
+    }
+   ],
+   "nota": "Nessun vino a denominazione DOC/DOCG tra quelli indicati dalle fonti consultate (esclusi IGT, vini senza denominazione e distillati).",
+   "righe": []
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "collisgroup.it, istituzionale, con blog [[6]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "X {{https://x.com/sh|@sh}}\nLinkedIn {{https://www.linkedin.com/company/collis-veneto-wine-group|collis-veneto-wine-group}} [[7]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2935423983405513890|Mappa}} — valutazione 4,4 su 5 (16 recensioni) [[8]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.collisgroup.it/contatti/",
+   "etichetta": "collisgroup.it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.collisgroup.it/",
+   "etichetta": "collisgroup.it"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.collisgroup.it/",
+   "etichetta": "collisgroup.it"
+  },
+  {
+   "n": 8,
+   "testo": "Scheda «Collis» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2935423983405513890",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «collisgroup.it/soave», consultata il 24 ottobre 2026.",
+   "url": "https://www.collisgroup.it/soave/",
+   "etichetta": "collisgroup.it"
+  }
+ ]
+}

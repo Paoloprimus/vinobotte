@@ -1,0 +1,200 @@
+{
+ "nome": "Corte Moschina",
+ "slug": "corte-moschina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Corte Moschina di Niero Mariapatrizia [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Moschina 1, 37030 Roncà (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390457460788 [[2]]\n045 746 0788 [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cortemoschina.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cortemoschina.it|cortemoschina.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio Tutela Vino Lessini Durello DOC [[3]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Proprietà di famiglia con radici veneziane che risale alla fine del Cinquecento, ai piedi dei Monti Lessini [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini della sezione «Soave - Colli di Roncà» del sito; denominazioni come scritte nel sito, senza DOC/DOCG né annate. [[5]] Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Roncathe",
+     "denominazione": "Soave",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Evaos",
+     "denominazione": "Soave",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "I Tarai",
+     "denominazione": "Soave Superiore",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Incanto",
+     "denominazione": "Recioto di Soave",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Pinot Grigio Granetto",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Lessini Durello",
+     "denominazione": "Lessini Durello – Metodo Classico",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Lessini Durello Millesimato",
+     "denominazione": "Lessini Durello – Metodo Martinotti, Millesimato",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Lessini Durello Riserva",
+     "denominazione": "Lessini Durello – Metodo Classico, Riserva",
+     "annata": "— [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=5119535410539440089|Mappa}} — valutazione 4,8 su 5 (39 recensioni) [[13]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/corte-moschina-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.cortemoschina.it",
+   "etichetta": "cortemoschina.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it», consultata il 24 ottobre 2026.",
+   "url": "http://www.cortemoschina.it",
+   "etichetta": "cortemoschina.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it/roncathe», consultata il 24 ottobre 2026.",
+   "url": "https://www.cortemoschina.it/roncathe",
+   "etichetta": "cortemoschina.it"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it/evaos», consultata il 24 ottobre 2026.",
+   "url": "https://www.cortemoschina.it/evaos",
+   "etichetta": "cortemoschina.it"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it/tarai», consultata il 24 ottobre 2026.",
+   "url": "https://www.cortemoschina.it/tarai",
+   "etichetta": "cortemoschina.it"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it/incanto», consultata il 24 ottobre 2026.",
+   "url": "https://www.cortemoschina.it/incanto",
+   "etichetta": "cortemoschina.it"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it/en/lessini-durello», consultata il 24 ottobre 2026.",
+   "url": "http://www.cortemoschina.it/en/lessini-durello",
+   "etichetta": "cortemoschina.it"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it/en/lessini-durello-millesimato», consultata il 24 ottobre 2026.",
+   "url": "http://www.cortemoschina.it/en/lessini-durello-millesimato",
+   "etichetta": "cortemoschina.it"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it/en/lessini-durello-riserva», consultata il 24 ottobre 2026.",
+   "url": "http://www.cortemoschina.it/en/lessini-durello-riserva",
+   "etichetta": "cortemoschina.it"
+  },
+  {
+   "n": 13,
+   "testo": "Scheda «Azienda Agricola Corte Moschina» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=5119535410539440089",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 14,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  }
+ ]
+}

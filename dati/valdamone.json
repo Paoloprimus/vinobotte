@@ -1,0 +1,59 @@
+{
+ "nome": "Valdamone",
+ "slug": "valdamone",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Suvereto, LI [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@valdamone.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://valdamone.weebly.com/|valdamone.weebly.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Val di Cornia DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/lorenzo.brugali.valdamone|facebook.com/lorenzo.brugali.valdamone}}\nInstagram {{https://www.instagram.com/valdamone/|instagram.com/valdamone}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://valdamone.weebly.com/",
+   "etichetta": "valdamone.weebly.com"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "nome": "Cantina di Gambellara",
+ "slug": "cantina-di-gambellara",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina di Gambellara [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via G. Mazzini 2, 36053 Gambellara (VI) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0444 491360 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinagambellara.com|cantinagambellara.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Prima cantina cooperativa della provincia di Vicenza, fondata nel 1947 dall’Enopolio di Gambellara attivo dal 1920; a Gambellara, tra 250 e 500 m sul livello del mare su un vulcano spento; il sito della cantina rinvia alla pagina dedicata sul sito Vitevis [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Recioto di Gambellara DOCG; Gambellara Classico DOC; Vin Santo di Gambellara DOC; Colli Berici DOC; Delle Venezie DOC; Soave Classico DOC; Prosecco DOC; Monti Lessini Durello DOC; Asolo Prosecco Superiore DOCG; Lugana DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nella pagina letta; il sito ha un collegamento «Premi e Riconoscimenti» non letto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=3125118916476932548|Mappa}} — valutazione 4,4 su 5 (132 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/cantina-di-gambellara-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «vitevis.com/vini/cantina-di-gambellara», consultata il 24 ottobre 2026.",
+   "url": "https://www.vitevis.com/vini/cantina-di-gambellara/",
+   "etichetta": "vitevis.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.cantinagambellara.com",
+   "etichetta": "cantinagambellara.com"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «VITEVIS - Cantina di Gambellara - Wine Shop» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=3125118916476932548",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

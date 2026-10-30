@@ -1,0 +1,98 @@
+{
+ "nome": "La Màgia",
+ "slug": "la-magia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola La Màgia [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località La Magia Gavorrano GR 58023 IT [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3391733296 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@aziendalamagia.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.aziendalamagia.it|aziendalamagia.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini della Maremma Toscana [[1]]\nConsorzio del Vino Brunello di Montalcino [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Brunello di Montalcino; Rosso di Montalcino [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini della Maremma Toscana, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.aziendevinimaremma.it/directory/listing/azienda-agricola-la-magia",
+   "etichetta": "aziendevinimaremma.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio del Vino Brunello di Montalcino, scheda della cantina nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziobrunellodimontalcino.it/it/1483/la-magia",
+   "etichetta": "consorziobrunellodimontalcino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

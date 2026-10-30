@@ -1,0 +1,220 @@
+{
+ "nome": "Villa Crine",
+ "slug": "villa-crine",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Villa Crine di Venturini Giovanni Battista [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01525270235 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via della Contea 46, Pedemonte, 37029 San Pietro in Cariano (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Il sito offre un modulo di richiesta degustazione [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7704072 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@villacrine.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.villacrine.it/|www.villacrine.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Villa settecentesca a Pedemonte, della famiglia Venturini da generazioni; oggi Giovanni Battista, Mara, Giuseppe e Diletta [[2]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Vini prodotti esclusivamente dalle uve proprie; anche olio extravergine di oliva e grappa di Amarone [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche un Passito IGT e uno spumante Metodo Classico. Il sito indica un’annata per ciascuna etichetta in collezione. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Il Pigaro",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "2025 [[5]]"
+    },
+    {
+     "nome": "Il Quintario",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "2023 [[4]]"
+    },
+    {
+     "nome": "Villa Crine",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "2023 [[6]]"
+    },
+    {
+     "nome": "Villa Crine",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2022 [[7]]"
+    },
+    {
+     "nome": "Villa Crine",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "2024 [[8]]"
+    },
+    {
+     "nome": "Villa Crine Riserva (edizione limitata)",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "2020 [[9]]"
+    },
+    {
+     "nome": "Edizione Speciale (edizione limitata)",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2015 [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visita e degustazione 1 h 30 min, € 25 a persona (5 vini e tagliere); degustazione con menu o con buffet su preventivo [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Best Of Wine Tourism 2026, categoria Arte e Cultura [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/villacrinevini|villacrinevini}}\nInstagram {{https://www.instagram.com/villacrine/|@villacrine}} [[12]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8838072665432575885|Mappa}} — valutazione 5 su 5 (95 recensioni) [[13]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://www.villacrine.it/chi-siamo",
+   "etichetta": "villacrine.it/chi-siamo"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «territorio».",
+   "url": "https://www.villacrine.it/territorio",
+   "etichetta": "villacrine.it/territorio"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «wines».",
+   "url": "https://www.villacrine.it/wines",
+   "etichetta": "villacrine.it/wines"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «wines/classico».",
+   "url": "https://www.villacrine.it/wines/classico",
+   "etichetta": "villacrine.it/wines/classico"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «wines/valpolicella-ripasso».",
+   "url": "https://www.villacrine.it/wines/valpolicella-ripasso",
+   "etichetta": "villacrine.it/wines/valpolicella-ripasso"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «wines/amarone-della-valpolicella».",
+   "url": "https://www.villacrine.it/wines/amarone-della-valpolicella",
+   "etichetta": "villacrine.it/wines/amarone-della-valpolicella"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «wines/recioto-della-valpolicella».",
+   "url": "https://www.villacrine.it/wines/recioto-della-valpolicella",
+   "etichetta": "villacrine.it/wines/recioto-della-valpolicella"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «special-wines».",
+   "url": "https://www.villacrine.it/special-wines",
+   "etichetta": "villacrine.it/special-wines"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «degustazione-valpolicella/Degustazione».",
+   "url": "https://www.villacrine.it/degustazione-valpolicella/Degustazione",
+   "etichetta": "villacrine.it/degustazione-valpolicella/Degustazione"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «news/villa-crine-premiata-per-la-categoria-arte-e-cultura-al-best-of-wine-tourism-2026».",
+   "url": "https://www.villacrine.it/news/villa-crine-premiata-per-la-categoria-arte-e-cultura-al-best-of-wine-tourism-2026",
+   "etichetta": "villacrine.it/news/villa-crine-premiata-per-la-categoria-arte-e-cultura-al-best-of-wine-tourism-2026"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.villacrine.it/",
+   "etichetta": "villacrine.it"
+  },
+  {
+   "n": 13,
+   "testo": "Scheda «Azienda Vinicola Villa Crine» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8838072665432575885",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «degustazione-valpolicella».",
+   "url": "https://www.villacrine.it/degustazione-valpolicella",
+   "etichetta": "villacrine.it/degustazione-valpolicella"
+  }
+ ]
+}

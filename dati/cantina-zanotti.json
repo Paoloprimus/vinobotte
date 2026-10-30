@@ -1,0 +1,206 @@
+{
+ "nome": "Cantina Zanotti",
+ "slug": "cantina-zanotti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Zanotti Diego [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02151390230 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Scandola 3, Torbe, 37024 Negrar di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7500161 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinazanotti.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinazanotti.com/|www.cantinazanotti.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Quattro generazioni; oggi Diego e Morena con le tre figlie, con l’aiuto di un enologo [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Circa 4 ettari in due punti: Podere “Le Pontare” a Torbe di Negrar (pergola veronese, esposto a levante, per Recioto e Amarone) e località Casarossa a San Pietro in Cariano; vendemmia a mano [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche Bardolino, Chardonnay, spumanti e passito. Il sito non riporta le annate. [[3]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Ristorante e alloggio",
+     "valore": "Ristorante Villa Allegri; camere, mini suite, sala meeting, piscina ed eventi privati [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://it-it.facebook.com/CantinaZanotti|CantinaZanotti}} [[10]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.shop.cantinazanotti.com/en|shop.cantinazanotti.com/en}} [[10]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=3483741803927949630|Mappa}} — valutazione 4,8 su 5 (13 recensioni) [[11]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[12]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «cantinazanotti.com», consultata il 25 ottobre 2026.",
+   "url": "https://www.cantinazanotti.com/",
+   "etichetta": "cantinazanotti.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/cantina-valpolicella».",
+   "url": "https://www.cantinazanotti.com/it/cantina-valpolicella",
+   "etichetta": "cantinazanotti.com/it/cantina-valpolicella"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/vigneti-valpolicella».",
+   "url": "https://www.cantinazanotti.com/it/vigneti-valpolicella",
+   "etichetta": "cantinazanotti.com/it/vigneti-valpolicella"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/amarone-della-valpolicella».",
+   "url": "https://www.cantinazanotti.com/it/amarone-della-valpolicella",
+   "etichetta": "cantinazanotti.com/it/amarone-della-valpolicella"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/recioto-della-valpolicella».",
+   "url": "https://www.cantinazanotti.com/it/recioto-della-valpolicella",
+   "etichetta": "cantinazanotti.com/it/recioto-della-valpolicella"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/valpolicella-ripasso».",
+   "url": "https://www.cantinazanotti.com/it/valpolicella-ripasso",
+   "etichetta": "cantinazanotti.com/it/valpolicella-ripasso"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/valpolicella-classico-superiore».",
+   "url": "https://www.cantinazanotti.com/it/valpolicella-classico-superiore",
+   "etichetta": "cantinazanotti.com/it/valpolicella-classico-superiore"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/valpolicella-classico».",
+   "url": "https://www.cantinazanotti.com/it/valpolicella-classico",
+   "etichetta": "cantinazanotti.com/it/valpolicella-classico"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.cantinazanotti.com/",
+   "etichetta": "cantinazanotti.com"
+  },
+  {
+   "n": 11,
+   "testo": "Scheda «Azienda Agricola Zanotti» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=3483741803927949630",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 12,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «it/dove-siamo-contatti-cantina-zanotti-verona».",
+   "url": "https://www.cantinazanotti.com/it/dove-siamo-contatti-cantina-zanotti-verona",
+   "etichetta": "cantinazanotti.com/it/dove-siamo-contatti-cantina-zanotti-verona"
+  }
+ ]
+}

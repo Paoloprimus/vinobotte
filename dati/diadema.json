@@ -1,0 +1,113 @@
+{
+ "nome": "DiAdema",
+ "slug": "diadema",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Brolo, 37 A - Fraz. Brischis, 33040 Prepotto [[1]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «DOC Colli Orientali Del Friuli» [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3478930997 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ademawine.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ademawine.it|ademawine.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Friulano",
+     "denominazione": "DOC Colli Orientali Del Friuli",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Ribolla Gialla (fermo)",
+     "denominazione": "DOC Colli Orientali Del Friuli",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Siliot",
+     "denominazione": "DOC Colli Orientali Del Friuli",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=18007140556599585089|Mappa}} — valutazione 4,7 su 5 (16 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/diadema/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «ademawine.it/prodotti», consultata il 25 ottobre 2026.",
+   "url": "https://www.ademawine.it/prodotti/",
+   "etichetta": "ademawine.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Diadema» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=18007140556599585089",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

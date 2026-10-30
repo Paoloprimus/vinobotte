@@ -1,0 +1,107 @@
+{
+ "nome": "Le Ginestre",
+ "slug": "le-ginestre",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Le Ginestre [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Casa Roina 3, 37017 Lazise (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "347 1032728 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "leginestrewine@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.leginestrelazise.com|leginestrelazise.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina familiare a Lazise, oggi guidata da Marco Ruffato [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Bardolino DOC; Chiaretto di Bardolino DOC [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino Classico DOC; Chiaretto di Bardolino Classico DOC; Sottozone di Bardolino; La Rocca Bardolino DOC [[1]]"
+    }
+   ],
+   "nota": "Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[1]]"
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: presenza non verificata\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=11213929237206698454|Mappa}} — valutazione 4,7 su 5 (136 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/le-ginestre/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://www.leginestrelazise.com",
+   "etichetta": "leginestrelazise.com"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Azienda Agricola Le Ginestre» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=11213929237206698454",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

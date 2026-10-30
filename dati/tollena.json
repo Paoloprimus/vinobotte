@@ -1,0 +1,89 @@
+{
+ "nome": "Tollena",
+ "slug": "tollena",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Tollena [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01197340522 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Tollena, 53037 San Gimignano, SI [[1]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vernaccia di San Gimignano [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577 907178\n+39 338 2111886 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tollena.it/|tollena.it}} — non raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Vernaccia di San Gimignano DOCG [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Vernaccia di San Gimignano DOCG; Chianti Colli Senesi DOCG; Chianti DOCG Riserva; Vin Santo di San Gimignano DOC; Toscano IGT Rosato [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://www.tollena.it/",
+   "etichetta": "tollena.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vernaccia di San Gimignano, elenco dei produttori, consultato il 26 ottobre 2026.",
+   "url": "https://vernaccia.it/produttori/",
+   "etichetta": "vernaccia.it"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "nome": "Cantina Danese",
+ "slug": "cantina-danese-durello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina Danese Srl [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Moschina 31, 37030 Roncà (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 7460060 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinadanese.com|cantinadanese.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[2]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Soave e Recioto di Soave: {{/pagine/cantina-danese-soave.html|scheda Soave}} [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito dichiara oltre settant’anni di produzione di vino e una crescita dal 1950 partendo dal vino sfuso; azienda descritta come tradizione di famiglia, per tre generazioni; ragione sociale Cantina Danese s.r.l. unipersonale [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione Lessini Durello (Monti Lessini) letto nelle pagine della cantina; le annate non sono indicate.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Lessini Durello",
+     "denominazione": "Lessini Durello DOC",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Lessini Durello nelle pagine lette"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/cantina-danese-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «cantinadanese.com».",
+   "url": "http://www.cantinadanese.com",
+   "etichetta": "cantinadanese.com"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «cantinadanese.com/wines/sparkling».",
+   "url": "https://www.cantinadanese.com/wines/sparkling",
+   "etichetta": "cantinadanese.com"
+  }
+ ]
+}

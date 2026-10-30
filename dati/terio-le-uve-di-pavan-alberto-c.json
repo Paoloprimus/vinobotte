@@ -1,0 +1,105 @@
+{
+ "nome": "Terio Le Uve di Pavan Alberto & C",
+ "slug": "terio-le-uve-di-pavan-alberto-c",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agr. Terio Le Uve S.S. di Pavan Alberto & C. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "31027 Spresiano [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@teriowines.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.teriowines.com|teriowines.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Vini Venezia [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[3]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Strada delle Grentine, 3, Spresiano, TV, Italia; tel. 347 7483651; info@teriowines.com; teriowines.com [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[3]]"
+    }
+   ],
+   "righe": []
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16982666623851566731|Mappa}} — valutazione 4,6 su 5 (10 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 29 ottobre 2026.",
+   "url": "https://www.teriowines.com",
+   "etichetta": "teriowines.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Cantina Tèrio» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16982666623851566731",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "nome": "Masari",
+ "slug": "masari",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04020420248 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@masari.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.masari.it/|masari.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Lessini Durello DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nasce nel 1998, quando Massimo Dal Lago e Arianna Tessari riprendono la viticoltura nella Valle d'Agno recuperando i vecchi vigneti e le varietà locali. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Lessini Durello",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Montepulgo 2013 miglior vino rosso veneto per l'AIS\nPodio Falstaff tra i Grandi Rossi Veneti\nGuida Slow Wine 2021: Bottiglia [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/masariwineart|masariwineart}}\nInstagram {{https://www.instagram.com/masari_wine_art/|@masari_wine_art}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 29 ottobre 2026.",
+   "url": "https://www.masari.it/",
+   "etichetta": "masari.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.masari.it/",
+   "etichetta": "masari.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

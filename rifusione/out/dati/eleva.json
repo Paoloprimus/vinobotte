@@ -1,0 +1,130 @@
+{
+ "nome": "Eleva",
+ "slug": "eleva",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Eleva S.r.l. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03814820753 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via dell’Artigianato 400, 37015 Sant’Ambrogio di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Cantina, visite e degustazioni",
+     "valore": "Via Case Sparse in Conca d’Oro 21, 37015 Sant’Ambrogio di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel/Fax 045 5867563 · cell. +39 375 6534185 · visitvinieleva@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinieleva.it/|www.vinieleva.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "Sei ettari in un corpo unico in località Conca d’Oro, a quasi 300 m s.l.m., su terrazze con muretti a secco; conduzione biologica [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Cantina",
+     "valore": "Bottaia ricavata in un’antica cava di pietra [[4]]"
+    },
+    {
+     "etichetta": "Iniziative",
+     "valore": "Premio AICCA, istituito con la cantina Costaripa per la ricerca sulle cardiopatie congenite [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Visita guidata in vigna e cantina con degustazione, su prenotazione [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "vinieleva.it, in italiano e inglese, con news e ricette abbinate [[6]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contattaci».",
+   "url": "https://www.vinieleva.it/contattaci/",
+   "etichetta": "vinieleva.it/contattaci"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.vinieleva.it/",
+   "etichetta": "vinieleva.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «visitaincantina».",
+   "url": "https://www.vinieleva.it/visitaincantina/",
+   "etichetta": "vinieleva.it/visitaincantina"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «costaripa-ed-eleva-presentano-il-premio-aicca».",
+   "url": "https://www.vinieleva.it/costaripa-ed-eleva-presentano-il-premio-aicca/",
+   "etichetta": "vinieleva.it/costaripa-ed-eleva-presentano-il-premio-aicca"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «news».",
+   "url": "https://www.vinieleva.it/news/",
+   "etichetta": "vinieleva.it/news"
+  }
+ ]
+}

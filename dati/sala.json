@@ -1,0 +1,183 @@
+{
+ "nome": "Agricola Sala",
+ "slug": "sala",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Sala s.s. [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via delle Marzane 2, 37022 Fumane (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Modulo di contatto sul sito [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@agricolasala.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.agricolasala.it/|www.agricolasala.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Origini nel 1808 con Lorenzo Boscaini; oggi Paolo Boscaini con i figli; dal 1987 il nome “Azienda Agricola Sala” [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Fumane, Valpolicella Classica, pergola veronese; Corvina, Corvinone, Rondinella, Molinara, Dindarella [[4]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine di oliva [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Muretta",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite guidate e degustazioni in cantina [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cantinasala|cantinasala}}\nInstagram {{https://www.instagram.com/sala_winery/|@sala_winery}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: presenza non verificata\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=7776784174645802127|Mappa}} — valutazione 4,9 su 5 (8 recensioni) [[10]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.agricolasala.it/",
+   "etichetta": "agricolasala.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/azienda/cantina».",
+   "url": "https://www.agricolasala.it/it/azienda/cantina/",
+   "etichetta": "agricolasala.it/it/azienda/cantina"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/azienda/vigneti».",
+   "url": "https://www.agricolasala.it/it/azienda/vigneti/",
+   "etichetta": "agricolasala.it/it/azienda/vigneti"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-nostri-prodotti/vini/valpolicella-doc».",
+   "url": "https://www.agricolasala.it/it/i-nostri-prodotti/vini/valpolicella-doc/",
+   "etichetta": "agricolasala.it/it/i-nostri-prodotti/vini/valpolicella-doc"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-nostri-prodotti/vini/amarone-della-valpolicella-docg».",
+   "url": "https://www.agricolasala.it/it/i-nostri-prodotti/vini/amarone-della-valpolicella-docg/",
+   "etichetta": "agricolasala.it/it/i-nostri-prodotti/vini/amarone-della-valpolicella-docg"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-nostri-prodotti/vini/muretta-valpolicella-ripasso-doc».",
+   "url": "https://www.agricolasala.it/it/i-nostri-prodotti/vini/muretta-valpolicella-ripasso-doc/",
+   "etichetta": "agricolasala.it/it/i-nostri-prodotti/vini/muretta-valpolicella-ripasso-doc"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-nostri-prodotti/vini/recioto-della-valpolicella-docg».",
+   "url": "https://www.agricolasala.it/it/i-nostri-prodotti/vini/recioto-della-valpolicella-docg/",
+   "etichetta": "agricolasala.it/it/i-nostri-prodotti/vini/recioto-della-valpolicella-docg"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/azienda/visite-e-degustazioni-guidate».",
+   "url": "https://www.agricolasala.it/it/azienda/visite-e-degustazioni-guidate/",
+   "etichetta": "agricolasala.it/it/azienda/visite-e-degustazioni-guidate"
+  },
+  {
+   "n": 10,
+   "testo": "Scheda «Azienda Agricola Sala» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=7776784174645802127",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «it/info/contatti».",
+   "url": "https://www.agricolasala.it/it/info/contatti/",
+   "etichetta": "agricolasala.it/it/info/contatti"
+  }
+ ]
+}

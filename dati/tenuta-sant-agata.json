@@ -1,0 +1,96 @@
+{
+ "nome": "Tenuta Sant Agata",
+ "slug": "tenuta-sant-agata",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Sant’Agata, 160 Castagneto Carducci [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "57022tenutasantagata@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.tenutasantagata.it|tenutasantagata.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Bolgheri DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=17978157706098236356|Mappa}} — valutazione 4,3 su 5 (12 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia, scheda del consorziato, consultato il 26 ottobre 2026.",
+   "url": "https://www.bolgheridoc.com/consorziati/tenuta-sant-agata/",
+   "etichetta": "bolgheridoc.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.tenutasantagata.it",
+   "etichetta": "tenutasantagata.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Tenuta Sant’Agata» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=17978157706098236356",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

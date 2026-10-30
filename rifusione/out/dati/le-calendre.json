@@ -1,0 +1,119 @@
+{
+ "nome": "Le Calendre",
+ "slug": "le-calendre",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Le Calendre; P.IVA 03925110235 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Omero Speri 27, San Floriano, 37029 San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Federico +39 340 7913501; Celestino +39 340 6219433; info@lecalendre.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lecalendre.it/|www.lecalendre.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia arrivata dai Monti Lessini; nel 1904 acquista una tenuta in Valpolicella; oggi quinta generazione [[4]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Circa 4 ettari ai piedi della Valpolicella Classica, a San Pietro in Cariano; tutte le viti a pergola doppia inclinata; vendemmia con selezione manuale [[4]]"
+    },
+    {
+     "etichetta": "Appassimento",
+     "valore": "Circa 120 giorni in fruttaio su cassette di legno, con perdita di almeno il 40% del peso [[4]]"
+    },
+    {
+     "etichetta": "Energia",
+     "valore": "Elettricità autoprodotta da fonti rinnovabili [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "La pagina “I nostri vini” non riporta l’elenco nel testo letto; si citano Amarone e Recioto come base dell’appassimento [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite in azienda e degustazioni su prenotazione [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «lecalendre.it».",
+   "url": "https://www.lecalendre.it/",
+   "etichetta": "lecalendre.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «lecalendre.it/contact.html».",
+   "url": "https://www.lecalendre.it/contact.html",
+   "etichetta": "lecalendre.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «lecalendre.it/tradition.html».",
+   "url": "https://www.lecalendre.it/tradition.html",
+   "etichetta": "lecalendre.it"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "nome": "Bollacasa Screm",
+ "slug": "bollacasa-screm",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agr. Bollacasa Screm sas di Buffon Paolo & C. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Bosco Mantova 104, 33082 Azzano Decimo (PN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0438 782292 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutabelcorvo.tv [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.bollacasascrem.it|bollacasascrem.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini DOC Friuli Grave [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Titolare: Buffon Paolo & C. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini nella scheda del Consorzio, senza denominazione: la scheda indica soltanto il nome del vino, per tipo (bianco, rosso) in base alle icone. L’elenco è lo stesso formato per tutti i soci; la denominazione di ciascun vino va verificata sul sito della cantina [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Friulano",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Refosco dal peduncolo rosso",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Ribolla gialla spumante",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Sauvignon",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    }
+   ],
+   "righe": []
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/tenutabelcorvo/|@tenutabelcorvo}}\nYouTube {{https://www.youtube.com/channel/UCgLIBY0B_clirycDy7sCQ2A|canale UCgLIBY0B_clirycDy7sCQ2A}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=17473254821304529111|Mappa}} [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/bollacasa-screm/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini DOC Friuli Grave, elenco delle cantine e schede delle singole cantine, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuligrave.com/cantine.html",
+   "etichetta": "docfriuligrave.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.bollacasascrem.it",
+   "etichetta": "bollacasascrem.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Tenuta Bollacasa Screm» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=17473254821304529111",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/",
+   "etichetta": "docfriuli.eu"
+  }
+ ]
+}

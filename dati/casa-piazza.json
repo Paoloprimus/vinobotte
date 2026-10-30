@@ -1,0 +1,100 @@
+{
+ "nome": "Casa Piazza",
+ "slug": "casa-piazza",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Casa Piazza S.S. Soc. Agr. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Viale Vittoria, 14 - Loncon, 30020 Annone Veneto [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni Venezia dichiarate",
+     "valore": "Lison Pramaggiore, Venezia, Lison [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@casapiazzawine.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.casapiazzawine.com/|casapiazzawine.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Venezia [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito indica le origini dell'azienda nel 1960, come storia di più generazioni di famiglia. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Vini Venezia",
+     "valore": "Non indicato nella elenco dei produttori del Consorzio; non ancora raccolto dai siti delle cantine [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/casapiazzawine|casapiazzawine}}\nInstagram {{https://www.instagram.com/casapiazzawine/|@casapiazzawine}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=9251092123229845587|Mappa}} — valutazione 5 su 5 (10 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.casapiazzawine.com/",
+   "etichetta": "casapiazzawine.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Casa Piazza» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=9251092123229845587",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

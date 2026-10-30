@@ -1,0 +1,98 @@
+{
+ "nome": "Le Pianore",
+ "slug": "le-pianore",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Le Pianore [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01580620530 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località le Pianore Monticello Amiata Grosseto 58044 IT [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3917118621 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "agri.lepianore@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lepianore.it|lepianore.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini della Maremma Toscana [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "https://www.lepianore.it",
+   "etichetta": "lepianore.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini della Maremma Toscana, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.aziendevinimaremma.it/directory/listing/le-pianore",
+   "etichetta": "aziendevinimaremma.it"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

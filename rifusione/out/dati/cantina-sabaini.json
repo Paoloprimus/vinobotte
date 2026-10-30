@@ -1,0 +1,207 @@
+{
+ "nome": "Cantina Sabaini",
+ "slug": "cantina-sabaini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Sabaini Adolfo Az. Agr. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Mormontea 6/A, 37031 Illasi (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 652 9042 · info@cantinasabaini.it; aperto mar–ven 9–12 e 15–19, sab 9–19 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinasabaini.it/|www.cantinasabaini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Tre generazioni; oggi Adolfo con la moglie Mirca e i figli Riccardo e Alberto [[4]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "115 ettari in 6 tenute (Val d’Illasi) [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche Soave, Garganega, Pinot grigio, spumanti. Annate dove indicate. [[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Solo il vino a denominazione Soave; la cantina produce anche Valpolicella, Amarone e altri vini. La scheda del vino non è nella pagina elenco. [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG Riserva",
+     "annata": "2015 [[7]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "2020 [[8]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso Superiore",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "2022 [[8]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella DOC Superiore",
+     "annata": "2022 [[8]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "2025 [[8]]"
+    },
+    {
+     "nome": "Soave",
+     "denominazione": "Soave DOC",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Pagina “Riconoscimenti 2026”: WinesCritic, The Wolf Post, Merano Wine Hunter, Vini Buoni d’Italia e altri; il sito dà all’Amarone Riserva 2015 la medaglia Platino 97/100 ai Decanter World Wine Awards 2025; dichiarati dalla cantina, non verificati da VinoBot sulle guide [[8]] [[9]]"
+    },
+    {
+     "etichetta": "Premi: WinesCritic.com",
+     "valore": "Soave 2024 [[8]]"
+    },
+    {
+     "etichetta": "Premi: Merano WineHunter",
+     "valore": "Soave DOC 2025 [[8]]"
+    },
+    {
+     "etichetta": "Premi: Vini buoni d’Italia",
+     "valore": "Soave DOC 2025 (due vini indicati con lo stesso nome nella pagina); dichiarati dalla cantina, non verificati da VinoBot sulle guide [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Esperienze",
+     "valore": "Degustazioni, eventi privati e degustazioni personalizzate; wine shop e “Caneva” [[10]] [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cantinasabaini.it con wine shop [[12]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Wine shop sul sito (richiesta informazioni); altri marketplace: presenza non verificata [[12]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social indicati dal sito (“Ci trovate anche qui”); Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre. Pagine consultate il 24 ottobre 2026 (da copia salvata del sito della cantina; elenco del consorzio consultato dal vivo). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.cantinasabaini.it/contatti/",
+   "etichetta": "cantinasabaini.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «identita-famiglia».",
+   "url": "https://www.cantinasabaini.it/identita-famiglia/",
+   "etichetta": "cantinasabaini.it/identita-famiglia"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «identita-vigneti».",
+   "url": "https://www.cantinasabaini.it/identita-vigneti/",
+   "etichetta": "cantinasabaini.it/identita-vigneti"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «wine-shop-vini».",
+   "url": "https://www.cantinasabaini.it/wine-shop-vini/",
+   "etichetta": "cantinasabaini.it/wine-shop-vini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «landing-amarone-riserva-2015».",
+   "url": "https://www.cantinasabaini.it/landing-amarone-riserva-2015/",
+   "etichetta": "cantinasabaini.it/landing-amarone-riserva-2015"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «riconoscimenti-2026».",
+   "url": "https://www.cantinasabaini.it/riconoscimenti-2026/",
+   "etichetta": "cantinasabaini.it/riconoscimenti-2026"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «2025/06/30/orgoglio-sabaini-amarone-della-valpolicella-docg-riserva-2015-premiato-con-il-platino-ai-decanter-world-wine-awards».",
+   "url": "https://www.cantinasabaini.it/2025/06/30/orgoglio-sabaini-amarone-della-valpolicella-docg-riserva-2015-premiato-con-il-platino-ai-decanter-world-wine-awards/",
+   "etichetta": "cantinasabaini.it/2025/06/30/orgoglio-sabaini-amarone-della-valpolicella-docg-riserva-2015-premiato-con-il-platino-ai-decanter-world-wine-awards"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «esperienze».",
+   "url": "https://www.cantinasabaini.it/esperienze/",
+   "etichetta": "cantinasabaini.it/esperienze"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «wine-shop-caneva».",
+   "url": "https://www.cantinasabaini.it/wine-shop-caneva/",
+   "etichetta": "cantinasabaini.it/wine-shop-caneva"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «wine-shop».",
+   "url": "https://www.cantinasabaini.it/wine-shop/",
+   "etichetta": "cantinasabaini.it/wine-shop"
+  }
+ ]
+}

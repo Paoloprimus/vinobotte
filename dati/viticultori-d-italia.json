@@ -1,0 +1,102 @@
+{
+ "nome": "Viticultori d'Italia",
+ "slug": "viticultori-d-italia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03873500239 [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390452375272 [[2]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@viticultoriditalia.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://viticultoriditalia.com/|viticultoriditalia.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Realtà nata nel 2009 nella zona del Soave per volontà di Cantine Vitevis e Cantine di Verona; dal 2014 è specializzata nel bag in box (oltre 2.000.000 di pezzi l'anno). [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Soave",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Viticultori-dItalia-107697825471862|Viticultori-dItalia-107697825471862}}\nInstagram {{https://www.instagram.com/viticultoriditalia/|@viticultoriditalia}}\nYouTube {{https://www.youtube.com/@Viticultoriditalia|@Viticultoriditalia}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=7223044396666594276|Mappa}} — valutazione 4,6 su 5 (10 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 29 ottobre 2026.",
+   "url": "https://viticultoriditalia.com/",
+   "etichetta": "viticultoriditalia.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://viticultoriditalia.com/",
+   "etichetta": "viticultoriditalia.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «VIticultori d'Italia» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=7223044396666594276",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "nome": "Schenk Italia",
+ "slug": "schenk-italia-delle-venezie",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Schenk Italia S.p.A. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Stazione 43, 39040 Ora (BZ) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0471 803311; schenk.italia@schenk.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.schenkitalia.it/|www.schenkitalia.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Valpolicella: {{/pagine/schenk-italia.html|scheda Valpolicella}} [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini DOC Delle Venezie: {{/pagine/schenk-italia-delle-venezie.html|scheda Delle Venezie}} [[3]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via Stazione, 43, 39040 Ora BZ; tel. 0471803311; schenk.italia@schenk.it; schenkitalia.it [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Gruppo vitivinicolo dal 1952 con tenute in Alto Adige (Cantine di Ora), Veneto (Bacio della Luna, Vidor), Toscana (Lunadoro) e Puglia (Masso Antico) [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio La Gondola",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Pinot Grigio Bella Sera",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Pinot Grigio ramato Amicone",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Pinot Grigio ramato il Casato",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "E-shop Vineria43 indicato dal sito; altri marketplace: presenza non verificata [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook, Instagram, LinkedIn, YouTube indicati dal sito; altre presenze non verificate [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://www.schenkitalia.it/it/contatti/",
+   "etichetta": "schenkitalia.it/it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.schenkitalia.it/",
+   "etichetta": "schenkitalia.it"
+  }
+ ]
+}

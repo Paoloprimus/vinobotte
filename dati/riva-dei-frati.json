@@ -1,0 +1,102 @@
+{
+ "nome": "Riva dei Frati",
+ "slug": "riva-dei-frati",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Riva dei Frati [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02126780267 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@rivadeifrati.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.rivadeifrati.it/it/|rivadeifrati.it}} — raggiungibile al controllo del 29 ottobre 2026 [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Le origini risalgono al 1256, con i frati domenicani di Treviso; oggi la tenuta è della famiglia Adami Merotto, che il sito indica alla sesta generazione. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Conegliano Valdobbiadene",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto dal sito della cantina [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Rivadeifrati|Rivadeifrati}}\nInstagram {{https://www.instagram.com/rivadeifrati/|@rivadeifrati}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=297425577999222894|Mappa}} — valutazione 4,8 su 5 (45 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/riva-dei-frati/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 29 ottobre 2026.",
+   "url": "https://www.rivadeifrati.it/it/",
+   "etichetta": "rivadeifrati.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.rivadeifrati.it/it/",
+   "etichetta": "rivadeifrati.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Riva dei Frati S.R.L. - Uffici e Magazzino» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=297425577999222894",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

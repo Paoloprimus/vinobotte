@@ -1,0 +1,182 @@
+{
+ "nome": "La Dama Vini",
+ "slug": "la-dama-vini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Dama s.s.a. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03667360238 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Giuseppe Quintarelli 39, San Vito di Negrar, 37024 Negrar di Valpolicella (VR) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "045 6000728\nfax 045 6011442 [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ladamavini.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ladamavini.it/|www.ladamavini.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Prima generazione di vignaioli, iscritti FIVI; uve e vini biologici certificati dall’annata 2015 [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Due corpi nella Valpolicella Classica: Ca’ Besi a Negrar e Colombarino a Sant’Ambrogio di Valpolicella [[4]]"
+    },
+    {
+     "etichetta": "Cantina",
+     "valore": "Fruttaio ad aerazione naturale; architettura con tinte rubino e celeste [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta l’elenco delle etichette né le annate; il sito cita il Recioto 2022 con un nuovo riconoscimento. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Recioto della Valpolicella",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "2022 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Un nuovo riconoscimento per il Recioto 2022 (notizia in home), senza guida né punteggio nel testo [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Esperienze",
+     "valore": "Degustazioni, eventi privati e business, aperture straordinarie settembre–ottobre 2026, eventi in cantina; wine club [[6]] [[7]] [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "ladamavini.it in italiano, inglese e tedesco, con wine club e shop [[8]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://it-it.facebook.com/ladamavini|ladamavini}}\nInstagram {{https://www.instagram.com/ladamavini/|@ladamavini}} [[9]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "Wine club e shop sul sito [[8]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12214092751351906443|Mappa}} — valutazione 4,8 su 5 (285 recensioni) [[10]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[11]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «ladamavini.it», consultata il 25 ottobre 2026.",
+   "url": "https://www.ladamavini.it/",
+   "etichetta": "ladamavini.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://ladamavini.it/",
+   "etichetta": "ladamavini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vigneti».",
+   "url": "https://www.ladamavini.it/vigneti/",
+   "etichetta": "ladamavini.it/vigneti"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «cantina».",
+   "url": "https://www.ladamavini.it/cantina/",
+   "etichetta": "ladamavini.it/cantina"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «degustazioni».",
+   "url": "https://www.ladamavini.it/degustazioni/",
+   "etichetta": "ladamavini.it/degustazioni"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «eventi_privati_business».",
+   "url": "https://www.ladamavini.it/eventi_privati_business/",
+   "etichetta": "ladamavini.it/eventi_privati_business"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «wineclub».",
+   "url": "https://ladamavini.it/wineclub/",
+   "etichetta": "ladamavini.it/wineclub"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.ladamavini.it/",
+   "etichetta": "ladamavini.it"
+  },
+  {
+   "n": 10,
+   "testo": "Scheda «La Dama Vini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12214092751351906443",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 11,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

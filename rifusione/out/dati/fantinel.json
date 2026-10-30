@@ -1,0 +1,130 @@
+{
+ "nome": "Fantinel",
+ "slug": "fantinel",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Gruppo Vinicolo Fantinel S.p.A.; P.IVA 00486360308 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Tesis 8, 33097 Tauriano di Spilimbergo (PN) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0427 591511; fax +39 0427 591529; fantinel@fantinel.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fantinel.com/|www.fantinel.com}} [[1]]"
+    },
+    {
+     "etichetta": "Descrizione",
+     "valore": "Cantina del Friuli Venezia Giulia (Pordenone) che gestisce oltre 300 ettari di vigneti nelle zone DOC Friuli, Prosecco e Collio; marchi e linee: Fantinel (Borgo Tesis, One&Only), Tenuta Sant’Helena (Vencò di Dolegna del Collio), La Roncaia, Zuccolo, The Independent Prosecco, Sun Goddess, Testa & Molinaro [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Collio [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata nel 1969 da Mario Fantinel, che acquistò i primi vigneti nel Collio; poi i figli Luciano, Gianfranco e Loris; oggi la terza generazione con Marco e Stefano [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Extra Dry",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "One&Only Millesimato Brut",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Elenco vini Collio",
+     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Dichiarati dalla cantina sul sito. Per i Prosecco: The Global Prosecco Masters 2024, argento al One&Only Prosecco 2023, e 2023, oro al One&Only Prosecco Brut 2022; James Suckling (luglio 2024) 90 punti al One&Only Prosecco 2023; Vinous (2023-2024) 90+ punti allo stesso vino. Per altri vini friulani: Vini d’Italia (Gambero Rosso) 2026, 2 Bicchieri Rossi (finale) al Frontiere Pinot Bianco 2023; Vinoway 2025, 95 punti al Caterina Ribolla Gialla 2024; Mundus Vini 2025, oro al Rocciaponca Pinot Grigio 2023. Il sito conserva un archivio dal 2009 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda del Consorzio e sito ufficiale della cantina, consultati il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre. Scheda della cantina nell’elenco del Consorzio Tutela Vini Collio, consultata il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre. Scheda della cantina nell’elenco delle aziende del Consorzio DOC Friuli, consultata il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine «Noi», «Prodotti», «Riconoscimenti» e «Contatti», testo copiato a mano il 25 ottobre 2026.",
+   "url": "https://www.fantinel.com/",
+   "etichetta": "fantinel.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026 (dati copiati dal sito del Consorzio).",
+   "url": "https://www.docfriuli.eu/aziende/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini Collio, scheda della cantina nell’elenco dei produttori, consultata il 25 ottobre 2026 (dati copiati dal sito del Consorzio).",
+   "url": "https://www.collio.it/cantina/fantinel/",
+   "etichetta": "collio.it"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026 (dati copiati dal sito del Consorzio).",
+   "url": "https://www.docfriuli.eu/aziende/fantinel/",
+   "etichetta": "docfriuli.eu"
+  }
+ ]
+}

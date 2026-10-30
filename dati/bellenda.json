@@ -1,0 +1,129 @@
+{
+ "nome": "Bellenda",
+ "slug": "bellenda",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Bellenda [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Gaetano Giardino, 90 31029 Vittorio Veneto Loc. Carpesica (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390438920025 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bellenda.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.bellenda.it/|www.bellenda.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: \"Rive\" extra brut, \"Rive\" dry, brut, extra dry, sui lieviti [[1]]"
+    },
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco",
+     "valore": "Tipologie indicate: Frizzante \"rifermentato in bottiglia\" [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "E-commerce; Pernottamento; Tour in bici; Vendita al dettaglio; Visita e degustazione [[1]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fra 300.000 e 500.000 bottiglie [[1]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "SQNPI [[1]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese, Tedesco [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Bellenda1986|Bellenda1986}}\nInstagram {{https://www.instagram.com/bellenda1986/|@bellenda1986}}\nYouTube {{https://www.youtube.com/user/bellenda1986|bellenda1986}}\nX {{https://x.com/bellenda1986|@bellenda1986}} [[2]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.shop.bellenda.it/|shop.bellenda.it}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=17896441498809371414|Mappa}} — valutazione 4,6 su 5 (86 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/bellenda/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.bellenda.it/",
+   "etichetta": "bellenda.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Bellenda» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=17896441498809371414",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "nome": "Villa Morago",
+ "slug": "villa-morago",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Villa Morago / Consorzio Idro Scarl (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "06950840964 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Comina 39, 20831 Seregno (MB) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 0362 27511 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.villamorago.it/|www.villamorago.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Il marchio richiama la contrada e la villa di Morago, nella Valpolicella DOC; etichette con le decorazioni della villa, dipinte dal conte Enrico Cartolari Falzago [[3]]"
+    },
+    {
+     "etichetta": "Dati dichiarati",
+     "valore": "300.000 bottiglie prodotte; 20 ettari di vigneti; 7 tipi di uva coltivati [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; il catalogo comprende anche Pinot Grigio, Prosecco, Lessini Durello, Bianco Veronese e Corvina IGT. Il sito non riporta le annate. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Villa Morago San Zeno",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Villa Morago San Zeno Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG Riserva",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Villa Morago",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–ven 9–12 e 15–17; sab e dom chiuso (sede) [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Shop online sul sito; altri marketplace: presenza non verificata [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook indicato dal sito; altre presenze non verificate [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.villamorago.it/contatti/",
+   "etichetta": "villamorago.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://www.villamorago.it/chi-siamo/",
+   "etichetta": "villamorago.it/chi-siamo"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «shop».",
+   "url": "https://www.villamorago.it/shop/",
+   "etichetta": "villamorago.it/shop"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «shop/rossi/amarone-della-valpolicella-san-zeno-docg-villa-morago».",
+   "url": "https://www.villamorago.it/shop/rossi/amarone-della-valpolicella-san-zeno-docg-villa-morago/",
+   "etichetta": "villamorago.it/shop/rossi/amarone-della-valpolicella-san-zeno-docg-villa-morago"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «shop/rossi/amarone-della-valpolicella-riserva-san-zeno-docg-villa-morago».",
+   "url": "https://www.villamorago.it/shop/rossi/amarone-della-valpolicella-riserva-san-zeno-docg-villa-morago/",
+   "etichetta": "villamorago.it/shop/rossi/amarone-della-valpolicella-riserva-san-zeno-docg-villa-morago"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «shop/rossi/valpolicella-ripasso-doc-villa-morago».",
+   "url": "https://www.villamorago.it/shop/rossi/valpolicella-ripasso-doc-villa-morago/",
+   "etichetta": "villamorago.it/shop/rossi/valpolicella-ripasso-doc-villa-morago"
+  }
+ ]
+}

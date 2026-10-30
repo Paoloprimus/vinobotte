@@ -1,0 +1,186 @@
+{
+ "nome": "Camporeale",
+ "slug": "camporeale",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Camporeale Soc. Agr. di Mario Lavarini e C. s.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04502930235 [[2]]"
+    },
+    {
+     "etichetta": "Sede e punto vendita",
+     "valore": "Via Casa Zamboni 2, Arbizzano, 37024 Negrar di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 6020624 · info@camporealevini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.camporealevini.it/|www.camporealevini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Proprietà",
+     "valore": "Mario Lavarini, fondatore, con la moglie Renata e i figli Luca e Marco [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "A Marano di Valpolicella, località Camporeale, circa 350 m, per Amarone e Recioto; ad Arbizzano di Negrar, circa 85 m, per il Valpolicella Classico [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Dal catalogo del sito; le annate non sono indicate nelle pagine prodotto lette. [[3]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella Classico (anche Magnum)",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto della Valpolicella Classico",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso Classico Superiore (anche Magnum)",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Pagina “Premi e riconoscimenti”: Luca Maroni 2024 (Amarone Classico Riserva 2017), Luca Maroni 2023 (Reoltre 2018), Top 100 2022 (Valpolicella Classico Superiore 2018), 5StarWines 2019 (Amarone Classico Riserva 2013), Merum 2020 (Valpolicella Classico 2018), VR Wine Top 2016; dichiarati dalla cantina, non verificati da VinoBot sulle guide [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–ven 9–18, sabato 9–17 [[2]]"
+    },
+    {
+     "etichetta": "Tour",
+     "valore": "Il sito propone un tour dal vigneto alla cantina [[3]]"
+    },
+    {
+     "etichetta": "Punto vendita",
+     "valore": "Vendita in cantina e ordini online [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "camporealevini.it, in italiano, inglese e tedesco [[3]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.camporealevini.it/contatti",
+   "etichetta": "camporealevini.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.camporealevini.it/",
+   "etichetta": "camporealevini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «product/amarone-della-valpolicella-classico».",
+   "url": "https://www.camporealevini.it/product/amarone-della-valpolicella-classico",
+   "etichetta": "camporealevini.it/product/amarone-della-valpolicella-classico"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «product/recioto-della-valpolicella-classico».",
+   "url": "https://www.camporealevini.it/product/recioto-della-valpolicella-classico",
+   "etichetta": "camporealevini.it/product/recioto-della-valpolicella-classico"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «product/valpolicella-classico».",
+   "url": "https://www.camporealevini.it/product/valpolicella-classico",
+   "etichetta": "camporealevini.it/product/valpolicella-classico"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «product/valpolicella-classico-superiore».",
+   "url": "https://www.camporealevini.it/product/valpolicella-classico-superiore",
+   "etichetta": "camporealevini.it/product/valpolicella-classico-superiore"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «product/valpolicella-ripasso-classico-superiore».",
+   "url": "https://www.camporealevini.it/product/valpolicella-ripasso-classico-superiore",
+   "etichetta": "camporealevini.it/product/valpolicella-ripasso-classico-superiore"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «premi-e-riconoscimenti».",
+   "url": "https://www.camporealevini.it/premi-e-riconoscimenti",
+   "etichetta": "camporealevini.it/premi-e-riconoscimenti"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «ordina-qui».",
+   "url": "https://www.camporealevini.it/ordina-qui",
+   "etichetta": "camporealevini.it/ordina-qui"
+  }
+ ]
+}

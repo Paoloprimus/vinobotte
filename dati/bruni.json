@@ -1,0 +1,110 @@
+{
+ "nome": "Bruni",
+ "slug": "bruni",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Bruni [[1]]\nAzienda Bruni [[2]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00275100535 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Vicinale La Migliorina, Loc. La Marta 6 Fonteblanda GR 58015 IT [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0564885445 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@aziendabruni.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.aziendabruni.it|aziendabruni.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini della Maremma Toscana [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda a conduzione familiare attiva dal 1960. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Morellino di Scansano DOCG; Maremma Toscana DOC [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Morellino di Scansano DOCG; Maremma Toscana DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: presenza non verificata\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2416949700837329844|Mappa}} — valutazione 4,5 su 5 (64 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini della Maremma Toscana, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.aziendevinimaremma.it/directory/listing/cantine-bruni",
+   "etichetta": "aziendevinimaremma.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.aziendabruni.it",
+   "etichetta": "aziendabruni.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.aziendabruni.it",
+   "etichetta": "aziendabruni.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Azienda Agricola Bruni» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2416949700837329844",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

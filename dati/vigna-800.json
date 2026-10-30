@@ -1,0 +1,198 @@
+{
+ "nome": "Vigna ’800",
+ "slug": "vigna-800",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Vigna ’800 di Elampini Gianfranco [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03267950230 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Moron 46, 37024 Negrar di Valpolicella (VR) [[1]]; Santa Maria di Negrar [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 335 6343836 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "franco@vigna800.com\nPEC vigna.800@pec.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vigna800.com/|www.vigna800.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata nel 2001 da Gianfranco Elampini, con le sole uve della Valpolicella; padre Gino [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Colline di Negrar; Corvina, Corvinone, Rondinella, Molinara; vigneto nel brolo di Villa Cà Paletta [[4]] [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella e il rosso IGT; la cantina produce anche Garganega e uno spumante rosato. Il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Virgo Moron",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "El Campanar",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "El Campanar",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Fuorinorma",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "La Cesolina",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Ospitalità",
+     "valore": "La Locanda ’800; “dove il vino incontra l’ospitalità” [[2]] [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Sezione Diario con “Premi e riconoscimenti”, non dettagliata sul sito [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13556030347438646619|Mappa}} — valutazione 4,8 su 5 (25 recensioni) [[12]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[13]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.vigna800.com/contatti",
+   "etichetta": "vigna800.com/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «gianfranco».",
+   "url": "https://www.vigna800.com/gianfranco",
+   "etichetta": "vigna800.com/gianfranco"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vino».",
+   "url": "https://www.vigna800.com/vino",
+   "etichetta": "vigna800.com/vino"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «fuorinormaita».",
+   "url": "https://www.vigna800.com/fuorinormaita",
+   "etichetta": "vigna800.com/fuorinormaita"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «amarone».",
+   "url": "https://www.vigna800.com/amarone",
+   "etichetta": "vigna800.com/amarone"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «recioto_ita».",
+   "url": "https://www.vigna800.com/recioto_ita",
+   "etichetta": "vigna800.com/recioto_ita"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «ripasso».",
+   "url": "https://www.vigna800.com/ripasso",
+   "etichetta": "vigna800.com/ripasso"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella».",
+   "url": "https://www.vigna800.com/valpolicella",
+   "etichetta": "vigna800.com/valpolicella"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.vigna800.com/",
+   "etichetta": "vigna800.com"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «diarionews».",
+   "url": "https://www.vigna800.com/diarionews",
+   "etichetta": "vigna800.com/diarionews"
+  },
+  {
+   "n": 12,
+   "testo": "Scheda «Az. Agricola VIGNA ‘800» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13556030347438646619",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 13,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

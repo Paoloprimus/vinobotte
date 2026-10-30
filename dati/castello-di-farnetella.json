@@ -1,0 +1,106 @@
+{
+ "nome": "Castello Di Farnetella",
+ "slug": "castello-di-farnetella",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Fèlsina S.p.A. Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00234940526 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via del Chianti, 101 – Loc. Felsina – 53019 CASTELNUOVO BERARDENGA (SI) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@felsina.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.farnetella.com|farnetella.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Chianti Colli Senesi [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Acquistato nel 1981 dalla famiglia Poggiali, proprietaria anche della fattoria di Fèlsina. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Chianti Colli Senesi DOCG; Chianti Colli Senesi Riserva DOCG [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": " Via del Chianti, 101 - 53019 Castelnuovo Berardenga (SI) | P.Iva: 00234940526 Privacy | Credits Utilizziamo|http://www.farnetella.com",
+   "etichetta": " Via del Chianti, 101 - 53019 Castelnuovo Berardenga (SI) | P.Iva: 00234940526 Privacy | Credits Utilizziamo|http:"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Chianti Colli Senesi, elenco delle aziende e dei produttori, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziochianticollisenesi.it/aziende-e-produttori/",
+   "etichetta": "consorziochianticollisenesi.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.farnetella.com",
+   "etichetta": "farnetella.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.farnetella.com",
+   "etichetta": "farnetella.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

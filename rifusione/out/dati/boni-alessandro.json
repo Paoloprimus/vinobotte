@@ -1,0 +1,164 @@
+{
+ "nome": "Boni Alessandro",
+ "slug": "boni-alessandro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Boni Alessandro di Boni C. e Consolini A. s.s. [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Crosara 17, 37024 Negrar di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 340 259 7860 · info@bonialessandro.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bonialessandro.it/|www.bonialessandro.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Cristina con il marito Alberto, figlia di Alessandro Boni [[3]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Fondata nel 1960 a Negrar dal nonno Luigi Boni; fino a metà anni Ottanta Luigi, poi il figlio Alessandro, che dà il nome all’etichetta [[3]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "Negrar di Valpolicella, Valpolicella Classica [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "Tutti di proprietà, in zona collinare, esposti al sole per l’intera giornata [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Amarone della Valpolicella Classico, Valpolicella Ripasso Classico Superiore, Recioto della Valpolicella Classico, Valpolicella Classico Superiore, Valpolicella Classico [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette come indicate sul sito della cantina. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Valpolicella Ripasso Classico Superiore",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "2023 (5140 bottiglie e 96 magnum)"
+    },
+    {
+     "nome": "Sandro",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "2021 (550 bottiglie)"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "—"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Da lunedì a sabato su prenotazione; domenica chiuso [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "bonialessandro.it, in italiano e inglese, con pagina per vino [[3]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Il sito non mostra un negozio online [[3]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://www.bonialessandro.it/it/contatti",
+   "etichetta": "bonialessandro.it/it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.bonialessandro.it/",
+   "etichetta": "bonialessandro.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini».",
+   "url": "https://www.bonialessandro.it/it/vini",
+   "etichetta": "bonialessandro.it/it/vini"
+  }
+ ]
+}

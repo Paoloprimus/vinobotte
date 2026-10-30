@@ -1,0 +1,153 @@
+{
+ "nome": "Trabucchi d’Illasi",
+ "slug": "trabucchi-dillasi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Semplice Dal Forno Bros., proprietaria della cantina e della tenuta (marchio Trabucchi) [[5]]; il Consorzio riporta «Az. Agr. Trabucchi d’Illasi» [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località Monte Tenda 5, 37031 Illasi (VR) [[5]]; il Consorzio riporta il civico 3 [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04834030233 [[5]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7833233; info@trabucchi.wine [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.trabucchidillasi.it/|www.trabucchidillasi.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Soave e Recioto di Soave: {{/pagine/trabucchi-dillasi-soave.html|scheda Soave}} [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina del 1924; cantina e tenuta di proprietà della società Dal Forno Bros, che commercializza i marchi Trabucchi e Comaroto [[2]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Est veronese, “Valpolicella allargata” fuori dalla zona classica; agricoltura biologica, certificata da oltre 30 anni secondo il sito [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Annate in vendita indicate dal sito. [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Galante",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "2015 [[2]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Superiore DOC Ripasso",
+     "annata": "2018 [[2]]"
+    },
+    {
+     "nome": "Terra del Cereolo",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "2016 [[2]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "2013 [[2]]"
+    },
+    {
+     "nome": "Riserva Cent’anni",
+     "denominazione": "Amarone della Valpolicella Riserva DOCG",
+     "annata": "2008 [[2]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "2010 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite guidate con degustazione su prenotazione [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Shop online in collaborazione con VaiGustando.it; altri marketplace: presenza non verificata [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook e Twitter indicati dal sito; altre presenze non verificate [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "http://www.trabucchidillasi.it/",
+   "etichetta": "trabucchidillasi.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «uncategorized/hello-world».",
+   "url": "https://trabucchi.wine/uncategorized/hello-world/",
+   "etichetta": "trabucchi.wine/uncategorized/hello-world"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, consultato il 25 ottobre 2026, pagina «trabucchi.wine» (verifica incrociata).",
+   "url": "https://trabucchi.wine/",
+   "etichetta": "trabucchi.wine"
+  }
+ ]
+}

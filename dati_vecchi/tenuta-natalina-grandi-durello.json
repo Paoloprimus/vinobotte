@@ -1,0 +1,106 @@
+{
+ "nome": "Tenuta Natalina Grandi",
+ "slug": "tenuta-natalina-grandi-durello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Natalina Grandi [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Btg. Vicenza 8, 36053 Gambellara (VI) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0444 444102; info@cantinagrandi.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinagrandi.com|cantinagrandi.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cinque generazioni di viticoltori a Gambellara; azienda aperta da Natalina Grandi nel 1991, Tenuta dal 2016; dal 2016 segue le linee guida della certificazione biologica [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Annate non indicate.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Durello (Brut, Charmat)",
+     "denominazione": "Gambellara DOC (come indicato nella pagina prodotto; elencato come «Lessini DOC» nel catalogo)",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Durello Spumante Extra Brut",
+     "denominazione": "Gambellara DOC (come indicato nella pagina prodotto; elencato come «Lessini DOC» nel catalogo) – Metodo Classico",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://montilessini.com/tenuta-natalina-grandi/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «cantinagrandi.com/product-page/durello-spumante-brut-metodo-charmat-lessini-gambellara-vulcanico».",
+   "url": "https://www.cantinagrandi.com/product-page/durello-spumante-brut-metodo-charmat-lessini-gambellara-vulcanico",
+   "etichetta": "cantinagrandi.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «cantinagrandi.com/product-page/durello-spumante-extra-brut-metodo-classico-lessini-gambellara-vulcanico».",
+   "url": "https://www.cantinagrandi.com/product-page/durello-spumante-extra-brut-metodo-classico-lessini-gambellara-vulcanico",
+   "etichetta": "cantinagrandi.com"
+  }
+ ]
+}

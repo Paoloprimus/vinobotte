@@ -1,0 +1,1338 @@
+[
+{
+"slug": "tenuta-di-monte-chiaro",
+"nome": "Tenuta di Monte Chiaro",
+"regione": "Toscana",
+"comune": "Siena",
+"tipi": {
+"colli-senesi": [
+"Chianti Colli Senesi"
+]
+},
+"membri": [
+"tenuta-di-monte-chiaro"
+],
+"primario": "tenuta-di-monte-chiaro"
+},
+{
+"slug": "villa-triturris",
+"nome": "Villa Triturris",
+"regione": "Toscana",
+"comune": "San Casciano in Val di Pesa",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico Gran Selezione",
+"Chianti Classico"
+]
+},
+"membri": [
+"villa-triturris"
+],
+"primario": "villa-triturris"
+},
+{
+"slug": "tenuta-moriniello",
+"nome": "Tenuta Moriniello",
+"regione": "Toscana",
+"comune": "Montaione",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"tenuta-moriniello"
+],
+"primario": "tenuta-moriniello"
+},
+{
+"slug": "fattoria-loppiano",
+"nome": "Fattoria Loppiano",
+"regione": "Toscana",
+"comune": "Figline e Incisa Valdarno",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"fattoria-loppiano"
+],
+"primario": "fattoria-loppiano"
+},
+{
+"slug": "donna-enrica",
+"nome": "Donna Enrica",
+"regione": "Toscana",
+"comune": "Montepulciano",
+"tipi": {
+"nobile": [
+"Vino Nobile di Montepulciano"
+]
+},
+"membri": [
+"donna-enrica"
+],
+"primario": "donna-enrica"
+},
+{
+"slug": "poggioconte",
+"nome": "PoggioConte",
+"regione": "Toscana",
+"comune": "Siena",
+"tipi": {
+"brunello": [
+"Brunello di Montalcino"
+]
+},
+"membri": [
+"poggioconte"
+],
+"primario": "poggioconte"
+},
+{
+"slug": "podere-spazzavento",
+"nome": "Podere Spazzavento",
+"regione": "Toscana",
+"comune": "Ponsacco",
+"tipi": {
+"terre-di-pisa": [
+"Terre di Pisa Vermentino"
+],
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"podere-spazzavento"
+],
+"primario": "podere-spazzavento"
+},
+{
+"slug": "fabbrica-pienza",
+"nome": "Fabbrica Pienza",
+"regione": "Toscana",
+"comune": "Pienza",
+"tipi": {
+"orcia": [
+"Orcia"
+]
+},
+"membri": [
+"fabbrica-pienza"
+],
+"primario": "fabbrica-pienza"
+},
+{
+"slug": "tenute-pietro-caciorgna",
+"nome": "Tenute Pietro Caciorgna",
+"regione": "Toscana",
+"comune": "Casole d'Elsa",
+"tipi": {
+"terre-di-casole": [
+"Terre di Casole"
+],
+"etna": [
+"Etna Rosso"
+]
+},
+"membri": [
+"tenute-pietro-caciorgna"
+],
+"primario": "tenute-pietro-caciorgna"
+},
+{
+"slug": "fabiani",
+"nome": "Fabiani",
+"regione": "Toscana",
+"comune": "Cinigiano",
+"tipi": {
+"montecucco": [
+"Montecucco"
+]
+},
+"membri": [
+"fabiani"
+],
+"primario": "fabiani"
+},
+{
+"slug": "la-corsa",
+"nome": "La Corsa",
+"regione": "Toscana",
+"comune": "Orbetello",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+]
+},
+"membri": [
+"la-corsa"
+],
+"primario": "la-corsa"
+},
+{
+"slug": "le-stadere",
+"nome": "Le Stadère",
+"regione": "Toscana",
+"comune": "Scansano",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"le-stadere"
+],
+"primario": "le-stadere"
+},
+{
+"slug": "cencini",
+"nome": "Cencini",
+"regione": "Toscana",
+"comune": "",
+"tipi": {
+"pitigliano": [
+"Sovana Rosso",
+"Bianco di Pitigliano"
+]
+},
+"membri": [
+"cencini"
+],
+"primario": "cencini"
+},
+{
+"slug": "fabrizio-pratesi",
+"nome": "Fabrizio Pratesi",
+"regione": "Toscana",
+"comune": "Carmignano",
+"tipi": {
+"carmignano": [
+"Carmignano"
+]
+},
+"membri": [
+"fabrizio-pratesi"
+],
+"primario": "fabrizio-pratesi"
+},
+{
+"slug": "tenuta-di-morzano",
+"nome": "Tenuta di Morzano",
+"regione": "Toscana",
+"comune": "Montespertoli",
+"tipi": {
+"chianti": [
+"Chianti",
+"Chianti Superiore",
+"Vin Santo del Chianti"
+]
+},
+"membri": [
+"tenuta-di-morzano"
+],
+"primario": "tenuta-di-morzano"
+},
+{
+"slug": "tenuta-san-vito",
+"nome": "Tenuta San Vito",
+"regione": "Toscana",
+"comune": "Montelupo Fiorentino",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"tenuta-san-vito"
+],
+"primario": "tenuta-san-vito"
+},
+{
+"slug": "tenuta-acquacalda",
+"nome": "Tenuta Acquacalda",
+"regione": "Toscana",
+"comune": "Marciana Marina",
+"tipi": {
+"elba": [
+"Elba"
+]
+},
+"membri": [
+"tenuta-acquacalda"
+],
+"primario": "tenuta-acquacalda"
+},
+{
+"slug": "corbucci",
+"nome": "Corbucci",
+"regione": "Toscana",
+"comune": "San Gimignano",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"corbucci"
+],
+"primario": "corbucci"
+},
+{
+"slug": "matteoli",
+"nome": "Matteoli",
+"regione": "Toscana",
+"comune": "Gaiole in Chianti",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+]
+},
+"membri": [
+"matteoli"
+],
+"primario": "matteoli"
+},
+{
+"slug": "tenuta-moriano",
+"nome": "Tenuta Moriano",
+"regione": "Toscana",
+"comune": "Montespertoli",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"tenuta-moriano"
+],
+"primario": "tenuta-moriano"
+},
+{
+"slug": "le-buche",
+"nome": "Le Buche",
+"regione": "Toscana",
+"comune": "Sarteano",
+"tipi": {
+"orcia": [
+"Orcia"
+]
+},
+"membri": [
+"le-buche"
+],
+"primario": "le-buche"
+},
+{
+"slug": "la-piana",
+"nome": "La Piana",
+"regione": "Toscana",
+"comune": "Palaia",
+"tipi": {
+"terre-di-pisa": [
+"Terre di Pisa"
+],
+"chianti": [
+"Chianti Superiore",
+"Vin Santo del Chianti"
+]
+},
+"membri": [
+"la-piana"
+],
+"primario": "la-piana"
+},
+{
+"slug": "podere-414",
+"nome": "Podere 414",
+"regione": "Toscana",
+"comune": "Magliano in Toscana",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+]
+},
+"membri": [
+"podere-414"
+],
+"primario": "podere-414"
+},
+{
+"slug": "podere-lavandaro",
+"nome": "Podere Lavandaro",
+"regione": "Toscana",
+"comune": "Fosdinovo",
+"tipi": {
+"colli-di-luni": [
+"Colli di Luni"
+]
+},
+"membri": [
+"podere-lavandaro"
+],
+"primario": "podere-lavandaro"
+},
+{
+"slug": "il-sosso",
+"nome": "Il Sosso",
+"regione": "Toscana",
+"comune": "Sinalunga",
+"tipi": {
+"chianti": [
+"Chianti",
+"Vin Santo del Chianti"
+]
+},
+"membri": [
+"il-sosso"
+],
+"primario": "il-sosso"
+},
+{
+"slug": "col-di-bacche",
+"nome": "Col di Bacche",
+"regione": "Toscana",
+"comune": "Magliano in Toscana",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+]
+},
+"membri": [
+"col-di-bacche"
+],
+"primario": "col-di-bacche"
+},
+{
+"slug": "celestina-fe",
+"nome": "Celestina Fè",
+"regione": "Toscana",
+"comune": "Magliano in Toscana",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"celestina-fe"
+],
+"primario": "celestina-fe"
+},
+{
+"slug": "rabitti",
+"nome": "Rabitti",
+"regione": "Toscana",
+"comune": "Suvereto",
+"tipi": {
+"val-di-cornia": [
+"Val di Cornia"
+]
+},
+"membri": [
+"rabitti"
+],
+"primario": "rabitti"
+},
+{
+"slug": "amantis",
+"nome": "Amantis",
+"regione": "Toscana",
+"comune": "Castel del Piano",
+"tipi": {
+"montecucco": [
+"Montecucco"
+],
+"brunello": [
+"Brunello di Montalcino"
+]
+},
+"membri": [
+"amantis"
+],
+"primario": "amantis"
+},
+{
+"slug": "campo-bargello",
+"nome": "Campo Bargello",
+"regione": "Toscana",
+"comune": "Massa Marittima",
+"tipi": {
+"monteregio": [
+"Monteregio di Massa Marittima"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"campo-bargello"
+],
+"primario": "campo-bargello"
+},
+{
+"slug": "villa-patrizia",
+"nome": "Villa Patrizia",
+"regione": "Toscana",
+"comune": "Roccalbegna",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+],
+"montecucco": [
+"Montecucco"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"villa-patrizia"
+],
+"primario": "villa-patrizia"
+},
+{
+"slug": "villa-corano",
+"nome": "Villa Corano",
+"regione": "Toscana",
+"comune": "",
+"tipi": {
+"pitigliano": [
+"Bianco di Pitigliano",
+"Sovana Rosso"
+]
+},
+"membri": [
+"villa-corano"
+],
+"primario": "villa-corano"
+},
+{
+"slug": "vallorsi",
+"nome": "Vallorsi",
+"regione": "Toscana",
+"comune": "",
+"tipi": {
+"terre-di-pisa": [
+"Terre di Pisa"
+]
+},
+"membri": [
+"vallorsi"
+],
+"primario": "vallorsi"
+},
+{
+"slug": "val-delle-rose",
+"nome": "Val delle Rose",
+"regione": "Toscana",
+"comune": "Grosseto",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"val-delle-rose"
+],
+"primario": "val-delle-rose"
+},
+{
+"slug": "tenuta-di-trecciano",
+"nome": "Tenuta di Trecciano",
+"regione": "Toscana",
+"comune": "Sovicille",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"tenuta-di-trecciano"
+],
+"primario": "tenuta-di-trecciano"
+},
+{
+"slug": "tenuta-torciano",
+"nome": "Tenuta Torciano",
+"regione": "Toscana",
+"comune": "San Gimignano",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"tenuta-torciano"
+],
+"primario": "tenuta-torciano"
+},
+{
+"slug": "fattoria-santappiano",
+"nome": "Fattoria Sant'Appiano",
+"regione": "Toscana",
+"comune": "Barberino Tavarnelle",
+"tipi": {
+"chianti": [
+"Chianti",
+"Chianti Superiore"
+]
+},
+"membri": [
+"fattoria-santappiano"
+],
+"primario": "fattoria-santappiano"
+},
+{
+"slug": "fattoria-acquaviva",
+"nome": "Fattoria Acquaviva",
+"regione": "Toscana",
+"comune": "Manciano",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"fattoria-acquaviva"
+],
+"primario": "fattoria-acquaviva"
+},
+{
+"slug": "provveditore",
+"nome": "Provveditore",
+"regione": "Toscana",
+"comune": "Scansano",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+],
+"maremma": [
+"Maremma Toscana"
+],
+"prosecco": [
+"Prosecco"
+],
+"euganei": [
+"Colli Euganei Fior d'Arancio"
+]
+},
+"membri": [
+"provveditore"
+],
+"primario": "provveditore"
+},
+{
+"slug": "poggio-san-polo",
+"nome": "Poggio San polo",
+"regione": "Toscana",
+"comune": "Gaiole in Chianti",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+]
+},
+"membri": [
+"poggio-san-polo"
+],
+"primario": "poggio-san-polo"
+},
+{
+"slug": "podere-arcangelo",
+"nome": "Podere Arcangelo",
+"regione": "Toscana",
+"comune": "San Gimignano",
+"tipi": {
+"vernaccia": [
+"Vernaccia di San Gimignano"
+],
+"colli-senesi": [
+"Chianti Colli Senesi"
+]
+},
+"membri": [
+"podere-arcangelo"
+],
+"primario": "podere-arcangelo"
+},
+{
+"slug": "pietro-beconcini",
+"nome": "Pietro Beconcini",
+"regione": "Toscana",
+"comune": "San Miniato",
+"tipi": {
+"chianti": [
+"Chianti",
+"Vin Santo del Chianti"
+]
+},
+"membri": [
+"pietro-beconcini"
+],
+"primario": "pietro-beconcini"
+},
+{
+"slug": "petricci-e-del-pianta",
+"nome": "Petricci e Del Pianta",
+"regione": "Toscana",
+"comune": "Suvereto",
+"tipi": {
+"val-di-cornia": [
+"Suvereto"
+]
+},
+"membri": [
+"petricci-e-del-pianta"
+],
+"primario": "petricci-e-del-pianta"
+},
+{
+"slug": "piaggia",
+"nome": "Piaggia",
+"regione": "Toscana",
+"comune": "Poggio a Caiano",
+"tipi": {
+"carmignano": [
+"Carmignano"
+]
+},
+"membri": [
+"piaggia"
+],
+"primario": "piaggia"
+},
+{
+"slug": "la-parrina",
+"nome": "La Parrina",
+"regione": "Toscana",
+"comune": "Orbetello",
+"tipi": {
+"parrina": [
+"Parrina"
+]
+},
+"membri": [
+"la-parrina"
+],
+"primario": "la-parrina"
+},
+{
+"slug": "pasqualetti-viticoltori",
+"nome": "Pasqualetti Viticoltori",
+"regione": "Toscana",
+"comune": "Peccioli",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"pasqualetti-viticoltori"
+],
+"primario": "pasqualetti-viticoltori"
+},
+{
+"slug": "perazzeta",
+"nome": "Perazzeta",
+"regione": "Toscana",
+"comune": "Castel del Piano",
+"tipi": {
+"montecucco": [
+"Montecucco"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"perazzeta"
+],
+"primario": "perazzeta"
+},
+{
+"slug": "orciaverde",
+"nome": "Orciaverde",
+"regione": "Toscana",
+"comune": "Castel del Piano",
+"tipi": {
+"montecucco": [
+"Montecucco Sangiovese"
+]
+},
+"membri": [
+"orciaverde"
+],
+"primario": "orciaverde"
+},
+{
+"slug": "palagetto",
+"nome": "Palagetto",
+"regione": "Toscana",
+"comune": "San Gimignano",
+"tipi": {
+"vernaccia": [
+"Vernaccia di San Gimignano"
+],
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"palagetto"
+],
+"primario": "palagetto"
+},
+{
+"slug": "montaioncino",
+"nome": "Montaioncino",
+"regione": "Toscana",
+"comune": "Empoli",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"montaioncino"
+],
+"primario": "montaioncino"
+},
+{
+"slug": "le-fonti-a-san-giorgio",
+"nome": "Le Fonti a San Giorgio",
+"regione": "Toscana",
+"comune": "Montespertoli",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"le-fonti-a-san-giorgio"
+],
+"primario": "le-fonti-a-san-giorgio"
+},
+{
+"slug": "le-lupinaie",
+"nome": "Le Lupinaie",
+"regione": "Toscana",
+"comune": "Magliano in Toscana",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"le-lupinaie"
+],
+"primario": "le-lupinaie"
+},
+{
+"slug": "fattoria-la-gigliola",
+"nome": "Fattoria La Gigliola",
+"regione": "Toscana",
+"comune": "Montespertoli",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"fattoria-la-gigliola"
+],
+"primario": "fattoria-la-gigliola"
+},
+{
+"slug": "il-lebbio",
+"nome": "Il Lebbio",
+"regione": "Toscana",
+"comune": "San Gimignano",
+"tipi": {
+"vernaccia": [
+"Vernaccia di San Gimignano"
+]
+},
+"membri": [
+"il-lebbio"
+],
+"primario": "il-lebbio"
+},
+{
+"slug": "tenute-guicciardini-strozzi",
+"nome": "Tenute Guicciardini Strozzi",
+"regione": "Toscana",
+"comune": "San Gimignano",
+"tipi": {
+"vernaccia": [
+"Vernaccia di San Gimignano"
+],
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"tenute-guicciardini-strozzi"
+],
+"primario": "tenute-guicciardini-strozzi"
+},
+{
+"slug": "fontemorsi",
+"nome": "Fontemorsi",
+"regione": "Toscana",
+"comune": "Montescudaio",
+"tipi": {
+"montescudaio": [
+"Montescudaio"
+]
+},
+"membri": [
+"fontemorsi"
+],
+"primario": "fontemorsi"
+},
+{
+"slug": "antica-fattoria-sorbaiano",
+"nome": "Antica Fattoria Sorbaiano",
+"regione": "Toscana",
+"comune": "Montecatini Val di Cecina",
+"tipi": {
+"montescudaio": [
+"Montescudaio"
+]
+},
+"membri": [
+"antica-fattoria-sorbaiano"
+],
+"primario": "antica-fattoria-sorbaiano"
+},
+{
+"slug": "fattoria-le-sorgenti",
+"nome": "Fattoria Le Sorgenti",
+"regione": "Toscana",
+"comune": "Bagno a Ripoli",
+"tipi": {
+"chianti": [
+"Chianti Colli Fiorentini"
+]
+},
+"membri": [
+"fattoria-le-sorgenti"
+],
+"primario": "fattoria-le-sorgenti"
+},
+{
+"slug": "fattoria-di-pancole",
+"nome": "Fattoria di Pancole",
+"regione": "Toscana",
+"comune": "San Gimignano",
+"tipi": {
+"vernaccia": [
+"Vernaccia di San Gimignano"
+],
+"colli-senesi": [
+"Chianti Colli Senesi"
+],
+"chianti": [
+"Vin Santo del Chianti"
+]
+},
+"membri": [
+"fattoria-di-pancole"
+],
+"primario": "fattoria-di-pancole"
+},
+{
+"slug": "fattoria-di-sammontana",
+"nome": "Fattoria di Sammontana",
+"regione": "Toscana",
+"comune": "Montelupo Fiorentino",
+"tipi": {
+"chianti": [
+"Chianti",
+"Chianti Superiore",
+"Vin Santo del Chianti"
+]
+},
+"membri": [
+"fattoria-di-sammontana"
+],
+"primario": "fattoria-di-sammontana"
+},
+{
+"slug": "fattoria-il-poggio",
+"nome": "Fattoria Il Poggio",
+"regione": "Toscana",
+"comune": "Montecarlo",
+"tipi": {
+"montecarlo": [
+"Montecarlo"
+]
+},
+"membri": [
+"fattoria-il-poggio"
+],
+"primario": "fattoria-il-poggio"
+},
+{
+"slug": "fattoria-del-teso",
+"nome": "Fattoria del Teso",
+"regione": "Toscana",
+"comune": "Montecarlo",
+"tipi": {
+"montecarlo": [
+"Montecarlo"
+]
+},
+"membri": [
+"fattoria-del-teso"
+],
+"primario": "fattoria-del-teso"
+},
+{
+"slug": "fattoria-di-fubbiano",
+"nome": "Fattoria di Fubbiano",
+"regione": "Toscana",
+"comune": "Capannori",
+"tipi": {
+"colline-lucchesi": [
+"Colline Lucchesi"
+]
+},
+"membri": [
+"fattoria-di-fubbiano"
+],
+"primario": "fattoria-di-fubbiano"
+},
+{
+"slug": "fattoria-di-grignano",
+"nome": "Fattoria di Grignano",
+"regione": "Toscana",
+"comune": "Pontassieve",
+"tipi": {
+"chianti": [
+"Chianti Rufina",
+"Vin Santo del Chianti Rufina"
+]
+},
+"membri": [
+"fattoria-di-grignano"
+],
+"primario": "fattoria-di-grignano"
+},
+{
+"slug": "fattoria-ambra",
+"nome": "Fattoria Ambra",
+"regione": "Toscana",
+"comune": "Carmignano",
+"tipi": {
+"carmignano": [
+"Carmignano",
+"Barco Reale di Carmignano"
+]
+},
+"membri": [
+"fattoria-ambra"
+],
+"primario": "fattoria-ambra"
+},
+{
+"slug": "banti-erik",
+"nome": "Banti Erik",
+"regione": "Toscana",
+"comune": "Manciano",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"banti-erik"
+],
+"primario": "banti-erik"
+},
+{
+"slug": "dreolino",
+"nome": "Dreolino",
+"regione": "Toscana",
+"comune": "Rufina",
+"tipi": {
+"chianti": [
+"Chianti",
+"Chianti Rufina"
+]
+},
+"membri": [
+"dreolino"
+],
+"primario": "dreolino"
+},
+{
+"slug": "colognole",
+"nome": "Colognole",
+"regione": "Toscana",
+"comune": "Rufina",
+"tipi": {
+"chianti": [
+"Chianti Rufina"
+]
+},
+"membri": [
+"colognole"
+],
+"primario": "colognole"
+},
+{
+"slug": "fattoria-di-certignano",
+"nome": "Fattoria di Certignano",
+"regione": "Toscana",
+"comune": "",
+"tipi": {
+"chianti": [
+"Chianti",
+"Vin Santo del Chianti"
+]
+},
+"membri": [
+"fattoria-di-certignano"
+],
+"primario": "fattoria-di-certignano"
+},
+{
+"slug": "le-coste",
+"nome": "Le Coste",
+"regione": "Toscana",
+"comune": "Rufina",
+"tipi": {
+"chianti": [
+"Chianti",
+"Chianti Rufina",
+"Vin Santo del Chianti"
+]
+},
+"membri": [
+"le-coste"
+],
+"primario": "le-coste"
+},
+{
+"slug": "fattoria-castello-di-ripa-dorcia",
+"nome": "Fattoria Castello di Ripa d'Orcia",
+"regione": "Toscana",
+"comune": "",
+"tipi": {
+"orcia": [
+"Orcia"
+]
+},
+"membri": [
+"fattoria-castello-di-ripa-dorcia"
+],
+"primario": "fattoria-castello-di-ripa-dorcia"
+},
+{
+"slug": "castello-sonnino",
+"nome": "Castello Sonnino",
+"regione": "Toscana",
+"comune": "Montespertoli",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"castello-sonnino"
+],
+"primario": "castello-sonnino"
+},
+{
+"slug": "signano",
+"nome": "Signano",
+"regione": "Toscana",
+"comune": "San Gimignano",
+"tipi": {
+"vernaccia": [
+"Vernaccia di San Gimignano",
+"San Gimignano Rosso"
+]
+},
+"membri": [
+"signano"
+],
+"primario": "signano"
+},
+{
+"slug": "cecconi",
+"nome": "Cecconi",
+"regione": "Toscana",
+"comune": "Montespertoli",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"cecconi"
+],
+"primario": "cecconi"
+},
+{
+"slug": "cantina-delle-colline-pisane",
+"nome": "Cantina delle Colline Pisane",
+"regione": "Toscana",
+"comune": "",
+"tipi": {
+"chianti": [
+"Chianti Colline Pisane"
+]
+},
+"membri": [
+"cantina-delle-colline-pisane"
+],
+"primario": "cantina-delle-colline-pisane"
+},
+{
+"slug": "fattoria-del-buonamico",
+"nome": "Fattoria del Buonamico",
+"regione": "Toscana",
+"comune": "Montecarlo",
+"tipi": {
+"montecarlo": [
+"Montecarlo"
+]
+},
+"membri": [
+"fattoria-del-buonamico"
+],
+"primario": "fattoria-del-buonamico"
+},
+{
+"slug": "baracchi",
+"nome": "Baracchi",
+"regione": "Toscana",
+"comune": "Cortona",
+"tipi": {
+"cortona": [
+"Cortona"
+]
+},
+"membri": [
+"baracchi"
+],
+"primario": "baracchi"
+},
+{
+"slug": "montesalario",
+"nome": "Montesalario",
+"regione": "Toscana",
+"comune": "Castel del Piano",
+"tipi": {
+"montecucco": [
+"Montecucco",
+"Montecucco Sangiovese"
+]
+},
+"membri": [
+"montesalario"
+],
+"primario": "montesalario"
+},
+{
+"slug": "trequanda",
+"nome": "Trequanda",
+"regione": "Toscana",
+"comune": "Trequanda",
+"tipi": {
+"chianti": [
+"Chianti"
+],
+"orcia": [
+"Orcia"
+]
+},
+"membri": [
+"trequanda"
+],
+"primario": "trequanda"
+},
+{
+"slug": "santa-barbara",
+"nome": "Santa Barbara",
+"regione": "Toscana",
+"comune": "Vinci",
+"tipi": {
+"chianti": [
+"Chianti Montalbano",
+"Chianti"
+]
+},
+"membri": [
+"santa-barbara"
+],
+"primario": "santa-barbara"
+},
+{
+"slug": "cecilia",
+"nome": "Cecilia",
+"regione": "Toscana",
+"comune": "Campo nell'Elba",
+"tipi": {
+"elba": [
+"Elba",
+"Elba Aleatico Passito"
+]
+},
+"membri": [
+"cecilia"
+],
+"primario": "cecilia"
+},
+{
+"slug": "tenuta-di-artimino",
+"nome": "Tenuta di Artimino",
+"regione": "Toscana",
+"comune": "Carmignano",
+"tipi": {
+"carmignano": [
+"Carmignano"
+]
+},
+"membri": [
+"tenuta-di-artimino"
+],
+"primario": "tenuta-di-artimino"
+},
+{
+"slug": "acquabona",
+"nome": "Acquabona",
+"regione": "Toscana",
+"comune": "Portoferraio",
+"tipi": {
+"elba": [
+"Elba",
+"Aleatico dell'Elba"
+]
+},
+"membri": [
+"acquabona"
+],
+"primario": "acquabona"
+}
+]

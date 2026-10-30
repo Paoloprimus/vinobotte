@@ -1,0 +1,92 @@
+{
+ "nome": "Ca’ de Mocenigo",
+ "slug": "ca-de-mocenigo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via N. Sauro, 7, 33070 Fratta di Caneva (PN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "e fax 0434/79214 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cademocenigo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cademocenigo.it|cademocenigo.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Friuli Grave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantine settecentesche ristrutturate e ampliate; vinificazione seguita dall’enologo Adriano Zaccariotto, uve raccolte a mano. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Friuli Grave DOC; Friuli DOC; Prosecco DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Cademocenigowine|Cademocenigowine}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nVivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «docfriuligrave.com/cantine.html», consultata il 24 ottobre 2026.",
+   "url": "https://www.docfriuligrave.com/cantine.html",
+   "etichetta": "docfriuligrave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.cademocenigo.it",
+   "etichetta": "cademocenigo.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.cademocenigo.it",
+   "etichetta": "cademocenigo.it"
+  }
+ ]
+}

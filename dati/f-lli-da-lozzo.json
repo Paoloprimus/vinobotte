@@ -1,0 +1,127 @@
+{
+ "nome": "F.lli da Lozzo",
+ "slug": "f-lli-da-lozzo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "F.lli da Lozzo S.S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04140740269 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Valdoni, 13, Codognè, Treviso, 31013 Codognè [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni Venezia dichiarate",
+     "valore": "Venezia [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@dalozzovini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://dalozzovini.it/|dalozzovini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[3]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Vini Venezia [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via Valdoni,13/B 31013 Codognè (TV); tel. +39 349 4491481; info@dalozzovini.it; dalozzovini.it [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina nata dalla passione per la vigna trasmessa dai genitori e dai nonni ai fratelli Da Lozzo, con sede a Cimavilla di Codognè (Treviso). [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio Rèsì",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[4]]"
+    }
+   ],
+   "righe": []
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "2025: riconoscimenti al 27° EnoConegliano (Concorso Enologico Regionale) per due Prosecco DOC Treviso Brut biologici\nThe WineHunter Award (Merano Wine Festival) [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Cantina-Flli-Da-Lozzo-188521941161144|Cantina-Flli-Da-Lozzo-188521941161144}}\nInstagram {{https://www.instagram.com/dalozzovini/|@dalozzovini}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://dalozzovini.it/shop|dalozzovini.it/shop}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=5786121662037712251|Mappa}} — valutazione 5 su 5 (17 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 29 ottobre 2026.",
+   "url": "https://dalozzovini.it/",
+   "etichetta": "dalozzovini.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://dalozzovini.it/",
+   "etichetta": "dalozzovini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Da Lozzo Vini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=5786121662037712251",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

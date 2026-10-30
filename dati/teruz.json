@@ -1,0 +1,125 @@
+{
+ "nome": "Teruz",
+ "slug": "teruz",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Teruz Terra di Vite Società Agricola ss [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Campagna, 2, 31049 San Giovanni (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390423982185 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@teruz.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.teruz.it|www.teruz.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: brut, extra dry [[1]]"
+    },
+    {
+     "etichetta": "Valdobbiadene Superiore di Cartizze",
+     "valore": "Tipologie indicate: dry [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "Degustazione \"In Casera\"; Vendita al dettaglio; Visita e degustazione [[1]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fino a 100.000 bottiglie [[1]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "SQNPI [[1]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Teruz-Valdobbiadene-Prosecco-DOCG-736510030033547|Teruz-Valdobbiadene-Prosecco-DOCG-736510030033547}}\nInstagram {{https://www.instagram.com/teruz_valdobbiadeneprosecco/|@teruz_valdobbiadeneprosecco}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2093432419204774075|Mappa}} — valutazione 5 su 5 (3 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/teruz/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.teruz.it",
+   "etichetta": "teruz.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Teruz Terra di Vite» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2093432419204774075",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

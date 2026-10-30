@@ -1,0 +1,128 @@
+{
+ "nome": "Fontemorsi",
+ "slug": "fontemorsi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Fontemorsi Società Agricola S.S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01659680506 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via delle Colline, 56040 Montescudaio, PI [[2]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 335 7844091 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "logistica@fontemorsi.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fontemorsi.it/|fontemorsi.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Montescudaio DOC [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Laura Berlucchi giunge a Montescudaio per produrre vini toscani di alta qualità. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montescudaio DOC [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Montescudaio Rosso DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1551835019445106203|Mappa}} — valutazione 4,5 su 5 (15 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "https://www.fontemorsi.it/",
+   "etichetta": "fontemorsi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://www.fontemorsi.it/",
+   "etichetta": "fontemorsi.it"
+  },
+  {
+   "n": 3,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 26 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/fontemorsi/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco delle aziende del Consorzio Vino Montescudaio DOC, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.consorziovinomontescudaiodoc.it/fontemorsi/",
+   "etichetta": "consorziovinomontescudaiodoc.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Fontemorsi Agriturismo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1551835019445106203",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

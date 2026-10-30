@@ -1,0 +1,145 @@
+{
+ "nome": "Le Vigne di Giorgio Pasqua",
+ "slug": "le-vigne-di-giorgio-pasqua",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Fructus Vinea s.a.s. di Giorgio Pasqua di Bisceglie [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Leonardo da Vinci 16, 37060 Sona (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 320 0219852 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "levignedigiorgio@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.levignedigiorgiopasqua.com/|www.levignedigiorgiopasqua.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Giorgio Pasqua, classe 1943, enologo e chimico, per 40 anni nell’azienda di famiglia Pasqua; dal 2016 un progetto proprio con un vigneto biologico [[2]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "8 ettari certificati bio a San Giorgio in Salici (Sona), frazione San Rocco; Guyot su terreno morenico, 150 m s.l.m. [[2]] [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Annate indicate dal sito. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Ander",
+     "denominazione": "Bardolino DOC BIO",
+     "annata": "2018 [[3]]"
+    },
+    {
+     "nome": "Ora Rosa",
+     "denominazione": "Chiaretto di Bardolino DOC spumante brut BIO",
+     "annata": "2020 [[3]]"
+    },
+    {
+     "nome": "Vent",
+     "denominazione": "Valpolicella Ripasso DOC BIO",
+     "annata": "2015 [[3]]"
+    },
+    {
+     "nome": "Custoza",
+     "denominazione": "Custoza DOC BIO",
+     "annata": "2018 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Pagina riconoscimenti senza elenco sul sito [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Eventi",
+     "valore": "Fiere e appuntamenti (Vinitaly, Rewine, Lugano, Montichiari) e aperitivo in vigna [[5]] [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "levignedigiorgiopasqua.com [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nVivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «home».",
+   "url": "https://levignedigiorgiopasqua.com/home",
+   "etichetta": "levignedigiorgiopasqua.com/home"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini».",
+   "url": "https://levignedigiorgiopasqua.com/i-nostri-vini",
+   "etichetta": "levignedigiorgiopasqua.com/i-nostri-vini"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «riconoscimenti».",
+   "url": "https://levignedigiorgiopasqua.com/riconoscimenti",
+   "etichetta": "levignedigiorgiopasqua.com/riconoscimenti"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «appuntamenti».",
+   "url": "https://levignedigiorgiopasqua.com/appuntamenti",
+   "etichetta": "levignedigiorgiopasqua.com/appuntamenti"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «aperitivo-in-vigna».",
+   "url": "https://levignedigiorgiopasqua.com/aperitivo-in-vigna",
+   "etichetta": "levignedigiorgiopasqua.com/aperitivo-in-vigna"
+  }
+ ]
+}

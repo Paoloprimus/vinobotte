@@ -1,0 +1,133 @@
+{
+ "nome": "Borgo Antico",
+ "slug": "borgo-antico",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Borgo Antico [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "via Strada delle Spezie, 39 Conegliano [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390438788111 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@borgoanticovini.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.borgoanticovini.com|www.borgoanticovini.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda familiare dal 1973; dal 1995 la guida Leonardo, enologo; 30 ettari, 160.000 bottiglie l’anno. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: \"Rive\" extra brut, brut, dry, extra dry [[1]]"
+    },
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco",
+     "valore": "Tipologie indicate: Frizzante [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "E-commerce; Pernottamento; Vendita al dettaglio; Visita e degustazione [[1]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fino a 150.000 bottiglie [[1]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "SQNPI [[1]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Premio Fascetta d’Oro 2024 al Verdiso IGT Colli Trevigiani [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cantinaborgoantico|cantinaborgoantico}}\nInstagram {{https://www.instagram.com/borgoanticovini/|@borgoanticovini}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=626035712038813267|Mappa}} — valutazione 4,9 su 5 (87 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/borgo-antico/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.borgoanticovini.com",
+   "etichetta": "borgoanticovini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Azienda Agricola Borgo Antico» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=626035712038813267",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

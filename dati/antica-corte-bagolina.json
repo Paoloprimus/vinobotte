@@ -1,0 +1,96 @@
+{
+ "nome": "Antica Corte Bagolina",
+ "slug": "antica-corte-bagolina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Custoza (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+393471134072 [[2]]\n347 113 4072 [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinabagolina.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://cantinabagolina.com|cantinabagolina.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Custoza DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nasce negli anni ’60 come Cantina Checchini, con sola produzione di vino sfuso. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Custoza",
+     "valore": "Non indicato nell’elenco dei soci del Consorzio; non ancora raccolto dai siti delle cantine [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cantinaanticacortebagolina|cantinaanticacortebagolina}}\nYouTube {{https://www.youtube.com/static|static}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=7961803347716288851|Mappa}} — valutazione 5 su 5 (230 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026.",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://cantinabagolina.com",
+   "etichetta": "cantinabagolina.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Azienda Agricola Antica Corte Bagolina» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=7961803347716288851",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

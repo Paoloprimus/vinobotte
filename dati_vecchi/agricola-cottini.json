@@ -1,0 +1,129 @@
+{
+ "nome": "Agricola Cottini",
+ "slug": "agricola-cottini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Agricola Cottini Soc. Semplice (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "IT03427060235 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Pozzo 29, località Valgatara, 37020 Marano di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7701772 · info@agricolacottini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.agricolacottini.it/|www.agricolacottini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso Classico Superiore",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Recioto della Valpolicella",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Visite in cantina tutto l’anno, tutti i giorni, su prenotazione [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "agricolacottini.it con sezioni vini, territorio e news [[4]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social indicati dal sito (“Seguici sui Social”); Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.agricolacottini.it/contatti/",
+   "etichetta": "agricolacottini.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://www.agricolacottini.it/vini/",
+   "etichetta": "agricolacottini.it/vini"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.agricolacottini.it/",
+   "etichetta": "agricolacottini.it"
+  }
+ ]
+}

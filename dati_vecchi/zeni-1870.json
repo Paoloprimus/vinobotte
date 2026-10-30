@@ -1,0 +1,185 @@
+{
+ "nome": "Zeni 1870",
+ "slug": "zeni-1870",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina F.lli Zeni Srl [[1]]"
+    },
+    {
+     "etichetta": "Sede storica",
+     "valore": "Via Costabella 9, 37011 Bardolino (VR) [[1]]"
+    },
+    {
+     "etichetta": "Cantina in Valpolicella",
+     "valore": "Fumane, alle pendici della Val dei Progni: vinificazione dei vini della Valpolicella [[2]] [[3]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 6228331 [[4]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.zeni.it/|www.zeni.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vino Bardolino D.O.C.: {{/pagine/zeni-1870-bardolino.html|scheda Bardolino}} [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Cantina “ZENI1870”; Nino Zeni crea il Museo del Vino nel 1991; la cantina di Fumane viene aperta per i vini più strutturati [[2]] [[6]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "ISO 9001:2015 [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche Bardolino, Lugana, Custoza, Soave, spumanti e un IGT. Il sito non riporta le annate. [[8]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Nino Zeni",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Marogne",
+     "denominazione": "Valpolicella DOC Superiore Ripasso",
+     "annata": "— [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Enoteca",
+     "valore": "Degustazioni al banco liberamente negli orari di apertura (gruppi fino a 10 persone); gruppi con degustazione guidata in bottaia su prenotazione [[4]]"
+    },
+    {
+     "etichetta": "Esperienze",
+     "valore": "Galleria Olfattiva (percorso e degustazione € 28; con tagliere € 48); Museo; tour ed eventi “L’Ora – Vento diVino” [[11]] [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "La pagina Premi e Riconoscimenti elenca premi per annata, in gran parte per Bardolino e Lugana; non sono stati attribuiti ai vini Valpolicella. Dichiarati dalla cantina, non verificati da VinoBot sulle guide [[13]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/cantina/cantina-in-valpolicella.html».",
+   "url": "https://www.zeni.it/it/cantina/cantina-in-valpolicella.html",
+   "etichetta": "zeni.it/it/cantina/cantina-in-valpolicella.html"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/famiglia/territorio.html».",
+   "url": "https://www.zeni.it/it/famiglia/territorio.html",
+   "etichetta": "zeni.it/it/famiglia/territorio.html"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/visite/enoteca-e-punto-vendita.html».",
+   "url": "https://www.zeni.it/it/visite/enoteca-e-punto-vendita.html",
+   "etichetta": "zeni.it/it/visite/enoteca-e-punto-vendita.html"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/cantina/testimonianza.html».",
+   "url": "https://www.zeni.it/it/cantina/testimonianza.html",
+   "etichetta": "zeni.it/it/cantina/testimonianza.html"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/cantina/certificazioni.html».",
+   "url": "https://www.zeni.it/it/cantina/certificazioni.html",
+   "etichetta": "zeni.it/it/cantina/certificazioni.html"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini.html».",
+   "url": "https://www.zeni.it/it/vini.html",
+   "etichetta": "zeni.it/it/vini.html"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/amarone-della-valpolicella-docg-classico-nino-zeni.html».",
+   "url": "https://www.zeni.it/it/vini/amarone-della-valpolicella-docg-classico-nino-zeni.html",
+   "etichetta": "zeni.it/it/vini/amarone-della-valpolicella-docg-classico-nino-zeni.html"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella-doc-superiore-ripasso-marogne.html».",
+   "url": "https://www.zeni.it/it/vini/valpolicella-doc-superiore-ripasso-marogne.html",
+   "etichetta": "zeni.it/it/vini/valpolicella-doc-superiore-ripasso-marogne.html"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «it/visite/go-galleria-olfattiva.html».",
+   "url": "https://www.zeni.it/it/visite/go-galleria-olfattiva.html",
+   "etichetta": "zeni.it/it/visite/go-galleria-olfattiva.html"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «it/visite/lora-vento-divino-tours-ed-eventi.html».",
+   "url": "https://www.zeni.it/it/visite/lora-vento-divino-tours-ed-eventi.html",
+   "etichetta": "zeni.it/it/visite/lora-vento-divino-tours-ed-eventi.html"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/premi-e-riconoscimenti.html».",
+   "url": "https://www.zeni.it/it/vini/premi-e-riconoscimenti.html",
+   "etichetta": "zeni.it/it/vini/premi-e-riconoscimenti.html"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "nome": "La Vinai",
+ "slug": "la-vinai",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Vinai Az. Agr. di Paset Flavio [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Vinai 8, 31010, Farra di Soligo (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 347 5185391 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lavinai.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.lavinai.it/|lavinai.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Prosecco DOC",
+     "valore": "Non indicato nella mappa dei produttori del Consorzio; non ancora raccolto dai siti delle cantine [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16732817863294080270|Mappa}} — valutazione 5 su 5 (26 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Sito indicato nella scheda Google Maps della cantina, ricerca del 29 ottobre 2026.",
+   "url": "https://maps.google.com/?cid=16732817863294080270",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «La Vinai» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16732817863294080270",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

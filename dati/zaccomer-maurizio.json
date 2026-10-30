@@ -1,0 +1,104 @@
+{
+ "nome": "Zaccomer Maurizio",
+ "slug": "zaccomer-maurizio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Zaccomer Maurizio [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01590610307 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Sedilis, 31 33045, Nimis [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate al Consorzio",
+     "valore": "DOC Friuli Colli Orientali; DOCG Colli Orientali del Friuli Picolit; DOCG Ramandolo [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0432 790234 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@zaccomer.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.vinizaccomer.com|vinizaccomer.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Titolare: Maurizio Zaccomer [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non ancora raccolto dal sito della cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=11393435973946171805|Mappa}} — valutazione 4,7 su 5 (35 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.vinizaccomer.com",
+   "etichetta": "vinizaccomer.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo, scheda della cantina nell’elenco delle aziende associate, consultata il 25 ottobre 2026.",
+   "url": "https://www.colliorientali.com/zaccomer-maurizio/",
+   "etichetta": "colliorientali.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Azienda Vitivinicola Maurizio Zaccomer» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=11393435973946171805",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

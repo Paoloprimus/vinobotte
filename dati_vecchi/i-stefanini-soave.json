@@ -1,0 +1,99 @@
+{
+ "nome": "I Stefanini",
+ "slug": "i-stefanini-soave",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "I Stefanini di Tessari Francesco e Luisa S.S. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Crosara 21, 37032 Costalunga di Monteforte d'Alpone (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 0456 175249 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.istefanini.it|istefanini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "La famiglia Tessari produce uva nella zona del Soave dall’Ottocento; cantina fondata nel 2003 da Francesco, figlio di Valentino Tessari; 18 ettari di vigneti tra collina e pianura [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Soave; le schede sono finestre della pagina principale; il sito non riporta le annate. [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Il Selese",
+     "denominazione": "Soave DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Monte de Toni",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Monte di Fice",
+     "denominazione": "Soave Superiore Classico DOCG",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel testo letto; il sito ha una pagina «premi» il cui contenuto non è stato letto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/i-stefanini-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «istefanini.it».",
+   "url": "http://www.istefanini.it",
+   "etichetta": "istefanini.it"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "nome": "Arcadia",
+ "slug": "arcadia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Arcadia Società Agricola s.r.l. (marchio Le Monde); P.IVA 01119510939 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Giuseppe Garibaldi 2, Località Le Monde, 33080 Prata di Pordenone (PN) [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 0434 622087; info@lemondewine.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lemondewine.com/|www.lemondewine.com}} [[1]]"
+    },
+    {
+     "etichetta": "Descrizione",
+     "valore": "Azienda vitivinicola a Prata di Pordenone, nelle Grave del Friuli [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Prosecco DOC",
+     "valore": "Il sito elenca collezioni (Bianchi, Rossi, Spumanti, Le Icone, Animo) senza indicare le denominazioni [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Gambero Rosso Vini d’Italia 2021: Miglior rapporto qualità-prezzo al Friuli Pinot Bianco 2019 [[3]]; secondo Wine Industry Advisor, Tre Bicchieri 2026 al Pinot Bianco 2024 e premio qualità-prezzo Berebene al Chardonnay 2024, 89 punti Winemag al Pinot Bianco 2024, 90 punti James Suckling all’Inaco 2020 [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda del Consorzio e sito ufficiale della cantina, consultati il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «lemondewine.com».",
+   "url": "https://www.lemondewine.com/",
+   "etichetta": "lemondewine.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Gambero Rosso, articolo sulla guida Vini d’Italia (sito di terzi, non della cantina), consultato il 25 ottobre 2026.",
+   "url": "https://www.gamberorosso.it/vino/miglior-rapporto-qualita-prezzo-friuli-pinot-bianco-19-vigneti-le-monde/",
+   "etichetta": "gamberorosso.it"
+  },
+  {
+   "n": 4,
+   "testo": "Wine Industry Advisor, articolo «A year of accolades for Le Monde», 3 dicembre 2025 (sito di settore, non della cantina), consultato il 25 ottobre 2026.",
+   "url": "https://wineindustryadvisor.com/2025/12/03/a-year-of-accolades-for-le-monde/",
+   "etichetta": "wineindustryadvisor.com"
+  }
+ ]
+}

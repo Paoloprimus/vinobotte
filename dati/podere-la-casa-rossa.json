@@ -1,0 +1,110 @@
+{
+ "nome": "Podere La Casa Rossa",
+ "slug": "podere-la-casa-rossa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "San Gimignano, SI [[1]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vernaccia di San Gimignano [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poderelacasarossa.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.poderelacasarossa.it/|poderelacasarossa.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda legata alla famiglia Chiti, che coltiva la terra e produce vino da almeno 50 anni. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Vernaccia di San Gimignano DOCG [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Vernaccia La Casa Rossa [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.poderelacasarossa.it/shop/index.php.html|poderelacasarossa.it/shop/index.php.html}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12712854461751555537|Mappa}} — valutazione 5 su 5 (114 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://www.poderelacasarossa.it/",
+   "etichetta": "poderelacasarossa.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vernaccia di San Gimignano, elenco dei produttori, consultato il 26 ottobre 2026.",
+   "url": "https://vernaccia.it/produttori/",
+   "etichetta": "vernaccia.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.poderelacasarossa.it/",
+   "etichetta": "poderelacasarossa.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Azienda Agricola Podere La Casa Rossa» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12712854461751555537",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

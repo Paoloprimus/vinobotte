@@ -1,0 +1,122 @@
+{
+ "nome": "La Sclusa",
+ "slug": "la-sclusa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. La Sclusa di Zorzettig Gino & figli ss [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Strada di Sant'Anna 7/2, 33043 Cividale del Friuli (UD) [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate al Consorzio",
+     "valore": "DOC Friuli Colli Orientali; DOCG Colli Orientali del Friuli Picolit [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0432 716259 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lasclusa.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.lasclusa.it|lasclusa.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia di quattro generazioni dedicate a vite e vinificazione. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Friuli DOC [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/lasclusa|lasclusa}}\nX {{https://x.com/lasclusa|@lasclusa}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=18238230684701623405|Mappa}} — valutazione 4,7 su 5 (73 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/la-sclusa/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo, scheda della cantina nell’elenco delle aziende associate, consultata il 25 ottobre 2026.",
+   "url": "https://www.colliorientali.com/la-sclusa/",
+   "etichetta": "colliorientali.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.lasclusa.it",
+   "etichetta": "lasclusa.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.lasclusa.it",
+   "etichetta": "lasclusa.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «La Sclusa» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=18238230684701623405",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/",
+   "etichetta": "docfriuli.eu"
+  }
+ ]
+}

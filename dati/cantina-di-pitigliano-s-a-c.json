@@ -1,0 +1,104 @@
+{
+ "nome": "Cantina Di Pitigliano S.A.C",
+ "slug": "cantina-di-pitigliano-s-a-c",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "CANTINA DI PITIGLIANO S.A.C. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00070470539 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Nicola Ciacci 974 Pitigliano GR 58014 IT [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0564616133 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinadipitigliano.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinadipitigliano.it|cantinadipitigliano.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini della Maremma Toscana [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata nel 1954 per raccogliere e trasformare la produzione viticola locale. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Bianco di Pitigliano DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=15720472948233103079|Mappa}} — valutazione 4,3 su 5 (107 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "https://www.cantinadipitigliano.it",
+   "etichetta": "cantinadipitigliano.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini della Maremma Toscana, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.aziendevinimaremma.it/directory/listing/cantina-di-pitigliano",
+   "etichetta": "aziendevinimaremma.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Cantina di Pitigliano» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=15720472948233103079",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

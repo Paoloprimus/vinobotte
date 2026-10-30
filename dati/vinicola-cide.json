@@ -1,0 +1,113 @@
+{
+ "nome": "Vinicola Cide",
+ "slug": "vinicola-cide",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Vinicola Cide S.R.L. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Liberazione, 17 [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390438492562 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinicide.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://vinicide.eu/it/|vinicide.eu}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: extra dry [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Produzione",
+     "valore": "Fra 300.000 e 500.000 bottiglie [[1]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "Biologico; EQUALITAS [[1]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=10390130021957353825|Mappa}} — valutazione 4,1 su 5 (35 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/vinicola-cide/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 29 ottobre 2026.",
+   "url": "https://vinicide.eu/it/",
+   "etichetta": "vinicide.eu"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Vinicola CIDE SRL» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=10390130021957353825",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

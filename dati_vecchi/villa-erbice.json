@@ -1,0 +1,167 @@
+{
+ "nome": "Villa Erbice",
+ "slug": "villa-erbice",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Villa Erbice Società Semplice [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02239250232 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Villa 22, 37030 Mezzane di Sotto (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 8880086 [[2]] · info@villaerbice.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://villaerbice.it/|villaerbice.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Soave e Recioto di Soave: {{/pagine/villa-erbice-soave.html|scheda Soave}} [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il nonno Narciso inizia a produrre vino nel 1900; sede in una villa cinquecentesca; enologi Luca e Massimo Erbice [[4]] [[2]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Circa 10 ettari di proprietà a Mezzane, a 200 m s.l.m.; rame e zolfo, lavorazioni a mano [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche due Soave. Il sito non riporta le annate. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Monte Tombole",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Tremenel",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Torrazzine",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–ven 8.30–12 e 14–18; sab 9.30–12; dom chiuso [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://villaerbice.it/it/contatti",
+   "etichetta": "villaerbice.it/it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/azienda».",
+   "url": "https://villaerbice.it/it/azienda",
+   "etichetta": "villaerbice.it/it/azienda"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-vini».",
+   "url": "https://villaerbice.it/it/i-vini",
+   "etichetta": "villaerbice.it/it/i-vini"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-vini/valpolicella-superiore-doc-monte-tombole-8».",
+   "url": "https://villaerbice.it/it/i-vini/valpolicella-superiore-doc-monte-tombole-8",
+   "etichetta": "villaerbice.it/it/i-vini/valpolicella-superiore-doc-monte-tombole-8"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-vini/valpolicella-ripasso-superiore-doc-9».",
+   "url": "https://villaerbice.it/it/i-vini/valpolicella-ripasso-superiore-doc-9",
+   "etichetta": "villaerbice.it/it/i-vini/valpolicella-ripasso-superiore-doc-9"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-vini/amarone-della-valpolicella-docg-tremenel-10».",
+   "url": "https://villaerbice.it/it/i-vini/amarone-della-valpolicella-docg-tremenel-10",
+   "etichetta": "villaerbice.it/it/i-vini/amarone-della-valpolicella-docg-tremenel-10"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-vini/recioto-della-valpolicella-docg-torrazzine-11».",
+   "url": "https://villaerbice.it/it/i-vini/recioto-della-valpolicella-docg-torrazzine-11",
+   "etichetta": "villaerbice.it/it/i-vini/recioto-della-valpolicella-docg-torrazzine-11"
+  }
+ ]
+}

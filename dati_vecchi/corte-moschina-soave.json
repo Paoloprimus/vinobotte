@@ -1,0 +1,148 @@
+{
+ "nome": "Corte Moschina",
+ "slug": "corte-moschina-soave",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Corte Moschina di Niero Mariapatrizia [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Moschina 1, 37030 Roncà (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 746 0788 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cortemoschina.it|cortemoschina.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vino Lessini Durello DOC: {{/pagine/corte-moschina-durello.html|scheda Lessini Durello}} [[2]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini DOC Delle Venezie: {{/pagine/corte-moschina-delle-venezie.html|scheda Delle Venezie}} [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Proprietà di famiglia con radici veneziane che risale alla fine del Cinquecento, ai piedi dei Monti Lessini [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini della sezione «Soave - Colli di Roncà» del sito; denominazioni come scritte nel sito, senza DOC/DOCG né annate. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Roncathe",
+     "denominazione": "Soave",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Evaos",
+     "denominazione": "Soave",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "I Tarai",
+     "denominazione": "Soave Superiore",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Incanto",
+     "denominazione": "Recioto di Soave",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/corte-moschina-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «cortemoschina.it».",
+   "url": "http://www.cortemoschina.it",
+   "etichetta": "cortemoschina.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «cortemoschina.it/roncathe».",
+   "url": "https://www.cortemoschina.it/roncathe",
+   "etichetta": "cortemoschina.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «cortemoschina.it/evaos».",
+   "url": "https://www.cortemoschina.it/evaos",
+   "etichetta": "cortemoschina.it"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «cortemoschina.it/tarai».",
+   "url": "https://www.cortemoschina.it/tarai",
+   "etichetta": "cortemoschina.it"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «cortemoschina.it/incanto».",
+   "url": "https://www.cortemoschina.it/incanto",
+   "etichetta": "cortemoschina.it"
+  }
+ ]
+}

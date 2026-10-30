@@ -1,0 +1,125 @@
+{
+ "nome": "Garbara",
+ "slug": "garbara",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Garbara Soc. Agr. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Menegazzi, 19, Santo Stefano, TV [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390423900155 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@garbara.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.garbara.it|www.garbara.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Mirco dà il nome Garbara all’azienda e nel 2007 inizia a vinificare spumanti; alle spalle cinque generazioni della famiglia Grotto. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: extra brut [[1]]"
+    },
+    {
+     "etichetta": "Valdobbiadene Superiore di Cartizze",
+     "valore": "Tipologie indicate: extra brut, extra dry [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "E-commerce; Vendita al dettaglio; Visita e degustazione [[1]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fino a 150.000 bottiglie [[1]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Garbara|Garbara}}\nInstagram {{https://www.instagram.com/garbara_cartizze/|@garbara_cartizze}} [[2]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://shop.garbara.it/en/|shop.garbara.it/en}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2575070229519774552|Mappa}} — valutazione 5 su 5 (226 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/garbara/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.garbara.it",
+   "etichetta": "garbara.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Garbara Cartizze» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2575070229519774552",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

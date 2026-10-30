@@ -1,0 +1,188 @@
+{
+ "nome": "San Rustico",
+ "slug": "san-rustico",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "San Rustico Valgatara s.n.c. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Pozzo 2, Valgatara, 37020 Marano di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7703348; fax +39 045 6800682; e-mail tramite modulo sul sito [[2]] · info@sanrustico.it [[11]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.sanrustico.it/|www.sanrustico.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Tradizione familiare dal 1870 a Marano; oggi i fratelli Marco (enologo) ed Enrico (agronomo) Campagnola [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "22 ettari a Valgatara e Marano, pergola veronese; Corvina/Corvinone, Rondinella, Molinara [[3]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Circa 200.000 bottiglie l’anno, 80% export [[3]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Grappa di Amarone (fresca e invecchiata) [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito descrive due linee, “San Rustico” (Valpolicella, Valpolicella Classico Superiore, Amarone) e “Gaso” (tra cui Amarone e Ripasso); non pubblica schede prodotto dei vini né annate. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "San Rustico",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "San Rustico",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "San Rustico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Gaso",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Gaso",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–ven 8:30–12:30 e 14–18; sabato 8:30–12:30 [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Eventi “Cantina aperta” con artisti, visite in cantina [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Il sito elenca news su Wine Enthusiast (Amarone Gaso 2010; Amarone San Rustico 2011), Decanter 2017 (Amarone Classico San Rustico 2011), International Wine Challenge 2017 (Amarone Gaso 2010), Vinitaly 2017 “5StarWines”, Selection Das Genussmagazin 2015, Vivino (Ripasso Gaso 2014). Dichiarati dalla cantina, non verificati da VinoBot sulle guide [[7]] [[8]] [[9]] [[10]] [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.sanrustico.it/contatti/",
+   "etichetta": "sanrustico.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «la-storia».",
+   "url": "https://www.sanrustico.it/la-storia/",
+   "etichetta": "sanrustico.it/la-storia"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «product-category/grappe-di-amarone».",
+   "url": "https://www.sanrustico.it/product-category/grappe-di-amarone/",
+   "etichetta": "sanrustico.it/product-category/grappe-di-amarone"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «ripasso-gaso-2014-vivino».",
+   "url": "https://www.sanrustico.it/ripasso-gaso-2014-vivino/",
+   "etichetta": "sanrustico.it/ripasso-gaso-2014-vivino"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «cantina-a-colori-fabio-ceradini».",
+   "url": "https://www.sanrustico.it/cantina-a-colori-fabio-ceradini/",
+   "etichetta": "sanrustico.it/cantina-a-colori-fabio-ceradini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «wine-enthusiast-amarone-della-valpolicella-docg-gaso-2010».",
+   "url": "https://www.sanrustico.it/wine-enthusiast-amarone-della-valpolicella-docg-gaso-2010/",
+   "etichetta": "sanrustico.it/wine-enthusiast-amarone-della-valpolicella-docg-gaso-2010"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «decanter-2017-e-il-nostro-amarone-classico-san-rustico-2011».",
+   "url": "https://www.sanrustico.it/decanter-2017-e-il-nostro-amarone-classico-san-rustico-2011/",
+   "etichetta": "sanrustico.it/decanter-2017-e-il-nostro-amarone-classico-san-rustico-2011"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «international-wine-challenge-2017-e-il-nostro-amarone-gaso-2010».",
+   "url": "https://www.sanrustico.it/international-wine-challenge-2017-e-il-nostro-amarone-gaso-2010/",
+   "etichetta": "sanrustico.it/international-wine-challenge-2017-e-il-nostro-amarone-gaso-2010"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «vinitaly-2017-5stars-wine».",
+   "url": "https://www.sanrustico.it/vinitaly-2017-5stars-wine/",
+   "etichetta": "sanrustico.it/vinitaly-2017-5stars-wine"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, consultato il 25 ottobre 2026, pagina «sanrustico.it» (verifica incrociata).",
+   "url": "https://www.sanrustico.it/",
+   "etichetta": "sanrustico.it"
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "nome": "Società Agricola RosaNatale",
+ "slug": "societa-agricola-rosanatale",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Rosanatale [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04668520267 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Roma, 154, 31020 Vidor (TV) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Rive DOCG» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3200651952 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@rosanatale.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.rosanatale.it|rosanatale.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "448 Rive di Colbertaldo (Brut)",
+     "denominazione": "Rive DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "153 Valdobbiadene (Extra Dry)",
+     "denominazione": "DOCG (denominazione completa non precisata dal sito)",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "371 Prosecco di Treviso (Extra Dry)",
+     "denominazione": "DOC (denominazione completa non precisata dal sito)",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=9278396092951061912|Mappa}} — valutazione 5 su 5 (38 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.rosanatale.it",
+   "etichetta": "rosanatale.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/societa-agricola-rosanatale/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «rosanatale.it/prodotti», consultata il 25 ottobre 2026.",
+   "url": "https://www.rosanatale.it/prodotti/",
+   "etichetta": "rosanatale.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Cantina Rosanatale» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=9278396092951061912",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

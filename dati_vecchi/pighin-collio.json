@@ -1,0 +1,106 @@
+{
+ "nome": "Pighin",
+ "slug": "pighin-collio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Viale Grado 11/1, 33050 Pavia di Udine (UD) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0432 675444 (la scheda del Consorzio non riporta indirizzo email) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.pighin.com|pighin.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Collio [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini DOC Delle Venezie: {{/pagine/pighin-delle-venezie.html|scheda Delle Venezie}} [[2]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini DOC Friuli Grave: {{/pagine/pighin-friuli-grave.html|scheda Friuli Grave}} [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio DOC Friuli: {{/pagine/pighin-friuli-doc.html|scheda Friuli DOC}} [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Collio",
+     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda della cantina nell’elenco del Consorzio Tutela Vini Collio, consultata il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Collio, scheda della cantina nell’elenco dei produttori, consultata il 25 ottobre 2026 (dati copiati dal sito del Consorzio).",
+   "url": "https://www.collio.it/cantina/pighin/",
+   "etichetta": "collio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini DOC Friuli Grave, elenco delle cantine e schede delle singole cantine, consultati il 25 ottobre 2026 (dati copiati dal sito del Consorzio).",
+   "url": "https://www.docfriuligrave.com/cantine.html",
+   "etichetta": "docfriuligrave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026 (dati copiati dal sito del Consorzio).",
+   "url": "https://www.docfriuli.eu/aziende/",
+   "etichetta": "docfriuli.eu"
+  }
+ ]
+}

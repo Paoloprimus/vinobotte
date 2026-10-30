@@ -1,0 +1,139 @@
+{
+ "nome": "Bosco Malera",
+ "slug": "bosco-malera",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Casa Vin. Bosco Malera S.R.L. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00191530260 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "31040 Salgareda [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni Venezia dichiarate",
+     "valore": "Lison Pramaggiore, Piave, Venezia, Lison [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@boscoviticultori.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.boscoviticultori.com/|boscoviticultori.com}} — raggiungibile al controllo del 29 ottobre 2026 [[3]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Vini Venezia [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[5]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via Correr, 17, 31040 Passo Vecchio-Correr TV; tel. +39 0422 807818; info@boscoviticultori.com; boscoviticultori.com [[4]]"
+    },
+    {
+     "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
+     "valore": "La scheda del Consorzio non riporta dati di contatto [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Bosco Viticultori, cantina della zona del Prosecco in provincia di Treviso, indicata sul sito come parte del Gruppo VI.V.O. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Pinot Grigio organic",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Pinot Grigio ramato",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[4]]"
+    }
+   ],
+   "righe": []
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "2026: oro al 65° Concorso Enologico Nazionale di Pramaggiore per Merlot Venezia DOC 2025 e Pinot Grigio Venezia DOC 2025 (Pra dei Dogi)\nBronzo al Decanter World Wine Awards e all'International Wine & Spirit Competition [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1992294660472648681|Mappa}} — valutazione 4,4 su 5 (59 recensioni) [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 29 ottobre 2026.",
+   "url": "https://www.boscoviticultori.com/",
+   "etichetta": "boscoviticultori.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.boscoviticultori.com/",
+   "etichetta": "boscoviticultori.com"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/bosco-malera/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 6,
+   "testo": "Scheda «Casa Vinicola Bosco-Malera S.R.L.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1992294660472648681",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

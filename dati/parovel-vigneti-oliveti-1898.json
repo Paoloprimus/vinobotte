@@ -1,0 +1,115 @@
+{
+ "nome": "Parovel Vigneti Oliveti 1898",
+ "slug": "parovel-vigneti-oliveti-1898",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00727970329 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Bagnoli della Rosandra, 624, 34018 San Dorligo della Valle (TS) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Prosecco DOC Trieste» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3467590953 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@parovel.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.parovel.com|parovel.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione. Altri vini del sito, senza denominazione chiara, non inclusi: Barde [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Visavì Barde",
+     "denominazione": "Prosecco DOC Trieste",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/pages/Parovel-Events/115532368463544|Parovel-Events}}\nYouTube {{https://www.youtube.com/channel/UCJe1Li2Dz5TJs1co27Z6SpA|canale UCJe1Li2Dz5TJs1co27Z6SpA}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13689755567412611251|Mappa}} — valutazione 4,1 su 5 (68 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.parovel.com",
+   "etichetta": "parovel.com"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/parovel-vigneti-oliveti-1898/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «parovel.com/index.php/it/vini/vini-affini-parovel», consultata il 25 ottobre 2026.",
+   "url": "https://www.parovel.com/index.php/it/vini/vini-affini-parovel",
+   "etichetta": "parovel.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.parovel.com",
+   "etichetta": "parovel.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «1898 azienda agricola Parovel cantina» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13689755567412611251",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

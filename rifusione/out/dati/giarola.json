@@ -1,0 +1,181 @@
+{
+ "nome": "Giarola",
+ "slug": "giarola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Giarola di Giarola Umberto s. agricola s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Casette di Sopra 2, 37060 Palazzolo di Sona (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7190255 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinigiarola.it/|www.vinigiarola.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Bardolino D.O.C. [[10]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei soci del Consorzio Tutela Vino Custoza DOC [[4]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Custoza",
+     "valore": "Sona (VR); tel. 045 719 0255; vinigiarola.it [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Terre coltivate a vigneto da un secolo; dal 1968 Umberto Giarola vinifica con il marchio “Giarola”; oggi i figli Michele e Valeriano [[5]]"
+    },
+    {
+     "etichetta": "Marchi",
+     "valore": "Vini Giarola e Vini Sant’Egidio (linea Corte Sant’Egidio) [[6]]"
+    },
+    {
+     "etichetta": "Punti vendita",
+     "valore": "Enoteche a Torbole (Nago-Torbole, TN) e a Böblingen (Stoccarda, Germania) [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Vini della Valpolicella dall’elenco del sito, che comprende molte altre denominazioni; annate non indicate. [[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[10]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Speronà",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[6]]"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino DOC; Chiaretto di Bardolino DOC [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Il sito ha notizie su Mondus Vini 2024 e Vinitaly senza punteggi leggibili [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Wine shop",
+     "valore": "Lunedì–venerdì 8:30–12:00 e 13:00–18:00, sabato 9:00–12:00, domenica chiuso; degustazioni su richiesta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "vinigiarola.it con negozio online (carrello) e magazine [[9]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Negozio sul sito; altri marketplace: presenza non verificata [[9]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti.html».",
+   "url": "https://www.vinigiarola.com/it/contatti.html",
+   "etichetta": "vinigiarola.com/it/contatti.html"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/chi-siamo.html».",
+   "url": "https://www.vinigiarola.com/it/chi-siamo.html",
+   "etichetta": "vinigiarola.com/it/chi-siamo.html"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/prodotti.html».",
+   "url": "https://www.vinigiarola.com/it/prodotti.html",
+   "etichetta": "vinigiarola.com/it/prodotti.html"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/prodotti/22-amarone-della-valpolicella.html».",
+   "url": "https://www.vinigiarola.com/it/prodotti/22-amarone-della-valpolicella.html",
+   "etichetta": "vinigiarola.com/it/prodotti/22-amarone-della-valpolicella.html"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/blog/2-mondus-vini-2024.html».",
+   "url": "https://www.vinigiarola.com/it/blog/2-mondus-vini-2024.html",
+   "etichetta": "vinigiarola.com/it/blog/2-mondus-vini-2024.html"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/cart.html».",
+   "url": "https://www.vinigiarola.com/it/cart.html",
+   "etichetta": "vinigiarola.com/it/cart.html"
+  },
+  {
+   "n": 10,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/giarola/",
+   "etichetta": "consorziobardolino.it"
+  }
+ ]
+}

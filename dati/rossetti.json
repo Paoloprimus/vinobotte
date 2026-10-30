@@ -1,0 +1,95 @@
+{
+ "nome": "Rossetti",
+ "slug": "rossetti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Provincia di Firenze (CAP 50050)[[1]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0571 581019\n0571.581019\n0571.581126 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "INFO@ROSSETTIVINI.IT [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://rossettivini.it/|rossettivini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Chianti DOCG; Chianti Classico DOCG [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti Classico; Brunello di Montalcino; Morellino di Scansano [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Chianti Classico; Brunello di Montalcino; Morellino di Scansano [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://rossettivini.it/",
+   "etichetta": "rossettivini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 27 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/rossetti/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://rossettivini.it/",
+   "etichetta": "rossettivini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

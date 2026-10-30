@@ -1,0 +1,100 @@
+{
+ "nome": "Azienda Agricola Cepol",
+ "slug": "azienda-agricola-cepol",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Rocat e Ferrari, 28, 31049 Valdobbiadene (TV) [[1]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Prosecco DOC» [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0423973746 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cepol.eu [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cepol.eu|cepol.eu}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Prosecco Doc Extra Dry (Amabile)",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Valdobbiadene Prosecco Superiore DOCG Brut",
+     "denominazione": "Valdobbiadene Prosecco Superiore DOCG",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12017377927995628478|Mappa}} — valutazione 4,7 su 5 (10 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-cepol/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «cepol.eu», consultata il 25 ottobre 2026.",
+   "url": "https://www.cepol.eu",
+   "etichetta": "cepol.eu"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Az. Agr. CEPOL di Antonio De Conto» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12017377927995628478",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

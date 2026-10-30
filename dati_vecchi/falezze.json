@@ -1,0 +1,175 @@
+{
+ "nome": "Falezze",
+ "slug": "falezze",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Falezze di Luca Anselmi (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "IT03877210231 [[9]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località Pigno 1/B, 37031 Illasi (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7833238 · WhatsApp +39 348 7241477 · info@falezze.it [[3]] [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.falezze.it/|www.falezze.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Piccola azienda familiare alla terza generazione, oltre ottantacinque anni di storia, in Val Mezzane (comune di Illasi); guidata da Luca Anselmi [[4]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Limitata e artigianale: dalle 10 alle 15 mila bottiglie l’anno; fruttaio per l’appassimento naturale [[4]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine biologico e Grappa di Amarone [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate nell’elenco; l’Amarone Riserva è indicato con l’annata 2012 nel titolo della scheda. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella Riserva DOCG",
+     "annata": "2012 [[5]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Superiore Ripasso DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Il sito ha una sezione “I premi” senza elenco leggibile nel testo salvato [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Passeggiata tra vigne, olivi e bosco, visita in cantina e degustazione con esposizione di opere di Niko e Sofia Kherkeladze [[3]]"
+    },
+    {
+     "etichetta": "Alloggio",
+     "valore": "Bioagriturismo Falezze con tre camere, dal 2024 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "falezze.it, in italiano, inglese, tedesco e francese [[9]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Linkedin e Facebook indicati dal sito; Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti».",
+   "url": "https://www.falezze.it/prodotti/",
+   "etichetta": "falezze.it/prodotti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «attivita».",
+   "url": "https://www.falezze.it/attivita/",
+   "etichetta": "falezze.it/attivita"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://www.falezze.it/azienda/",
+   "etichetta": "falezze.it/azienda"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti/amarone-della-valpolicella-riserva».",
+   "url": "https://www.falezze.it/prodotti/amarone-della-valpolicella-riserva/",
+   "etichetta": "falezze.it/prodotti/amarone-della-valpolicella-riserva"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti/amarone-della-valpolicella».",
+   "url": "https://www.falezze.it/prodotti/amarone-della-valpolicella/",
+   "etichetta": "falezze.it/prodotti/amarone-della-valpolicella"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti/valpolicella-ripasso-superiore».",
+   "url": "https://www.falezze.it/prodotti/valpolicella-ripasso-superiore/",
+   "etichetta": "falezze.it/prodotti/valpolicella-ripasso-superiore"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti/valpolicella-superiore».",
+   "url": "https://www.falezze.it/prodotti/valpolicella-superiore/",
+   "etichetta": "falezze.it/prodotti/valpolicella-superiore"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.falezze.it/",
+   "etichetta": "falezze.it"
+  }
+ ]
+}

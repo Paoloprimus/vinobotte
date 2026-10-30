@@ -1,0 +1,80 @@
+{
+ "nome": "Valdarno",
+ "slug": "valdarno",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02292510514 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Ponte alle Forche, 25/A, 52027 San Giovanni Valdarno (AR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 055 9120413 [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "negoziosgv@valdarnosuperiore.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinavaldarno.com/|cantinavaldarno.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/valdarnosuperiore/|@valdarnosuperiore}} [[2]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.cantinavaldarno.com/it/negozio/|cantinavaldarno.com/it/negozio}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://www.cantinavaldarno.com/",
+   "etichetta": "cantinavaldarno.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.cantinavaldarno.com/",
+   "etichetta": "cantinavaldarno.com"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

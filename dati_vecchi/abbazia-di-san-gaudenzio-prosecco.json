@@ -1,0 +1,86 @@
+{
+ "nome": "Abbazia di San Gaudenzio",
+ "slug": "abbazia-di-san-gaudenzio-prosecco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Casa Vinicola Abbazia di San Gaudenzio s.r.l.; P.IVA 03159210040 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Abbazia 6, 12058 Santo Stefano Belbo (CN) [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0 141840808; italia@abbazia.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.abbazia.it/|www.abbazia.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito indica la famiglia Santero come proprietaria e gestore della cantina (sezione «La Famiglia») [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Prosecco DOC",
+     "valore": "Il sito elenca linee (Fortuna, Atmosphere, Zoë, Panorama) e cita Moscato, Asti e Prosecco senza indicare le denominazioni [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda del Consorzio e sito ufficiale della cantina, consultati il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «abbazia.it».",
+   "url": "https://www.abbazia.it/",
+   "etichetta": "abbazia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  }
+ ]
+}

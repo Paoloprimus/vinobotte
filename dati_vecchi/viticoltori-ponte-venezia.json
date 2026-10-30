@@ -1,0 +1,110 @@
+{
+ "nome": "Viticoltori Ponte",
+ "slug": "viticoltori-ponte-venezia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Viticoltori Ponte SRL (come da mappa del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Verdi 50, 31047, Ponte di Piave (TV) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0422 858211; info@viticoltoriponte.it [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Vini Venezia [[2]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio di Tutela della DOC Prosecco: {{/pagine/viticoltori-ponte-prosecco.html|scheda Prosecco DOC}} [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG: {{/pagine/viticoltori-ponte-conegliano.html|scheda Conegliano Valdobbiadene}} [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini DOC Delle Venezie: {{/pagine/viticoltori-ponte-delle-venezie.html|scheda Delle Venezie}} [[4]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
+     "valore": "31047 Ponte di Piave; info@viticoltoriponte.it; denominazioni: Piave, Venezia [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Vini Venezia",
+     "valore": "Non indicato nella elenco dei produttori del Consorzio; non ancora raccolto dai siti delle cantine [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Mappa dei produttori del Consorzio consultata il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026 (dati copiati dal sito del Consorzio).",
+   "url": "https://www.prosecco.it/it/scheda-cantina/viticoltori-ponte/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "nome": "Tenuta Borgo Conventi",
+ "slug": "tenuta-borgo-conventi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Borgo Conventi [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01027110319 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Colombara 13, 34072 Farra d'Isonzo (GO) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0481 888004[[2]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@borgoconventi.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.borgoconventi.it|borgoconventi.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Collio [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata nel 1975 da Gianni Vescovo. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Collio",
+     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "5 Star Wines, Mundus Vini, Berliner Wine Trophy, Gambero Rosso, James Suckling, Decanter e The WineHunter [[3]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "The Wine Journal (91–92 punti) [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/borgoconventi|borgoconventi}}\nInstagram {{https://www.instagram.com/borgoconventi/|@borgoconventi}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.borgoconventi.it/shop/|borgoconventi.it/shop}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=10258264738812103125|Mappa}} — valutazione 4,8 su 5 (86 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.borgoconventi.it",
+   "etichetta": "borgoconventi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Collio, scheda della cantina nell’elenco dei produttori, consultata il 25 ottobre 2026.",
+   "url": "https://www.collio.it/cantina/tenuta-borgo-conventi/",
+   "etichetta": "collio.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.borgoconventi.it",
+   "etichetta": "borgoconventi.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Tenuta Borgo Conventi S.R.L.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=10258264738812103125",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

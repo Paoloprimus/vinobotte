@@ -1,0 +1,106 @@
+{
+ "nome": "Cantine della Corte",
+ "slug": "cantine-della-corte",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03645480264 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Guicciardini, 2, 31049 Valdobbiadene (TV) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini indicati solo come DOC/DOCG, assegnati a questa sezione dal nome del vino [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 04231916193 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinedellacorte.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinedellacorte.it|cantinedellacorte.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Legata al vino dal 1920, quando il nonno Giacinto ha impiantato il primo vigneto; oggi alla seconda generazione. [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione. Altri vini del sito, senza denominazione chiara, non inclusi: Merlot Corti Benedettine del Padovano, Raboso Corti Benedettine del Padovano, Cabernet Corti Benedettine del Padovano, Calice Rosso, Recioto [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "DOCG (denominazione completa non precisata dal sito)",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Valdobbiadene Prosecco Superiore",
+     "denominazione": "DOCG (denominazione completa non precisata dal sito)",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nVivino: presenza non verificata\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.cantinedellacorte.it",
+   "etichetta": "cantinedellacorte.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/cantine-della-corte/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «cantinedellacorte.it», consultata il 25 ottobre 2026.",
+   "url": "https://www.cantinedellacorte.it",
+   "etichetta": "cantinedellacorte.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.cantinedellacorte.it",
+   "etichetta": "cantinedellacorte.it"
+  }
+ ]
+}

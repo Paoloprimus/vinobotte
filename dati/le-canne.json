@@ -1,0 +1,86 @@
+{
+ "nome": "Le Canne",
+ "slug": "le-canne",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01201910450 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Vaccà, 68/70, 54100 Massa (MS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "327.1841784\n339.8478021 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinolecanne.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinolecanne.it/|vinolecanne.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Candia dei Colli Apuani [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8393076449944224069|Mappa}} — valutazione 5 su 5 (8 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://www.vinolecanne.it/",
+   "etichetta": "vinolecanne.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende associate al Consorzio di Tutela del Candia dei Colli Apuani, consultato il 30 ottobre 2026.",
+   "url": "https://candiadeicolliapuani.it/the-winery/",
+   "etichetta": "candiadeicolliapuani.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Azienda Agricola Le Canne» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8393076449944224069",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

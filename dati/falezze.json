@@ -1,0 +1,203 @@
+{
+ "nome": "Falezze",
+ "slug": "falezze",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Falezze di Luca Anselmi [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03877210231 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località Pigno 1/B, 37031 Illasi (VR) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7833238\nWhatsApp +39 348 7241477 [[4]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@falezze.it [[4]] [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.falezze.it/|www.falezze.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Piccola azienda familiare alla terza generazione, oltre ottantacinque anni di storia, in Val Mezzane (comune di Illasi); guidata da Luca Anselmi [[5]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Limitata e artigianale: dalle 10 alle 15 mila bottiglie l’anno; fruttaio per l’appassimento naturale [[5]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine biologico e Grappa di Amarone [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate nell’elenco; l’Amarone Riserva è indicato con l’annata 2012 nel titolo della scheda. [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella Riserva DOCG",
+     "annata": "2012 [[6]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Superiore Ripasso DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Sezione “I premi” senza elenco leggibile [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Passeggiata tra vigne, olivi e bosco, visita in cantina e degustazione con esposizione di opere di Niko e Sofia Kherkeladze [[4]]"
+    },
+    {
+     "etichetta": "Alloggio",
+     "valore": "Bioagriturismo Falezze con tre camere, dal 2024 [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "falezze.it, in italiano, inglese, tedesco e francese [[2]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/LucaAnselmiFalezze|LucaAnselmiFalezze}}\nInstagram {{https://www.instagram.com/lucaanselmifalezze/|@lucaanselmifalezze}}\nLinkedIn {{https://it.linkedin.com/company/falezze|falezze}} [[10]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Linkedin\nFacebook [[3]]\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=10597529248500906082|Mappa}} — valutazione 4,8 su 5 (27 recensioni) [[11]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[12]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.falezze.it/",
+   "etichetta": "falezze.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti».",
+   "url": "https://www.falezze.it/prodotti/",
+   "etichetta": "falezze.it/prodotti"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «attivita».",
+   "url": "https://www.falezze.it/attivita/",
+   "etichetta": "falezze.it/attivita"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://www.falezze.it/azienda/",
+   "etichetta": "falezze.it/azienda"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti/amarone-della-valpolicella-riserva».",
+   "url": "https://www.falezze.it/prodotti/amarone-della-valpolicella-riserva/",
+   "etichetta": "falezze.it/prodotti/amarone-della-valpolicella-riserva"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti/amarone-della-valpolicella».",
+   "url": "https://www.falezze.it/prodotti/amarone-della-valpolicella/",
+   "etichetta": "falezze.it/prodotti/amarone-della-valpolicella"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti/valpolicella-ripasso-superiore».",
+   "url": "https://www.falezze.it/prodotti/valpolicella-ripasso-superiore/",
+   "etichetta": "falezze.it/prodotti/valpolicella-ripasso-superiore"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti/valpolicella-superiore».",
+   "url": "https://www.falezze.it/prodotti/valpolicella-superiore/",
+   "etichetta": "falezze.it/prodotti/valpolicella-superiore"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.falezze.it/",
+   "etichetta": "falezze.it"
+  },
+  {
+   "n": 11,
+   "testo": "Scheda «Azienda agricola Falezze di Luca Anselmi» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=10597529248500906082",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 12,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

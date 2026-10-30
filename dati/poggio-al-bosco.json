@@ -1,0 +1,109 @@
+{
+ "nome": "Poggio al Bosco",
+ "slug": "poggio-al-bosco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "07183030480 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Chiostrini 5, 50028 Barberino Tavarnelle (FI) [[1]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poggioalbosco.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://poggioalbosco.it/|poggioalbosco.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Vin Santo del Chianti DOC; Chianti DOCG; Chianti Riserva DOCG [[4]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti; Vin Santo del Chianti [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Chianti DOCG; Vin Santo del Chianti; Sangiovese [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/pg/poggioalbosco/reviews|pg}}\nInstagram {{https://www.instagram.com/poggioalbosco/|@poggioalbosco}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://poggioalbosco.it/negozio/|poggioalbosco.it/negozio}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://poggioalbosco.it/",
+   "etichetta": "poggioalbosco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 27 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-poggio-al-bosco/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://poggioalbosco.it/",
+   "etichetta": "poggioalbosco.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://poggioalbosco.it/",
+   "etichetta": "poggioalbosco.it"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

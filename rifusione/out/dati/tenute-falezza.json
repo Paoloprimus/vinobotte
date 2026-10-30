@@ -1,0 +1,195 @@
+{
+ "nome": "Tenute Falezza",
+ "slug": "tenute-falezza",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenute Falezza Az. Agr. San Felice S.r.l. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Belvedere 35/A, 37131 Verona [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 2221249; info@tenutefalezza.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://tenutefalezza.com/|tenutefalezza.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Falezza, produttrice dal 1974; origini con Luigi Falezza (nato nel 1927), mezzadro nella Valle di Mezzane [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Grappa di Amarone [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche altri vini. Il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella Riserva DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Zelos",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Zelos",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–ven 14–18, sabato 9–12 [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Basic wine tour (1,5 h, € 32), Premium con navetta da Verona (2 h, € 38), Private [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Catalogo prodotti e box degustazione sul sito; altri marketplace: presenza non verificata [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://tenutefalezza.com/contatti/",
+   "etichetta": "tenutefalezza.com/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «la-nostra-storia».",
+   "url": "https://tenutefalezza.com/la-nostra-storia/",
+   "etichetta": "tenutefalezza.com/la-nostra-storia"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti».",
+   "url": "https://tenutefalezza.com/prodotti/",
+   "etichetta": "tenutefalezza.com/prodotti"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «product/grappa-di-amarone».",
+   "url": "https://tenutefalezza.com/product/grappa-di-amarone/",
+   "etichetta": "tenutefalezza.com/product/grappa-di-amarone"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «product/amarone-della-valpolicella-docg».",
+   "url": "https://tenutefalezza.com/product/amarone-della-valpolicella-docg/",
+   "etichetta": "tenutefalezza.com/product/amarone-della-valpolicella-docg"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «product/recioto-della-valpolicella-docg».",
+   "url": "https://tenutefalezza.com/product/recioto-della-valpolicella-docg/",
+   "etichetta": "tenutefalezza.com/product/recioto-della-valpolicella-docg"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «product/valpolicella-ripasso-superiore-doc».",
+   "url": "https://tenutefalezza.com/product/valpolicella-ripasso-superiore-doc/",
+   "etichetta": "tenutefalezza.com/product/valpolicella-ripasso-superiore-doc"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «product/valpolicella-superiore-doc».",
+   "url": "https://tenutefalezza.com/product/valpolicella-superiore-doc/",
+   "etichetta": "tenutefalezza.com/product/valpolicella-superiore-doc"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «product/valpolicella-doc».",
+   "url": "https://tenutefalezza.com/product/valpolicella-doc/",
+   "etichetta": "tenutefalezza.com/product/valpolicella-doc"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «prenota-la-tua-visita».",
+   "url": "https://tenutefalezza.com/prenota-la-tua-visita/",
+   "etichetta": "tenutefalezza.com/prenota-la-tua-visita"
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "nome": "Le Bignele",
+ "slug": "le-bignele",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Le Bignele / Soc. Agricola Aldrighetti Luigi, Angelo e Nicola s.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01805980230 [[12]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Biniele 4, 37020 Marano di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 388 4066545 [[2]] · info@lebignele.it [[12]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lebignele.it/|www.lebignele.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Aldrighetti dal 1818, con terreni in località Bignele presso Valgatara; oggi Nicola, Silvia e Cecilia con il padre Luigi e lo zio Angelo [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "9 ettari tra Marano di Valpolicella, Negrar e San Pietro in Cariano [[3]]"
+    },
+    {
+     "etichetta": "Ospitalità",
+     "valore": "Camere e colazione [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Recioto Classico",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore Ripasso",
+     "denominazione": "Valpolicella Classico Superiore Ripasso DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Percorsi di visita e degustazione, wine shop, camere e colazione [[10]] [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "lebignele.it, in italiano e inglese [[12]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://lebignele.it/contatti/",
+   "etichetta": "lebignele.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://lebignele.it/azienda/",
+   "etichetta": "lebignele.it/azienda"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vini-e-prodotti-tipici».",
+   "url": "https://lebignele.it/vini-e-prodotti-tipici/",
+   "etichetta": "lebignele.it/vini-e-prodotti-tipici"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-classico-della-valpolicella».",
+   "url": "https://lebignele.it/amarone-classico-della-valpolicella/",
+   "etichetta": "lebignele.it/amarone-classico-della-valpolicella"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «recioto-classico-della-valpolicella».",
+   "url": "https://lebignele.it/recioto-classico-della-valpolicella/",
+   "etichetta": "lebignele.it/recioto-classico-della-valpolicella"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classico-superiore-ripasso».",
+   "url": "https://lebignele.it/valpolicella-classico-superiore-ripasso/",
+   "etichetta": "lebignele.it/valpolicella-classico-superiore-ripasso"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classico-superiore».",
+   "url": "https://lebignele.it/valpolicella-classico-superiore/",
+   "etichetta": "lebignele.it/valpolicella-classico-superiore"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classico-2».",
+   "url": "https://lebignele.it/valpolicella-classico-2/",
+   "etichetta": "lebignele.it/valpolicella-classico-2"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «degustazioni».",
+   "url": "https://lebignele.it/degustazioni/",
+   "etichetta": "lebignele.it/degustazioni"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «wine-shop».",
+   "url": "https://lebignele.it/wine-shop/",
+   "etichetta": "lebignele.it/wine-shop"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.lebignele.it/",
+   "etichetta": "lebignele.it"
+  }
+ ]
+}

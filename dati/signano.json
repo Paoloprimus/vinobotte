@@ -1,0 +1,130 @@
+{
+ "nome": "Signano",
+ "slug": "signano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Signano Società Semplice di Famiglia Biagini [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Santa Margherita 36, San Gimignano, SI [[2]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0577 941085 [[2]] [[4]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@signano.it [[4]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.signano.it/|signano.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata nel 1961 con l'acquisto di due ettari a Santa Margherita, oggi gestita dai figli Teresa e Pietro Biagini. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Vernaccia di San Gimignano DOCG; Vernaccia di San Gimignano Riserva DOCG; Chianti Colli Senesi DOCG; San Gimignano DOC [[5]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Vernaccia di San Gimignano DOCG; San Gimignano Rosso DOC; Vin Santo DOC [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Vernaccia di San Gimignano DOCG; San Gimignano Rosso DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16007233523712437904|Mappa}} — valutazione 4 su 5 (4 recensioni) [[6]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[7]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "https://www.signano.it/",
+   "etichetta": "signano.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://www.signano.it/",
+   "etichetta": "signano.it"
+  },
+  {
+   "n": 3,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 26 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-signano/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.signano.it/",
+   "etichetta": "signano.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://www.signano.it/",
+   "etichetta": "signano.it"
+  },
+  {
+   "n": 6,
+   "testo": "Scheda «Signano Soc. Agr.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16007233523712437904",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 7,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

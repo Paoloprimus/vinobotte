@@ -1,0 +1,144 @@
+{
+ "nome": "Corte Odorico",
+ "slug": "corte-odorico",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Corte Odorico di Begalli Daniele (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01418820237 [[6]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Don Angelo Fasoli 23, 37029 San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 333 443 3314 · corte.odorico@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.corteodorico.it/|www.corteodorico.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Natura",
+     "valore": "Piccola realtà familiare con azienda agricola, cantina e due appartamenti turistici (Wine Relais); vigneti di proprietà da tre generazioni [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Prezzi e linee dallo shop; il sito non riporta le annate. [[2]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Wine Relais",
+     "valore": "Appartamenti Monte Baldo e Verona, prenotazione soggiorno sul sito [[3]]"
+    },
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Percorso con vigneti, sala di degustazione, Valpolicella Classico, Ripasso e Amarone con tagliere; orari concordati [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "corteodorico.it con shop; Instagram @corteodorico [[2]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Instagram indicato dal sito; Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://corteodorico.it/contatti/",
+   "etichetta": "corteodorico.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://corteodorico.it/",
+   "etichetta": "corteodorico.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «product/amarone-della-valpolicella».",
+   "url": "https://corteodorico.it/product/amarone-della-valpolicella/",
+   "etichetta": "corteodorico.it/product/amarone-della-valpolicella"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «degustazioni».",
+   "url": "https://corteodorico.it/degustazioni/",
+   "etichetta": "corteodorico.it/degustazioni"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, consultato il 25 ottobre 2026, pagina «corteodorico.it» (verifica incrociata).",
+   "url": "https://www.corteodorico.it/",
+   "etichetta": "corteodorico.it"
+  }
+ ]
+}

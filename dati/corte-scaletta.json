@@ -1,0 +1,148 @@
+{
+ "nome": "Corte Scaletta",
+ "slug": "corte-scaletta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Corte Scaletta Soc. Agr. di Cavedini Giulia e Riccardo [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Cao di Sopra 19, Marcellise, 37036 San Martino Buon Albergo (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "Tel/Fax +39 045 8740269\ncell. +39 349 1580414 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cortescaletta.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortescaletta.it/|www.cortescaletta.it}} — non raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Famiglia di viticoltori da generazioni; produce vino dal 2011 [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "A Marcellise e nella tenuta Musella, a guyot, solo vigneti di proprietà; Corvina, Corvinone, Rondinella e un piccolo vigneto di Cabernet Sauvignon [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC (non filtrato)",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella DOC Superiore",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso Superiore",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortescaletta.it con gallery e pagina sostenibilità [[5]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=18443242344248732705|Mappa}} — valutazione 4,9 su 5 (7 recensioni) [[6]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[7]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "http://www.cortescaletta.it/contatti/",
+   "etichetta": "cortescaletta.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "http://www.cortescaletta.it/azienda/",
+   "etichetta": "cortescaletta.it/azienda"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "http://www.cortescaletta.it/vini/",
+   "etichetta": "cortescaletta.it/vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «sostenibilita».",
+   "url": "https://www.cortescaletta.it/sostenibilita/",
+   "etichetta": "cortescaletta.it/sostenibilita"
+  },
+  {
+   "n": 6,
+   "testo": "Scheda «Corte Scaletta» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=18443242344248732705",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 7,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "nome": "Cristiana Bettili Wines",
+ "slug": "cristiana-bettili",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Bettili Cristiana [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02953880230 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Sede legale: Via Ca’ Vignega 20, 37010 Pescantina (VR) [[1]]. Nell’elenco del Consorzio: Località Sorsei 1, 37010 Cavaion Veronese (VR) [[2]]"
+    },
+    {
+     "etichetta": "Altra sede",
+     "valore": "Friuli Venezia Giulia: Tenuta Plozner, Spilimbergo (PN) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 348 8009670\n+39 348 4044373 [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cristianabettiliwines.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cristianabettiliwines.it/|www.cristianabettiliwines.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Valpolicella come «Az. Agricola Bettili Cristiana» [[2]]\nConsorzio Tutela Vino Bardolino D.O.C. [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Cristiana Bettili, entrata definitivamente nell’azienda di famiglia a fine anni Novanta con il padre Siro [[5]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Nel 1977 Siro acquista Tenuta Vignega (otto ettari di vecchie vigne); nel 2013 Cristiana acquista Tenuta Plozner a Spilimbergo, in Friuli [[5]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "Tenuta Vignega (Pescantina), già parte dei terreni dei conti Serego Alighieri; Tenuta Sorsei (Bardolino) [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "Tenuta Vignega: 8 ettari di vecchie vigne [[5]]; Tenuta Plozner (Spilimbergo): 43 ettari vitati nelle Grave friulane [[5]]"
+    },
+    {
+     "etichetta": "Terreni",
+     "valore": "A Vignega: calcareo, poco profondo, con scheletro; pergola veronese e guyot [[6]]"
+    },
+    {
+     "etichetta": "Conduzione",
+     "valore": "Azienda interamente convertita al metodo di coltivazione biologica; anche Tenuta Plozner convertita [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Amarone della Valpolicella DOCG, Recioto della Valpolicella DOC, Valpolicella DOC e Superiore, Ripasso Superiore, Bardolino DOC e Chiaretto (anche spumante), vini del Friuli Grave (Pinot Grigio, Sauvignon, Merlot) [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal negozio del sito, che non riporta le annate in vendita. [[7]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Riserva (anche magnum 1,5 l)",
+     "denominazione": "Amarone della Valpolicella DOCG Riserva",
+     "annata": "—"
+    },
+    {
+     "nome": "Amarone Magnum",
+     "denominazione": "Amarone della Valpolicella DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella DOC Superiore",
+     "annata": "—"
+    },
+    {
+     "nome": "Ripasso Superiore",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Bardolino",
+     "denominazione": "Bardolino DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Chiaretto",
+     "denominazione": "Bardolino Chiaretto DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Chiaretto spumante brut",
+     "denominazione": "Bardolino Chiaretto DOC Spumante Brut",
+     "annata": "—"
+    },
+    {
+     "nome": "Peeecoranera",
+     "denominazione": "Merlot DOC Friuli Grave",
+     "annata": "—"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "DOC Friuli Grave",
+     "annata": "—"
+    },
+    {
+     "nome": "Sauvignon",
+     "denominazione": "DOC Friuli Grave",
+     "annata": "—"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino DOC; Chiaretto di Bardolino DOC; Chiaretto di Bardolino spumante DOC [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Non indicate sul sito; il sito ha un modulo di contatto [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cristianabettiliwines.it, in italiano e inglese, con negozio online [[5]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://cristianabettiliwines.it/negozio/|cristianabettiliwines.it/negozio}} [[8]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cristianacollection|cristianacollection}}\nInstagram {{https://www.instagram.com/cristiana_bettili_wines/|@cristiana_bettili_wines}}\nYouTube {{https://www.youtube.com/channel/UCjxA90xAAfgokBzmINFtyMA|canale UCjxA90xAAfgokBzmINFtyMA}} [[8]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1592272839996632698|Mappa}} — valutazione 4,6 su 5 (5 recensioni) [[9]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «condizioni-di-vendita».",
+   "url": "https://cristianabettiliwines.it/condizioni-di-vendita/",
+   "etichetta": "cristianabettiliwines.it/condizioni-di-vendita"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://cristianabettiliwines.it/contatti/",
+   "etichetta": "cristianabettiliwines.it/contatti"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/cristiana-bettili/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://cristianabettiliwines.it/",
+   "etichetta": "cristianabettiliwines.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/amarone-della-valpolicella-docg-riserva-15l/?lang=en».",
+   "url": "https://cristianabettiliwines.it/prodotto/amarone-della-valpolicella-docg-riserva-15l/?lang=en",
+   "etichetta": "cristianabettiliwines.it/prodotto/amarone-della-valpolicella-docg-riserva-15l/?lang=en"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/recioto_valpolicella_doc/?lang=en».",
+   "url": "https://cristianabettiliwines.it/prodotto/recioto_valpolicella_doc/?lang=en",
+   "etichetta": "cristianabettiliwines.it/prodotto/recioto_valpolicella_doc/?lang=en"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.cristianabettiliwines.it/",
+   "etichetta": "cristianabettiliwines.it"
+  },
+  {
+   "n": 9,
+   "testo": "Scheda «Bettili Cristiana» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1592272839996632698",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 10,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  }
+ ]
+}

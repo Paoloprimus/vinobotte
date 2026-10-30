@@ -1,0 +1,89 @@
+{
+ "nome": "Casa Cecchin",
+ "slug": "casa-cecchin-durello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Casa Cecchin [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Agugliana 11, 36054 Montebello Vicentino (VI) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0444 649610; info@casacecchin.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.casacecchin.it|casacecchin.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina su terreno vulcanico che valorizza i vitigni Durella e Garganega; fondata dall’ingegner Renato con la figlia Roberta; il Metodo Classico affina in una cripta scavata nella roccia vulcanica [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il testo del Consorzio cita un solo vino; il sito della cantina non è stato letto. [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Durello Spumante Riserva",
+     "denominazione": "Denominazione non indicata (Metodo Classico)",
+     "annata": "— [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://montilessini.com/casa-cecchin/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  }
+ ]
+}

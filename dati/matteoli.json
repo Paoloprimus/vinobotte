@@ -1,0 +1,134 @@
+{
+ "nome": "Matteoli",
+ "slug": "matteoli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Matteoli di Matteoli Andrea [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "12761110159 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. San Sano 113, 53013 Gaiole in Chianti, SI [[2]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@agricolamatteoli.it [[4]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.agricolamatteoli.it/|agricolamatteoli.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda a conduzione familiare intestata a Matteoli Andrea. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Chianti Classico DOCG [[5]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti Classico DOCG [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Chianti Classico DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/agricolamatteoli|agricolamatteoli}}\nInstagram {{https://www.instagram.com/agriturismo_sansano.matteoli/|@agriturismo_sansano.matteoli}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=5460460343053103105|Mappa}} — valutazione 5 su 5 (8 recensioni) [[6]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[7]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "https://www.agricolamatteoli.it/",
+   "etichetta": "agricolamatteoli.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://www.agricolamatteoli.it/",
+   "etichetta": "agricolamatteoli.it"
+  },
+  {
+   "n": 3,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 26 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/agricola-matteoli/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.agricolamatteoli.it/",
+   "etichetta": "agricolamatteoli.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://www.agricolamatteoli.it/",
+   "etichetta": "agricolamatteoli.it"
+  },
+  {
+   "n": 6,
+   "testo": "Scheda «Azienda Agricola Matteoli» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=5460460343053103105",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 7,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

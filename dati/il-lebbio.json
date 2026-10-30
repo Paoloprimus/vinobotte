@@ -1,0 +1,128 @@
+{
+ "nome": "Il Lebbio",
+ "slug": "il-lebbio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Il Lebbio dei F.lli Niccolini S.S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00726770522 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. San Benedetto 11/c, 53037 San Gimignano, SI [[2]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577 944725 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "illebbio@libero.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.illebbio.it/|illebbio.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Gestita dalla famiglia Niccolini, con esperienza plurigenerazionale nel vino. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Vernaccia di San Gimignano DOCG; Chianti DOCG; Chianti Riserva DOCG [[4]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Vernaccia di San Gimignano DOCG [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Vernaccia di San Gimignano DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13855805881041447208|Mappa}} — valutazione 5 su 5 (23 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "https://www.illebbio.it/",
+   "etichetta": "illebbio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://www.illebbio.it/",
+   "etichetta": "illebbio.it"
+  },
+  {
+   "n": 3,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 26 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-il-lebbio/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://www.illebbio.it/",
+   "etichetta": "illebbio.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Az Agr Il Lebbio dei f.lli Niccolini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13855805881041447208",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

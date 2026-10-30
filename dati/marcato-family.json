@@ -1,0 +1,92 @@
+{
+ "nome": "Marcato Family",
+ "slug": "marcato-family",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Marcato Family Sas di Marcato Enrico & C [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Olmo 4, 37030 Roncà (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "335 593 7634 [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "office@familyofwine.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.familyofwine.it|familyofwine.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito indicato dal Consorzio rinvia a «Family of Wine», un servizio di distribuzione di vini di altri produttori; non è stata letta la pagina dell’azienda [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Soave",
+     "valore": "Non disponibile: la pagina letta non elenca vini [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nVivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/marcato-family-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.familyofwine.it",
+   "etichetta": "familyofwine.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «enricomarcatofamilyofwine.it/family-of-wine», consultata il 24 ottobre 2026.",
+   "url": "https://enricomarcatofamilyofwine.it/family-of-wine/",
+   "etichetta": "enricomarcatofamilyofwine.it"
+  }
+ ]
+}

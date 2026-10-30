@@ -1,0 +1,72 @@
+{
+ "nome": "Podere Pellicciano",
+ "slug": "podere-pellicciano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Agrisole S.s.a. di Caputo F. & C. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02013330507 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Serra 64, Loc. La Serra, 56028 San Miniato, PI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0571 460109 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poderepellicciano.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://poderepellicciano.it/|poderepellicciano.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Terre di Pisa [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/PoderePellicciano/|facebook.com/PoderePellicciano}}\nInstagram {{https://www.instagram.com/poderepellicciano/|instagram.com/poderepellicciano}}\nYouTube {{https://www.youtube.com/channel/UCBkG3KhSB6-y4SCmJ09I0sQ|youtube.com/channel/UCBkG3KhSB6-y4SCmJ09I0sQ}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://poderepellicciano.it/",
+   "etichetta": "poderepellicciano.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vini Terre di Pisa, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.viniterredipisa.com/azienda-it.php?id=15",
+   "etichetta": "viniterredipisa.com"
+  }
+ ]
+}

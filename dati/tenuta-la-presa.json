@@ -1,0 +1,125 @@
+{
+ "nome": "Tenuta La Presa",
+ "slug": "tenuta-la-presa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. La Presa 1, Caprino Veronese (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "045 7242314 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutalapresa.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutalapresa.it/it/|tenutalapresa.it/it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vino Bardolino D.O.C. [[3]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Località La Presa, 1, 37013 Caprino Veronese VR; tel. 0457242314; info@tenutalapresa.it; tenutalapresa.it [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Proprietà della famiglia Dei Micheli dal 1995 ai piedi del Monte Baldo; wine relais; oltre 100 ettari tra Rivoli e Caprino [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Delle Venezie",
+     "valore": "Non indicato nell’elenco del Consorzio; non ancora raccolto dai siti delle cantine [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino DOC; Chiaretto di Bardolino DOC; Sottozone di Bardolino; Montebaldo Bardolino DOC [[1]]"
+    }
+   ],
+   "nota": "Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[1]]"
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/TenutaLaPresa|TenutaLaPresa}}\nInstagram {{https://www.instagram.com/tenutalapresa/|@tenutalapresa}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16894036846375219754|Mappa}} — valutazione 4,8 su 5 (140 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/tenuta-la-presa/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.tenutalapresa.it/it/",
+   "etichetta": "tenutalapresa.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Tenuta La Presa» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16894036846375219754",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

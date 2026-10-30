@@ -1,0 +1,128 @@
+{
+ "nome": "Tezza",
+ "slug": "tezza-delle-venezie",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tezza Flavio, Vanio e Federico Soc. Agr. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Stradella Maioli 4, Poiano, 37142 Verona [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 550267; info@tezzawines.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tezzawines.it/|www.tezzawines.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Valpolicella: {{/pagine/tezza.html|scheda Valpolicella}} [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini DOC Delle Venezie: {{/pagine/tezza-delle-venezie.html|scheda Delle Venezie}} [[3]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Stradella Maioli, 4 37142 - Verona (VR) | ITALIA; tel. 045 550267; info@tezzawines.it; tezzawines.it [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda agricola fondata nel 1960, condotta dal 1998 dai cugini Federico, Flavio e Vanio; filiera corta [[4]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Valpantena; certificazione biologica ufficiale dichiarata dal 2020 [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio Corte Majoli Organic",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Instagram indicato dal sito; Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/info/contatti».",
+   "url": "https://www.tezzawines.it/it/info/contatti/",
+   "etichetta": "tezzawines.it/it/info/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/tezza-wine/chi-siamo».",
+   "url": "https://www.tezzawines.it/it/tezza-wine/chi-siamo/",
+   "etichetta": "tezzawines.it/it/tezza-wine/chi-siamo"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/tezza-wine/sostenibilita».",
+   "url": "https://www.tezzawines.it/it/tezza-wine/sostenibilita/",
+   "etichetta": "tezzawines.it/it/tezza-wine/sostenibilita"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it».",
+   "url": "https://www.tezzawines.it/it/",
+   "etichetta": "tezzawines.it/it"
+  }
+ ]
+}

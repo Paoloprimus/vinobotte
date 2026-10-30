@@ -1,0 +1,197 @@
+{
+ "nome": "Corte Badin (Villa Badin)",
+ "slug": "corte-badin",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Corte Badin Soc. Agricola (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00938460235 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Badin 14/A, 37020 Marano di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 7701454 · +39 349 5278186 · info@cortebadin.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortebadin.com/|www.cortebadin.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Bonazzi a Badin dalla seconda metà del 1700; cantina fondata nel 1962 da Alessandro Bonazzi; oggi i nipoti Giorgio e Ivo [[3]]"
+    },
+    {
+     "etichetta": "Superficie",
+     "valore": "8 ettari, in prevalenza vigneto, con olivi e ciliegi [[3]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "Lotta integrata dal 2019 (progetto RRR del Consorzio) [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[3]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone Classico Riserva",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Citati prestigiosi concorsi enologici senza elenco dei premi [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–sab 9–18; domenica chiuso (apertura per min. 10 persone, su prenotazione) [[2]]"
+    },
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Degustazione con tagliere 30 € (2 ore); Play With Wine 40 € (1h30); eventi privati [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortebadin.com con shop [[10]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://www.cortebadin.com/it/contatti",
+   "etichetta": "cortebadin.com/it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/cantina-vinicola-valpolicella».",
+   "url": "https://www.cortebadin.com/it/cantina-vinicola-valpolicella",
+   "etichetta": "cortebadin.com/it/cantina-vinicola-valpolicella"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/amarone-classico».",
+   "url": "https://www.cortebadin.com/it/amarone-classico",
+   "etichetta": "cortebadin.com/it/amarone-classico"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/amarone-classico-riserva».",
+   "url": "https://www.cortebadin.com/it/amarone-classico-riserva",
+   "etichetta": "cortebadin.com/it/amarone-classico-riserva"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/recioto-della-valpolicella-classico».",
+   "url": "https://www.cortebadin.com/it/recioto-della-valpolicella-classico",
+   "etichetta": "cortebadin.com/it/recioto-della-valpolicella-classico"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/valpolicella-ripasso-classico-superiore».",
+   "url": "https://www.cortebadin.com/it/valpolicella-ripasso-classico-superiore",
+   "etichetta": "cortebadin.com/it/valpolicella-ripasso-classico-superiore"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/valpolicella-classico-superiore».",
+   "url": "https://www.cortebadin.com/it/valpolicella-classico-superiore",
+   "etichetta": "cortebadin.com/it/valpolicella-classico-superiore"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/valpolicella-classico».",
+   "url": "https://www.cortebadin.com/it/valpolicella-classico",
+   "etichetta": "cortebadin.com/it/valpolicella-classico"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «it/beso».",
+   "url": "https://www.cortebadin.com/it/beso",
+   "etichetta": "cortebadin.com/it/beso"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «it/degustazione-vini-valpolicella».",
+   "url": "https://www.cortebadin.com/it/degustazione-vini-valpolicella",
+   "etichetta": "cortebadin.com/it/degustazione-vini-valpolicella"
+  }
+ ]
+}

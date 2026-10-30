@@ -1,0 +1,127 @@
+{
+ "nome": "Le Rughe",
+ "slug": "le-rughe",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Vinicoltura Le Rughe Sas [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Papa Giovanni Xxiii 24, 31015, Conegliano (Tv) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0434 75033 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@proseccolerughe.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lerughe.it/|lerughe.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]"
+    },
+    {
+     "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
+     "valore": "Via San Liberale, 57 - 31018 Gaiarine (TV); tel. +39043475033; info@lerughe.it; www.lerughe.it [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: brut, extra dry [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "Vendita al dettaglio; Visita e degustazione [[3]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fra 100.000 e 500.000 bottiglie [[3]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "SQNPI [[3]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Cinese, Francese, Inglese, Spagnolo [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1825579015354398864|Mappa}} — valutazione 4,6 su 5 (27 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 29 ottobre 2026.",
+   "url": "https://www.lerughe.it/",
+   "etichetta": "lerughe.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/le-rughe/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «le Rughe» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1825579015354398864",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

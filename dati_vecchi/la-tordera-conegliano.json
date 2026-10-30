@@ -1,0 +1,131 @@
+{
+ "nome": "La Tordera",
+ "slug": "la-tordera-conegliano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az.Agr. La Tordera s.s. (come da mappa del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Alnè Bosco 23, 31020 Vidor (TV) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0423 985362; info@latordera.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.latordera.it/|www.latordera.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio di Tutela della DOC Prosecco: {{/pagine/la-tordera-prosecco.html|scheda Prosecco DOC}} [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Vini Asolo Montello: {{/pagine/la-tordera-asolo.html|scheda Asolo Montello}} [[4]]"
+    },
+    {
+     "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
+     "valore": "Via Alnè Bosco, 23, 31020 Vidor (TV); tel. +390423985362; visit@latordera.it; http://www.latordera.it [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: \"Rive\" extra brut, \"Rive\" dry, brut, dry, extra brut, extra dry [[3]]"
+    },
+    {
+     "etichetta": "Valdobbiadene Superiore di Cartizze",
+     "valore": "Tipologie indicate: dry [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "E-commerce; Tour in bici; Vendita al dettaglio; Visita e degustazione [[3]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Oltre 1 milione di bottiglie [[3]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Francese, Inglese, Tedesco [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Mappa dei produttori del Consorzio consultata il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/la-tordera/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026 (dati copiati dal sito del Consorzio).",
+   "url": "https://www.prosecco.it/it/scheda-cantina/la-tordera/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026 (dati copiati dal sito del Consorzio).",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  }
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "nome": "San Dionigi",
+ "slug": "san-dionigi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Semplice Agricola San Dionigi (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Strada dei Monti 2/G, 37124 Verona [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 339 3223074 e +39 329 0942220; info@sandionigi.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.sandionigi.it/|www.sandionigi.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda attiva dal 1968; conversione al biologico voluta dal padre dei titolari; primi vini propri dal 2022 [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "7 ettari: circa 4,5 di vigneto (Corvina, Corvinone, Rondinella, Molinara, Oseleta, Spigamonti, Croatina, micro-parcella di Sangiovese) e circa 2,5 di oliveto [[3]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Due oli extravergini biologici, Blend e Grignano [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate; la cantina dichiara di non ripetere lo stesso vino da un’annata all’altra. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite con degustazione di vini e oli, prenotazione almeno un giorno prima [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti-8».",
+   "url": "https://www.sandionigi.it/contatti-8",
+   "etichetta": "sandionigi.it/contatti-8"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «filosofia».",
+   "url": "https://www.sandionigi.it/filosofia",
+   "etichetta": "sandionigi.it/filosofia"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «olio».",
+   "url": "https://www.sandionigi.it/olio",
+   "etichetta": "sandionigi.it/olio"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini/valpolicella-superiore».",
+   "url": "https://www.sandionigi.it/vini/valpolicella-superiore",
+   "etichetta": "sandionigi.it/vini/valpolicella-superiore"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «visite».",
+   "url": "https://www.sandionigi.it/visite",
+   "etichetta": "sandionigi.it/visite"
+  }
+ ]
+}

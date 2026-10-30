@@ -1,0 +1,150 @@
+{
+ "nome": "La Dama Vini",
+ "slug": "la-dama-vini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Dama s.s.a. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03667360238 [[8]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Giuseppe Quintarelli 39, San Vito di Negrar, 37024 Negrar di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 6000728 · fax 045 6011442 · info@ladamavini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ladamavini.it/|www.ladamavini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Prima generazione di vignaioli, iscritti FIVI; uve e vini biologici certificati dall’annata 2015 [[2]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Due corpi nella Valpolicella Classica: Ca’ Besi a Negrar e Colombarino a Sant’Ambrogio di Valpolicella [[3]]"
+    },
+    {
+     "etichetta": "Cantina",
+     "valore": "Fruttaio ad aerazione naturale; architettura con tinte rubino e celeste [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il testo salvato non riporta l’elenco delle etichette né le annate; il sito cita il Recioto 2022 con un nuovo riconoscimento. [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Recioto della Valpolicella",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "2022 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Un nuovo riconoscimento per il Recioto 2022 (notizia in home), senza guida né punteggio nel testo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Esperienze",
+     "valore": "Degustazioni, eventi privati e business, aperture straordinarie settembre–ottobre 2026, eventi in cantina; wine club [[5]] [[6]] [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "ladamavini.it in italiano, inglese e tedesco, con wine club e shop [[7]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Wine club e shop sul sito; altri marketplace: presenza non verificata [[7]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://ladamavini.it/",
+   "etichetta": "ladamavini.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «vigneti».",
+   "url": "https://www.ladamavini.it/vigneti/",
+   "etichetta": "ladamavini.it/vigneti"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «cantina».",
+   "url": "https://www.ladamavini.it/cantina/",
+   "etichetta": "ladamavini.it/cantina"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «degustazioni».",
+   "url": "https://www.ladamavini.it/degustazioni/",
+   "etichetta": "ladamavini.it/degustazioni"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «eventi_privati_business».",
+   "url": "https://www.ladamavini.it/eventi_privati_business/",
+   "etichetta": "ladamavini.it/eventi_privati_business"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «wineclub».",
+   "url": "https://ladamavini.it/wineclub/",
+   "etichetta": "ladamavini.it/wineclub"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, consultato il 25 ottobre 2026, pagina «ladamavini.it» (verifica incrociata).",
+   "url": "https://www.ladamavini.it/",
+   "etichetta": "ladamavini.it"
+  }
+ ]
+}

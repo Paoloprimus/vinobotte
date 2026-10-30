@@ -1,0 +1,220 @@
+{
+ "nome": "I Campi",
+ "slug": "i-campi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola I Campi di Flavio Prà [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03617030238 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via delle Pezzole 3, località Allodola, 37031 Cellore d’Illasi (VR) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 6175915 [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@icampi.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.icampi.it/|www.icampi.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Flavio Prà, quarta generazione di famiglia, con la figlia Gloria; vigneti d’alta collina a circa 400 m s.l.m. [[4]]"
+    },
+    {
+     "etichetta": "Cantina",
+     "valore": "A Illasi, a 250–280 m, in pietra e legno [[4]] [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dalle pagine vini; il sito non riporta le annate nell’elenco. [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Campo delle Rocce",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Campo Ciotoli",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Campi Lunghi",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Campo Marna Cinquecento",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Campo Vulcano",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Campo Base",
+     "denominazione": "Soave DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Campo delle Pietre",
+     "denominazione": "Pinot Grigio delle Venezie DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Campo Argilla",
+     "denominazione": "Lugana DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Bollicine",
+     "denominazione": "Lessini Durello DOC",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Soave Classico Campo Vulcano: Tre Bicchieri Gambero Rosso (annata 2022 e 2019) [[8]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Soave Classico Campo Vulcano: 94/100 James Suckling (annata 2023)\nSoave Campo Base fino a 92/100 Suckling\nValpolicella Superiore Campo delle Rocce 91/100 (annata 2023) [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Cantina e degustazioni; apertura lunedì–venerdì 9:00–12:30 e 14:00–17:30 [[5]] [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "icampi.it in italiano, inglese e tedesco, con blog [[10]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=18289198569886967946|Mappa}} — valutazione 5 su 5 (20 recensioni) [[11]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[12]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «icampi.it», consultata il 25 ottobre 2026.",
+   "url": "https://www.icampi.it/",
+   "etichetta": "icampi.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/icampi/contatti».",
+   "url": "https://www.icampi.it/it/icampi/contatti",
+   "etichetta": "icampi.it/it/icampi/contatti"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it».",
+   "url": "https://www.icampi.it/it",
+   "etichetta": "icampi.it/it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/icampi/cantina-e-degustazioni».",
+   "url": "https://www.icampi.it/it/icampi/cantina-e-degustazioni",
+   "etichetta": "icampi.it/it/icampi/cantina-e-degustazioni"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/icampi/vini-rossi».",
+   "url": "https://www.icampi.it/it/icampi/vini-rossi",
+   "etichetta": "icampi.it/it/icampi/vini-rossi"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/icampi/vini-bianchi».",
+   "url": "https://www.icampi.it/it/icampi/vini-bianchi",
+   "etichetta": "icampi.it/it/icampi/vini-bianchi"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/icampi/premi-awards».",
+   "url": "https://www.icampi.it/it/icampi/premi-awards",
+   "etichetta": "icampi.it/it/icampi/premi-awards"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/icampi/bollicine-durello-doc».",
+   "url": "https://www.icampi.it/it/icampi/bollicine-durello-doc",
+   "etichetta": "icampi.it/it/icampi/bollicine-durello-doc"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «it/blog».",
+   "url": "https://www.icampi.it/it/blog",
+   "etichetta": "icampi.it/it/blog"
+  },
+  {
+   "n": 11,
+   "testo": "Scheda «I Campi di Flavio Prà» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=18289198569886967946",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 12,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "nome": "Zangani",
+ "slug": "zangani",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Zangani [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01392280119 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Gramsci 46, Loc. Mortedo, 19037 Santo Stefano di Magra, SP [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0187 632406 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "box@zangani.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.zangani.it/|zangani.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colli di Luni Vermentino Superiore DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.zangani.it/",
+   "etichetta": "zangani.it"
+  }
+ ]
+}

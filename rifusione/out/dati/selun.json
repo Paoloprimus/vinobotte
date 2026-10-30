@@ -1,0 +1,154 @@
+{
+ "nome": "Selùn",
+ "slug": "selun",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Selùn di Marconi Luigi [[1]]"
+    },
+    {
+     "etichetta": "Sede legale",
+     "valore": "Via Longobardi 30, 37029 San Pietro in Cariano (VR) [[1]]"
+    },
+    {
+     "etichetta": "Cantina",
+     "valore": "Via Calcarole, località Selùn, Monte di Sant’Ambrogio di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 347 539 7697; selun@selun.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.selun.it/|www.selun.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Luigi Marconi, perito agrario, con la moglie Ivana Speri e i figli Nicola, Stefano e Gabriele; ex responsabile del Consorzio Agrario di Verona a San Pietro in Cariano [[4]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Parte occidentale della Valpolicella Classica, terreni di marne calcaree, area del monte Pastello [[5]] [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[7]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Superiore Ripasso Classico DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina; il sito ricorda un primo premio al 25° Palio del Recioto di Negrar nel 1977 di Luigi Marconi [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «DoveSiamo.html».",
+   "url": "http://www.selun.it/DoveSiamo.html",
+   "etichetta": "selun.it/DoveSiamo.html"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contact.html».",
+   "url": "http://www.selun.it/contact.html",
+   "etichetta": "selun.it/contact.html"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «about.html».",
+   "url": "http://www.selun.it/about.html",
+   "etichetta": "selun.it/about.html"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vinoamarone.html».",
+   "url": "http://www.selun.it/vinoamarone.html",
+   "etichetta": "selun.it/vinoamarone.html"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «vinorecioto.html».",
+   "url": "http://www.selun.it/vinorecioto.html",
+   "etichetta": "selun.it/vinorecioto.html"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «vini.html».",
+   "url": "http://www.selun.it/vini.html",
+   "etichetta": "selun.it/vini.html"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «vinoripasso.html».",
+   "url": "http://www.selun.it/vinoripasso.html",
+   "etichetta": "selun.it/vinoripasso.html"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «vinovalpolicella.html».",
+   "url": "http://www.selun.it/vinovalpolicella.html",
+   "etichetta": "selun.it/vinovalpolicella.html"
+  }
+ ]
+}

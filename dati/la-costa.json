@@ -1,0 +1,118 @@
+{
+ "nome": "La Costa",
+ "slug": "la-costa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Costa [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Marconi, 1479 - 35030 Vo' (Padova) [[1]]"
+    },
+    {
+     "etichetta": "Ruolo nell’elenco del Consorzio",
+     "valore": "Coltivatore, Imbottigliatore, Produttore [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "049 9940195\nWhatsApp 3476728510 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "lacosta@vinilacosta.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.vinilacosta.it|www.vinilacosta.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini D.O.C. Colli Euganei [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Colli Euganei Fior d’Arancio DOCG; Delle Venezie DOC; Prosecco DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/aziendalacosta|aziendalacosta}}\nInstagram {{https://www.instagram.com/lacosta_vini/|@lacosta_vini}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=15425316712648894496|Mappa}} — valutazione 4,8 su 5 (117 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini D.O.C. Colli Euganei, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinieuganei.it/",
+   "etichetta": "consorziovinieuganei.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.vinilacosta.it",
+   "etichetta": "vinilacosta.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.vinilacosta.it",
+   "etichetta": "vinilacosta.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «La Costa» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=15425316712648894496",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

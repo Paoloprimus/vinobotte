@@ -1,0 +1,133 @@
+{
+ "nome": "Tenuta Setten",
+ "slug": "tenuta-setten",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Setten Società Agricola Semplice [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "05097890262 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Piazza Aganoor, 2, 31040 Mansuè (TV) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «DOC Piave», «DOC Venezia» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0422755288 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "setten@setten.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.setten.it|setten.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Cabernet Sauvignon",
+     "denominazione": "DOC Venezia",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Merlot",
+     "denominazione": "DOC Piave",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "DOC Venezia",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/tenutasetten|tenutasetten}}\nInstagram {{https://www.instagram.com/tenutasetten/|@tenutasetten}}\nX {{https://x.com/tenutasetten|@tenutasetten}} [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://setten.it/shop/|setten.it/shop}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1805776705549946007|Mappa}} — valutazione 4,5 su 5 (6 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.setten.it",
+   "etichetta": "setten.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/tenuta-setten/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «setten.it», consultata il 25 ottobre 2026.",
+   "url": "https://www.setten.it",
+   "etichetta": "setten.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.setten.it",
+   "etichetta": "setten.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Tenuta Setten» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1805776705549946007",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

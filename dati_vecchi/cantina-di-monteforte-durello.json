@@ -1,0 +1,156 @@
+{
+ "nome": "Cantina di Monteforte",
+ "slug": "cantina-di-monteforte-durello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina Sociale di Monteforte d'Alpone S.c.a. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via XX Settembre 24, 37032 Monteforte d’Alpone (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 761 0110 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinadimonteforte.it/|www.cantinadimonteforte.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Valpolicella: {{/pagine/cantina-di-monteforte.html|scheda Valpolicella}} [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Soave e Recioto di Soave: {{/pagine/cantina-di-monteforte-soave.html|scheda Soave}} [[4]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini DOC Delle Venezie: {{/pagine/cantina-di-monteforte-delle-venezie.html|scheda Delle Venezie}} [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Natura",
+     "valore": "Cantina sociale fondata nel marzo 1952; 600 aziende viticole associate, Est veronese [[6]]"
+    },
+    {
+     "etichetta": "Marchi",
+     "valore": "Clivus (linea Tradizionali e Vulcanici), Prima Pietra, Sigillo, La Corte [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione Lessini Durello (Monti Lessini) letto nelle pagine della cantina; le annate non sono indicate.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Durello Metodo Classico",
+     "denominazione": "Durello Metodo Classico D.O.C. (Durella; tre anni sui lieviti)",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Dalle Terre dei Cimbri",
+     "denominazione": "Lessini Durello",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Lessini Durello nelle pagine lette"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cantinadimonteforte.it [[9]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito della cantina; elenco del consorzio consultato dal vivo). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini».",
+   "url": "https://www.cantinadimonteforte.it/i-nostri-vini/",
+   "etichetta": "cantinadimonteforte.it/i-nostri-vini"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://www.cantinadimonteforte.it/chi-siamo/",
+   "etichetta": "cantinadimonteforte.it/chi-siamo"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «vino/durello-metodo-classico».",
+   "url": "https://www.cantinadimonteforte.it/vino/durello-metodo-classico/",
+   "etichetta": "cantinadimonteforte.it/vino/durello-metodo-classico"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «caratteristiche/tradizionali».",
+   "url": "https://www.cantinadimonteforte.it/caratteristiche/tradizionali/",
+   "etichetta": "cantinadimonteforte.it/caratteristiche/tradizionali"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.cantinadimonteforte.it/",
+   "etichetta": "cantinadimonteforte.it"
+  }
+ ]
+}

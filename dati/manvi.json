@@ -1,0 +1,120 @@
+{
+ "nome": "Manvi",
+ "slug": "manvi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Manvi [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01410920522 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via di Villa Bianca, n. 13/15 – 53045 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@manvi.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.manvi.it|manvi.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Nobile di Montepulciano [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda a conduzione familiare avviata nell'ottobre 2015. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Rosso di Montepulciano DOC; Vino Nobile di Montepulciano DOCG [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/ManviWines|ManviWines}}\nInstagram {{https://www.instagram.com/manvi_wines/|@manvi_wines}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=6832827641177234611|Mappa}} — valutazione 4,8 su 5 (258 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.manvi.it",
+   "etichetta": "manvi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio del Vino Nobile di Montepulciano, scheda dell’azienda nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://aziendeconsorziovinonobile.it/scheda/manvi/",
+   "etichetta": "aziendeconsorziovinonobile.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.manvi.it",
+   "etichetta": "manvi.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.manvi.it",
+   "etichetta": "manvi.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «The Grapevine by MANVI - Organic Winery, Agriturismo and Yoga» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=6832827641177234611",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

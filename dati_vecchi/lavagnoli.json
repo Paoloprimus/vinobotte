@@ -1,0 +1,118 @@
+{
+ "nome": "Cantina Lavagnoli",
+ "slug": "lavagnoli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Famiglia Lavagnoli s.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Squaranto 29/c, località Pigozzo, 37141 Verona [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 349 2801553 [[2]] · info@cantinalavagnoli.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinalavagnoli.it/|www.cantinalavagnoli.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "70% Guyot semplice e 30% pergola veronese; Corvina, Corvinone, Rondinella, Molinara, Garganega e altre uve autoctone; vendemmia solo manuale [[3]]"
+    },
+    {
+     "etichetta": "Ospitalità",
+     "valore": "Accoglienza ispirata alle “Rame”, abitazioni dove un tempo si poteva chiedere un fiasco di vino [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[3]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso Superiore",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cantinalavagnoli.it, in italiano e inglese; Facebook, Twitter e YouTube indicati nel piè di pagina [[2]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook, Twitter e YouTube indicati dal sito; Google Business Profile, Vivino, Wine-Searcher, Wikipedia: presenza non verificata [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «anno_templates/elementor-200».",
+   "url": "https://cantinalavagnoli.it/anno_templates/elementor-200/",
+   "etichetta": "cantinalavagnoli.it/anno_templates/elementor-200"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://cantinalavagnoli.it/",
+   "etichetta": "cantinalavagnoli.it"
+  }
+ ]
+}

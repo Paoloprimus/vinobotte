@@ -1,0 +1,77 @@
+{
+ "nome": "Tenuta di Ghizzano",
+ "slug": "tenuta-di-ghizzano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01892770502 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via della Chiesa 4, 56037 Ghizzano di Peccioli, PI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0587 630096 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutadighizzano.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutadighizzano.com/|tenutadighizzano.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Terre di Pisa [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Terre di Pisa Rosso DOC, Terre di Pisa Sangiovese DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/TenutadiGhizzano|facebook.com/TenutadiGhizzano}}\nInstagram {{https://www.instagram.com/tenuta_di_ghizzano/|instagram.com/tenuta_di_ghizzano}}\nYouTube {{https://www.youtube.com/channel/UCVaPpmyRfX2f4FHkTg_8WJQ|youtube.com/channel/UCVaPpmyRfX2f4FHkTg_8WJQ}}\nLinkedIn {{https://it.linkedin.com/company/tenuta-di-ghizzano|it.linkedin.com/company/tenuta-di-ghizzano}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.tenutadighizzano.com/",
+   "etichetta": "tenutadighizzano.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vini Terre di Pisa, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.viniterredipisa.com/azienda-it.php?id=8",
+   "etichetta": "viniterredipisa.com"
+  }
+ ]
+}

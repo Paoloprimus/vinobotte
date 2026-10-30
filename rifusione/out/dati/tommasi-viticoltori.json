@@ -1,0 +1,123 @@
+{
+ "nome": "Tommasi Viticoltori",
+ "slug": "tommasi-viticoltori",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tommasi Viticoltori [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Ronchetto 4, Pedemonte, 37029 San Pietro in Cariano (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 7701266; wine@tommasi.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://tommasiwine.it/|tommasiwine.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[2]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via Ronchetto, 4 - 37029 Pedemonte (VR); tel. 045 7701266; wine@tommasi.com; tommasi.com [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Bardolino D.O.C. [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei soci del Consorzio Tutela Vino Custoza DOC [[4]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Custoza",
+     "valore": "Pedemonte (VR); tel. 045 770 1266; tommasiwine.it [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina con degustazioni, hospitality e shop [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio Le Rosse",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[2]]"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino DOC; Chiaretto di Bardolino DOC [[1]]"
+    }
+   ],
+   "nota": "Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[1]]"
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/tommasi-viticoltori/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  }
+ ]
+}

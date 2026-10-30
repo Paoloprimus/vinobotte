@@ -1,0 +1,117 @@
+{
+ "nome": "Vettori",
+ "slug": "vettori",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "VETTORI Az. Agr. di Vettori Arturo [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Borgo America, 26, Borgo America, San Pietro di Feletto, TV [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39043834812 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinivettori.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.vinivettori.it/|www.vinivettori.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "L’azienda rinasce nel 1990 con la ristrutturazione completa dei vigneti. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie non indicate [[1]]"
+    },
+    {
+     "etichetta": "Altri vini indicati",
+     "valore": "Chardonnay [[1]]"
+    },
+    {
+     "etichetta": "Altri vini indicati",
+     "valore": "Manzoni bianco [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Produzione",
+     "valore": "Fino a 150.000 bottiglie [[1]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=18233470162714001722|Mappa}} — valutazione 4,9 su 5 (10 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/vettori/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.vinivettori.it/",
+   "etichetta": "vinivettori.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Az. Agr. Vettori di Arturo Vettori» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=18233470162714001722",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

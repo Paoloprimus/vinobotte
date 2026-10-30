@@ -1,0 +1,72 @@
+{
+ "nome": "Petra",
+ "slug": "petra",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Petra azienda agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01261500498 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località San Lorenzo Alto 131, 57028 Suvereto, LI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0565 845308 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@petrawine.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.petrawine.it/|petrawine.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela DOP Suvereto e Val di Cornia Wine [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/petrawine/|facebook.com/petrawine}}\nInstagram {{https://www.instagram.com/petrawine/|instagram.com/petrawine}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.petrawine.it/",
+   "etichetta": "petrawine.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle cantine del Consorzio di tutela DOP Suvereto e Val di Cornia Wine, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.suveretowine.com/cantina-suvereto/cantina-petra/",
+   "etichetta": "suveretowine.com"
+  }
+ ]
+}

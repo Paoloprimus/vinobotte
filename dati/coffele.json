@@ -1,0 +1,217 @@
+{
+ "nome": "Coffele",
+ "slug": "coffele",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Coffele Alberto [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02736720232 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Cantina Coffele, Via Roma 5, 37038 Soave (VR); Tenuta Coffele, Via Libertà 53, Castelcerino di Soave [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7680007 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@coffele.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.coffele.it/|www.coffele.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Giovanna Visco e Giuseppe Coffele; figli Alberto (enotecnico, produzione dal 1994) e Chiara (commerciale) [[4]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Circa 25 ettari a Castelcerino, in corpo unico, a conduzione biologica; Garganega, Trebbiano di Soave, Chardonnay, Merlot, Cabernet Franc, Cabernet Sauvignon [[5]]"
+    },
+    {
+     "etichetta": "Agricoltura",
+     "valore": "Biologica; il sito afferma di essere il primo produttore del Soave Classico a poter indicare “biologico” in etichetta [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Prodotti principali dalla pagina Prodotti (10 rossi, 3 bianchi, 3 spumanti e dolci, olio); il sito non riporta le annate. [[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Solo i vini a denominazione Soave e Recioto di Soave; la cantina produce anche altri vini (Valpolicella, IGT). Il sito non riporta le annate. [[7]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Castel Cerino",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Ca’ Visco",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Alzari",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Le Sponde",
+     "denominazione": "Recioto di Soave Classico DOCG",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Tre Bicchieri per il Soave Classico Ca’ Visco 2003, ripetuti nei due anni successivi [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Presso il wine shop nel centro di Soave, in edificio del XVII secolo; prodotti anche su ordinazione a info@coffele.it [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "coffele.it, in italiano e inglese, con blog e newsletter [[11]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=4313579547444118427|Mappa}} — valutazione 4,6 su 5 (184 recensioni) [[12]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[13]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.coffele.it/contatti/",
+   "etichetta": "coffele.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «chi_siamo».",
+   "url": "https://www.coffele.it/chi_siamo/",
+   "etichetta": "coffele.it/chi_siamo"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «la-nostra-terra».",
+   "url": "https://www.coffele.it/la-nostra-terra/",
+   "etichetta": "coffele.it/la-nostra-terra"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti».",
+   "url": "https://www.coffele.it/prodotti/",
+   "etichetta": "coffele.it/prodotti"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «product-item/01_castel-cerino».",
+   "url": "https://www.coffele.it/product-item/01_castel-cerino/",
+   "etichetta": "coffele.it/product-item/01_castel-cerino"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «product-item/03_alzari».",
+   "url": "https://www.coffele.it/product-item/03_alzari/",
+   "etichetta": "coffele.it/product-item/03_alzari"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «product-item/10_lesponde».",
+   "url": "https://www.coffele.it/product-item/10_lesponde/",
+   "etichetta": "coffele.it/product-item/10_lesponde"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «degustazioni».",
+   "url": "https://www.coffele.it/degustazioni/",
+   "etichetta": "coffele.it/degustazioni"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.coffele.it/",
+   "etichetta": "coffele.it"
+  },
+  {
+   "n": 12,
+   "testo": "Scheda «Cantina Coffele» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=4313579547444118427",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 13,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «product-item/02_ca-visco».",
+   "url": "https://www.coffele.it/product-item/02_ca-visco/",
+   "etichetta": "coffele.it/product-item/02_ca-visco"
+  }
+ ]
+}

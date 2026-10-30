@@ -1,0 +1,291 @@
+{
+ "nome": "Cantine Aldegheri",
+ "slug": "cantine-aldegheri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Aldegheri S.R.L. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04655180232, indicata nelle note legali del sito (intestate ad A56 S.r.l., stessa sede) [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Alessandro Volta 9, 37015 Sant’Ambrogio di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 6861356 · +39 045 6884091 · mobile +39 333 2438680 · info@cantinealdegheri.it · negozio: aldegheri@cantinealdegheri.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinealdegheri.com/|www.cantinealdegheri.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella come «Aldegheri srl» [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vino Bardolino D.O.C.: {{/pagine/cantine-aldegheri-bardolino.html|scheda Bardolino}} [[4]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vino Custoza DOC: {{/pagine/cantine-aldegheri-custoza.html|scheda Custoza}} [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Famiglia Aldegheri: Lorenzo segue vigneto e vinificazione, Adriano l’amministrazione e gli impianti, il cugino Vincenzo [[6]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "La famiglia opera dal 1956 nel cuore della Valpolicella [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "Circa 75 ettari, in parte a conduzione diretta e in parte curati da viticoltori storici; molti sulle colline esposte a sud-est della Valpolicella [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Amarone della Valpolicella Classico DOCG, Recioto della Valpolicella DOCG, Valpolicella DOC, Valpolicella Classico Superiore DOC, Valpolicella Classico Ripasso DOC, Custoza DOC, Lugana DOC, Soave Classico DOC, Bardolino DOC, Chiaretto di Bardolino DOC, Pinot grigio delle Venezie DOC, Prosecco DOC, Trento DOC e vari IGT Veronese/Veneto [[8]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Grappe (Pietra Nera, di Recioto, di Amarone Barricata), olio extravergine di oliva Tenuta Villa Cariola, confezioni e cesti regalo [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette come indicate nel catalogo del sito, che non riporta le annate in vendita. [[8]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Classico Santambrogio",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Amarone Classico Riserva",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Amarone Cantinetta di Bacco",
+     "denominazione": "Amarone della Valpolicella DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Santambrogio",
+     "denominazione": "Valpolicella DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "I Lastari",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Santambrogio Ripasso",
+     "denominazione": "Valpolicella Classico Ripasso DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Recioto della Valpolicella",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Zaleo",
+     "denominazione": "Custoza DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Le Rune",
+     "denominazione": "Custoza DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Mondello",
+     "denominazione": "Soave Classico DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Le Querce",
+     "denominazione": "Lugana DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Cà Perlar",
+     "denominazione": "Lugana DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Tenuta Cariola",
+     "denominazione": "Bardolino DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Tenuta Cariola",
+     "denominazione": "Chiaretto di Bardolino DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Pinot grigio",
+     "denominazione": "Pinot grigio delle Venezie DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Prosecco",
+     "denominazione": "Prosecco Extra Dry DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Trento Extra Brut Rosé",
+     "denominazione": "Trento DOC Metodo Classico",
+     "annata": "—"
+    },
+    {
+     "nome": "Alde 3.0",
+     "denominazione": "Trento DOC Extra Brut",
+     "annata": "—"
+    },
+    {
+     "nome": "Moscato spumante dolce",
+     "denominazione": "Colli Euganei DOC",
+     "annata": "—"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti dichiarati dalla cantina",
+   "righe": [
+    {
+     "etichetta": "Bibenda 2025",
+     "valore": "Cinque grappoli all’Amarone della Valpolicella Classico Riserva 2013 [[9]]"
+    }
+   ],
+   "nota": "Riconoscimenti dichiarati dalla cantina sul proprio sito, non verificati da VinoBot sulle guide. [[9]]"
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì 9–12 e 14–18; sabato 9.30–12.30 [[1]]"
+    },
+    {
+     "etichetta": "Prenotazione",
+     "valore": "Visite guidate e degustazioni da concordare in anticipo, con il modulo del sito o per telefono [[1]]"
+    },
+    {
+     "etichetta": "Wine shop",
+     "valore": "Negozio online sul sito, con confezioni e cesti regalo [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cantinealdegheri.com, in italiano e inglese, con catalogo, news, galleria e negozio [[10]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Negozio con carrello sul sito [[8]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.cantinealdegheri.com/contatti/",
+   "etichetta": "cantinealdegheri.com/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «note-legali».",
+   "url": "https://www.cantinealdegheri.com/note-legali/",
+   "etichetta": "cantinealdegheri.com/note-legali"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «storia».",
+   "url": "https://www.cantinealdegheri.com/storia/",
+   "etichetta": "cantinealdegheri.com/storia"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «territorio-e-uve».",
+   "url": "https://www.cantinealdegheri.com/territorio-e-uve/",
+   "etichetta": "cantinealdegheri.com/territorio-e-uve"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti».",
+   "url": "https://www.cantinealdegheri.com/prodotti/",
+   "etichetta": "cantinealdegheri.com/prodotti"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «news».",
+   "url": "https://www.cantinealdegheri.com/news/",
+   "etichetta": "cantinealdegheri.com/news"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.cantinealdegheri.com/",
+   "etichetta": "cantinealdegheri.com"
+  }
+ ]
+}

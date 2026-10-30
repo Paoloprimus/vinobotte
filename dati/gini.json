@@ -1,0 +1,246 @@
+{
+ "nome": "Gini",
+ "slug": "gini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Gini Sandro e Claudio [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02038280232 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Matteotti 42, 37032 Monteforte d’Alpone (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7611908 [[2]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ginivini.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ginivini.com/|www.ginivini.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Viticoltori dal 1570: quindici generazioni a Monteforte [[4]]"
+    },
+    {
+     "etichetta": "Territori",
+     "valore": "Soave Classico (Monteforte), Valpolicella est (Tenuta Scajari, Campiano), vigneti d’alta quota per Pinot Nero, Chardonnay e Sauvignon [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Solo i vini a denominazione Soave e Recioto di Soave; la cantina produce anche altri vini. [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Scajari Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Monte Serea",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Le Mattoline",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Soave Classico",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Contrada Salvarenza",
+     "denominazione": "Soave Classico DOC (vecchie vigne)",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "La Froscà",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Col Foscarin",
+     "denominazione": "Recioto di Soave Classico DOCG",
+     "annata": "— [[12]]"
+    },
+    {
+     "nome": "Renobilis",
+     "denominazione": "Recioto di Soave Classico DOCG",
+     "annata": "— [[13]]"
+    },
+    {
+     "nome": "Olinto",
+     "denominazione": "Recioto di Soave DOCG, metodo ancestrale",
+     "annata": "2006 [[14]]"
+    },
+    {
+     "nome": "Contrada Salvarenza “Vecchie vigne”",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Olinto (metodo classico ancestrale, edizione limitata)",
+     "denominazione": "Recioto di Soave DOCG",
+     "annata": "2006 [[14]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Esperienze",
+     "valore": "Tour guidato tra le vigne con degustazione; lunedì–venerdì 9–12 e 15–18, sabato 9–12; percorsi Dreaming Soave, Gini Experience, Icon Experience, Viaggio nel tempo [[15]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "ginivini.com\nFacebook @GiniViticoltori e Instagram @Giniviticoltori [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook\nInstagram [[2]]\nGoogle Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[16]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.ginivini.com/contatti",
+   "etichetta": "ginivini.com/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «radici».",
+   "url": "https://www.ginivini.com/radici",
+   "etichetta": "ginivini.com/radici"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «creazioni».",
+   "url": "https://www.ginivini.com/creazioni",
+   "etichetta": "ginivini.com/creazioni"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «creazioni/soave-classico».",
+   "url": "https://www.ginivini.com/creazioni/soave-classico",
+   "etichetta": "ginivini.com/creazioni/soave-classico"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «creazioni/scajari».",
+   "url": "https://www.ginivini.com/creazioni/scajari",
+   "etichetta": "ginivini.com/creazioni/scajari"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «creazioni/monte-serea».",
+   "url": "https://www.ginivini.com/creazioni/monte-serea",
+   "etichetta": "ginivini.com/creazioni/monte-serea"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «creazioni/le-mattoline».",
+   "url": "https://www.ginivini.com/creazioni/le-mattoline",
+   "etichetta": "ginivini.com/creazioni/le-mattoline"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «creazioni/contrada-salvarenza».",
+   "url": "https://www.ginivini.com/creazioni/contrada-salvarenza",
+   "etichetta": "ginivini.com/creazioni/contrada-salvarenza"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «creazioni/la-frosc%C3%A0».",
+   "url": "https://www.ginivini.com/creazioni/la-frosc%C3%A0",
+   "etichetta": "ginivini.com/creazioni/la-frosc%C3%A0"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «creazioni/col-foscarin».",
+   "url": "https://www.ginivini.com/creazioni/col-foscarin",
+   "etichetta": "ginivini.com/creazioni/col-foscarin"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «creazioni/renobilis».",
+   "url": "https://www.ginivini.com/creazioni/renobilis",
+   "etichetta": "ginivini.com/creazioni/renobilis"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «creazioni/olinto».",
+   "url": "https://www.ginivini.com/creazioni/olinto",
+   "etichetta": "ginivini.com/creazioni/olinto"
+  },
+  {
+   "n": 15,
+   "testo": "Sito ufficiale della cantina, pagina «esperienze».",
+   "url": "https://www.ginivini.com/esperienze",
+   "etichetta": "ginivini.com/esperienze"
+  },
+  {
+   "n": 16,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "nome": "Cavedini",
+ "slug": "cavedini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cavedini s.s. Agr. [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Sottoriva 15, Marcellise, 37036 San Martino Buon Albergo (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 345 530 5349 · info@cavedini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortecavedini.it/|www.cortecavedini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "Tre vigneti certificati bio, 9 ettari, in Valle di Marcellise [[3]]"
+    },
+    {
+     "etichetta": "Vitigni",
+     "valore": "Corvina, Corvinone, Rondinella, Oseleta, Croatina [[3]]"
+    },
+    {
+     "etichetta": "Conduzione",
+     "valore": "Interventi in vigna eseguiti a mano da Marco, senza manodopera esterna; uve solo da vigneti di proprietà [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari cantina",
+     "valore": "9–12 e 15–18 [[1]]"
+    },
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Tris (1h30), Poker (2h, visita guidata e 4 vini con taglieri), Scala Reale; prezzi indicati come da definire sul sito [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortecavedini.it, in italiano e inglese, con shop [[6]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://cavedini.it/it/contatti",
+   "etichetta": "cavedini.it/it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/chi-siamo».",
+   "url": "https://cavedini.it/it/chi-siamo",
+   "etichetta": "cavedini.it/it/chi-siamo"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini».",
+   "url": "https://cavedini.it/it/vini",
+   "etichetta": "cavedini.it/it/vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/degustazioni».",
+   "url": "https://cavedini.it/it/degustazioni",
+   "etichetta": "cavedini.it/it/degustazioni"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/shop».",
+   "url": "https://cavedini.it/it/shop",
+   "etichetta": "cavedini.it/it/shop"
+  }
+ ]
+}

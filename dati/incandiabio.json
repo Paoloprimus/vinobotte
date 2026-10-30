@@ -1,0 +1,87 @@
+{
+ "nome": "IncandiaBio",
+ "slug": "incandiabio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cavour 20, 54033 Carrara (MS) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "contact@incandiabio.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://incandiabio.com/|incandiabio.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Candia dei Colli Apuani [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Vermentino [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Primo premio Bancarel Vino (Mulazzo) e primo premio Enolia (Seravezza)\nSecondo premio Bancarel Vino ed Enolia per altri vini [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/incandia.bio/|@incandia.bio}}\nYouTube {{https://www.youtube.com/@incandiabio5923|@incandiabio5923}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://incandiabio.com/",
+   "etichetta": "incandiabio.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://incandiabio.com/",
+   "etichetta": "incandiabio.com"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco delle aziende associate al Consorzio di Tutela del Candia dei Colli Apuani, consultato il 30 ottobre 2026.",
+   "url": "https://candiadeicolliapuani.it/the-winery/",
+   "etichetta": "candiadeicolliapuani.it"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

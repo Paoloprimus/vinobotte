@@ -1,0 +1,162 @@
+{
+ "nome": "I Magredi",
+ "slug": "i-magredi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "I Magredi srl [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via del Sole 15, fraz. Domanins, 33095 San Giorgio della Richinvelda (PN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0427 94720 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@imagredi.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.imagredi.com|imagredi.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini DOC Friuli Grave [[2]]\nConsorzio di Tutela della DOC Prosecco [[3]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via del Sole, 15 - 33090 S. Giorgio della Richinvelda (PN); tel. 0427 94720; emilia@imagredi.com; imagredi.com [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini nella scheda del Consorzio, senza denominazione: la scheda indica soltanto il nome del vino, per tipo (bianco, rosso) in base alle icone. L’elenco è lo stesso formato per tutti i soci; la denominazione di ciascun vino va verificata sul sito della cantina [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Cabernet franc",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Cabernet sauvignon",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Chardonnay",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Friulano",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Merlot",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot grigio",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Refosco dal peduncolo rosso",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Sauvignon",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Traminer aromatico",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    }
+   ],
+   "righe": []
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=7278115012456587443|Mappa}} — valutazione 4,5 su 5 (243 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate tra il 24 e il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/i-magredi/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini DOC Friuli Grave, elenco delle cantine e schede delle singole cantine, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuligrave.com/cantine.html",
+   "etichetta": "docfriuligrave.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «I Magredi Srl» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=7278115012456587443",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/",
+   "etichetta": "docfriuli.eu"
+  }
+ ]
+}

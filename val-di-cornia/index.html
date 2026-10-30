@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Petricci e Del Pianta","s":"petricci-e-del-pianta","c":"Suvereto","d":["Suvereto"]},{"n":"Rabitti","s":"rabitti","c":"Suvereto","d":["Val di Cornia"]}];
+    const D=[{"n":"Colle Vento","s":"colle-vento","c":"Suvereto","d":["Val di Cornia"]},{"n":"Gualdo del Re","s":"gualdo-del-re","c":"Suvereto","d":["Val di Cornia"]},{"n":"Il Bruscello","s":"il-bruscello","c":"Suvereto","d":["Val di Cornia"]},{"n":"Il Falcone","s":"il-falcone","c":"Suvereto","d":["Val di Cornia"]},{"n":"La Batistina","s":"la-batistina","c":"Suvereto","d":["Val di Cornia"]},{"n":"La Fralluca","s":"la-fralluca","c":"Suvereto","d":["Val di Cornia"]},{"n":"Petra","s":"petra","c":"Suvereto","d":["Val di Cornia"]},{"n":"Petricci e Del Pianta","s":"petricci-e-del-pianta","c":"Suvereto","d":["Suvereto"]},{"n":"Rabitti","s":"rabitti","c":"Suvereto","d":["Val di Cornia"]},{"n":"Tenuta Casadei","s":"tenuta-casadei","c":"Suvereto","d":["Val di Cornia"]},{"n":"Terradonnà","s":"terradonna","c":"Campiglia Marittima","d":["Suvereto"]},{"n":"Terravita","s":"terravita","c":"Suvereto","d":["Val di Cornia"]},{"n":"Tua Rita","s":"tua-rita","c":"Suvereto","d":["Val di Cornia"]},{"n":"Valdamone","s":"valdamone","c":"Suvereto","d":["Val di Cornia"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');

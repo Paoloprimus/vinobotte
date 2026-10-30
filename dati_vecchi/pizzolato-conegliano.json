@@ -1,0 +1,121 @@
+{
+ "nome": "Pizzolato",
+ "slug": "pizzolato-conegliano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Cantina Pizzolato Srl (come da mappa del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Iv Novembre, 12, 31020, Villorba (Tv) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 0422 928166; info@lacantinapizzolato.com [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[2]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio di Tutela della DOC Prosecco: {{/pagine/pizzolato-prosecco.html|scheda Prosecco DOC}} [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Vini Venezia: {{/pagine/pizzolato-venezia.html|scheda Vini Venezia}} [[3]]"
+    },
+    {
+     "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
+     "valore": "Via IV Novembre, 12, 31020 Villorba (TV); tel. 0422928166; welcome@lacantinapizzolato.com; https://www.lacantinapizzolato.com/ [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: brut, extra dry [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "E-commerce; Vendita al dettaglio [[2]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fino a 150.000 bottiglie [[2]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "Biologico [[2]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese, Spagnolo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Mappa dei produttori del Consorzio consultata il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026 (dati copiati dal sito del Consorzio).",
+   "url": "https://www.prosecco.it/it/scheda-cantina/la-cantina-pizzolato/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  }
+ ]
+}

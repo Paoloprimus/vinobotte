@@ -1,0 +1,99 @@
+{
+ "nome": "Fattoria Montellori",
+ "slug": "fattoria-montellori",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "07117850482 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Pistoiese, 1 50054 Fucecchio (FI) [[1]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0571 260641 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fattoriamontellori.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://fattoriamontellori.it/|fattoriamontellori.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Chianti; Vin Santo; Sangiovese [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=15487348633250355645|Mappa}} — valutazione 4,3 su 5 (29 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://fattoriamontellori.it/",
+   "etichetta": "fattoriamontellori.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 27 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/fattoria-montellori/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Fattoria Montellori Di Nieri Alessandro» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=15487348633250355645",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

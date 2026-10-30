@@ -1,0 +1,120 @@
+{
+ "nome": "Le Fonti – Panzano",
+ "slug": "le-fonti-panzano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Fattoria Le Fonti [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02322220480 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Le Fonti Panzano (da usare cosi su google maps perche con via case sparse non arrivano mai da noi), Greve in Chianti 50022 FI [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 055852194 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fattorialefonti.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.fattorialefonti.it|fattorialefonti.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti Classico [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Dal 1994 tutti i vigneti sono stati reimpiantati. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Chianti Classico DOCG [[4]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Chianti Classico DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/LeFontiPanzano|LeFontiPanzano}}\nInstagram {{https://www.instagram.com/lefontipanzano/|@lefontipanzano}}\nX {{https://x.com/LeFontiPanzano|@LeFontiPanzano}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=4510372635272882419|Mappa}} — valutazione 4,8 su 5 (200 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.fattorialefonti.it",
+   "etichetta": "fattorialefonti.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Vino Chianti Classico, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.chianticlassico.com/aziende/le-fonti-panzano/",
+   "etichetta": "chianticlassico.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.fattorialefonti.it",
+   "etichetta": "fattorialefonti.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.fattorialefonti.it",
+   "etichetta": "fattorialefonti.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Fattoria Le Fonti» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=4510372635272882419",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

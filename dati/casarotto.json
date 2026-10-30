@@ -1,0 +1,157 @@
+{
+ "nome": "Casarotto",
+ "slug": "casarotto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Casarotto di Casarotto C. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Pasquaro 12, 37030 Montecchia di Crosara (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390457450165 [[2]]\n045 74 50 165 [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinicasarotto.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.vinicasarotto.com|vinicasarotto.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio Tutela Vino Lessini Durello DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Vinificazione delle proprie uve dal 1945, quando fu fondata la cantina dal bisnonno dell’attuale generazione; gestita da Celeste Casarotto e famiglia, terza generazione; ragione sociale Società Agricola Casarotto Celeste e Baldo Rosalia [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate. Solo i vini a denominazione Soave e Recioto di Soave; la cantina produce anche Lessini Durello, vini IGT e spumanti. Il sito non riporta le annate. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Le Origini",
+     "denominazione": "Lessini Durello Spumante D.O.C.",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "(senza nome di fantasia)",
+     "denominazione": "Lessini Durello Spumante D.O.C.",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "(senza nome di fantasia)",
+     "denominazione": "Durello Spumante Riserva 36 mesi (denominazione non indicata)",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "(senza nome di fantasia)",
+     "denominazione": "Monti Lessini Spumante Riserva 60",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Monte Kleta",
+     "denominazione": "Soave DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Fittà",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Divino",
+     "denominazione": "Recioto di Soave Classico DOCG",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Lessini Durello nelle pagine lette"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/casarottovini|casarottovini}}\nInstagram {{https://www.instagram.com/vinicasarotto/|@vinicasarotto}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=9632498451312202817|Mappa}} — valutazione 4,6 su 5 (17 recensioni) [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/casarotto-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.vinicasarotto.com",
+   "etichetta": "vinicasarotto.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vinicasarotto.com», consultata il 24 ottobre 2026.",
+   "url": "http://www.vinicasarotto.com",
+   "etichetta": "vinicasarotto.com"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vinicasarotto.com/it/vini», consultata il 24 ottobre 2026.",
+   "url": "https://www.vinicasarotto.com/it/vini",
+   "etichetta": "vinicasarotto.com"
+  },
+  {
+   "n": 6,
+   "testo": "Scheda «VINI CASAROTTO» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=9632498451312202817",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 7,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "nome": "Cantina Progettidivini",
+ "slug": "cantina-progettidivini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina Progettidivini S.r.l.; P.IVA 04914420262 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via I Settembre 20, 31010, Località Soligo, Farra di Soligo (TV) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0438 983151; info@progettidivini.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.progettidivini.it/|www.progettidivini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Descrizione",
+     "valore": "Oltre ai propri vini offre servizi di spumantizzazione, etichette private label e conto terzi [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]"
+    },
+    {
+     "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
+     "valore": "La scheda del Consorzio non riporta dati di contatto [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Dal 2008 la sede è nella Villa Brandolini d’Adda a Soligo (Farra di Soligo); il sito non indica l’anno di fondazione né i proprietari [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Progetto TRE (Spumante Extra Dry)",
+     "denominazione": "Valdobbiadene Prosecco DOCG",
+     "annata": "2023 [[1]]"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Elenco vini Prosecco DOC",
+     "valore": "Il sito cita solo il Progetto TRE (Valdobbiadene Prosecco DOCG); non indica vini Prosecco DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Progetto TRE: Vini Buoni d’Italia 2025 (news del 12 ottobre 2024); Progetto 0: The Winehunter Award 2023 (news del 21 agosto 2023); dichiarati dalla cantina [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda del Consorzio e sito ufficiale della cantina, consultati il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «progettidivini.it».",
+   "url": "https://www.progettidivini.it/",
+   "etichetta": "progettidivini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026 (dati copiati dal sito del Consorzio).",
+   "url": "https://www.prosecco.it/it/scheda-cantina/cantina-progettidivini/",
+   "etichetta": "prosecco.it"
+  }
+ ]
+}

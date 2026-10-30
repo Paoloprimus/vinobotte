@@ -1,0 +1,192 @@
+{
+ "nome": "Corte Gonella",
+ "slug": "corte-gonella",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Corte Gonella di Costato Giorgio, Giuseppe e Paolo s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03608500231 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Crosetta 10, San Peretto, 37024 Negrar di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7500135 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortegonella.it/|www.cortegonella.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Giuseppe Gonella avvia la vinificazione negli anni ’30; negli anni ’50 passa al figlio Giovanni, poi ai nipoti Giorgio e Giuseppe [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "6 ettari a circa 250 m, suoli vulcanico-basaltici e in parte calcarei, esposizione sud-est, solo pergola, età media 20 anni [[4]]"
+    },
+    {
+     "etichetta": "Vitigni",
+     "valore": "Corvina, Corvinone, Rondinella, Molinara e altre autoctone [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "El Mezadro",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Guai al Mondo",
+     "denominazione": "Valpolicella Classico Superiore Ripasso DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Le Mantesine",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Montemagro",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortegonella.it, sito statico [[10]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cortegonella|cortegonella}} [[11]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=9747349830040901242|Mappa}} — valutazione 5 su 5 (10 recensioni) [[12]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[13]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti.html».",
+   "url": "http://www.cortegonella.it/contatti.html",
+   "etichetta": "cortegonella.it/contatti.html"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «storia.html».",
+   "url": "http://www.cortegonella.it/storia.html",
+   "etichetta": "cortegonella.it/storia.html"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «cantina.html».",
+   "url": "http://www.cortegonella.it/cantina.html",
+   "etichetta": "cortegonella.it/cantina.html"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «nostri_vini.html».",
+   "url": "http://www.cortegonella.it/nostri_vini.html",
+   "etichetta": "cortegonella.it/nostri_vini.html"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «classico_superiore.html».",
+   "url": "http://www.cortegonella.it/classico_superiore.html",
+   "etichetta": "cortegonella.it/classico_superiore.html"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «classico_superiore_ripasso.html».",
+   "url": "http://www.cortegonella.it/classico_superiore_ripasso.html",
+   "etichetta": "cortegonella.it/classico_superiore_ripasso.html"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «amarone_le_mantesine.html».",
+   "url": "http://www.cortegonella.it/amarone_le_mantesine.html",
+   "etichetta": "cortegonella.it/amarone_le_mantesine.html"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «recioto_montemagro.html».",
+   "url": "http://www.cortegonella.it/recioto_montemagro.html",
+   "etichetta": "cortegonella.it/recioto_montemagro.html"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «index.html».",
+   "url": "http://www.cortegonella.it/index.html",
+   "etichetta": "cortegonella.it/index.html"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.cortegonella.it/",
+   "etichetta": "cortegonella.it"
+  },
+  {
+   "n": 12,
+   "testo": "Scheda «Az.Agr. Corte Gonella Di Costato Giorgio e Paolo Societa' Agricola S.S.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=9747349830040901242",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 13,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

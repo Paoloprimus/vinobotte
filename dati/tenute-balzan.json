@@ -1,0 +1,86 @@
+{
+ "nome": "Tenute Balzan",
+ "slug": "tenute-balzan",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenute Balzan [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via 30 Aprile 1945, 111, 31041 Cornuda (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "340 5798570 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutebalzan.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.tenutebalzan.it|www.tenutebalzan.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Asolo Montello [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Asolo Prosecco Superiore DOCG [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nVivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.tenutebalzan.it",
+   "etichetta": "tenutebalzan.it"
+  }
+ ]
+}

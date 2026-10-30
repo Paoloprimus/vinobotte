@@ -1,0 +1,166 @@
+{
+ "nome": "Corte Lonardi",
+ "slug": "corte-lonardi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Corte Lonardi di Lonardi Silvia (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "IT03683570232 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via delle Poste 2/A, 37020 Marano di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7755154 · privilegia@lonardivini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lonardivini.it/|www.lonardivini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Titolare Silvia Lonardi, figlia di Giuseppe che ha fondato la cantina e iniziato a produrre vino nei primi anni ’80; famiglia di ristoratori [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Percorsi in cantina con degustazione e salumi e formaggi; visita con analisi sensoriale su prenotazione [[3]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine di oliva [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "lonardivini.it [[8]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.lonardivini.it/contatti/",
+   "etichetta": "lonardivini.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://www.lonardivini.it/chi-siamo/",
+   "etichetta": "lonardivini.it/chi-siamo"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://www.lonardivini.it/vini/",
+   "etichetta": "lonardivini.it/vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini/amarone-riserva».",
+   "url": "https://www.lonardivini.it/vini/amarone-riserva/",
+   "etichetta": "lonardivini.it/vini/amarone-riserva"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «vini/recioto-della-valpolicella-docg-classico».",
+   "url": "https://www.lonardivini.it/vini/recioto-della-valpolicella-docg-classico/",
+   "etichetta": "lonardivini.it/vini/recioto-della-valpolicella-docg-classico"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «vini/olio-extra-vergine-di-oliva».",
+   "url": "https://www.lonardivini.it/vini/olio-extra-vergine-di-oliva/",
+   "etichetta": "lonardivini.it/vini/olio-extra-vergine-di-oliva"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.lonardivini.it/",
+   "etichetta": "lonardivini.it"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "nome": "Cantina F.lli Zaghis",
+ "slug": "cantina-f-lli-zaghis",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00716240262 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Postumia di Sala, 25, 31040 Gorgo al Monticano (TV) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Prosecco DOC» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0422740156 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinizaghis.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinizaghis.com|vinizaghis.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "La Società Agricola Fratelli Zaghis nasce nel 1965 a Gorgo al Monticano (Treviso). [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione. Altri vini del sito, senza denominazione chiara, non inclusi: Refosco dal Peduncolo Rosso [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Prosecco DOC Frizzante",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16639405968150018492|Mappa}} — valutazione 5 su 5 (23 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.vinizaghis.com",
+   "etichetta": "vinizaghis.com"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/cantina-f-lli-zaghis/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «vinizaghis.com», consultata il 25 ottobre 2026.",
+   "url": "https://www.vinizaghis.com",
+   "etichetta": "vinizaghis.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.vinizaghis.com",
+   "etichetta": "vinizaghis.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Vini Zaghis | Prosecco e vino sfuso - Cantina» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16639405968150018492",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

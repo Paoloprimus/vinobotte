@@ -1,0 +1,106 @@
+{
+ "nome": "Vigna del Gal",
+ "slug": "vigna-del-gal",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Vigna del Gal Societa' Semplice Agricola di Balliana Italo [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04508010263 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Canal Nuovo, 96, 31010 Farra di Soligo (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0438 989402 [[3]] [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vignadelgal.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://vignadelgal.it/|vignadelgal.it}} — raggiungibile al controllo del 29 ottobre 2026 [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Piccola realtà tra le colline UNESCO del Prosecco: nel 1986, dopo la morte del padre Guido Balliana, Italo ricevette in eredità piccoli appezzamenti a vigneto; all'inizio conferiva l'uva alla cantina sociale del paese. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Conegliano Valdobbiadene",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto dal sito della cantina [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=539230078886731271|Mappa}} — valutazione 4,9 su 5 (70 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/vigna-del-gal/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 29 ottobre 2026.",
+   "url": "https://vignadelgal.it/",
+   "etichetta": "vignadelgal.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://vignadelgal.it/",
+   "etichetta": "vignadelgal.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Vigna del Gal» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=539230078886731271",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

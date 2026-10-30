@@ -1,0 +1,191 @@
+{
+ "nome": "La Giaretta",
+ "slug": "la-giaretta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. La Giaretta di Vaona Francesco (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03071030237 [[12]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via del Platano 12, 37020 Marano di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "info@cantinalagiaretta.com [[2]] · Tel. +39 045 7701791 [[12]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinalagiaretta.com/|www.cantinalagiaretta.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Origine alla fine degli anni ’50 con Bruno Vaona; oggi la famiglia cura i vigneti di proprietà [[2]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio e Grappa di Amarone [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[2]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "I Quadretti",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "I Quadretti",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Not Nero",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Volpare",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cantinalagiaretta.com in italiano, inglese e tedesco, con shop e video [[11]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Shop sul sito; altri marketplace: presenza non verificata [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Pagina Facebook (pixel) indicata dal sito; Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «ita/index.php».",
+   "url": "https://www.cantinalagiaretta.com/ita/index.php",
+   "etichetta": "cantinalagiaretta.com/ita/index.php"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «ita/olio-la-giaretta.php».",
+   "url": "https://www.cantinalagiaretta.com/ita/olio-la-giaretta.php",
+   "etichetta": "cantinalagiaretta.com/ita/olio-la-giaretta.php"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «ita/i-quadretti-amarone.php».",
+   "url": "https://www.cantinalagiaretta.com/ita/i-quadretti-amarone.php",
+   "etichetta": "cantinalagiaretta.com/ita/i-quadretti-amarone.php"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «ita/i-quadretti-valpolicella-ripasso.php».",
+   "url": "https://www.cantinalagiaretta.com/ita/i-quadretti-valpolicella-ripasso.php",
+   "etichetta": "cantinalagiaretta.com/ita/i-quadretti-valpolicella-ripasso.php"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «ita/amarone-docg-classico.php».",
+   "url": "https://www.cantinalagiaretta.com/ita/amarone-docg-classico.php",
+   "etichetta": "cantinalagiaretta.com/ita/amarone-docg-classico.php"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «ita/recioto-docg-classico.php».",
+   "url": "https://www.cantinalagiaretta.com/ita/recioto-docg-classico.php",
+   "etichetta": "cantinalagiaretta.com/ita/recioto-docg-classico.php"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «ita/not-nero-la-giaretta.php».",
+   "url": "https://www.cantinalagiaretta.com/ita/not-nero-la-giaretta.php",
+   "etichetta": "cantinalagiaretta.com/ita/not-nero-la-giaretta.php"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «ita/ripasso-doc-classico-superiore.php».",
+   "url": "https://www.cantinalagiaretta.com/ita/ripasso-doc-classico-superiore.php",
+   "etichetta": "cantinalagiaretta.com/ita/ripasso-doc-classico-superiore.php"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «ita/valpolicella-doc-volpare.php».",
+   "url": "https://www.cantinalagiaretta.com/ita/valpolicella-doc-volpare.php",
+   "etichetta": "cantinalagiaretta.com/ita/valpolicella-doc-volpare.php"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «ita/video.php».",
+   "url": "https://www.cantinalagiaretta.com/ita/video.php",
+   "etichetta": "cantinalagiaretta.com/ita/video.php"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, consultato il 25 ottobre 2026, pagina «cantinalagiaretta.com» (verifica incrociata).",
+   "url": "https://www.cantinalagiaretta.com/",
+   "etichetta": "cantinalagiaretta.com"
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "nome": "Masi",
+ "slug": "masi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Masi Agricola S.p.A. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA e codice fiscale",
+     "valore": "03546810239 [[1]]"
+    },
+    {
+     "etichetta": "REA",
+     "valore": "VR-345205 [[1]]"
+    },
+    {
+     "etichetta": "Capitale sociale",
+     "valore": "43.082.549,04 € i.v. [[1]]"
+    },
+    {
+     "etichetta": "Sede legale",
+     "valore": "Via Monteleone 26, Località Gargagnago, 37015 Sant'Ambrogio di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Descrizione",
+     "valore": "Cantina in Valpolicella Classica, attiva dal 1772; produce l’Amarone e altri vini delle Venezie [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 683 25 11 [[3]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "wine.experience@masi.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.masi.it/it/|masi.it/it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Quotazione",
+     "valore": "Ammessa alla quotazione su Euronext Growth Milan (ex AIM Italia) nel giugno 2015 [[1]]"
+    },
+    {
+     "etichetta": "Forma",
+     "valore": "Dal 2024 società benefit, con modello di governance monistico [[1]]"
+    },
+    {
+     "etichetta": "Linee e marchi",
+     "valore": "Costasera, Campofiorin, Vaio Armaron, Mazzano, Rosa dei Masi; Moxxé del Re (tenuta Casa Re, Oltrepò Pavese); Canevel Spumanti (Valdobbiadene); Possessioni di Serego Alighieri (partecipata al 60%); Cantina Conti Bossi Fedrigotti (Rovereto); Masi Tupungato (Argentina) [[1]]"
+    },
+    {
+     "etichetta": "Ospitalità",
+     "valore": "Centro Masi Wine Experience (Monteleone21) e Masi Wine Bar a Monaco di Baviera [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Dal comunicato risultano solo i nomi delle linee, senza denominazione né annata; qui si riporta l'Amarone indicato dal sito. Elenco da completare. [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/masiwines/|@masiwines}}\nYouTube {{https://www.youtube.com/user/masiagricola|masiagricola}}\nX {{https://x.com/MasiWines|@MasiWines}}\nLinkedIn {{https://www.linkedin.com/company/masi-agricola|masi-agricola}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8462762046307679973|Mappa}} — valutazione 4,5 su 5 (157 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Masi Agricola S.p.A., comunicato al mercato con il bilancio consolidato al 31 dicembre 2024, pubblicato su emarketstorage.it (documento della società, non il sito della cantina), consultato il 25 ottobre 2026.",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2025-05/20250514_167070.pdf",
+   "etichetta": "emarketstorage.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «masi.it/it», consultata il 24 ottobre 2026.",
+   "url": "https://www.masi.it/it/",
+   "etichetta": "masi.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.masi.it/it/",
+   "etichetta": "masi.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Masi Agricola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8462762046307679973",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

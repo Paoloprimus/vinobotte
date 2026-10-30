@@ -1,0 +1,135 @@
+{
+ "nome": "Azienda Agricola Fraccaroli",
+ "slug": "azienda-agricola-fraccaroli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02270450238 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Berra Vecchia, 1, 37019 Peschiera del Garda (VR) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Lugana DOC» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0457550949 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fraccarolivini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fraccarolivini.it|fraccarolivini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Lugana Doc Superiore \"Campo Serà\"",
+     "denominazione": "Lugana DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Lugana Doc Riserva \"1912\" Luigi Fraccaroli",
+     "denominazione": "Lugana DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Lugana Pansere",
+     "denominazione": "Denominazione non indicata dal sito, dedotta dal nome del vino",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Garda Doc Cabernet Sauvignon",
+     "denominazione": "Garda DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Rosso \"La Berra1912\"",
+     "denominazione": "Garda DOC",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Fraccarolivini|Fraccarolivini}}\nInstagram {{https://www.instagram.com/fraccarolilugana/|@fraccarolilugana}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8769215165987826795|Mappa}} — valutazione 4,7 su 5 (234 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://fraccarolivini.it/la-nostra-storia/",
+   "etichetta": "fraccarolivini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-fraccaroli/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «fraccarolivini.it/vini», consultata il 25 ottobre 2026.",
+   "url": "https://fraccarolivini.it/vini/",
+   "etichetta": "fraccarolivini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.fraccarolivini.it",
+   "etichetta": "fraccarolivini.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Azienda Agricola Fraccaroli - Lugana DOC» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8769215165987826795",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

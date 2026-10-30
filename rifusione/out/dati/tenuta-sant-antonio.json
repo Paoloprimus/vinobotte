@@ -1,0 +1,163 @@
+{
+ "nome": "Tenuta Sant’Antonio",
+ "slug": "tenuta-sant-antonio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Sant’Antonio di Castagnedi Massimo, Armando, Tiziano e Paolo – Società Agricola; P.IVA/CF 02926650231 [[1]]"
+    },
+    {
+     "etichetta": "Sede e uffici",
+     "valore": "Via Ceriani 23, 37030 Colognola ai Colli (VR) (uffici e magazzino) [[1]]"
+    },
+    {
+     "etichetta": "Cantina (visite e degustazioni)",
+     "valore": "Via Conte Tragni, 37030 Lavagno (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. cantina +39 045 8740682; tel. uffici +39 045 7650383; info@tenutasantantonio.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://tenutasantantonio.it/|tenutasantantonio.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Castagnedi, quattro fratelli con radici contadine; 1989 acquisto di una proprietà nei Monti Garbi (oltre cento ettari coltivati); 1995 primo millesimo con il marchio Tenuta Sant’Antonio; 2000 costruzione della cantina [[3]]"
+    },
+    {
+     "etichetta": "Marchi",
+     "valore": "2004 SCAIA (vini IGT); 2010 TéLOS (sostenibilità, senza solfiti aggiunti, certificato vegano); 2020 marchio ombrello Famiglia Castagnedi [[3]]"
+    },
+    {
+     "etichetta": "Territori",
+     "valore": "Vigneti tra Soave e Valpolicella, in fascia collinare tra 120 e 130 m s.l.m. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Dalla home del sito, senza annate; solo i vini della Valpolicella. [[2]] Solo i vini della pagina «I Grandi Bianchi» che il sito indica come Soave; la cantina produce soprattutto Valpolicella e Amarone. Il sito non riporta le annate. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Campo dei Gigli",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Antonio Castagnedi",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Lilium Est",
+     "denominazione": "Amarone della Valpolicella Riserva DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "La Bandina",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Monte di Colognola",
+     "denominazione": "Soave DOC U.G.A.",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Vecchie Vigne",
+     "denominazione": "Soave Cru",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Esperienze",
+     "valore": "Winederful Experience, Valpolicella Experience, Valpolicella & Amarone Special, buono regalo; si prenota dalla pagina «Esperienze» [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Esperienze in cantina su prenotazione (Winederful, Valpolicella Experience, Valpolicella & Amarone Special, carta regalo) [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine del sito della cantina consultate dal vivo il 24 ottobre 2026 (home, La Tenuta, Contatti). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre. Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «tenutasantantonio.it/contatti».",
+   "url": "https://tenutasantantonio.it/contatti/",
+   "etichetta": "tenutasantantonio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «tenutasantantonio.it».",
+   "url": "https://tenutasantantonio.it/",
+   "etichetta": "tenutasantantonio.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «tenutasantantonio.it/la-tenuta».",
+   "url": "https://tenutasantantonio.it/la-tenuta/",
+   "etichetta": "tenutasantantonio.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/tenuta-s-antonio-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «tenutasantantonio.it/i-bianchi».",
+   "url": "https://tenutasantantonio.it/i-bianchi/",
+   "etichetta": "tenutasantantonio.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «tenutasantantonio.it/esperienze».",
+   "url": "https://tenutasantantonio.it/esperienze/",
+   "etichetta": "tenutasantantonio.it"
+  }
+ ]
+}

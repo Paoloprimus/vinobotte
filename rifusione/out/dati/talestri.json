@@ -1,0 +1,164 @@
+{
+ "nome": "Talestri",
+ "slug": "talestri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Le Tre Talestri Soc. Agricola di Marcato Francesco; C.F. e P.IVA 03417250234 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Fratta 8, 37030 Lavagno (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 982644; info@talestri.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.talestri.com/|www.talestri.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Tre sorelle, Anna, Lisa e Francesca, con il padre Francesco Marcato; 10 ettari acquisiti nel 2008, cantina propria dal 2015 [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Colline di Lavagno (Valpolicella Est), collina di San Briccio, suoli calcarei con affioramenti basaltici [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche Metodo Classico (Istinto, Ambizione). [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Passione",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Gentilezza",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "2020 [[6]]"
+    },
+    {
+     "nome": "Determinazione",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "2022 [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–ven 9–13 e 14–18; sabato 10–13 e 14–18 [[1]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Degustazioni e wine tour su prenotazione [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Decanter World Wine Awards 2026: argento per Ripasso Gentilezza 2020; Slow Wine 2026 “Moneta” per Determinazione 2022; Wine Hunter Award 2023: diploma d’eccellenza per Passione; Decanter World Wine Awards 2022. Dichiarati dalla cantina, non verificati da VinoBot sulle guide [[6]] [[7]] [[9]] [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.talestri.com/contatti/",
+   "etichetta": "talestri.com/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «talestri».",
+   "url": "https://www.talestri.com/talestri",
+   "etichetta": "talestri.com/talestri"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://www.talestri.com/vini/",
+   "etichetta": "talestri.com/vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini/amarone-della-valpolicella-docg-passione».",
+   "url": "https://www.talestri.com/vini/amarone-della-valpolicella-docg-passione/",
+   "etichetta": "talestri.com/vini/amarone-della-valpolicella-docg-passione"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «news/ripasso-gentilezza-2020-decanter-2026».",
+   "url": "https://www.talestri.com/news/ripasso-gentilezza-2020-decanter-2026/",
+   "etichetta": "talestri.com/news/ripasso-gentilezza-2020-decanter-2026"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «news/valpolicella-superiore-determinazione-2022-slow-wine-moneta».",
+   "url": "https://www.talestri.com/news/valpolicella-superiore-determinazione-2022-slow-wine-moneta/",
+   "etichetta": "talestri.com/news/valpolicella-superiore-determinazione-2022-slow-wine-moneta"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «esperienze-in-cantina».",
+   "url": "https://www.talestri.com/esperienze-in-cantina/",
+   "etichetta": "talestri.com/esperienze-in-cantina"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «news/wine-hunter-award-2023-passione-amarone-vince-il-diploma-deccellenza».",
+   "url": "https://www.talestri.com/news/wine-hunter-award-2023-passione-amarone-vince-il-diploma-deccellenza/",
+   "etichetta": "talestri.com/news/wine-hunter-award-2023-passione-amarone-vince-il-diploma-deccellenza"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «news/vini-talestri-premiati-decanter-world-wine-2022».",
+   "url": "https://www.talestri.com/news/vini-talestri-premiati-decanter-world-wine-2022/",
+   "etichetta": "talestri.com/news/vini-talestri-premiati-decanter-world-wine-2022"
+  }
+ ]
+}

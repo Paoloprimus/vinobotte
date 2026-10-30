@@ -1,0 +1,269 @@
+{
+ "nome": "Bottega",
+ "slug": "bottega",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Bottega S.p.A. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00541680260 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Sede principale: Villa Rosina, Vicolo Aldo Bottega 2, 31010 Bibano di Godega di Sant’Urbano (TV) [[1]]. Cantina della Valpolicella a Valgatara [[2]]"
+    },
+    {
+     "etichetta": "Altra sede (da altro elenco)",
+     "valore": "Loc. Pian delle Vigne - 53024 - Montalcino (Siena) [[3]]\nvia della Lite 11, Castelnuovo Berardenga 53019 SI [[4]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390438.4067 [[5]]\n+39 0438 4067 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bottegaspa.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bottegaspa.com/|www.bottegaspa.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Valpolicella come «Bottega S.p.a.» [[6]]\nConsorzio di Tutela della DOC Prosecco [[7]]\nConsorzio Vini Venezia [[8]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[9]]\nConsorzio del Vino Brunello di Montalcino [[3]]\nConsorzio Vino Chianti Classico [[4]]"
+    },
+    {
+     "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
+     "valore": "Vicolo Aldo Bottega, 2, Bibano di Godega di Sant'Urbano (TV); tel. +3904384067; +390438406858; info@bottegaspa.com; http://www.bottegaspa.com/ [[9]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Prosecco DOC",
+     "valore": "Via S. Cristoforo 1, 31010, Bibano (Tv); tel. 0438 4067; info@bottegaspa.com [[7]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
+     "valore": "31010 Godega di Sant’Urbano; info@bottegaspa.com; denominazioni: Venezia [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Famiglia Bottega; per la cantina di Valgatara, la famiglia Boscaini (Enzo Franco, poi il figlio Leonardo, responsabile della cantina) [[10]] [[2]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Dal Seicento: Andrea Bottega coltivava la vite a Refrontolo; la tenuta di Valgatara è acquistata dai Boscaini nei primi del Novecento e poi rilevata da Bottega [[10]] [[2]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "Valgatara (Valpolicella) per i vini della Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Amarone della Valpolicella DOCG e Classico Riserva DOCG, Ripasso Valpolicella DOC Superiore, Valpolicella Classico DOC e Superiore; inoltre Prosecco e spumanti, vini di Veneto, Friuli e Toscana, grappe, distillati e liquori [[2]] [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Vini della Valpolicella dalla pagina dedicata del sito; annate non indicate. [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Il vino degli dei",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Prêt-à-porter",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "—"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Brunello di Montalcino; Rosso di Montalcino; Sant'Antimo [[3]]"
+    },
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: \"Rive\" dry, brut, extra brut, extra dry [[9]]"
+    },
+    {
+     "etichetta": "Valdobbiadene Superiore di Cartizze",
+     "valore": "Tipologie indicate: dry [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti dichiarati dalla cantina",
+   "righe": [
+    {
+     "etichetta": "Complessivi",
+     "valore": "«Oltre 450 riconoscimenti» [[10]]"
+    }
+   ],
+   "nota": "Riconoscimenti dichiarati dalla cantina sul proprio sito. [[10]]"
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Visite guidate dell’azienda su prenotazione, dal sito [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "bottegaspa.com, in italiano e inglese, con shop online e Bottega Prosecco Bar [[10]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Shop online sul sito [[10]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Bottega-Gold-Official|Bottega-Gold-Official}}\nInstagram {{https://www.instagram.com/bottegagold/|@bottegagold}}\nYouTube {{https://www.youtube.com/DistilleriaBottega|DistilleriaBottega}}\nX {{https://x.com/BottegaGold|@BottegaGold}}\nLinkedIn {{https://www.linkedin.com/company/distilleria-bottega|distilleria-bottega}} [[5]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Wikipedia",
+     "valore": "{{https://it.wikipedia.org/wiki/Bottega_(azienda)|Bottega (azienda)}} [[11]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "E-commerce; Ristorante; Visita e degustazione [[9]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fino a 100.000 bottiglie [[9]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "SQNPI [[9]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Cinese, Francese, Giapponese, Inglese, Russo, Spagnolo, Tedesco [[9]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate tra il 24 e il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.bottegaspa.com/contatti/",
+   "etichetta": "bottegaspa.com/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «le-collezioni/valpolicella».",
+   "url": "https://www.bottegaspa.com/le-collezioni/valpolicella/",
+   "etichetta": "bottegaspa.com/le-collezioni/valpolicella"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio del Vino Brunello di Montalcino, scheda della cantina nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziobrunellodimontalcino.it/it/1439/bottega-spa",
+   "etichetta": "consorziobrunellodimontalcino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Vino Chianti Classico, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.chianticlassico.com/aziende/bottega/",
+   "etichetta": "chianticlassico.com"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.bottegaspa.com/",
+   "etichetta": "bottegaspa.com"
+  },
+  {
+   "n": 6,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 7,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 8,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 9,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/bottega-spa/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.bottegaspa.com/",
+   "etichetta": "bottegaspa.com"
+  },
+  {
+   "n": 11,
+   "testo": "Voce «Bottega (azienda)» su Wikipedia in italiano, trovata con ricerca del 29 ottobre 2026.",
+   "url": "https://it.wikipedia.org/wiki/Bottega_(azienda)",
+   "etichetta": "it.wikipedia.org"
+  },
+  {
+   "n": 12,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

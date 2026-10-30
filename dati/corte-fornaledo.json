@@ -1,0 +1,172 @@
+{
+ "nome": "Corte Fornaledo",
+ "slug": "corte-fornaledo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Borghetti di Giacomo e Francesco società semplice agricola [[1]] [[2]]\nNell’elenco del Consorzio: Corte Fornaledo / Borghetti di Giacomo e Francesco Soc. Semplice Agr."
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03887280232 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località Fornalè 1, 37020 Marano di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "Giacomo +39 328 4339516\nFrancesco +39 338 9017569 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cortefornaledo@cortefornaledo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortefornaledo.it/|www.cortefornaledo.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Il toponimo Fornaledo compare in una carta del 908; la famiglia Borghetti è documentata nel luogo dal Settecento [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Classico Riserva",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto Classico",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazione semplice",
+     "valore": "Circa 2 ore, storia aziendale, visita in cantina e assaggio di tutti i prodotti con grissini, pane e olio; 25 € a persona [[5]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine di oliva [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortefornaledo.it [[6]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=7761404781103253830|Mappa}} — valutazione 4,9 su 5 (82 recensioni) [[7]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[8]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.cortefornaledo.it/contatti/",
+   "etichetta": "cortefornaledo.it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://www.cortefornaledo.it/azienda/",
+   "etichetta": "cortefornaledo.it/azienda"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti».",
+   "url": "https://www.cortefornaledo.it/prodotti/",
+   "etichetta": "cortefornaledo.it/prodotti"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «degustazioni».",
+   "url": "https://www.cortefornaledo.it/degustazioni/",
+   "etichetta": "cortefornaledo.it/degustazioni"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.cortefornaledo.it/",
+   "etichetta": "cortefornaledo.it"
+  },
+  {
+   "n": 7,
+   "testo": "Scheda «Corte Fornaledo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=7761404781103253830",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 8,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "nome": "I Stefanini",
+ "slug": "i-stefanini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "I Stefanini di Tessari Francesco e Luisa S.S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04338940234 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Crosara 21, 37032 Costalunga di Monteforte d'Alpone (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0456 175249 [[1]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "francesco@istefanini.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.istefanini.it|istefanini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "La famiglia Tessari produce uva nella zona del Soave dall’Ottocento; cantina fondata nel 2003 da Francesco, figlio di Valentino Tessari; 18 ettari di vigneti tra collina e pianura [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Soave; le schede sono finestre della pagina principale; il sito non riporta le annate. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Il Selese",
+     "denominazione": "Soave DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Monte de Toni",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Monte di Fice",
+     "denominazione": "Soave Superiore Classico DOCG",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel testo letto; il sito ha una pagina «premi» il cui contenuto non è stato letto [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/istefaniniwines|istefaniniwines}}\nInstagram {{https://www.instagram.com/istefaniniwinery/|@istefaniniwinery}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=3127480340339304014|Mappa}} — valutazione 4,9 su 5 (33 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/i-stefanini-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 29 ottobre 2026.",
+   "url": "http://www.istefanini.it",
+   "etichetta": "istefanini.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.istefanini.it",
+   "etichetta": "istefanini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «istefanini.it», consultata il 24 ottobre 2026.",
+   "url": "http://www.istefanini.it",
+   "etichetta": "istefanini.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Società Agricola I Stefanini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=3127480340339304014",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "nome": "La Formica",
+ "slug": "la-formica",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. agr. La Formica di Bonuzzi Nicola & C. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03759510237 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fabio Filzi 59, 37031 Cellore d'Illasi (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "045 65 20 333 [[1]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@laformicawines.com [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.laformicawines.com|laformicawines.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "La famiglia Bonuzzi lavora la vite da generazioni; nel 1893 Luigi Bonuzzi costruì una cappella votiva a San Vincenzo Ferreri a protezione delle vigne; anno di fondazione non indicato [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo il vino a denominazione Soave; il sito non riporta le annate. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Soave",
+     "denominazione": "Soave DOC",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=10023555799986750329|Mappa}} [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/la-formica-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 29 ottobre 2026.",
+   "url": "http://www.laformicawines.com",
+   "etichetta": "laformicawines.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.laformicawines.com",
+   "etichetta": "laformicawines.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «laformicawines.com», consultata il 24 ottobre 2026.",
+   "url": "http://www.laformicawines.com",
+   "etichetta": "laformicawines.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Soc. Agr. La Formica di Bonuzzi Nicola & C.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=10023555799986750329",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "nome": "Cavalchina (Tenute di Famiglia)",
+ "slug": "cavalchina-bardolino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Cavalchina Società Semplice (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Sommacampagna 7, Custoza, 37066 Sommacampagna (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 516002 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutedifamiglia.com/|www.tenutedifamiglia.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Bardolino D.O.C. [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Valpolicella: {{/pagine/cavalchina.html|scheda Valpolicella}} [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vino Custoza DOC: {{/pagine/cavalchina-custoza.html|scheda Custoza}} [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Gruppo",
+     "valore": "Il sito riunisce più tenute: Cavalchina (Custoza), Prendina (Monzambano, MN), Torre d’Orti (Valpolicella), ’L Lac (Lugana) [[5]]"
+    },
+    {
+     "etichetta": "Storia Cavalchina",
+     "valore": "Nata agli inizi del Novecento; la cantina afferma di essere stata nel 1962 la prima a chiamare “Custoza” il vino bianco della zona [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Pagina per prenotare degustazioni, dettagli non nel testo salvato [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino DOC; Bardolino Superiore DOCG; Chiaretto di Bardolino DOC [[3]]"
+    }
+   ],
+   "nota": "Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[3]]"
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "tenutedifamiglia.com [[5]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://www.tenutedifamiglia.com/it/contatti",
+   "etichetta": "tenutedifamiglia.com/it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/cavalchina/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it».",
+   "url": "https://www.tenutedifamiglia.com/it/",
+   "etichetta": "tenutedifamiglia.com/it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/cavalchina».",
+   "url": "https://www.tenutedifamiglia.com/it/cavalchina",
+   "etichetta": "tenutedifamiglia.com/it/cavalchina"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/prenota-degustazioni».",
+   "url": "https://www.tenutedifamiglia.com/it/prenota-degustazioni",
+   "etichetta": "tenutedifamiglia.com/it/prenota-degustazioni"
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "nome": "Manera Luigi",
+ "slug": "manera-luigi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Sile, 36/A, 31033 Castelfranco Veneto (TV) [[1]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "{{https://www.facebook.com/az.agr.maneraluigi|facebook.com/az.agr.maneraluigi}}; {{https://www.instagram.com/cantina.maneraluigi/|instagram.com/cantina.maneraluigi}} [[1]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Prosecco Frizzante DOC Treviso», «Prosecco Spumante Brut DOC Treviso», «Prosecco Spumante Millesimato Extra Dry DOC Treviso», «Prosecco Tranquillo DOC Treviso» [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0423497684 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@maneraluigi.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.maneraluigi.it|maneraluigi.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nel 2018 entra in azienda la figlia Linda, laureata in enologia. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Prosecco Millesimato Extra Dry",
+     "denominazione": "Prosecco Spumante Millesimato Extra Dry DOC Treviso",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Prosecco Brut",
+     "denominazione": "Prosecco Spumante Brut DOC Treviso",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Prosecco Frizzante",
+     "denominazione": "Prosecco Frizzante DOC Treviso",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Prosecco Fermo",
+     "denominazione": "Prosecco Tranquillo DOC Treviso",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/az.agr.maneraluigi|az.agr.maneraluigi}}\nInstagram {{https://www.instagram.com/cantina.maneraluigi/|@cantina.maneraluigi}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.maneraluigi.it/shop/|maneraluigi.it/shop}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1431120758453926931|Mappa}} — valutazione 4,9 su 5 (108 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/manera-luigi/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «maneraluigi.it/shop», consultata il 25 ottobre 2026.",
+   "url": "https://www.maneraluigi.it/shop/",
+   "etichetta": "maneraluigi.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.maneraluigi.it",
+   "etichetta": "maneraluigi.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Cantina Manera Luigi» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1431120758453926931",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

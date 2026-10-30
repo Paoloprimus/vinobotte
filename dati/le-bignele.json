@@ -1,0 +1,212 @@
+{
+ "nome": "Le Bignele",
+ "slug": "le-bignele",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Le Bignele / Soc. Agricola Aldrighetti Luigi, Angelo e Nicola s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01805980230 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Biniele 4, 37020 Marano di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 388 4066545 [[3]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lebignele.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lebignele.it/|www.lebignele.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Aldrighetti dal 1818, con terreni in località Bignele presso Valgatara; oggi Nicola, Silvia e Cecilia con il padre Luigi e lo zio Angelo [[4]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "9 ettari tra Marano di Valpolicella, Negrar e San Pietro in Cariano [[4]]"
+    },
+    {
+     "etichetta": "Ospitalità",
+     "valore": "Camere e colazione [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Recioto Classico",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore Ripasso",
+     "denominazione": "Valpolicella Classico Superiore Ripasso DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Percorsi di visita e degustazione, wine shop, camere e colazione [[11]] [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "lebignele.it, in italiano e inglese [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16621260523555350791|Mappa}} — valutazione 4,7 su 5 (268 recensioni) [[13]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[14]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.lebignele.it/",
+   "etichetta": "lebignele.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://lebignele.it/contatti/",
+   "etichetta": "lebignele.it/contatti"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://lebignele.it/azienda/",
+   "etichetta": "lebignele.it/azienda"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini-e-prodotti-tipici».",
+   "url": "https://lebignele.it/vini-e-prodotti-tipici/",
+   "etichetta": "lebignele.it/vini-e-prodotti-tipici"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-classico-della-valpolicella».",
+   "url": "https://lebignele.it/amarone-classico-della-valpolicella/",
+   "etichetta": "lebignele.it/amarone-classico-della-valpolicella"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «recioto-classico-della-valpolicella».",
+   "url": "https://lebignele.it/recioto-classico-della-valpolicella/",
+   "etichetta": "lebignele.it/recioto-classico-della-valpolicella"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classico-superiore-ripasso».",
+   "url": "https://lebignele.it/valpolicella-classico-superiore-ripasso/",
+   "etichetta": "lebignele.it/valpolicella-classico-superiore-ripasso"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classico-superiore».",
+   "url": "https://lebignele.it/valpolicella-classico-superiore/",
+   "etichetta": "lebignele.it/valpolicella-classico-superiore"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classico-2».",
+   "url": "https://lebignele.it/valpolicella-classico-2/",
+   "etichetta": "lebignele.it/valpolicella-classico-2"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «degustazioni».",
+   "url": "https://lebignele.it/degustazioni/",
+   "etichetta": "lebignele.it/degustazioni"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «wine-shop».",
+   "url": "https://lebignele.it/wine-shop/",
+   "etichetta": "lebignele.it/wine-shop"
+  },
+  {
+   "n": 13,
+   "testo": "Scheda «LE BIGNELE - Soc. Agr Aldrighetti Luigi, Angelo e Nicola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16621260523555350791",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 14,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

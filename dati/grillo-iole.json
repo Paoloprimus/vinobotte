@@ -1,0 +1,124 @@
+{
+ "nome": "Grillo Iole",
+ "slug": "grillo-iole",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agr. Grillo Iole s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02995920309 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Albana, 60 33040 Prepotto (UD) [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate al Consorzio",
+     "valore": "DOC Friuli Colli Orientali; DOCG Colli Orientali del Friuli Picolit [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0432 713201 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinigrillo.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.vinigrillo.it|vinigrillo.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Friuli Colli Orientali DOC; Schioppettino di Prepotto DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/vinigrillo.it|vinigrillo.it}}\nInstagram {{https://www.instagram.com/grillo_iole_wines/|@grillo_iole_wines}} [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.vinigrillo.it/store/_it/|vinigrillo.it/store/_it}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13254663871334468253|Mappa}} — valutazione 5 su 5 (314 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.vinigrillo.it",
+   "etichetta": "vinigrillo.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo, scheda della cantina nell’elenco delle aziende associate, consultata il 25 ottobre 2026.",
+   "url": "https://www.colliorientali.com/grillo-iole/",
+   "etichetta": "colliorientali.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.vinigrillo.it",
+   "etichetta": "vinigrillo.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.vinigrillo.it",
+   "etichetta": "vinigrillo.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Grillo Iole» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13254663871334468253",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

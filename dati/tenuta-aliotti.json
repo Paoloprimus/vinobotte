@@ -1,0 +1,104 @@
+{
+ "nome": "Tenuta Aliotti",
+ "slug": "tenuta-aliotti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Pantano [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+393346954358 [[2]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutaaliotti.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://tenutaaliotti.com/|tenutaaliotti.com}} — non raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Nobile di Montepulciano [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/tenutaaliotti|tenutaaliotti}}\nInstagram {{https://www.instagram.com/tenutaaliotti/|@tenutaaliotti}}\nLinkedIn {{https://www.linkedin.com/company/tenuta-aliotti|tenuta-aliotti}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=11416091030965286494|Mappa}} — valutazione 5 su 5 (10 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio del Vino Nobile di Montepulciano, scheda dell’azienda nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://aziendeconsorziovinonobile.it/scheda/tenuta-aliotti/",
+   "etichetta": "aziendeconsorziovinonobile.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://tenutaaliotti.com/",
+   "etichetta": "tenutaaliotti.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Società Agricola Aliotti» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=11416091030965286494",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

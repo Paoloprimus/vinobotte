@@ -1,0 +1,154 @@
+{
+ "nome": "I Tamasotti",
+ "slug": "i-tamasotti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola I Tamasotti s.s. di Brusco Giacomo [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03509420158 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via dei Ciliegi 10, 37030 Mezzane di Sotto (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 340 267 8144 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@itamasotti.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.itamasotti.it/|www.itamasotti.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Brusco; relais con poche camere in sette ettari di ulivi, vigne, ciliegi e bosco nella Val di Mezzane [[2]] [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Corvina, Corvinone, Rondinella e Oseleta; vendemmia a mano [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Soave Biologico",
+     "denominazione": "Soave DOC biologico",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Relais",
+     "valore": "Camere, cucina e colazione con marmellate fatte in casa; prenotazione diretta [[4]] [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "itamasotti.it, in italiano e inglese, con galleria [[6]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16205529081201925690|Mappa}} — valutazione 4,8 su 5 (197 recensioni) [[7]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://itamasotti.it/",
+   "etichetta": "itamasotti.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/azienda».",
+   "url": "https://itamasotti.it/it/azienda",
+   "etichetta": "itamasotti.it/it/azienda"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/camere».",
+   "url": "https://itamasotti.it/it/camere",
+   "etichetta": "itamasotti.it/it/camere"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/cucina».",
+   "url": "https://itamasotti.it/it/cucina",
+   "etichetta": "itamasotti.it/it/cucina"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/gallery».",
+   "url": "https://itamasotti.it/it/gallery",
+   "etichetta": "itamasotti.it/it/gallery"
+  },
+  {
+   "n": 7,
+   "testo": "Scheda «I Tamasotti» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16205529081201925690",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

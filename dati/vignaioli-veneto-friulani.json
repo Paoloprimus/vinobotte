@@ -1,0 +1,104 @@
+{
+ "nome": "Vignaioli Veneto Friulani",
+ "slug": "vignaioli-veneto-friulani",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Vignaioli Veneto Friulani sca [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Vallonto 25, 31043 Fontanelle (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0422 809110 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vignaiolivf.it [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini DOC Friuli Grave [[2]]\nConsorzio Tutela Vini DOC Delle Venezie [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=5777816761763365196|Mappa}} — valutazione 4,3 su 5 (24 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate tra il 24 e il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/vignaioli-veneto-friulani/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini DOC Friuli Grave, elenco delle cantine e schede delle singole cantine, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuligrave.com/cantine.html",
+   "etichetta": "docfriuligrave.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Vignaioli Veneto Friulani S.c.a.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=5777816761763365196",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/",
+   "etichetta": "docfriuli.eu"
+  }
+ ]
+}

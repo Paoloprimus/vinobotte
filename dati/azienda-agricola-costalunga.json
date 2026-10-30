@@ -1,0 +1,158 @@
+{
+ "nome": "Azienda Agricola Costalunga",
+ "slug": "azienda-agricola-costalunga",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Costalunga s.s.a. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03003160243 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fontana Fozze ,39, 36020 Castegnero (VI) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Colli Berici DOC», «DOC Colli Berici» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0444639083 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "vini@costalunga.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.costalungavini.com|costalungavini.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione. Altri vini del sito, senza denominazione chiara, non inclusi: Spumante \"Brut delle Contesse\" (Garganego), \"Villa Maffei\" Moscato Spumante Dolce [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "\"Gheorgòs\" Tai Rosso",
+     "denominazione": "DOC Colli Berici",
+     "annata": "2015, 2017, 2018, 2019, 2020, 2022, 2025 [[3]]"
+    },
+    {
+     "nome": "\"Sior Marco\" Rosso Riserva",
+     "denominazione": "DOC Colli Berici",
+     "annata": "2021 [[3]]"
+    },
+    {
+     "nome": "\"Sior Marco\" Rosso",
+     "denominazione": "Colli Berici DOC",
+     "annata": "2016, 2018, 2020 [[3]]"
+    },
+    {
+     "nome": "\"Dioscuri\" Cabernet",
+     "denominazione": "DOC Colli Berici",
+     "annata": "2017, 2018, 2020 [[3]]"
+    },
+    {
+     "nome": "\"Fermo e Lucia\" Manzoni Bianco",
+     "denominazione": "DOC Colli Berici",
+     "annata": "2018, 2019, 2020, 2024, 2026 [[3]]"
+    },
+    {
+     "nome": "\"Ego\" Garganego",
+     "denominazione": "DOC Colli Berici",
+     "annata": "2013, 2014, 2015, 2018, 2020, 2022, 2023, 2024 [[3]]"
+    },
+    {
+     "nome": "Chardonnay",
+     "denominazione": "DOC Colli Berici",
+     "annata": "2018, 2019 [[3]]"
+    },
+    {
+     "nome": "\"Atena della Corte\" Pinot Grigio",
+     "denominazione": "DOC delle Venezie",
+     "annata": "2022 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Concours Mondial de Bruxelles (doppio oro, argento)\nMedaglia d’oro all’Incrocio Manzoni 2024 al Women’s International Trophy [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://it-it.facebook.com/pages/Costalunga-Vini/491198907579099|Costalunga-Vini}}\nInstagram {{https://www.instagram.com/costalunga_vini/|@costalunga_vini}}\nYouTube {{https://www.youtube.com/channel/UC_7CQnpg47XC2LLVIIMqzSA|canale UC_7CQnpg47XC2LLVIIMqzSA}} [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://costalungavini.com/shop/|costalungavini.com/shop}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2431782892578189433|Mappa}} — valutazione 4,8 su 5 (60 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.costalungavini.com",
+   "etichetta": "costalungavini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-costalunga/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «costalungavini.com/shop», consultata il 25 ottobre 2026.",
+   "url": "https://costalungavini.com/shop/",
+   "etichetta": "costalungavini.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.costalungavini.com",
+   "etichetta": "costalungavini.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Costalunga Vini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2431782892578189433",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

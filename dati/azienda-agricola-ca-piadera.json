@@ -1,0 +1,124 @@
+{
+ "nome": "Azienda Agricola Ca’ Piadera",
+ "slug": "azienda-agricola-ca-piadera",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Ca' Piadera Soc. Agr. S.S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04269220267 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Piadera, 31020 Tarzo (TV) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Conegliano Valdobbiadene Prosecco Superiore DOCG Brut», «Conegliano Valdobbiadene Prosecco Superiore DOCG Extra-Dry» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0438586768 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@capiadera.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.capiadera.com|capiadera.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Prosecco Superiore Extra Dry",
+     "denominazione": "Conegliano Valdobbiadene Prosecco Superiore DOCG Extra-Dry",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Prosecco Superiore Brut",
+     "denominazione": "Conegliano Valdobbiadene Prosecco Superiore DOCG Brut",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Siada",
+     "denominazione": "Pinot Grigio DOC Delle Venezie",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "El Marin",
+     "denominazione": "Prosecco Tranquillo DOC Treviso",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/CaPiadera|CaPiadera}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nVivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": " Privacy Poli|https://www.capiadera.com",
+   "etichetta": " Privacy Poli|https:"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-ca-piadera/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «capiadera.com/it/vini», consultata il 25 ottobre 2026.",
+   "url": "http://www.capiadera.com/it/vini/",
+   "etichetta": "capiadera.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.capiadera.com",
+   "etichetta": "capiadera.com"
+  }
+ ]
+}

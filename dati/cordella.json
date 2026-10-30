@@ -1,0 +1,112 @@
+{
+ "nome": "Cordella",
+ "slug": "cordella",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola di Maddalena Cordella [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00946210523 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Pod. Meleto, n. 27 - 53024 - Torrenieri (Siena) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3470422815 / +39 3457756454 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cordellavini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cordellavini.it|cordellavini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Brunello di Montalcino [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nel 1972 Orlando Cordella acquistò la Tenuta di Triboli; dal 1998 la guida passò alla figlia Maddalena. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Brunello di Montalcino DOCG; Rosso di Montalcino DOC [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Brunello di Montalcino; Rosso di Montalcino [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Brunello di Montalcino DOCG; Rosso di Montalcino DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.cordellavini.it",
+   "etichetta": "cordellavini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio del Vino Brunello di Montalcino, scheda della cantina nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziobrunellodimontalcino.it/it/1440/cordella",
+   "etichetta": "consorziobrunellodimontalcino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.cordellavini.it",
+   "etichetta": "cordellavini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

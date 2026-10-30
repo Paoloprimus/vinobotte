@@ -1,0 +1,120 @@
+{
+ "nome": "Podere Arcangelo",
+ "slug": "podere-arcangelo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Poderi Arcangelo - Azienda Agricola Agriturismo [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00997930524 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Capezzano 26, 53037 San Gimignano, SI [[2]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577 944404 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poderiarcangelo.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.poderiarcangelo.it/|poderiarcangelo.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Proprietari la famiglia Mora, di origine marchigiana e stabilitasi in Toscana. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Chianti Colli Senesi DOCG; Vernaccia di San Gimignano DOCG [[4]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Vernaccia di San Gimignano DOCG; Chianti Colli Senesi DOCG [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Vernaccia di San Gimignano DOCG; Chianti Colli Senesi DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=10295272494052241685|Mappa}} — valutazione 4,5 su 5 (573 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "https://www.poderiarcangelo.it/",
+   "etichetta": "poderiarcangelo.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://www.poderiarcangelo.it/",
+   "etichetta": "poderiarcangelo.it"
+  },
+  {
+   "n": 3,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 26 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/podere-arcangelo/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://www.poderiarcangelo.it/",
+   "etichetta": "poderiarcangelo.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Agriturismo Poderi Arcangelo San Gimignano» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=10295272494052241685",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

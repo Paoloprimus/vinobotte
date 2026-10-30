@@ -1,0 +1,130 @@
+{
+ "nome": "Fattoria Acquaviva",
+ "slug": "fattoria-acquaviva",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Villa Acquaviva [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Scansanese, 58014 Manciano, GR [[2]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0564 602890 [[2]] [[4]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@villacquaviva.com [[4]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.villacquaviva.com/|villacquaviva.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Morellino di Scansano DOCG; Maremma Toscana DOC [[5]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Morellino di Scansano DOCG; Maremma Toscana DOC [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Morellino di Scansano DOCG; Maremma Toscana DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/villacquavivawineresort|villacquavivawineresort}}\nInstagram {{https://www.instagram.com/villacquaviva/|@villacquaviva}}\nYouTube {{https://www.youtube.com/channel/UCKzE8fyItkDLTro_Dj1if8Q|canale UCKzE8fyItkDLTro_Dj1if8Q}}\nX {{https://x.com/Villa_Acquaviva|@Villa_Acquaviva}} [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://shop.villacquaviva.com/|shop.villacquaviva.com}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: presenza non verificata\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13012963533394431015|Mappa}} — valutazione 4,4 su 5 (56 recensioni) [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "https://www.villacquaviva.com/",
+   "etichetta": "villacquaviva.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://www.villacquaviva.com/",
+   "etichetta": "villacquaviva.com"
+  },
+  {
+   "n": 3,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 26 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/fattoria-acquaviva/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.villacquaviva.com/",
+   "etichetta": "villacquaviva.com"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://www.villacquaviva.com/",
+   "etichetta": "villacquaviva.com"
+  },
+  {
+   "n": 6,
+   "testo": "Scheda «Villa Acquaviva Winery» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13012963533394431015",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

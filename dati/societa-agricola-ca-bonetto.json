@@ -1,0 +1,134 @@
+{
+ "nome": "Società Agricola Cà Bonetto",
+ "slug": "societa-agricola-ca-bonetto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Cà Bonetto [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04199970262 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Bonetto, 8/1, 31040 Salgareda (TV) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «DOC Treviso» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0422804907 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "ca.bonetto@cunialvinipiave.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cunialvinipiave.it|cunialvinipiave.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Prosecco frizzante",
+     "denominazione": "DOC Treviso",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Prosecco Extra Dry",
+     "denominazione": "DOC Treviso",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Prosecco Brut",
+     "denominazione": "DOC Treviso",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "DOC delle Venezie",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cunialvinipiave.it|cunialvinipiave.it}}\nInstagram {{https://www.instagram.com/cantinacunial/|@cantinacunial}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16800599711522796383|Mappa}} — valutazione 4,5 su 5 (55 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.cunialvinipiave.it",
+   "etichetta": "cunialvinipiave.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/societa-agricola-ca-bonetto/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «cunialvinipiave.it/it/vino-in-bottiglia.html», consultata il 25 ottobre 2026.",
+   "url": "https://www.cunialvinipiave.it/it/vino-in-bottiglia.html",
+   "etichetta": "cunialvinipiave.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.cunialvinipiave.it",
+   "etichetta": "cunialvinipiave.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Ca' Bonetto» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16800599711522796383",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

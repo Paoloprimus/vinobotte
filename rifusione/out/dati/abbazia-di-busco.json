@@ -1,0 +1,104 @@
+{
+ "nome": "Abbazia di Busco",
+ "slug": "abbazia-di-busco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina Abbazia di Busco Società Agricola Liasora S.S.; P.IVA 02488900271 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via IV Novembre 31, 31047 Busco di Ponte di Piave (TV) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 0422 752152; WhatsApp 339 191 47 09 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.abbaziadibusco.com/|www.abbaziadibusco.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il nome richiama i monaci benedettini dell’Abbazia di Sant’Andrea a Busco; il sito non indica anno di fondazione né proprietari [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Battistero (Prosecco Brut Millesimato)",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Portico (Prosecco Extra Dry)",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pulpito (Prosecco Frizzante)",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Capitolo",
+     "denominazione": "Pinot Grigio delle Venezie DOC",
+     "annata": "— [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda del Consorzio e sito ufficiale della cantina, consultati il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «abbaziadibusco.com».",
+   "url": "https://www.abbaziadibusco.com/",
+   "etichetta": "abbaziadibusco.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  }
+ ]
+}

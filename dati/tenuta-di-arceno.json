@@ -1,0 +1,128 @@
+{
+ "nome": "Tenuta di Arceno",
+ "slug": "tenuta-di-arceno",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta di Arceno S.r.l. - Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01113960528 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Arceno San Gusme, Castelnuovo Berardenga 53010 Siena [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577359346 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutadiarceno.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.tenutadiarceno.com|tenutadiarceno.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti Classico [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "La famiglia Del Taja acquistò nel 1504 gran parte dei terreni, parcella dopo parcella. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Chianti Classico DOCG [[4]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Chianti Classico DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Wine Spectator Top 100: #19 (Il Fauno 2012)\nTre Bicchieri Gambero Rosso (Valadorna 2013 e altri) [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/tenutadiarceno|tenutadiarceno}}\nInstagram {{https://www.instagram.com/tenutadiarceno/|@tenutadiarceno}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13858526628279509740|Mappa}} — valutazione 4,8 su 5 (146 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.tenutadiarceno.com",
+   "etichetta": "tenutadiarceno.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Vino Chianti Classico, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.chianticlassico.com/aziende/tenuta-di-arceno/",
+   "etichetta": "chianticlassico.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.tenutadiarceno.com",
+   "etichetta": "tenutadiarceno.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.tenutadiarceno.com",
+   "etichetta": "tenutadiarceno.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Tenuta Di Arceno» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13858526628279509740",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

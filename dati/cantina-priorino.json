@@ -1,0 +1,116 @@
+{
+ "nome": "Cantina Priorino",
+ "slug": "cantina-priorino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Priorino di Valdambrini Jacopo [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01309420527 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@nomedominio.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinapriorino.com|cantinapriorino.com}} — raggiungibile al controllo del 29 ottobre 2026 [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Nobile di Montepulciano [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Gestita da tre fratelli, con Jacopo Valdambrini titolare dell'azienda agricola. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Vino Nobile di Montepulciano DOCG [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cantinapriorino|cantinapriorino}}\nInstagram {{https://www.instagram.com/cantina_priorino/|@cantina_priorino}}\nYouTube {{https://www.youtube.com/@cantinapriorino|@cantinapriorino}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=10597539745019428293|Mappa}} — valutazione 4,9 su 5 (25 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.cantinapriorino.com",
+   "etichetta": "cantinapriorino.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.cantinapriorino.com",
+   "etichetta": "cantinapriorino.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio del Vino Nobile di Montepulciano, scheda dell’azienda nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://aziendeconsorziovinonobile.it/scheda/az-ag-cantina-priorino/",
+   "etichetta": "aziendeconsorziovinonobile.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.cantinapriorino.com",
+   "etichetta": "cantinapriorino.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Cantina Priorino» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=10597539745019428293",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

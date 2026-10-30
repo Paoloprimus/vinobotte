@@ -1,0 +1,54 @@
+{
+ "nome": "Terradonnà",
+ "slug": "terradonna",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via di Fontanella 4, 57021 Campiglia Marittima, LI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 331 4026914 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@terradonna.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://terradonna.it/|terradonna.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Suvereto DOCG, Rosso della Val di Cornia DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://terradonna.it/",
+   "etichetta": "terradonna.it"
+  }
+ ]
+}

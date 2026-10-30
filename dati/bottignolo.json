@@ -1,0 +1,109 @@
+{
+ "nome": "Bottignolo",
+ "slug": "bottignolo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Bottignolo S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04414600264 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Lizzor, 20, 31049 Valdobbiadene (TV) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Prosecco Superiore di Cartizze DOCG Dry» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0423827602 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bottignolo.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bottignolo.it|bottignolo.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione. Altri vini del sito, senza denominazione chiara, non inclusi: Funé, N.1, N.2 [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Agathe",
+     "denominazione": "Prosecco Superiore di Cartizze DOCG Dry",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=9008695319059985523|Mappa}} — valutazione 5 su 5 (61 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.bottignolo.it",
+   "etichetta": "bottignolo.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/bottignolo/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «bottignolo.it/vini-valdobbiadene», consultata il 25 ottobre 2026.",
+   "url": "https://www.bottignolo.it/vini-valdobbiadene/",
+   "etichetta": "bottignolo.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Cantina Bottignolo - Cartizze e Valdobbiadene Prosecco Docg» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=9008695319059985523",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

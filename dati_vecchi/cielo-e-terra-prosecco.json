@@ -1,0 +1,128 @@
+{
+ "nome": "Cielo e Terra",
+ "slug": "cielo-e-terra-prosecco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cielo e Terra S.p.A. Società Benefit; P.IVA 02160070245 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via IV Novembre 39, 36050 Montorso Vicentino (VI) [[1]]"
+    },
+    {
+     "etichetta": "Dati nella mappa del Consorzio Prosecco DOC",
+     "valore": "Tel. 0444485211; valeria.franco@cieloeterravini.com [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0444 485211; info@cieloeterravini.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cieloeterravini.com/|www.cieloeterravini.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[2]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini DOC Delle Venezie: {{/pagine/cielo-e-terra-delle-venezie.html|scheda Delle Venezie}} [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito indica due radici: la famiglia Cielo (podere con vigneto Casa Defrà acquistato nel 1908) e i viticoltori delle Cantine dei Colli Berici; nel 2021 è stata acquistata Villa «La Favorita» [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[1]] Elenco dalle pagine «Vini» del sito; per Cielo Blu Prosecco la scheda è sul sito collegato cielo1908.com.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Cielo Blu Prosecco Brut",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Cielo1908 Prosecco Frizzante",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Casa Defrà Prosecco Brut",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Casa Defrà Prosecco Rosé Extra Dry",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pradio Passaparola Brut",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Bericanto Prosecco Brut",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda del Consorzio e sito ufficiale della cantina, consultati il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «cieloeterravini.com».",
+   "url": "https://www.cieloeterravini.com/",
+   "etichetta": "cieloeterravini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  }
+ ]
+}

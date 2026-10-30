@@ -1,0 +1,102 @@
+{
+ "nome": "Zorzon",
+ "slug": "zorzon",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01142270311 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Sottomonte, 75, 34071 Brazzano GO [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "338 2442059[[2]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@zorzon.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.zorzon.it|zorzon.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Collio [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Tradizione agricola di tre generazioni a Brazzano (Cormons); oggi condotta da Giorgio Deganis, nipote del fondatore. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Collio",
+     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=17333638539602160848|Mappa}} — valutazione 4,7 su 5 (30 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.zorzon.it",
+   "etichetta": "zorzon.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Collio, scheda della cantina nell’elenco dei produttori, consultata il 25 ottobre 2026.",
+   "url": "https://www.collio.it/cantina/zorzon/",
+   "etichetta": "collio.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.zorzon.it",
+   "etichetta": "zorzon.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Cantina Zorzon e Agriturismo Domus Rustica» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=17333638539602160848",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "nome": "Colle Cerè",
+ "slug": "colle-cere",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Colle Cerè di Cesare Righetti, P.IVA 02467600231 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località Cerè, 37024 Negrar di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 7500288 · cell. 338 7331777 · info@collecere.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.collecere.com/|www.collecere.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Piccola cantina di Cesare Righetti nella contrada Cerè, che ha ereditato la passione dal padre Antonio; tecniche tradizionali di appassimento [[3]]"
+    },
+    {
+     "etichetta": "Vitigni",
+     "valore": "Corvina, Corvinone, Rondinella, Molinara [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "La Tonega",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto della Valpolicella",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Il sito non descrive visite; modulo di contatto [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "collecere.com, in italiano e inglese [[6]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «ita/dove-siamo.php».",
+   "url": "http://www.collecere.com/ita/dove-siamo.php",
+   "etichetta": "collecere.com/ita/dove-siamo.php"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «ita/azienda.php».",
+   "url": "http://www.collecere.com/ita/azienda.php",
+   "etichetta": "collecere.com/ita/azienda.php"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «ita/nostri-vini.php».",
+   "url": "http://www.collecere.com/ita/nostri-vini.php",
+   "etichetta": "collecere.com/ita/nostri-vini.php"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «ita/contatti.php».",
+   "url": "http://www.collecere.com/ita/contatti.php",
+   "etichetta": "collecere.com/ita/contatti.php"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «ita/index.php».",
+   "url": "http://www.collecere.com/ita/index.php",
+   "etichetta": "collecere.com/ita/index.php"
+  }
+ ]
+}

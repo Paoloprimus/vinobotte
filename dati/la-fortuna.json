@@ -1,0 +1,120 @@
+{
+ "nome": "La Fortuna",
+ "slug": "la-fortuna",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Ag. La Fortuna [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01611080522 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Pod. La Fortuna, n. 83 - 53024 - Montalcino (Siena) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577848308 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutalafortuna.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.tenutalafortuna.it|tenutalafortuna.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Brunello di Montalcino [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "La famiglia Zannoni è presente a Montalcino dal 1907 e conta sei generazioni. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Brunello di Montalcino DOCG; Brunello di Montalcino Riserva DOCG [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Brunello di Montalcino; Rosso di Montalcino; Sant'Antimo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/tenutalafortuna|tenutalafortuna}}\nInstagram {{https://www.instagram.com/tenutalafortuna/|@tenutalafortuna}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: presenza non verificata\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=7053444950890325755|Mappa}} — valutazione 5 su 5 (27 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.tenutalafortuna.it",
+   "etichetta": "tenutalafortuna.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio del Vino Brunello di Montalcino, scheda della cantina nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziobrunellodimontalcino.it/it/1480/la-fortuna",
+   "etichetta": "consorziobrunellodimontalcino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.tenutalafortuna.it",
+   "etichetta": "tenutalafortuna.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.tenutalafortuna.it",
+   "etichetta": "tenutalafortuna.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «La Fortuna Società Agricola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=7053444950890325755",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

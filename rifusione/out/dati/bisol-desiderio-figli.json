@@ -1,0 +1,98 @@
+{
+ "nome": "Bisol Desiderio & Figli",
+ "slug": "bisol-desiderio-figli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Bisol Desiderio & Figli Srl (come da mappa del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Follo 33,31049, Santo Stefano Di Valdobbiadene (Tv) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 0423 900138; info@bisol.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bisol.it/|www.bisol.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Prosecco DOC",
+     "valore": "Il sito cita il Cartizze DOCG e il Prosecco Superiore di Valdobbiadene, senza elencare le singole etichette [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Tre Bicchieri, Gambero Rosso Vini d’Italia 2025: Valdobbiadene Extra Dry Molera 2023 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: presente, con il Valdobbiadene Superiore di Cartizze (media utenti 4,1 su 1.885 valutazioni al 25 ottobre 2026); altre presenze non verificate [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda del Consorzio e sito ufficiale della cantina, consultati il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «bisol.it».",
+   "url": "https://www.bisol.it/",
+   "etichetta": "bisol.it"
+  },
+  {
+   "n": 3,
+   "testo": "Gambero Rosso International, articolo «Prosecco Superiore: the 8 best selected by Gambero Rosso» (sito di terzi, non della cantina), consultato il 25 ottobre 2026.",
+   "url": "https://www.gamberorossointernational.com/news/prosecco-superiore-the-8-best-selected-by-gambero-rosso/",
+   "etichetta": "gamberorossointernational.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino, pagina del vino (sito di terzi, non della cantina), consultata il 25 ottobre 2026; il punteggio degli utenti cambia nel tempo.",
+   "url": "https://www.vivino.com/ja/bisol-cartizze-valdobbiadene-prosecco-superiore-dry/w/1177508",
+   "etichetta": "vivino.com"
+  }
+ ]
+}

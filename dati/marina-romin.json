@@ -1,0 +1,68 @@
+{
+ "nome": "Marina Romin",
+ "slug": "marina-romin",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02338820505 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via del Chianti 34, 56030 Terricciola, PI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 391 3506315 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantina@marinaromin.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://marinaromin.com/|marinaromin.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Terre di Pisa [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/marinarominwines|facebook.com/marinarominwines}}\nInstagram {{https://www.instagram.com/marinarominwines/|instagram.com/marinarominwines}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://marinaromin.com/",
+   "etichetta": "marinaromin.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vini Terre di Pisa, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.viniterredipisa.com/azienda-it.php?id=17",
+   "etichetta": "viniterredipisa.com"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "nome": "Tralci di Vita",
+ "slug": "tralci-di-vita",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Di Causero Massimo [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02926580305 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Strada di Guspergo, 30 33043, Cividale del Friuli (UD) [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate al Consorzio",
+     "valore": "DOC Friuli Colli Orientali [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 346 7425090 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tralcidivita.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.tralcidivita.it|tralcidivita.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Titolare: Massimo Causero [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non ancora raccolto dal sito della cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/tralcidivita|tralcidivita}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=539780448587419051|Mappa}} — valutazione 5 su 5 (86 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.tralcidivita.it",
+   "etichetta": "tralcidivita.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo, scheda della cantina nell’elenco delle aziende associate, consultata il 25 ottobre 2026.",
+   "url": "https://www.colliorientali.com/tralci-di-vita/",
+   "etichetta": "colliorientali.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.tralcidivita.it",
+   "etichetta": "tralcidivita.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Tralci di vita» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=539780448587419051",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "nome": "Cantina De Pra",
+ "slug": "cantina-de-pra",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina De Pra S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02103200263 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Armentaressa 75, 31024 Ormelle (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0422 745304\ncell. +39 331 1989379 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinadepra.com\nlaboratorio@cantinadepra.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinadepra.com/|www.cantinadepra.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[2]]\nConsorzio di Tutela della DOC Prosecco [[3]]\nConsorzio Vini Venezia [[4]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
+     "valore": "31024 Ormelle; info@cantinadepra.com; denominazioni: Piave, Venezia, Malanotte [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito parla di una tradizione familiare «dal 1959» e di vigneti propri a Ormelle, Motta di Livenza e in altre località della Marca Trevigiana [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Malanotte del Piave",
+     "denominazione": "Malanotte del Piave DOCG",
+     "annata": "— [[1]]"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Elenco vini Prosecco DOC",
+     "valore": "Il sito non indica vini Prosecco DOC con la denominazione [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Vini «premiati nel corso degli anni», senza indicare premi, concorsi o anni [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/depracantina|depracantina}}\nInstagram {{https://www.instagram.com/cantinadepra/|@cantinadepra}} [[5]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=18371674157452502039|Mappa}} — valutazione 4,8 su 5 (97 recensioni) [[6]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[7]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate tra il 24 e il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «cantinadepra.com», consultata il 24 ottobre 2026.",
+   "url": "https://www.cantinadepra.com/",
+   "etichetta": "cantinadepra.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/cantina-de-pra/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.cantinadepra.com/",
+   "etichetta": "cantinadepra.com"
+  },
+  {
+   "n": 6,
+   "testo": "Scheda «Cantina De Pra – Vini di Qualità, Prosecco e Degustazioni» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=18371674157452502039",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 7,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

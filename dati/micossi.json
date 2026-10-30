@@ -1,0 +1,110 @@
+{
+ "nome": "Micossi",
+ "slug": "micossi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Micossi di Revelant Alessandro [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02993200308 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Nimis, 20 33017, Sedilis – Tarcento [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate al Consorzio",
+     "valore": "DOCG Colli Orientali del Friuli Picolit; DOCG Ramandolo [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0432 783276\nfax +39 0432 784576 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "vignetimicossi@alice.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.vignetimicossi.it|vignetimicossi.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Titolare: Alessandro Revelant; Ettari vitati: 2,50; Bottiglie prodotte: 5.000 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Colli Orientali del Friuli Picolit DOCG; Ramandolo DOCG [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=14462788958924185179|Mappa}} — valutazione 4,7 su 5 (39 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.vignetimicossi.it",
+   "etichetta": "vignetimicossi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo, scheda della cantina nell’elenco delle aziende associate, consultata il 25 ottobre 2026.",
+   "url": "https://www.colliorientali.com/micossi/",
+   "etichetta": "colliorientali.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.vignetimicossi.it",
+   "etichetta": "vignetimicossi.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Vigneti Micossi» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=14462788958924185179",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

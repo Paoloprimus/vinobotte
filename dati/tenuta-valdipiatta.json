@@ -1,0 +1,118 @@
+{
+ "nome": "Tenuta Valdipiatta",
+ "slug": "tenuta-valdipiatta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Valdipiatta [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00990570525 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Ciarliana, 25/a – 53045 – Montepulciano [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0578757930 [[2]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@valdipiatta.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.valdipiatta.it|valdipiatta.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Nobile di Montepulciano [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda familiare fondata negli anni '60, acquistata negli anni '80 da Giulio Caporali e dal 2002 condotta dalla figlia Miriam. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/TenutaValdipiatta|TenutaValdipiatta}}\nInstagram {{https://www.instagram.com/valdipiatta/|@valdipiatta}}\nX {{https://x.com/TenValdipiatta|@TenValdipiatta}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=5339433687886522674|Mappa}} — valutazione 4,9 su 5 (218 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.valdipiatta.it",
+   "etichetta": "valdipiatta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio del Vino Nobile di Montepulciano, scheda dell’azienda nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://aziendeconsorziovinonobile.it/scheda/tenuta-valdipiatta/",
+   "etichetta": "aziendeconsorziovinonobile.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.valdipiatta.it",
+   "etichetta": "valdipiatta.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Tenuta Valdipiatta» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=5339433687886522674",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

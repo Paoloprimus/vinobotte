@@ -1,0 +1,123 @@
+{
+ "nome": "Gigante",
+ "slug": "gigante",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Gigante Adriano ssa [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Rocca Bernarda 3, 33040 Corno di Rosazzo (UD) [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate al Consorzio",
+     "valore": "DOC Friuli Colli Orientali; DOCG Colli Orientali del Friuli Picolit [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0432 755835 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@adrianogigante.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.adrianogigante.it|adrianogigante.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Titolare: Adriano Gigante [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini nella scheda del Consorzio, senza denominazione: la scheda indica soltanto il nome del vino, per tipo (bianco, rosso) in base alle icone. L’elenco è lo stesso formato per tutti i soci; la denominazione di ciascun vino va verificata sul sito della cantina [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Friulano",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Ribolla gialla spumante",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    }
+   ],
+   "righe": []
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=6146934334552087319|Mappa}} — valutazione 4,9 su 5 (137 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/gigante/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo, scheda della cantina nell’elenco delle aziende associate, consultata il 25 ottobre 2026.",
+   "url": "https://www.colliorientali.com/gigante-adriano/",
+   "etichetta": "colliorientali.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Gigante Wine & Welcome in Friuli» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=6146934334552087319",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/",
+   "etichetta": "docfriuli.eu"
+  }
+ ]
+}

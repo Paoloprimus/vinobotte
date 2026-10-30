@@ -1,0 +1,174 @@
+{
+ "nome": "Corte Archi",
+ "slug": "corte-archi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Corte Archi di Fernando Campagnola (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "IT04298150238 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Paverno 21, Valgatara, 37020 Marano di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Cell. +39 335 8140026 · info@cortearchi.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortearchi.it/|www.cortearchi.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Campagnola: Caterina e Carlo ad inizio Novecento acquistano casa, cantina e vigneti a Paverno; dal 1995 Fernando dirige l’azienda; cantina di fine Seicento [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Linea “Gli Archi”; il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Gli Archi Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Gli Archi Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Gli Archi Ripasso",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Gli Archi Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Tour di vigneti e cantina antica con degustazione: “Valpolicella a tutto tondo” (5 vini) o “Amarone in verticale”; voucher regalo; menu per esigenze alimentari; ricarica auto elettrica, family friendly, animali ammessi [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortearchi.it, in italiano e inglese [[10]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/degustazioni».",
+   "url": "https://cortearchi.it/it/degustazioni",
+   "etichetta": "cortearchi.it/it/degustazioni"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/la-storia».",
+   "url": "https://cortearchi.it/it/la-storia",
+   "etichetta": "cortearchi.it/it/la-storia"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://cortearchi.it/",
+   "etichetta": "cortearchi.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-vini/valpolicella-classico».",
+   "url": "https://cortearchi.it/it/i-vini/valpolicella-classico",
+   "etichetta": "cortearchi.it/it/i-vini/valpolicella-classico"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-vini/valpolicella-superiore».",
+   "url": "https://cortearchi.it/it/i-vini/valpolicella-superiore",
+   "etichetta": "cortearchi.it/it/i-vini/valpolicella-superiore"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-vini/valpolicella-ripasso».",
+   "url": "https://cortearchi.it/it/i-vini/valpolicella-ripasso",
+   "etichetta": "cortearchi.it/it/i-vini/valpolicella-ripasso"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-vini/amarone-della-valpolicella».",
+   "url": "https://cortearchi.it/it/i-vini/amarone-della-valpolicella",
+   "etichetta": "cortearchi.it/it/i-vini/amarone-della-valpolicella"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-vini/amarone-della-valpolicella-classico-is».",
+   "url": "https://cortearchi.it/it/i-vini/amarone-della-valpolicella-classico-is",
+   "etichetta": "cortearchi.it/it/i-vini/amarone-della-valpolicella-classico-is"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «en».",
+   "url": "https://cortearchi.it/en",
+   "etichetta": "cortearchi.it/en"
+  }
+ ]
+}

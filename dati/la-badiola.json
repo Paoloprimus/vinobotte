@@ -1,0 +1,71 @@
+{
+ "nome": "La Badiola",
+ "slug": "la-badiola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola La Badiola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01211030463 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via del Parco 868, San Pancrazio, 55100 Lucca, LU [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 328 1510088 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@labadiola.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.labadiola.it/|labadiola.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colline Lucchesi Rosso DOC, Colline Lucchesi Bianco DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/aziendaagricolalabadiola|facebook.com/aziendaagricolalabadiola}}\nInstagram {{https://www.instagram.com/labadiola/|instagram.com/labadiola}}\nLinkedIn {{https://www.linkedin.com/company/azienda-agricola-la-badiola/|linkedin.com/company/azienda-agricola-la-badiola}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.labadiola.it/",
+   "etichetta": "labadiola.it"
+  }
+ ]
+}

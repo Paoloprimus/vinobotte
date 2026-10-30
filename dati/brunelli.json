@@ -1,0 +1,247 @@
+{
+ "nome": "Brunelli",
+ "slug": "brunelli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Brunelli Azienda Agricola s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04877190233 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Cariano 10, 37029 San Pietro in Cariano (VR); la tenuta è la storica Corte Cariano [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7701118 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@brunelliwine.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.brunelliwine.com/|www.brunelliwine.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella come «Brunelli s.s.» [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Famiglia Brunelli; il sito ricorda Luigi Brunelli, vignaiolo ed enologo, e Alberto Brunelli [[2]] [[4]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "«Vini dal 1936»; la famiglia è legata a San Pietro in Cariano dal 1700, quando tre fratelli coltivavano a mezzadria i terreni attorno a Corte Cariano [[2]] [[5]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "San Pietro in Cariano, Valpolicella Classica, a 20 minuti da Verona e dal Lago di Garda [[5]] [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: struttura",
+   "righe": [
+    {
+     "etichetta": "Terreni",
+     "valore": "Calcare e minerali, con esposizione sud-sudovest [[5]]"
+    },
+    {
+     "etichetta": "Cantina e fruttaio",
+     "valore": "Fruttaio di appassimento e bottaia sotterranea di affinamento; wine shop nella tinaia del 1700 [[6]]"
+    },
+    {
+     "etichetta": "Conduzione",
+     "valore": "Lavoro in vigna «rispettoso e sostenibile» (dichiarato dal sito) [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Amarone della Valpolicella Classico (anche Riserva), Recioto della Valpolicella Classico, Valpolicella Ripasso [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Vini dal percorso di degustazione e dalle pagine vini del sito; annate non indicate. [[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Campo del Maestro",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Campo Inferi",
+     "denominazione": "Amarone della Valpolicella Riserva DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Campo del Titari",
+     "denominazione": "Amarone della Valpolicella Riserva DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Armenzago",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "—"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti dichiarati dalla cantina",
+   "righe": [
+    {
+     "etichetta": "Amarone Classico DOCG 2016",
+     "valore": "Medaglia d’oro, Challenge International du Vin 2019 [[7]]"
+    }
+   ],
+   "nota": "Riconoscimenti dichiarati dalla cantina sul proprio sito. [[7]]"
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Estate: lunedì–venerdì 9–18, sabato 10–17, domenica (da aprile) 10–12.30. Inverno: lunedì–sabato 10–17 [[6]] [[5]]"
+    },
+    {
+     "etichetta": "Prenotazione",
+     "valore": "Wine shop e degustazione senza prenotazione; tour su prenotazione, scrivendo a info@brunelliwine.com [[6]]"
+    },
+    {
+     "etichetta": "Wine tour classico",
+     "valore": "Cantina, fruttaio e bottaia, con 6 vini (Carianum, Ripasso, Campo del Maestro, Campo Inferi, Campo del Titari, Recioto) con Parmigiano, salame e taralli; 1 h 30–1 h 40 [[6]]"
+    },
+    {
+     "etichetta": "Wine tour gourmet",
+     "valore": "Minimo 4 partecipanti: vigneti, fruttaio, fermentazione e cantina con prodotti locali; disponibile come gift card (novità 2026) [[6]]"
+    },
+    {
+     "etichetta": "Servizi",
+     "valore": "Agriturismo Corte Cariano [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "brunelliwine.com, in italiano, inglese e danese, con shop online [[5]] [[9]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Shop online con consegna [[10]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1030559836460094971|Mappa}} — valutazione 4,8 su 5 (204 recensioni) [[11]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[12]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «it/info/contatti».",
+   "url": "https://www.brunelliwine.com/it/info/contatti/",
+   "etichetta": "brunelliwine.com/it/info/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/la-storia».",
+   "url": "https://www.brunelliwine.com/it/la-storia/",
+   "etichetta": "brunelliwine.com/it/la-storia"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/la-famiglia».",
+   "url": "https://www.brunelliwine.com/it/la-famiglia/",
+   "etichetta": "brunelliwine.com/it/la-famiglia"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.brunelliwine.com/",
+   "etichetta": "brunelliwine.com"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/ospitalita».",
+   "url": "https://www.brunelliwine.com/it/ospitalita/",
+   "etichetta": "brunelliwine.com/it/ospitalita"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «dk/info/nyheder/amarone-classico-docg-2016-gold-medal-|-challenge-internationational-du-vin-2019».",
+   "url": "https://www.brunelliwine.com/dk/info/nyheder/amarone-classico-docg-2016-gold-medal-|-challenge-internationational-du-vin-2019/",
+   "etichetta": "brunelliwine.com/dk/info/nyheder/amarone-classico-docg-2016-gold-medal-|-challenge-internationational-du-vin-2019"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/agriturismo».",
+   "url": "https://www.brunelliwine.com/it/agriturismo/",
+   "etichetta": "brunelliwine.com/it/agriturismo"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «dk/shop».",
+   "url": "https://www.brunelliwine.com/dk/shop/",
+   "etichetta": "brunelliwine.com/dk/shop"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «dk/shop/wine-delivery».",
+   "url": "https://www.brunelliwine.com/dk/shop/wine-delivery/",
+   "etichetta": "brunelliwine.com/dk/shop/wine-delivery"
+  },
+  {
+   "n": 11,
+   "testo": "Scheda «Amarone Brunelli – Fine Wines & Amarone producer since 1936 - Wine Shop & Wine Tasting» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1030559836460094971",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 12,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

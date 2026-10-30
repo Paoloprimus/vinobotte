@@ -1,0 +1,114 @@
+{
+ "nome": "Camerani Marinella (Corte Sant'Alda)",
+ "slug": "camerani",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Camerani Marinella [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cà Fioi 1, 37030 Mezzane di Sotto (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 8880006 [[1]] [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@camerani.wine [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://camerani.wine/|camerani.wine}} — non raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non contiene l’elenco dei vini. [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Cà Fiui",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Articolo dal titolo “Amarone 2010 Tre Bicchieri” (2014) [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "camerani.wine, blog aziendale [[1]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=4694821205641443134|Mappa}} — valutazione 4,5 su 5 (22 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://camerani.wine/",
+   "etichetta": "camerani.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «2020/03/27/ca-fiui-2018-quando-il-valpolicella-dimostra-qua».",
+   "url": "https://camerani.wine/2020/03/27/ca-fiui-2018-quando-il-valpolicella-dimostra-quanto-vale/",
+   "etichetta": "camerani.wine/2020/03/27/ca-fiui-2018-quando-il-valpolicella-dimostra-quanto-vale"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «2014/09/25/amarone-2010-tre-bicchieri».",
+   "url": "https://camerani.wine/2014/09/25/amarone-2010-tre-bicchieri/",
+   "etichetta": "camerani.wine/2014/09/25/amarone-2010-tre-bicchieri"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Azienda Agricola Corte Sant'Alda» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=4694821205641443134",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

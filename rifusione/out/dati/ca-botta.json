@@ -1,0 +1,198 @@
+{
+ "nome": "Ca’ Botta",
+ "slug": "ca-botta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Ca’ Botta Società Agricola semplice [[1]]; nell’elenco del Consorzio: Ca' Botta Vini Soc. Agr. Semplice [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Cantina: via Caio, località Trezzolano, 37141 Verona [[3]] [[2]]. Ufficio commerciale: Via Cologne 9, 37023 Grezzana (VR) [[3]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Ufficio: tel. +39 045 98 28 75 · info@cabotta.it. Visite: +39 392 750 88 18 · tasting@cabotta.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cabotta.it/|www.cabotta.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Prima vendemmia nel 2009; grandi vini dal 2013; brevetto del «Fermentino Ca’Botta» concesso nel 2017; primo Metodo Classico nel 2025 [[4]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "Verona e Garda bresciano [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "25 ettari tra la Valpolicella (alta collina) e il Garda bresciano [[4]]"
+    },
+    {
+     "etichetta": "Cantina e fruttaio",
+     "valore": "Appassimento usato anche oltre l’Amarone; fermentazione e macerazione col sistema brevettato Fermentino Ca’Botta [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Amarone della Valpolicella DOCG, Valpolicella Ripasso DOC Superiore, Valpolicella DOC Superiore, Rosso Veronese IGT, Bianco Veronese IGT, Garda DOC e Benaco Bresciano IGT, Metodo Classico [[5]] [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Vini dallo shop e dai percorsi di degustazione; il sito indica le annate in vendita. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Cajo’ (Tenuta Cajo’)",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "2012, 2013, 2014, 2016"
+    },
+    {
+     "nome": "Pian di Mezzo",
+     "denominazione": "Amarone della Valpolicella DOCG Riserva",
+     "annata": "2013"
+    },
+    {
+     "nome": "Prometeo",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "2016"
+    },
+    {
+     "nome": "Costa Rossa",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "2011, 2014–2017"
+    },
+    {
+     "nome": "Torcinato",
+     "denominazione": "Valpolicella DOC Superiore",
+     "annata": "2014, 2018"
+    },
+    {
+     "nome": "Tenuta Soprazocco",
+     "denominazione": "Garda Riesling DOC",
+     "annata": "—"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti dichiarati dalla cantina",
+   "righe": [
+    {
+     "etichetta": "Rassegna",
+     "valore": "Il sito ha la pagina «Dicono di Ca’ Botta» con recensioni e riconoscimenti; il testo salvato non ne riporta il dettaglio [[4]]"
+    }
+   ],
+   "nota": "Riconoscimenti dichiarati dalla cantina sul proprio sito, non verificati da VinoBot sulle guide. [[4]]"
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Prenotazione",
+     "valore": "Solo su appuntamento: WhatsApp +39 392 750 88 18 o tasting@cabotta.it [[5]]"
+    },
+    {
+     "etichetta": "Degustazione Classica",
+     "valore": "25 €, 5 vini, 90 minuti [[5]]"
+    },
+    {
+     "etichetta": "Degustazione Superiore",
+     "valore": "30 €, 7 vini, 105 minuti [[5]]"
+    },
+    {
+     "etichetta": "Degustazione da Sommelier",
+     "valore": "35 €, 11 vini, 120 minuti [[5]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "A 20–25 minuti d’auto dal centro di Verona [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cabotta.it, con wine shop e catalogo [[1]] [[6]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Wine shop con prodotti e annate [[6]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Instagram @cabottavini e Facebook fb.com/cabottavini indicati dal sito; Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://cabotta.it/",
+   "etichetta": "cabotta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://cabotta.it/contatti/",
+   "etichetta": "cabotta.it/contatti"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «about-cabotta».",
+   "url": "https://cabotta.it/about-cabotta/",
+   "etichetta": "cabotta.it/about-cabotta"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «sala-degustazione-ca-botta».",
+   "url": "https://cabotta.it/sala-degustazione-ca-botta/",
+   "etichetta": "cabotta.it/sala-degustazione-ca-botta"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «cabotta-shop».",
+   "url": "https://cabotta.it/cabotta-shop/",
+   "etichetta": "cabotta.it/cabotta-shop"
+  }
+ ]
+}

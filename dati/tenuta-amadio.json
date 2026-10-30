@@ -1,0 +1,116 @@
+{
+ "nome": "Tenuta Amadio",
+ "slug": "tenuta-amadio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Amadio [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Longon, 74, 31010 Monfumo (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0423 560099 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutamadio.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.tenutamadio.com|www.tenutamadio.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Vini Asolo Montello [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[2]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via Longon, 74, 31010 Monfumo TV; tel. +39 0423 560099; info@tenutamadio.com; tenutamadio.com [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Asolo Prosecco Superiore DOCG; Prosecco DOC; Recantina Asolo Montello DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/tenutamadio|tenutamadio}}\nInstagram {{https://www.instagram.com/tenuta_amadio/|@tenuta_amadio}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=11482741475959948426|Mappa}} — valutazione 4,7 su 5 (49 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.tenutamadio.com",
+   "etichetta": "tenutamadio.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.tenutamadio.com",
+   "etichetta": "tenutamadio.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Tenuta Amadio - Asolo Prosecco DOCG» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=11482741475959948426",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

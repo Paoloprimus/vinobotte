@@ -1,0 +1,106 @@
+{
+ "nome": "Tenuta Della Casa",
+ "slug": "tenuta-della-casa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00877010322 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Novali 1, 34071 Cormons [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 339 6888362[[2]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutadellacasa.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutadellacasa.it/|tenutadellacasa.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Collio [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Collio",
+     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/people/Tenuta-Della-Casa/61550317223780|Tenuta-Della-Casa}}\nInstagram {{https://www.instagram.com/tenutadellacasa/|@tenutadellacasa}}\nLinkedIn {{https://www.linkedin.com/company/tenuta-della-casa|tenuta-della-casa}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: presenza non verificata\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=3184195300200911569|Mappa}} — valutazione 4,6 su 5 (64 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://tenutadellacasa.it/en/contact/",
+   "etichetta": "tenutadellacasa.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Collio, scheda della cantina nell’elenco dei produttori, consultata il 25 ottobre 2026.",
+   "url": "https://www.collio.it/cantina/tenuta-della-casa/",
+   "etichetta": "collio.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.tenutadellacasa.it/",
+   "etichetta": "tenutadellacasa.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Tenuta Della Casa | Azienda Agricola Barbieri Adele» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=3184195300200911569",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

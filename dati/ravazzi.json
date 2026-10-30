@@ -1,0 +1,123 @@
+{
+ "nome": "Ravazzi",
+ "slug": "ravazzi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00660910522 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via della Cantine, 4 - 53040 Palazzone - Sa [[1]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0578 56008 [[3]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ravazzi.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://ravazzi.it/|ravazzi.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti Classico; Brunello di Montalcino [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Chianti Classico; Vermentino; Sangiovese; Brunello di Montalcino [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Decanter oro (Vanitoso 2021), argento e bronzo 2024\nMundus Vini oro (Borioso, Iroso, 2021-2023) [[3]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Falstaff 94 punti (P64 Cabernet Sauvignon 2020 e P64 Sangiovese 2020), 90 punti (Vanitoso 2023)\nLuca Maroni, Migliori Vini d'Italia 2025 (Prezioso 99 punti) [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/ravazzi.it|ravazzi.it}}\nInstagram {{https://www.instagram.com/cantineravazzi/|@cantineravazzi}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16861777551461780050|Mappa}} — valutazione 4,9 su 5 (89 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://ravazzi.it/",
+   "etichetta": "ravazzi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 27 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/ravazzi/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://ravazzi.it/",
+   "etichetta": "ravazzi.it"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/cantine-ravazzi-s-n-c-di-ravazzi-alberto-c/",
+   "etichetta": "consorziovinochianti.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Ravazzi Cantine Snc» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16861777551461780050",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

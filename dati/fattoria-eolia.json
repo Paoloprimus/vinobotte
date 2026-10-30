@@ -1,0 +1,102 @@
+{
+ "nome": "Fattoria Eolia",
+ "slug": "fattoria-eolia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Fattoria Eolia [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via S. Giorgio, 7 - 35030 Rovolon (Padova) [[1]]"
+    },
+    {
+     "etichetta": "Ruolo nell’elenco del Consorzio",
+     "valore": "Coltivatore, Imbottigliatore, Produttore [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "049 5226214 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "g.zini@fattoriaeolia.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fattoriaeolia.com|www.fattoriaeolia.com}} — non raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini D.O.C. Colli Euganei [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Colli Euganei",
+     "valore": "Non indicato nella elenco dei produttori del Consorzio; non ancora raccolto dai siti delle cantine [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8134447438595842444|Mappa}} — valutazione 3,7 su 5 (9 recensioni) — Google la segnala come chiusa definitivamente [[2]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini D.O.C. Colli Euganei, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinieuganei.it/",
+   "etichetta": "consorziovinieuganei.it"
+  },
+  {
+   "n": 2,
+   "testo": "Scheda «Fattoria Eolia» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8134447438595842444",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

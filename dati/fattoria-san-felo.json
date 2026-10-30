@@ -1,0 +1,128 @@
+{
+ "nome": "Fattoria San Felo",
+ "slug": "fattoria-san-felo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "San Felo [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01258720539 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Pagliatelli Di Sotto Magliano in Toscana GR 58051 IT [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 05641950121 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fattoriasanfelo.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.fattoriasanfelo.com|fattoriasanfelo.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini della Maremma Toscana [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Morellino di Scansano DOCG; Maremma Toscana DOC [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Morellino di Scansano DOCG; Maremma Toscana DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Veronelli: Tre Stelle Oro 2023 [[4]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "James Suckling 92–94/100\nWinesCritic 93\nFalstaff 91 [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/fattoriasanfelo|fattoriasanfelo}}\nInstagram {{https://www.instagram.com/fattoriasanfelo/|@fattoriasanfelo}} [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://fattoriasanfelo.com/store/agriturismo-casaricci/|fattoriasanfelo.com/store/agriturismo-casaricci}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=4325409074045868662|Mappa}} — valutazione 5 su 5 (18 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.fattoriasanfelo.com",
+   "etichetta": "fattoriasanfelo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini della Maremma Toscana, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.aziendevinimaremma.it/directory/listing/fattoria-san-felo",
+   "etichetta": "aziendevinimaremma.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.fattoriasanfelo.com",
+   "etichetta": "fattoriasanfelo.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.fattoriasanfelo.com",
+   "etichetta": "fattoriasanfelo.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Fattoria San Felo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=4325409074045868662",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "nome": "Azienda Vitivinicola Ornella Bellia",
+ "slug": "azienda-vitivinicola-ornella-bellia-venezia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Roma, 117, 30020 Pramaggiore (VE) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0421200679; info@ornellabellia.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ornellabellia.it|ornellabellia.it}} [[1]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Lison DOCG», «Lison Pramaggiore DOC Riserva», «Venezia DOC» [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Lison",
+     "denominazione": "Lison DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "G1928 Refosco dal peduncolo rosso",
+     "denominazione": "Lison Pramaggiore DOC Riserva",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Manzoni Bianco",
+     "denominazione": "Venezia DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Pinot Grigio Rosato",
+     "denominazione": "Venezia DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Pinot Grigio Ramato",
+     "denominazione": "Venezia DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Venezia DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Pinot Nero",
+     "denominazione": "Venezia DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Carmenère",
+     "denominazione": "Venezia DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Chardonnay",
+     "denominazione": "Venezia DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Sauvignon Blanc",
+     "denominazione": "Venezia DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Merlot",
+     "denominazione": "Venezia DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Cabernet Sauvignon",
+     "denominazione": "Venezia DOC",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda della cantina su Bere il Vino e pagine dei vini del sito della cantina, consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-vitivinicola-ornella-bellia/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 25 ottobre 2026, pagina «ornellabellia.it».",
+   "url": "https://www.ornellabellia.it",
+   "etichetta": "ornellabellia.it"
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "nome": "Corte Bravi",
+ "slug": "corte-bravi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Corte Bravi S.S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04000780231 [[1]]"
+    },
+    {
+     "etichetta": "REA",
+     "valore": "VR-383691 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Case Sparse Vaioi 8, Gargagnago, 37015 Sant’Ambrogio di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 349 0884720 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cortebravi.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortebravi.com/|www.cortebravi.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fratelli Andrea e Ivano Brunelli; il padre acquista i terreni a Gargagnago nel 1990; Corte Bravi nasce nel 2011 [[3]]"
+    },
+    {
+     "etichetta": "Agricoltura",
+     "valore": "In certificazione biologica dal 2015, con preparati biodinamici; fermentazione spontanea, bassi solfiti, vini non filtrati [[3]]"
+    },
+    {
+     "etichetta": "Associazioni",
+     "valore": "Vinnatur dal 2019 [[3]]"
+    },
+    {
+     "etichetta": "Energia",
+     "valore": "Dal 2020 energia elettrica interamente da fonti rinnovabili [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Annate indicate dal sito. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC (biologico)",
+     "annata": "2024 [[4]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC (biologico)",
+     "annata": "2023 [[4]]"
+    },
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG (biologico)",
+     "annata": "2021 [[4]]"
+    },
+    {
+     "nome": "Recioto Tenero",
+     "denominazione": "Recioto della Valpolicella Classico DOCG (biologico)",
+     "annata": "2021 [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazione",
+     "valore": "Degustazione con vista in vigna e cantina [[5]]"
+    },
+    {
+     "etichetta": "Eventi",
+     "valore": "Partecipazione a VinNatur, B/Open, Borderwine e altri eventi [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortebravi.com, con blog eventi [[6]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2193000818962811064|Mappa}} — valutazione 4,9 su 5 (31 recensioni) [[7]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[8]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.cortebravi.com/contatti/",
+   "etichetta": "cortebravi.com/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "http://www.cortebravi.com/",
+   "etichetta": "cortebravi.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini».",
+   "url": "https://www.cortebravi.com/i-nostri-vini/",
+   "etichetta": "cortebravi.com/i-nostri-vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «degustazione-con-vista-in-vigna-e-cantina».",
+   "url": "https://www.cortebravi.com/degustazione-con-vista-in-vigna-e-cantina/",
+   "etichetta": "cortebravi.com/degustazione-con-vista-in-vigna-e-cantina"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «category/eventi».",
+   "url": "https://www.cortebravi.com/category/eventi/",
+   "etichetta": "cortebravi.com/category/eventi"
+  },
+  {
+   "n": 7,
+   "testo": "Scheda «Società Agricola CORTE BRAVI» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2193000818962811064",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 8,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

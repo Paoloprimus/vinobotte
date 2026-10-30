@@ -1,0 +1,149 @@
+{
+ "nome": "Bertani",
+ "slug": "bertani",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Angelini Wines & Estates Società Agricola Arl, che compare nel piè di pagina con sede legale in Via Roma 117, 60031 Castelplanio (AN); P.IVA 02555110424 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Asiago 1, 37023 Grezzana (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. cantina +39 045 8658444; punto vendita +39 045 8658474; bertani@bertani.net [[1]]"
+    },
+    {
+     "etichetta": "Orari punto vendita",
+     "valore": "Martedì–sabato 9.30–13.00 e 14.30–18.00; lunedì e domenica chiuso [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bertani.net/|bertani.net}} [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "1857: i fratelli Giovan Battista e Gaetano Bertani fondano la cantina in Valpantena; 1959 prima annata ufficiale dell’Amarone della Valpolicella Classico; 1997 Ognisanti, primo vino da vigneto singolo; 2019 progetto «Cru di Bertani» con la Tenuta Novare [[3]]"
+    },
+    {
+     "etichetta": "Proprietà",
+     "valore": "Il piè di pagina elenca Angelini Wines & Estates Società Agricola Arl (capitale sociale 70.000.000 €); la pagina non dice esplicitamente che ne sia la proprietaria [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dalla pagina «Wines», senza annate; esclusi i vini di altre denominazioni (Soave Classico, Soave, Lugana, Rosso Verona). [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Catullo",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella Valpantena",
+     "denominazione": "Amarone della Valpolicella Valpantena DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso Valpantena",
+     "denominazione": "Valpolicella Ripasso Valpantena DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Valpantena",
+     "denominazione": "Valpolicella Valpantena DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto della Valpolicella Valpantena",
+     "denominazione": "Recioto della Valpolicella Valpantena DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Le Miniere di Novare",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Ognisanti di Novare",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Prenotabili dal sito per la sede di Grezzana (sezione «Experiences»); orari e prezzi non indicati [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine del sito della cantina consultate dal vivo il 24 ottobre 2026 (home, About us, Wines, Contact). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «bertani.net/contact».",
+   "url": "https://www.bertani.net/contact/",
+   "etichetta": "bertani.net"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «bertani.net».",
+   "url": "https://www.bertani.net/",
+   "etichetta": "bertani.net"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «bertani.net/about-us».",
+   "url": "https://www.bertani.net/about-us/",
+   "etichetta": "bertani.net"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «bertani.net/wines».",
+   "url": "https://www.bertani.net/wines/",
+   "etichetta": "bertani.net"
+  }
+ ]
+}

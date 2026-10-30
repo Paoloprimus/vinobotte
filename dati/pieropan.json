@@ -1,0 +1,230 @@
+{
+ "nome": "Pieropan",
+ "slug": "pieropan",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Pieropan s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03777370234 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Sede storica e punto vendita: Palazzo Pullici, Via Giulio Camuzzoni 3, 37038 Soave (VR); cantina operativa: Via Matteotti, Soave; Villa Cipolla Wine Relais, Via Carlo Cipolla 31/33, Tregnago [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "045 6190171 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@pieropan.it\nvillacipolla@pieropan.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.pieropan.it/|www.pieropan.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata a Soave nel 1880 dal dottor Leonildo Pieropan; famiglia Pieropan [[4]]"
+    },
+    {
+     "etichetta": "Vigneto Valpolicella",
+     "valore": "Monte Garzon, Cellore d’Illasi; viticoltura biologica certificata; impianto del 2000 [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Soave e Recioto di Soave; la cantina produce anche Amarone e altri vini. Il sito rinvia alle schede per le annate. [[6]] Solo il vino a denominazione Valpolicella; la cantina produce soprattutto Soave. Il sito ha una pagina “Annate” per le vendemmie. [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Soave Classico",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Calvarino",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "La Rocca",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Le Colombare",
+     "denominazione": "Recioto di Soave Classico DOCG",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Vigna Garzon",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Articoli su premi (James Suckling per La Rocca, Best of Wine Tourism 2025)\nNessun premio riferito all’Amarone sul sito [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Esperienze in cantina a Soave, in villa a Tregnago, spazio meeting ed eventi [[12]] [[13]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "pieropan.it in italiano e inglese, con Wine Club [[14]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/pieropanwines/|@pieropanwines}}\nYouTube {{https://www.youtube.com/channel/UC8-Wn-GiRd10bKp0r6t8mew|canale UC8-Wn-GiRd10bKp0r6t8mew}}\nX {{https://x.com/pieropan_soave|@pieropan_soave}} [[15]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=3192886968765601119|Mappa}} — valutazione 4,7 su 5 (163 recensioni) [[16]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[17]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.pieropan.it/contatti",
+   "etichetta": "pieropan.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «famiglia/la-famiglia».",
+   "url": "https://www.pieropan.it/famiglia/la-famiglia",
+   "etichetta": "pieropan.it/famiglia/la-famiglia"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini/amarone-vigna-garzon».",
+   "url": "https://www.pieropan.it/vini/amarone-vigna-garzon",
+   "etichetta": "pieropan.it/vini/amarone-vigna-garzon"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://www.pieropan.it/vini",
+   "etichetta": "pieropan.it/vini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «vini/soave-classico».",
+   "url": "https://www.pieropan.it/vini/soave-classico",
+   "etichetta": "pieropan.it/vini/soave-classico"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «vini/calvarino».",
+   "url": "https://www.pieropan.it/vini/calvarino",
+   "etichetta": "pieropan.it/vini/calvarino"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «vini/la-rocca».",
+   "url": "https://www.pieropan.it/vini/la-rocca",
+   "etichetta": "pieropan.it/vini/la-rocca"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «vini/le-colombare».",
+   "url": "https://www.pieropan.it/vini/le-colombare",
+   "etichetta": "pieropan.it/vini/le-colombare"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «blog/best-of-wine-tourism».",
+   "url": "https://www.pieropan.it/blog/best-of-wine-tourism",
+   "etichetta": "pieropan.it/blog/best-of-wine-tourism"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «esperienze».",
+   "url": "https://www.pieropan.it/esperienze",
+   "etichetta": "pieropan.it/esperienze"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «esperienze/esperienze-in-villa».",
+   "url": "https://www.pieropan.it/esperienze/esperienze-in-villa",
+   "etichetta": "pieropan.it/esperienze/esperienze-in-villa"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.pieropan.it/",
+   "etichetta": "pieropan.it"
+  },
+  {
+   "n": 15,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.pieropan.it/",
+   "etichetta": "pieropan.it"
+  },
+  {
+   "n": 16,
+   "testo": "Scheda «Società Agricola Pieropan di Leonildo Pieropan & C. S.S.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=3192886968765601119",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 17,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

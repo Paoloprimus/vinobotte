@@ -1,0 +1,115 @@
+{
+ "nome": "Biscardo Vini",
+ "slug": "biscardo-vini-soave",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Biscardo Vini / Mabis S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Ceola 20, 37047 San Bonifacio (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Informazioni su ordini e spedizioni: 800 684 850; informazioni sulla cantina (degustazioni, orari, consigli): +39 0458 538 052 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.biscardovini.com/|www.biscardovini.com}} [[1]]; negozio online {{https://shop.biscardovini.com/|shop.biscardovini.com}} [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[4]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Valpolicella: {{/pagine/biscardo-vini.html|scheda Valpolicella}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda vinicola fondata nel 1878 come negozianti veronesi di vino; si sviluppa nei primi decenni del Novecento con Terenzio Biscardo; negli anni Trenta e Quaranta si espande nel mercato italiano e inizia le esportazioni (Svizzera, Inghilterra, Germania); negli anni Cinquanta, con Luigi Biscardo, diventa una delle più importanti della regione; oggi ancora della famiglia Biscardo [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo il vino a denominazione Soave; il negozio online vende anche vini Valpolicella, Lugana, Custoza, Prosecco e IGT. La pagina del vino non è nel testo salvato; il titolo è quello dell’elenco prodotti. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "San Lorenzo",
+     "denominazione": "Soave DOC Classico",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle pagine del negozio online salvate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Vendita online",
+     "valore": "Negozio online con spedizione gratuita da 89 €, altrimenti 7,90 € [[3]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza su marketplace non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito della cantina; elenco del consorzio consultato dal vivo). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contact».",
+   "url": "https://shop.biscardovini.com/it/contact",
+   "etichetta": "shop.biscardovini.com/it/contact"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-nostri-vini».",
+   "url": "https://shop.biscardovini.com/it/i-nostri-vini",
+   "etichetta": "shop.biscardovini.com/it/i-nostri-vini"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/cantina».",
+   "url": "https://shop.biscardovini.com/it/cantina",
+   "etichetta": "shop.biscardovini.com/it/cantina"
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "nome": "Stomennano",
+ "slug": "stomennano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Borgo Stomennano S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01511590521 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Stomennano, Monteriggioni 53035 Siena [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3388240536 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@stomennano.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.stomennano.it|stomennano.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Vino Chianti Classico [[2]]\nConsorzio Chianti Colli Senesi [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il borgo compare nei documenti scritti nel 1059. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/stomennano|stomennano}}\nInstagram {{https://www.instagram.com/borgostomennano/|@borgostomennano}} [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://stomennano.it/chianti-classico/shop/|stomennano.it/chianti-classico/shop}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.stomennano.it",
+   "etichetta": "stomennano.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Vino Chianti Classico, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.chianticlassico.com/aziende/stomennano/",
+   "etichetta": "chianticlassico.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Chianti Colli Senesi, elenco delle aziende e dei produttori, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziochianticollisenesi.it/aziende-e-produttori/",
+   "etichetta": "consorziochianticollisenesi.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.stomennano.it",
+   "etichetta": "stomennano.it"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

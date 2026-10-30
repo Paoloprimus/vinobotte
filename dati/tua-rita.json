@@ -1,0 +1,68 @@
+{
+ "nome": "Tua Rita",
+ "slug": "tua-rita",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01475690499 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Notri 81, 57028 Suvereto, LI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0565 829237 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tuarita.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://accoglienza.tuarita.it/|accoglienza.tuarita.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela DOP Suvereto e Val di Cornia Wine [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/TuaRitaWinery|facebook.com/TuaRitaWinery}}\nInstagram {{https://www.instagram.com/tua_rita/|instagram.com/tua_rita}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://accoglienza.tuarita.it/",
+   "etichetta": "accoglienza.tuarita.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle cantine del Consorzio di tutela DOP Suvereto e Val di Cornia Wine, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.suveretowine.com/cantina-suvereto/tua-rita/",
+   "etichetta": "suveretowine.com"
+  }
+ ]
+}

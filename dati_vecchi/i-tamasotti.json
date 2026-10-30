@@ -1,0 +1,144 @@
+{
+ "nome": "I Tamasotti",
+ "slug": "i-tamasotti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola I Tamasotti s.s. di Brusco Giacomo (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03509420158 [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 340 267 8144 · info@itamasotti.it [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via dei Ciliegi 10, 37030 Mezzane di Sotto (VR) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.itamasotti.it/|www.itamasotti.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Brusco; relais con poche camere in sette ettari di ulivi, vigne, ciliegi e bosco nella Val di Mezzane [[2]] [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Corvina, Corvinone, Rondinella e Oseleta; vendemmia a mano [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Soave Biologico",
+     "denominazione": "Soave DOC biologico",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Relais",
+     "valore": "Camere, cucina e colazione con marmellate fatte in casa; prenotazione diretta [[4]] [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "itamasotti.it, in italiano e inglese, con galleria [[6]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://itamasotti.it/",
+   "etichetta": "itamasotti.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/azienda».",
+   "url": "https://itamasotti.it/it/azienda",
+   "etichetta": "itamasotti.it/it/azienda"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/camere».",
+   "url": "https://itamasotti.it/it/camere",
+   "etichetta": "itamasotti.it/it/camere"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/cucina».",
+   "url": "https://itamasotti.it/it/cucina",
+   "etichetta": "itamasotti.it/it/cucina"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/gallery».",
+   "url": "https://itamasotti.it/it/gallery",
+   "etichetta": "itamasotti.it/it/gallery"
+  }
+ ]
+}

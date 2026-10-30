@@ -1,0 +1,98 @@
+{
+ "nome": "Tenuta Vasal",
+ "slug": "tenuta-vasal",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Vasal di Alessio Filippi (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04887110239 [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 351 5345685 · alessio@tenutavasal.it [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Vasal 1/A, 37030 Mezzane di Sotto (VR) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutavasal.it/|www.tenutavasal.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina sulla collina della val di Mezzane che produce vini naturali; vigneti dichiarati secolari [[2]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Vigneti e olivi nella corte di collina a Mezzane di Sotto; dichiarata assenza di pesticidi e diserbanti [[2]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Il sito non pubblica l’elenco dei vini con denominazione e annata; prodotti su richiesta tramite modulo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Richiesta informazioni e ordini tramite modulo sul sito; marketplace: presenza non verificata [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.tenutavasal.it/",
+   "etichetta": "tenutavasal.it"
+  }
+ ]
+}

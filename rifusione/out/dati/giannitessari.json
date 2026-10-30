@@ -1,0 +1,166 @@
+{
+ "nome": "Giannitessari",
+ "slug": "giannitessari",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Giannitessari [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Prandi 10, 37030 Roncà (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 746007; +39 045 7461003 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://giannitessari.wine|giannitessari.wine}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina Giannitessari avviata nel 2013 da Gianni Tessari e famiglia a Roncà (Valle d’Alpone); operatore indicato nel piè di pagina: E.I.B. Enology International Business srl [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Soave; il sito non riporta le annate. [[3]] Elenco dei vini a denominazione Lessini Durello (Monti Lessini) letto nelle pagine della cantina; le annate non sono indicate.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Soave",
+     "denominazione": "Soave DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Scalette",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Perinato",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Lessini Durello Brut (36 mesi)",
+     "denominazione": "Lessini Durello",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Lessini Durello Extra Brut (60 mesi)",
+     "denominazione": "Lessini Durello",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Lessini Durello Dosaggio Zero (120 mesi)",
+     "denominazione": "Lessini Durello",
+     "annata": "— [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Il sito dice che i vini hanno vinto premi internazionali senza indicare quali; la pagina dei riconoscimenti non è stata letta [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/giannitessari/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «giannitessari.wine».",
+   "url": "http://giannitessari.wine",
+   "etichetta": "giannitessari.wine"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «giannitessari.wine/i-vini/soave-doc».",
+   "url": "https://giannitessari.wine/i-vini/soave-doc/",
+   "etichetta": "giannitessari.wine"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «giannitessari.wine/i-vini/monte-tenda-soave-classico-doc».",
+   "url": "https://giannitessari.wine/i-vini/monte-tenda-soave-classico-doc/",
+   "etichetta": "giannitessari.wine"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «giannitessari.wine/i-vini/pigno-soave-classico-doc».",
+   "url": "https://giannitessari.wine/i-vini/pigno-soave-classico-doc/",
+   "etichetta": "giannitessari.wine"
+  },
+  {
+   "n": 7,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «giannitessari.wine/i-vini/lessini-durello-36-mesi».",
+   "url": "https://giannitessari.wine/i-vini/lessini-durello-36-mesi/",
+   "etichetta": "giannitessari.wine"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «giannitessari.wine/i-vini/lessini-durello-60-mesi».",
+   "url": "https://giannitessari.wine/i-vini/lessini-durello-60-mesi/",
+   "etichetta": "giannitessari.wine"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «giannitessari.wine/i-vini/lessini-durello-120-mesi».",
+   "url": "https://giannitessari.wine/i-vini/lessini-durello-120-mesi/",
+   "etichetta": "giannitessari.wine"
+  }
+ ]
+}

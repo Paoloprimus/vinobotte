@@ -1,0 +1,172 @@
+{
+ "nome": "Manara",
+ "slug": "manara",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Manara Soc. Agr. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Don Cesare Biasi 53, San Floriano, 37029 San Pietro in Cariano (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7701086 · info@manaravini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.manaravini.it/|www.manaravini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "A San Floriano dal 1950; Guido Manara fino al 1993, poi i figli Lorenzo e Fabio e, con l’ingresso di Giovanni, i tre fratelli; quarta generazione in ingresso [[3]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Filiera gestita interamente dalla famiglia; uve di zone diverse vinificate separatamente [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Corte Manara",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Postera",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Le Morete",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Vecio Belo",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Val Polesela",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "El Rocolo",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Moronalto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Orario lunedì–sabato 8:00–12:00 e 14:00–19:00; domenica chiuso; i clienti sono invitati a visitare azienda e vigneti [[2]] [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "manaravini.it con scheda per ogni vino [[4]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it-IT/contacts».",
+   "url": "https://www.manaravini.it/it-IT/contacts",
+   "etichetta": "manaravini.it/it-IT/contacts"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it-IT/about».",
+   "url": "https://www.manaravini.it/it-IT/about",
+   "etichetta": "manaravini.it/it-IT/about"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it-IT/index».",
+   "url": "https://www.manaravini.it/it-IT/index",
+   "etichetta": "manaravini.it/it-IT/index"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it-IT/corte-manara».",
+   "url": "https://www.manaravini.it/it-IT/corte-manara",
+   "etichetta": "manaravini.it/it-IT/corte-manara"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it-IT/le-morete».",
+   "url": "https://www.manaravini.it/it-IT/le-morete",
+   "etichetta": "manaravini.it/it-IT/le-morete"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it-IT/el-rocolo».",
+   "url": "https://www.manaravini.it/it-IT/el-rocolo",
+   "etichetta": "manaravini.it/it-IT/el-rocolo"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it-IT/moronalto».",
+   "url": "https://www.manaravini.it/it-IT/moronalto",
+   "etichetta": "manaravini.it/it-IT/moronalto"
+  }
+ ]
+}

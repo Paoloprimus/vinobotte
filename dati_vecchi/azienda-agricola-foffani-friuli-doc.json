@@ -1,0 +1,115 @@
+{
+ "nome": "Azienda Agricola Foffani",
+ "slug": "azienda-agricola-foffani-friuli-doc",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Claviano - Piazza Giulia 13/14, 33050 Trivignano Udinese [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0432999584; foffani@foffani.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.foffani.it|foffani.it}} [[1]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «DOC Friuli», «DOC Friuli Aquileia» [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione. Altri vini del sito, senza denominazione chiara, non inclusi: Merlot Bianco [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio di colore ramato",
+     "denominazione": "DOC Friuli",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Sauvignon Superiore",
+     "denominazione": "DOC Friuli Aquileia",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Pinot Grigio Superiore",
+     "denominazione": "DOC Friuli Aquileia",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Friulano",
+     "denominazione": "DOC Friuli Aquileia",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Refosco dal Peduncolo Rosso",
+     "denominazione": "DOC Friuli Aquileia",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Merlot",
+     "denominazione": "DOC Friuli Aquileia",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Merlot Riserva (1789)",
+     "denominazione": "DOC Friuli Aquileia",
+     "annata": "2021 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda della cantina su Bere il Vino e pagine dei vini del sito della cantina, consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-foffani/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 25 ottobre 2026, pagina «foffani.it/schede-prodotto-vini-foffani».",
+   "url": "https://foffani.it/schede-prodotto-vini-foffani/",
+   "etichetta": "foffani.it"
+  }
+ ]
+}

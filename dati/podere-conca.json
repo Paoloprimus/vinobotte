@@ -1,0 +1,128 @@
+{
+ "nome": "Podere Conca",
+ "slug": "podere-conca",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Podere Conca Bolgheri [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01822350490 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Bolgherese 196 57022 Castagneto Carducci [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3240957941 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@podereconcabolgheri.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.podereconcabolgheri.it|podereconcabolgheri.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nel 2015 impiantati 0,2 ettari di Cabernet Franc. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Bolgheri Bianco DOC [[4]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Bolgheri DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/podereconcabolgheriwinery|podereconcabolgheriwinery}}\nInstagram {{https://www.instagram.com/podereconca_bolgheri/|@podereconca_bolgheri}}\nYouTube {{https://www.youtube.com/channel/UCBlDL3nkcZg5RlfnknZyM0A|canale UCBlDL3nkcZg5RlfnknZyM0A}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=9522163072572928318|Mappa}} — valutazione 4,8 su 5 (17 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.podereconcabolgheri.it",
+   "etichetta": "podereconcabolgheri.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia, scheda del consorziato, consultato il 26 ottobre 2026.",
+   "url": "https://www.bolgheridoc.com/consorziati/podere-conca/",
+   "etichetta": "bolgheridoc.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.podereconcabolgheri.it",
+   "etichetta": "podereconcabolgheri.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.podereconcabolgheri.it",
+   "etichetta": "podereconcabolgheri.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Podere Conca 196» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=9522163072572928318",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

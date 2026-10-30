@@ -1,0 +1,112 @@
+{
+ "nome": "Tenuta Villa Trasqua",
+ "slug": "tenuta-villa-trasqua",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Villa Trasqua S.R.L. Soc. Agr. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00742700529 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Trasqua, Castellina in Chianti 53011 Siena [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577743075 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@villatrasqua.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.villatrasqua.it|villatrasqua.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti Classico [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Prima menzione ufficiale nel 1001, quando la contessa Ava concesse le terre al nascente convento benedettino di Abbadia Isola. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Chianti Classico DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=10439094505847918182|Mappa}} — valutazione 4,8 su 5 (66 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.villatrasqua.it",
+   "etichetta": "villatrasqua.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Vino Chianti Classico, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.chianticlassico.com/aziende/villa-trasqua/",
+   "etichetta": "chianticlassico.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Tenuta Villa Trasqua» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=10439094505847918182",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

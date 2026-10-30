@@ -1,0 +1,255 @@
+{
+ "nome": "Benedetti La Villa",
+ "slug": "benedetti-la-villa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Benedetti Adriano La Villa di Benedetti Matteo e Simone S.S. [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Villa 2, 37024 Negrar di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. e fax +39 045 7500949 · vini.benedettilavilla@benedettilavilla.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.benedettilavilla.it/|www.benedettilavilla.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Azienda a conduzione interamente familiare, quarta generazione: Simone e Matteo Benedetti; il padre Adriano è ricordato dal sito [[3]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Il bisnonno coltiva viti qui alla fine dell’Ottocento; «La Villa» sorge sulle fondamenta di una villa romana (III–IV secolo d.C.) ritrovata nel 1887; accordo di partenariato con la Soprintendenza archeologica sottoscritto nel 2021 [[4]] [[3]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "Comune di Negrar di Valpolicella, Valpolicella Classica [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "Nei poderi «La Permuta» e «Le Cortesele», a Negrar, su un dosso di collina con terrazzamenti e muri a secco [[3]]"
+    },
+    {
+     "etichetta": "Conduzione",
+     "valore": "Senza diserbanti chimici [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Grappa di Amarone invecchiata e grappa di Amarone Mosaico [[5]] [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette come indicate sul sito della cantina, che non riporta le annate in vendita. [[7]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Amarone Mosaico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Amarone Copernicum",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Amarone La Permuta",
+     "denominazione": "Amarone della Valpolicella Classico DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Recioto Copernicum",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Recioto La Permuta",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Copernicum",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Copernicum Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Mosaico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Le Cortesele",
+     "denominazione": "Valpolicella Classico Superiore Ripasso DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Copernicum Ripasso",
+     "denominazione": "Valpolicella Classico Superiore Ripasso DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Mosaico Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "—"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Prenotazione",
+     "valore": "Visite e degustazioni solo su prenotazione [[8]]"
+    },
+    {
+     "etichetta": "Degustazione 6 vini",
+     "valore": "Visita della cantina; 6 vini (Jol, Valpolicella Superiore, Ripasso Le Cortesele, Amicus, Amarone, Recioto La Permuta) con salumi e formaggi tipici; circa 2 ore [[8]]"
+    },
+    {
+     "etichetta": "Degustazione con sito archeologico",
+     "valore": "Come sopra, con visita al sito archeologico «La Villa dei Mosaici»; circa 2 ore [[8]]"
+    },
+    {
+     "etichetta": "Degustazione linea Mosaici",
+     "valore": "Visita della cantina e del sito archeologico, 4 vini (Amarone, Ripasso Le Cortesele, Superiore, Musivo); circa 2 ore [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "benedettilavilla.it, con una pagina per vino e pagina su visite e degustazioni [[9]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Il sito non mostra un negozio online [[7]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.benedettilavilla.it/contatti/",
+   "etichetta": "benedettilavilla.it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «storia-di-famiglia».",
+   "url": "https://www.benedettilavilla.it/storia-di-famiglia/",
+   "etichetta": "benedettilavilla.it/storia-di-famiglia"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «un-antica-storia-di-vini».",
+   "url": "https://www.benedettilavilla.it/un-antica-storia-di-vini/",
+   "etichetta": "benedettilavilla.it/un-antica-storia-di-vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «grappa-di-amarone-invecchiata».",
+   "url": "https://www.benedettilavilla.it/grappa-di-amarone-invecchiata/",
+   "etichetta": "benedettilavilla.it/grappa-di-amarone-invecchiata"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «grappa-di-amarone-mosaico».",
+   "url": "https://www.benedettilavilla.it/grappa-di-amarone-mosaico/",
+   "etichetta": "benedettilavilla.it/grappa-di-amarone-mosaico"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti».",
+   "url": "https://www.benedettilavilla.it/prodotti/",
+   "etichetta": "benedettilavilla.it/prodotti"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «visite-e-degustazione».",
+   "url": "https://www.benedettilavilla.it/visite-e-degustazione/",
+   "etichetta": "benedettilavilla.it/visite-e-degustazione"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.benedettilavilla.it/",
+   "etichetta": "benedettilavilla.it"
+  }
+ ]
+}

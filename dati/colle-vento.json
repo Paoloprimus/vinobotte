@@ -1,0 +1,72 @@
+{
+ "nome": "Colle Vento",
+ "slug": "colle-vento",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola L & Fam. di Govi Luca s.s.a. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01929210498 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Debbione 211, 57028 Suvereto, LI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 370 3684164 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@agriturismocollevento.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://agriturismocollevento.it/|agriturismocollevento.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela DOP Suvereto e Val di Cornia Wine [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/agriturismocollevento|facebook.com/agriturismocollevento}}\nInstagram {{https://www.instagram.com/agriturismocollevento|instagram.com/agriturismocollevento}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://agriturismocollevento.it/",
+   "etichetta": "agriturismocollevento.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle cantine del Consorzio di tutela DOP Suvereto e Val di Cornia Wine, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.suveretowine.com/cantina-suvereto/colle-vento/",
+   "etichetta": "suveretowine.com"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "nome": "El Vegro",
+ "slug": "el-vegro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. El Vegro di Bonomi Vittorino [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Santa Croce 105, 37032 Monteforte d'Alpone (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "045 6100807 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.elvegro.it|elvegro.it}} — non raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda a conduzione familiare sul Monte Foscarino, nella zona classica del Soave; la famiglia coltiva uve da tre generazioni e da poco produce vino direttamente [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Soave e Recioto di Soave; il sito non indica pagine dei singoli vini né annate. [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "El Vegro",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Vigne delle Fate",
+     "denominazione": "Recioto di Soave Classico DOCG",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "X {{https://x.com/account|@account}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12418918133851020866|Mappa}} — valutazione 5 su 5 (5 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/el-vegro-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «elvegro.it», consultata il 24 ottobre 2026.",
+   "url": "http://www.elvegro.it",
+   "etichetta": "elvegro.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.elvegro.it",
+   "etichetta": "elvegro.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Azienda Agricola El Vegro» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12418918133851020866",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "nome": "Tenuta Ninemore",
+ "slug": "tenuta-ninemore",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Ninemore [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Faè, 2/A, 31020 Refrontolo (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+393468608825 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "tenutaninemore@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.tenutaninemore.com|www.tenutaninemore.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia con oltre tre generazioni di viticoltura a Conegliano-Valdobbiadene. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: brut, extra dry, sui lieviti [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "Vendita al dettaglio; Visita e degustazione [[1]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fino a 150.000 bottiglie [[1]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "SQNPI [[1]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/tenuta_ninemore/|@tenuta_ninemore}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=10346516208552642461|Mappa}} — valutazione 5 su 5 (2 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/tenuta-ninemore/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.tenutaninemore.com",
+   "etichetta": "tenutaninemore.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Tenuta Ninemore - Azienda Agricola Viticola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=10346516208552642461",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

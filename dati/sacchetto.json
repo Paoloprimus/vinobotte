@@ -1,0 +1,106 @@
+{
+ "nome": "Sacchetto",
+ "slug": "sacchetto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Sacchetto Vini srl [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Roma 44, 35010 Trebaseleghe (PD) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 049 9385023 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "mail@sacchettovini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.sacchettovini.it/|www.sacchettovini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Prosecco DOC",
+     "valore": "Non indicato nella mappa dei produttori del Consorzio; non ancora raccolto dai siti delle cantine [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Mundus Vini Summer Tasting: medaglie d’argento a più vini [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/SacchettoVini1920|SacchettoVini1920}}\nInstagram {{https://www.instagram.com/sacchettovini/|@sacchettovini}}\nYouTube {{https://www.youtube.com/channel/UCSilTj2BTv8fdPo7woIS3yw/feed|canale UCSilTj2BTv8fdPo7woIS3yw}}\nX {{https://x.com/sacchettovini|@sacchettovini}}\nLinkedIn {{https://www.linkedin.com/company/sacchetto-srl|sacchetto-srl}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=17200858027472348282|Mappa}} — valutazione 4,5 su 5 (53 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/cantine-sacchetto/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.sacchettovini.it/",
+   "etichetta": "sacchettovini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Sacchetto S.R.L.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=17200858027472348282",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "nome": "Flatìo",
+ "slug": "flatio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Flatio di Fraccaroli Flavio (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03997160233 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Cariano 20, 37029 San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 346 0138025 · 045 7702230 · +39 340 2596972 · fraccawine@libero.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.flatiowine.it/|www.flatiowine.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Fraccaroli, detta “Matìo”: dal 1946 con il nonno Giovanni; poi Mario e Teodora; dal 2010 Flavio, con il padre Mario e la sorella Daniela [[2]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "8 ettari tra Valpolicella e Bardolino (San Pietro, Fumane, Traversagna), a pergola veronese; vendemmia a mano [[2]] [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito dichiara 7 etichette classiche; annate non indicate. [[3]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone Mario",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Degustazioni e visite in cantina su prenotazione; partecipazione a Cantine Aperte 30–31 maggio 2026 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "flatiowine.it con news [[2]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/about».",
+   "url": "https://flatiowine.it/it/about",
+   "etichetta": "flatiowine.it/it/about"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.flatiowine.it/",
+   "etichetta": "flatiowine.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/wines/amarone-della-valpolicella-classico-flatio-wine-19».",
+   "url": "https://flatiowine.it/it/wines/amarone-della-valpolicella-classico-flatio-wine-19",
+   "etichetta": "flatiowine.it/it/wines/amarone-della-valpolicella-classico-flatio-wine-19"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/wines/amarone-della-valpolicella-mario-flatio-wein-20».",
+   "url": "https://flatiowine.it/it/wines/amarone-della-valpolicella-mario-flatio-wein-20",
+   "etichetta": "flatiowine.it/it/wines/amarone-della-valpolicella-mario-flatio-wein-20"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/wines/recioto-della-valpolicella-flatio-wein-21».",
+   "url": "https://flatiowine.it/it/wines/recioto-della-valpolicella-flatio-wein-21",
+   "etichetta": "flatiowine.it/it/wines/recioto-della-valpolicella-flatio-wein-21"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/wines/valpolicella-ripasso-flatio-wine-15».",
+   "url": "https://flatiowine.it/it/wines/valpolicella-ripasso-flatio-wine-15",
+   "etichetta": "flatiowine.it/it/wines/valpolicella-ripasso-flatio-wine-15"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/wines/valpolicella-classico-superiore-flatio-wine-13».",
+   "url": "https://flatiowine.it/it/wines/valpolicella-classico-superiore-flatio-wine-13",
+   "etichetta": "flatiowine.it/it/wines/valpolicella-classico-superiore-flatio-wine-13"
+  }
+ ]
+}

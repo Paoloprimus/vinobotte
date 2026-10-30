@@ -1,0 +1,137 @@
+{
+ "nome": "Pizzolato",
+ "slug": "pizzolato",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Cantina Pizzolato Srl [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Iv Novembre, 12, 31020, Villorba (Tv) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0422 928166 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lacantinapizzolato.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://lacantinapizzolato.com/|lacantinapizzolato.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Vini Venezia [[4]]"
+    },
+    {
+     "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
+     "valore": "Via IV Novembre, 12, 31020 Villorba (TV); tel. 0422928166; welcome@lacantinapizzolato.com; https://www.lacantinapizzolato.com/ [[3]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
+     "valore": "31020 Villorba; welcome@lacantinapizzolato.com; denominazioni: Piave, Venezia, Malanotte [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: brut, extra dry [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "E-commerce; Vendita al dettaglio [[3]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fino a 150.000 bottiglie [[3]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "Biologico [[3]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese, Spagnolo [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2400217674431592360|Mappa}} — valutazione 4,7 su 5 (156 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 29 ottobre 2026.",
+   "url": "https://lacantinapizzolato.com/",
+   "etichetta": "lacantinapizzolato.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/la-cantina-pizzolato/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «La Cantina Pizzolato - Organic Wine Experience» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2400217674431592360",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

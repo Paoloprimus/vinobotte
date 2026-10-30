@@ -1,0 +1,157 @@
+{
+ "nome": "Ca' del Sette",
+ "slug": "ca-del-sette",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Ca' del Sette Srlu (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Calderina 11, 36053 Gambellara (VI) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 346 107 6202 · info@cadelsette.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cadelsette.it/|www.cadelsette.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda familiare con radici nel 1865, cinque generazioni; guidata da Matteo Pontalto [[3]]"
+    },
+    {
+     "etichetta": "Struttura",
+     "valore": "Impianti con laboratorio interno; gestisce sia grandi volumi sia produzioni di nicchia [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Tra Verona, Padova e Vicenza, circa 4.000 viti per ettaro, vigneti oltre i 40 anni [[3]]"
+    },
+    {
+     "etichetta": "Servizi",
+     "valore": "Lavorazione conto terzi e rete d’impresa per piccoli produttori [[4]]"
+    },
+    {
+     "etichetta": "Sostenibilità",
+     "valore": "Dichiara premio “Oasis Ambiente per la Sostenibilità” 2017 per l’impianto di fitodepurazione [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Categorie",
+     "valore": "Vini bianchi, dolci, frizzanti e spumanti, rosati, rossi; NoWine, spirits (grappe, gin, bitter) [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco parziale dalla pagina prodotti; il sito non riporta le annate. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone 1944 M.C. (Linea Appassionante)",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina, oltre al premio per la sostenibilità citato sopra [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì 8–12 e 14–18 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cadelsette.it con shop [[7]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.cadelsette.it/contatti/",
+   "etichetta": "cadelsette.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://www.cadelsette.it/chi-siamo/",
+   "etichetta": "cadelsette.it/chi-siamo"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «conto-lavorazione».",
+   "url": "https://www.cadelsette.it/conto-lavorazione/",
+   "etichetta": "cadelsette.it/conto-lavorazione"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/prodotti».",
+   "url": "https://www.cadelsette.it/it/prodotti/",
+   "etichetta": "cadelsette.it/it/prodotti"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «product/amarone-1944-m-c-linea-appassionante».",
+   "url": "https://www.cadelsette.it/product/amarone-1944-m-c-linea-appassionante/",
+   "etichetta": "cadelsette.it/product/amarone-1944-m-c-linea-appassionante"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «shop».",
+   "url": "https://www.cadelsette.it/shop/",
+   "etichetta": "cadelsette.it/shop"
+  }
+ ]
+}

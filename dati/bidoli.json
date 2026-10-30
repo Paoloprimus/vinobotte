@@ -1,0 +1,115 @@
+{
+ "nome": "Bidoli",
+ "slug": "bidoli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fornace, 19 - 33030 Rive D’Arcano (UD) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0432 810796 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bidolivini.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://bidolivini.com|bidolivini.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Tradizione di vinificazione che il sito fa risalire al 1924, con il cavalier Alessandro Bidoli. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot Grigio Ramato",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Gambero Rosso: 2 Bicchieri a più vini (annata 2024) [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/vinibidoli|vinibidoli}}\nInstagram {{https://www.instagram.com/bidolivini/|@bidolivini}} [[2]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.bidolivini.com/store/_it/|bidolivini.com/store/_it}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1865443580960949451|Mappa}} — valutazione 4,8 su 5 (48 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://bidolivini.com",
+   "etichetta": "bidolivini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Bidoli Vini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1865443580960949451",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

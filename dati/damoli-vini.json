@@ -1,0 +1,167 @@
+{
+ "nome": "Damoli Vini",
+ "slug": "damoli-vini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Damoli Bruno s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "05138080238 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Jago di Mezzo 5, 37024 Negrar di Valpolicella (VR) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "Lara +39 340 8762680\nDaniele +39 349 6032675 [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@damolivini.com [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.damolivini.com/|www.damolivini.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Viticoltori da generazioni nella Valpolicella Classica; Bruno Damoli gestisce l’azienda con i figli Daniele (enologo) e Lara (commerciale); la data 1623 è incisa sulla casa di famiglia a Jago [[4]] [[5]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "In collina e alta collina, tra 200 e 500 m s.l.m. [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Checo",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Giago",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Volavìa",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "1623",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Dal lunedì al sabato, su prenotazione; vendita diretta [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "damolivini.com, in italiano e inglese, con pagina “Come acquistare” [[6]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook\nInstagram [[3]]\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2660656031620412591|Mappa}} — valutazione 5 su 5 (100 recensioni) [[7]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[8]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «damolivini.com», consultata il 25 ottobre 2026.",
+   "url": "https://www.damolivini.com/",
+   "etichetta": "damolivini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.damolivini.com/contatti",
+   "etichetta": "damolivini.com/contatti"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://www.damolivini.com/chi-siamo",
+   "etichetta": "damolivini.com/chi-siamo"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini».",
+   "url": "https://www.damolivini.com/i-nostri-vini",
+   "etichetta": "damolivini.com/i-nostri-vini"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «come-acquistare».",
+   "url": "https://www.damolivini.com/come-acquistare/",
+   "etichetta": "damolivini.com/come-acquistare"
+  },
+  {
+   "n": 7,
+   "testo": "Scheda «Damoli Bruno Azienda Agricola - Damoli Vini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2660656031620412591",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 8,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

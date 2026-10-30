@@ -1,0 +1,124 @@
+{
+ "nome": "Villa Patrizia",
+ "slug": "villa-patrizia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Villa Patrizia [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01662460532 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Podere Villa Patrizia, Fraz. Cana, 58053 Roccalbegna, GR [[2]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@villa-patrizia.com [[4]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.villa-patrizia.com/|villa-patrizia.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Prima vendemmia nel 1968, primo imbottigliamento nel 1980. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Morellino di Scansano DOCG; Montecucco DOCG; Maremma Toscana DOC [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Morellino di Scansano DOCG; Montecucco DOCG; Maremma Toscana DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/villapatriziabio|villapatriziabio}}\nInstagram {{https://www.instagram.com/villapatriziabio/|@villapatriziabio}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13167223241701251828|Mappa}} — valutazione 4,9 su 5 (25 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "https://www.villa-patrizia.com/",
+   "etichetta": "villa-patrizia.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://www.villa-patrizia.com/",
+   "etichetta": "villa-patrizia.com"
+  },
+  {
+   "n": 3,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 26 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-villa-patrizia/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.villa-patrizia.com/",
+   "etichetta": "villa-patrizia.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Azienda Agricola Villa Patrizia vino Bio-wines» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13167223241701251828",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

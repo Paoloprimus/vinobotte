@@ -1,0 +1,72 @@
+{
+ "nome": "Gualdo del Re",
+ "slug": "gualdo-del-re",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "GDR S.a.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01975760495 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Notri 79, 57028 Suvereto, LI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0565 829888 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@gualdodelre.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.gualdodelre.it/|gualdodelre.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela DOP Suvereto e Val di Cornia Wine [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Suvereto DOCG Merlot, Suvereto DOCG Sangiovese [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.gualdodelre.it/",
+   "etichetta": "gualdodelre.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle cantine del Consorzio di tutela DOP Suvereto e Val di Cornia Wine, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.suveretowine.com/cantina-suvereto/gualdo-del-re/",
+   "etichetta": "suveretowine.com"
+  }
+ ]
+}

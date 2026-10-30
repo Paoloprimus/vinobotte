@@ -1,0 +1,188 @@
+{
+ "nome": "Crosarola",
+ "slug": "crosarola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Crosarola di Righetti Sebastiano (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03517250233 [[3]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Casterna 8, 37022 Fumane (VR), località Casterna [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "info@crosarola.it [[3]] · Tel. +39 045 770 3669 [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.crosarola.it/|www.crosarola.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Righetti con terreni a Casterna dai primi del Novecento; cantina fondata nel 2000 da Sebastiano Righetti, perito agrario [[4]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Vitigni autoctoni (Corvina, Corvinone, Molinara, Rondinella, Dindarella) su terrazzamenti collinari a pergola; vendemmia solo a mano [[4]]"
+    },
+    {
+     "etichetta": "Sostenibilità",
+     "valore": "Adesione al Protocollo RRR – Riduci, Risparmia, Rispetta [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG Riserva",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Recioto Classico",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "La cantina cita premi vinti ma non li elenca nel sito [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Visita a vigneti e cantina con degustazioni, sala degustazioni e terrazza panoramica [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "crosarola.it con sezione news [[11]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «ospitalita».",
+   "url": "https://crosarola.it/ospitalita/",
+   "etichetta": "crosarola.it/ospitalita"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://crosarola.it/contatti/",
+   "etichetta": "crosarola.it/contatti"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «cantina».",
+   "url": "https://crosarola.it/cantina/",
+   "etichetta": "crosarola.it/cantina"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto».",
+   "url": "https://crosarola.it/prodotto/",
+   "etichetta": "crosarola.it/prodotto"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/amore-della-valpolicella-riserva».",
+   "url": "https://crosarola.it/prodotto/amore-della-valpolicella-riserva/",
+   "etichetta": "crosarola.it/prodotto/amore-della-valpolicella-riserva"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/valpolicella-amarone».",
+   "url": "https://crosarola.it/prodotto/valpolicella-amarone/",
+   "etichetta": "crosarola.it/prodotto/valpolicella-amarone"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/valpolicella-ripasso».",
+   "url": "https://crosarola.it/prodotto/valpolicella-ripasso/",
+   "etichetta": "crosarola.it/prodotto/valpolicella-ripasso"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/valpolicella-classico-superiore».",
+   "url": "https://crosarola.it/prodotto/valpolicella-classico-superiore/",
+   "etichetta": "crosarola.it/prodotto/valpolicella-classico-superiore"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/recioto-classico-della-valpolicella».",
+   "url": "https://crosarola.it/prodotto/recioto-classico-della-valpolicella/",
+   "etichetta": "crosarola.it/prodotto/recioto-classico-della-valpolicella"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «news».",
+   "url": "https://crosarola.it/news/",
+   "etichetta": "crosarola.it/news"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "nome": "Drius Mauro",
+ "slug": "drius-mauro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Drius Mauro [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00534800313 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Filanda 100, 34071 Cormons (GO) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0481 60998[[2]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@driusmauro.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.driusmauro.it|driusmauro.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Collio [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Collio",
+     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Vitae 2025: Quattro Viti al Vignis di Siris 2021\nThe WineHunter Award 2023 e 2024\nMedaglie d’oro e d’argento [[3]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Doctor Wine (Cernilli): Malvasia 2022 96 punti\nVinous (E. Guido): 90–91 punti [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/driuswine|driuswine}}\nInstagram {{https://www.instagram.com/drius.wine/|@drius.wine}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=7851413280100682567|Mappa}} — valutazione 4,9 su 5 (34 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.driusmauro.it",
+   "etichetta": "driusmauro.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Collio, scheda della cantina nell’elenco dei produttori, consultata il 25 ottobre 2026.",
+   "url": "https://www.collio.it/cantina/drius-mauro/",
+   "etichetta": "collio.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.driusmauro.it",
+   "etichetta": "driusmauro.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Drius Winery» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=7851413280100682567",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "nome": "Le Mandolare",
+ "slug": "le-mandolare",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Le Mandolare di Dal Bosco e Rodighiero [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fontananuova 1, Brognoligo, 37032 Monteforte d'Alpone (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "045 6175083 [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinalemandolare.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinalemandolare.com/|cantinalemandolare.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina attiva da più di mezzo secolo nella zona del Soave, creata dal capostipite Giobatta e guidata oggi da Renzo, Germana, Chiara e Riccardo; circa 20 ettari su terreno basaltico e calcareo nella zona del Soave Classico [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo il vino a denominazione Soave; la cantina produce anche IGT, un rosso e uno spumante. Il nome del file della pagina del vino parla di «Soave Classico Superiore DOCG», l’etichetta riporta «Soave D.O.C. Classico». [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Il Roccolo",
+     "denominazione": "Soave DOC Classico",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Le-Mandolare-272665786145368|Le-Mandolare-272665786145368}}\nInstagram {{https://www.instagram.com/le_mandolare/|@le_mandolare}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2326610797773858856|Mappa}} — valutazione 4,7 su 5 (30 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/le-mandolare-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.cantinalemandolare.com/",
+   "etichetta": "cantinalemandolare.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «cantinalemandolare.com», consultata il 24 ottobre 2026.",
+   "url": "http://www.cantinalemandolare.com/",
+   "etichetta": "cantinalemandolare.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «cantinalemandolare.com/it/monte-sella-soave-classico-superiore-d-o-c-g-02», consultata il 24 ottobre 2026.",
+   "url": "https://www.cantinalemandolare.com/it/monte-sella-soave-classico-superiore-d-o-c-g-02/",
+   "etichetta": "cantinalemandolare.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Azienda Agricola Le Mandolare» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2326610797773858856",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "nome": "Tenuta San Jacopo",
+ "slug": "tenuta-san-jacopo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00880920517 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Castiglioncelli 151, Cavriglia, AR [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 055966003 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutasanjacopo.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://tenutasanjacopo.it/|tenutasanjacopo.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Valdarno di Sopra DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/tenutasanjacopo|tenutasanjacopo}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.tenutasanjacopo.it/shop/|tenutasanjacopo.it/shop}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: presenza non verificata\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2701013126602350438|Mappa}} — valutazione 4,8 su 5 (120 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://tenutasanjacopo.it/",
+   "etichetta": "tenutasanjacopo.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Valdarno di Sopra DOC, elenco dei soci nella pagina «Consorzio», consultato il 26 ottobre 2026.",
+   "url": "https://www.valdarnodisopradoc.it/consorzio/",
+   "etichetta": "valdarnodisopradoc.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://tenutasanjacopo.it/",
+   "etichetta": "tenutasanjacopo.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Tenuta San Jacopo In Castiglioni Srl - Winery» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2701013126602350438",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

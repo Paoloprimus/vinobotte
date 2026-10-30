@@ -1,0 +1,116 @@
+{
+ "nome": "Cantina Mareno",
+ "slug": "cantina-mareno",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina Mareno S.C.A. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04574120269 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "31010 Mareno di Piave [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni Venezia dichiarate",
+     "valore": "Piave, Venezia [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinamareno.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cabaradei.it/|cabaradei.it}} — raggiungibile al controllo del 29 ottobre 2026 [[3]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Vini Venezia [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via Madonnetta, 51 - Mareno di Piave - TV; tel. 0438 308279; info@cantinamareno.it; cantinamareno.it [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito la presenta come Cantina Ca' Baradei, impresa di famiglia con tradizione tramandata di generazione in generazione, nelle terre del Piave. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Delle Venezie",
+     "valore": "Non indicato nell’elenco del Consorzio; non ancora raccolto dai siti delle cantine [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1385680250252486527|Mappa}} — valutazione 4,4 su 5 (28 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 29 ottobre 2026.",
+   "url": "https://www.cabaradei.it/",
+   "etichetta": "cabaradei.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.cabaradei.it/",
+   "etichetta": "cabaradei.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Cantina Mareno Società Cooperativa Agricola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1385680250252486527",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

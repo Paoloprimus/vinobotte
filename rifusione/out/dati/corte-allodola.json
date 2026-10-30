@@ -1,0 +1,117 @@
+{
+ "nome": "Corte Allodola",
+ "slug": "corte-allodola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Corte Allodola Srl e Società Agricola Corte Allodola s.s. (due voci dell’elenco del Consorzio con stesso indirizzo e stesso sito) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "IT03851060230 [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 617 5915 · info@corteallodola.it [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Monte Riondo 2, 37032 Monteforte d’Alpone (VR) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.corteallodola.it/|www.corteallodola.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nata negli anni Duemila da un progetto di Flavio Prà, già consulente e produttore, per vini artigianali anche nella grande distribuzione [[2]]"
+    },
+    {
+     "etichetta": "Sostenibilità",
+     "valore": "Pannelli fotovoltaici che coprono il fabbisogno elettrico della cantina; riduzione dei fitofarmaci chimici [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[2]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Terre del Vulcano",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Gold Medal Berliner Wine Trophy 2015 per il Pinot Grigio Terre dei Sassi; dichiarato dalla cantina, non verificato da VinoBot sulle guide [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "corteallodola.it, sito di una pagina in italiano e inglese [[3]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.corteallodola.it/",
+   "etichetta": "corteallodola.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «index-en.php».",
+   "url": "https://www.corteallodola.it/index-en.php",
+   "etichetta": "corteallodola.it/index-en.php"
+  }
+ ]
+}

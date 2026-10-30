@@ -1,0 +1,71 @@
+{
+ "nome": "Fattoria Maionchi",
+ "slug": "fattoria-maionchi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Fattoria Maionchi società semplice agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02103430464 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Tofori 81, 55012 Capannori, LU [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0583 978194 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fattoriamaionchi.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://fattoriamaionchi.it/|fattoriamaionchi.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Rosso delle Colline Lucchesi DOC, Vin Santo delle Colline Lucchesi DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://it-it.facebook.com/FattoriaMaionchi/|it-it.facebook.com/FattoriaMaionchi}}\nInstagram {{https://www.instagram.com/fattoriamaionchi/|instagram.com/fattoriamaionchi}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://fattoriamaionchi.it/",
+   "etichetta": "fattoriamaionchi.it"
+  }
+ ]
+}

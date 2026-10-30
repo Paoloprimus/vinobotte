@@ -1,0 +1,133 @@
+{
+ "nome": "Cantina Progettidivini",
+ "slug": "cantina-progettidivini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina Progettidivini S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04914420262 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via I Settembre 20, 31010, Località Soligo, Farra di Soligo (TV) [[2]]"
+    },
+    {
+     "etichetta": "Descrizione",
+     "valore": "Oltre ai propri vini offre servizi di spumantizzazione, etichette private label e conto terzi [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0438 983151 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@progettidivini.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.progettidivini.it/|www.progettidivini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[2]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]"
+    },
+    {
+     "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
+     "valore": "La scheda del Consorzio non riporta dati di contatto [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Dal 2008 la sede è nella Villa Brandolini d’Adda a Soligo (Farra di Soligo); il sito non indica l’anno di fondazione né i proprietari [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Progetto TRE (Spumante Extra Dry)",
+     "denominazione": "Valdobbiadene Prosecco DOCG",
+     "annata": "2023 [[1]]"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Elenco vini Prosecco DOC",
+     "valore": "Il sito cita solo il Progetto TRE (Valdobbiadene Prosecco DOCG); non indica vini Prosecco DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Progetto TRE: Vini Buoni d’Italia 2025 (news del 12 ottobre 2024)\nProgetto 0: The Winehunter Award 2023 (news del 21 agosto 2023) [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cantinaprogettidivini|cantinaprogettidivini}}\nInstagram {{https://www.instagram.com/cantinaprogettidivini/|@cantinaprogettidivini}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=6212500608871947930|Mappa}} — valutazione 4,9 su 5 (17 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «progettidivini.it», consultata il 24 ottobre 2026.",
+   "url": "https://www.progettidivini.it/",
+   "etichetta": "progettidivini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/cantina-progettidivini/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.progettidivini.it/",
+   "etichetta": "progettidivini.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Cantina ProgettiDivini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=6212500608871947930",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

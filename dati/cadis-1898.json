@@ -1,0 +1,347 @@
+{
+ "nome": "Cadis 1898",
+ "slug": "cadis-1898",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cadis 1898 S.a.c. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00208750232 [[2]]"
+    },
+    {
+     "etichetta": "Sede principale",
+     "valore": "Viale della Vittoria 128, 37038 Soave (VR) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 6139811 [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cadis1898.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cadis1898.it/|www.cadis1898.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[4]]\nConsorzio Tutela Vino Lessini Durello DOC [[5]]\nConsorzio Tutela Vino Custoza DOC [[6]]\nConsorzio Tutela Vini DOC Delle Venezie [[7]]\nConsorzio Tutela Vino Bardolino D.O.C. [[8]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Custoza",
+     "valore": "Soave (VR); tel. 045 613 98 11; cantinasoave.it [[6]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Viale della Vittoria, 128 - 37038 Soave (VR); tel. 045 6139811; cantina@cantinasoave.it; cantinasoave.it [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Natura",
+     "valore": "Gruppo vitivinicolo nato nel 1898, con cantine a Soave (1898), Illasi (1938), Montecchia di Crosara (1958), Borgo Rocca Sveva (2003) e Terre al Lago (2019) [[9]]"
+    },
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Soave, Valpolicella e Durello [[9]]"
+    },
+    {
+     "etichetta": "Marchi",
+     "valore": "Cadis, Rocca Sveva, Poesie, Cantina di Illasi, Rocca Alata, Cantina di Montecchia, Equipe 5, Maximilian I, Predom [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Soave e Recioto di Soave; il gruppo produce molte altre denominazioni. Il sito non riporta le annate. [[11]] Gruppo con più marchi; qui solo le etichette Valpolicella indicate sul sito, senza annate. [[10]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[8]] Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Cadis",
+     "denominazione": "Soave DOC",
+     "annata": "— [[12]]"
+    },
+    {
+     "nome": "Cadis",
+     "denominazione": "Recioto di Soave Classico DOCG",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Poesie",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Poesie",
+     "denominazione": "Soave DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Rocca Sveva",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Rocca Sveva Castelcerino",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[13]]"
+    },
+    {
+     "nome": "Rocca Alata",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Rocca Alata",
+     "denominazione": "Recioto di Soave Classico DOCG",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "San Lorenzo (Cantina di Illasi)",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[14]]"
+    },
+    {
+     "nome": "Rubitondo",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[15]]"
+    },
+    {
+     "nome": "Campobrun",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[15]]"
+    },
+    {
+     "nome": "La Rotonda",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[15]]"
+    },
+    {
+     "nome": "Rocca Sveva",
+     "denominazione": "Amarone della Valpolicella DOCG Riserva",
+     "annata": "— [[13]]"
+    },
+    {
+     "nome": "Rocca Sveva",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[13]]"
+    },
+    {
+     "nome": "Cadis",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Rocca Alata",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Pinot Grigio Cadis",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Pinot Grigio Poesie",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Pinot Grigio Poesie ramato",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "733",
+     "denominazione": "Lessini Durello DOC",
+     "annata": "— [[13]]"
+    },
+    {
+     "nome": "Montecletha",
+     "denominazione": "Lessini Durello DOC Riserva Nature",
+     "annata": "— [[13]]"
+    },
+    {
+     "nome": "Collineri",
+     "denominazione": "Monti Lessini DOC",
+     "annata": "— [[13]]"
+    },
+    {
+     "nome": "Maximilian I",
+     "denominazione": "Lessini Durello DOC",
+     "annata": "— [[16]]"
+    },
+    {
+     "nome": "Maximilian I (Metodo Classico)",
+     "denominazione": "Monti Lessini DOC – Metodo Classico",
+     "annata": "— [[16]]"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Chiaretto di Bardolino DOC [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Rocca Sveva",
+     "valore": "Wine shop, eventi e tour in Via Covergnino 7, Soave; tel. +39 045 6139845; hospitality@cadis1898.it [[3]]"
+    },
+    {
+     "etichetta": "Wine shop",
+     "valore": "Soave (Rocca Sveva), Montecchia di Crosara (Via Alpone 53), Illasi (Via Restel Rosso 1); orari sul sito [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cadis1898.it con shop online [[12]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12690064088739819007|Mappa}} — valutazione 4,4 su 5 (174 recensioni) [[17]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «cadis1898.it», consultata il 25 ottobre 2026.",
+   "url": "https://www.cadis1898.it/",
+   "etichetta": "cadis1898.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://cadis1898.it/contatti/",
+   "etichetta": "cadis1898.it/contatti"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 6,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026.",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  },
+  {
+   "n": 7,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 8,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/cadis-1898/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://cadis1898.it/chi-siamo/",
+   "etichetta": "cadis1898.it/chi-siamo"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://cadis1898.it/vini/",
+   "etichetta": "cadis1898.it/vini"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «vini/?e-filter-0371505-post_tag=bianco».",
+   "url": "https://cadis1898.it/vini/?e-filter-0371505-post_tag=bianco",
+   "etichetta": "cadis1898.it/vini/?e-filter-0371505-post_tag=bianco"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://cadis1898.it/",
+   "etichetta": "cadis1898.it"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «etichette/cantina-di-montecchia».",
+   "url": "https://cadis1898.it/etichette/cantina-di-montecchia/",
+   "etichetta": "cadis1898.it/etichette/cantina-di-montecchia"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «etichette/cantina-di-illasi/san-lorenzo-soave-classico-doc».",
+   "url": "https://cadis1898.it/etichette/cantina-di-illasi/san-lorenzo-soave-classico-doc/",
+   "etichetta": "cadis1898.it/etichette/cantina-di-illasi/san-lorenzo-soave-classico-doc"
+  },
+  {
+   "n": 15,
+   "testo": "Sito ufficiale della cantina, pagina «etichette/cantina-di-illasi».",
+   "url": "https://cadis1898.it/etichette/cantina-di-illasi/",
+   "etichetta": "cadis1898.it/etichette/cantina-di-illasi"
+  },
+  {
+   "n": 16,
+   "testo": "Sito ufficiale della cantina, pagina «vini/?e-filter-0371505-post_tag=spumante».",
+   "url": "https://cadis1898.it/vini/?e-filter-0371505-post_tag=spumante",
+   "etichetta": "cadis1898.it/vini/?e-filter-0371505-post_tag=spumante"
+  },
+  {
+   "n": 17,
+   "testo": "Scheda «Cantina di Soave» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12690064088739819007",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 18,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  }
+ ]
+}

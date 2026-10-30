@@ -1,0 +1,118 @@
+{
+ "nome": "La Roncaia",
+ "slug": "la-roncaia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Verdi, 26 33045, Nimis, Loc. Cergneu [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate al Consorzio",
+     "valore": "DOC Friuli Colli Orientali; DOCG Colli Orientali del Friuli Picolit; DOCG Ramandolo [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0432 790280\nfax +39 0432 797900 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@laroncaia.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.laroncaia.it|laroncaia.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Titolare: Famiglia Fantinel; Ettari vitati: 22; Bottiglie prodotte: 60.000 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Friuli Colli Orientali DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Decanter seleziona il Pinot Grigio tra 10 vini d’eccellenza [[3]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Punteggi da Robert Parker–Wine Advocate [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/laroncaia|laroncaia}}\nInstagram {{https://www.instagram.com/laroncaia/|@laroncaia}}\nYouTube {{https://www.youtube.com/channel/UCgfHUG0nBIH_6u-lbcXqxBg|canale UCgfHUG0nBIH_6u-lbcXqxBg}}\nX {{https://x.com/FantinelWinery|@FantinelWinery}}\nLinkedIn {{https://www.linkedin.com/company/fantinel|fantinel}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=397831754108505481|Mappa}} — valutazione 4,3 su 5 (13 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo, scheda della cantina nell’elenco delle aziende associate, consultata il 25 ottobre 2026.",
+   "url": "https://www.colliorientali.com/la-roncaia/",
+   "etichetta": "colliorientali.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.laroncaia.it",
+   "etichetta": "laroncaia.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.laroncaia.it",
+   "etichetta": "laroncaia.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «La Roncaia» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=397831754108505481",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

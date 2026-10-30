@@ -1,0 +1,120 @@
+{
+ "nome": "Badia a Coltibuono",
+ "slug": "badia-a-coltibuono",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta di Coltibuono s.ag.r.l. Unip. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00516920527 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Badia a Coltibuono, Gaiole in Chianti 53013 SI [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 057774481 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "marketing@coltibuono.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.coltibuono.com|coltibuono.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti Classico [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "La famiglia Stucchi Prinetti gestisce Badia a Coltibuono, dove si produce vino dal 1051. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Chianti Classico DOCG; Chianti Classico Riserva DOCG; Chianti DOCG; Vin Santo del Chianti Classico DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Punteggi",
+     "valore": "Recensioni di Vinous, Falstaff e altri [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/badia.coltibuono|badia.coltibuono}}\nInstagram {{https://www.instagram.com/badia_coltibuono/|@badia_coltibuono}}\nYouTube {{https://youtube.com/shorts/XWwX2igaC3I|shorts}} [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://shop.coltibuono.com/it/|shop.coltibuono.com/it}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=14445161713267172159|Mappa}} — valutazione 4,6 su 5 (416 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.coltibuono.com",
+   "etichetta": "coltibuono.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Vino Chianti Classico, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.chianticlassico.com/aziende/badia-a-coltibuono/",
+   "etichetta": "chianticlassico.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.coltibuono.com",
+   "etichetta": "coltibuono.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.coltibuono.com",
+   "etichetta": "coltibuono.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Badia a Coltibuono» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=14445161713267172159",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

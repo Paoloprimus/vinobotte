@@ -1,0 +1,149 @@
+{
+ "nome": "Cottini 1925",
+ "slug": "cottini-1925",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cottini S.p.a. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02790400234 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Zovo 23, 37013 Caprino Veronese (VR) [[1]]; il sito indica come sede San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 6280157 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cottinivini.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cottinivini.com/|www.cottinivini.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vino Custoza DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Dal 1925 a Fumane con Carlo Cottini; negli anni ’50 il figlio Raffaello costruisce la prima cantina; negli anni ’80 espansione nel Garda orientale con Diego Cottini e avvio dell’export; quattro generazioni [[4]]"
+    },
+    {
+     "etichetta": "Territori",
+     "valore": "Valpolicella, Bardolino, Lugana e Garda [[4]]"
+    },
+    {
+     "etichetta": "Marchi",
+     "valore": "Annaberta, La Sogara e Stile Naturale (linea biologica) [[5]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "Standard IFS Food; certificazione Equalitas [[4]] [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Custoza",
+     "valore": "Non indicato nell’elenco dei soci del Consorzio; non ancora raccolto dai siti delle cantine [[3]]"
+    }
+   ],
+   "nota": "Nessun vino a denominazione DOC/DOCG tra quelli indicati dalle fonti consultate (esclusi IGT, vini senza denominazione e distillati).",
+   "vini": [],
+   "tipo": "vini"
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cottinivini.com, in italiano e inglese, con area stampa e Trade Area per distributori [[7]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2144841986662013154|Mappa}} — valutazione 4,2 su 5 (9 recensioni) [[8]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.cottinivini.com/contatti/",
+   "etichetta": "cottinivini.com/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026.",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://www.cottinivini.com/chi-siamo/",
+   "etichetta": "cottinivini.com/chi-siamo"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-marchi».",
+   "url": "https://www.cottinivini.com/i-nostri-marchi/",
+   "etichetta": "cottinivini.com/i-nostri-marchi"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «sostenibilita».",
+   "url": "https://www.cottinivini.com/sostenibilita/",
+   "etichetta": "cottinivini.com/sostenibilita"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «trade-area».",
+   "url": "https://www.cottinivini.com/trade-area/",
+   "etichetta": "cottinivini.com/trade-area"
+  },
+  {
+   "n": 8,
+   "testo": "Scheda «Cottini (sede amm., cantina, deposito e negozio)» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2144841986662013154",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

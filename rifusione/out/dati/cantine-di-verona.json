@@ -1,0 +1,160 @@
+{
+ "nome": "Cantine di Verona",
+ "slug": "cantine-di-verona",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantine di Verona S.c.a. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Colonia Orfani di Guerra 5/b, 37142 Verona [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 550032 · info@cantinediverona.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinediverona.it/|www.cantinediverona.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[3]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via Colonia Orfani di Guerra, 5, 37142 Quinto VR; tel. 045 550032; info@cantinadiverona.it; cantinadiverona.it [[3]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00225220235 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei soci del Consorzio Tutela Vino Custoza DOC [[4]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Custoza",
+     "valore": "Custoza (VR); tel. 045 516 200; cantinadicustoza.it [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Natura",
+     "valore": "Gruppo vitivinicolo cooperativo che comprende Cantina Valpantena, Cantina di Custoza e Cantina Colli Morenici [[5]]"
+    },
+    {
+     "etichetta": "Numeri dichiarati",
+     "valore": "1800 ettari vitati, oltre 500 soci, 5 brand, 50 anni di esperienza [[5]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "Dichiara la certificazione Equalitas ricevuta nel 2024 [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Acquisto o regalo di una degustazione tramite il sito [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella (anche Classico, Valpantena, Riserva)",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    }
+   ],
+   "nota": "Gruppo con più marchi; qui solo l’Amarone citato come denominazione, il sito non elenca le annate. [[6]]",
+   "righe": []
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Elenco 2024 sulla home: James Suckling, Luca Maroni, Decanter, Berliner, Falstaff, IWSC; punteggi non letti; dichiarati dalla cantina, non verificati da VinoBot sulle guide [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cantinediverona.it [[5]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://cantinediverona.it/it/contatti",
+   "etichetta": "cantinediverona.it/it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://cantinediverona.it/",
+   "etichetta": "cantinediverona.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/denominazioni/amarone-della-valpolicella-docg».",
+   "url": "https://cantinediverona.it/it/denominazioni/amarone-della-valpolicella-docg",
+   "etichetta": "cantinediverona.it/it/denominazioni/amarone-della-valpolicella-docg"
+  }
+ ]
+}

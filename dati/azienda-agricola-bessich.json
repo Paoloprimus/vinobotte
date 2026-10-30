@@ -1,0 +1,123 @@
+{
+ "nome": "Azienda Agricola Bessich",
+ "slug": "azienda-agricola-bessich",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Bessich Luciano Eredi s.s.a. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01194690937 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Tornielli, 12/a, 33080 Roveredo in Piano (PN) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Prosecco DOC» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0434949898 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "bessich.cantina@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bessich.com|bessich.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito indica «dal 1959», vini friulani nelle Grave di Pordenone. [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Prosecco DOC Spumante Brut",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "The WineHunter Award 2026\nMerano Wine Festival: sigillo «Rosso» al Tornielli Rosso 2023 e al Friulano 2025\nGuida Decanto Untold 2027 [[4]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Merano Wine Festival: 90/93 punti al Tornielli Rosso 2023 e al Friulano 2025 [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cantinabessich|cantinabessich}}\nInstagram {{https://www.instagram.com/bessichwines/|@bessichwines}}\nYouTube {{https://www.youtube.com/BessichWines|BessichWines}}\nLinkedIn {{https://it.linkedin.com/company/cantina-bessich|cantina-bessich}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8635403799943645896|Mappa}} — valutazione 4,9 su 5 (108 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.bessich.com",
+   "etichetta": "bessich.com"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-bessich/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «bessich.com/bottiglia», consultata il 25 ottobre 2026.",
+   "url": "https://www.bessich.com/bottiglia/",
+   "etichetta": "bessich.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.bessich.com",
+   "etichetta": "bessich.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Bessich Wines» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8635403799943645896",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "nome": "Ellevi",
+ "slug": "ellevi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Ellevi S.p.A. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00353770514 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Le Caselle 1/A, Petraia, Cortona, AR [[2]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Vini Cortona [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0575 67501 [[3]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ellevivini.com [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://ellevivini.com/la-cantina/|ellevivini.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Società fondata nel 1981 a Cortona; sede a Ossaia, cantine a Caselle di Pietraia, deposito a Camucia. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Cortona DOC; Offida Pecorino DOCG [[4]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Cortona DOC (azienda consorziata) [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Ellevi-Spa-588159531583894|Ellevi-Spa-588159531583894}}\nInstagram {{https://www.instagram.com/ellevi_vini/|@ellevi_vini}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://ellevivini.com/negozio/|ellevivini.com/negozio}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13762634297698369929|Mappa}} — valutazione 4,3 su 5 (3 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://ellevivini.com/la-cantina/",
+   "etichetta": "ellevivini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Vini Cortona, elenco delle aziende consorziate, consultato il 26 ottobre 2026.",
+   "url": "https://www.cortonaweb.net/i-vini-del-cortona-doc/le-aziende/",
+   "etichetta": "cortonaweb.net"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://ellevivini.com/la-cantina/",
+   "etichetta": "ellevivini.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://ellevivini.com/la-cantina/",
+   "etichetta": "ellevivini.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Ellevi S.p.a. - Cantina» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13762634297698369929",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

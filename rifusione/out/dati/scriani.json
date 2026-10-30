@@ -1,0 +1,221 @@
+{
+ "nome": "Scriani",
+ "slug": "scriani",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola I Scriani di Cottini Stefano e C. s.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Ponte Scrivan 7, 37022 Fumane (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 6839251; info@scriani.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://scriani.it/|scriani.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei soci del Consorzio Tutela Vino Custoza DOC [[3]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Custoza",
+     "valore": "Fumane (VR); tel. 045 683 9251; scriani.it [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[4]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via Ponte Scrivan, 7 - 37022 Fumane (VR); tel. 045 6839251; info@scriani.it; scriani.it [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda familiare a Fumane; dal 1999 la gestione è affidata a Stefano Cottini [[5]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Vigneti Mandolari, Tondin, Bosco, La Costa, Ronchiel, Monte Sant’Urbano [[6]] [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella e il rosso IGT; la cantina produce anche altri bianchi e spumanti. Il sito non riporta le annate. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Maddalena",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[4]]"
+    }
+   ],
+   "righe": []
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite guidate in cantina e pacchetti degustazione da 45 a 90 minuti, con opzione tagliere [[12]] [[13]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Il sito riporta tra gli altri Vinitaly 5 Stars, Decanter, IWSC, Vini Buoni d’Italia, ProWein 2016 Challenge (elenco per annata). Dichiarati dalla cantina, non verificati da VinoBot sulle guide [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Shop online sul sito; altri marketplace: presenza non verificata [[14]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social indicati dal sito; Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://scriani.it/contatti/",
+   "etichetta": "scriani.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://scriani.it/",
+   "etichetta": "scriani.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-della-valpolicella».",
+   "url": "https://scriani.it/amarone-della-valpolicella/",
+   "etichetta": "scriani.it/amarone-della-valpolicella"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-superiore».",
+   "url": "https://scriani.it/valpolicella-superiore/",
+   "etichetta": "scriani.it/valpolicella-superiore"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «riserva-amarone-della-valpolicella».",
+   "url": "https://scriani.it/riserva-amarone-della-valpolicella/",
+   "etichetta": "scriani.it/riserva-amarone-della-valpolicella"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «maddalena-recioto-della-valpolicella».",
+   "url": "https://scriani.it/maddalena-recioto-della-valpolicella/",
+   "etichetta": "scriani.it/maddalena-recioto-della-valpolicella"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-ripasso».",
+   "url": "https://scriani.it/valpolicella-ripasso/",
+   "etichetta": "scriani.it/valpolicella-ripasso"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella».",
+   "url": "https://scriani.it/valpolicella/",
+   "etichetta": "scriani.it/valpolicella"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «pacchetti-degustazioni-vini-scriani».",
+   "url": "https://scriani.it/pacchetti-degustazioni-vini-scriani/",
+   "etichetta": "scriani.it/pacchetti-degustazioni-vini-scriani"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «eventi-esperienze-in-valpolicella/visita-cantina-valpolicella».",
+   "url": "https://scriani.it/eventi-esperienze-in-valpolicella/visita-cantina-valpolicella/",
+   "etichetta": "scriani.it/eventi-esperienze-in-valpolicella/visita-cantina-valpolicella"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «shop».",
+   "url": "https://scriani.it/shop/",
+   "etichetta": "scriani.it/shop"
+  }
+ ]
+}

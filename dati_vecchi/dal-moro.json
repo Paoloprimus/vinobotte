@@ -1,0 +1,99 @@
+{
+ "nome": "Dal Moro",
+ "slug": "dal-moro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "3ND S.r.l.; P.IVA IT06031960484; REA FI 59457; capitale sociale 345.772,16 € i.v. [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "info@vinidalmoro.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://vinidalmoro.it/|vinidalmoro.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Storia",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "La famiglia Dal Moro opera in Valpolicella da tre generazioni; il fondatore ha iniziato la vinificazione negli anni '50, valorizzando i vitigni autoctoni come la Corvina [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dalla pagina del sito; solo i vini a denominazione DOC/DOCG (esclusi i vini IGT). [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "2021 [[1]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "2022 [[1]]"
+    },
+    {
+     "nome": "Lugana",
+     "denominazione": "Lugana DOC",
+     "annata": "2023 [[1]]"
+    },
+    {
+     "nome": "Soave",
+     "denominazione": "Soave DOC",
+     "annata": "2021 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Il sito ha una sezione «Premi»; non raccolta"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Schede dei vini rinviate al distributore vino.com [[1]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagina unica del sito della cantina (vinidalmoro.it) consultata dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «vinidalmoro.it».",
+   "url": "https://vinidalmoro.it/",
+   "etichetta": "vinidalmoro.it"
+  }
+ ]
+}

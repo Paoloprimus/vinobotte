@@ -1,0 +1,145 @@
+{
+ "nome": "Le Manzane",
+ "slug": "le-manzane",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agr. Le Manzane S.S [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Maset 47, 31020, San Pietro Di Feletto (Tv) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0438 486606 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lemanzane.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lemanzane.com/|lemanzane.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]"
+    },
+    {
+     "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
+     "valore": "Via Maset, 47/b, Casotto, San Pietro di Feletto, TV; tel. +390438486606; info@lemanzane.it; visit@lemanzane.it; http://www.lemanzane.com [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: \"Rive\" extra brut, \"Rive\" brut, \"Rive\" dry, brut, dry, extra brut, extra dry, sui lieviti [[3]]"
+    },
+    {
+     "etichetta": "Valdobbiadene Superiore di Cartizze",
+     "valore": "Tipologie indicate: dry [[3]]"
+    },
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco",
+     "valore": "Tipologie indicate: Frizzante, Tranquillo [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "Degustazione \"In Casera\"; E-commerce; Vendita al dettaglio; Visita e degustazione [[3]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fra 500.000 e 1 milione di bottiglie; Oltre 1 milione di bottiglie [[3]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "Biodinamico; ENO BEE; SQNPI [[3]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese, Spagnolo [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cantinalemanzane/|cantinalemanzane}}\nInstagram {{https://www.instagram.com/le_manzane/|@le_manzane}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16567471773480951284|Mappa}} — valutazione 4,9 su 5 (248 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 29 ottobre 2026.",
+   "url": "https://www.lemanzane.com/",
+   "etichetta": "lemanzane.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/le-manzane/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 4,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/le-manzane/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Società Agricola Le Manzane S. S.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16567471773480951284",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

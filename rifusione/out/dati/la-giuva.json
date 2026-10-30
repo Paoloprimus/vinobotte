@@ -1,0 +1,118 @@
+{
+ "nome": "La Giuva",
+ "slug": "la-giuva",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola La Giuva s.s. [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Trezzolano 20/C, 37141 Verona (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 342 111 7089; info@lagiuva.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lagiuva.com/|www.lagiuva.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Vini di qualità “dal 1933” (descrizione del sito); proprietari non indicati [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito è in versione “Coming soon”; non indica le annate. [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "L’Aristide",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Il Rientro",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Il Valpo",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Contatto e-mail per “wine experience”; nessun dettaglio sul sito [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Instagram e Facebook (lagiuvawinery) indicati dal sito; altre presenze non verificate [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «lagiuva.com».",
+   "url": "https://www.lagiuva.com/",
+   "etichetta": "lagiuva.com"
+  }
+ ]
+}

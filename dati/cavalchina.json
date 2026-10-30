@@ -1,0 +1,245 @@
+{
+ "nome": "Cavalchina (Tenute di Famiglia)",
+ "slug": "cavalchina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Cavalchina Società Semplice [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04831560232 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Sommacampagna 7, Custoza, 37066 Sommacampagna (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "045 516002 [[2]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cavalchina.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutedifamiglia.com/|www.tenutedifamiglia.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vino Custoza DOC [[3]]\nConsorzio Tutela Vino Bardolino D.O.C. [[4]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Custoza",
+     "valore": "Sommacampagna (VR); tel. 045 516 002; tenutedifamiglia.com [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Gruppo",
+     "valore": "Il sito riunisce più tenute: Cavalchina (Custoza), Prendina (Monzambano, MN), Torre d’Orti (Valpolicella), ’L Lac (Lugana) [[5]]"
+    },
+    {
+     "etichetta": "Storia Cavalchina",
+     "valore": "Nata agli inizi del Novecento; la cantina afferma di essere stata nel 1962 la prima a chiamare “Custoza” il vino bianco della zona [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Vini Valpolicella dalla tenuta Torre d’Orti; il sito non riporta le annate. [[7]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Brolo",
+     "denominazione": "Amarone della Valpolicella Riserva DOCG",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Morari",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "’L Lac",
+     "denominazione": "Lugana DOC",
+     "annata": "— [[12]]"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino DOC; Bardolino Superiore DOCG; Chiaretto di Bardolino DOC [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti sul sito"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Pagina per prenotare degustazioni, dettagli non sul sito [[13]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "tenutedifamiglia.com [[5]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://it-it.facebook.com/CavalchinaWineries|CavalchinaWineries}}\nInstagram {{https://www.instagram.com/cavalchina_wineries/|@cavalchina_wineries}} [[14]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=9684427497531571113|Mappa}} — valutazione 4,5 su 5 (93 recensioni) [[15]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[16]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://www.tenutedifamiglia.com/it/contatti",
+   "etichetta": "tenutedifamiglia.com/it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026.",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/cavalchina/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it».",
+   "url": "https://www.tenutedifamiglia.com/it/",
+   "etichetta": "tenutedifamiglia.com/it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/cavalchina».",
+   "url": "https://www.tenutedifamiglia.com/it/cavalchina",
+   "etichetta": "tenutedifamiglia.com/it/cavalchina"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/ripasso».",
+   "url": "https://www.tenutedifamiglia.com/it/ripasso",
+   "etichetta": "tenutedifamiglia.com/it/ripasso"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/amarone».",
+   "url": "https://www.tenutedifamiglia.com/it/amarone",
+   "etichetta": "tenutedifamiglia.com/it/amarone"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/recioto».",
+   "url": "https://www.tenutedifamiglia.com/it/recioto",
+   "etichetta": "tenutedifamiglia.com/it/recioto"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «it/brolo».",
+   "url": "https://www.tenutedifamiglia.com/it/brolo",
+   "etichetta": "tenutedifamiglia.com/it/brolo"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «it/morari».",
+   "url": "https://www.tenutedifamiglia.com/it/morari",
+   "etichetta": "tenutedifamiglia.com/it/morari"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «it/lugana-l-lac».",
+   "url": "https://www.tenutedifamiglia.com/it/lugana-l-lac",
+   "etichetta": "tenutedifamiglia.com/it/lugana-l-lac"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «it/prenota-degustazioni».",
+   "url": "https://www.tenutedifamiglia.com/it/prenota-degustazioni",
+   "etichetta": "tenutedifamiglia.com/it/prenota-degustazioni"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.tenutedifamiglia.com/",
+   "etichetta": "tenutedifamiglia.com"
+  },
+  {
+   "n": 15,
+   "testo": "Scheda «Azienda Agricola Cavalchina Società Semplice» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=9684427497531571113",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 16,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 17,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  }
+ ]
+}

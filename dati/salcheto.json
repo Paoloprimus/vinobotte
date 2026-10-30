@@ -1,0 +1,124 @@
+{
+ "nome": "Salcheto",
+ "slug": "salcheto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "SALCHETO srl Società Agricola - Società Benefit [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via di Villa Bianca, 15 – 53045 – Montepulciano [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0578799031 [[2]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@salcheto.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.salcheto.it|salcheto.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Nobile di Montepulciano [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Vino Nobile di Montepulciano DOCG; Vino Nobile di Montepulciano Riserva DOCG; Chianti DOCG [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Salcheto|Salcheto}}\nInstagram {{https://www.instagram.com/salcheto/|@salcheto}}\nYouTube {{https://www.youtube.com/user/TheCuntadin|TheCuntadin}}\nX {{https://x.com/SalchetoWinery|@SalchetoWinery}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://salcheto.it/shop/|salcheto.it/shop}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=5580457709818700291|Mappa}} — valutazione 4,5 su 5 (425 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.salcheto.it",
+   "etichetta": "salcheto.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio del Vino Nobile di Montepulciano, scheda dell’azienda nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://aziendeconsorziovinonobile.it/scheda/salcheto/",
+   "etichetta": "aziendeconsorziovinonobile.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.salcheto.it",
+   "etichetta": "salcheto.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.salcheto.it",
+   "etichetta": "salcheto.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Salcheto Organic Winery in Montepulciano» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=5580457709818700291",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

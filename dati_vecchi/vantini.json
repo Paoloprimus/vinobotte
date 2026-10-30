@@ -1,0 +1,167 @@
+{
+ "nome": "Vantini",
+ "slug": "vantini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Vantini Luigi e Figli S.r.l. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00252990239 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Cà dell’Ebreo 7, San Floriano, 37029 San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7701374; info@vinivantini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinivantini.it/|www.vinivantini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Vantini dal 1908 (Angelo Vantini), poi Luigi e figli; proprietà nel cuore della Valpolicella Classica [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Corvina, Corvinone, Rondinella, Molinara [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella e il rosso IGT; la cantina produce anche un passito e un frizzante bianco. Il sito non riporta le annate nell’elenco. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2017 [[5]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Le Cariole",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–ven 9:30–12:30 e 14–17; sabato 9:30–12:30 [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Tour enologico con degustazione su richiesta [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Amarone Classico 2017: Verona Top 100 88 punti, Falstaff 92 punti, Prosit, Vinibuoni d’Italia 4 stelle, Winehunter. Dichiarati dalla cantina, non verificati da VinoBot sulle guide [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Richiesta ordini tramite modulo sul sito; altri marketplace: presenza non verificata [[9]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook e Instagram indicati dal sito; altre presenze non verificate [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti-degustazione-valpolicella».",
+   "url": "https://vinivantini.it/contatti-degustazione-valpolicella/",
+   "etichetta": "vinivantini.it/contatti-degustazione-valpolicella"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://vinivantini.it/",
+   "etichetta": "vinivantini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vini-valpolicella».",
+   "url": "https://vinivantini.it/vini-valpolicella/",
+   "etichetta": "vinivantini.it/vini-valpolicella"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-della-valpolicella».",
+   "url": "https://vinivantini.it/amarone-della-valpolicella/",
+   "etichetta": "vinivantini.it/amarone-della-valpolicella"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «recioto-valpolicella-classico-cantina-vantini».",
+   "url": "https://vinivantini.it/recioto-valpolicella-classico-cantina-vantini/",
+   "etichetta": "vinivantini.it/recioto-valpolicella-classico-cantina-vantini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-ripasso-classico-superiore».",
+   "url": "https://vinivantini.it/valpolicella-ripasso-classico-superiore/",
+   "etichetta": "vinivantini.it/valpolicella-ripasso-classico-superiore"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classico-doc».",
+   "url": "https://vinivantini.it/valpolicella-classico-doc/",
+   "etichetta": "vinivantini.it/valpolicella-classico-doc"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «ordini-vini-vantini».",
+   "url": "https://vinivantini.it/ordini-vini-vantini/",
+   "etichetta": "vinivantini.it/ordini-vini-vantini"
+  }
+ ]
+}

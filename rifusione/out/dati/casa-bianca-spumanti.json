@@ -1,0 +1,114 @@
+{
+ "nome": "Casa Bianca Spumanti",
+ "slug": "casa-bianca-spumanti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cal Trevigiana, 7, 31040 Volpago del Montello (TV) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0423040044; info@casabiancaspumanti.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.casabiancaspumanti.it|casabiancaspumanti.it}} [[1]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "{{https://www.facebook.com/Casa-Bianca-Spumanti-492021154174407/|facebook.com/Casa-Bianca-Spumanti-492021154174407}} [[1]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Asolo Prosecco DOCG Brut», «Asolo Prosecco DOCG Extra Dry», «Asolo Prosecco Superiore DOCG Brut» [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "CELEBRATION",
+     "denominazione": "Asolo Prosecco DOCG Brut",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Etichetta ORO",
+     "denominazione": "Asolo Prosecco Superiore DOCG Brut",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Etichetta GIALLA",
+     "denominazione": "Asolo Prosecco DOCG Extra Dry",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Millesimato Dry",
+     "denominazione": "Valdobbiadene Prosecco DOCG Superiore",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Brut",
+     "denominazione": "Valdobbiadene Prosecco DOCG Superiore",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Extra Dry",
+     "denominazione": "Valdobbiadene Prosecco DOCG Superiore",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda della cantina su Bere il Vino e pagine dei vini del sito della cantina, consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/casa-bianca-spumanti/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 25 ottobre 2026, pagina «casabiancaspumanti.it».",
+   "url": "https://www.casabiancaspumanti.it",
+   "etichetta": "casabiancaspumanti.it"
+  }
+ ]
+}

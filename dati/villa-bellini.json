@@ -1,0 +1,229 @@
+{
+ "nome": "Tenuta Villa Bellini",
+ "slug": "villa-bellini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Villa Bellini / Soc. Agricola Corte Polfranceschi S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via dei Fraccaroli 6, Castelrotto, 37029 San Pietro in Cariano (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Modulo di contatto sul sito [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0456850108 [[3]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "wine@tenutavillabellini.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutavillabellini.com/|www.tenutavillabellini.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Villa Bellini, dimora del ’700 sulla collina di Castelrotto [[4]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Terrazzamenti esposti a sud-est, pergola e spalliera, viti da 40–50 anni fino a piante centenarie; viticoltura dichiarata biologica/sostenibile; fermentazioni spontanee [[4]] [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; la tenuta produce anche un Blanc de Noir Millesimato. Il sito non riporta le annate. [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Centenarie",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Sottolago",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Tirele",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Teatrino",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Appuntamenti per degustazioni su richiesta via e-mail [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Decanter 2023 oro per Centenarie 2016\nBronzo Decanter per Centenarie 2017\nCorona Vini Buoni d’Italia a Tirele (2022)\nMedaglia d’argento al Concours Mondial de Bruxelles\nFalstaff [[12]] [[13]] [[14]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Decanter 2023: Centenarie 2016, 95 punti [[12]] [[13]] [[14]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/VillaBelliniOrganicWines|VillaBelliniOrganicWines}}\nInstagram {{https://www.instagram.com/villabelliniorganicwines/|@villabelliniorganicwines}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://tenutavillabellini.com/it/shop|tenutavillabellini.com/it/shop}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=10883189393862734187|Mappa}} — valutazione 4,7 su 5 (9 recensioni) [[15]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[16]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://tenutavillabellini.com/it/contatti",
+   "etichetta": "tenutavillabellini.com/it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.tenutavillabellini.com/",
+   "etichetta": "tenutavillabellini.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://tenutavillabellini.com/",
+   "etichetta": "tenutavillabellini.com"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/vinicoltura-biologica».",
+   "url": "https://tenutavillabellini.com/it/vinicoltura-biologica",
+   "etichetta": "tenutavillabellini.com/it/vinicoltura-biologica"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini».",
+   "url": "https://tenutavillabellini.com/it/vini",
+   "etichetta": "tenutavillabellini.com/it/vini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/it/vini/amarone-della-valpolicella».",
+   "url": "https://tenutavillabellini.com/it/it/vini/amarone-della-valpolicella",
+   "etichetta": "tenutavillabellini.com/it/it/vini/amarone-della-valpolicella"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/it/vini/valpolicella-ripasso».",
+   "url": "https://tenutavillabellini.com/it/it/vini/valpolicella-ripasso",
+   "etichetta": "tenutavillabellini.com/it/it/vini/valpolicella-ripasso"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella».",
+   "url": "https://tenutavillabellini.com/it/vini/valpolicella",
+   "etichetta": "tenutavillabellini.com/it/vini/valpolicella"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella-classico/valpolicella».",
+   "url": "https://tenutavillabellini.com/it/vini/valpolicella-classico/valpolicella",
+   "etichetta": "tenutavillabellini.com/it/vini/valpolicella-classico/valpolicella"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «it/cantina».",
+   "url": "https://tenutavillabellini.com/it/cantina",
+   "etichetta": "tenutavillabellini.com/it/cantina"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «it/notizie-e-eventi/decanter-2023-amarone-centenarie-2016».",
+   "url": "https://tenutavillabellini.com/it/notizie-e-eventi/decanter-2023-amarone-centenarie-2016",
+   "etichetta": "tenutavillabellini.com/it/notizie-e-eventi/decanter-2023-amarone-centenarie-2016"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «it/notizie-e-eventi/vini-buoni-ditalia-corona-a-tirele-2022».",
+   "url": "https://tenutavillabellini.com/it/notizie-e-eventi/vini-buoni-ditalia-corona-a-tirele-2022",
+   "etichetta": "tenutavillabellini.com/it/notizie-e-eventi/vini-buoni-ditalia-corona-a-tirele-2022"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «it/notizie-e-eventi/medaglia-di-bronzo-centenarie-2017-decanter-world-wine-award».",
+   "url": "https://tenutavillabellini.com/it/notizie-e-eventi/medaglia-di-bronzo-centenarie-2017-decanter-world-wine-award",
+   "etichetta": "tenutavillabellini.com/it/notizie-e-eventi/medaglia-di-bronzo-centenarie-2017-decanter-world-wine-award"
+  },
+  {
+   "n": 15,
+   "testo": "Scheda «Tenuta Villa Bellini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=10883189393862734187",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 16,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 17,
+   "testo": "Sito ufficiale della cantina, pagina «it/shop».",
+   "url": "https://tenutavillabellini.com/it/shop",
+   "etichetta": "tenutavillabellini.com/it/shop"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "nome": "Baldetti",
+ "slug": "baldetti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Pietraia 71/A, Cortona, AR [[1]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Vini Cortona [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0575 67077 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@baldetti.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://baldetti.com/|baldetti.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il nome Baldetti è legato al territorio di Cortona; l’amore per la terra si tramanda di generazione in generazione nella famiglia. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Cortona DOC [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Cortona DOC (azienda consorziata) [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=5738087891948140127|Mappa}} — valutazione 4,9 su 5 (254 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Vini Cortona, elenco delle aziende consorziate, consultato il 26 ottobre 2026.",
+   "url": "https://www.cortonaweb.net/i-vini-del-cortona-doc/le-aziende/",
+   "etichetta": "cortonaweb.net"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://baldetti.com/",
+   "etichetta": "baldetti.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://baldetti.com/",
+   "etichetta": "baldetti.com"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Baldetti Winery» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=5738087891948140127",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

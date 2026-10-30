@@ -1,0 +1,109 @@
+{
+ "nome": "Portinari",
+ "slug": "portinari",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Portinari Umberto [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via S. Stefano 2, Loc. Brognoligo, 37032 Monteforte d'Alpone (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 61 75 087 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.portinarivini.com|portinarivini.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda Agricola Portinari a Brognoligo di Monteforte d’Alpone; il sito ha una pagina «Azienda» non letta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Soave e Recioto di Soave, come scritti nel sito; la cantina produce anche un passito IGT e uno spumante. Il sito non riporta le annate. [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "U.P.",
+     "denominazione": "Soave DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Cru Ronchetto",
+     "denominazione": "Soave Classico Superiore DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Albare (doppia maturazione ragionata)",
+     "denominazione": "Soave DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Santo Stefano",
+     "denominazione": "Soave DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Oro",
+     "denominazione": "Recioto di Soave DOCG (nel sito «D.O.C.G.»)",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/portinari-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «portinarivini.com/ita/vini.php».",
+   "url": "https://www.portinarivini.com/ita/vini.php",
+   "etichetta": "portinarivini.com"
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "nome": "Enoitalia",
+ "slug": "enoitalia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Enoitalia SPA [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Viale del Lavoro 45, 37036 San Martino Buon Albergo (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390458876200 [[2]]\n045 887 6200 [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "dpo@italianwinebrands.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.enoitalia.it|enoitalia.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[3]]\nConsorzio Tutela Vino Lessini Durello DOC [[4]]\nConsorzio Tutela Vino Bardolino D.O.C. [[5]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Località Colombara, 5 - Calmasino di Bardolino (VR); tel. 045 8876200; info@enoitalia.it; enoitalia.it [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fa parte del gruppo Italian Wine Brands (IWB Italia S.p.A., società con socio unico); sede e cantina a Calmasino di Bardolino (VR) e cantina a Montebello Vicentino (VI) [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio Gemma di Luna",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Pinot Grigio Voga",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Pinot Grigio Vitis Nostra",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[3]]"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino DOC; Chiaretto di Bardolino DOC [[5]]"
+    },
+    {
+     "etichetta": "Elenco vini Soave",
+     "valore": "Nessun vino Soave nella home e nell’elenco dei brand letti (compaiono Lugana, Amarone, Ripasso, Prosecco e altri) [[6]]"
+    }
+   ],
+   "nota": "Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[5]]"
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/EnoitaliaWines|EnoitaliaWines}}\nInstagram {{https://www.instagram.com/enoitaliawines/|@enoitaliawines}}\nLinkedIn {{https://it.linkedin.com/company/enoitalia|enoitalia}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=7117324656559320198|Mappa}} — valutazione 5 su 5 (1 recensioni) [[7]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[8]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/enoitalia-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.enoitalia.it",
+   "etichetta": "enoitalia.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/enoitalia/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «enoitalia.it», consultata il 24 ottobre 2026.",
+   "url": "http://www.enoitalia.it",
+   "etichetta": "enoitalia.it"
+  },
+  {
+   "n": 7,
+   "testo": "Scheda «Enoitalia» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=7117324656559320198",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 8,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 9,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 10,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  }
+ ]
+}

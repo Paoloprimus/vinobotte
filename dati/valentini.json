@@ -1,0 +1,112 @@
+{
+ "nome": "Valentini",
+ "slug": "valentini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Valentini [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Podere Fiordaliso, 69 Località Valpiana Massa Marittima grosseto 58024 IT [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+393484743434 [[2]] [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@agricolavalentini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.agricolavalentini.it|agricolavalentini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini della Maremma Toscana [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Soglie delle medaglie dei concorsi (Gran Medaglia d’Oro oltre 92/100), illustrate nella pagina dei riconoscimenti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/valentiniwines|valentiniwines}}\nInstagram {{https://www.instagram.com/giovannivalentiniwines/|@giovannivalentiniwines}} [[2]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://agricolavalentini.it/wineshop/|agricolavalentini.it/wineshop}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8797344000726986149|Mappa}} — valutazione 4,9 su 5 (30 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini della Maremma Toscana, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.aziendevinimaremma.it/directory/listing/azienda-agricola-valentini",
+   "etichetta": "aziendevinimaremma.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.agricolavalentini.it",
+   "etichetta": "agricolavalentini.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Cantina Valentini - Wine Shop» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8797344000726986149",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

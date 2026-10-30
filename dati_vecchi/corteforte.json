@@ -1,0 +1,149 @@
+{
+ "nome": "Corteforte",
+ "slug": "corteforte",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Corteforte s.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04546520232 [[6]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 6839104 · info@corteforte.it [[6]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Osan 45, 37022 Fumane (VR) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.corteforte.it/|www.corteforte.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Corte medievale di inizio Quattrocento con quattro torri; dimora nobiliare nel Seicento; restaurata dagli anni ’80 da Carlo Maria Cerutti [[2]]"
+    },
+    {
+     "etichetta": "Ospitalità",
+     "valore": "Camere e appartamenti negli antichi edifici della corte [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dallo shop del sito; le annate non sono indicate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Corteforte Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto di Corteforte",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Alloggio",
+     "valore": "Camere e appartamenti nella corte medievale [[5]]"
+    },
+    {
+     "etichetta": "Contatti e prenotazioni",
+     "valore": "Modulo di contatto per degustazioni e soggiorni [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "corteforte.it, in italiano e inglese, con shop [[7]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «storia».",
+   "url": "https://www.corteforte.it/storia/",
+   "etichetta": "corteforte.it/storia"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «ospitalita».",
+   "url": "https://www.corteforte.it/ospitalita/",
+   "etichetta": "corteforte.it/ospitalita"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «categoria-prodotto/vini».",
+   "url": "https://www.corteforte.it/categoria-prodotto/vini/",
+   "etichetta": "corteforte.it/categoria-prodotto/vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «camere».",
+   "url": "https://www.corteforte.it/camere/",
+   "etichetta": "corteforte.it/camere"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.corteforte.it/contatti/",
+   "etichetta": "corteforte.it/contatti"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «negozio».",
+   "url": "https://www.corteforte.it/negozio/",
+   "etichetta": "corteforte.it/negozio"
+  }
+ ]
+}

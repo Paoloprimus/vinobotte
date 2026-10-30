@@ -1,0 +1,110 @@
+{
+ "nome": "Ca' del Colle",
+ "slug": "ca-del-colle",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Ca' del Colle [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Marconi, 1469 - 35030 Vo' (Padova) [[1]]"
+    },
+    {
+     "etichetta": "Ruolo nell’elenco del Consorzio",
+     "valore": "Coltivatore, Imbottigliatore, Produttore [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "049 9940354\nWhatsApp 3482349775 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cadelcolle.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cadelcolle.com|www.cadelcolle.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini D.O.C. Colli Euganei [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Facchin «dal 1902», a Vo’ nei Colli Euganei. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Colli Euganei Fior d'Arancio DOCG; Prosecco DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cadelcolle|cadelcolle}}\nInstagram {{https://www.instagram.com/cadelcolle/|@cadelcolle}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=5861200006109126629|Mappa}} — valutazione 4,9 su 5 (76 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini D.O.C. Colli Euganei, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinieuganei.it/",
+   "etichetta": "consorziovinieuganei.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.cadelcolle.com",
+   "etichetta": "cadelcolle.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://www.cadelcolle.com",
+   "etichetta": "cadelcolle.com"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Ca' del Colle» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=5861200006109126629",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

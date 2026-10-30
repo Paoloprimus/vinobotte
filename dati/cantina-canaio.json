@@ -1,0 +1,114 @@
+{
+ "nome": "Cantina Canaio",
+ "slug": "cantina-canaio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02262690510 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Farneta La Rota, Cortona, AR [[2]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Vini Cortona [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 339 4565239\n+39 335 7414129 [[1]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinacanaio.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinacanaio.it/|cantinacanaio.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Giovani produttori con una storia di oltre trent’anni come vignaioli; nella cantina seicentesca di famiglia puntano sul Syrah e sul Merlot. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Cortona DOC (azienda consorziata) [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cantinacanaio|cantinacanaio}}\nInstagram {{https://www.instagram.com/cantina_canaio/|@cantina_canaio}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16405730139983764894|Mappa}} — valutazione 4,9 su 5 (41 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://www.cantinacanaio.it/",
+   "etichetta": "cantinacanaio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Vini Cortona, elenco delle aziende consorziate, consultato il 26 ottobre 2026.",
+   "url": "https://www.cortonaweb.net/i-vini-del-cortona-doc/le-aziende/",
+   "etichetta": "cortonaweb.net"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.cantinacanaio.it/",
+   "etichetta": "cantinacanaio.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Cantina Canaio» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16405730139983764894",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

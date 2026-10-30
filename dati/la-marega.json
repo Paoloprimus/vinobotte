@@ -1,0 +1,164 @@
+{
+ "nome": "La Marega",
+ "slug": "la-marega",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola La Marega di Allegrini Marco [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località Marega 4, 37022 Fumane (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "Marco Allegrini +39 348 8838949\nDaniele Allegrini +39 328 7119368 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lamaregavini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lamaregavini.it/|www.lamaregavini.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Allegrini: nonno Vittorio vinificava negli anni ’60; oggi Marco, Daniele e Lorenzo [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Tenuta",
+     "valore": "Antica corte rurale con colombaia veronese, vigneti a pergola, Valpolicella Classica, esposizione Est/Sud-Est [[5]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Limitata e artigianale, bottiglie numerate; fruttaio naturale; antico torchio idraulico ancora in uso [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico Superiore DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Passeggiata nei vigneti della corte, visita a cantina e fruttaio, degustazione con Marco e Daniele; su prenotazione (visit@lamarega.it) [[6]] [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "lamaregavini.it in italiano e inglese [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=15009000348638247526|Mappa}} — valutazione 4,9 su 5 (28 recensioni) [[7]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.lamaregavini.it/contatti/",
+   "etichetta": "lamaregavini.it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.lamaregavini.it/",
+   "etichetta": "lamaregavini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://www.lamaregavini.it/vini/",
+   "etichetta": "lamaregavini.it/vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «la-marega».",
+   "url": "https://www.lamaregavini.it/la-marega/",
+   "etichetta": "lamaregavini.it/la-marega"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «esperienze».",
+   "url": "https://www.lamaregavini.it/esperienze/",
+   "etichetta": "lamaregavini.it/esperienze"
+  },
+  {
+   "n": 7,
+   "testo": "Scheda «La Marega Vini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=15009000348638247526",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

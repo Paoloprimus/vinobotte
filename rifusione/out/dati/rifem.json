@@ -1,0 +1,115 @@
+{
+ "nome": "Rifèm",
+ "slug": "rifem",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Rifèm / Società Agricola Exclusive Società Semplice (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02626450221 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via alla Cà 14, Borghetto all’Adige, 38063 Avio (TN) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 8531798 · +39 351 6364281 · info@rifem.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.rifemwine.com/|www.rifemwine.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Modello",
+     "valore": "Un vino per ogni territorio: Amarone (Val di Mezzane, Verona), Prosecco DOC (Friuli) e Trento DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo il vino a denominazione Valpolicella; gli altri due vini sono Prosecco DOC e Trento DOC. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Rifèm",
+     "denominazione": "Amarone della Valpolicella DOCG (Val di Mezzane)",
+     "annata": "2021 [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "rifemwine.com con shop [[5]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Negozio sul sito; altri marketplace: presenza non verificata [[5]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://rifemwine.com/contatti/",
+   "etichetta": "rifemwine.com/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://rifemwine.com/vini/",
+   "etichetta": "rifemwine.com/vini"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vino/amarone-rifem».",
+   "url": "https://rifemwine.com/vino/amarone-rifem/",
+   "etichetta": "rifemwine.com/vino/amarone-rifem"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «shop».",
+   "url": "https://rifemwine.com/shop/",
+   "etichetta": "rifemwine.com/shop"
+  }
+ ]
+}

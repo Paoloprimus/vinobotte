@@ -1,0 +1,198 @@
+{
+ "nome": "Bonazzi",
+ "slug": "bonazzi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Bonazzi Dario e Fabio [[1]]; nell’elenco del Consorzio: Az. Agr. Bonazzi Dario & Fabio s.s. [[2]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02607410236 [[4]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Valpolicella 24, 37029 San Pietro in Cariano (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7702469 · info@bonazziwine.it · ordini@bonazziwine.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bonazziwine.it/|www.bonazziwine.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Bardolino D.O.C. [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Amarone della Valpolicella DOCG Classico (anche Riserva), Valpolicella DOC Classico, Bardolino DOC, Chiaretto di Bardolino DOC, Custoza DOC, Lugana DOC, Pinot Grigio delle Venezie DOC, Prosecco DOC, Rosso Veronese IGT, Veneto Rosso IGT [[4]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Grappe (di Amarone, di Recioto, di San Nicola e riserva), aceto di vino rosso San Nicola, olio extravergine d’oliva [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Linee del sito: Viola (vini strutturati), Blu, Vini freschi (bianchi e rosati del Lago di Garda), I nostri IGT. Il sito indica le annate nello shop. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[7]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Riserva (etichetta viola)",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "2019"
+    },
+    {
+     "nome": "Amarone (etichetta blu)",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2018 e 2020"
+    },
+    {
+     "nome": "Valpolicella Classico (etichetta viola)",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "2024"
+    },
+    {
+     "nome": "Bardolino",
+     "denominazione": "Bardolino DOC",
+     "annata": "2025"
+    },
+    {
+     "nome": "Chiaretto",
+     "denominazione": "Chiaretto di Bardolino DOC (anche spumante brut)",
+     "annata": "2025"
+    },
+    {
+     "nome": "Custoza",
+     "denominazione": "Custoza DOC",
+     "annata": "2025"
+    },
+    {
+     "nome": "Lugana",
+     "denominazione": "Lugana DOC",
+     "annata": "2025"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Pinot Grigio delle Venezie DOC",
+     "annata": "2024"
+    },
+    {
+     "nome": "Prosecco",
+     "denominazione": "Prosecco DOC Extra Dry",
+     "annata": "—"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Chiaretto di Bardolino Classico DOC [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Cantina lunedì–venerdì 9.30–19; sabato 8.30–19 [[6]]"
+    },
+    {
+     "etichetta": "Wine shop",
+     "valore": "Vendita in cantina e shop online [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "bonazziwine.it, in italiano e inglese, con shop online [[4]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Shop online con carrello e spedizioni [[1]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook, Instagram e YouTube indicati dal sito; Google Business Profile, Vivino, Wine-Searcher, Wikipedia: presenza non verificata [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «termini-e-condizioni-di-vendita».",
+   "url": "https://bonazziwine.it/termini-e-condizioni-di-vendita/",
+   "etichetta": "bonazziwine.it/termini-e-condizioni-di-vendita"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.bonazziwine.it/",
+   "etichetta": "bonazziwine.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/grappa-da-vinacce-di-san-nicola».",
+   "url": "https://bonazziwine.it/prodotto/grappa-da-vinacce-di-san-nicola/",
+   "etichetta": "bonazziwine.it/prodotto/grappa-da-vinacce-di-san-nicola"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «contattaci».",
+   "url": "https://bonazziwine.it/contattaci/",
+   "etichetta": "bonazziwine.it/contattaci"
+  },
+  {
+   "n": 7,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/bonazzi-dario-e-fabio/",
+   "etichetta": "consorziobardolino.it"
+  }
+ ]
+}

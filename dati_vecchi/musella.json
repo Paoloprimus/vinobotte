@@ -1,0 +1,119 @@
+{
+ "nome": "Musella",
+ "slug": "musella",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Musella; P.IVA 02623130230 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Ferrazzette 2, 37036 San Martino Buon Albergo (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 973385; reception +39 335 7294627; relais@musella.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.musella.it/|musella.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Tenuta",
+     "valore": "Quasi 400 ettari; cantina e uffici in una corte rurale del 1500, un tempo scuderia del palazzo nobiliare della tenuta, restaurata [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dalla pagina «I vini di Musella» (annate presenti nella pagina non riportate); solo i vini a denominazione Valpolicella. [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Valpolicella Superiore Ripasso",
+     "denominazione": "Valpolicella Superiore Ripasso DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella Riserva",
+     "denominazione": "Amarone della Valpolicella Riserva DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Recioto della Valpolicella",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Senza Titolo",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visita della cantina con spiegazione della vinificazione e degustazione per piccoli gruppi, con formaggio Monte Veronese e altri prodotti; prenotando dal sito è in omaggio una bottiglia [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine del sito della cantina consultate dal vivo il 24 ottobre 2026 (home, I vini di Musella). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «musella.it».",
+   "url": "https://www.musella.it/",
+   "etichetta": "musella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «musella.it/i-vini-di-musella».",
+   "url": "https://www.musella.it/i-vini-di-musella/",
+   "etichetta": "musella.it"
+  }
+ ]
+}

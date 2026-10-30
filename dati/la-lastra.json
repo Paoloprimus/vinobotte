@@ -1,0 +1,122 @@
+{
+ "nome": "La Lastra",
+ "slug": "la-lastra",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Lastra Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01627850520 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Sede legale: Loc. Canneta 27, 53037 San Gimignano, SI; sede operativa: Strada della Befana 5/A, 53100 Siena, SI [[1]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vernaccia di San Gimignano [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577 274868 [[1]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "winetasting@lalastra.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lalastra.it/|lalastra.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata nel 1994 da Nadia Betti, Renato Spanu, Christian Betti, Enrico Paternoster e Valerio Zorzi; nel 2000 affiancò l’azienda «Marciano», alle porte di Siena, condotta con metodi biologici. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Vernaccia di San Gimignano DOCG [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Chianti Colli Senesi; Rovaio; Canaiolo Nero [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/lalastrawine|lalastrawine}}\nInstagram {{https://www.instagram.com/lalastrawine/|@lalastrawine}}\nYouTube {{https://www.youtube.com/channel/UCRdpdFhkdWjOuFs9Khygfdw|canale UCRdpdFhkdWjOuFs9Khygfdw}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13761464756595681374|Mappa}} — valutazione 5 su 5 (1166 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://www.lalastra.it/",
+   "etichetta": "lalastra.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vernaccia di San Gimignano, elenco dei produttori, consultato il 26 ottobre 2026.",
+   "url": "https://vernaccia.it/produttori/",
+   "etichetta": "vernaccia.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.lalastra.it/",
+   "etichetta": "lalastra.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Azienda Agricola La Lastra» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13761464756595681374",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

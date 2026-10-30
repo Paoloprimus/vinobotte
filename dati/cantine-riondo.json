@@ -1,0 +1,163 @@
+{
+ "nome": "Cantine Riondo",
+ "slug": "cantine-riondo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantine Riondo S.p.A. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cappuccini 6, 37032 Monteforte d’Alpone (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 6104346 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "riondo@cantineriondo.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantineriondo.com|cantineriondo.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[3]]\nConsorzio Tutela Vino Lessini Durello DOC [[4]]\nConsorzio Tutela Vini DOC Delle Venezie [[5]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Prosecco DOC",
+     "valore": "Via Cappuccini 6, 37032 VR; tel. +39 0456104346; riondo@cantineriondo.com; https://www.cantineriondo.com/ [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nata nel 2008 «come costola del grande gruppo cooperativo COLLIS» (sezione iniziale del sito) [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Prosecco DOC",
+     "valore": "Il sito elenca Amarone, Recioto, Ripasso, Pinot Grigio e Prosecco Brut senza indicare le denominazioni [[1]]"
+    }
+   ],
+   "vini": [
+    {
+     "nome": "Pinot Grigio Casalforte",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Pinot Grigio Casa Lunardi",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Pinot Grigio Ceccato",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Pinot Grigio Riondo",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[5]]"
+    }
+   ],
+   "tipo": "vini"
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "The Wine Hunter 05/2022\nVinordic Wine Challenge 05/2023 (oro)\nMundus Vini 02/2022 (oro, Best of Show, argento) e 03/2021 (oro, argento)\nGilbert & Gaillard 03/2021 (oro)\nBerliner Wein Trophy 12/2021 (Grand Gold) [[1]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "5 Star Wines 05/2023 (92)\nLuca Maroni 07/2022 (96) [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://shop.cantineriondo.com/|shop.cantineriondo.com}} [[6]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=4065293689206001168|Mappa}} — valutazione 4,1 su 5 (67 recensioni) [[7]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[8]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate tra il 24 e il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «cantineriondo.com», consultata il 24 ottobre 2026.",
+   "url": "http://www.cantineriondo.com",
+   "etichetta": "cantineriondo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://montilessini.com/riondo/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.cantineriondo.com",
+   "etichetta": "cantineriondo.com"
+  },
+  {
+   "n": 7,
+   "testo": "Scheda «Cantine Riondo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=4065293689206001168",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 8,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

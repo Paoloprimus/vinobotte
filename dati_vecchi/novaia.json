@@ -1,0 +1,230 @@
+{
+ "nome": "Novaia",
+ "slug": "novaia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Novaia (come da elenco del Consorzio) [[1]]; P.IVA 00804930238 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Novaia 1, 37020 Marano di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7755129 · cell. +39 340 7766613 (Cristina) · info@novaia.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.novaia.it/|www.novaia.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Villa del XV secolo; dal 1700 della famiglia Vaona; oggi Cesare e GiamPaolo Vaona [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Tenuta di 10 ettari (7 a vigneto, 3 a oliveto), 250–400 m, Corvina, Corvinone, Rondinella e antiche varietà Oseleta, Turchetta, Molinara; tre cru: Le Balze, I Cantoni, Le Novaje [[4]] [[5]]"
+    },
+    {
+     "etichetta": "Metodo",
+     "valore": "Azienda agricola biologica certificata [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal sito, senza annata. [[7]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Le Balze",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Corte Vaona",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Le Novaje",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "I Cantoni",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[12]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[13]]"
+    },
+    {
+     "nome": "Fapulito",
+     "denominazione": "Valpolicella Classico DOC senza solfiti aggiunti",
+     "annata": "— [[14]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Notizia sul sito del 2015: Robert Parker, Le Balze 2009 94, Corte Vaona 2010 92, I Cantoni 2011 90; il sito cita anche James Suckling; dichiarati dalla cantina, non verificati da VinoBot sulle guide [[15]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Winetasting e winetour in tenuta (“Woods & Winetour”), lun–sab 9–18, domenica su prenotazione [[16]] [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "novaia.it in italiano e inglese, con negozio online [[17]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti/?lang=it».",
+   "url": "https://www.novaia.it/contatti/?lang=it",
+   "etichetta": "novaia.it/contatti/?lang=it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «storia/la-nostra-storia/?lang=it».",
+   "url": "https://www.novaia.it/storia/la-nostra-storia/?lang=it",
+   "etichetta": "novaia.it/storia/la-nostra-storia/?lang=it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «azienda/vigneti/?lang=it».",
+   "url": "https://www.novaia.it/azienda/vigneti/?lang=it",
+   "etichetta": "novaia.it/azienda/vigneti/?lang=it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «azienda/cru-2/?lang=it».",
+   "url": "https://www.novaia.it/azienda/cru-2/?lang=it",
+   "etichetta": "novaia.it/azienda/cru-2/?lang=it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «storia/una-scelta-biologica/?lang=it».",
+   "url": "https://www.novaia.it/storia/una-scelta-biologica/?lang=it",
+   "etichetta": "novaia.it/storia/una-scelta-biologica/?lang=it"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «vini/?lang=it».",
+   "url": "https://www.novaia.it/vini/?lang=it",
+   "etichetta": "novaia.it/vini/?lang=it"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «vini/amarone-della-valpolicella-docg-classico-riserva-le-balze/?lang=it».",
+   "url": "https://www.novaia.it/vini/amarone-della-valpolicella-docg-classico-riserva-le-balze/?lang=it",
+   "etichetta": "novaia.it/vini/amarone-della-valpolicella-docg-classico-riserva-le-balze/?lang=it"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «vini/amarone-della-valpolicella-docg-classico-corte-vaona/?lang=it».",
+   "url": "https://www.novaia.it/vini/amarone-della-valpolicella-docg-classico-corte-vaona/?lang=it",
+   "etichetta": "novaia.it/vini/amarone-della-valpolicella-docg-classico-corte-vaona/?lang=it"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «vini/recioto-della-valpolicella-docg-classico-le-novaje/?lang=it».",
+   "url": "https://www.novaia.it/vini/recioto-della-valpolicella-docg-classico-le-novaje/?lang=it",
+   "etichetta": "novaia.it/vini/recioto-della-valpolicella-docg-classico-le-novaje/?lang=it"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «vini/valpolicella-doc-classico-superiore-i-cantoni/?lang=it».",
+   "url": "https://www.novaia.it/vini/valpolicella-doc-classico-superiore-i-cantoni/?lang=it",
+   "etichetta": "novaia.it/vini/valpolicella-doc-classico-superiore-i-cantoni/?lang=it"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «vini/valpolicella-ripasso-doc-classico-superiore/?lang=it».",
+   "url": "https://www.novaia.it/vini/valpolicella-ripasso-doc-classico-superiore/?lang=it",
+   "etichetta": "novaia.it/vini/valpolicella-ripasso-doc-classico-superiore/?lang=it"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «vini/valpolicella-doc-classico/?lang=it».",
+   "url": "https://www.novaia.it/vini/valpolicella-doc-classico/?lang=it",
+   "etichetta": "novaia.it/vini/valpolicella-doc-classico/?lang=it"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «vini/valpolicella-doc-classico-fapulito-senza-solfiti-aggiunti/?lang=it».",
+   "url": "https://www.novaia.it/vini/valpolicella-doc-classico-fapulito-senza-solfiti-aggiunti/?lang=it",
+   "etichetta": "novaia.it/vini/valpolicella-doc-classico-fapulito-senza-solfiti-aggiunti/?lang=it"
+  },
+  {
+   "n": 15,
+   "testo": "Sito ufficiale della cantina, pagina «three-novaias-wine-90-points-robert-parker/?lang=it».",
+   "url": "https://www.novaia.it/three-novaias-wine-90-points-robert-parker/?lang=it",
+   "etichetta": "novaia.it/three-novaias-wine-90-points-robert-parker/?lang=it"
+  },
+  {
+   "n": 16,
+   "testo": "Sito ufficiale della cantina, pagina «degustazione/?lang=it».",
+   "url": "https://www.novaia.it/degustazione/?lang=it",
+   "etichetta": "novaia.it/degustazione/?lang=it"
+  },
+  {
+   "n": 17,
+   "testo": "Sito ufficiale della cantina, pagina «?lang=it».",
+   "url": "https://www.novaia.it/?lang=it",
+   "etichetta": "novaia.it/?lang=it"
+  }
+ ]
+}

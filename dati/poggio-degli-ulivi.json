@@ -1,0 +1,124 @@
+{
+ "nome": "Poggio degli Ulivi",
+ "slug": "poggio-degli-ulivi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Poggio degli Ulivi [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00726890528 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "53024 Castelnuovo Abate - SI [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577331524 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "poggiodegliulivi@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.tenutapoggiodegliulivi.it|tenutapoggiodegliulivi.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Brunello di Montalcino [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Brunello di Montalcino DOCG; Brunello di Montalcino Riserva DOCG [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Brunello di Montalcino [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "London Wine Competition: Brunello 2016 oro nel 2026\nBrunello Riserva 2016 oro e «Wine of the Year Italy» nel 2025 [[4]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "London Wine Competition: Brunello 2016, 92 punti (2026)\nBrunello Riserva 2016, 96 punti (2025) [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/poggiodegliuliviwinery|poggiodegliuliviwinery}}\nInstagram {{https://www.instagram.com/poggiodegliuliviwinery/|@poggiodegliuliviwinery}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: presenza non verificata\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=7211345217052406067|Mappa}} [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.tenutapoggiodegliulivi.it",
+   "etichetta": "tenutapoggiodegliulivi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio del Vino Brunello di Montalcino, scheda della cantina nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziobrunellodimontalcino.it/it/1536/poggio-degli-ulivi",
+   "etichetta": "consorziobrunellodimontalcino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.tenutapoggiodegliulivi.it",
+   "etichetta": "tenutapoggiodegliulivi.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.tenutapoggiodegliulivi.it",
+   "etichetta": "tenutapoggiodegliulivi.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Tenuta Poggio degli Ulivi» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=7211345217052406067",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

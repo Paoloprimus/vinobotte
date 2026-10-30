@@ -1,0 +1,122 @@
+{
+ "nome": "Lamberti",
+ "slug": "lamberti-soave",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Lamberti [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Gardesana 13/15, 37010 Pastrengo (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 6269600; 045 7235772 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vino Bardolino D.O.C.: {{/pagine/lamberti-bardolino.html|scheda Bardolino}} [[2]]"
+    },
+    {
+     "etichetta": "Gruppo",
+     "valore": "Marchio del Gruppo Italiano Vini [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Marchio del Gruppo Italiano Vini, a Pastrengo sul Lago di Garda; l’enologa Maricarmen Navas è nel gruppo dalla vendemmia 2004 ed è enologa di Lamberti dal 2016; data di fondazione non indicata [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini che il sito indica come Soave; il marchio produce anche Bardolino, Custoza, Lugana, Valpolicella, Amarone e altri vini. Il sito non riporta le annate nell’elenco. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Ca’ Preella",
+     "denominazione": "Soave DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Soave (linea Le Torri)",
+     "denominazione": "Soave DOC Classico",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nelle pagine lette [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/lamberti/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «gruppoitalianovini.it/it/brand/lamberti».",
+   "url": "https://www.gruppoitalianovini.it/it/brand/lamberti",
+   "etichetta": "gruppoitalianovini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «gruppoitalianovini.it/it/brand/lamberti/vini».",
+   "url": "https://www.gruppoitalianovini.it/it/brand/lamberti/vini",
+   "etichetta": "gruppoitalianovini.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «gruppoitalianovini.it/it/brand/lamberti/vini/ca-preella/ca-preella-soave-doc-61068-06».",
+   "url": "https://www.gruppoitalianovini.it/it/brand/lamberti/vini/ca-preella/ca-preella-soave-doc-61068-06",
+   "etichetta": "gruppoitalianovini.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «gruppoitalianovini.it/it/brand/lamberti/vini/le-torri/soave-doc-classico».",
+   "url": "https://www.gruppoitalianovini.it/it/brand/lamberti/vini/le-torri/soave-doc-classico",
+   "etichetta": "gruppoitalianovini.it"
+  }
+ ]
+}

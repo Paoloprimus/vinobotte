@@ -1,0 +1,96 @@
+{
+ "nome": "Ronc di Bianca",
+ "slug": "ronc-di-bianca",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via E. Lodi, 3 33044, Manzano, Loc. Rosazzo [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate al Consorzio",
+     "valore": "DOC Friuli Colli Orientali [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0432 759696\nfax +39 0432 759696 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "simoanzolini@alice.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.roncdibianca.it/|roncdibianca.it}} — non raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Titolare: Simone Anzolini; Ettari vitati: 5; Bottiglie prodotte: 10.000 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non ancora raccolto dal sito della cantina [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1126382926222167694|Mappa}} [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo, scheda della cantina nell’elenco delle aziende associate, consultata il 25 ottobre 2026.",
+   "url": "https://www.colliorientali.com/ronc-di-bianca/",
+   "etichetta": "colliorientali.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito indicato nella scheda Google Maps della cantina, ricerca del 29 ottobre 2026.",
+   "url": "https://maps.google.com/?cid=1126382926222167694",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Ronc di Bianca» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1126382926222167694",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

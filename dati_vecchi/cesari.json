@@ -1,0 +1,200 @@
+{
+ "nome": "Cesari",
+ "slug": "cesari",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Gerardo Cesari S.p.A. s.a. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "IT00639080985 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Progni 81, 37022 Fumane (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 2160150 · hospitality@cesari.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cesari.it/|www.cesari.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vino Bardolino D.O.C.: {{/pagine/cesari-bardolino.html|scheda Bardolino}} [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Azienda fondata nel 1936; il sito indica la prima annata di Amarone Cesari e l’esportazione negli USA dell’Amarone Classico 1971 [[4]]"
+    },
+    {
+     "etichetta": "Cantine",
+     "valore": "Fumane (visita, degustazione, wine shop) e Cavaion Veronese, loc. Sorsei 3 (Bottaia di affinamento; tel. +39 045 6260928) [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Linee del sito: Classics, Bosan, Centofilari, Justo, Jèma, Il Bosco. Selezione dalla pagina Vini. [[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Classics Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2022 [[6]]"
+    },
+    {
+     "nome": "Classics Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "2023 [[6]]"
+    },
+    {
+     "nome": "Classics Valpolicella",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "2024 [[6]]"
+    },
+    {
+     "nome": "Classics Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "2020 [[6]]"
+    },
+    {
+     "nome": "Classics Tremenalto",
+     "denominazione": "Soave Classico DOC",
+     "annata": "2024 [[6]]"
+    },
+    {
+     "nome": "Bosan Riserva",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "2017 [[6]]"
+    },
+    {
+     "nome": "Bosan",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "2022 [[6]]"
+    },
+    {
+     "nome": "Bosan Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "2020 [[6]]"
+    },
+    {
+     "nome": "Il Bosco",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2021 [[7]]"
+    },
+    {
+     "nome": "Centofilari",
+     "denominazione": "Lugana DOC",
+     "annata": "2025 [[6]]"
+    },
+    {
+     "nome": "Centofilari",
+     "denominazione": "Pinot Grigio Garda DOC",
+     "annata": "2024 [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel testo salvato del sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Visita, degustazione e wine shop a Fumane e a Cavaion Veronese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cesari.it, in italiano e inglese [[8]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.cesari.it/contatti/",
+   "etichetta": "cesari.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «identita».",
+   "url": "https://www.cesari.it/identita/",
+   "etichetta": "cesari.it/identita"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «cantine».",
+   "url": "https://www.cesari.it/cantine/",
+   "etichetta": "cesari.it/cantine"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://www.cesari.it/vini/",
+   "etichetta": "cesari.it/vini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «vino/amarone-della-valpolicella-il-bosco-2021».",
+   "url": "https://www.cesari.it/vino/amarone-della-valpolicella-il-bosco-2021/",
+   "etichetta": "cesari.it/vino/amarone-della-valpolicella-il-bosco-2021"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.cesari.it/",
+   "etichetta": "cesari.it"
+  }
+ ]
+}

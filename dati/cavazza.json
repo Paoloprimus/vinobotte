@@ -1,0 +1,119 @@
+{
+ "nome": "Cavazza",
+ "slug": "cavazza",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "CAVAZZA [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Selva 22, 36054 Montebello Vicentino (VI) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0444 649166 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cavazzawine.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cavazzawine.com|cavazzawine.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Lessini Durello DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda fondata nel 1928, oggi alla quarta generazione; controlla la filiera dalla vigna alla spedizione [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito elenca 18 vini; il Durello è nella linea Classici. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Durello Spumante",
+     "denominazione": "Lessini Durello DOC Brut Millesimato (metodo Charmat)",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=9952672319334192526|Mappa}} — valutazione 4,7 su 5 (51 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://montilessini.com/cavazza/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «cavazzawine.com/i-nostri-vini», consultata il 24 ottobre 2026.",
+   "url": "https://cavazzawine.com/i-nostri-vini/",
+   "etichetta": "cavazzawine.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «cavazzawine.com/vini/durello», consultata il 24 ottobre 2026.",
+   "url": "https://cavazzawine.com/vini/durello/",
+   "etichetta": "cavazzawine.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Azienda Agricola Cavazza» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=9952672319334192526",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

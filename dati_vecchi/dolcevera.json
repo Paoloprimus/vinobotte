@@ -1,0 +1,157 @@
+{
+ "nome": "DolceVera",
+ "slug": "dolcevera",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola DolceVera di Benedetti Marco [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via S. Rocco 1, località Villa, 37024 Negrar di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7501045 · cell. +39 339 1210201 · cantina@dolceveravini.com [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04151180231 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.dolceveravini.com/|www.dolceveravini.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda fondata da Marco Benedetti a 25 anni a Villa di Negrar; prima vinificazione parziale con l’uva 2015, dal 2016 tutta la produzione [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Colline di Villa di Negrar, esposizione ovest, 200–300 m s.l.m.; Corvina, Corvinone, Molinara, Rondinella [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine di oliva [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Ripasso Classico Superiore",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone Classico Riserva",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto Classico",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Tour da vigneti a bottaia con degustazione, solo su prenotazione [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "dolceveravini.com con schede vino e contatti [[5]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti.html».",
+   "url": "https://www.dolceveravini.com/contatti.html",
+   "etichetta": "dolceveravini.com/contatti.html"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «cantina-vinicola-dolcevera.html».",
+   "url": "https://www.dolceveravini.com/cantina-vinicola-dolcevera.html",
+   "etichetta": "dolceveravini.com/cantina-vinicola-dolcevera.html"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini-della-valpolicella.html».",
+   "url": "https://www.dolceveravini.com/i-vini-della-valpolicella.html",
+   "etichetta": "dolceveravini.com/i-vini-della-valpolicella.html"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.dolceveravini.com/",
+   "etichetta": "dolceveravini.com"
+  }
+ ]
+}

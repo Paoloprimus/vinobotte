@@ -1,0 +1,166 @@
+{
+ "nome": "Cantina Sabaini",
+ "slug": "cantina-sabaini-soave",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Sabaini Adolfo Az. Agr. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Mormontea 6/A, 37031 Illasi (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 652 9042 · info@cantinasabaini.it; aperto mar–ven 9–12 e 15–19, sab 9–19 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinasabaini.it/|www.cantinasabaini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Valpolicella: {{/pagine/cantina-sabaini.html|scheda Valpolicella}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Tre generazioni; oggi Adolfo con la moglie Mirca e i figli Riccardo e Alberto [[4]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "115 ettari in 6 tenute (Val d’Illasi) [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo il vino a denominazione Soave; la cantina produce anche Valpolicella, Amarone e altri vini. La scheda del vino non è nella pagina elenco. [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Soave",
+     "denominazione": "Soave DOC",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi: WinesCritic.com",
+     "valore": "Soave 2024 [[7]]"
+    },
+    {
+     "etichetta": "Premi: Merano WineHunter",
+     "valore": "Soave DOC 2025 [[7]]"
+    },
+    {
+     "etichetta": "Premi: Vini buoni d’Italia",
+     "valore": "Soave DOC 2025 (due vini indicati con lo stesso nome nella pagina); dichiarati dalla cantina, non verificati da VinoBot sulle guide [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Esperienze",
+     "valore": "Degustazioni, eventi privati e degustazioni personalizzate; wine shop e “Caneva” [[8]] [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cantinasabaini.it con wine shop [[10]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Wine shop sul sito (richiesta informazioni); altri marketplace: presenza non verificata [[10]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social indicati dal sito (“Ci trovate anche qui”); Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito della cantina; elenco del consorzio consultato dal vivo). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.cantinasabaini.it/contatti/",
+   "etichetta": "cantinasabaini.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «identita-famiglia».",
+   "url": "https://www.cantinasabaini.it/identita-famiglia/",
+   "etichetta": "cantinasabaini.it/identita-famiglia"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «identita-vigneti».",
+   "url": "https://www.cantinasabaini.it/identita-vigneti/",
+   "etichetta": "cantinasabaini.it/identita-vigneti"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «wine-shop-vini».",
+   "url": "https://www.cantinasabaini.it/wine-shop-vini/",
+   "etichetta": "cantinasabaini.it/wine-shop-vini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «riconoscimenti-2026».",
+   "url": "https://www.cantinasabaini.it/riconoscimenti-2026/",
+   "etichetta": "cantinasabaini.it/riconoscimenti-2026"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «esperienze».",
+   "url": "https://www.cantinasabaini.it/esperienze/",
+   "etichetta": "cantinasabaini.it/esperienze"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «wine-shop-caneva».",
+   "url": "https://www.cantinasabaini.it/wine-shop-caneva/",
+   "etichetta": "cantinasabaini.it/wine-shop-caneva"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «wine-shop».",
+   "url": "https://www.cantinasabaini.it/wine-shop/",
+   "etichetta": "cantinasabaini.it/wine-shop"
+  }
+ ]
+}

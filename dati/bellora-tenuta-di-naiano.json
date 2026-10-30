@@ -1,0 +1,107 @@
+{
+ "nome": "Bellora Tenuta di Naiano",
+ "slug": "bellora-tenuta-di-naiano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Bellora Tenuta di Naiano [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Naiano, 37010 Cavaion Veronese (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "045 6267059 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bellora.wine [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://bellora.wine/|bellora.wine}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Tenuta vitivinicola a Naiano, vicino al Garda e a Verona, con wine shop e degustazioni [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Amarone della Valpolicella Classico DOCG; Amarone della Valpolicella Classico Riserva DOCG; Recioto della Valpolicella Classico DOCG; Valpolicella Ripasso Superiore DOC; Valpolicella Superiore DOC; Lugana DOC; Soave Classico DOC; Delle Venezie DOC; Chiaretto di Bardolino Classico DOC; Bardolino Classico DOC [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino Classico DOC; Chiaretto di Bardolino Classico DOC [[1]]"
+    }
+   ],
+   "nota": "Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[1]]"
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8840022374663624659|Mappa}} — valutazione 4,8 su 5 (19 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/bellora-tenuta-di-naiano/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://bellora.wine/",
+   "etichetta": "bellora.wine"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Tenuta di Naiano» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8840022374663624659",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

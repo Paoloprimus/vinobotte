@@ -1,0 +1,77 @@
+{
+ "nome": "Azienda Agricola degli Azzoni Avogadro Carradori",
+ "slug": "azzoni-avogadro-carradori",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola degli Azzoni Avogadro Carradori società semplice [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Capecchi 74, 56025 Pontedera (fraz. La Rotta), PI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0587 484818 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@adegliazzoni.eu [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.adegliazzoni.eu/|adegliazzoni.eu}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Terre di Pisa [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti DOCG, Vin Santo DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/contealdobrandodegliazzoni/|facebook.com/contealdobrandodegliazzoni}}\nInstagram {{https://www.instagram.com/adegliazzoni/|instagram.com/adegliazzoni}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.adegliazzoni.eu/",
+   "etichetta": "adegliazzoni.eu"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vini Terre di Pisa, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.viniterredipisa.com/azienda-it.php?id=25",
+   "etichetta": "viniterredipisa.com"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "nome": "Nardello",
+ "slug": "nardello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Nardello Daniele s.s. società agricola [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via IV Novembre 56, 37032 Monteforte d'Alpone (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 7612116 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.nardellovini.it|nardellovini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda Agricola Daniele Nardello S.S.; la famiglia coltiva la vite da generazioni su circa 14 ettari, con viti di 40-50 anni nella maggior parte dei vigneti; anno di fondazione non indicato [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito scrive la denominazione solo per Meridies; gli altri cinque vini (Aetas, Blanc De Fè, Vigna Turbian, Monte Zoppega, Suavissimus) sono elencati senza denominazione. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Meridies",
+     "denominazione": "Soave DOC Classico",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/nardello-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «nardellovini.it».",
+   "url": "https://www.nardellovini.it",
+   "etichetta": "nardellovini.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «nardellovini.it/meridies».",
+   "url": "https://www.nardellovini.it/meridies/",
+   "etichetta": "nardellovini.it"
+  }
+ ]
+}

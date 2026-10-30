@@ -1,0 +1,108 @@
+{
+ "nome": "La Palazzetta",
+ "slug": "la-palazzetta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "LA PALAZZETTA di Luca e Flavio Fanti [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01342880521 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Pod. La Palazzetta 1/p - Castelnuovo dell'Abate - 53024 - Montalcino (Siena) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3288580892 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "palazzettafanti@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.palazzettafanti.com|palazzettafanti.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Brunello di Montalcino [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata circa 30 anni fa nelle vigne dei bisnonni, oggi gestita da Flavio, Carla e dai figli Tea e Luca. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Brunello di Montalcino; Rosso di Montalcino; Sant'Antimo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=9991530589631772746|Mappa}} — valutazione 4,7 su 5 (11 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.palazzettafanti.com",
+   "etichetta": "palazzettafanti.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio del Vino Brunello di Montalcino, scheda della cantina nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziobrunellodimontalcino.it/it/1485/la-palazzetta",
+   "etichetta": "consorziobrunellodimontalcino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «La Palazzetta di Luca e Flavio» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=9991530589631772746",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

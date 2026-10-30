@@ -1,0 +1,112 @@
+{
+ "nome": "Di Lenardo",
+ "slug": "di-lenardo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Piazza C. Battisti 1, 33050 Ontagnano di Gonars (UD) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0432 928633 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@dilenardo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.dilenardo.it|dilenardo.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio DOC Friuli [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini nella scheda del Consorzio, senza denominazione: la scheda indica soltanto il nome del vino, per tipo (bianco, rosso) in base alle icone. L’elenco è lo stesso formato per tutti i soci; la denominazione di ciascun vino va verificata sul sito della cantina [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Friulano",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot grigio",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/di.lenardo.vineyards|di.lenardo.vineyards}}\nInstagram {{https://www.instagram.com/dilenardo_vineyards/|@dilenardo_vineyards}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=14996916856474179635|Mappa}} — valutazione 4,8 su 5 (33 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/di-lenardo/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.dilenardo.it",
+   "etichetta": "dilenardo.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «DI LENARDO vineyards» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=14996916856474179635",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

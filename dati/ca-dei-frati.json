@@ -1,0 +1,196 @@
+{
+ "nome": "Cà dei Frati",
+ "slug": "ca-dei-frati",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Cà dei Frati di Dal Cero Pietro e Figli Soc. Agr. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00631300985 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Frati 22, 25019 Lugana di Sirmione (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "030.919468 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cadeifrati.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cadeifrati.it/|www.cadeifrati.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Proprietà",
+     "valore": "Gian Franco, Anna Maria e Igino Dal Cero, indicati dal sito come proprietari [[2]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Il sito colloca la notorietà dell’azienda dal 1782 e indica il 1939 come anno in cui Felice Dal Cero rileva la proprietà sul Lugana [[3]]"
+    },
+    {
+     "etichetta": "Vigneti in Valpolicella",
+     "valore": "11 ettari sul Pian di Castagnè, nel vigneto Luxinum, da cui nasce l’Amarone [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Cantina del Lugana con un Amarone in Valpolicella. Il sito non riporta le annate sulle pagine dei vini. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pietro Dal Cero",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "I Frati",
+     "denominazione": "Lugana DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Brolettino",
+     "denominazione": "Lugana DOC",
+     "annata": "— [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visita",
+     "valore": "Visita guidata gratuita alla produzione di circa 30 minuti, con degustazione di 4 vini; prenotazione online obbligatoria; gruppi oltre 6 persone con 10 giorni di anticipo [[8]]"
+    },
+    {
+     "etichetta": "Referente visite",
+     "valore": "mattia@cadeifrati.it [[8]]"
+    },
+    {
+     "etichetta": "Wine shop",
+     "valore": "Vendita di bottiglie in cantina e shop online [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cadeifrati.it, con shop e prenotazione online dei tour [[3]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cadeifrati|cadeifrati}}\nInstagram {{https://www.instagram.com/cadeifrati/|@cadeifrati}} [[9]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13384279222071210802|Mappa}} — valutazione 4,7 su 5 (1314 recensioni) [[10]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[11]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://cadeifrati.it/contatti/",
+   "etichetta": "cadeifrati.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://cadeifrati.it/",
+   "etichetta": "cadeifrati.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://cadeifrati.it/vini/",
+   "etichetta": "cadeifrati.it/vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini/pietro-dal-cero».",
+   "url": "https://cadeifrati.it/vini/pietro-dal-cero/",
+   "etichetta": "cadeifrati.it/vini/pietro-dal-cero"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «vini/i-frati-lugana».",
+   "url": "https://cadeifrati.it/vini/i-frati-lugana/",
+   "etichetta": "cadeifrati.it/vini/i-frati-lugana"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «vini/brolettino-lugana».",
+   "url": "https://cadeifrati.it/vini/brolettino-lugana/",
+   "etichetta": "cadeifrati.it/vini/brolettino-lugana"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «visita-guidata».",
+   "url": "https://cadeifrati.it/visita-guidata/",
+   "etichetta": "cadeifrati.it/visita-guidata"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.cadeifrati.it/",
+   "etichetta": "cadeifrati.it"
+  },
+  {
+   "n": 10,
+   "testo": "Scheda «Cà dei Frati» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13384279222071210802",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 11,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

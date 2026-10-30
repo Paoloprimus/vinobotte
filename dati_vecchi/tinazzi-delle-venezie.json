@@ -1,0 +1,147 @@
+{
+ "nome": "Tinazzi",
+ "slug": "tinazzi-delle-venezie",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tinazzi S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via delle Torbiere 13, 37017 Lazise (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 6470697; info@tinazzi.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tinazzi.it/|www.tinazzi.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[2]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Valpolicella: {{/pagine/tinazzi.html|scheda Valpolicella}} [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vino Bardolino D.O.C.: {{/pagine/tinazzi-bardolino.html|scheda Bardolino}} [[4]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini DOC Delle Venezie: {{/pagine/tinazzi-delle-venezie.html|scheda Delle Venezie}} [[2]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via delle Torbiere, 13 - Lazise (VR); tel. 045 6471117; info@tinazzi.it; tinazzi.it [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata nel 1968 a Cavaion Veronese (Tinazzi Eugenio & Figli); dal 2014 Poderi Campopian a Sant’Ambrogio di Valpolicella, con cantina di pigiatura; altre sedi in Puglia e Toscana [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Ospitalità",
+     "valore": "Agriturismo sul Garda, in Valpolicella e in Chianti, masseria in Puglia [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio Istà",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Pinot Grigio Arnasi",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Pinot Grigio Cà de Rocchi",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.tinazzi.it/contatti/",
+   "etichetta": "tinazzi.it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://www.tinazzi.it/chi-siamo/",
+   "etichetta": "tinazzi.it/chi-siamo"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «hospitality».",
+   "url": "https://www.tinazzi.it/hospitality/",
+   "etichetta": "tinazzi.it/hospitality"
+  }
+ ]
+}

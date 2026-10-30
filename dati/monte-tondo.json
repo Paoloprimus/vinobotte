@@ -1,0 +1,318 @@
+{
+ "nome": "Monte Tondo",
+ "slug": "monte-tondo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Montetondo s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02935770236 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via San Lorenzo 89, 37038 Soave (VR) [[1]]"
+    },
+    {
+     "etichetta": "Orari",
+     "valore": "Aperto tutti i giorni 8–19:30, domenica 9–13 [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "045 7680347 (lun–sab 8–19:30) [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@montetondo.it [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.montetondo.it/|www.montetondo.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[5]]\nConsorzio Tutela Vini DOC Delle Venezie [[6]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via San Lorenzo, 89, Soave, VR, Italia; tel. 045 7680347; info@montetondo.it; montetondo.it [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Proprietà",
+     "valore": "Famiglia Magnabosco; oltre 32 ettari nella zona classica di Soave e in Valpolicella [[2]]"
+    },
+    {
+     "etichetta": "Vigneti Valpolicella",
+     "valore": "Località Campiano (Cazzano di Tramigna) e Cogollo (Tregnago) [[7]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Soave, Lessini Durello, grappe, olio “Le Casette” [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Soave e Recioto di Soave; la cantina produce anche Valpolicella, Amarone, Lessini Durello e altri vini. Nomi e denominazioni sono ricavati dai titoli delle schede del sito, che non riporta le annate nell’elenco. [[9]] Solo i vini a denominazione Valpolicella; la cantina produce soprattutto Soave e altri vini. Il sito non riporta le annate. [[9]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Mito",
+     "denominazione": "Soave DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Frog",
+     "denominazione": "Soave DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Montetondo",
+     "denominazione": "Soave DOC Classico",
+     "annata": "— [[12]]"
+    },
+    {
+     "nome": "Casette Foscarin",
+     "denominazione": "Soave DOC Classico",
+     "annata": "— [[13]]"
+    },
+    {
+     "nome": "Foscarin Slavinus",
+     "denominazione": "Soave Superiore DOCG Classico",
+     "annata": "— [[14]]"
+    },
+    {
+     "nome": "Soave Brut (spumante)",
+     "denominazione": "Soave DOC Spumante Brut",
+     "annata": "— [[15]]"
+    },
+    {
+     "nome": "Nettare di Bacco",
+     "denominazione": "Recioto di Soave DOCG",
+     "annata": "— [[16]]"
+    },
+    {
+     "nome": "Recioto di Soave Spumante",
+     "denominazione": "Recioto di Soave DOCG Spumante",
+     "annata": "— [[17]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG Riserva",
+     "annata": "— [[18]]"
+    },
+    {
+     "nome": "San Pietro",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[19]]"
+    },
+    {
+     "nome": "Campo Grande",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[18]]"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[20]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Degustazione in cantina e soggiorno a Soave; visite, degustazioni e buoni regalo [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "montetondo.it in italiano e inglese, con punto vendita online [[21]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://it-it.facebook.com/MonteTondoSoave|MonteTondoSoave}}\nInstagram {{https://www.instagram.com/montetondo/|@montetondo}} [[22]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "Presente [[21]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[23]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.montetondo.it/",
+   "etichetta": "montetondo.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «ita/degustazioni».",
+   "url": "https://www.montetondo.it/ita/degustazioni",
+   "etichetta": "montetondo.it/ita/degustazioni"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «ita/contatti».",
+   "url": "https://www.montetondo.it/ita/contatti",
+   "etichetta": "montetondo.it/ita/contatti"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 6,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «ita/cantina/vino-amarone-della-valpolicella-docg».",
+   "url": "https://www.montetondo.it/ita/cantina/vino-amarone-della-valpolicella-docg",
+   "etichetta": "montetondo.it/ita/cantina/vino-amarone-della-valpolicella-docg"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «ita/cantina».",
+   "url": "https://www.montetondo.it/ita/cantina",
+   "etichetta": "montetondo.it/ita/cantina"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «montetondo.it/ita/cantina», consultata il 24 ottobre 2026.",
+   "url": "https://www.montetondo.it/ita/cantina",
+   "etichetta": "montetondo.it"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «montetondo.it/ita/cantina/vino-mito-soave-doc», consultata il 24 ottobre 2026.",
+   "url": "https://www.montetondo.it/ita/cantina/vino-mito-soave-doc",
+   "etichetta": "montetondo.it"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «montetondo.it/ita/cantina/vino-frog-soave-doc», consultata il 24 ottobre 2026.",
+   "url": "https://www.montetondo.it/ita/cantina/vino-frog-soave-doc",
+   "etichetta": "montetondo.it"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «montetondo.it/ita/cantina/vino-montetondo-soave-doc-classico», consultata il 24 ottobre 2026.",
+   "url": "https://www.montetondo.it/ita/cantina/vino-montetondo-soave-doc-classico",
+   "etichetta": "montetondo.it"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «montetondo.it/ita/cantina/vino-casette-foscarin-soave-doc-classico», consultata il 24 ottobre 2026.",
+   "url": "https://www.montetondo.it/ita/cantina/vino-casette-foscarin-soave-doc-classico",
+   "etichetta": "montetondo.it"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «montetondo.it/ita/cantina/vino-foscarin-slavinus-soave-superiore-docg-classico», consultata il 24 ottobre 2026.",
+   "url": "https://www.montetondo.it/ita/cantina/vino-foscarin-slavinus-soave-superiore-docg-classico",
+   "etichetta": "montetondo.it"
+  },
+  {
+   "n": 15,
+   "testo": "Sito ufficiale della cantina, pagina «montetondo.it/ita/cantina/vino-soave-doc-spumante-brut», consultata il 24 ottobre 2026.",
+   "url": "https://www.montetondo.it/ita/cantina/vino-soave-doc-spumante-brut",
+   "etichetta": "montetondo.it"
+  },
+  {
+   "n": 16,
+   "testo": "Sito ufficiale della cantina, pagina «montetondo.it/ita/cantina/vino-nettare-di-bacco-recioto-di-soave-docg», consultata il 24 ottobre 2026.",
+   "url": "https://www.montetondo.it/ita/cantina/vino-nettare-di-bacco-recioto-di-soave-docg",
+   "etichetta": "montetondo.it"
+  },
+  {
+   "n": 17,
+   "testo": "Sito ufficiale della cantina, pagina «montetondo.it/ita/cantina/vino-recioto-di-soave-docg-spumante», consultata il 24 ottobre 2026.",
+   "url": "https://www.montetondo.it/ita/cantina/vino-recioto-di-soave-docg-spumante",
+   "etichetta": "montetondo.it"
+  },
+  {
+   "n": 18,
+   "testo": "Sito ufficiale della cantina, pagina «ita/cantina/vino-amarone-della-valpolicella-docg-riserva».",
+   "url": "https://www.montetondo.it/ita/cantina/vino-amarone-della-valpolicella-docg-riserva",
+   "etichetta": "montetondo.it/ita/cantina/vino-amarone-della-valpolicella-docg-riserva"
+  },
+  {
+   "n": 19,
+   "testo": "Sito ufficiale della cantina, pagina «ita/cantina/vino-san-pietro-valpolicella-doc».",
+   "url": "https://www.montetondo.it/ita/cantina/vino-san-pietro-valpolicella-doc",
+   "etichetta": "montetondo.it/ita/cantina/vino-san-pietro-valpolicella-doc"
+  },
+  {
+   "n": 20,
+   "testo": "Sito ufficiale della cantina, pagina «montetondo.it», consultata il 24 ottobre 2026.",
+   "url": "https://www.montetondo.it",
+   "etichetta": "montetondo.it"
+  },
+  {
+   "n": 21,
+   "testo": "Sito ufficiale della cantina, pagina «ita/punto-vendita».",
+   "url": "https://www.montetondo.it/ita/punto-vendita",
+   "etichetta": "montetondo.it/ita/punto-vendita"
+  },
+  {
+   "n": 22,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.montetondo.it/",
+   "etichetta": "montetondo.it"
+  },
+  {
+   "n": 23,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

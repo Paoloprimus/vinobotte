@@ -1,0 +1,172 @@
+{
+ "nome": "Corte Figaretto",
+ "slug": "corte-figaretto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agr. Corte Figaretto s.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02528850239 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Clocego 48/A, Poiano, 37142 Verona (Valpantena) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Sofia +39 347 2890500 · Mauro +39 335 8390747 · cortefigaretto@cortefigaretto.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortefigaretto.it/|www.cortefigaretto.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Natura",
+     "valore": "Azienda agricola a conduzione familiare in Valpantena [[3]]"
+    },
+    {
+     "etichetta": "Vinificazione",
+     "valore": "Per gravità, senza pompe; acini solo diraspati; lieviti indigeni [[4]]"
+    },
+    {
+     "etichetta": "Sostenibilità",
+     "valore": "Aderisce a Valpolicella RRR (Riduci, Risparmia, Rispetta); da molti anni nessun erbicida [[4]]"
+    },
+    {
+     "etichetta": "Vigneto Maso Maroni",
+     "valore": "Vigneto a 300 m, esposto a sud-ovest, definito il vigneto icona della cantina; Maso Maroni ospita anche agriturismo e wine retreat [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[3]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Altarol",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Acini Ameni",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Alte Quare",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Brolo del Figaretto",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Musa del Figaretto",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Visita al fruttaio e alla cantina con 4 vini e salumi e formaggi (circa 2 ore) o con visita al vigneto (circa 3 ore); in italiano, inglese, tedesco [[7]]"
+    },
+    {
+     "etichetta": "Agriturismo",
+     "valore": "Maso Maroni Agriturismo e Wine Retreat [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortefigaretto.it con blog [[3]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.cortefigaretto.it/contatti/",
+   "etichetta": "cortefigaretto.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "http://www.cortefigaretto.it/",
+   "etichetta": "cortefigaretto.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «cantina».",
+   "url": "https://www.cortefigaretto.it/cantina/",
+   "etichetta": "cortefigaretto.it/cantina"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-della-valpolicella-brolo».",
+   "url": "https://www.cortefigaretto.it/amarone-della-valpolicella-brolo/",
+   "etichetta": "cortefigaretto.it/amarone-della-valpolicella-brolo"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-della-valpolicella-musa».",
+   "url": "https://www.cortefigaretto.it/amarone-della-valpolicella-musa/",
+   "etichetta": "cortefigaretto.it/amarone-della-valpolicella-musa"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «prenota-una-degustazione».",
+   "url": "https://www.cortefigaretto.it/prenota-una-degustazione/",
+   "etichetta": "cortefigaretto.it/prenota-una-degustazione"
+  }
+ ]
+}

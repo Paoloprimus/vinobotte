@@ -1,0 +1,165 @@
+{
+ "nome": "Corte Saibante",
+ "slug": "corte-saibante",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Corte Saibante s.s.a. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04622630236 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Cariano 16/D, 37029 San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 339 7700194 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cortesaibante.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortesaibante.com/|www.cortesaibante.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Progetto nato dai vigneti di famiglia a San Pietro in Cariano, nel territorio dell’antica famiglia nobile dei Saibante [[3]]"
+    },
+    {
+     "etichetta": "Agricoltura",
+     "valore": "Conversione dell’intera produzione al biologico, secondo il sito [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Ripasso Classico Superiore",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Wine shop",
+     "valore": "Corte Saibante City Wine Shop, Via Cattaneo 3/A, Verona [[2]]"
+    },
+    {
+     "etichetta": "Cantina",
+     "valore": "Cantina e wine cellar a San Pietro in Cariano [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortesaibante.com, in italiano e inglese, con vendita online [[5]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2636791738685950086|Mappa}} — valutazione 4,9 su 5 (14 recensioni) [[6]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[7]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti-cantina-valpolicella».",
+   "url": "https://www.cortesaibante.com/contatti-cantina-valpolicella/",
+   "etichetta": "cortesaibante.com/contatti-cantina-valpolicella"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.cortesaibante.com/",
+   "etichetta": "cortesaibante.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vini-valpolicella».",
+   "url": "https://www.cortesaibante.com/vini-valpolicella/",
+   "etichetta": "cortesaibante.com/vini-valpolicella"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vendita-online-vini-valpolicella».",
+   "url": "https://www.cortesaibante.com/vendita-online-vini-valpolicella/",
+   "etichetta": "cortesaibante.com/vendita-online-vini-valpolicella"
+  },
+  {
+   "n": 6,
+   "testo": "Scheda «CORTE SAIBANTE CANTINA - WINERY» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2636791738685950086",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 7,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

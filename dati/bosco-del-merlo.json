@@ -1,0 +1,162 @@
+{
+ "nome": "Bosco del Merlo",
+ "slug": "bosco-del-merlo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Postumia, 12, 30020 Annone Veneto, VE, Italia [[1]]"
+    },
+    {
+     "etichetta": "Altra sede (da altro elenco)",
+     "valore": "Zona di produzione: Strada di Sequals 14, Sequals (PN); cantina e punto vendita: Via Postumia 12, Annone Veneto (VE), Sequals [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0422 768167 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "vinoteca@paladin.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://boscodelmerlo.it|boscodelmerlo.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio DOC Friuli [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio Tudajo",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot Grigio Ramato",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Cabernet sauvignon",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Pinot grigio",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Pinot nero",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Refosco dal peduncolo rosso",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Sauvignon",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Traminer aromatico",
+     "denominazione": "denominazione non indicata nella scheda",
+     "annata": "— [[2]]"
+    }
+   ],
+   "nota": "Elenco dei vini nella scheda del Consorzio, senza denominazione: la scheda indica soltanto il nome del vino, per tipo (bianco, rosso) in base alle icone. L’elenco è lo stesso formato per tutti i soci; la denominazione di ciascun vino va verificata sul sito della cantina [[2]]"
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Concours Mondial du Sauvignon: Special Trophy 2011 e medaglie d’oro in più annate [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/boscodelmerlo|boscodelmerlo}}\nInstagram {{https://www.instagram.com/boscodelmerlo/|@boscodelmerlo}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.shop.casapaladin.it/it/sauvignon-blanc-doc-friuli-turranio-38|shop.casapaladin.it/it/sauvignon-blanc-doc-friuli-turranio-38}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=15546198649782283185|Mappa}} — valutazione 4,4 su 5 (45 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate tra il 24 e il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/bosco-del-merlo/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://boscodelmerlo.it",
+   "etichetta": "boscodelmerlo.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Bosco del Merlo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=15546198649782283185",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 6,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/",
+   "etichetta": "docfriuli.eu"
+  }
+ ]
+}

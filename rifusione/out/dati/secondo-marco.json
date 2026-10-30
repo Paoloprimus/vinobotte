@@ -1,0 +1,168 @@
+{
+ "nome": "Secondo Marco",
+ "slug": "secondo-marco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Secondo Marco di Marco Speri (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03791500238 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Campolongo 9, 37022 Fumane (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 6800954 [[2]] · info@secondomarco.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.secondomarco.it/|www.secondomarco.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Titolare Marco Speri (come da elenco del Consorzio) [[1]]; i testi del sito sono firmati Benedetto Speri [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Valpolicella Classica, vallata di Fumane; impianto a pergola “a Y” migliorata [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito elenca per ogni vino le annate premiate; qui le annate sono indicate dove la scheda è esplicita. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Fumetto 2008",
+     "denominazione": "Amarone della Valpolicella Riserva DOCG",
+     "annata": "2008 [[3]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–ven 8:30–12:30 e 14–18; sabato su prenotazione [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Il sito riporta per annata punteggi e riconoscimenti di guide (ad esempio Tre Bicchieri, 4 Viti AIS, Foglia d’Oro) per Amarone, Recioto e Ripasso. Dichiarati dalla cantina, non verificati da VinoBot sulle guide [[5]] [[6]] [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Pagina carrello sul sito; altri marketplace: presenza non verificata [[9]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contattaci».",
+   "url": "https://www.secondomarco.it/contattaci",
+   "etichetta": "secondomarco.it/contattaci"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «fumetto-08».",
+   "url": "https://www.secondomarco.it/fumetto-08",
+   "etichetta": "secondomarco.it/fumetto-08"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.secondomarco.it/",
+   "etichetta": "secondomarco.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-della-valpolicella».",
+   "url": "https://www.secondomarco.it/amarone-della-valpolicella",
+   "etichetta": "secondomarco.it/amarone-della-valpolicella"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-della-valpolicella-1».",
+   "url": "https://www.secondomarco.it/amarone-della-valpolicella-1",
+   "etichetta": "secondomarco.it/amarone-della-valpolicella-1"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «ripasso-della-valpolicella».",
+   "url": "https://www.secondomarco.it/ripasso-della-valpolicella",
+   "etichetta": "secondomarco.it/ripasso-della-valpolicella"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classico».",
+   "url": "https://www.secondomarco.it/valpolicella-classico",
+   "etichetta": "secondomarco.it/valpolicella-classico"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «cart».",
+   "url": "https://www.secondomarco.it/cart",
+   "etichetta": "secondomarco.it/cart"
+  }
+ ]
+}

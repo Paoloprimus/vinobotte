@@ -1,0 +1,162 @@
+{
+ "nome": "Massaro",
+ "slug": "massaro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Massaro Norma (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03252430230 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via San Rocco 2, 37024 Negrar di Valpolicella (VR) [[1]]; il sito indica Via Villa 6 [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 347 3724537 · info@massarovini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.massarovini.it/|www.massarovini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Dal 1900 con il nonno Quirino mezzadro; seconda generazione con Valentino; la terza ristruttura la cantina dai primi anni 2000 [[3]]"
+    },
+    {
+     "etichetta": "Sostenibilità",
+     "valore": "Produzione orientata al rispetto dell’ambiente, senza sostanze chimiche di sintesi dove possibile [[4]] [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Degustazioni guidate su prenotazione, eventi e fiere [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "massarovini.it, in italiano e tedesco [[9]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.massarovini.it/contatti",
+   "etichetta": "massarovini.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «famiglia».",
+   "url": "https://www.massarovini.it/famiglia",
+   "etichetta": "massarovini.it/famiglia"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «ivini».",
+   "url": "https://www.massarovini.it/ivini",
+   "etichetta": "massarovini.it/ivini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «biologico».",
+   "url": "https://www.massarovini.it/biologico",
+   "etichetta": "massarovini.it/biologico"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «amaronemassaro».",
+   "url": "https://www.massarovini.it/amaronemassaro",
+   "etichetta": "massarovini.it/amaronemassaro"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicellamassaro-1».",
+   "url": "https://www.massarovini.it/valpolicellamassaro-1",
+   "etichetta": "massarovini.it/valpolicellamassaro-1"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicellamassaro».",
+   "url": "https://www.massarovini.it/valpolicellamassaro",
+   "etichetta": "massarovini.it/valpolicellamassaro"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «de».",
+   "url": "https://www.massarovini.it/de",
+   "etichetta": "massarovini.it/de"
+  }
+ ]
+}

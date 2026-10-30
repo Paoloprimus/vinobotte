@@ -1,0 +1,176 @@
+{
+ "nome": "Castellani Michele",
+ "slug": "castellani-michele",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Castellani Michele & Figli S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00319640231 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Granda 1, Valgatara, 37020 Marano di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7701253 · info@castellanimichele.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.castellanimichele.it/|www.castellanimichele.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata da Michele Castellani a Valgatara nel 1945; oggi guidata da Sergio Castellani e famiglia [[3]]"
+    },
+    {
+     "etichetta": "Superficie",
+     "valore": "Circa 17 ettari nella Valpolicella Classica, per lo più a pergola semplice, in parte a guyot [[3]]"
+    },
+    {
+     "etichetta": "Vitigni",
+     "valore": "Corvina, Corvinone, Rondinella, Molinara [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Maso (Negrar), Ca’ del Pipa e i Castei [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Dallo shop del sito; le annate non sono indicate nell’elenco. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Cinque Stelle",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Campo Casalin",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Colle Cristi",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "I Castei",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "I Castei",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "I Castei",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Borgata",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "La pagina Azienda parla di successi nazionali e internazionali senza elencare premi [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Negozio",
+     "valore": "Lun–ven 9–13 e 14–17; sabato e domenica su appuntamento [[1]]"
+    },
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Tutti i giorni su appuntamento [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "castellanimichele.it con shop online (spedizione gratuita da 50 €) e linea cosmetica da vinacce [[4]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://castellanimichele.it/contatti/",
+   "etichetta": "castellanimichele.it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://castellanimichele.it/azienda/",
+   "etichetta": "castellanimichele.it/azienda"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «negozio».",
+   "url": "https://castellanimichele.it/negozio/",
+   "etichetta": "castellanimichele.it/negozio"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «colle-cristi-amarone».",
+   "url": "https://castellanimichele.it/colle-cristi-amarone/",
+   "etichetta": "castellanimichele.it/colle-cristi-amarone"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «borgata».",
+   "url": "https://castellanimichele.it/borgata/",
+   "etichetta": "castellanimichele.it/borgata"
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "nome": "Fratelli Degani",
+ "slug": "fratelli-degani",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola F.lli Degani di Aldo Degani [[1]] [[2]]\nSul sito: Agricola F.lli Degani"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02577830231 [[3]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via dell’Artigianato 22, località Valgatara, 37020 Marano di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 9780193 [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@deganivini.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.deganivini.it/|www.deganivini.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda familiare dai primi del 1900; dal 1990 guidata da Aldo Degani, con i fratelli Zeno (vigneti) e Luca (enologia) [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[2]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "La Rosta",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto della Valpolicella",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Valpolicella Superiore Ripasso",
+     "denominazione": "Valpolicella Superiore Ripasso DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Dal 1996 i vini citati da Gambero Rosso, Veronelli, AIS, Luca Maroni, Merum, Der Feinschmecher [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "deganivini.it, in italiano e inglese, con news e wine club [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=14666212780382480755|Mappa}} — valutazione 5 su 5 (3 recensioni) [[9]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://deganivini.it/azienda/",
+   "etichetta": "deganivini.it/azienda"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://deganivini.it/",
+   "etichetta": "deganivini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «la-rosta».",
+   "url": "https://deganivini.it/la-rosta/",
+   "etichetta": "deganivini.it/la-rosta"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «recioto-della-valpolicella-doc».",
+   "url": "https://deganivini.it/recioto-della-valpolicella-doc/",
+   "etichetta": "deganivini.it/recioto-della-valpolicella-doc"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-superiore-ripasso».",
+   "url": "https://deganivini.it/valpolicella-superiore-ripasso/",
+   "etichetta": "deganivini.it/valpolicella-superiore-ripasso"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-superiore-doc».",
+   "url": "https://deganivini.it/valpolicella-superiore-doc/",
+   "etichetta": "deganivini.it/valpolicella-superiore-doc"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classico-doc».",
+   "url": "https://deganivini.it/valpolicella-classico-doc/",
+   "etichetta": "deganivini.it/valpolicella-classico-doc"
+  },
+  {
+   "n": 9,
+   "testo": "Scheda «Azienda Agricola F.lli Degani di Degani Aldo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=14666212780382480755",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

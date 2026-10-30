@@ -1,0 +1,117 @@
+{
+ "nome": "Suavia",
+ "slug": "suavia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Suavia di Tessari Valentina [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Centro Fittà 26, 37038 Soave (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 767 50 89 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.suavia.it|suavia.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda agricola di famiglia dedicata alla vite e al vino sulle colline del Soave Classico; sede a Fittà di Soave; anno di fondazione non indicato [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini che il sito indica con denominazione Soave o Recioto di Soave; Fittà, Castellaro e Tremenalto sono elencati senza denominazione e non sono inclusi. Il sito non riporta le annate. [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Soave Classico",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Monte Carbonare",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Acinatium",
+     "denominazione": "Recioto di Soave DOCG",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/suavia-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «suavia.it».",
+   "url": "https://www.suavia.it",
+   "etichetta": "suavia.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «suavia.it/prodotto/soave-classico-doc-suavia».",
+   "url": "https://www.suavia.it/prodotto/soave-classico-doc-suavia/",
+   "etichetta": "suavia.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «suavia.it/prodotto/monte-carbonare-suavia».",
+   "url": "https://www.suavia.it/prodotto/monte-carbonare-suavia/",
+   "etichetta": "suavia.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «suavia.it/prodotto/acinatium».",
+   "url": "https://www.suavia.it/prodotto/acinatium/",
+   "etichetta": "suavia.it"
+  }
+ ]
+}

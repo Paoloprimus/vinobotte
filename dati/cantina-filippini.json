@@ -1,0 +1,185 @@
+{
+ "nome": "Cantina Filippini",
+ "slug": "cantina-filippini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Filippini Alessandro di Filippini Luigi [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02863660235 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Monte Sant’Urbano 1, 37020 Marano di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "342 0753208\n333 2846125 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinafilippini.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinafilippini.com/|www.cantinafilippini.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "Zona collinare della Valpolicella Classica, tra Marano, Valgatara, Pezza, San Rocco e Castelrotto; Corvina, Corvinone, Rondinella, un po’ di Molinara e vecchi vitigni veronesi; solo uve proprie [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Cantina",
+     "valore": "Fruttaio per l’appassimento; maturazione in botti d’acciaio [[3]] [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "El Coston",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Apertura lunedì–sabato 8:30–12:30 e 14:00–18:00, domenica solo mattina; degustazioni su contatto anticipato [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cantinafilippini.com con pagina idee regalo [[9]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=15844723722140445245|Mappa}} — valutazione 5 su 5 (82 recensioni) [[10]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[11]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://cantinafilippini.com/contatti/",
+   "etichetta": "cantinafilippini.com/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «i-vigneti».",
+   "url": "https://cantinafilippini.com/i-vigneti/",
+   "etichetta": "cantinafilippini.com/i-vigneti"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini».",
+   "url": "https://cantinafilippini.com/i-vini/",
+   "etichetta": "cantinafilippini.com/i-vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-classico».",
+   "url": "https://cantinafilippini.com/amarone-classico/",
+   "etichetta": "cantinafilippini.com/amarone-classico"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-el-coston».",
+   "url": "https://cantinafilippini.com/amarone-el-coston/",
+   "etichetta": "cantinafilippini.com/amarone-el-coston"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «ripasso».",
+   "url": "https://cantinafilippini.com/ripasso/",
+   "etichetta": "cantinafilippini.com/ripasso"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «recioto».",
+   "url": "https://cantinafilippini.com/recioto/",
+   "etichetta": "cantinafilippini.com/recioto"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «ideeregalo».",
+   "url": "https://cantinafilippini.com/ideeregalo/",
+   "etichetta": "cantinafilippini.com/ideeregalo"
+  },
+  {
+   "n": 10,
+   "testo": "Scheda «Azienda Agricola Filippini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=15844723722140445245",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 11,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

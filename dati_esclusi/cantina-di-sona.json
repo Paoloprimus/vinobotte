@@ -1,0 +1,95 @@
+{
+ "nome": "Cantina di Sona",
+ "slug": "cantina-di-sona",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina di Sona Srl (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04364130239 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Verona 6, 37060 Sona (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 4858554 [[2]] · info@cantinadisona.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinadisona.it/|www.cantinadisona.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: struttura",
+   "righe": [
+    {
+     "etichetta": "Attività",
+     "valore": "Imbottigliamento e logistica per il settore vitivinicolo: stoccaggio e lavorazione vini (30.000 hl), imbottigliamento, logistica [[2]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "BRC, IFS, produzione biologica; autorizzata all’imbottigliamento di Lugana DOC, Valpolicella Ripasso DOC e Amarone della Valpolicella DOCG [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Nessun vino a denominazione DOC/DOCG tra quelli indicati dalle fonti consultate (esclusi IGT, vini senza denominazione e distillati).",
+   "tipo": "vini",
+   "vini": []
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cantinadisona.it, sito di una pagina [[2]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.cantinadisona.it/",
+   "etichetta": "cantinadisona.it"
+  }
+ ]
+}

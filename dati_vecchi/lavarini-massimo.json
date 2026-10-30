@@ -1,0 +1,148 @@
+{
+ "nome": "Lavarini Massimo",
+ "slug": "lavarini-massimo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Lavarini Soc. Agricola di Lavarini Massimo & C. s.s. [[1]]; P.IVA 02962030231 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Casa Zamboni 4, Arbizzano, 37024 Negrar di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 7513074; info@lavarinivini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lavarinivini.it/|www.lavarinivini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda a conduzione familiare, tre generazioni di vignaioli; oggi Massimo Lavarini [[3]]"
+    },
+    {
+     "etichetta": "Dati dichiarati",
+     "valore": "Circa 7 ettari; circa 55.000 bottiglie l’anno [[3]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "Loghi RRR Protocol (uve 2021) e Quality Certified Environmentally Friendly (uve 2024); il sito non dichiara agricoltura biologica [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; l’azienda produce anche Piassaron (Rosso Verona IGT), rosato, spumante e grappa. Il sito non indica le annate. [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Petrinus",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari punto vendita",
+     "valore": "Lun–ven 9.30–18; sab 9.30–12.30 [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Percorsi di degustazione guidati prenotabili online [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Amarone: 5StarWines The Book 2025; International Challenge Gilbert & Gaillard 2025. Dichiarati dalla cantina, non verificati da VinoBot sulle guide [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Shop online sul sito (spedizione gratuita in Italia sopra 99 euro); altri marketplace: presenza non verificata [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «lavarinivini.it».",
+   "url": "https://www.lavarinivini.it/",
+   "etichetta": "lavarinivini.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «lavarinivini.it/pages/about-us».",
+   "url": "https://www.lavarinivini.it/pages/about-us",
+   "etichetta": "lavarinivini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «lavarinivini.it/collections/degustazioni-e-percorsi-guidati».",
+   "url": "https://www.lavarinivini.it/collections/degustazioni-e-percorsi-guidati",
+   "etichetta": "lavarinivini.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «lavarinivini.it/blogs/awards».",
+   "url": "https://www.lavarinivini.it/blogs/awards",
+   "etichetta": "lavarinivini.it"
+  }
+ ]
+}

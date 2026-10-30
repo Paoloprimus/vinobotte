@@ -1,0 +1,94 @@
+{
+ "nome": "Sandrin",
+ "slug": "sandrin",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Sandrin [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.aziendasandrin.it/|aziendasandrin.it}} — non raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Vini Asolo Montello [[3]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Vini Asolo Montello",
+     "valore": "Vicolo Col Roer, 11, 31049 Valdobbiadene (TV); tel. 0423 976398; 340 2478675; info@aziendasandrin.it; aziendasandrin.it [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Asolo Montello",
+     "valore": "Non indicato nell’elenco dei soci del Consorzio; non ancora raccolto dai siti delle cantine [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=10453900751655315261|Mappa}} — valutazione 4,6 su 5 (34 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/sandrin/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito indicato nella scheda Google Maps della cantina, ricerca del 29 ottobre 2026.",
+   "url": "https://maps.google.com/?cid=10453900751655315261",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «SANDRIN» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=10453900751655315261",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

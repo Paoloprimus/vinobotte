@@ -1,0 +1,154 @@
+{
+ "nome": "La Cappuccina",
+ "slug": "la-cappuccina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Capuccina Società Agricola Semplice [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03302740232 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via S. Brizio 125, 37032 Costalunga di Monteforte d'Alpone (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "045 6175036 [[1]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "lacappuccina@lacappuccina.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.lacappuccina.it|lacappuccina.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Tenuta della famiglia Tessari (Elena, Sisto e Pietro) tra le colline del Soave, con oltre 42 ettari di vigneto; ragione sociale La Cappuccina Società Agricola s.s.; anno di fondazione non indicato [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Soave e Recioto di Soave, con la denominazione come scritta nel sito; la cantina produce anche vini IGT e spumanti. Il sito non riporta le annate nell’elenco. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Monte Stelle",
+     "denominazione": "Soave DOC Classico",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "San Brizio",
+     "denominazione": "Soave DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Fontègo",
+     "denominazione": "Soave DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Soave",
+     "denominazione": "Soave DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Gelso 300 anni",
+     "denominazione": "Soave DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Arzimo",
+     "denominazione": "Recioto di Soave DOCG",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Elenco dal 2022 al 2025: Gambero Rosso (due bicchieri), medaglie d'oro e d'argento Decanter, IWC, Concours Mondial du Sauvignon, Bioweinpreise, Slow Wine (bottiglia) [[3]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Vinous 90 punti [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/lacappuccinawines|lacappuccinawines}}\nInstagram {{https://www.instagram.com/lacappuccinawines/|@lacappuccinawines}}\nYouTube {{https://www.youtube.com/lacappuccinawines|lacappuccinawines}}\nLinkedIn {{https://www.linkedin.com/company/la-cappuccina|la-cappuccina}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=18000727062423737174|Mappa}} — valutazione 4,5 su 5 (15 recensioni) [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/la-capuccina-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 29 ottobre 2026.",
+   "url": "http://www.lacappuccina.it",
+   "etichetta": "lacappuccina.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.lacappuccina.it",
+   "etichetta": "lacappuccina.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «lacappuccina.it», consultata il 24 ottobre 2026.",
+   "url": "http://www.lacappuccina.it",
+   "etichetta": "lacappuccina.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «lacappuccina.it/vini», consultata il 24 ottobre 2026.",
+   "url": "https://lacappuccina.it/vini/",
+   "etichetta": "lacappuccina.it"
+  },
+  {
+   "n": 6,
+   "testo": "Scheda «'La Cappuccina - Azienda Agricola'» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=18000727062423737174",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "nome": "Abbazia di Busco",
+ "slug": "abbazia-di-busco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina Abbazia di Busco Società Agricola Liasora S.S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02488900271 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via IV Novembre 31, 31047 Busco di Ponte di Piave (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0422 752152\nWhatsApp 339 191 47 09 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.abbaziadibusco.com/|www.abbaziadibusco.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il nome richiama i monaci benedettini dell’Abbazia di Sant’Andrea a Busco; il sito non indica anno di fondazione né proprietari [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Battistero (Prosecco Brut Millesimato)",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Portico (Prosecco Extra Dry)",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pulpito (Prosecco Frizzante)",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Capitolo",
+     "denominazione": "Pinot Grigio delle Venezie DOC",
+     "annata": "— [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{http://www.facebook.com/abbaziadibusco|abbaziadibusco}}\nInstagram {{https://www.instagram.com/abbaziadibusco/|@abbaziadibusco}}\nLinkedIn {{https://www.linkedin.com/company/abbazia-di-busco|abbazia-di-busco}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.abbaziadibusco.com/shop|abbaziadibusco.com/shop}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=5500910253664075981|Mappa}} — valutazione 4,8 su 5 (4 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «abbaziadibusco.com», consultata il 24 ottobre 2026.",
+   "url": "https://www.abbaziadibusco.com/",
+   "etichetta": "abbaziadibusco.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.abbaziadibusco.com/",
+   "etichetta": "abbaziadibusco.com"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Abbazia di Busco - Società Agricola Liasora, Azienda Vitivinicola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=5500910253664075981",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "nome": "Torre di Terzolan",
+ "slug": "torre-di-terzolan",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Torre di Terzolan / La Torre S.r.l. Soc. Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04355330236 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Trezzolano 4, 37141 Trezzolano, Verona [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 988044\nmob. +39 324 0018421 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@torrediterzolan.it\nhospitality@torrediterzolan.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.torrediterzolan.it/|www.torrediterzolan.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Antica dimora del cardinale Ridolfi, famiglia patrizia veneziana; torre, villa e giardino storico [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "3 ettari a 350 m in alta Val Squaranto, agricoltura biologica; vigneti La Mezzaluna, La Pala, Il Binte, Il Brolo; Corvina, Corvinone, Rondinella, Croatina [[4]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine biologico Veneto Valpolicella DOP [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Annate in vendita e precedenti indicate nelle schede. [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "2018 [[6]]"
+    },
+    {
+     "nome": "Superiore",
+     "denominazione": "Valpolicella DOC Superiore Biologico",
+     "annata": "2020 [[7]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC Biologico",
+     "annata": "2025 [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Alloggio",
+     "valore": "Quattro suite nella dimora storica [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Valpolicella Superiore 2020: premiato dalle commissioni regionali Vinibuoni d’Italia (edizione 2027) [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13027871142774661044|Mappa}} — valutazione 5 su 5 (10 recensioni) [[10]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[11]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contact».",
+   "url": "https://www.torrediterzolan.it/contact",
+   "etichetta": "torrediterzolan.it/contact"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «accoglienza».",
+   "url": "https://www.torrediterzolan.it/accoglienza",
+   "etichetta": "torrediterzolan.it/accoglienza"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «territorio».",
+   "url": "https://www.torrediterzolan.it/territorio",
+   "etichetta": "torrediterzolan.it/territorio"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «olio-1».",
+   "url": "https://www.torrediterzolan.it/olio-1",
+   "etichetta": "torrediterzolan.it/olio-1"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-2018-ita».",
+   "url": "https://www.torrediterzolan.it/amarone-2018-ita",
+   "etichetta": "torrediterzolan.it/amarone-2018-ita"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «superiore_2020_ita».",
+   "url": "https://www.torrediterzolan.it/superiore_2020_ita",
+   "etichetta": "torrediterzolan.it/superiore_2020_ita"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella2025ita».",
+   "url": "https://www.torrediterzolan.it/valpolicella2025ita",
+   "etichetta": "torrediterzolan.it/valpolicella2025ita"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «nuovo-blog/guida-vinibuoni-ditalia-edizione-2027».",
+   "url": "https://www.torrediterzolan.it/nuovo-blog/guida-vinibuoni-ditalia-edizione-2027",
+   "etichetta": "torrediterzolan.it/nuovo-blog/guida-vinibuoni-ditalia-edizione-2027"
+  },
+  {
+   "n": 10,
+   "testo": "Scheda «Torre di Terzolan» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13027871142774661044",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 11,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

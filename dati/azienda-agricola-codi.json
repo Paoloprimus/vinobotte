@@ -1,0 +1,115 @@
+{
+ "nome": "Azienda Agricola Codi",
+ "slug": "azienda-agricola-codi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Crodi di Stefani Laura [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03811360266 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Capovilla, 17-19, 31050 Miane (TV) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Valdobbiadene Prosecco Superiore DOCG Brut», «Valdobbiadene Prosecco Superiore DOCG Dry», «Valdobbiadene Prosecco Superiore DOCG Extra Dry» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0438960064 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "agricolacrodi@libero.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.agriturismocrodialcontadin.it|agriturismocrodialcontadin.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Crodi nasce il 15 aprile 1900 a Combai di Miane, famiglia Stefani; nel 1980 Carla Mattiola e Diego Stefani sviluppano l’osteria come trattoria. [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Carla",
+     "denominazione": "Valdobbiadene Prosecco Superiore DOCG Dry",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Riz",
+     "denominazione": "Valdobbiadene Prosecco Superiore DOCG Extra Dry",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "San Vittore",
+     "denominazione": "Valdobbiadene Prosecco Superiore DOCG Brut",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nVivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.agriturismocrodialcontadin.it",
+   "etichetta": "agriturismocrodialcontadin.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-codi/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «agriturismocrodialcontadin.it/osteria-al-contadin-combai/vini», consultata il 25 ottobre 2026.",
+   "url": "https://agriturismocrodialcontadin.it/osteria-al-contadin-combai/vini/",
+   "etichetta": "agriturismocrodialcontadin.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.agriturismocrodialcontadin.it",
+   "etichetta": "agriturismocrodialcontadin.it"
+  }
+ ]
+}

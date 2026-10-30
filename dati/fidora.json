@@ -1,0 +1,193 @@
+{
+ "nome": "Fidora",
+ "slug": "fidora",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agraria Lorenzo Fidora [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cappelli 9, 35141 Padova [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fidorawines.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fidorawines.com/|www.fidorawines.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio di Tutela della DOC Prosecco [[3]]\nConsorzio Vini Venezia [[4]]\nConsorzio Tutela Vini DOC Delle Venezie [[5]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Sant'Ambrogio di Valpolicella VR; tel. 049 662898; info@fidorawines.com; fidorawines.com [[5]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Prosecco DOC",
+     "valore": "Via Civran 13, 30010 VE; tel. +39 049 662898; lorenzo@fidorawines.com; https://www.fidorawines.com/it/ [[3]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
+     "valore": "35123 Padova; info@fidorawines.com; denominazioni: Venezia [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Dagli anni ’20 del ’900 la famiglia Fidora possiede la tenuta Civranetta nell’entroterra veneziano; Guido Fidora abbandona i prodotti chimici nel 1974 [[6]]"
+    },
+    {
+     "etichetta": "Metodo",
+     "valore": "Viticoltura biologica dal 1974, con approccio biodinamico [[7]]"
+    },
+    {
+     "etichetta": "Tenute",
+     "valore": "Due tenute in Valpolicella, una nella zona Classica e una nella parte orientale [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Vini della Valpolicella dall’elenco del sito, che comprende anche Prosecco e vini del Veneziano; annate non indicate. [[8]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso Classico Superiore",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[9]]"
+    }
+   ],
+   "righe": []
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti sul sito [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "fidorawines.com, in italiano e inglese, con moduli per importatori e consumatori [[10]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/fidorawines|fidorawines}}\nInstagram {{https://www.instagram.com/fidorawines/|@fidorawines}}\nLinkedIn {{https://www.linkedin.com/company/fidora-wines|fidora-wines}} [[2]]"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=14373229020199880515|Mappa}} — valutazione 4,3 su 5 (6 recensioni) [[11]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.fidorawines.com/",
+   "etichetta": "fidorawines.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/about-us».",
+   "url": "https://fidorawines.com/it/about-us/",
+   "etichetta": "fidorawines.com/it/about-us"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://fidorawines.com/",
+   "etichetta": "fidorawines.com"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «categorie_prodotto/valpolicella-classica».",
+   "url": "https://fidorawines.com/categorie_prodotto/valpolicella-classica/",
+   "etichetta": "fidorawines.com/categorie_prodotto/valpolicella-classica"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/amarone-della-valpolicella-docg-2».",
+   "url": "https://fidorawines.com/prodotto/amarone-della-valpolicella-docg-2/",
+   "etichetta": "fidorawines.com/prodotto/amarone-della-valpolicella-docg-2"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «it/contacts».",
+   "url": "https://fidorawines.com/it/contacts/",
+   "etichetta": "fidorawines.com/it/contacts"
+  },
+  {
+   "n": 11,
+   "testo": "Scheda «Fidora Wines» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=14373229020199880515",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 12,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/fidora/",
+   "etichetta": "bereilvino.it"
+  }
+ ]
+}

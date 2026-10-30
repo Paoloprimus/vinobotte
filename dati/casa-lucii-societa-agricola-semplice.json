@@ -1,0 +1,112 @@
+{
+ "nome": "Casa Lucii Società Agricola Semplice",
+ "slug": "casa-lucii-societa-agricola-semplice",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Casa Lucii società agricola semplice [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01476620529 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Santa Maria a Villa Castelli, 49/C 53037 SAN GIMIGNANO (SI) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@casalucii.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.casalucii.it|casalucii.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Chianti Colli Senesi [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda storica a conduzione familiare. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Vernaccia di San Gimignano DOCG; Vernaccia di San Gimignano Riserva DOCG; Chianti Colli Senesi DOCG; Chianti DOCG; Vin Santo del Chianti DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/CASALUCII|CASALUCII}}\nInstagram {{https://www.instagram.com/casa_lucii/|@casa_lucii}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=17082515178647990044|Mappa}} — valutazione 5 su 5 (301 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.casalucii.it",
+   "etichetta": "casalucii.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Chianti Colli Senesi, elenco delle aziende e dei produttori, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziochianticollisenesi.it/aziende-e-produttori/",
+   "etichetta": "consorziochianticollisenesi.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.casalucii.it",
+   "etichetta": "casalucii.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.casalucii.it",
+   "etichetta": "casalucii.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Casa Lucii» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=17082515178647990044",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

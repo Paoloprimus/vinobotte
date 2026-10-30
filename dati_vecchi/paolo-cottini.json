@@ -1,0 +1,184 @@
+{
+ "nome": "Paolo Cottini",
+ "slug": "paolo-cottini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Paolo Cottini di Riolfi Sara (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04040570238 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via San Micheletto 3, 37022 Fumane (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 2233198 · +39 349 5610413 · info@paolocottini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.paolocottini.it/|www.paolocottini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Quattro generazioni di viticoltori; l’azienda con questo nome nasce nel 2010 con Paolo e la moglie Sara [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Solo in Valpolicella Classica, in diverse vallate tra 180 e 580 m; pergola veronese [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal sito, senza annata. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Lugana",
+     "denominazione": "Lugana DOC",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Le pagine vino riportano una sezione “Riconoscimenti” (es. Gambero Rosso 3 Bicchieri, annata 2020); dichiarati dalla cantina, non verificati da VinoBot sulle guide [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Tour con pergola, fruttaio, cantina e bottaia; degustazione di 3, 5 o 7 calici (15, 20, 25 € a persona) [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "paolocottini.it in italiano e altre lingue [[11]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://paolocottini.it/it/contatti",
+   "etichetta": "paolocottini.it/it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/azienda».",
+   "url": "https://paolocottini.it/it/azienda",
+   "etichetta": "paolocottini.it/it/azienda"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/prodotti».",
+   "url": "https://paolocottini.it/it/prodotti",
+   "etichetta": "paolocottini.it/it/prodotti"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/prodotti/valpolicella-classico-doc».",
+   "url": "https://paolocottini.it/it/prodotti/valpolicella-classico-doc",
+   "etichetta": "paolocottini.it/it/prodotti/valpolicella-classico-doc"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/prodotti/ripasso-doc-superiore».",
+   "url": "https://paolocottini.it/it/prodotti/ripasso-doc-superiore",
+   "etichetta": "paolocottini.it/it/prodotti/ripasso-doc-superiore"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/prodotti/amarone-it».",
+   "url": "https://paolocottini.it/it/prodotti/amarone-it",
+   "etichetta": "paolocottini.it/it/prodotti/amarone-it"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/prodotti/amarone-riserva».",
+   "url": "https://paolocottini.it/it/prodotti/amarone-riserva",
+   "etichetta": "paolocottini.it/it/prodotti/amarone-riserva"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/prodotti/lugana-doc».",
+   "url": "https://paolocottini.it/it/prodotti/lugana-doc",
+   "etichetta": "paolocottini.it/it/prodotti/lugana-doc"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «it/degustazione».",
+   "url": "https://paolocottini.it/it/degustazione",
+   "etichetta": "paolocottini.it/it/degustazione"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://paolocottini.it/",
+   "etichetta": "paolocottini.it"
+  }
+ ]
+}

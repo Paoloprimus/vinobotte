@@ -1,0 +1,228 @@
+{
+ "nome": "Palazzo Montanari",
+ "slug": "palazzo-montanari",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Palazzo Montanari di Massimo Nicolis [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04266620238 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Bure Alto 11, Bure, 37029 San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "Cell. +39 351 7894309 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@palazzo-montanari.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.palazzo-montanari.it/|www.palazzo-montanari.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Massimo Nicolis con la moglie e tre figli gestisce cantina e villa [[3]]"
+    },
+    {
+     "etichetta": "Villa",
+     "valore": "Villa veneta con affreschi cinquecenteschi e settecenteschi, in restauro conservativo [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine di oliva [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal sito, senza annata. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG Riserva",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Classico Superiore DOC Ripasso",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Esperienze",
+     "valore": "Visita della villa con calice, Appassimento Experience, Art & Wine Experience, calici con vista, wine shop; matrimoni ed eventi [[10]] [[11]] [[4]]"
+    },
+    {
+     "etichetta": "Alloggio",
+     "valore": "Agriturismo “5 Girasoli”: sette camere nella villa [[12]] [[13]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "palazzo-montanari.it in italiano e inglese [[14]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=4894820183325066155|Mappa}} — valutazione 4,9 su 5 (101 recensioni) [[15]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[16]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contattaci».",
+   "url": "https://palazzo-montanari.it/contattaci/",
+   "etichetta": "palazzo-montanari.it/contattaci"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «la-famiglia».",
+   "url": "https://palazzo-montanari.it/la-famiglia/",
+   "etichetta": "palazzo-montanari.it/la-famiglia"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «il-palazzo».",
+   "url": "https://palazzo-montanari.it/il-palazzo/",
+   "etichetta": "palazzo-montanari.it/il-palazzo"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vino-olio».",
+   "url": "https://palazzo-montanari.it/vino-olio/",
+   "etichetta": "palazzo-montanari.it/vino-olio"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-della-valpolicella-docg-classico».",
+   "url": "https://palazzo-montanari.it/amarone-della-valpolicella-docg-classico/",
+   "etichetta": "palazzo-montanari.it/amarone-della-valpolicella-docg-classico"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «recioto-della-valpolicella-docg».",
+   "url": "https://palazzo-montanari.it/recioto-della-valpolicella-docg/",
+   "etichetta": "palazzo-montanari.it/recioto-della-valpolicella-docg"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «ripasso-valpolicella-doc-classico-superiore».",
+   "url": "https://palazzo-montanari.it/ripasso-valpolicella-doc-classico-superiore/",
+   "etichetta": "palazzo-montanari.it/ripasso-valpolicella-doc-classico-superiore"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-doc-classico».",
+   "url": "https://palazzo-montanari.it/valpolicella-doc-classico/",
+   "etichetta": "palazzo-montanari.it/valpolicella-doc-classico"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «esperienze».",
+   "url": "https://palazzo-montanari.it/esperienze/",
+   "etichetta": "palazzo-montanari.it/esperienze"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «visita-della-villa».",
+   "url": "https://palazzo-montanari.it/visita-della-villa/",
+   "etichetta": "palazzo-montanari.it/visita-della-villa"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «ospitalita».",
+   "url": "https://palazzo-montanari.it/ospitalita/",
+   "etichetta": "palazzo-montanari.it/ospitalita"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «rooms».",
+   "url": "https://palazzo-montanari.it/rooms/",
+   "etichetta": "palazzo-montanari.it/rooms"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «experiences».",
+   "url": "https://palazzo-montanari.it/experiences/",
+   "etichetta": "palazzo-montanari.it/experiences"
+  },
+  {
+   "n": 15,
+   "testo": "Scheda «Palazzo Montanari Winery» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=4894820183325066155",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 16,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "nome": "Viviani",
+ "slug": "viviani",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Viviani di Viviani Claudio [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02025900230 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Mazzano 8, 37024 Negrar di Valpolicella (VR), località Mazzano [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7500286 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "viviani@cantinaviviani.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinaviviani.com/|www.cantinaviviani.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Proprietà",
+     "valore": "Famiglia Viviani [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Quattro ettari in località Mazzano, esposti a sud-sud-est, a 350–450 m; agricoltura “ecocompatibile” con uso limitato di prodotti di sintesi [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dalla pagina Vini del sito, con le annate indicate. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Casa dei Bepi",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2016 [[4]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2018 [[4]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "2013 [[4]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "2019 [[5]]"
+    },
+    {
+     "nome": "Campo Morar",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "2020 [[4]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "2023 [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Indicazioni per raggiungere l’azienda; visite e degustazioni non descritte nel sito [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[7]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://www.cantinaviviani.com/it/contatti",
+   "etichetta": "cantinaviviani.com/it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it».",
+   "url": "https://www.cantinaviviani.com/it",
+   "etichetta": "cantinaviviani.com/it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini».",
+   "url": "https://www.cantinaviviani.com/it/vini",
+   "etichetta": "cantinaviviani.com/it/vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella-ripasso-classico-superiore-doc-2019-14».",
+   "url": "https://www.cantinaviviani.com/it/vini/valpolicella-ripasso-classico-superiore-doc-2019-14",
+   "etichetta": "cantinaviviani.com/it/vini/valpolicella-ripasso-classico-superiore-doc-2019-14"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/vino-valpolicella-classico-doc-2023-10».",
+   "url": "https://www.cantinaviviani.com/it/vini/vino-valpolicella-classico-doc-2023-10",
+   "etichetta": "cantinaviviani.com/it/vini/vino-valpolicella-classico-doc-2023-10"
+  },
+  {
+   "n": 7,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

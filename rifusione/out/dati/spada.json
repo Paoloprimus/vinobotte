@@ -1,0 +1,209 @@
+{
+ "nome": "Spada",
+ "slug": "spada",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Spada s.s. (come da elenco del Consorzio) [[1]]; P.IVA 03373030232 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Villa Girardi 26, 37029 San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 6801468; cell. +39 340 2664334; info@cantinaspada.com; export@cantinaspada.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinaspada.com/|www.cantinaspada.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Spada dal 1910, quattro generazioni (Giuseppe, Attilio, Renzo e Dino; oggi Francesco) [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Circa 10 ettari nella Valpolicella Classica, San Pietro in Cariano [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella e i rossi IGT; la cantina produce anche Garganega e bianco IGT. Il sito non riporta le annate. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Le Palè",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Firmus",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Riserva",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "La Pergola",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "El Casotto",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Tour con degustazione e assaggi, su prenotazione [[13]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Shop online sul sito (gestionale esterno) e listino per spedizioni; altri marketplace: presenza non verificata [[5]] [[14]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti-cantina-spada».",
+   "url": "https://www.cantinaspada.com/contatti-cantina-spada/",
+   "etichetta": "cantinaspada.com/contatti-cantina-spada"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://www.cantinaspada.com/chi-siamo/",
+   "etichetta": "cantinaspada.com/chi-siamo"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-valpolicella-classico-firmus-docg».",
+   "url": "https://www.cantinaspada.com/amarone-valpolicella-classico-firmus-docg/",
+   "etichetta": "cantinaspada.com/amarone-valpolicella-classico-firmus-docg"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini».",
+   "url": "https://www.cantinaspada.com/i-nostri-vini/",
+   "etichetta": "cantinaspada.com/i-nostri-vini"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-valpolicella-classico-lepale-docg».",
+   "url": "https://www.cantinaspada.com/amarone-valpolicella-classico-lepale-docg/",
+   "etichetta": "cantinaspada.com/amarone-valpolicella-classico-lepale-docg"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-valpolicella-classico-riserva-docg».",
+   "url": "https://www.cantinaspada.com/amarone-valpolicella-classico-riserva-docg/",
+   "etichetta": "cantinaspada.com/amarone-valpolicella-classico-riserva-docg"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «recioto-valpolicella-classico-docg».",
+   "url": "https://www.cantinaspada.com/recioto-valpolicella-classico-docg/",
+   "etichetta": "cantinaspada.com/recioto-valpolicella-classico-docg"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «ripasso-valpolicella-classico-superiore-doc».",
+   "url": "https://www.cantinaspada.com/ripasso-valpolicella-classico-superiore-doc/",
+   "etichetta": "cantinaspada.com/ripasso-valpolicella-classico-superiore-doc"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classic-superior-doc-pergola-2».",
+   "url": "https://www.cantinaspada.com/valpolicella-classic-superior-doc-pergola-2/",
+   "etichetta": "cantinaspada.com/valpolicella-classic-superior-doc-pergola-2"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classico-superiore-doc-el-casotto».",
+   "url": "https://www.cantinaspada.com/valpolicella-classico-superiore-doc-el-casotto/",
+   "etichetta": "cantinaspada.com/valpolicella-classico-superiore-doc-el-casotto"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classico-doc».",
+   "url": "https://www.cantinaspada.com/valpolicella-classico-doc/",
+   "etichetta": "cantinaspada.com/valpolicella-classico-doc"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «prenota-la-tua-visita».",
+   "url": "https://www.cantinaspada.com/prenota-la-tua-visita/",
+   "etichetta": "cantinaspada.com/prenota-la-tua-visita"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «cantinaconspedizione».",
+   "url": "https://www.cantinaspada.com/cantinaconspedizione/",
+   "etichetta": "cantinaspada.com/cantinaconspedizione"
+  }
+ ]
+}

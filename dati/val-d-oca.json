@@ -1,0 +1,124 @@
+{
+ "nome": "Val d’Oca",
+ "slug": "val-d-oca",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Val D’Oca Srl [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Giovanni 45, 31049, Valdobbiadene (Tv) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0423 982070 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "valdoca@valdoca.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.valdoca.com/|valdoca.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Vini Asolo Montello [[3]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[4]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Vini Asolo Montello",
+     "valore": "Via San Giovanni, 45, 31049 Valdobbiadene (TV); tel. 0423 070056; valdoca.com [[3]]"
+    },
+    {
+     "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
+     "valore": "La scheda del Consorzio non riporta dati di contatto [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Asolo Montello",
+     "valore": "Non indicato nell’elenco dei soci del Consorzio; non ancora raccolto dai siti delle cantine [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=3309345083446231219|Mappa}} — valutazione 4,6 su 5 (281 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 29 ottobre 2026.",
+   "url": "https://www.valdoca.com/",
+   "etichetta": "valdoca.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/val-d-oca/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Val d'Oca Wine Center - Shop Vendita Prosecco» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=3309345083446231219",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "nome": "Maccari",
+ "slug": "maccari-conegliano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via General Cantore, 55, 31020 Vazzola (TV) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0438441248; info@maccarivini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.maccarivini.it|maccarivini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Valdobbiadene Prosecco Superiore D.O.C.G.» [[2]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "La cantina elenca anche vini della sezione Prosecco DOC: {{/pagine/maccari-prosecco.html|scheda Prosecco DOC}} [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione. Altri vini del sito, senza denominazione chiara, non inclusi: Cuvée Brut [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valdobbiadene Prosecco Superiore",
+     "denominazione": "Valdobbiadene Prosecco Superiore D.O.C.G.",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda della cantina su Bere il Vino e pagine dei vini del sito della cantina, consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/maccari/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 25 ottobre 2026, pagina «maccarivini.it/it/spumanti-prestige».",
+   "url": "https://maccarivini.it/it/spumanti-prestige/",
+   "etichetta": "maccarivini.it"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "nome": "Podere Le Volute",
+ "slug": "podere-le-volute",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04658310489 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Racciano 53037 SAN GIMIGNANO (SI) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39+39 0577 907278 [[3]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@levolute.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.levolute.it|levolute.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Chianti Colli Senesi [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Parte dell’azienda è acquistata nel 1970 dal padre dell’attuale titolare; Claudia inizia l’agricoltura biodinamica nel 1994 (1 ha di bosco, 3 di oliveto, 5 di vigneto biologico). [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Vernaccia di San Gimignano DOCG; Chianti DOCG [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.levolute.it",
+   "etichetta": "levolute.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Chianti Colli Senesi, elenco delle aziende e dei produttori, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziochianticollisenesi.it/aziende-e-produttori/",
+   "etichetta": "consorziochianticollisenesi.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.levolute.it",
+   "etichetta": "levolute.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.levolute.it",
+   "etichetta": "levolute.it"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

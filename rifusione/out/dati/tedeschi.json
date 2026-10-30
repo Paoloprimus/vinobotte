@@ -1,0 +1,163 @@
+{
+ "nome": "Tedeschi",
+ "slug": "tedeschi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola F.lli Tedeschi S.r.l.; P.IVA 00559980230 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Giuseppe Verdi 4/a, 37029 Pedemonte di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7701487; info@tedeschiwines.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tedeschiwines.com/|tedeschiwines.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia in Valpolicella dal 1630; il vigneto Monte Olmi entra nei beni di famiglia nel 1918; dai primi anni Sessanta Lorenzo Tedeschi vinifica separatamente le uve di Monte Olmi, da cui nasce l’Amarone Capitel Monte Olmi [[2]]"
+    },
+    {
+     "etichetta": "Famiglia",
+     "valore": "Antonietta Tedeschi (indirizzo strategico), Sabrina Tedeschi (presenza internazionale), Riccardo Tedeschi (enologo) [[2]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Monte Olmi, Fabriseria e Maternigo, collinari tra 200 e 500 m s.l.m.; ettari non indicati [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dalla pagina «Tutti i nostri vini», senza annate; esclusi GA.RY (IGT Veneto Bianco), Capitel Tenda (Soave DOC Classico), la grappa e l’olio. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Fabriseria",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Maternigo",
+     "denominazione": "Amarone della Valpolicella DOCG Riserva",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Capitel Monte Olmi",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Ansari",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Marne 180",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Capitel Fontana",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Fabriseria",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Maternigo",
+     "denominazione": "Valpolicella DOC Superiore",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "San Rocco",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Nicalò",
+     "denominazione": "Valpolicella DOC Superiore",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC Superiore",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Lucchine",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Sette percorsi di degustazione che comprendono visita ai vigneti e alla cantina, nella sezione «Esperienze» [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine del sito della cantina consultate dal vivo il 24 ottobre 2026 (home, Una storia di famiglia, I nostri vini). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «tedeschiwines.com».",
+   "url": "https://www.tedeschiwines.com/",
+   "etichetta": "tedeschiwines.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «tedeschiwines.com/una-storia-di-famiglia».",
+   "url": "https://www.tedeschiwines.com/una-storia-di-famiglia/",
+   "etichetta": "tedeschiwines.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «tedeschiwines.com/i-nostri-vini».",
+   "url": "https://www.tedeschiwines.com/i-nostri-vini/",
+   "etichetta": "tedeschiwines.com"
+  }
+ ]
+}

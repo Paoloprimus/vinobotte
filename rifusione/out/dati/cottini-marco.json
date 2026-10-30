@@ -1,0 +1,205 @@
+{
+ "nome": "Cottini Marco",
+ "slug": "cottini-marco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Cottini Marco Soc. Agricola Semplice (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Casetta 11/B, 37022 Fumane (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel./fax +39 045 6839214 (il collegamento telefonico del sito riporta ...215); Marco +39 338 3542890; Carlotta +39 342 8059075; info@cottinimarco.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cottinimarco.it/|www.cottinimarco.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Origini negli anni ’30 con il nonno; oggi Marco con la moglie Renata e la figlia Carlotta; tre generazioni [[2]]"
+    },
+    {
+     "etichetta": "Superficie",
+     "valore": "15 ettari complessivi [[2]]"
+    },
+    {
+     "etichetta": "Cantina",
+     "valore": "Fruttaio con controllo di umidità e temperatura, fermentazione in acciaio con refrigerazione, affinamento in barrique e tonneaux di rovere [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal negozio del sito; le annate non sono indicate. [[3]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "I Creari",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Bardolino Superiore",
+     "denominazione": "Bardolino Superiore DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Bardolino",
+     "denominazione": "Bardolino DOC",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Chiaretto di Bardolino",
+     "denominazione": "Bardolino Chiaretto DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Pinot Grigio DOC",
+     "annata": "— [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Eventi",
+     "valore": "Pagina eventi con rassegne e manifestazioni a cui l’azienda partecipa [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cottinimarco.it con negozio online [[3]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Negozio online sul sito; altri marketplace: presenza non verificata [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://www.cottinimarco.it/azienda/",
+   "etichetta": "cottinimarco.it/azienda"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «negozio».",
+   "url": "https://www.cottinimarco.it/negozio/",
+   "etichetta": "cottinimarco.it/negozio"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/amarone-della-valpolicella-classico-docg».",
+   "url": "https://www.cottinimarco.it/prodotto/amarone-della-valpolicella-classico-docg/",
+   "etichetta": "cottinimarco.it/prodotto/amarone-della-valpolicella-classico-docg"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/i-creari-valpolicella-ripasso-doc».",
+   "url": "https://www.cottinimarco.it/prodotto/i-creari-valpolicella-ripasso-doc/",
+   "etichetta": "cottinimarco.it/prodotto/i-creari-valpolicella-ripasso-doc"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/valpolicella-classico-superiore-doc».",
+   "url": "https://www.cottinimarco.it/en/prodotto/valpolicella-classico-superiore-doc/",
+   "etichetta": "cottinimarco.it/en/prodotto/valpolicella-classico-superiore-doc"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/valpolicella-classico-doc».",
+   "url": "https://www.cottinimarco.it/prodotto/valpolicella-classico-doc/",
+   "etichetta": "cottinimarco.it/prodotto/valpolicella-classico-doc"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/bardolino-superiore-docg».",
+   "url": "https://www.cottinimarco.it/prodotto/bardolino-superiore-docg/",
+   "etichetta": "cottinimarco.it/prodotto/bardolino-superiore-docg"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/bardolino-doc».",
+   "url": "https://www.cottinimarco.it/prodotto/bardolino-doc/",
+   "etichetta": "cottinimarco.it/prodotto/bardolino-doc"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/bardolino-chiaretto-doc».",
+   "url": "https://www.cottinimarco.it/prodotto/bardolino-chiaretto-doc/",
+   "etichetta": "cottinimarco.it/prodotto/bardolino-chiaretto-doc"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/pinot-grigio-doc».",
+   "url": "https://www.cottinimarco.it/prodotto/pinot-grigio-doc/",
+   "etichetta": "cottinimarco.it/prodotto/pinot-grigio-doc"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «eventi».",
+   "url": "https://www.cottinimarco.it/eventi/",
+   "etichetta": "cottinimarco.it/eventi"
+  }
+ ]
+}

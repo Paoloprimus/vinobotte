@@ -1,0 +1,106 @@
+{
+ "nome": "Cantine Riondo",
+ "slug": "cantine-riondo-prosecco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantine Riondo S.p.A. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cappuccini 6, 37032 Monteforte d’Alpone (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 6104346; riondo@cantineriondo.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantineriondo.com|cantineriondo.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vino Lessini Durello DOC: {{/pagine/cantine-riondo-durello.html|scheda Lessini Durello}} [[4]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Prosecco DOC",
+     "valore": "Via Cappuccini 6, 37032 VR; tel. +39 0456104346; riondo@cantineriondo.com; https://www.cantineriondo.com/ [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nata nel 2008 «come costola del grande gruppo cooperativo COLLIS» (sezione iniziale del sito) [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Prosecco DOC",
+     "valore": "Il sito elenca Amarone, Recioto, Ripasso, Pinot Grigio e Prosecco Brut senza indicare le denominazioni [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Dichiarati dalla cantina sul sito, senza collegarli a un vino: 5 Star Wines 05/2023 (92); Luca Maroni 07/2022 (96); The Wine Hunter 05/2022; Vinordic Wine Challenge 05/2023 (oro); Mundus Vini 02/2022 (oro, Best of Show, argento) e 03/2021 (oro, argento); Gilbert & Gaillard 03/2021 (oro); Berliner Wein Trophy 12/2021 (Grand Gold) [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda del Consorzio e sito ufficiale della cantina, consultati il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «cantineriondo.com».",
+   "url": "http://www.cantineriondo.com",
+   "etichetta": "cantineriondo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://montilessini.com/riondo/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  }
+ ]
+}

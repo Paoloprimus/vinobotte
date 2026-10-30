@@ -1,0 +1,155 @@
+{
+ "nome": "Le Albare",
+ "slug": "le-albare",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Le Albare [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Pergola 33, 37030 Montecchia di Crosara (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3394122790 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.lealbare.it/|lealbare.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Storia familiare: il bisnonno Adamo, poi il nonno Umberto, il padre Giovanni e oggi Stefano; anno di fondazione non indicato [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Soave e Recioto di Soave; denominazioni come scritte nel sito, che non riporta le annate nell’elenco. [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Ca’ Bianchi",
+     "denominazione": "Soave DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Vigna Vecia",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Monte Majore",
+     "denominazione": "Soave Classico",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Giani",
+     "denominazione": "Recioto di Soave DOCG",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite su prenotazione telefonica o via email [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi: Giani",
+     "valore": "Recioto di Soave DOCG Giani 2024, 96/100 Grand Gold (Guida Winemag 2027) [[2]]"
+    },
+    {
+     "etichetta": "Premi: Vigna Vecia",
+     "valore": "Soave DOC Classico Vigna Vecia 2021, 96/100 Grand Gold (Guida Winemag 2027) [[2]]"
+    },
+    {
+     "etichetta": "Premi: Monte Majore",
+     "valore": "Soave DOC Classico Monte Majore 2025, 90/100 Silver (Guida Winemag 2027) [[2]]"
+    },
+    {
+     "etichetta": "Premi: Ca’ Bianchi",
+     "valore": "Soave DOC Ca’ Bianchi 2025, 88/100 «Vino Consigliato» (Guida Winemag 2027) [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=15868253527240367215|Mappa}} — valutazione 5 su 5 (1 recensioni) [[7]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/le-albare-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «lealbare.it», consultata il 24 ottobre 2026.",
+   "url": "http://www.lealbare.it/",
+   "etichetta": "lealbare.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «lealbare.it/prodotto/soave-d-o-c-ca-bianchi», consultata il 24 ottobre 2026.",
+   "url": "https://www.lealbare.it/prodotto/soave-d-o-c-ca-bianchi/",
+   "etichetta": "lealbare.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «lealbare.it/prodotto/soave-classico-d-o-c-vigna-vecia», consultata il 24 ottobre 2026.",
+   "url": "https://www.lealbare.it/prodotto/soave-classico-d-o-c-vigna-vecia/",
+   "etichetta": "lealbare.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «lealbare.it/prodotto/soave-classico-monte-majore», consultata il 24 ottobre 2026.",
+   "url": "https://www.lealbare.it/prodotto/soave-classico-monte-majore/",
+   "etichetta": "lealbare.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «lealbare.it/prodotto/recioto-di-soave», consultata il 24 ottobre 2026.",
+   "url": "https://www.lealbare.it/prodotto/recioto-di-soave/",
+   "etichetta": "lealbare.it"
+  },
+  {
+   "n": 7,
+   "testo": "Scheda «Azienda Agricola Le Albare» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=15868253527240367215",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

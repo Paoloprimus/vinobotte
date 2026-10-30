@@ -1,0 +1,124 @@
+{
+ "nome": "Biancavigna",
+ "slug": "biancavigna-prosecco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "BiancaVigna S.S. Agricola; P.IVA e C.F. 04103630267 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Monte Nero 8, 31015, Conegliano (Tv) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 0438 788403; cell. +39 345 4059568; info@biancavigna.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.biancavigna.it/|www.biancavigna.it}} [[1]]"
+    },
+    {
+     "etichetta": "Descrizione",
+     "valore": "Azienda con 30 ettari di vigna nelle zone DOCG e DOC [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[2]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG: {{/pagine/biancavigna-conegliano.html|scheda Conegliano Valdobbiadene}} [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Extra Dry",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Brut",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Rosé",
+     "denominazione": "Prosecco Rosé DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Frizzante",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Tre Bicchieri, Gambero Rosso Vini d’Italia 2025: Conegliano Valdobbiadene Rive di Ogliano Extra Brut 2023 [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda del Consorzio e sito ufficiale della cantina, consultati il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «biancavigna.it».",
+   "url": "https://www.biancavigna.it/",
+   "etichetta": "biancavigna.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026 (dati copiati dal sito del Consorzio).",
+   "url": "https://www.prosecco.it/it/scheda-cantina/biancavigna/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 4,
+   "testo": "Gambero Rosso International, articolo «Prosecco Superiore: the 8 best selected by Gambero Rosso» (sito di terzi, non della cantina), consultato il 25 ottobre 2026.",
+   "url": "https://www.gamberorossointernational.com/news/prosecco-superiore-the-8-best-selected-by-gambero-rosso/",
+   "etichetta": "gamberorossointernational.com"
+  }
+ ]
+}

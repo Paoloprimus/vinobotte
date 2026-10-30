@@ -1,0 +1,131 @@
+{
+ "nome": "Maltraversi",
+ "slug": "maltraversi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "MALTRAVERSI [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Alpone 14, 37035 San Giovanni Ilarione (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 334 6863012 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@maltraversi.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.maltraversi.it|maltraversi.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Lessini Durello DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nata nel 2008 da quattro amici (Luigino, Almerino, Luciano e Marco) per valorizzare la Val d’Alpone attraverso il Durello; enologo e socio Marco Zonato [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Cinque vini a base Durella; la denominazione non è indicata nelle pagine prodotto lette. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Conte Uberto",
+     "denominazione": "Durello Brut Millesimato, spumante metodo Charmat (denominazione non indicata)",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Niccolò Vescovo",
+     "denominazione": "Denominazione non indicata",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Alboino Re",
+     "denominazione": "Denominazione non indicata",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Ingherfredo il Longobardo",
+     "denominazione": "Denominazione non indicata",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Beato Bernardo",
+     "denominazione": "Denominazione non indicata",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=9168310036290876180|Mappa}} — valutazione 4 su 5 (4 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://montilessini.com/maltraversi/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «maltraversi.it/prodotti», consultata il 24 ottobre 2026.",
+   "url": "https://www.maltraversi.it/prodotti",
+   "etichetta": "maltraversi.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «maltraversi.it/prodotti/conte-uberto», consultata il 24 ottobre 2026.",
+   "url": "https://www.maltraversi.it/prodotti/conte-uberto",
+   "etichetta": "maltraversi.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Cantina Maltraversi» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=9168310036290876180",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

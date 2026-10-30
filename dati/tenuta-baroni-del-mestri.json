@@ -1,0 +1,96 @@
+{
+ "nome": "Tenuta Baroni del Mestri",
+ "slug": "tenuta-baroni-del-mestri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Salita al Monte Quarin, 22 34071 Cormons, Gorizia [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 040 313177[[1]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@baronidelmestri.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.baronidelmestri.it/|baronidelmestri.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Collio [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nel 1971 i fratelli Giampaolo e Massimo, con i nipoti, ridanno vita a vigneti e uliveti ereditati dalla famiglia. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Collio",
+     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/tenutabaronidelmestri/|@tenutabaronidelmestri}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12279091421881290552|Mappa}} — valutazione 4,8 su 5 (16 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Collio, scheda della cantina nell’elenco dei produttori, consultata il 25 ottobre 2026.",
+   "url": "https://www.collio.it/cantina/tenuta-baroni-del-mestri/",
+   "etichetta": "collio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.baronidelmestri.it/",
+   "etichetta": "baronidelmestri.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «\"Tenuta Baroni del Mestri\" di Giampaolo e Massimo Cramer Soc. Agr. Semplice» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12279091421881290552",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

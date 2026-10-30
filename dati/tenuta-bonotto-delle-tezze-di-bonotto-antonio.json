@@ -1,0 +1,127 @@
+{
+ "nome": "Tenuta Bonotto delle Tezze di Bonotto Antonio",
+ "slug": "tenuta-bonotto-delle-tezze-di-bonotto-antonio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Bonotto delle Tezze di Bonotto Antonio [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03287710267 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "31028 Vazzola [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni Venezia dichiarate",
+     "valore": "Piave, Venezia, Malanotte [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390438488323 [[3]] [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bonottodelletezze.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bonottodelletezze.it/|bonottodelletezze.it}} — raggiungibile al controllo del 29 ottobre 2026 [[3]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Vini Venezia [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via Duca D'Aosta,31028 - Vazzola TV; tel. 0438 488323; info@bonottodelletezze.it; bonottodelletezze.com [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[4]]"
+    }
+   ],
+   "righe": []
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://it-it.facebook.com/BONOTTODELLETEZZE|BONOTTODELLETEZZE}}\nInstagram {{https://www.instagram.com/bonottodelletezze/|@bonottodelletezze}}\nYouTube {{https://www.youtube.com/channel/UC4g-KaXPGO8m_KPgRui7-Pw/videos|canale UC4g-KaXPGO8m_KPgRui7-Pw}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=4036356537114090442|Mappa}} — valutazione 4,7 su 5 (133 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 29 ottobre 2026.",
+   "url": "https://www.bonottodelletezze.it/",
+   "etichetta": "bonottodelletezze.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.bonottodelletezze.it/",
+   "etichetta": "bonottodelletezze.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Bonotto delle Tezze» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=4036356537114090442",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

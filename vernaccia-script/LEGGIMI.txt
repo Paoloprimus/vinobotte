@@ -1,0 +1,5 @@
+1) Una volta sola, nella cartella:   npm init -y && npm i playwright && npx playwright install chromium
+2) Metti le cantine in siti.txt (nome|url)
+3) node leggi_siti.mjs        (crea out/*.txt)
+4) python3 estrai.py          (crea nuovi_estratti.json + riepilogo)
+5) Mandami nuovi_estratti.json: controllo i dati e creo le schede.

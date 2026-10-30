@@ -1,0 +1,170 @@
+{
+ "nome": "De Riz",
+ "slug": "de-riz",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "De Riz Azienda Agricola [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "via Pianale 72/A San Pietro di Feletto [[1]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Conegliano Valdobbiadene DOCG Brut», «Conegliano Valdobbiadene Prosecco Superiore DOCG Brut», «Conegliano Valdobbiadene Prosecco Superiore DOCG Brut Millesimato», «Conegliano Valdobbiadene Prosecco Superiore DOCG Extra Brut», «Conegliano Valdobbiadene Prosecco Superiore DOCG Extra Dry» [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0438 1967278 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@proseccoderiz.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.proseccoderiz.it|www.proseccoderiz.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il 28 giugno 1983 il nonno Carlo De Riz acquista il primo terreno e il vecchio fienile, origine dell’azienda; il nipote Luca nasce nel 1984. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: brut, extra brut, extra dry [[1]]"
+    }
+   ],
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[2]]",
+   "vini": [
+    {
+     "nome": "Caris",
+     "denominazione": "Conegliano Valdobbiadene Prosecco Superiore DOCG Extra Brut",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Costaderù",
+     "denominazione": "Conegliano Valdobbiadene Prosecco Superiore DOCG Brut",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Nonno Carlo",
+     "denominazione": "Conegliano Valdobbiadene Prosecco Superiore DOCG Brut Millesimato",
+     "annata": "2025 [[2]]"
+    },
+    {
+     "nome": "Costabèa",
+     "denominazione": "Conegliano Valdobbiadene Prosecco Superiore DOCG Extra Dry",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Costaderù Magnum",
+     "denominazione": "Conegliano Valdobbiadene DOCG Brut",
+     "annata": "— [[2]]"
+    }
+   ],
+   "tipo": "vini"
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "E-commerce; Vendita al dettaglio; Visita e degustazione [[1]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fino a 100.000 bottiglie [[1]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "SQNPI [[1]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese, Tedesco [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/derizviticoltori|derizviticoltori}}\nInstagram {{https://www.instagram.com/derizviticoltori/|@derizviticoltori}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://proseccoderiz.it/negozio/|proseccoderiz.it/negozio}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=10305011223675403897|Mappa}} — valutazione 4,7 su 5 (140 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate tra il 24 e il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/de-riz/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «proseccoderiz.it/negozio», consultata il 25 ottobre 2026.",
+   "url": "https://proseccoderiz.it/negozio/",
+   "etichetta": "proseccoderiz.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.proseccoderiz.it",
+   "etichetta": "proseccoderiz.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «De Riz Società Agricola S.S.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=10305011223675403897",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-de-riz-luca/",
+   "etichetta": "bereilvino.it"
+  }
+ ]
+}

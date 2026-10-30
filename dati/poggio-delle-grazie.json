@@ -1,0 +1,121 @@
+{
+ "nome": "Poggio delle Grazie",
+ "slug": "poggio-delle-grazie",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Milano 199, 37014 Castelnuovo del Garda (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3513381848 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poggiodellegrazie.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.poggiodellegrazie.it|poggiodellegrazie.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vino Custoza DOC [[2]]\nConsorzio Tutela Vino Bardolino D.O.C. [[3]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Custoza",
+     "valore": "Castelnuovo del Garda (VR); tel. 340 831 9164; poggiodellegrazie.it [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina nata nel 2014 per valorizzare una vigna vicino al lago di Garda, tra le DOC Bardolino e Custoza; produzione biologica certificata [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Custoza",
+     "valore": "Non indicato nell’elenco dei soci del Consorzio; non ancora raccolto dai siti delle cantine [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino DOC; Chiaretto di Bardolino DOC; Sottozone di Bardolino; La Rocca Bardolino DOC [[1]]"
+    }
+   ],
+   "nota": "Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[1]]"
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/poggiodellegrazie|poggiodellegrazie}}\nInstagram {{https://www.instagram.com/poggiodellegrazie/|@poggiodellegrazie}} [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.poggiodellegrazie.it/wineshop/|poggiodellegrazie.it/wineshop}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=15357068887175699241|Mappa}} — valutazione 4,8 su 5 (144 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/poggio-delle-grazie/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026.",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.poggiodellegrazie.it",
+   "etichetta": "poggiodellegrazie.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «POGGIO delle GRAZIE» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=15357068887175699241",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

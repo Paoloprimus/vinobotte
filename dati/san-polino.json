@@ -1,0 +1,128 @@
+{
+ "nome": "San Polino",
+ "slug": "san-polino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. San Polino di Fabbro Luigi [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01414730521 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Pod. S. Polino, n. 63, Castelnuovo Dell'abate - 53024 - Montalcino (Siena) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577835775 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "vino@sanpolino.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.sanpolino.it|sanpolino.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Brunello di Montalcino [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Piccola cantina a conduzione familiare. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Brunello di Montalcino DOCG; Brunello di Montalcino Riserva DOCG; Rosso di Montalcino DOC [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Brunello di Montalcino; Rosso di Montalcino; Sant'Antimo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Punteggi",
+     "valore": "Citazione di James Suckling sui Brunello [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/sanpolino|sanpolino}}\nInstagram {{https://www.instagram.com/brunello.san.polino/|@brunello.san.polino}}\nX {{https://x.com/scl|@scl}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=7527996301649526241|Mappa}} — valutazione 4,8 su 5 (40 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.sanpolino.it",
+   "etichetta": "sanpolino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio del Vino Brunello di Montalcino, scheda della cantina nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziobrunellodimontalcino.it/it/1552/san-polino",
+   "etichetta": "consorziobrunellodimontalcino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.sanpolino.it",
+   "etichetta": "sanpolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.sanpolino.it",
+   "etichetta": "sanpolino.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Azienda Agr. San Polino di Fabbro Luigi» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=7527996301649526241",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

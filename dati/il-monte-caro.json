@@ -1,0 +1,147 @@
+{
+ "nome": "Il Monte Caro",
+ "slug": "il-monte-caro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agr. Il Monte Caro di Marcolini Emanuela e C. s.s. [[1]] [[2]]\nSul sito “Soc. Agr. Il Monte Caro CSS”"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04255830236 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Giovanni XXIII 14, 37030 Mezzane di Sotto (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 349 837 7097 [[3]]\n+39 349 837 7097 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ilmontecaro.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://ilmontecaro.it/|ilmontecaro.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata nel 1986 da Enzo Marcolini e dalla moglie Carla, su una collina ripida (“sassaia”) [[2]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine di oliva [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; l’azienda produce anche IGT e un Metodo Classico rosato. Il sito non indica le annate. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella DOC Superiore",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG Riserva",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Esperienze su prenotazione (degustazione o passeggiata in collina) [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/ilmontecaro|ilmontecaro}}\nInstagram {{https://www.instagram.com/ilmontecaro/|@ilmontecaro}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=18079947035493414201|Mappa}} — valutazione 4,9 su 5 (34 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «ilmontecaro.it», consultata il 24 ottobre 2026.",
+   "url": "https://ilmontecaro.it/",
+   "etichetta": "ilmontecaro.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://ilmontecaro.it/",
+   "etichetta": "ilmontecaro.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «ilmontecaro.it/it/prodotti», consultata il 24 ottobre 2026.",
+   "url": "https://ilmontecaro.it/it/prodotti",
+   "etichetta": "ilmontecaro.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Il Monte Caro» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=18079947035493414201",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+{
+ "nome": "Nicolis",
+ "slug": "nicolis",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Nicolis S.r.l. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02195230236 [[13]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Villa Girardi 29, 37029 San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 7701261 · info@vininicolis.com; wine shop lun–ven 8:30–18:30, sab 9–17 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vininicolis.com/|www.vininicolis.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Dal 1951 Angelo Nicolis investe in azienda per il mercato; oggi Giuseppe con i figli Angelo e Sofia [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "49 ettari vitati a San Pietro in Cariano [[3]]"
+    },
+    {
+     "etichetta": "Sostenibilità",
+     "valore": "Fotovoltaico, irrigazione di soccorso a goccia, adesione al Sistema di Qualità Nazionale di Produzione Integrata (SQNPI) [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal sito, senza annata. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Ambrosan",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Recioto della Valpolicella",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Seccal",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Lugana",
+     "denominazione": "Lugana DOC",
+     "annata": "— [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Le schede dei vini riportano Luca Maroni, Falstaff Trophy e James Suckling con punteggi (per annate 2011, 2012, 2015); dichiarati dalla cantina, non verificati da VinoBot sulle guide [[7]] [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Wine Tour “Dolce Vita” con tre vini, 20 € a persona, circa 1,5 ore, su prenotazione, in quattro lingue [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "vininicolis.com in italiano, inglese e tedesco; Facebook e Instagram collegati; vini anche su Grandi Vini IT [[5]] [[2]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Grandi Vini IT, indicato dal sito; altri marketplace: presenza non verificata [[5]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook e Instagram indicati dal sito; Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.vininicolis.com/contatti/",
+   "etichetta": "vininicolis.com/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «storia».",
+   "url": "https://www.vininicolis.com/storia/",
+   "etichetta": "vininicolis.com/storia"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «sostenibilita».",
+   "url": "https://www.vininicolis.com/sostenibilita/",
+   "etichetta": "vininicolis.com/sostenibilita"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://www.vininicolis.com/vini/",
+   "etichetta": "vininicolis.com/vini"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «scheda-vino/ambrosan-amarone-della-valpolicella».",
+   "url": "https://www.vininicolis.com/scheda-vino/ambrosan-amarone-della-valpolicella/",
+   "etichetta": "vininicolis.com/scheda-vino/ambrosan-amarone-della-valpolicella"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «scheda-vino/amarone-della-valpolicella».",
+   "url": "https://www.vininicolis.com/scheda-vino/amarone-della-valpolicella/",
+   "etichetta": "vininicolis.com/scheda-vino/amarone-della-valpolicella"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «scheda-vino/recioto-della-valpolicella».",
+   "url": "https://www.vininicolis.com/scheda-vino/recioto-della-valpolicella/",
+   "etichetta": "vininicolis.com/scheda-vino/recioto-della-valpolicella"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «scheda-vino/seccal-valpolicella-ripasso».",
+   "url": "https://www.vininicolis.com/scheda-vino/seccal-valpolicella-ripasso/",
+   "etichetta": "vininicolis.com/scheda-vino/seccal-valpolicella-ripasso"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «scheda-vino/valpolicella».",
+   "url": "https://www.vininicolis.com/scheda-vino/valpolicella/",
+   "etichetta": "vininicolis.com/scheda-vino/valpolicella"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «scheda-vino/lugana».",
+   "url": "https://www.vininicolis.com/scheda-vino/lugana/",
+   "etichetta": "vininicolis.com/scheda-vino/lugana"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «degustazioni».",
+   "url": "https://www.vininicolis.com/degustazioni/",
+   "etichetta": "vininicolis.com/degustazioni"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, consultato il 25 ottobre 2026, pagina «vininicolis.com» (verifica incrociata).",
+   "url": "https://www.vininicolis.com/",
+   "etichetta": "vininicolis.com"
+  }
+ ]
+}

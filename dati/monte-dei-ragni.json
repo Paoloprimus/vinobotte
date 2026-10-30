@@ -1,0 +1,186 @@
+{
+ "nome": "Monte dei Ragni",
+ "slug": "monte-dei-ragni",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Monte dei Ragni di Zignoli Zeno [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03252690239 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località Marega 3, 37022 Fumane (VR) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 6801600\ncell. +39 339 3428360 [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@montedeiragni.com [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.montedeiragni.com/|www.montedeiragni.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cinque generazioni della famiglia Ragno a Fumane; l’azienda prende il nome dalla collina riportata nel catasto storico austriaco [[2]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Circa 6–7 ettari su terreni poveri con marogne, pergola semplice, oltre 5000 ceppi per ettaro; filari alternati a ulivi e ciliegi [[2]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine da oltre 400 piante di ulivo e ciliegie [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito elenca le etichette per denominazione, senza nomi di fantasia né annate. [[2]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "montedeiragni.com con ricette e galleria Instagram [[9]] [[10]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Instagram (galleria sul sito)\naltri social [[10]]\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=4521795011640742707|Mappa}} — valutazione 4,9 su 5 (31 recensioni) [[11]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[12]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.montedeiragni.com/",
+   "etichetta": "montedeiragni.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=48».",
+   "url": "https://www.montedeiragni.com/?page_id=48",
+   "etichetta": "montedeiragni.com/?page_id=48"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=74».",
+   "url": "https://www.montedeiragni.com/?page_id=74",
+   "etichetta": "montedeiragni.com/?page_id=74"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=50».",
+   "url": "https://www.montedeiragni.com/?page_id=50",
+   "etichetta": "montedeiragni.com/?page_id=50"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=241».",
+   "url": "https://www.montedeiragni.com/?page_id=241",
+   "etichetta": "montedeiragni.com/?page_id=241"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=61».",
+   "url": "https://www.montedeiragni.com/?page_id=61",
+   "etichetta": "montedeiragni.com/?page_id=61"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=66».",
+   "url": "https://www.montedeiragni.com/?page_id=66",
+   "etichetta": "montedeiragni.com/?page_id=66"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=29».",
+   "url": "https://www.montedeiragni.com/?page_id=29",
+   "etichetta": "montedeiragni.com/?page_id=29"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=280».",
+   "url": "https://www.montedeiragni.com/?page_id=280",
+   "etichetta": "montedeiragni.com/?page_id=280"
+  },
+  {
+   "n": 11,
+   "testo": "Scheda «Monte dei Ragni di Zeno Zignoli» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=4521795011640742707",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 12,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

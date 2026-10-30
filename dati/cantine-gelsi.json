@@ -1,0 +1,118 @@
+{
+ "nome": "Cantine Gelsi",
+ "slug": "cantine-gelsi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04162360269 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via S. Maria del Palù, 18, 31043 Fontanelle (TV) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Prosecco Spumante DOC Brut», «Prosecco Spumante DOC Extra Dry» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3407465910 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinegelsi.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinegelsi.com|cantinegelsi.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Prosecco Spumante Extra Dry",
+     "denominazione": "Prosecco Spumante DOC Extra Dry",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Prosecco Spumante Brut",
+     "denominazione": "Prosecco Spumante DOC Brut",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=5278618323837444115|Mappa}} — valutazione 4,9 su 5 (12 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.cantinegelsi.com",
+   "etichetta": "cantinegelsi.com"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/cantine-gelsi/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «cantinegelsi.com/index.html#lista-vini», consultata il 25 ottobre 2026.",
+   "url": "https://www.cantinegelsi.com/index.html#lista-vini",
+   "etichetta": "cantinegelsi.com"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Cantine Gelsi Di Brugnera Massimo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=5278618323837444115",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

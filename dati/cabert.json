@@ -1,0 +1,281 @@
+{
+ "nome": "Cabert",
+ "slug": "cabert",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cabert S.p.A. (Cantina di Bertiolo) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00167540301 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Madonna 27, 33032 Bertiolo (UD) [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate al Consorzio",
+     "valore": "DOC Friuli Colli Orientali [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0432 917434 [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cabert.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cabert.it/|www.cabert.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[3]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]\nConsorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]\nConsorzio Tutela Vini DOC Friuli Grave [[5]]\nConsorzio DOC Friuli [[6]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via Madonna, 27, 33032 Bertiolo Udine; tel. 0432 917434; info@cabert.it; cabert.it [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito riporta «Passione per il vino dal 1960» [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[1]] Elenco dei vini nella scheda del Consorzio, senza denominazione: la scheda indica soltanto il nome del vino, per tipo (bianco, rosso) in base alle icone. L’elenco è lo stesso formato per tutti i soci; la denominazione di ciascun vino va verificata sul sito della cantina [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Chardonnay",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Friulano",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Sauvignon",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Traminer Aromatico",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Cabernet Franc",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Cabernet Sauvignon",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot Nero",
+     "denominazione": "Friuli DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Merlot",
+     "denominazione": "DOC (denominazione specifica non indicata nel sito)",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Refosco dal Peduncolo Rosso",
+     "denominazione": "DOC (denominazione specifica non indicata nel sito)",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Prosecco",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Prosecco Rosé",
+     "denominazione": "Prosecco Rosé DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Violino Frizzante",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Picolit",
+     "denominazione": "DOCG",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Chardonnay",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Friulano",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Ribolla Gialla",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Sauvignon",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Cabernet Sauvignon",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Merlot",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Refosco dal Peduncolo Rosso",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Schioppettino",
+     "denominazione": "Friuli Colli Orientali DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot Grigio Blush",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Pinot Grigio ramato",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[4]]"
+    }
+   ],
+   "righe": []
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Vini «pluripremiati in tutto il mondo» (recensione), senza elenco dei premi [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/vinicabert|vinicabert}}\nInstagram {{https://www.instagram.com/cabert_cantinadibertiolo/|@cabert_cantinadibertiolo}} [[7]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.cabert.it/shop/|cabert.it/shop}} [[7]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13637489590392947152|Mappa}} — valutazione 4,5 su 5 (73 recensioni) [[8]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate tra il 24 e il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «cabert.it», consultata il 24 ottobre 2026.",
+   "url": "https://www.cabert.it/",
+   "etichetta": "cabert.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo, scheda della cantina nell’elenco delle aziende associate, consultata il 25 ottobre 2026.",
+   "url": "https://www.colliorientali.com/cabert/",
+   "etichetta": "colliorientali.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio Tutela Vini DOC Friuli Grave, elenco delle cantine e schede delle singole cantine, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuligrave.com/cantine.html",
+   "etichetta": "docfriuligrave.com"
+  },
+  {
+   "n": 6,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/cabert/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.cabert.it/",
+   "etichetta": "cabert.it"
+  },
+  {
+   "n": 8,
+   "testo": "Scheda «Cabert - Cantina di Bertiolo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13637489590392947152",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 9,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/",
+   "etichetta": "docfriuli.eu"
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "nome": "Azienda Agricola Pieriboni",
+ "slug": "azienda-agricola-pieriboni",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00903010247 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Mason, 13, 36054 Montebello Vicentino (VI) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Gambellara DOC Classico», «Recioto Di Gambellara DOCG Classico», «Recioto Di Gambellara DOCG Spumante» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3386063018 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@pieriboni.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.pieriboni.com|pieriboni.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Ca' Mason",
+     "denominazione": "Gambellara DOC Classico",
+     "annata": "2021 [[3]]"
+    },
+    {
+     "nome": "Ca' Mason",
+     "denominazione": "Gambellara DOC Classico",
+     "annata": "2020 [[3]]"
+    },
+    {
+     "nome": "Monte Guglia",
+     "denominazione": "Recioto Di Gambellara DOCG Spumante",
+     "annata": "2020 [[3]]"
+    },
+    {
+     "nome": "Monte Guglia",
+     "denominazione": "Recioto Di Gambellara DOCG Spumante",
+     "annata": "2019 [[3]]"
+    },
+    {
+     "nome": "L'Obelisco",
+     "denominazione": "Recioto Di Gambellara DOCG Classico",
+     "annata": "2017 [[3]]"
+    },
+    {
+     "nome": "L'Obelisco",
+     "denominazione": "Recioto Di Gambellara DOCG Classico",
+     "annata": "2016 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Punteggi",
+     "valore": "Punteggi su 100: 98 al Recioto di Gambellara «Monte Guglia» 2020, 89 al Durello Brut «Monte Alba» 2021 (altre annate: 90 e 85) [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=15691150715913664481|Mappa}} — valutazione 4,7 su 5 (112 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": " &reg; 2012 R.E.A.: VI-25560|https://www.pieriboni.com",
+   "etichetta": " &reg; 2012 R.E.A.: VI-25560|https:"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-pieriboni/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «pieriboni.com/index.php?it&vini_bianchi», consultata il 25 ottobre 2026.",
+   "url": "https://www.pieriboni.com/index.php?it&vini_bianchi",
+   "etichetta": "pieriboni.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.pieriboni.com",
+   "etichetta": "pieriboni.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Azienda Agricola di Pieriboni e Figli» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=15691150715913664481",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

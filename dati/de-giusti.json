@@ -1,0 +1,103 @@
+{
+ "nome": "De Giusti",
+ "slug": "de-giusti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via dei Bar, 14, 31020 San Vendemiano (TV) [[1]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "{{https://www.facebook.com/DeGiustiProsecco/|facebook.com/DeGiustiProsecco}} [[1]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Fior d'Arancio Colli Euganei DOCG» [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0438410500 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@degiusti.eu [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.degiusti.eu|degiusti.eu}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Fior d'Arancio",
+     "denominazione": "Fior d'Arancio Colli Euganei DOCG",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/DeGiustiProsecco|DeGiustiProsecco}}\nInstagram {{https://www.instagram.com/degiusti_prosecco/|@degiusti_prosecco}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{http://shop.manuelcaffe.it/|shop.manuelcaffe.it}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nVivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/de-giusti/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «degiusti.eu/prodotti», consultata il 25 ottobre 2026.",
+   "url": "http://www.degiusti.eu/prodotti/",
+   "etichetta": "degiusti.eu"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.degiusti.eu",
+   "etichetta": "degiusti.eu"
+  }
+ ]
+}

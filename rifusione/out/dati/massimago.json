@@ -1,0 +1,159 @@
+{
+ "nome": "Massimago",
+ "slug": "massimago",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Massimago s.s. Agr. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04206570238 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Giare 21, 37030 Mezzane di Sotto (VR) [[1]]; il sito indica Via Giare 10–11 [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 342 6604566 · winerelais@massimago.com [[3]] · info@massimago.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.massimago.com/|www.massimago.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nella valle di Mezzane, della famiglia Cracco dal 1883; dal 2003 Camilla Rossi Chauvenet la rilancia come cantina e wine relais [[4]]"
+    },
+    {
+     "etichetta": "Metodo",
+     "valore": "Vini biologici dal 2008, certificazione dal 2014; proprietà di 28 ettari [[2]] [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal sito, con annate dove indicate. [[2]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "SVM400 Macie",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "2018 [[2]]"
+    },
+    {
+     "nome": "SVT300 Terrazze",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "2018 [[2]]"
+    },
+    {
+     "nome": "Conte Gastone",
+     "denominazione": "Amarone della Valpolicella DOCG biologico",
+     "annata": "2021 [[2]]"
+    },
+    {
+     "nome": "Marchesa Mariabella",
+     "denominazione": "Valpolicella Ripasso DOC biologico",
+     "annata": "2023 [[2]]"
+    },
+    {
+     "nome": "Profasio",
+     "denominazione": "Valpolicella Superiore DOC biologico",
+     "annata": "2022 [[2]]"
+    },
+    {
+     "nome": "Duca Fedele",
+     "denominazione": "Valpolicella DOC biologico",
+     "annata": "2024 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel testo salvato del sito"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Relais",
+     "valore": "Massimago Wine Relais (suite e agriturismo) e Corte Massimago con piscina; esperienze e “Massimago in Cucina” [[5]] [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "massimago.com con wine shop, in italiano e inglese [[2]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Wine shop sul sito; altri marketplace: presenza non verificata [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.massimago.com/",
+   "etichetta": "massimago.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "http://massimago.com/contatti/",
+   "etichetta": "massimago.com/contatti"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "http://massimago.com/chi-siamo/",
+   "etichetta": "massimago.com/chi-siamo"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «massimago-wine-relais».",
+   "url": "http://massimago.com/massimago-wine-relais/",
+   "etichetta": "massimago.com/massimago-wine-relais"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «corte-massimago».",
+   "url": "http://massimago.com/corte-massimago/",
+   "etichetta": "massimago.com/corte-massimago"
+  }
+ ]
+}

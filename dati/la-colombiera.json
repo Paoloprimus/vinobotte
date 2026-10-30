@@ -1,0 +1,54 @@
+{
+ "nome": "La Colombiera",
+ "slug": "la-colombiera",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Montecchio 176, 19033 Castelnuovo Magra, SP [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0187 699235 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinalacolombiera.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinalacolombiera.it/|cantinalacolombiera.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colli di Luni Vermentino DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.cantinalacolombiera.it/",
+   "etichetta": "cantinalacolombiera.it"
+  }
+ ]
+}

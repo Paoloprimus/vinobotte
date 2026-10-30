@@ -1,0 +1,118 @@
+{
+ "nome": "Castello di Spessa",
+ "slug": "castello-di-spessa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00444600316 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Spessa 1, 34070 Capriva del Friuli (GO) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0481 808124[[2]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@castellodispessa.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.castellodispessa.it|castellodispessa.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Collio [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Collio",
+     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Punteggi",
+     "valore": "Vino da Bere 2026: 100/100\nItaly’s Finest Wines 2025: 94/100 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/CastelloSpessa|CastelloSpessa}}\nInstagram {{https://www.instagram.com/castellodispessa/|@castellodispessa}}\nLinkedIn {{https://it.linkedin.com/company/castellodispessa|castellodispessa}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://shop.castellodispessa.it/it/|shop.castellodispessa.it/it}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12890144590233631813|Mappa}} — valutazione 4,7 su 5 (1701 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.castellodispessa.it",
+   "etichetta": "castellodispessa.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Collio, scheda della cantina nell’elenco dei produttori, consultata il 25 ottobre 2026.",
+   "url": "https://www.collio.it/cantina/castello-di-spessa/",
+   "etichetta": "collio.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.castellodispessa.it",
+   "etichetta": "castellodispessa.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Castello di Spessa Golf Wine Resort & Spa» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12890144590233631813",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

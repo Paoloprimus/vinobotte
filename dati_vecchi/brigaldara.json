@@ -1,0 +1,192 @@
+{
+ "nome": "Brigaldara",
+ "slug": "brigaldara",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Brigaldara, Società Agricola Semplice; P.IVA/CF 04393250230 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Brigaldara 20, 37029 San Pietro in Cariano (VR) [[1]]"
+    },
+    {
+     "etichetta": "Altra sede",
+     "valore": "Agriturismo Locanda Case Vecie, Via Casevecchie 8, 37023 Grezzana (VR) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.brigaldara.it/it/|www.brigaldara.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Proprietà",
+     "valore": "Famiglia Cesari, che la detiene dal 1928; il sito parla di «mille anni di storia» [[1]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Oltre 120 ettari di proprietà, di cui 48 vitati, in tre zone della provincia di Verona: Valpolicella Classica, Valpantena e Valpolicella Orientale [[1]]; vigneti indicati nella pagina «Territorio»: [[2]]",
+     "elenco": [
+      "Brigaldara",
+      "Case Vecie",
+      "Cavolo",
+      "Marcellise"
+     ]
+    },
+    {
+     "etichetta": "Territorio",
+     "valore": "Terroir e microterroir diversi per suoli, clima, altitudine e morfologia, ciascuno vocato a una particolare espressione dell'Amarone e del Valpolicella; ogni etichetta rappresenta una di queste zone [[2]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Il nome «Brigaldara» compare dal XII secolo in atti di compravendita; podere ai piedi del Monte Masua, tra San Floriano e Valgatara, nella Valle di Marano, già vocato alla vite [[3]]"
+    },
+    {
+     "etichetta": "Passaggi di proprietà",
+     "valore": "Nel XIII secolo al cenobio agostiniano di Sant'Eufemia in Verona; nel 1653 ai fratelli Fontana; nel 1714 venduta a Margherita, moglie di Giacomo Locatelli [[3]]"
+    },
+    {
+     "etichetta": "Villa",
+     "valore": "Villa padronale di origine cinquecentesca; il progetto dell'ing. Giuseppe Fraccaroli del 1873 le ha dato l'aspetto attuale [[3]]"
+    },
+    {
+     "etichetta": "Famiglia Cesari",
+     "valore": "Dal 1928 con l'acquisto di Renzo Cesari; poi il figlio Lamberto; dagli anni Ottanta la guida di Stefano, nipote di Renzo, con l'enologo Roberto Ferrarini; dal 2000 Stefano con i figli Lamberto e Antonio rinnovano cantina e vigneti [[3]]"
+    },
+    {
+     "etichetta": "Vigneti storici e nuovi",
+     "valore": "Alle proprietà attorno alla villa di San Floriano si sono aggiunti Marano (Corvina e Corvinone), Case Vecie a Grezzana («Amarone Vigne Alte»), Cavolo a Grezzana (Amarone dalle note floreali) e Marcellise (Corvina, Corvinone e Rondinella) [[3]]"
+    },
+    {
+     "etichetta": "Superficie",
+     "valore": "Oltre 120 ettari: 48 a vigneto, il resto a uliveto, coltivi, pascoli e boschi; pratiche sostenibili in vigna e in cantina [[3]]"
+    },
+    {
+     "etichetta": "Team",
+     "valore": "Giovani enologi e agronomi dedicati alla cura di ogni intervento in vigna [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dalla pagina «Vini» del sito, senza annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Case Vecie",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Cavolo",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Il Vegro",
+     "denominazione": "Valpolicella Superiore Ripasso DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Case Vecie",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto della Valpolicella",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Soave",
+     "denominazione": "Soave DOC",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Visite su prenotazione dal sito {{https://www.brigaldara.it/it/booking|www.brigaldara.it/it/booking}} [[1]]"
+    },
+    {
+     "etichetta": "Agriturismo",
+     "valore": "Agriturismo Locanda Case Vecie a Grezzana (VR) [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Amarone di Brigaldara: tre bicchieri del Gambero Rosso, la prima volta nel 1997 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Dati dalla home e dalle pagine «Territorio», «Storia» e «Vini» del sito della cantina, copiate a mano il 24 ottobre 2026 perché il sito vieta la lettura automatica. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «home», testo copiato a mano il 24 ottobre 2026 (il sito vieta la lettura automatica).",
+   "url": "https://www.brigaldara.it/it/",
+   "etichetta": "brigaldara.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «territorio», testo copiato a mano il 24 ottobre 2026 (il sito vieta la lettura automatica).",
+   "url": "https://www.brigaldara.it/it/territorio",
+   "etichetta": "brigaldara.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «storia», testo copiato a mano il 24 ottobre 2026 (il sito vieta la lettura automatica).",
+   "url": "https://www.brigaldara.it/it/storia",
+   "etichetta": "brigaldara.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vini», testo copiato a mano il 24 ottobre 2026 (il sito vieta la lettura automatica).",
+   "url": "https://www.brigaldara.it/it/vini",
+   "etichetta": "brigaldara.it"
+  }
+ ]
+}

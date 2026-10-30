@@ -1,0 +1,96 @@
+{
+ "nome": "Tenuta Guado Al Tasso",
+ "slug": "tenuta-guado-al-tasso",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Provinciale Bolgherese Km 3.9 57022 Bolgheri (LI) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0565749735 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@guadoaltasso.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.antinori.it|antinori.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/marchesiantinori/|@marchesiantinori}}\nYouTube {{https://www.youtube.com/user/MarchesiAntinori|MarchesiAntinori}}\nX {{https://x.com/antinorifamily|@antinorifamily}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1068578947728394769|Mappa}} — valutazione 4,6 su 5 (172 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia, scheda del consorziato, consultato il 26 ottobre 2026.",
+   "url": "https://www.bolgheridoc.com/consorziati/tenuta-guado-al-tasso/",
+   "etichetta": "bolgheridoc.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.antinori.it",
+   "etichetta": "antinori.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Tenuta Guado al Tasso - Uffici» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1068578947728394769",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "nome": "Cantina La Salute",
+ "slug": "cantina-la-salute",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina La Salute S.r.l.; P.IVA 05048690266 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Salute 8, 31047 Ponte di Piave (TV) [[1]]"
+    },
+    {
+     "etichetta": "Dati nella mappa del Consorzio Prosecco DOC",
+     "valore": "Tel. 0422 759298; commerciale@cantinalasalute.it [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Email info@cantinalasalute.it (PEC cantinalasalute@pec.it) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinalasalute.it/|www.cantinalasalute.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito la descrive come «un vivace gruppo di viticoltori che coopera per produrre vini da più di 50 anni» [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Prosecco DOC",
+     "valore": "Il sito elenca le linee La Salute, Forcola e Bag in box senza indicare le denominazioni [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Il sito dice di aver ottenuto «numerosi premi e riconoscimenti», senza indicarli [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda del Consorzio e sito ufficiale della cantina, consultati il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «cantinalasalute.it».",
+   "url": "https://www.cantinalasalute.it/",
+   "etichetta": "cantinalasalute.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "nome": "Damoli Vini",
+ "slug": "damoli-vini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Damoli Bruno s.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "05138080238 [[6]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Jago di Mezzo 5, 37024 Negrar di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Lara +39 340 8762680 · Daniele +39 349 6032675 · info@damolivini.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.damolivini.com/|www.damolivini.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Viticoltori da generazioni nella Valpolicella Classica; Bruno Damoli gestisce l’azienda con i figli Daniele (enologo) e Lara (commerciale); la data 1623 è incisa sulla casa di famiglia a Jago [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "In collina e alta collina, tra 200 e 500 m s.l.m. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Checo",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Giago",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Volavìa",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "1623",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Dal lunedì al sabato, su prenotazione; vendita diretta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "damolivini.com, in italiano e inglese, con pagina “Come acquistare” [[5]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook e Instagram indicati dal sito; Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.damolivini.com/contatti",
+   "etichetta": "damolivini.com/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://www.damolivini.com/chi-siamo",
+   "etichetta": "damolivini.com/chi-siamo"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini».",
+   "url": "https://www.damolivini.com/i-nostri-vini",
+   "etichetta": "damolivini.com/i-nostri-vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «come-acquistare».",
+   "url": "https://www.damolivini.com/come-acquistare/",
+   "etichetta": "damolivini.com/come-acquistare"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, consultato il 25 ottobre 2026, pagina «damolivini.com» (verifica incrociata).",
+   "url": "https://www.damolivini.com/",
+   "etichetta": "damolivini.com"
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "nome": "Le Banchette",
+ "slug": "le-banchette",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agr. Le Banchette (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Banchette 10, 37022 Fumane (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Carlo +39 347 4626115 · Marco +39 348 3867148 · lebanchettevalpolicella@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lebanchette.com/|www.lebanchette.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Tre amici — Carlo Gaiardoni, Marco Avanzi e Cristian Zantedeschi — enologi laureati a Verona; prime vinificazioni nel 2013 in un garage, poi in un rustico di 60 m² a Fumane [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Dimensioni",
+     "valore": "1,3 ettari di vigneto, 4 varietà autoctone, circa 2.000 bottiglie l’anno [[3]]"
+    },
+    {
+     "etichetta": "Cantina",
+     "valore": "Vasche di cemento da 25 hl; piccola bottaia con botti in rovere francese da 550 l [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Annate e bottiglie prodotte indicate dal sito. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "2018 [[4]]"
+    },
+    {
+     "nome": "Valpolicella Superiore Ripasso",
+     "denominazione": "Valpolicella Superiore Ripasso DOC (594 bottiglie)",
+     "annata": "2017 [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "lebanchette.com; Facebook @lebanchette e Instagram @lebanchette.valpolicella [[2]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook e Instagram indicati dal sito; Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti-2».",
+   "url": "https://lebanchettecom.wordpress.com/contatti-2/",
+   "etichetta": "lebanchettecom.wordpress.com/contatti-2"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://lebanchettecom.wordpress.com/chi-siamo/",
+   "etichetta": "lebanchettecom.wordpress.com/chi-siamo"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini-le-banchette».",
+   "url": "https://lebanchettecom.wordpress.com/i-vini-le-banchette/",
+   "etichetta": "lebanchettecom.wordpress.com/i-vini-le-banchette"
+  }
+ ]
+}

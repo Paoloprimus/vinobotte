@@ -1,0 +1,104 @@
+{
+ "nome": "Valdellövo",
+ "slug": "valdellovo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Valdellövo [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "00390438981232 [[2]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@valdellovo.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://valdellovo.com/|valdellovo.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Conegliano Valdobbiadene",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto dal sito della cantina [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Riconoscimenti 2018-2019: Diploma di merito EnoConegliano 2018, IWSC argento (AnnoZero Prosecco Superiore DOCG), Guida Vinetia AIS 2018 e 2019, The Wine Hunter Award 2019 [[2]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Luca Maroni 88/100, Robert Parker 87/100 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/valdellovo|valdellovo}}\nInstagram {{https://www.instagram.com/valdellovodocg/|@valdellovodocg}}\nLinkedIn {{https://it.linkedin.com/company/valdellovo-s-s-di-ricci-b-&-c-|valdellovo-s-s-di-ricci-b-&-c-}} [[2]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://valdellovo.com/en/shop/zeronove-brut-prosecco-superiore-docg/|valdellovo.com/en/shop/zeronove-brut-prosecco-superiore-docg}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8444673854806238266|Mappa}} — valutazione 4,6 su 5 (19 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/valdellovo/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://valdellovo.com/",
+   "etichetta": "valdellovo.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Società Agricola Valdellövo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8444673854806238266",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

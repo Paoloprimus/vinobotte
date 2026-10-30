@@ -1,0 +1,121 @@
+{
+ "nome": "Ca’ Vittoria",
+ "slug": "ca-vittoria",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Ca’ Vittoria [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada delle Caneve, 33, Conegliano, TV [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39043863851 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cavittoria.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cavittoria.com/|www.cavittoria.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: brut, dry, extra dry [[1]]"
+    },
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco",
+     "valore": "Tipologie indicate: Frizzante [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "Pernottamento; Vendita al dettaglio; Visita e degustazione [[1]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fra 100.000 e 500.000 bottiglie [[1]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Francese, Inglese [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/proseccocavittoria|proseccocavittoria}}\nInstagram {{https://www.instagram.com/cavittoria_prosecco/|@cavittoria_prosecco}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1964354411551455369|Mappa}} — valutazione 4,9 su 5 (64 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/ca-vittoria/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.cavittoria.com/",
+   "etichetta": "cavittoria.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Ca’ Vittoria» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1964354411551455369",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

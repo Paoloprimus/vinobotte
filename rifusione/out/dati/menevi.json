@@ -1,0 +1,149 @@
+{
+ "nome": "Menevi",
+ "slug": "menevi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Menevi Srl (come da elenco del Consorzio) [[1]]; il sito indica Menevi s.r.l.s., P.IVA 04706810233 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Fenil Novo 9/A, 37036 San Martino Buon Albergo (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 582817 · info@menevi.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.menevi.com/|www.menevi.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Modello",
+     "valore": "Collaborazione enologica con viticoltori: Francesco Parisi, con l’enologo aziendale, segue la produzione fino all’imbottigliamento nel locale di affinamento [[3]]"
+    },
+    {
+     "etichetta": "Winemaker",
+     "valore": "Francesco Parisi, nato nel 1964 in provincia di Verona, agrotecnico; 1988–1998 alle cantine Pasqua, poi consulente enologico [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal negozio del sito, senza annata. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "menevi.com con negozio online (carrello e account) [[5]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Negozio sul sito; altri marketplace: presenza non verificata [[5]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook e Instagram citati nella cookie policy del sito; Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[9]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.menevi.com/contatti/",
+   "etichetta": "menevi.com/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «menevi».",
+   "url": "https://www.menevi.com/menevi/",
+   "etichetta": "menevi.com/menevi"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «winemaker».",
+   "url": "https://www.menevi.com/winemaker/",
+   "etichetta": "menevi.com/winemaker"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «shop».",
+   "url": "https://www.menevi.com/shop/",
+   "etichetta": "menevi.com/shop"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/amarone-della-valpolicella-d-o-c-g».",
+   "url": "https://www.menevi.com/prodotto/amarone-della-valpolicella-d-o-c-g/",
+   "etichetta": "menevi.com/prodotto/amarone-della-valpolicella-d-o-c-g"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/valpolicella-ripasso-d-o-c-classico-superiore».",
+   "url": "https://www.menevi.com/prodotto/valpolicella-ripasso-d-o-c-classico-superiore/",
+   "etichetta": "menevi.com/prodotto/valpolicella-ripasso-d-o-c-classico-superiore"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/valpolicella-classico-d-o-c».",
+   "url": "https://www.menevi.com/prodotto/valpolicella-classico-d-o-c/",
+   "etichetta": "menevi.com/prodotto/valpolicella-classico-d-o-c"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «termini-e-condizioni».",
+   "url": "https://www.menevi.com/termini-e-condizioni/",
+   "etichetta": "menevi.com/termini-e-condizioni"
+  }
+ ]
+}

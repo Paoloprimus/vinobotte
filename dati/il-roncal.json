@@ -1,0 +1,120 @@
+{
+ "nome": "Il Roncal",
+ "slug": "il-roncal",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02430250304 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fornalis, 148 – Colle Montebello 33043, Cividale del Friuli (UD) [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate al Consorzio",
+     "valore": "DOC Friuli Colli Orientali; DOCG Colli Orientali del Friuli Picolit [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0432 730138 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ilroncal.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.ilroncal.it|ilroncal.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Titolare: Martina Moreale; Ettari vitati: 20; Bottiglie prodotte: 80.000 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Friuli Colli Orientali DOC; Colli Orientali del Friuli Picolit DOCG [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/ilroncal|ilroncal}}\nInstagram {{https://www.instagram.com/ilroncal/|@ilroncal}}\nX {{https://x.com/il_roncal|@il_roncal}}\nLinkedIn {{https://it.linkedin.com/company/az-agr-il-roncal|az-agr-il-roncal}} [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.ilroncal.it/store/_it|ilroncal.it/store/_it}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=7089609865135506448|Mappa}} — valutazione 4,9 su 5 (125 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.ilroncal.it",
+   "etichetta": "ilroncal.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo, scheda della cantina nell’elenco delle aziende associate, consultata il 25 ottobre 2026.",
+   "url": "https://www.colliorientali.com/il-roncal/",
+   "etichetta": "colliorientali.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.ilroncal.it",
+   "etichetta": "ilroncal.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.ilroncal.it",
+   "etichetta": "ilroncal.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Il Roncal» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=7089609865135506448",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

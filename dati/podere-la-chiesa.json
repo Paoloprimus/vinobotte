@@ -1,0 +1,77 @@
+{
+ "nome": "Podere La Chiesa",
+ "slug": "podere-la-chiesa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Podere la Chiesa S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01948460504 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via di Casanova 66/A, 56030 Terricciola, PI [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poderelachiesa.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.poderelachiesa.it/|poderelachiesa.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Terre di Pisa [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti DOCG, Terre di Pisa Rosso DOC, Terre di Pisa Sangiovese DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/PodereLaChiesa|facebook.com/PodereLaChiesa}}\nInstagram {{https://www.instagram.com/poderelachiesa|instagram.com/poderelachiesa}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "http://www.poderelachiesa.it/",
+   "etichetta": "poderelachiesa.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vini Terre di Pisa, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.viniterredipisa.com/azienda-it.php?id=5",
+   "etichetta": "viniterredipisa.com"
+  }
+ ]
+}

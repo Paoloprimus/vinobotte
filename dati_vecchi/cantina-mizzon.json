@@ -1,0 +1,178 @@
+{
+ "nome": "Cantina Mizzon",
+ "slug": "cantina-mizzon",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Mizzon di Perusi Nicola (come da elenco del Consorzio) [[1]]; P.IVA 03906050236 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Quar 23, 37029 San Pietro in Cariano (VR) [[3]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7725705 · +39 351 752 6663 · info@cantinamizzon.com [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinamizzon.com/|www.cantinamizzon.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Titolare",
+     "valore": "Nicola Perusi, viticoltore [[4]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Vigneti collinari a Marano di Valpolicella, denominati “del Sette” (tufo e calcare, pergola veronese a 250 m) [[5]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine di oliva e grappe di Amarone [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal sito, senza annata (le pagine citano Amarone Classico, Classico in Anfora e Riserva di Famiglia nelle degustazioni). [[7]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Classico Riserva",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Tour enogastronomici",
+     "valore": "Tradizione, Vin del Sette, Recioto, Amarone (90 € a persona, min. 2, verticale di 4 Amarone) e Territory Experience, su prenotazione [[7]] [[10]]"
+    },
+    {
+     "etichetta": "Eventi",
+     "valore": "Partecipazione a Vinitaly e a fiere ed eventi in Italia [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cantinamizzon.com con catalogo prodotti e news; Facebook e Instagram collegati [[4]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook e Instagram indicati dal sito; Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «dati-legali».",
+   "url": "https://www.cantinamizzon.com/dati-legali/",
+   "etichetta": "cantinamizzon.com/dati-legali"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «come-contattarci».",
+   "url": "https://www.cantinamizzon.com/come-contattarci/",
+   "etichetta": "cantinamizzon.com/come-contattarci"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.cantinamizzon.com/",
+   "etichetta": "cantinamizzon.com"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/amarone-della-valpolicella-docg-classico-riserva».",
+   "url": "https://www.cantinamizzon.com/prodotto/amarone-della-valpolicella-docg-classico-riserva/",
+   "etichetta": "cantinamizzon.com/prodotto/amarone-della-valpolicella-docg-classico-riserva"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «categoria-prodotto/olio-e-grappa».",
+   "url": "https://www.cantinamizzon.com/categoria-prodotto/olio-e-grappa/",
+   "etichetta": "cantinamizzon.com/categoria-prodotto/olio-e-grappa"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «ospitalita/amarone-experience».",
+   "url": "https://www.cantinamizzon.com/ospitalita/amarone-experience/",
+   "etichetta": "cantinamizzon.com/ospitalita/amarone-experience"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/recioto-della-valpolicella-docg-classico».",
+   "url": "https://www.cantinamizzon.com/prodotto/recioto-della-valpolicella-docg-classico/",
+   "etichetta": "cantinamizzon.com/prodotto/recioto-della-valpolicella-docg-classico"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/valpolicella-doc-classico-superiore».",
+   "url": "https://www.cantinamizzon.com/prodotto/valpolicella-doc-classico-superiore/",
+   "etichetta": "cantinamizzon.com/prodotto/valpolicella-doc-classico-superiore"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «ospitalita/territory-experience».",
+   "url": "https://www.cantinamizzon.com/ospitalita/territory-experience/",
+   "etichetta": "cantinamizzon.com/ospitalita/territory-experience"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «news-eventi».",
+   "url": "https://www.cantinamizzon.com/news-eventi/",
+   "etichetta": "cantinamizzon.com/news-eventi"
+  }
+ ]
+}

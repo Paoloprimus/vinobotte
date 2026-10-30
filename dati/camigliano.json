@@ -1,0 +1,118 @@
+{
+ "nome": "Camigliano",
+ "slug": "camigliano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "05316371003 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Camigliano - Via d'Ingresso n. 2 - 53024 - Montalcino (Siena) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577844068 / +39 0577816061 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@camigliano.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.camigliano.it|camigliano.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Brunello di Montalcino [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Brunello di Montalcino DOCG; Brunello di Montalcino Riserva DOCG; Rosso di Montalcino DOC; Chianti Colli Senesi DOCG [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Brunello di Montalcino; Rosso di Montalcino; Moscadello di Montalcino; Sant'Antimo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Bibenda: 5 Grappoli al Brunello di Montalcino «Paesaggio Inatteso» 2021 [[4]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Brunello di Montalcino «Paesaggio Inatteso» 2021: 96–97 punti [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/camiglianomontalcino|camiglianomontalcino}}\nInstagram {{https://www.instagram.com/camigliano_wine/|@camigliano_wine}}\nYouTube {{https://www.youtube.com/channel/UC9HeTz5Dst9inIpwEAbQ3_A|canale UC9HeTz5Dst9inIpwEAbQ3_A}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.camigliano.it",
+   "etichetta": "camigliano.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio del Vino Brunello di Montalcino, scheda della cantina nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziobrunellodimontalcino.it/it/1408/camigliano",
+   "etichetta": "consorziobrunellodimontalcino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.camigliano.it",
+   "etichetta": "camigliano.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.camigliano.it",
+   "etichetta": "camigliano.it"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

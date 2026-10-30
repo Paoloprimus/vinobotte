@@ -1,0 +1,115 @@
+{
+ "nome": "Ivan Agostinetto",
+ "slug": "ivan-agostinetto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Str. per Saccol, 27, 31049 Valdobbiadene (TV) [[1]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Brut DOCG», «Extra Brut DOCG», «Extra Dry DOCG» [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3401245046 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ivanagostinetto.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ivanagostinetto.com|ivanagostinetto.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Rive di San Pietro di Barbozza",
+     "denominazione": "Extra Brut DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Linea Oro",
+     "denominazione": "Extra Dry DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Cuvée del Fondatore",
+     "denominazione": "Brut DOCG",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://it-it.facebook.com/pages/category/Winery-Vineyard/Cantina-Agostinetto-IVAN-289406357864483|Cantina-Agostinetto-IVAN}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2206171204822187070|Mappa}} — valutazione 4,7 su 5 (123 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/ivan-agostinetto/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «ivanagostinetto.com/prodotti.php», consultata il 25 ottobre 2026.",
+   "url": "https://www.ivanagostinetto.com/prodotti.php",
+   "etichetta": "ivanagostinetto.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.ivanagostinetto.com",
+   "etichetta": "ivanagostinetto.com"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Azienda Agricola Agostinetto Ivan» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2206171204822187070",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

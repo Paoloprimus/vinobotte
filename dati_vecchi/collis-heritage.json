@@ -1,0 +1,107 @@
+{
+ "nome": "Collis Heritage",
+ "slug": "collis-heritage",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Collis Heritage S.p.A., P.IVA 02813140239; società sottoposta a direzione e coordinamento di Collis Veneto Wine Group [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Casette 4, 37024 Negrar di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 6028011 · info@collisheritage.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.collisheritage.com/|www.collisheritage.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[2]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vino Bardolino D.O.C.: {{/pagine/collis-heritage-bardolino.html|scheda Bardolino}} [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Gruppo",
+     "valore": "Collis Veneto Wine Group S.c.a., Via Cappuccini 6, Monteforte d’Alpone [[1]]"
+    },
+    {
+     "etichetta": "Numeri dichiarati",
+     "valore": "7.200 ettari, oltre 2.000 famiglie di viticoltori tra Verona, Vicenza e Padova, presenza in oltre 70 Paesi [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Nessun vino a denominazione DOC/DOCG tra quelli indicati dalle fonti consultate (esclusi IGT, vini senza denominazione e distillati).",
+   "tipo": "vini",
+   "vini": []
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "collisheritage.com, istituzionale, con blog [[4]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.collisgroup.it/contatti/",
+   "etichetta": "collisgroup.it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://collisheritage.com/",
+   "etichetta": "collisheritage.com"
+  }
+ ]
+}

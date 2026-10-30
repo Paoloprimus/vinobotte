@@ -1,0 +1,348 @@
+{
+ "nome": "Cantina di Monteforte",
+ "slug": "cantina-di-monteforte",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina Sociale di Monteforte d'Alpone S.c.a. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00208410233 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via XX Settembre 24, 37032 Monteforte d’Alpone (VR) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0457610110 [[4]]\n045 761 0110 [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinadimonteforte.it [[4]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinadimonteforte.it/|www.cantinadimonteforte.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[5]]\nConsorzio Tutela Vino Lessini Durello DOC [[6]]\nConsorzio Tutela Vini DOC Delle Venezie [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Natura",
+     "valore": "Cantina sociale fondata nel marzo 1952; 600 aziende viticole associate, Est veronese [[2]]"
+    },
+    {
+     "etichetta": "Marchi",
+     "valore": "Clivus (linea Tradizionali e Vulcanici), Prima Pietra, Sigillo, La Corte [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Soave; la cantina produce anche vini Valpolicella, IGT e Durello. Per Araldo e Sigillo (da uve appassite) il sito non indica la denominazione. Il sito non riporta le annate. [[3]] Selezione dei vini Valpolicella; il sito non riporta le annate. [[3]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Prima Pietra",
+     "denominazione": "Soave DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Soave Brut",
+     "denominazione": "Soave DOC (spumante)",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Clivus",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Tremenalto",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Foscarino",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[12]]"
+    },
+    {
+     "nome": "Monte Grande",
+     "denominazione": "Soave Superiore Classico DOCG",
+     "annata": "— [[13]]"
+    },
+    {
+     "nome": "Castellaro",
+     "denominazione": "Soave Superiore Classico DOCG",
+     "annata": "— [[14]]"
+    },
+    {
+     "nome": "Araldo",
+     "denominazione": "Denominazione non indicata (da uve appassite, spumantizzato Charmat)",
+     "annata": "— [[15]]"
+    },
+    {
+     "nome": "Sigillo",
+     "denominazione": "Denominazione non indicata (da uve appassite, in barrique)",
+     "annata": "— [[16]]"
+    },
+    {
+     "nome": "Clivus Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[17]]"
+    },
+    {
+     "nome": "Prima Pietra Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[18]]"
+    },
+    {
+     "nome": "Clivus Ripasso",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[19]]"
+    },
+    {
+     "nome": "Clivus Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[20]]"
+    },
+    {
+     "nome": "Clivus Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[21]]"
+    },
+    {
+     "nome": "Clivus Soave Classico",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Lessini Durello",
+     "denominazione": "Dalle Terre dei Cimbri DOC",
+     "annata": "— [[22]]"
+    },
+    {
+     "nome": "Pinot Grigio Re Teodorico",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Pinot Grigio Prima Pietra",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Durello Metodo Classico",
+     "denominazione": "Durello Metodo Classico D.O.C. (Durella; tre anni sui lieviti)",
+     "annata": "— [[23]]"
+    },
+    {
+     "nome": "Dalle Terre dei Cimbri",
+     "denominazione": "Lessini Durello",
+     "annata": "— [[24]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cantinadimonteforte.it [[25]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://shop.cantinaveneta.com/|shop.cantinaveneta.com}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=3117877357781597606|Mappa}} — valutazione 4,6 su 5 (135 recensioni) [[26]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://www.cantinadimonteforte.it/chi-siamo/",
+   "etichetta": "cantinadimonteforte.it/chi-siamo"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini».",
+   "url": "https://www.cantinadimonteforte.it/i-nostri-vini/",
+   "etichetta": "cantinadimonteforte.it/i-nostri-vini"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.cantinadimonteforte.it/",
+   "etichetta": "cantinadimonteforte.it"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 6,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 7,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «vino/prima-pietra-soave».",
+   "url": "https://www.cantinadimonteforte.it/vino/prima-pietra-soave/",
+   "etichetta": "cantinadimonteforte.it/vino/prima-pietra-soave"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «vino/soave-brut».",
+   "url": "https://www.cantinadimonteforte.it/vino/soave-brut/",
+   "etichetta": "cantinadimonteforte.it/vino/soave-brut"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «vino/clivus-soave-classico».",
+   "url": "https://www.cantinadimonteforte.it/vino/clivus-soave-classico/",
+   "etichetta": "cantinadimonteforte.it/vino/clivus-soave-classico"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «vino/soave-classico-tremenalto».",
+   "url": "https://www.cantinadimonteforte.it/vino/soave-classico-tremenalto/",
+   "etichetta": "cantinadimonteforte.it/vino/soave-classico-tremenalto"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «vino/soave-classico-foscarino».",
+   "url": "https://www.cantinadimonteforte.it/vino/soave-classico-foscarino/",
+   "etichetta": "cantinadimonteforte.it/vino/soave-classico-foscarino"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «vino/soave-superiore-classico-monte-grande».",
+   "url": "https://www.cantinadimonteforte.it/vino/soave-superiore-classico-monte-grande/",
+   "etichetta": "cantinadimonteforte.it/vino/soave-superiore-classico-monte-grande"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «vino/soave-superiore-classico-castellaro».",
+   "url": "https://www.cantinadimonteforte.it/vino/soave-superiore-classico-castellaro/",
+   "etichetta": "cantinadimonteforte.it/vino/soave-superiore-classico-castellaro"
+  },
+  {
+   "n": 15,
+   "testo": "Sito ufficiale della cantina, pagina «vino/araldo».",
+   "url": "https://www.cantinadimonteforte.it/vino/araldo/",
+   "etichetta": "cantinadimonteforte.it/vino/araldo"
+  },
+  {
+   "n": 16,
+   "testo": "Sito ufficiale della cantina, pagina «vino/sigillo».",
+   "url": "https://www.cantinadimonteforte.it/vino/sigillo/",
+   "etichetta": "cantinadimonteforte.it/vino/sigillo"
+  },
+  {
+   "n": 17,
+   "testo": "Sito ufficiale della cantina, pagina «vino/clivus-amarone-della-valpolicella».",
+   "url": "https://www.cantinadimonteforte.it/vino/clivus-amarone-della-valpolicella/",
+   "etichetta": "cantinadimonteforte.it/vino/clivus-amarone-della-valpolicella"
+  },
+  {
+   "n": 18,
+   "testo": "Sito ufficiale della cantina, pagina «vino/prima-pietra-amarone-della-valpolicella».",
+   "url": "https://www.cantinadimonteforte.it/vino/prima-pietra-amarone-della-valpolicella/",
+   "etichetta": "cantinadimonteforte.it/vino/prima-pietra-amarone-della-valpolicella"
+  },
+  {
+   "n": 19,
+   "testo": "Sito ufficiale della cantina, pagina «vino/clivus-valpolicella-ripasso».",
+   "url": "https://www.cantinadimonteforte.it/vino/clivus-valpolicella-ripasso/",
+   "etichetta": "cantinadimonteforte.it/vino/clivus-valpolicella-ripasso"
+  },
+  {
+   "n": 20,
+   "testo": "Sito ufficiale della cantina, pagina «vino/clivus-valpolicella-superiore».",
+   "url": "https://www.cantinadimonteforte.it/vino/clivus-valpolicella-superiore/",
+   "etichetta": "cantinadimonteforte.it/vino/clivus-valpolicella-superiore"
+  },
+  {
+   "n": 21,
+   "testo": "Sito ufficiale della cantina, pagina «vino/clivus-valpolicella».",
+   "url": "https://www.cantinadimonteforte.it/vino/clivus-valpolicella/",
+   "etichetta": "cantinadimonteforte.it/vino/clivus-valpolicella"
+  },
+  {
+   "n": 22,
+   "testo": "Sito ufficiale della cantina, pagina «vino/lessini-durello-dalle-terre-dei-cimbri».",
+   "url": "https://www.cantinadimonteforte.it/vino/lessini-durello-dalle-terre-dei-cimbri/",
+   "etichetta": "cantinadimonteforte.it/vino/lessini-durello-dalle-terre-dei-cimbri"
+  },
+  {
+   "n": 23,
+   "testo": "Sito ufficiale della cantina, pagina «vino/durello-metodo-classico».",
+   "url": "https://www.cantinadimonteforte.it/vino/durello-metodo-classico/",
+   "etichetta": "cantinadimonteforte.it/vino/durello-metodo-classico"
+  },
+  {
+   "n": 24,
+   "testo": "Sito ufficiale della cantina, pagina «caratteristiche/tradizionali».",
+   "url": "https://www.cantinadimonteforte.it/caratteristiche/tradizionali/",
+   "etichetta": "cantinadimonteforte.it/caratteristiche/tradizionali"
+  },
+  {
+   "n": 25,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.cantinadimonteforte.it/",
+   "etichetta": "cantinadimonteforte.it"
+  },
+  {
+   "n": 26,
+   "testo": "Scheda «Cantina Veneta - Monteforte D'Alpone» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=3117877357781597606",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

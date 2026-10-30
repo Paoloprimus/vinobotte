@@ -1,0 +1,146 @@
+{
+ "nome": "Brolo dei Giusti",
+ "slug": "brolo-dei-giusti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Brolo dei Giusti a.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Olmo 41, 37141 Verona [[1]]. Il sito è quello di Cantine di Verona, con sede in Via Colonia Orfani di Guerra 5/b, 37142 Verona [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 550032 · info@cantinediverona.it (Cantine di Verona) [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://brolodeigiusti.cantinediverona.it/|brolodeigiusti.cantinediverona.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella come «Soc. Agricola Brolo dei Giusti a.r.l.» [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Brolo dei Giusti è la linea di alta gamma di Cantine di Verona, gruppo nato nel 1958 con Cantina Valpantena [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "Nel cuore della Valpantena, zona della denominazione Valpolicella; esperienza contadina di Valpantena e Valsquaranto [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Amarone della Valpolicella DOCG, Valpolicella DOC Superiore, Custoza Superiore DOC, Passito Garda DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Linea prodotta nelle annate migliori; bottiglie serigrafate. Annate non indicate. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Brolo dei Giusti",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Brolo dei Giusti",
+     "denominazione": "Valpolicella DOC Superiore",
+     "annata": "—"
+    },
+    {
+     "nome": "Brolo dei Giusti",
+     "denominazione": "Custoza Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Brolo dei Giusti",
+     "denominazione": "Passito Garda DOC",
+     "annata": "—"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Degustazioni acquistabili o regalabili, con prenotazione dal sito di Cantine di Verona [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "Pagina della linea dentro il sito di Cantine di Verona [[3]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Il sito rimanda ai punti vendita [[2]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://www.cantinediverona.it/it/contatti",
+   "etichetta": "cantinediverona.it/it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/cantine/brolo-dei-giusti».",
+   "url": "https://www.cantinediverona.it/it/cantine/brolo-dei-giusti",
+   "etichetta": "cantinediverona.it/it/cantine/brolo-dei-giusti"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/storia».",
+   "url": "https://www.cantinediverona.it/it/storia",
+   "etichetta": "cantinediverona.it/it/storia"
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "nome": "Piccoli Wine",
+ "slug": "piccoli-wine",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Piccoli Daniela s.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04353460233 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Strada dei Monti 21/B, Parona di Valpolicella, 37124 Verona [[2]]; il Consorzio indica 21/A [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 8890195 · WhatsApp 351 3417572 · hello@piccoliwine.it · info@piccoliwine.it [[2]] [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.piccoliwine.it/|www.piccoliwine.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Storia di famiglia di oltre sessant’anni; oggi Veronica e Alice con i genitori Daniela e Tiziano [[4]]"
+    },
+    {
+     "etichetta": "Cantina",
+     "valore": "Ex cava di tufo dismessa a inizio Novecento, incassata nella roccia, con fruttaio al piano superiore e vigneti come tetto verde [[5]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Monte La Parte [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal sito, senza annata. [[7]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Riserva di Famiglia",
+     "denominazione": "Amarone Riserva DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella DOC Superiore",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Piccoli Wine Experience",
+     "valore": "Esperienze su prenotazione (es. “Essenzialmente Piccoli” 35 €, “Armonie di Gusto” vino e cioccolato 30 €), wine shop, eventi privati [[3]] [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "piccoliwine.it con wine club; Facebook e Instagram collegati [[2]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook e Instagram indicati dal sito; Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.piccoliwine.it/contatti",
+   "etichetta": "piccoliwine.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo/vieni-a-trovarci-prenota-la-tua-visita».",
+   "url": "https://www.piccoliwine.it/chi-siamo/vieni-a-trovarci-prenota-la-tua-visita",
+   "etichetta": "piccoliwine.it/chi-siamo/vieni-a-trovarci-prenota-la-tua-visita"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://www.piccoliwine.it/chi-siamo",
+   "etichetta": "piccoliwine.it/chi-siamo"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «la-cantina».",
+   "url": "https://www.piccoliwine.it/la-cantina",
+   "etichetta": "piccoliwine.it/la-cantina"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini/amarone-d-o-c-g-della-valpolicella».",
+   "url": "https://www.piccoliwine.it/i-vini/amarone-d-o-c-g-della-valpolicella",
+   "etichetta": "piccoliwine.it/i-vini/amarone-d-o-c-g-della-valpolicella"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini».",
+   "url": "https://www.piccoliwine.it/i-vini",
+   "etichetta": "piccoliwine.it/i-vini"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini/amarone-riserva-d-o-c-g».",
+   "url": "https://www.piccoliwine.it/i-vini/amarone-riserva-d-o-c-g",
+   "etichetta": "piccoliwine.it/i-vini/amarone-riserva-d-o-c-g"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini/recioto-d-o-c-g-della-valpolicella».",
+   "url": "https://www.piccoliwine.it/i-vini/recioto-d-o-c-g-della-valpolicella",
+   "etichetta": "piccoliwine.it/i-vini/recioto-d-o-c-g-della-valpolicella"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini/valpolicella-ripasso-d-o-c-superiore».",
+   "url": "https://www.piccoliwine.it/i-vini/valpolicella-ripasso-d-o-c-superiore",
+   "etichetta": "piccoliwine.it/i-vini/valpolicella-ripasso-d-o-c-superiore"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini/valpolicella-d-o-c-superiore».",
+   "url": "https://www.piccoliwine.it/i-vini/valpolicella-d-o-c-superiore",
+   "etichetta": "piccoliwine.it/i-vini/valpolicella-d-o-c-superiore"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini/valpolicella-d-o-c».",
+   "url": "https://www.piccoliwine.it/i-vini/valpolicella-d-o-c",
+   "etichetta": "piccoliwine.it/i-vini/valpolicella-d-o-c"
+  }
+ ]
+}

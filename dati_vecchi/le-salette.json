@@ -1,0 +1,268 @@
+{
+ "nome": "Le Salette",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Le Salette di Scamperle Franco e Figli Società Agricola S.S.[[1]][[2]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02613880232[[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Pio Brugnoli 11/C, 37022 Fumane (VR)[[2]]"
+    },
+    {
+     "etichetta": "Stato e attività",
+     "valore": "Attiva · coltivazione di uva (ATECO 01.21)[[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "+39 045 770 1027 · info@lesalette.it[[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lesalette.it/|www.lesalette.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini Valpolicella[[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Famiglia Scamperle, viticoltori a Fumane da generazioni[[4]]"
+    },
+    {
+     "etichetta": "Forma giuridica",
+     "valore": "Società agricola, «Franco e Figli»[[1]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Una storia familiare «dall’Ottocento», secondo il sito della cantina[[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "elenco": [
+      "Fumane, Cà Carnocchio — 5,5 ha, 220–240 m, esposizione NE",
+      "Fumane, Santuario Le Salette — 4 ha, 220 m, esposizione NO",
+      "Sant’Ambrogio, Conca d’Oro — 3 ha, 250–270 m, esposizione SO",
+      "San Pietro in Cariano, Masua (San Floriano) — 4 ha, 230–250 m, esposizione NE"
+     ],
+     "valore": "4 appezzamenti per 16,5 ettari in totale[[5]]"
+    },
+    {
+     "etichetta": "Uve coltivate",
+     "valore": "Corvina, Corvinone, Rondinella, Molinara, Oseleta, Croatina[[5]]"
+    },
+    {
+     "etichetta": "Conduzione",
+     "valore": "«Agricoltura sostenibile», come la descrive la cantina. Nessuna certificazione dichiarata sul sito.[[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Valpolicella DOC e Ripasso, Amarone e Recioto DOCG, IGT Veronese e Veneto[[6]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Grappa di Amarone, grappa di Recioto, olio extravergine d’oliva[[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette e annate come indicate sul sito della cantina, che avverte: «l’annata potrebbe variare in base a disponibilità».[[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "2023"
+    },
+    {
+     "nome": "I Progni",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "2021"
+    },
+    {
+     "nome": "Amarone della Valpolicella Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2018"
+    },
+    {
+     "nome": "La Marega",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2018"
+    },
+    {
+     "nome": "Pergole Vece",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "2018"
+    },
+    {
+     "nome": "Le Traversagne",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "2020 · esaurito"
+    },
+    {
+     "nome": "Pergole Vece Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "2018"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti verificati",
+   "righe": [
+    {
+     "etichetta": "I Vini di Veronelli",
+     "valore": "Amarone Pergole Vece Riserva\nGuida 2024 (annata 2018): 95 punti, Tre Stelle Oro[[7]]\nGuida 2025 (annata 2019): 95 punti[[8]]\nGuida 2026 (annata 2020): Tre Stelle Oro[[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite in cantina",
+     "valore": "Solo su prenotazione, scrivendo a tastinglesalette@gmail.com[[10]]"
+    },
+    {
+     "etichetta": "Tour con degustazione",
+     "valore": "Visita alla cantina e 6 vini con salumi e formaggi\n55 € (1 persona) · 40 € a testa (2) · 30 € a testa (da 3)\nRecioto Pergole Vece in aggiunta: +5 € a persona[[10]]"
+    },
+    {
+     "etichetta": "Wine shop",
+     "valore": "Degustazione al calice: 3 € (5 € per i due Pergole Vece)[[10]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Sì, shop sul sito con scheda per ogni vino[[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "lesalette.it, in italiano e inglese, con shop e pagina per visite e degustazioni[[3]]"
+    },
+    {
+     "etichetta": "Riconoscimenti sul sito",
+     "valore": "Pagina premi con voci fino al 2022[[11]]"
+    },
+    {
+     "etichetta": "Elenchi ufficiali",
+     "valore": "Presente nell’elenco cantine del Consorzio[[2]]"
+    },
+    {
+     "etichetta": "Negozi online",
+     "valore": "Xtrawine ha una scheda dei suoi vini[[12]]"
+    },
+    {
+     "etichetta": "Altri negozi e marketplace",
+     "valore": "Vivino, Wine-Searcher, Tannico, Callmewine, Amazon: presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme e social",
+     "valore": "Google Business Profile, Instagram, Facebook, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 23 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Registroaziende.it, scheda dell’azienda (aggregatore di dati camerali, non la visura ufficiale).",
+   "url": "https://registroaziende.it/azienda/le-salette-di-scamperle-franco-e-figli-societa-agricola-ss-in-sigla-az-agr-le-salette-fumane",
+   "etichetta": "registroaziende.it/azienda/le-salette…"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, «Le cantine», elenco del 6 settembre 2024, pagina 17.",
+   "url": "https://www.consorziovalpolicella.it/wp-content/uploads/2024/09/wineries-06.09.2024-1.pdf",
+   "etichetta": "consorziovalpolicella.it/…/wineries-06.09.2024-1.pdf"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home e contatti.",
+   "url": "https://www.lesalette.it/",
+   "etichetta": "lesalette.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale, pagina «History».",
+   "url": "https://www.lesalette.it/history",
+   "etichetta": "lesalette.it/history"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale, pagina «Our vineyards».",
+   "url": "https://www.lesalette.it/our-vineyards",
+   "etichetta": "lesalette.it/our-vineyards"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale, shop e schede prodotto.",
+   "url": "https://www.lesalette.it/shop",
+   "etichetta": "lesalette.it/shop"
+  },
+  {
+   "n": 7,
+   "testo": "I Vini di Veronelli 2024, elenco Tre Stelle Oro, Seminario Veronelli (PDF).",
+   "url": "https://www.seminarioveronelli.com/wp-content/uploads/2023/11/Tre-Stelle-Oro-2024.pdf",
+   "etichetta": "seminarioveronelli.com/…/Tre-Stelle-Oro-2024.pdf"
+  },
+  {
+   "n": 8,
+   "testo": "I Vini di Veronelli 2025, elenco Tre Stelle Oro, riportato da Disciplinare.",
+   "url": "https://www.disciplinare.it/veronelli-2025.html",
+   "etichetta": "disciplinare.it/veronelli-2025.html"
+  },
+  {
+   "n": 9,
+   "testo": "I Vini di Veronelli 2026, Tre Stelle Oro (punteggi tra 94 e 96), AcquaBuona, 9 dicembre 2025.",
+   "url": "https://acquabuona.it/2025/12/tre-stelle-oro-2026/",
+   "etichetta": "acquabuona.it/2025/12/tre-stelle-oro-2026"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale, pagina «Winery tour & tasting».",
+   "url": "https://www.lesalette.it/winery-tour-tasting",
+   "etichetta": "lesalette.it/winery-tour-tasting"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale, pagina «Awards».",
+   "url": "https://www.lesalette.it/awards",
+   "etichetta": "lesalette.it/awards"
+  },
+  {
+   "n": 12,
+   "testo": "Xtrawine, collezione «Le Salette».",
+   "url": "https://www.xtrawine.com/collections/le-salette",
+   "etichetta": "xtrawine.com/collections/le-salette"
+  }
+ ],
+ "slug": "le-salette"
+}

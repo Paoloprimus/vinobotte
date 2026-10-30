@@ -1,0 +1,110 @@
+{
+ "nome": "Poggioargentiera",
+ "slug": "poggioargentiera",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Poggioargentiera S.S.A. [[1]]\nPOGGIOARGENTIERA s.s.a. [[2]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01804980496 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Banditella 2 Loc. Alberese Grosseto GR 58100 IT [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 05641950033 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "poggioargentiera@tierrevini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.poggioargentiera.com|poggioargentiera.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini della Maremma Toscana [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata nel 1997 con l'acquisto del podere Adua. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Morellino di Scansano DOCG [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Morellino di Scansano DOCG [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13466274293577782259|Mappa}} — valutazione 4,7 su 5 (19 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini della Maremma Toscana, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.aziendevinimaremma.it/directory/listing/poggio-argentiera-tierre-s-s-a",
+   "etichetta": "aziendevinimaremma.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.poggioargentiera.com",
+   "etichetta": "poggioargentiera.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.poggioargentiera.com",
+   "etichetta": "poggioargentiera.com"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Poggio Argentiera» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13466274293577782259",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

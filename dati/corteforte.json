@@ -1,0 +1,185 @@
+{
+ "nome": "Corteforte",
+ "slug": "corteforte",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Corteforte s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04546520232 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Osan 45, 37022 Fumane (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 6839104 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@corteforte.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.corteforte.it/|www.corteforte.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Corte medievale di inizio Quattrocento con quattro torri; dimora nobiliare nel Seicento; restaurata dagli anni ’80 da Carlo Maria Cerutti [[3]]"
+    },
+    {
+     "etichetta": "Ospitalità",
+     "valore": "Camere e appartamenti negli antichi edifici della corte [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dallo shop del sito; le annate non sono indicate. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Corteforte Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Recioto di Corteforte",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Gold Medal 2011 [[6]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Touring Club Italiano: 90/100 (annata 2021, bio) [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Alloggio",
+     "valore": "Camere e appartamenti nella corte medievale [[7]]"
+    },
+    {
+     "etichetta": "Contatti e prenotazioni",
+     "valore": "Modulo di contatto per degustazioni e soggiorni [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "corteforte.it, in italiano e inglese, con shop [[8]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Corteforte|Corteforte}}\nInstagram {{https://www.instagram.com/corteforte/|@corteforte}} [[6]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.corteforte.it/negozio/|corteforte.it/negozio}} [[6]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=9199464765346883780|Mappa}} — valutazione 4,4 su 5 (38 recensioni) [[9]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[10]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.corteforte.it/contatti/",
+   "etichetta": "corteforte.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «storia».",
+   "url": "https://www.corteforte.it/storia/",
+   "etichetta": "corteforte.it/storia"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «ospitalita».",
+   "url": "https://www.corteforte.it/ospitalita/",
+   "etichetta": "corteforte.it/ospitalita"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «categoria-prodotto/vini».",
+   "url": "https://www.corteforte.it/categoria-prodotto/vini/",
+   "etichetta": "corteforte.it/categoria-prodotto/vini"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.corteforte.it/",
+   "etichetta": "corteforte.it"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «camere».",
+   "url": "https://www.corteforte.it/camere/",
+   "etichetta": "corteforte.it/camere"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «negozio».",
+   "url": "https://www.corteforte.it/negozio/",
+   "etichetta": "corteforte.it/negozio"
+  },
+  {
+   "n": 9,
+   "testo": "Scheda «Azienda Agricola Corteforte & Agriturismo Corteforte» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=9199464765346883780",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 10,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

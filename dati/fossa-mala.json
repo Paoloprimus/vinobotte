@@ -1,0 +1,104 @@
+{
+ "nome": "Fossa Mala",
+ "slug": "fossa-mala",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "KND Immobiliare SRL [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01452340936 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Bassi, 81, 33080 Fiume Veneto (PN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0434 959872\nfax +39 0434 953717 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "vigneti@fossamala.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.fossamala.it|fossamala.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Friuli Grave [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/FOSSAMALA|FOSSAMALA}}\nInstagram {{https://www.instagram.com/fossamala_winery/|@fossamala_winery}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://fossamala.it/shop/|fossamala.it/shop}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nVivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.fossamala.it",
+   "etichetta": "fossamala.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «docfriuligrave.com/cantine.html», consultata il 24 ottobre 2026.",
+   "url": "https://www.docfriuligrave.com/cantine.html",
+   "etichetta": "docfriuligrave.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.fossamala.it",
+   "etichetta": "fossamala.it"
+  }
+ ]
+}

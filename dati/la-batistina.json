@@ -1,0 +1,73 @@
+{
+ "nome": "La Batistina",
+ "slug": "la-batistina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Ventoluccia 157, 57028 Suvereto, LI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 331 4562711 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutalabatistina.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutalabatistina.it/|tenutalabatistina.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela DOP Suvereto e Val di Cornia Wine [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Suvereto DOCG (Quantisassi, Cabernet Sauvignon) [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/tenutabatistina|facebook.com/tenutabatistina}}\nInstagram {{https://www.instagram.com/_tenutalabatistina_/|instagram.com/_tenutalabatistina_}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.tenutalabatistina.it/",
+   "etichetta": "tenutalabatistina.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle cantine del Consorzio di tutela DOP Suvereto e Val di Cornia Wine, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.suveretowine.com/cantina-suvereto/tenuta-la-batistina/",
+   "etichetta": "suveretowine.com"
+  }
+ ]
+}

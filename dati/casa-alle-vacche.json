@@ -1,0 +1,122 @@
+{
+ "nome": "Casa Alle Vacche",
+ "slug": "casa-alle-vacche",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Casa Alle Vacche [[1]]\nAZ. AGR. CASA ALLE VACCHE DI CIAPPI SILVANO & FIGLI S.S. SOCIETA' AGRICOLA [[2]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00842460529 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Lucignano, 73 a – 53037 SAN GIMIGNANO (SI) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390577955103 [[3]] [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@casaallevacche.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.casaallevacche.it|casaallevacche.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Chianti Colli Senesi [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Gestita dalla famiglia Ciappi (Silvano & figli). [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Vernaccia di San Gimignano DOCG; Vernaccia di San Gimignano Riserva DOCG [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/casaallevacche|casaallevacche}}\nInstagram {{https://www.instagram.com/casaallevacche/|@casaallevacche}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16495186749228592329|Mappa}} — valutazione 4,9 su 5 (8 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Chianti Colli Senesi, elenco delle aziende e dei produttori, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziochianticollisenesi.it/aziende-e-produttori/",
+   "etichetta": "consorziochianticollisenesi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.casaallevacche.it",
+   "etichetta": "casaallevacche.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.casaallevacche.it",
+   "etichetta": "casaallevacche.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Azienda Agricola Casa alle Vacche - Winery» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16495186749228592329",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

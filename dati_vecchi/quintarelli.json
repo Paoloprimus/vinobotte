@@ -1,0 +1,129 @@
+{
+ "nome": "Quintarelli",
+ "slug": "quintarelli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Quintarelli Giuseppe di Quintarelli Fiorenza [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cerè 1, 37024 Negrar di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 750 0016; vini@giuseppequintarelli.it [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Quintarelli: il lavoro dei nonni Giuseppe «Bepi» e Franca è portato avanti dalla famiglia; la cantina è diretta da Fiorenza insieme ai figli [[2]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Negli anni Sessanta Giuseppe, già produttore di vino in damigiana per il mercato americano, avviò una produzione di nicchia di vini imbottigliati [[2]]"
+    },
+    {
+     "etichetta": "Cantina",
+     "valore": "Ricavata nella casa padronale e ristrutturata nel 2014; botti di rovere di Slavonia del bottaio Garbellotto; al piano superiore l'appassimento delle uve (Corvina, Corvinone e Rondinella) da settembre a gennaio [[2]]"
+    },
+    {
+     "etichetta": "Lavorazione",
+     "valore": "Amarone dopo otto anni in botte; Riserva solo nelle annate eccezionali, dopo dieci anni di affinamento [[2]]"
+    },
+    {
+     "etichetta": "Etichette",
+     "valore": "Le prime etichette furono scritte a mano da Giorgio Gioco; i vini più importanti, come il Riserva, sono numerati a mano [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Dalla pagina di Veneto Secrets, senza annate; esclusi i vini a indicazione geografica (Primo Fiore, Rosso del Bepi, Alzero). [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Percorso in cantina e degustazione nella saletta, con spiegazioni di Francesco, figlio maggiore di Fiorenza; la fonte non indica orari né se serva prenotare [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "Nessun sito aziendale, secondo la fonte [[2]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Elenco delle aziende del Consorzio del 7 agosto 2026 e pagina «Cantina Quintarelli» di Veneto Secrets (sito di terzi: secondo questa fonte la cantina non ha un sito aziendale), copiata a mano il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Veneto Secrets, pagina «Cantina Quintarelli» (sito di terzi, non della cantina), testo copiato a mano il 24 ottobre 2026.",
+   "url": "https://venetosecrets.com/design/cantina-quintarelli/",
+   "etichetta": "venetosecrets.com"
+  }
+ ]
+}

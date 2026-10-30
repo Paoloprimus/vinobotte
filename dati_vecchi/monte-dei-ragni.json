@@ -1,0 +1,168 @@
+{
+ "nome": "Monte dei Ragni",
+ "slug": "monte-dei-ragni",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Monte dei Ragni di Zignoli Zeno (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03252690239 [[3]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località Marega 3, 37022 Fumane (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 6801600 · cell. +39 339 3428360 · info@montedeiragni.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.montedeiragni.com/|www.montedeiragni.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cinque generazioni della famiglia Ragno a Fumane; l’azienda prende il nome dalla collina riportata nel catasto storico austriaco [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Circa 6–7 ettari su terreni poveri con marogne, pergola semplice, oltre 5000 ceppi per ettaro; filari alternati a ulivi e ciliegi [[3]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine da oltre 400 piante di ulivo e ciliegie [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito elenca le etichette per denominazione, senza nomi di fantasia né annate. [[3]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "montedeiragni.com con ricette e galleria Instagram [[9]] [[10]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Instagram (galleria sul sito); altri social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[10]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=48».",
+   "url": "https://www.montedeiragni.com/?page_id=48",
+   "etichetta": "montedeiragni.com/?page_id=48"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.montedeiragni.com/",
+   "etichetta": "montedeiragni.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=74».",
+   "url": "https://www.montedeiragni.com/?page_id=74",
+   "etichetta": "montedeiragni.com/?page_id=74"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=50».",
+   "url": "https://www.montedeiragni.com/?page_id=50",
+   "etichetta": "montedeiragni.com/?page_id=50"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=241».",
+   "url": "https://www.montedeiragni.com/?page_id=241",
+   "etichetta": "montedeiragni.com/?page_id=241"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=61».",
+   "url": "https://www.montedeiragni.com/?page_id=61",
+   "etichetta": "montedeiragni.com/?page_id=61"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=66».",
+   "url": "https://www.montedeiragni.com/?page_id=66",
+   "etichetta": "montedeiragni.com/?page_id=66"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=29».",
+   "url": "https://www.montedeiragni.com/?page_id=29",
+   "etichetta": "montedeiragni.com/?page_id=29"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «?page_id=280».",
+   "url": "https://www.montedeiragni.com/?page_id=280",
+   "etichetta": "montedeiragni.com/?page_id=280"
+  }
+ ]
+}

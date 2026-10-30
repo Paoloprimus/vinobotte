@@ -1,0 +1,133 @@
+{
+ "nome": "Monte Santoccio",
+ "slug": "monte-santoccio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Monte Santoccio; P.IVA 03776050233; REA n. 364554 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Loc. Santoccio 6, 37022 Fumane (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7703215; info@montesantoccio.it [[1]]"
+    },
+    {
+     "etichetta": "Orari vendita diretta",
+     "valore": "Dal lunedì al sabato 9.00–12.30 e 13.30–18.00 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.montesantoccio.it/|montesantoccio.it}} [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda della Valpolicella Classica; Nicola Ferrari è presentato come vignaiolo; proprietà non indicata [[2]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "4 ettari su una delle colline della Valpolicella Classica [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dalla pagina «Vini», senza annate; esclusi i vini a indicazione geografica (Ferdinando, Santocciorosso, Viola Passito Rosso) e le voci senza denominazione (Miss Rosè, Bianco). [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Riserva Nicola Ferrari",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Stella Recioto della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Su prenotazione, anche per gruppi fino a 30 persone, con visita a cantina e vigneti; degustazione in una sala con terrazza panoramica [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine del sito della cantina consultate dal vivo il 24 ottobre 2026 (home, Vini, Contatti). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «montesantoccio.it/contatti».",
+   "url": "https://www.montesantoccio.it/contatti/",
+   "etichetta": "montesantoccio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «montesantoccio.it».",
+   "url": "https://www.montesantoccio.it/",
+   "etichetta": "montesantoccio.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «montesantoccio.it/vini».",
+   "url": "https://www.montesantoccio.it/vini/",
+   "etichetta": "montesantoccio.it"
+  }
+ ]
+}

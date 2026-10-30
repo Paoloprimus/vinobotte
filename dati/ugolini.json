@@ -1,0 +1,159 @@
+{
+ "nome": "Ugolini Vini",
+ "slug": "ugolini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenute Ugolini Società Agricola s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03727910238 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Strada Bonamico 11, 37029 San Pietro in Cariano (VR) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7703830 [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ugolinivini.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ugolinivini.it/|www.ugolinivini.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Struttura",
+     "valore": "Villa San Michele sulla collina di Bure (Valle di Fumane); socio fondatore di Terre di Fumane, centro di appassimento delle uve [[4]] [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate nell’elenco principale. [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valle Alta",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Monte Solane",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "San Michele",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Pozzetto",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Valle Lena",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "San Michele della Chiesa",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–ven 10–18, sabato 10–17, domenica chiuso [[3]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Wine tour con degustazioni ed escursioni a Villa San Michele, solo su prenotazione [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nell’elenco principale del sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Blog sul sito\nsocial [[5]]\nVivino: presenza non verificata\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=84880421350797191|Mappa}} — valutazione 4,9 su 5 (508 recensioni) [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.ugolinivini.it/",
+   "etichetta": "ugolinivini.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.ugolinivini.it/contatti",
+   "etichetta": "ugolinivini.it/contatti"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «enoturismo».",
+   "url": "https://www.ugolinivini.it/enoturismo",
+   "etichetta": "ugolinivini.it/enoturismo"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «blog».",
+   "url": "https://www.ugolinivini.it/blog",
+   "etichetta": "ugolinivini.it/blog"
+  },
+  {
+   "n": 6,
+   "testo": "Scheda «Ugolini Vini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=84880421350797191",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

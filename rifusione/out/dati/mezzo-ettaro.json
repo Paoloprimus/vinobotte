@@ -1,0 +1,155 @@
+{
+ "nome": "Mezzo Ettaro",
+ "slug": "mezzo-ettaro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Mezzo Ettaro di Giorgio Dolcetta Capuzzo (come da elenco del Consorzio) [[1]]; P.IVA 01228050231 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località San Floriano, Via Pigno 7, 37029 San Pietro in Cariano (VR) [[3]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 329 5577922 (ogni giorno 10–12:30 e 14:30–17) · info@mezzoettaro.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.mezzoettaro.it/|www.mezzoettaro.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Metodo",
+     "valore": "Vini e olio da coltivazione biologica; prodotti in quantità limitata [[4]] [[5]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Circa 200 metri di quota, su terrazzamenti con marogne in pietra e terreno calcareo alluvionale [[4]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine di oliva (Grignano, Favarol) e lavanda essiccata [[4]] [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal sito, senza annata. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Quattro degustazioni su prenotazione, 2 ore, 2–14 persone: “Easy” 40 €, “Mezzo Ettaro” 70 €, “Tartufo” 80 €, “Olio extravergine” 60 € a persona; visita con preavviso gratuita (30 minuti) [[8]]"
+    },
+    {
+     "etichetta": "Corte Dolcetta",
+     "valore": "Corte con vigneti, olivi e colline terrazzate per ospitalità e incontri [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "mezzoettaro.it in italiano e inglese, con wine shop [[7]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Negozio sul sito; altri marketplace: presenza non verificata [[7]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «condizioni-generali-di-vendita».",
+   "url": "https://www.mezzoettaro.it/condizioni-generali-di-vendita/",
+   "etichetta": "mezzoettaro.it/condizioni-generali-di-vendita"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.mezzoettaro.it/contatti/",
+   "etichetta": "mezzoettaro.it/contatti"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-prodotti».",
+   "url": "https://www.mezzoettaro.it/i-nostri-prodotti/",
+   "etichetta": "mezzoettaro.it/i-nostri-prodotti"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://www.mezzoettaro.it/azienda/",
+   "etichetta": "mezzoettaro.it/azienda"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «corte-dolcetta».",
+   "url": "https://www.mezzoettaro.it/corte-dolcetta/",
+   "etichetta": "mezzoettaro.it/corte-dolcetta"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «wine-shop».",
+   "url": "https://www.mezzoettaro.it/wine-shop/",
+   "etichetta": "mezzoettaro.it/wine-shop"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «visite-e-degustazioni».",
+   "url": "https://www.mezzoettaro.it/visite-e-degustazioni/",
+   "etichetta": "mezzoettaro.it/visite-e-degustazioni"
+  }
+ ]
+}

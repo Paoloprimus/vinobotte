@@ -1,0 +1,68 @@
+{
+ "nome": "La Fralluca",
+ "slug": "la-fralluca",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola La Fralluca di Luca Recine e C. s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01500040496 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Barbiconi 153, 57028 Suvereto, LI [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lafralluca.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lafralluca.com/|lafralluca.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela DOP Suvereto e Val di Cornia Wine [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/LaFralluca/|facebook.com/LaFralluca}}\nInstagram {{https://www.instagram.com/la_fralluca/|instagram.com/la_fralluca}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.lafralluca.com/",
+   "etichetta": "lafralluca.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle cantine del Consorzio di tutela DOP Suvereto e Val di Cornia Wine, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.suveretowine.com/cantina-suvereto/la-fralluca/",
+   "etichetta": "suveretowine.com"
+  }
+ ]
+}

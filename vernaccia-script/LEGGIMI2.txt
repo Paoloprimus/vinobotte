@@ -1,0 +1,4 @@
+Seconda passata (cantine dai siti incerti):
+  node cerca_incerti.mjs
+  node leggi_siti.mjs siti2.txt
+  python3 estrai.py

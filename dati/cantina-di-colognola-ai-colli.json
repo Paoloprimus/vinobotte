@@ -1,0 +1,100 @@
+{
+ "nome": "Cantina di Colognola ai Colli",
+ "slug": "cantina-di-colognola-ai-colli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina di Colognola ai Colli [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Montanara, 37030 Colognola ai Colli (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "045 6139666 [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@collisgroup.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinadicolognola.it|cantinadicolognola.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito del gruppo Collis indica la cantina tra le due fondatrici di Collis nel 1953 e il suo ingresso in Casa vinicola Sartori nel 2000; il dominio cantinadicolognola.it rinvia al sito del gruppo Collis [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Soave",
+     "valore": "Non disponibile: il sito della cantina rinvia al sito del gruppo Collis, che non elenca vini della cantina [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/cantina-di-colognola-ai-colli-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.cantinadicolognola.it",
+   "etichetta": "cantinadicolognola.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «collisgroup.it», consultata il 24 ottobre 2026.",
+   "url": "https://www.collisgroup.it/",
+   "etichetta": "collisgroup.it"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

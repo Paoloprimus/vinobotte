@@ -1,0 +1,173 @@
+{
+ "nome": "Cà dei Ronchi",
+ "slug": "ca-dei-ronchi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Cà dei Ronchi Società Agricola Semplice, P.IVA IT 04126160235 [[1]]"
+    },
+    {
+     "etichetta": "Sede amministrativa",
+     "valore": "Via Archimede 1, 37024 Arbizzano-Santa Maria (Negrar di Valpolicella, VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 751 3918 · marketing@cadeironchi.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cadeironchi.it/|www.cadeironchi.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Proprietà",
+     "valore": "Fondata agli inizi degli anni Duemila da Giorgio Campagnola e famiglia [[3]]"
+    },
+    {
+     "etichetta": "Superficie",
+     "valore": "Circa cinque ettari in zona collinare tra Negrar e Verona, a spalliera e pergola veronese [[3]]"
+    },
+    {
+     "etichetta": "Vitigni",
+     "valore": "Corvina, Corvinone, Rondinella, Molinara [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Amarone della Valpolicella, Valpolicella Ripasso, Valpolicella Superiore; Franciacorta (Zero Pas Dosé, Millesimato, Rosé, Satèn) [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito riporta l’annata solo per l’Amarone (2010) e per il Franciacorta Zero Millesimato (2011). [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Magnifico",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "2010 [[5]]"
+    },
+    {
+     "nome": "Persistente",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Spargola",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Elegante",
+     "denominazione": "Franciacorta Zero Pas Dosé DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Superbo",
+     "denominazione": "Franciacorta Zero Millesimato DOCG",
+     "annata": "2011 [[4]]"
+    },
+    {
+     "nome": "Intenso",
+     "denominazione": "Rosé Franciacorta Millesimato DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Satèn",
+     "denominazione": "Franciacorta Satèn DOCG",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Visita alla tenuta con degustazione su richiesta tramite modulo online [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cadeironchi.it, in italiano e inglese [[6]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «site/it/contatti».",
+   "url": "https://www.cadeironchi.it/site/it/contatti/",
+   "etichetta": "cadeironchi.it/site/it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «site/it/azienda».",
+   "url": "https://www.cadeironchi.it/site/it/azienda/",
+   "etichetta": "cadeironchi.it/site/it/azienda"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «site/it/vini».",
+   "url": "https://www.cadeironchi.it/site/it/vini/",
+   "etichetta": "cadeironchi.it/site/it/vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «site/it/index».",
+   "url": "https://www.cadeironchi.it/site/it/index/",
+   "etichetta": "cadeironchi.it/site/it/index"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.cadeironchi.it/",
+   "etichetta": "cadeironchi.it"
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "nome": "Casa Bianca Spumanti",
+ "slug": "casa-bianca-spumanti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02047260266 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cal Trevigiana, 7, 31040 Volpago del Montello (TV) [[2]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "{{https://www.facebook.com/Casa-Bianca-Spumanti-492021154174407/|facebook.com/Casa-Bianca-Spumanti-492021154174407}} [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Asolo Prosecco DOCG Brut», «Asolo Prosecco DOCG Extra Dry», «Asolo Prosecco Superiore DOCG Brut» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0423040044 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@casabiancaspumanti.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.casabiancaspumanti.it|casabiancaspumanti.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Per il sito, la famiglia Manin mette a dimora le prime viti nel 1906. [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "CELEBRATION",
+     "denominazione": "Asolo Prosecco DOCG Brut",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Etichetta ORO",
+     "denominazione": "Asolo Prosecco Superiore DOCG Brut",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Etichetta GIALLA",
+     "denominazione": "Asolo Prosecco DOCG Extra Dry",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Millesimato Dry",
+     "denominazione": "Valdobbiadene Prosecco DOCG Superiore",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Brut",
+     "denominazione": "Valdobbiadene Prosecco DOCG Superiore",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Extra Dry",
+     "denominazione": "Valdobbiadene Prosecco DOCG Superiore",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Casa-Bianca-Spumanti-492021154174407|Casa-Bianca-Spumanti-492021154174407}}\nX {{https://x.com/CBsparkling|@CBsparkling}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=7143125715107485240|Mappa}} [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": " Privacy Policy | Cr|https://www.casabiancaspumanti.it",
+   "etichetta": " Privacy Policy | Cr|https:"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/casa-bianca-spumanti/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «casabiancaspumanti.it», consultata il 25 ottobre 2026.",
+   "url": "https://www.casabiancaspumanti.it",
+   "etichetta": "casabiancaspumanti.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.casabiancaspumanti.it",
+   "etichetta": "casabiancaspumanti.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «CASA BIANCA» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=7143125715107485240",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

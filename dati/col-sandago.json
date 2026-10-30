@@ -1,0 +1,111 @@
+{
+ "nome": "Col Sandago",
+ "slug": "col-sandago",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Col Sandago [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Barriera, 41, Susegana, TV [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39043864468\n+390438453871 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@colsandago.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.colsandago.it|www.colsandago.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nasce negli anni ’60 del Novecento. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: brut, dry, extra dry, sui lieviti [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "E-commerce; Vendita al dettaglio [[1]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fra 500.000 e 1 milione di bottiglie [[1]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese, Tedesco [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Medaglia d’argento (tipicità 8/10) a uno spumante millesimato Wildbacher [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/ColSandago|ColSandago}}\nInstagram {{https://www.instagram.com/colsandago/|@colsandago}} [[2]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://shop.hausbrandt.it//|shop.hausbrandt.it}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nVivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/col-sandago/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.colsandago.it",
+   "etichetta": "colsandago.it"
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "nome": "Torre Zecchei",
+ "slug": "torre-zecchei",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Torre Zecchei [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Capitello Ferrari, 3/a, Valdobbiadene (TV); Via Ponte Vecchio, 3/5, Valdobbiadene [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390423976183\n+390423905041 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@torrezecchei.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.torrezecchei.it/|www.torrezecchei.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: brut, extra brut, extra dry [[1]]"
+    },
+    {
+     "etichetta": "Valdobbiadene Superiore di Cartizze",
+     "valore": "Tipologie indicate: brut [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "Pernottamento; Vendita al dettaglio; Visita e degustazione [[1]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Fra 100.000 e 500.000 bottiglie [[1]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese, Tedesco [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/TorreZeccheiProseccoDOCG|TorreZeccheiProseccoDOCG}}\nInstagram {{https://www.instagram.com/torrezeccheiprosecco/|@torrezeccheiprosecco}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=372515987897308609|Mappa}} — valutazione 4,6 su 5 (51 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/torre-zecchei/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.torrezecchei.it/",
+   "etichetta": "torrezecchei.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Cantina di produzione Torre Zecchei» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=372515987897308609",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

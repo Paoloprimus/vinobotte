@@ -1,0 +1,104 @@
+{
+ "nome": "Tenuta La Pineta",
+ "slug": "tenuta-la-pineta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01214120519 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Setteponti, 65, 52029 Castiglion Fibocchi AR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0575 477716 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutalapineta.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutalapineta.it/|tenutalapineta.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nel 21° secolo la storia si ripete e ritroviamo questo simbolo tra le dolci colline toscane, dove si estende Tenuta la Pineta. Condotta con impegno e passione dalla famiglia Scortecci, al fine di captare la forza vitale che questa terra feconda emana in ogni stagione. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Chianti Superiore DOCG; Chianti DOCG [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Chianti DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=7082201540953416992|Mappa}} — valutazione 5 su 5 (98 recensioni) [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://www.tenutalapineta.it/",
+   "etichetta": "tenutalapineta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://www.tenutalapineta.it/",
+   "etichetta": "tenutalapineta.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Tenuta La Pineta» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=7082201540953416992",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

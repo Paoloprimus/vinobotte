@@ -1,0 +1,104 @@
+{
+ "nome": "Cantine Sgarzi Luigi",
+ "slug": "cantine-sgarzi-luigi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Bernarda 1650, 40024 Castel San Pietro Terme (BO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "051 940962 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinesgarzi.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://cantinesgarzi.com/|cantinesgarzi.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Mundus Vini: oro 2011–2014\nBerliner Wein Trophy 2012 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/CantineSgarziLuigi|CantineSgarziLuigi}}\nInstagram {{https://www.instagram.com/cantinesgarziluigi/|@cantinesgarziluigi}}\nYouTube {{https://www.youtube.com/channel/UC75lp4ncgVLaQIleDZV-Rig|canale UC75lp4ncgVLaQIleDZV-Rig}}\nLinkedIn {{https://www.linkedin.com/company/cantine-sgarzi-luigi-srl|cantine-sgarzi-luigi-srl}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8421072291397987535|Mappa}} — valutazione 4,4 su 5 (119 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "https://cantinesgarzi.com/",
+   "etichetta": "cantinesgarzi.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://cantinesgarzi.com/",
+   "etichetta": "cantinesgarzi.com"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Cantine Sgarzi Luigi srl» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8421072291397987535",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

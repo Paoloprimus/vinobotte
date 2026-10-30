@@ -1,0 +1,77 @@
+{
+ "nome": "Castelvecchio",
+ "slug": "castelvecchio-terricciola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Castelvecchio S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02449320502 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Terricciola, PI [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@agricastelvecchio.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://agricastelvecchio.com/|agricastelvecchio.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Terre di Pisa [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Terre di Pisa Rosso DOC, Terre di Pisa Sangiovese DOC, Vin Santo del Chianti DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/aziendaagricola.castelvecchio.7|facebook.com/aziendaagricola.castelvecchio.7}}\nInstagram {{https://www.instagram.com/castelvecchio_wine/|instagram.com/castelvecchio_wine}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://agricastelvecchio.com/",
+   "etichetta": "agricastelvecchio.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vini Terre di Pisa, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.viniterredipisa.com/azienda-it.php?id=4",
+   "etichetta": "viniterredipisa.com"
+  }
+ ]
+}

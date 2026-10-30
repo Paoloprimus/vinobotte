@@ -1,0 +1,106 @@
+{
+ "nome": "Cesani Vincenzo",
+ "slug": "cesani-vincenzo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Cesani Vincenzo [[1]]\nAzienda Agricola Cesani [[2]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00300240520 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Pancole, 82 – 53037 SAN GIMIGNANO (SI) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cesani.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cesani.it|cesani.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Chianti Colli Senesi [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Cesani; nel 1951 Guido e Annunziata acquistarono a Pancole il primo terreno. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Chianti Colli Senesi DOCG; Vernaccia di San Gimignano Riserva DOCG; San Gimignano DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/CesaniWinery|CesaniWinery}}\nInstagram {{https://www.instagram.com/CesaniWinery/|@CesaniWinery}}\nLinkedIn {{https://www.linkedin.com/company/cesani-winery|cesani-winery}} [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.cesani.it/it/shop/|cesani.it/it/shop}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nVivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Chianti Colli Senesi, elenco delle aziende e dei produttori, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziochianticollisenesi.it/aziende-e-produttori/",
+   "etichetta": "consorziochianticollisenesi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.cesani.it",
+   "etichetta": "cesani.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.cesani.it",
+   "etichetta": "cesani.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.cesani.it",
+   "etichetta": "cesani.it"
+  }
+ ]
+}

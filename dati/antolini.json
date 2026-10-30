@@ -1,0 +1,224 @@
+{
+ "nome": "Antolini",
+ "slug": "antolini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Antolini Pier Paolo e Stefano [[1]] [[2]]\nNell’elenco del Consorzio: Antolini Pier Paolo e Stefano Società Agricola s.s."
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02379970235 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Prognol 22, 37020 Marano di Valpolicella (VR) [[2]]; il sito indica «Prognol, 22» [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 333 6546187\nfax +39 045 7755351 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@antolinivini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.antolinivini.it/|www.antolinivini.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Fratelli Pier Paolo e Stefano Antolini [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Coltivano la vite dal 1992 in terreni di proprietà; cantina completata nel 2001 [[3]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "Marano di Valpolicella, San Pietro in Cariano e Negrar [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "Circa 9 ettari, a 150–350 m di altitudine, nei comuni di Marano di Valpolicella, San Pietro in Cariano e Negrar [[3]]. Tra i vigneti citati:",
+     "elenco": [
+      "Semonte (San Pietro in Cariano), 1 ha dal 1993",
+      "Cà Coato (Negrar), circa 2 ha acquistati nel 2000, guyot",
+      "Morópio e Persegà (Marano)"
+     ]
+    },
+    {
+     "etichetta": "Terreni",
+     "valore": "Prevalentemente argillosi; nessun impianto di irrigazione [[3]]"
+    },
+    {
+     "etichetta": "Cantina e fruttaio",
+     "valore": "Locale di appassimento al primo piano, vinificatori all’esterno, cantina di lavorazione e stoccaggio con serbatoi in acciaio nel piano interrato, cantina di invecchiamento con botti e barrique sotto volte in mattoni [[3]]"
+    },
+    {
+     "etichetta": "Conduzione",
+     "valore": "Lotta guidata e integrata; senza erbicidi e insetticidi chimici, con confusione sessuale e diserbo meccanico [[3]] [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Valpolicella Classico, Valpolicella Superiore, Ripasso, Amarone Classico, Recioto della Valpolicella, Corvina Veronese IGT, Passito bianco IGT Veneto [[5]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio dagli olivi di Morópio e Cà Coato [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette come indicate sul sito della cantina, che non riporta le annate in vendita. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Persegà",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Superiore Ripasso DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Morópio",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Cà Coato",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "—"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Due sale degustazione, una nella vecchia cantina del padre e una moderna; degustazioni per un massimo di 25 persone [[6]]"
+    },
+    {
+     "etichetta": "Prenotazione",
+     "valore": "Tel. +39 333 6546187 · info@antolinivini.it [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "antolinivini.it, in italiano, inglese e tedesco, con pagina sui vini e archivio news\nla pagina «Ospitalità» è in costruzione [[3]] [[7]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Il sito non mostra un negozio online [[5]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[8]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.antolinivini.it/contatti/",
+   "etichetta": "antolinivini.it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.antolinivini.it/",
+   "etichetta": "antolinivini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «terra».",
+   "url": "https://www.antolinivini.it/terra/",
+   "etichetta": "antolinivini.it/terra"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vino».",
+   "url": "https://www.antolinivini.it/vino/",
+   "etichetta": "antolinivini.it/vino"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «visite-in-cantina».",
+   "url": "https://www.antolinivini.it/visite-in-cantina/",
+   "etichetta": "antolinivini.it/visite-in-cantina"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «ospitalita».",
+   "url": "https://www.antolinivini.it/ospitalita/",
+   "etichetta": "antolinivini.it/ospitalita"
+  },
+  {
+   "n": 8,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

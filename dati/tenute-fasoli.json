@@ -1,0 +1,175 @@
+{
+ "nome": "Tenute Fasoli",
+ "slug": "tenute-fasoli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenute Fasoli di Fasoli Lorena [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04359070234 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Vicolo Giacomo Matteotti 7, 37015 Sant’Ambrogio di Valpolicella (VR) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 340 3429306 [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutefasoli.com [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutefasoli.com/|www.tenutefasoli.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Tradizione familiare dal XVIII secolo; oggi Lorena Fasoli, che ha costruito una nuova cantina e convertito l’azienda al biologico [[4]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Tenuta a San Pietro in Cariano (circa 1,5 ha di Valpolicella, stele del 1798) e tenuta a Ferrara di Monte Baldo (940–980 m, biologica dal 2019) [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. Altri vini in gamma: Rubrum Caelum Sidereum, Ayrton, Lorena 980, Oro del Berto (denominazione non indicata sul sito). [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore Classico DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Visite su appuntamento telefonico o e-mail [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Tenute-Fasoli-1578821042130192|Tenute-Fasoli-1578821042130192}}\nInstagram {{https://www.instagram.com/tenutefasolilorena/|@tenutefasolilorena}} [[7]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "Pagina Shop presente sul sito, senza prodotti sul sito [[8]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: presenza non verificata\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16275258828335512599|Mappa}} — valutazione 4,9 su 5 (75 recensioni) [[9]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «tenutefasoli.com», consultata il 25 ottobre 2026.",
+   "url": "https://www.tenutefasoli.com/",
+   "etichetta": "tenutefasoli.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.tenutefasoli.com/contatti/",
+   "etichetta": "tenutefasoli.com/contatti"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «la-nostra-storia».",
+   "url": "https://www.tenutefasoli.com/la-nostra-storia/",
+   "etichetta": "tenutefasoli.com/la-nostra-storia"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «territorio».",
+   "url": "https://www.tenutefasoli.com/territorio/",
+   "etichetta": "tenutefasoli.com/territorio"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini».",
+   "url": "https://www.tenutefasoli.com/i-vini/",
+   "etichetta": "tenutefasoli.com/i-vini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.tenutefasoli.com/",
+   "etichetta": "tenutefasoli.com"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «shop».",
+   "url": "https://www.tenutefasoli.com/shop/",
+   "etichetta": "tenutefasoli.com/shop"
+  },
+  {
+   "n": 9,
+   "testo": "Scheda «Tenute Fasoli Lorena» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16275258828335512599",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

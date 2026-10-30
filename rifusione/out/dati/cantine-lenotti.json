@@ -1,0 +1,186 @@
+{
+ "nome": "Cantine Lenotti",
+ "slug": "cantine-lenotti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantine Lenotti S.r.l. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02396340230 [[4]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7210484 · info@lenotti.com [[4]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Santa Cristina 1, 37011 Bardolino (VR) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lenotti.com/|www.lenotti.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Bardolino D.O.C. [[10]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei soci del Consorzio Tutela Vino Custoza DOC [[3]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Custoza",
+     "valore": "Bardolino (VR); tel. 045 721 0484; lenotti.com [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Origine certa dal 1906 a Bardolino; certificata UNI EN ISO 9001:2015 [[4]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Le Giare e Santa Cristina (Bardolino), Tacchetto e La Prà (Cavaion), La Grola (Valpolicella), Froscà e Le Coste (Soave), Betulla (Custoza) [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal sito; annate non indicate nell’elenco. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[10]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG (Jeroboam 3 lt)",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Collezione Famiglia Chiaretto",
+     "denominazione": "Chiaretto di Bardolino Classico DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Collezione Famiglia Custoza",
+     "denominazione": "Custoza DOC",
+     "annata": "— [[7]]"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino Classico DOC; Bardolino Novello Classico DOC; Bardolino Classico Superiore DOCG; Chiaretto di Bardolino Classico DOC [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Notizia “Ottimi punteggi per i nostri vini nella guida Vini Buoni d’Italia”, senza punteggi nel testo [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Tour in cantina, degustazioni orizzontali e verticali di annate storiche [[8]] [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "lenotti.com in più lingue, con shop [[4]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Shop sul sito; altri marketplace: presenza non verificata [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.lenotti.com/",
+   "etichetta": "lenotti.com"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/amarone-della-valpolicella-classico-jeroboam-3-lt-».",
+   "url": "https://www.lenotti.com/prodotto/amarone-della-valpolicella-classico-jeroboam-3-lt-annate-storiche/",
+   "etichetta": "lenotti.com/prodotto/amarone-della-valpolicella-classico-jeroboam-3-lt-annate-storiche"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/collezione-chiaretto-famiglia».",
+   "url": "https://www.lenotti.com/prodotto/collezione-chiaretto-famiglia/",
+   "etichetta": "lenotti.com/prodotto/collezione-chiaretto-famiglia"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/custoza-doc-famiglia».",
+   "url": "https://www.lenotti.com/prodotto/custoza-doc-famiglia/",
+   "etichetta": "lenotti.com/prodotto/custoza-doc-famiglia"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «degustazioni-di-vino-a-bardolino-lago-di-garda».",
+   "url": "https://www.lenotti.com/degustazioni-di-vino-a-bardolino-lago-di-garda/",
+   "etichetta": "lenotti.com/degustazioni-di-vino-a-bardolino-lago-di-garda"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «degustazione-annate-storiche-bardolino».",
+   "url": "https://www.lenotti.com/degustazione-annate-storiche-bardolino/",
+   "etichetta": "lenotti.com/degustazione-annate-storiche-bardolino"
+  },
+  {
+   "n": 10,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/lenotti/",
+   "etichetta": "consorziobardolino.it"
+  }
+ ]
+}

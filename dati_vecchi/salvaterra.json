@@ -1,0 +1,173 @@
+{
+ "nome": "Tenute SalvaTerra",
+ "slug": "salvaterra",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Salvaterra S.r.l. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Cengia 85, 37029 Cengia, San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Modulo di contatto sul sito [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutesalvaterra.it/|www.tenutesalvaterra.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio di Tutela della DOC Prosecco: {{/pagine/salvaterra-prosecco.html|scheda Prosecco DOC}} [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini DOC Delle Venezie: {{/pagine/salvaterra-delle-venezie.html|scheda Delle Venezie}} [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Sede storica",
+     "valore": "Villa Giona, dimora veneta del tardo ’400 a Cengia [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche Lugana, Pinot Grigio, Prosecco e Corvina spumante. [[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2019 [[7]]"
+    },
+    {
+     "nome": "Amarone Classico Riserva",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "2015 [[8]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "2020 [[9]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "2022 [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Wine shop",
+     "valore": "Lun–ven 9:30–12:30 e 14–18; sabato e domenica su appuntamento [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in tenuta [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Shop online sul sito; altri marketplace: presenza non verificata [[6]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.tenutesalvaterra.it/contatti",
+   "etichetta": "tenutesalvaterra.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://www.tenutesalvaterra.it/azienda",
+   "etichetta": "tenutesalvaterra.it/azienda"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini».",
+   "url": "https://www.tenutesalvaterra.it/i-nostri-vini",
+   "etichetta": "tenutesalvaterra.it/i-nostri-vini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini/amarone-della-valpolicella-docg-classico».",
+   "url": "https://www.tenutesalvaterra.it/i-nostri-vini/amarone-della-valpolicella-docg-classico",
+   "etichetta": "tenutesalvaterra.it/i-nostri-vini/amarone-della-valpolicella-docg-classico"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini/amarone-della-valpolicella-docg-classico-riserva».",
+   "url": "https://www.tenutesalvaterra.it/i-nostri-vini/amarone-della-valpolicella-docg-classico-riserva",
+   "etichetta": "tenutesalvaterra.it/i-nostri-vini/amarone-della-valpolicella-docg-classico-riserva"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini/valpolicella-ripasso-doc-classico-superiore».",
+   "url": "https://www.tenutesalvaterra.it/i-nostri-vini/valpolicella-ripasso-doc-classico-superiore",
+   "etichetta": "tenutesalvaterra.it/i-nostri-vini/valpolicella-ripasso-doc-classico-superiore"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini/valpolicella-doc-classico».",
+   "url": "https://www.tenutesalvaterra.it/i-nostri-vini/valpolicella-doc-classico",
+   "etichetta": "tenutesalvaterra.it/i-nostri-vini/valpolicella-doc-classico"
+  }
+ ]
+}

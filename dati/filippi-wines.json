@@ -1,0 +1,106 @@
+{
+ "nome": "Filippi wines",
+ "slug": "filippi-wines",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Visco e Filippi Az. Agr. Associate [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Libertà 55, 37038 Castelcerino di Soave (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7675005 [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantina@cantinafilippi.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinafilippi.it|cantinafilippi.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina a Castelcerino (circa 400 m), Filippo Filippi coltiva con pratiche biologiche vecchie vigne di Garganega e Trebbiano di Soave; il piè di pagina riporta «Visco & Filippi Azienda Agricola» [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Soave",
+     "valore": "Non disponibile: la pagina del sito letta è una schermata «Coming soon» [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/filippisoave|filippisoave}}\nX {{https://x.com/filippisoave|@filippisoave}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=14735583228443071011|Mappa}} — valutazione 4,8 su 5 (33 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/filippi-wines-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.cantinafilippi.it",
+   "etichetta": "cantinafilippi.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «cantinafilippi.it», consultata il 24 ottobre 2026.",
+   "url": "http://www.cantinafilippi.it",
+   "etichetta": "cantinafilippi.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Filippi - Castelcerino» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=14735583228443071011",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

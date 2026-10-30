@@ -1,0 +1,225 @@
+{
+ "nome": "Bussola Tommaso",
+ "slug": "bussola-tommaso",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Bussola Tommaso s.s.a. di Bussola Paolo & Giuseppe [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04960530238 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Molino Turri 30, località San Peretto, 37024 Negrar di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7501740 · fax +39 045 2109940 · info@bussolavini.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bussolavini.com/|www.bussolavini.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Tommaso Bussola con la moglie Daniela (in azienda dal 1995) e i figli Paolo e Giuseppe (dal 2005); cantina a conduzione familiare [[3]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Nel 1977 Tommaso inizia nella piccola azienda dello zio Giuseppe; prima vinificazione personale nel 1983; nuova cantina tra il 1992 e il 1993 con le prime barrique; sigla «TB» in etichetta [[3]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "Negrar, Valpolicella Classica"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "Vigneti in Valpolicella Classica, tra 280 e 470 m, tra cui: [[4]]",
+     "elenco": [
+      "Vigneto Alto: 1,09 ha, 280 m, basalto",
+      "Casalin: 1,90 ha, 295 m",
+      "Tenda: 2,88 ha, 450 m, argilloso vulcanico",
+      "Coare Longhe e Giulia: 2,81 ha, 420 m, argilloso calcareo",
+      "Collina: 0,70 ha, 470 m",
+      "Cain: 0,60 ha, 450 m",
+      "Senge: 0,35 ha, 420 m"
+     ]
+    },
+    {
+     "etichetta": "Uve coltivate",
+     "valore": "Corvina, Corvinone, Rondinella, Molinara, Dindarella; nei vigneti Coare anche Cabernet Franc, Cabernet Sauvignon, Merlot [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Valpolicella Classico, Valpolicella Classico Superiore, Ripasso, Amarone della Valpolicella Classico (anche Riserva e Vigneto Alto), Recioto della Valpolicella Classico [[5]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine d’oliva [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette come indicate sul sito della cantina; annate non indicate. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Valpolicella Ripasso Classico Superiore",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Amarone Classico Riserva",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Amarone Classico Vigneto Alto",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Recioto Classico",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "—"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Pagina «Su misura per te» per esperienze personalizzate; orari e prezzi non indicati nelle pagine salvate [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "bussolavini.com, in italiano e inglese, con gallery e pagina olio [[8]] [[9]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Il sito non mostra un negozio online (i cookie citano PayPal) [[5]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Instagram @bussolavini indicato dal sito; Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://www.bussolavini.com/it/contatti",
+   "etichetta": "bussolavini.com/it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/azienda-agricola-valpolicella».",
+   "url": "https://www.bussolavini.com/it/azienda-agricola-valpolicella",
+   "etichetta": "bussolavini.com/it/azienda-agricola-valpolicella"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/vigneti-valpolicella».",
+   "url": "https://www.bussolavini.com/it/vigneti-valpolicella",
+   "etichetta": "bussolavini.com/it/vigneti-valpolicella"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini-valpolicella-classica».",
+   "url": "https://www.bussolavini.com/it/vini-valpolicella-classica",
+   "etichetta": "bussolavini.com/it/vini-valpolicella-classica"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/olio-extra-vergine-di-oliva».",
+   "url": "https://www.bussolavini.com/it/olio-extra-vergine-di-oliva",
+   "etichetta": "bussolavini.com/it/olio-extra-vergine-di-oliva"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/su-misura-per-te».",
+   "url": "https://www.bussolavini.com/it/su-misura-per-te",
+   "etichetta": "bussolavini.com/it/su-misura-per-te"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.bussolavini.com/",
+   "etichetta": "bussolavini.com"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/gallery».",
+   "url": "https://www.bussolavini.com/it/gallery",
+   "etichetta": "bussolavini.com/it/gallery"
+  }
+ ]
+}

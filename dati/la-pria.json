@@ -1,0 +1,133 @@
+{
+ "nome": "La Pria",
+ "slug": "la-pria",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Pria Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03604250245 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Roma, 43, 36045 Alonte (VI) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Prosecco DOC Biologico» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3333919209 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "taste@lapria.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lapria.it|lapria.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "La tradizione vitivinicola della famiglia ad Alonte, nei Colli Berici, è iniziata nel 1779. [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Extra Brut 0.5",
+     "denominazione": "Prosecco DOC Biologico",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Brut 7",
+     "denominazione": "Prosecco DOC Biologico",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Extra Dry 15",
+     "denominazione": "Prosecco DOC Biologico",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Punteggi",
+     "valore": "Punteggio di 88/100 a un vino [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://it-it.facebook.com/lapria.winery|lapria.winery}}\nInstagram {{https://www.instagram.com/lapria.winery/|@lapria.winery}} [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://shop.lapria.it/|shop.lapria.it}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16776106193822988412|Mappa}} — valutazione 4,9 su 5 (47 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.lapria.it",
+   "etichetta": "lapria.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/la-pria/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «shop.lapria.it/it/i-nostri-vini», consultata il 25 ottobre 2026.",
+   "url": "https://shop.lapria.it/it/i-nostri-vini/",
+   "etichetta": "shop.lapria.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.lapria.it",
+   "etichetta": "lapria.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «La Pria Winery» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16776106193822988412",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

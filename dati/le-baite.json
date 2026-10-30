@@ -1,0 +1,139 @@
+{
+ "nome": "Le Baite",
+ "slug": "le-baite",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Le Baite S.S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02471160263 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Baite, 11, 31040 Mansuè (TV) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «DOC Treviso» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3470096770 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "commerciale@vinilebaite.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinilebaite.it|vinilebaite.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "1951: Eugenio Baldessin acquista un terreno in via Baite a Basalghelle di Mansuè; 26.04.1993: Stefano Baldessin costituisce con il padre Rino l’azienda «Le Baite». [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Prosecco Brut",
+     "denominazione": "DOC Treviso",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Prosecco Extra-Dry",
+     "denominazione": "DOC Treviso",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Prosecco Frizzante",
+     "denominazione": "DOC Treviso",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Chardonnay",
+     "denominazione": "DOC Piave",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Cabernet",
+     "denominazione": "DOC Piave",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/aziendaagricolalebaite|aziendaagricolalebaite}}\nInstagram {{https://www.instagram.com/vini_le_baite/|@vini_le_baite}}\nYouTube {{https://www.youtube.com/channel/UCHK9F36LZoKzuugdvaVuLQw|canale UCHK9F36LZoKzuugdvaVuLQw}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12918841719469780021|Mappa}} — valutazione 5 su 5 (24 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.vinilebaite.it",
+   "etichetta": "vinilebaite.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/le-baite/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «vinilebaite.it/i-nostri-vini», consultata il 25 ottobre 2026.",
+   "url": "https://vinilebaite.it/i-nostri-vini/",
+   "etichetta": "vinilebaite.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.vinilebaite.it",
+   "etichetta": "vinilebaite.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Azienda Agricola Le Baite - Vini Biologici» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12918841719469780021",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

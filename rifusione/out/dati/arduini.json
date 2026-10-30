@@ -1,0 +1,225 @@
+{
+ "nome": "Arduini",
+ "slug": "arduini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Arduini Luciano e C. Società Agricola S.S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04119870238 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Belvedere 3, località Corrubbio, 37029 San Pietro in Cariano (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 772 58 80 · degustazioni +39 345 8546898 · arduinivini.sofia@gmail.com [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.arduinivini.it/|www.arduinivini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella come «Arduini Luciano & C. Società Agricola s.s.» [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Luciano Arduini, con il figlio Andrea (vigneto e vino), la moglie Silvana (amministrazione) e la figlia Sofia (accoglienza) [[4]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Attività avviata negli anni Quaranta dal nonno Gabriele a Marano (località Canal); nel 1969 Battista eredita l’azienda di Corrubbio, ampliata con parte dei terreni di Villa Banda Amistà; nel 2000 la produzione passa a una nuova cantina [[4]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "Corrubbio, San Pietro in Cariano, vicino alla «Fontana del Fongo» [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: struttura",
+   "righe": [
+    {
+     "etichetta": "Cantina e fruttaio",
+     "valore": "Fruttai asciutti e areati per l’appassimento; l’Amarone macera circa 40 giorni in fusti di legno [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Amarone della Valpolicella DOCG Classico (anche Riserva), Recioto della Valpolicella DOCG Classico, Valpolicella DOC Classico e Classico Superiore, Ripasso, Rosso Veronese IGT [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette come indicate sul sito della cantina, che non riporta le annate in vendita. [[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "—"
+    },
+    {
+     "nome": "Simison",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Sacheta",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Costelonghe",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Fontana del Fongo",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "—"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Azienda lunedì–venerdì 8–12.30 e 14–17.30; shop anche sabato 8–12.30 e 14–16 [[1]]"
+    },
+    {
+     "etichetta": "Prenotazione",
+     "valore": "Degustazioni solo su prenotazione, con modulo del sito o per telefono [[2]]"
+    },
+    {
+     "etichetta": "Taste & Go",
+     "valore": "10 € a persona: tour in cantina e 3 vini della Linea Tradizionale, 30 minuti [[2]]"
+    },
+    {
+     "etichetta": "Tradizionale",
+     "valore": "25 € a persona (minimo 2): vigneto, cantina e 5 vini della Linea Tradizionale con salumi e formaggi, 1 h 30 [[2]]"
+    },
+    {
+     "etichetta": "Selezione",
+     "valore": "38 € a persona (minimo 2): vigneto, cantina e 6 vini delle Linee Tradizionale e Selezione, 1 h 30 [[2]]"
+    },
+    {
+     "etichetta": "Riserva",
+     "valore": "60 € a persona (minimo 5): vigneto, cantina, 4 vecchie annate di Amarone e Simison Riserva, 1 h 30 [[2]]"
+    },
+    {
+     "etichetta": "Wine shop",
+     "valore": "Shop aziendale aperto anche il sabato [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "arduinivini.it, in italiano e inglese, con una pagina per vino e prenotazione delle degustazioni [[7]] [[2]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Le pagine dei vini rimandano ad «Acquista online» [[5]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.arduinivini.it/contatti",
+   "etichetta": "arduinivini.it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «degustazioni».",
+   "url": "https://www.arduinivini.it/degustazioni",
+   "etichetta": "arduinivini.it/degustazioni"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://www.arduinivini.it/azienda",
+   "etichetta": "arduinivini.it/azienda"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini/riserva».",
+   "url": "https://www.arduinivini.it/i-vini/riserva",
+   "etichetta": "arduinivini.it/i-vini/riserva"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini».",
+   "url": "https://www.arduinivini.it/i-vini",
+   "etichetta": "arduinivini.it/i-vini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.arduinivini.it/",
+   "etichetta": "arduinivini.it"
+  }
+ ]
+}

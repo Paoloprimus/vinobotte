@@ -1,0 +1,134 @@
+{
+ "nome": "Fabbrica Pienza",
+ "slug": "fabbrica-pienza",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "FABBRICA PIENZA [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01347950527 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Borghetto, 53026 Pienza, SI [[2]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "%20+39%20327%20992%2033%2091 [[4]]\n+39 05 7881 0030 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fabbricapienza.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fabbricapienza.com/|fabbricapienza.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Orcia DOC [[5]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Orcia DOC [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Orcia DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/FabbricaPienza|FabbricaPienza}}\nInstagram {{https://www.instagram.com/fabbricapienza/|@fabbricapienza}} [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://shop.fabbricapienza.com/|shop.fabbricapienza.com}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=10822487466604782448|Mappa}} — valutazione 4,9 su 5 (94 recensioni) [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "https://www.fabbricapienza.com/",
+   "etichetta": "fabbricapienza.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://www.fabbricapienza.com/",
+   "etichetta": "fabbricapienza.com"
+  },
+  {
+   "n": 3,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 26 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/fabbrica-pienza/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.fabbricapienza.com/",
+   "etichetta": "fabbricapienza.com"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://www.fabbricapienza.com/",
+   "etichetta": "fabbricapienza.com"
+  },
+  {
+   "n": 6,
+   "testo": "Scheda «Fabbrica Pienza - Winery» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=10822487466604782448",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

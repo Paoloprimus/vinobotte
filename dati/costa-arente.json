@@ -1,0 +1,162 @@
+{
+ "nome": "Costa Arènte",
+ "slug": "costa-arente",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Costa Arènte / Soc. Agricola Le Tenute del Leone Alato S.p.a. [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località Costa 86, 37023 Grezzana (VR), in Valpantena [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 347 211 1150 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@costarente.it\nprenotazioni booking@costarente.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.costarente.it/|www.costarente.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Tenuta",
+     "valore": "Collina con casa colonica, fruttaio e barricaia; tre lati su quattro coltivati a Corvina, Corvinone e Rondinella [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Annate indicate dal sito. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Valpantena DOCG",
+     "annata": "2020 [[4]]"
+    },
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG Riserva",
+     "annata": "2019 [[4]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Valpantena Superiore DOC",
+     "annata": "2021 [[4]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella Valpantena Superiore DOC",
+     "annata": "2023 [[4]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Valpantena DOCG",
+     "annata": "2022 [[4]]"
+    },
+    {
+     "nome": "Lugana",
+     "denominazione": "Lugana DOC",
+     "annata": "2025 [[4]]"
+    },
+    {
+     "nome": "Le Stéle",
+     "denominazione": "Soave Classico DOC",
+     "annata": "2025 [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Enoturismo",
+     "valore": "Degustazioni, visita ai vigneti e alla tenuta; prenotazione via booking@costarente.it [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "costarente.it, in italiano e inglese\nInstagram e Facebook @costarente [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Instagram\nFacebook [[2]]\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=17342751701760039435|Mappa}} — valutazione 4,7 su 5 (68 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/ca-contacts».",
+   "url": "https://www.costarente.it/it/ca-contacts",
+   "etichetta": "costarente.it/it/ca-contacts"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/la-tenuta».",
+   "url": "https://www.costarente.it/it/la-tenuta",
+   "etichetta": "costarente.it/it/la-tenuta"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/ca-vini».",
+   "url": "https://www.costarente.it/it/ca-vini",
+   "etichetta": "costarente.it/it/ca-vini"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «COSTA ARÈNTE» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=17342751701760039435",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

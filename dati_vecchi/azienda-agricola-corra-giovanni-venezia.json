@@ -1,0 +1,89 @@
+{
+ "nome": "Azienda Agricola Corrà Giovanni",
+ "slug": "azienda-agricola-corra-giovanni-venezia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Zamper, 71, 30020 Cinto Caomaggiore (VE) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0421209743; info@corra-giovanni.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.corra-giovanni.com|corra-giovanni.com}} [[1]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini indicati solo come DOC/DOCG, assegnati a questa sezione dal nome del vino [[2]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "La cantina elenca anche vini della sezione Prosecco DOC: {{/pagine/azienda-agricola-corra-giovanni-prosecco.html|scheda Prosecco DOC}} [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione. Altri vini del sito, senza denominazione chiara, non inclusi: Merlot DOC, Chardonnay, Pinot Grigio, Verduzzo, Glera, Refosco Peduncolo Rosso, Carmenére, Franconia [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Lison DOC",
+     "denominazione": "DOC (denominazione completa non precisata dal sito)",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda della cantina su Bere il Vino e pagine dei vini del sito della cantina, consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-corra-giovanni/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 25 ottobre 2026, pagina «corra-giovanni.com».",
+   "url": "https://www.corra-giovanni.com/",
+   "etichetta": "corra-giovanni.com"
+  }
+ ]
+}

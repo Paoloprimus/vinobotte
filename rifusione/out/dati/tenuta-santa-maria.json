@@ -1,0 +1,207 @@
+{
+ "nome": "Tenuta Santa Maria",
+ "slug": "tenuta-santa-maria",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Santa Maria di Gaetano Bertani Società Semplice Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04760450231 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località Novare 1, 37024 Arbizzano di Negrar (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "booking@tenutasantamaria.wine; assistenza prenotazioni +39 351 4395473 [[1]] [[2]] · info@tenutasantamaria.wine [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutasantamaria.wine/it/|www.tenutasantamaria.wine}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Tenuta e cantina del Settecento (1735) della famiglia Bertani; oggi Giovanni e Guglielmo Bertani [[5]]"
+    },
+    {
+     "etichetta": "Struttura",
+     "valore": "Il sito cita tre sedi produttive: Villa Mosconi Bertani (Valpolicella Classica), Tenuta Santa Maria alla Pieve (Val d’Illasi) e una proprietà a Grezzana (Valpantena) [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella e il rosso IGT; la tenuta produce anche Soave, Chardonnay e Merlot. Il sito non riporta le annate. [[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Solo i vini Soave; la cantina (Gaetano Bertani) produce anche Valpolicella e Amarone. [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Brolo dei Poeti",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Lepiga",
+     "denominazione": "Soave DOC",
+     "annata": "— [[14]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Prenotazione online di visite guidate e degustazioni; eventi aziendali [[2]] [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel testo salvato del sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Wine shop online sul sito; altri marketplace: presenza non verificata [[13]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre. Pagine consultate il 24 ottobre 2026 (da copia salvata del sito della cantina; elenco del consorzio consultato dal vivo). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://www.tenutasantamaria.wine/it/contatti/",
+   "etichetta": "tenutasantamaria.wine/it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/visite-e-degustazioni-prenotazione».",
+   "url": "https://www.tenutasantamaria.wine/it/visite-e-degustazioni-prenotazione/",
+   "etichetta": "tenutasantamaria.wine/it/visite-e-degustazioni-prenotazione"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/localita-novare-una-tenuta-in-valpolicella».",
+   "url": "https://www.tenutasantamaria.wine/it/localita-novare-una-tenuta-in-valpolicella/",
+   "etichetta": "tenutasantamaria.wine/it/localita-novare-una-tenuta-in-valpolicella"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/i-vini-di-tenuta-santa-maria».",
+   "url": "https://www.tenutasantamaria.wine/it/i-vini-di-tenuta-santa-maria/",
+   "etichetta": "tenutasantamaria.wine/it/i-vini-di-tenuta-santa-maria"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/brolo-dei-poeti-amarone-classico-riserva».",
+   "url": "https://www.tenutasantamaria.wine/it/brolo-dei-poeti-amarone-classico-riserva/",
+   "etichetta": "tenutasantamaria.wine/it/brolo-dei-poeti-amarone-classico-riserva"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/amarone-della-valpolicella-classico-riserva».",
+   "url": "https://www.tenutasantamaria.wine/it/amarone-della-valpolicella-classico-riserva/",
+   "etichetta": "tenutasantamaria.wine/it/amarone-della-valpolicella-classico-riserva"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/recioto-della-valpolicella-classico».",
+   "url": "https://www.tenutasantamaria.wine/it/recioto-della-valpolicella-classico/",
+   "etichetta": "tenutasantamaria.wine/it/recioto-della-valpolicella-classico"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «it/valpolicella-ripasso-classico».",
+   "url": "https://www.tenutasantamaria.wine/it/valpolicella-ripasso-classico/",
+   "etichetta": "tenutasantamaria.wine/it/valpolicella-ripasso-classico"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «it/valpolicella-classico-superiore».",
+   "url": "https://www.tenutasantamaria.wine/it/valpolicella-classico-superiore/",
+   "etichetta": "tenutasantamaria.wine/it/valpolicella-classico-superiore"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «it/eventi-aziendali-a-verona».",
+   "url": "https://www.tenutasantamaria.wine/it/eventi-aziendali-a-verona/",
+   "etichetta": "tenutasantamaria.wine/it/eventi-aziendali-a-verona"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «it/negozio».",
+   "url": "https://www.tenutasantamaria.wine/it/negozio/",
+   "etichetta": "tenutasantamaria.wine/it/negozio"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «it/prodotto/lepiga-soave-doc».",
+   "url": "https://www.tenutasantamaria.wine/it/prodotto/lepiga-soave-doc/",
+   "etichetta": "tenutasantamaria.wine/it/prodotto/lepiga-soave-doc"
+  }
+ ]
+}

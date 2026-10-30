@@ -1,0 +1,111 @@
+{
+ "nome": "Torre A Decima",
+ "slug": "torre-a-decima",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "05026700483 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Torre a Cona 49, 50067 Rignano sull'Arno (FI) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390055699000 [[3]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@torreacona.com [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.torreacona.com/|torreacona.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Vin Santo; Vermentino; Sangiovese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/TorreaCona|TorreaCona}}\nInstagram {{https://www.instagram.com/torre_a_cona_wine/|@torre_a_cona_wine}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=4170761259042396876|Mappa}} — valutazione 4,7 su 5 (313 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 29 ottobre 2026.",
+   "url": "https://www.torreacona.com/",
+   "etichetta": "torreacona.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://www.torreacona.com/",
+   "etichetta": "torreacona.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.torreacona.com/",
+   "etichetta": "torreacona.com"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/fattoria-torre-a-cona-societa-agricola-srl/",
+   "etichetta": "consorziovinochianti.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Torre a Cona Tuscan Wine Estate» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=4170761259042396876",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

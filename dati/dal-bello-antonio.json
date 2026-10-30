@@ -1,0 +1,125 @@
+{
+ "nome": "Dal Bello Antonio",
+ "slug": "dal-bello-antonio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Dal Bello Antonio [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Belli, 2, 31010 Tv [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0039 0423 949015 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@dalbellovini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://dalbellovini.it/|dalbellovini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Vini Asolo Montello [[2]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Vini Asolo Montello",
+     "valore": "Via Belli, 2, 31010 Fonte (TV); tel. 0423 949015; info@dalbebllovini.it; dalbellovini.it [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito la presenta come «una famiglia di viticoltori dal 1906» [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Asolo Montello",
+     "valore": "Non indicato nell’elenco dei soci del Consorzio; non ancora raccolto dai siti delle cantine [[2]]"
+    }
+   ],
+   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[3]]",
+   "vini": [
+    {
+     "nome": "Prosecco",
+     "denominazione": "Prosecco Treviso DOC",
+     "annata": "— [[3]]"
+    }
+   ],
+   "tipo": "vini"
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Partecipazione a competizioni internazionali, senza elenco dei premi [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/dalbellovini|dalbellovini}}\nInstagram {{https://www.instagram.com/dalbellovini/|@dalbellovini}}\nYouTube {{https://www.youtube.com/channel/UC222-vEaMfZGf29pkMZgtTQ|canale UC222-vEaMfZGf29pkMZgtTQ}}\nLinkedIn {{https://www.linkedin.com/company/azienda-agricola-dal-bello|azienda-agricola-dal-bello}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=17903814221851459086|Mappa}} — valutazione 4,6 su 5 (107 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate tra il 24 e il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «dalbellovini.it», consultata il 24 ottobre 2026.",
+   "url": "https://dalbellovini.it/",
+   "etichetta": "dalbellovini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://dalbellovini.it/",
+   "etichetta": "dalbellovini.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Azienda Agricola Dal Bello Antonio» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=17903814221851459086",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

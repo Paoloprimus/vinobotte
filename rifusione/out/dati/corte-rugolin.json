@@ -1,0 +1,157 @@
+{
+ "nome": "Corte Rugolin",
+ "slug": "corte-rugolin",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Corte Rugolin di Elena e Federico Coati (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04183650235 [[3]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località Rugolin 1, Valgatara, 37020 Marano di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7702153 · welcome@corterugolin.it · wineshop@corterugolin.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.corterugolin.it/|www.corterugolin.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Antica corte rurale del 1600; il bisnonno Fortunato vinifica i primi Recioto e Amarone; dal 1998 progetto di Elena e Federico Coati [[3]]"
+    },
+    {
+     "etichetta": "Superficie",
+     "valore": "13 ettari su suolo argilloso-calcareo, in cinque comuni della Valpolicella [[2]]"
+    },
+    {
+     "etichetta": "Agricoltura",
+     "valore": "Vini e olio dichiarati biologici dalle schede [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC biologico",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "SanGiorgio",
+     "denominazione": "Valpolicella Classico Superiore DOC (cru Conca d’Oro)",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella Riserva DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Shop",
+     "valore": "Wine shop con spedizioni in Italia e all’estero [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "corterugolin.it, in italiano e inglese, con shop [[5]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/territorio».",
+   "url": "https://www.corterugolin.it/it/territorio",
+   "etichetta": "corterugolin.it/it/territorio"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/azienda».",
+   "url": "https://www.corterugolin.it/it/azienda",
+   "etichetta": "corterugolin.it/it/azienda"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini».",
+   "url": "https://www.corterugolin.it/it/vini",
+   "etichetta": "corterugolin.it/it/vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/shop».",
+   "url": "https://www.corterugolin.it/it/shop",
+   "etichetta": "corterugolin.it/it/shop"
+  }
+ ]
+}

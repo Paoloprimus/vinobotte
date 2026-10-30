@@ -1,0 +1,201 @@
+{
+ "nome": "Pasqua Vigneti e Cantine",
+ "slug": "pasqua",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Pasqua Vigneti e Cantine S.p.A. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Belvedere 135, 37131 Verona [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 8432111 · fax +39 045 8432 21 · indirizzi per area sul sito (italia@pasqua.it, europe@pasqua.it ecc.) [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.pasqua.it/|www.pasqua.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vino Custoza DOC: {{/pagine/pasqua-custoza.html|scheda Custoza}} [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini DOC Delle Venezie: {{/pagine/pasqua-delle-venezie.html|scheda Delle Venezie}} [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "Tra gli altri: Monte Calvarina (Soave orientale), San Felice (Valpantena, impiantato nel 1993), Mizzole [[5]]"
+    },
+    {
+     "etichetta": "Linee",
+     "valore": "Icons, Famiglia Pasqua, Black Label [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce molti altri vini. Annate come da titoli delle pagine. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Famiglia Pasqua Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG Riserva",
+     "annata": "2013 [[6]]"
+    },
+    {
+     "nome": "Black Label",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "2021 [[7]]"
+    },
+    {
+     "nome": "Limited Edition Labyrinth",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Black Label",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Black Label",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Black Label Limited Edition",
+     "denominazione": "Valpolicella DOC",
+     "annata": "2022 [[11]]"
+    },
+    {
+     "nome": "Black Label Limited Edition",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "2022 [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle pagine salvate del sito"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "pasqua.it in italiano e inglese, con shop; social indicati (IG, FB, TT, TW, LN, YT) [[13]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Shop collegato dal sito; altri marketplace: presenza non verificata [[13]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Instagram, Facebook, TikTok, Twitter, LinkedIn, YouTube indicati dal sito; Google Business Profile, Vivino, Wine-Searcher, Wikipedia: presenza non verificata [[13]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://pasqua.it/it/contatti/",
+   "etichetta": "pasqua.it/it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini».",
+   "url": "https://pasqua.it/it/vini/",
+   "etichetta": "pasqua.it/it/vini"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/amarone-valpolicella-famiglia-pasqua-riserva».",
+   "url": "https://pasqua.it/it/vini/amarone-valpolicella-famiglia-pasqua-riserva/",
+   "etichetta": "pasqua.it/it/vini/amarone-valpolicella-famiglia-pasqua-riserva"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/amarone-valpolicella-black-label».",
+   "url": "https://pasqua.it/it/vini/amarone-valpolicella-black-label/",
+   "etichetta": "pasqua.it/it/vini/amarone-valpolicella-black-label"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/amarone-valpolicella-docg-limited-edition-labyrinth».",
+   "url": "https://pasqua.it/it/vini/amarone-valpolicella-docg-limited-edition-labyrinth",
+   "etichetta": "pasqua.it/it/vini/amarone-valpolicella-docg-limited-edition-labyrinth"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella-ripasso-black-label».",
+   "url": "https://pasqua.it/it/vini/valpolicella-ripasso-black-label/",
+   "etichetta": "pasqua.it/it/vini/valpolicella-ripasso-black-label"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella-black-label».",
+   "url": "https://pasqua.it/it/vini/valpolicella-black-label/",
+   "etichetta": "pasqua.it/it/vini/valpolicella-black-label"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella-black-label-limited-edition».",
+   "url": "https://pasqua.it/it/vini/valpolicella-black-label-limited-edition/",
+   "etichetta": "pasqua.it/it/vini/valpolicella-black-label-limited-edition"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella-ripasso-black-label-limited-edition».",
+   "url": "https://pasqua.it/it/vini/valpolicella-ripasso-black-label-limited-edition/",
+   "etichetta": "pasqua.it/it/vini/valpolicella-ripasso-black-label-limited-edition"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://pasqua.it/",
+   "etichetta": "pasqua.it"
+  }
+ ]
+}

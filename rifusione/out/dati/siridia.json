@@ -1,0 +1,157 @@
+{
+ "nome": "Siridia",
+ "slug": "siridia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Siridia di Speri Edoardo e C. s.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04101330233 [[3]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Cà Righetto 8, 37024 Negrar di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. (+39) 376 1275992; info@siridia.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.siridia.it/|www.siridia.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina indipendente della Valpolicella Classica; progetti a edizione limitata (“Gli Elementi di Edoardo”) [[3]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine (circa 250 olivi nei vigneti), vermouth rosso, amaro da uve passite di Amarone, vini affinati in mare [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; il catalogo comprende anche IGT, spumanti, bianchi e passiti. Il sito indica l’annata solo nelle schede prodotto. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Ispirazione",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Azione",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "2020 [[6]]"
+    },
+    {
+     "nome": "Realizzazione",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Ritorno a casa",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Degustazioni ed esperienze; buoni regalo da € 15 a € 70 [[7]] [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Shop online sul sito, spedizione in Italia; sezione B2B; altri marketplace: presenza non verificata [[4]] [[8]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.siridia.it/contatti/",
+   "etichetta": "siridia.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.siridia.it/",
+   "etichetta": "siridia.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti».",
+   "url": "https://www.siridia.it/prodotti/",
+   "etichetta": "siridia.it/prodotti"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti/page/2».",
+   "url": "https://www.siridia.it/prodotti/page/2/",
+   "etichetta": "siridia.it/prodotti/page/2"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/azione-valpolicella-classico-superiore-doc».",
+   "url": "https://www.siridia.it/prodotto/azione-valpolicella-classico-superiore-doc/",
+   "etichetta": "siridia.it/prodotto/azione-valpolicella-classico-superiore-doc"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «degustazioni-e-visite».",
+   "url": "https://www.siridia.it/degustazioni-e-visite/",
+   "etichetta": "siridia.it/degustazioni-e-visite"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «b2b-vini-valpolicella».",
+   "url": "https://www.siridia.it/b2b-vini-valpolicella/",
+   "etichetta": "siridia.it/b2b-vini-valpolicella"
+  }
+ ]
+}

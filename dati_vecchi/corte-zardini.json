@@ -1,0 +1,149 @@
+{
+ "nome": "Corte Zardini",
+ "slug": "corte-zardini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Vinicola Zardini s.a.s. di Lavarini Loretta (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02871770232 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Val Verde 1, località Pezza, 37020 Marano di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 7755304 · info@cortezardini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortezardini.it/|www.cortezardini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Dal 1914 con Ernesto Zardini; dal 1996 gestita da Maurizio Zardini con la moglie Loretta, con i figli Mattia e Marta [[2]]"
+    },
+    {
+     "etichetta": "Superficie",
+     "valore": "10 ettari di vigneto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[2]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Minervii",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Marta",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Esperienze",
+     "valore": "Esperienze in cantina con prenotazione online [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortezardini.it, in italiano e inglese, con newsletter [[2]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.cortezardini.it/",
+   "etichetta": "cortezardini.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini-in-valpolicella/vini/amarone--della-valpolicella-classico».",
+   "url": "https://www.cortezardini.it/it/vini-in-valpolicella/vini/amarone--della-valpolicella-classico/",
+   "etichetta": "cortezardini.it/it/vini-in-valpolicella/vini/amarone--della-valpolicella-classico"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini-in-valpolicella/vini/minervii--valpolicella-ripasso-classico-superiore».",
+   "url": "https://www.cortezardini.it/it/vini-in-valpolicella/vini/minervii--valpolicella-ripasso-classico-superiore/",
+   "etichetta": "cortezardini.it/it/vini-in-valpolicella/vini/minervii--valpolicella-ripasso-classico-superiore"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini-in-valpolicella/vini/marta--valpolicella-classico-superiore».",
+   "url": "https://www.cortezardini.it/it/vini-in-valpolicella/vini/marta--valpolicella-classico-superiore/",
+   "etichetta": "cortezardini.it/it/vini-in-valpolicella/vini/marta--valpolicella-classico-superiore"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini-in-valpolicella/vini/recioto--della-valpolicella-classico».",
+   "url": "https://www.cortezardini.it/it/vini-in-valpolicella/vini/recioto--della-valpolicella-classico/",
+   "etichetta": "cortezardini.it/it/vini-in-valpolicella/vini/recioto--della-valpolicella-classico"
+  }
+ ]
+}

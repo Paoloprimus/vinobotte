@@ -1,0 +1,124 @@
+{
+ "nome": "Corte Sermana",
+ "slug": "corte-sermana",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Sermana, 1/A, 37019 Peschiera del Garda (VR) [[1]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Lugana DOC», «Lugana DOC Riserva», «Lugana Spumante DOC» [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0457550903 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cortesermana.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortesermana.it|cortesermana.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Tre generazioni sul territorio; oggi la conducono i fratelli Nicolò e Filippo. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Lugana Spumante DOC Palafitte",
+     "denominazione": "Lugana Spumante DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Lugana Spumante DOC Pintade metodo classico",
+     "denominazione": "Lugana Spumante DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Lugana DOC Cromalgo",
+     "denominazione": "Lugana DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Lugana DOC Riserva Sermana",
+     "denominazione": "Lugana DOC Riserva",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12474389403863204978|Mappa}} — valutazione 4,9 su 5 (63 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/corte-sermana/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «cortesermana.it/vini», consultata il 25 ottobre 2026.",
+   "url": "https://www.cortesermana.it/vini/",
+   "etichetta": "cortesermana.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.cortesermana.it",
+   "etichetta": "cortesermana.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Corte Sermana Winery - Lugana DOC - Lago di Garda» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12474389403863204978",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

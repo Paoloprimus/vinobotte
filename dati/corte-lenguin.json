@@ -1,0 +1,206 @@
+{
+ "nome": "Corte Lenguin",
+ "slug": "corte-lenguin",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Corte Lenguin di Vantini Silvio [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02366680235 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Cà dell’Ebreo 5, 37029 San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7701406 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cortelenguin@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortelenguin.it/|www.cortelenguin.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Vantini: il cav. uff. Silvio Vantini avvia la produzione nei primi del ’900, poi il figlio Lorenzo; oggi il nipote Silvio [[4]]"
+    },
+    {
+     "etichetta": "Superficie",
+     "valore": "Circa 10 ettari tra monte Sant’Urbano, la Masua e San Floriano [[4]]"
+    },
+    {
+     "etichetta": "Cantina",
+     "valore": "Affinamento in botti di rovere da 22/40 hl, tonneau da 5 hl e barrique da 225 l [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Dal catalogo prodotti del sito; le annate non sono indicate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "La Coeta",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Consensi e attestati di stima, senza elenco dei premi [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–ven 8.30–12.15 e 14.30–18.30; sabato 8.30–12.30; domenica chiuso [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortelenguin.it con shop [[11]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=15075708047808200067|Mappa}} — valutazione 4,8 su 5 (151 recensioni) [[12]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[13]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «layouts/footer-default».",
+   "url": "https://www.cortelenguin.it/layouts/footer-default/",
+   "etichetta": "cortelenguin.it/layouts/footer-default"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.cortelenguin.it/contatti/",
+   "etichetta": "cortelenguin.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://www.cortelenguin.it/azienda/",
+   "etichetta": "cortelenguin.it/azienda"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «cantina».",
+   "url": "https://www.cortelenguin.it/cantina/",
+   "etichetta": "cortelenguin.it/cantina"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «product/amarone-della-valpolicella-la-coeta».",
+   "url": "https://www.cortelenguin.it/product/amarone-della-valpolicella-la-coeta/",
+   "etichetta": "cortelenguin.it/product/amarone-della-valpolicella-la-coeta"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «product/amarone-della-valpolicella».",
+   "url": "https://www.cortelenguin.it/product/amarone-della-valpolicella/",
+   "etichetta": "cortelenguin.it/product/amarone-della-valpolicella"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «product/recioto-della-valpolicella».",
+   "url": "https://www.cortelenguin.it/product/recioto-della-valpolicella/",
+   "etichetta": "cortelenguin.it/product/recioto-della-valpolicella"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «product/valpolicella-classico».",
+   "url": "https://www.cortelenguin.it/product/valpolicella-classico/",
+   "etichetta": "cortelenguin.it/product/valpolicella-classico"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «product/valpolicella-ripasso».",
+   "url": "https://www.cortelenguin.it/product/valpolicella-ripasso/",
+   "etichetta": "cortelenguin.it/product/valpolicella-ripasso"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «layouts/header-main».",
+   "url": "https://www.cortelenguin.it/layouts/header-main/",
+   "etichetta": "cortelenguin.it/layouts/header-main"
+  },
+  {
+   "n": 12,
+   "testo": "Scheda «Corte Lenguin di Vantini Silvio» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=15075708047808200067",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 13,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

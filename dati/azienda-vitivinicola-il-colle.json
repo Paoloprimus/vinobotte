@@ -1,0 +1,241 @@
+{
+ "nome": "Azienda Vitivinicola Il Colle",
+ "slug": "azienda-vitivinicola-il-colle",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "IL COLLE 1978 – Azienda Vitivinicola [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Colle, 15, 31020 San Pietro di Feletto (TV) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Colli di Conegliano DOCG», «Colli di Conegliano DOCG Rosso», «Conegliano Valdobbiadene Prosecco Superiore DOCG Brut», «Conegliano Valdobbiadene Prosecco Superiore DOCG Extra Brut», «Conegliano Valdobbiadene Prosecco Superiore DOCG Extra Dry», «Prosecco DOCG Tranquillo», «Prosecco Superiore DOCG Brut», «Prosecco Superiore DOCG Extra Brut Millesimato», «Prosecco Superiore DOCG Extra Dry», «Valdobbiadene Superiore di Cartizze DOCG Dry» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0438486093 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@proseccoilcolle.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.proseccoilcolle.it|proseccoilcolle.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nata dall’iniziativa di Fabio Ceschin, con Gianna; il sito ne fa risalire le radici di famiglia al XVIII secolo. [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valdobbiadene Superiore Cartizze",
+     "denominazione": "Valdobbiadene Superiore di Cartizze DOCG Dry",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Rive di Collalbrigo - Costa",
+     "denominazione": "Conegliano Valdobbiadene Prosecco Superiore DOCG Extra Dry",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Rive di San Pietro di Feletto",
+     "denominazione": "Conegliano Valdobbiadene Prosecco Superiore DOCG Brut",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Rive di Rua di Feletto",
+     "denominazione": "Conegliano Valdobbiadene Prosecco Superiore DOCG Extra Brut",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Colle Baio",
+     "denominazione": "Conegliano Valdobbiadene Prosecco Superiore DOCG Brut",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Masello",
+     "denominazione": "Colli di Conegliano DOCG Rosso",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Refrontolo Passito",
+     "denominazione": "Colli di Conegliano DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Conegliano Valdobbiadene Extra Brut Millesimato",
+     "denominazione": "Prosecco Superiore DOCG Extra Brut Millesimato",
+     "annata": "Millesimato (anno non indicato) [[3]]"
+    },
+    {
+     "nome": "Conegliano Valdobbiadene Brut",
+     "denominazione": "Prosecco Superiore DOCG Brut",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Conegliano Valdobbiadene Extra Dry",
+     "denominazione": "Prosecco Superiore DOCG Extra Dry",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Conegliano Valdobbiadene Tranquillo",
+     "denominazione": "Prosecco DOCG Tranquillo",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "delle Venezie DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Rosé Millesimato",
+     "denominazione": "Prosecco DOC Extra Dry",
+     "annata": "Millesimato (anno non indicato) [[3]]"
+    },
+    {
+     "nome": "Prosecco Brut",
+     "denominazione": "Prosecco DOC Treviso Brut",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Prosecco Extra Dry",
+     "denominazione": "Prosecco DOC Treviso Extra Dry",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Prosecco Frizzante",
+     "denominazione": "Prosecco DOC Treviso Frizzante",
+     "annata": "— [[3]]"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: \"Rive\" extra brut, \"Rive\" brut, \"Rive\" extra dry, brut, dry, extra dry [[1]]"
+    },
+    {
+     "etichetta": "Valdobbiadene Superiore di Cartizze",
+     "valore": "Tipologie indicate: dry [[1]]"
+    },
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco",
+     "valore": "Tipologie indicate: Frizzante, Tranquillo [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/ilcolle1978|ilcolle1978}}\nInstagram {{https://www.instagram.com/prosecco_il_colle/|@prosecco_il_colle}}\nYouTube {{https://www.youtube.com/channel/UCwI2ZNrwi8kiyYOJkPGBwGQ|canale UCwI2ZNrwi8kiyYOJkPGBwGQ}}\nLinkedIn {{https://www.linkedin.com/company/ilcolle1978|ilcolle1978}} [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://proseccoilcolle.it/en/shop|proseccoilcolle.it/en/shop}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2685014492444247533|Mappa}} — valutazione 4,9 su 5 (266 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Produzione e servizi",
+   "righe": [
+    {
+     "etichetta": "Servizi",
+     "valore": "E-commerce; Vendita al dettaglio; Visita e degustazione [[1]]"
+    },
+    {
+     "etichetta": "Produzione",
+     "valore": "Oltre 1 milione di bottiglie [[1]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "Biologico [[1]]"
+    },
+    {
+     "etichetta": "Lingue parlate",
+     "valore": "Inglese, Tedesco [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate tra il 24 e il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/il-colle/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-vitivinicola-il-colle/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «proseccoilcolle.it/en/wines/boubbles-collection», consultata il 25 ottobre 2026.",
+   "url": "https://proseccoilcolle.it/en/wines/boubbles-collection",
+   "etichetta": "proseccoilcolle.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.proseccoilcolle.it",
+   "etichetta": "proseccoilcolle.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Prosecco Il Colle 1978» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2685014492444247533",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

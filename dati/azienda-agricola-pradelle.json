@@ -1,0 +1,100 @@
+{
+ "nome": "Azienda Agricola Pradelle",
+ "slug": "azienda-agricola-pradelle",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fratelli Mozzetti, 50, 31028 Vazzola (TV) [[1]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini indicati solo come DOC/DOCG, assegnati a questa sezione dal nome del vino [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0438740051 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@pradelle.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.pradelle.it|pradelle.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Prosecco Doc Extra Dry",
+     "denominazione": "DOC (denominazione completa non precisata dal sito)",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Prosecco Doc Brut",
+     "denominazione": "DOC (denominazione completa non precisata dal sito)",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=17669518527123645101|Mappa}} — valutazione 4,5 su 5 (102 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-pradelle/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «pradelle.it/prodotti», consultata il 25 ottobre 2026.",
+   "url": "https://www.pradelle.it/prodotti/",
+   "etichetta": "pradelle.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Pradelle Giovanni - Azienda Vinicola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=17669518527123645101",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

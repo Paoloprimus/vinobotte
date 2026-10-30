@@ -1,0 +1,322 @@
+{
+ "nome": "Begali",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Begali Lorenzo [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03216340236 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Cengia 10, Località Cengia, 37029 San Pietro in Cariano (VR)[[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Amarone della Valpolicella DOCG classico», «Amarone della Valpolicella DOCG classico Riserva», «Recioto della Valpolicella DOCG classico», «Valpolicella DOC Classico», «Valpolicella DOC classico superiore», «Valpolicella Ripasso DOC classico» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7725148 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@begaliwine.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.begaliwine.it/|www.begaliwine.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Azienda a conduzione familiare, giunta alla terza generazione[[1]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Nata verso la fine della seconda guerra mondiale; le prime bottiglie con marchio proprio sono state vendute nel 1986[[1]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "Nel borgo di Cengia, nella Valpolicella Classica, alle pendici della collina di Castelrotto (San Pietro in Cariano)[[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "Circa 12 ettari, tra collina e zona pedemontana: Cengia, Cà Bianca e Matton (San Pietro in Cariano) e Masua (Negrar)[[4]]"
+    },
+    {
+     "etichetta": "Terreni",
+     "valore": "Limosi e argillosi[[5]]"
+    },
+    {
+     "etichetta": "Cantina e fruttaio",
+     "valore": "Cantina a Cengia, 14–16 °C; fruttaio con ventilazione naturale e appassimento naturale[[6]]"
+    },
+    {
+     "etichetta": "Conduzione",
+     "valore": "Certificazione SQNPI (Sistema di Qualità Nazionale Produzione Integrata) dichiarata sul sito; numero di iscrizione non indicato[[2]][[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Valpolicella DOC Classico, Ripasso e Superiore; Amarone e Recioto DOCG Classico; Rosso Veronese IGT[[7]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Grappa di Amarone, olio extravergine d’oliva[[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette come indicate sul sito della cantina, che non riporta le annate in vendita.[[7]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "La Cengia",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Siora",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Amarone della Valpolicella Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Monte Cà Bianca",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Recioto della Valpolicella Classico",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella DOC Classico",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "La Cengia",
+     "denominazione": "Valpolicella Ripasso DOC classico",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Siora",
+     "denominazione": "Valpolicella DOC classico superiore",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella Classico",
+     "denominazione": "Amarone della Valpolicella DOCG classico",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Monte Cà Bianca",
+     "denominazione": "Amarone della Valpolicella DOCG classico Riserva",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Recioto della Valpolicella Classico",
+     "denominazione": "Recioto della Valpolicella DOCG classico",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti dichiarati dalla cantina",
+   "nota": "Riconoscimenti dichiarati dalla cantina sul proprio sito.",
+   "righe": [
+    {
+     "etichetta": "Gambero Rosso",
+     "valore": "«22 volte 3 Bicchieri»; ultima voce elencata: Amarone della Valpolicella DOCG Classico 2022[[8]]"
+    },
+    {
+     "etichetta": "AIS Vitae",
+     "valore": "4 viti; ultima voce elencata: Amarone della Valpolicella DOCG Classico Riserva Monte Cà Bianca 2017[[8]]"
+    },
+    {
+     "etichetta": "Wine Enthusiast",
+     "valore": "Oltre 90/100: Amarone della Valpolicella DOCG Classico Riserva Monte Cà Bianca 2019[[8]]"
+    },
+    {
+     "etichetta": "Slow Food",
+     "valore": "Chiocciola, edizioni 2011 e 2012[[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari di apertura",
+     "valore": "Lunedì–venerdì 9–12 e 14–18; sabato 9–12 e 14–16; chiuso domenica e festivi[[2]]"
+    },
+    {
+     "etichetta": "Prenotazione",
+     "valore": "Scrivendo a info@begaliwine.it[[9]]"
+    },
+    {
+     "etichetta": "Degustazione in cantina",
+     "valore": "30 minuti, 20 € a persona (minimo 2 persone): 7 vini con taralli e acqua\nTagliere di soppressa e formaggio locale con bruschette: +15 € (solo su prenotazione, lunedì–venerdì 9–12)[[10]]"
+    },
+    {
+     "etichetta": "Visita guidata",
+     "valore": "1 ora, 35 € a persona (minimo 2 persone), dal lunedì al venerdì dalle 9 alle 12 su prenotazione: vigneto intorno alla cantina, vasche di fermentazione, fruttaio, bottaia e degustazione dei 7 vini\nTagliere: +15 €. In caso di maltempo non si visita il vigneto.[[11]]"
+    },
+    {
+     "etichetta": "Lingue",
+     "valore": "Italiano e inglese[[11]]"
+    },
+    {
+     "etichetta": "Servizi",
+     "valore": "Animali ammessi, carte di credito, parcheggio, vendita di vino, wi-fi[[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "begaliwine.it, in italiano e inglese, con una pagina per ogni vino, per le visite e per le recensioni Google[[1]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Il sito rimanda ai profili Instagram e Facebook dell’azienda[[2]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Il sito non mostra un negozio online[[1]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=15096035279164846357|Mappa}} — valutazione 4,8 su 5 (59 recensioni) [[12]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[13]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate tra il 24 e il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.begaliwine.it/",
+   "etichetta": "begaliwine.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «Contatti».",
+   "url": "https://www.begaliwine.it/contatti/",
+   "etichetta": "begaliwine.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «begaliwine.it/vini», consultata il 25 ottobre 2026.",
+   "url": "https://www.begaliwine.it/vini/",
+   "etichetta": "begaliwine.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina sui vigneti.",
+   "url": "https://www.begaliwine.it/gallery/",
+   "etichetta": "begaliwine.it/gallery"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, scheda del Valpolicella Ripasso «La Cengia».",
+   "url": "https://www.begaliwine.it/ripasso/",
+   "etichetta": "begaliwine.it/ripasso"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «Cantina e fruttaio».",
+   "url": "https://www.begaliwine.it/cantina/",
+   "etichetta": "begaliwine.it/cantina"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina dei vini (inglese).",
+   "url": "https://www.begaliwine.it/en/wines/",
+   "etichetta": "begaliwine.it/en/wines"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «Cosa dicono di noi» (premi).",
+   "url": "https://www.begaliwine.it/cosadiconodinoi/",
+   "etichetta": "begaliwine.it/cosadiconodinoi"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «Visite e degustazioni».",
+   "url": "https://www.begaliwine.it/visite-degustazioni/",
+   "etichetta": "begaliwine.it/visite-degustazioni"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «Degustazione in cantina».",
+   "url": "https://www.begaliwine.it/degustazioni/",
+   "etichetta": "begaliwine.it/degustazioni"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «Scopri la nostra cantina».",
+   "url": "https://www.begaliwine.it/la-nostra-cantina/",
+   "etichetta": "begaliwine.it/la-nostra-cantina"
+  },
+  {
+   "n": 12,
+   "testo": "Scheda «Azienda Agricola Begali Lorenzo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=15096035279164846357",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 13,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 14,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/vini-begali/",
+   "etichetta": "bereilvino.it"
+  }
+ ],
+ "slug": "begali"
+}

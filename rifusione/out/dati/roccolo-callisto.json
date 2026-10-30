@@ -1,0 +1,191 @@
+{
+ "nome": "Roccolo Callisto",
+ "slug": "roccolo-callisto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Roccolo Callisto di Zaccaria Patrizia (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02804850234 [[13]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Strada dei Monti 17, 37124 Verona [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 328 9059667 · office@roccolocallisto.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.roccolocallisto.it/|www.roccolocallisto.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Tenuta",
+     "valore": "23 ettari, di cui 11 a vigneto tra Valpolicella (Parona) e Valpantena (Vendri); la cantina nasce negli anni Settanta; nel 2015 ampliata con 9 ettari (5,5 a vigneto) a Vendri [[3]]"
+    },
+    {
+     "etichetta": "Metodo",
+     "valore": "Vini biologici, tutela della biodiversità [[4]] [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Annate non indicate nelle schede vino. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Pagina “Premi” (2020–2023): Mundus Vini Spring Tasting 2023 (Amarone 2016 medaglia d’oro, Ripasso 2017 oro, Superiore 2020 argento), Falstaff Valpolicella Trophy 2022 (Valpolicella 2021: 92; Ripasso 2017: 91; Superiore 2020: 91), Guida Bio – Certificato di Eccellenza, Decanter World Wine Awards 2022, Merum, Top 100 Guida ai Vini di Verona 2023; dichiarati dalla cantina, non verificati da VinoBot sulle guide [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Visita alla tenuta e degustazione su prenotazione via email o WhatsApp [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "roccolocallisto.it, in italiano e inglese [[10]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://roccolocallisto.it/contatti/",
+   "etichetta": "roccolocallisto.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «tenuta».",
+   "url": "https://roccolocallisto.it/tenuta/",
+   "etichetta": "roccolocallisto.it/tenuta"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «filosofia».",
+   "url": "https://roccolocallisto.it/filosofia/",
+   "etichetta": "roccolocallisto.it/filosofia"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://roccolocallisto.it/vini/",
+   "etichetta": "roccolocallisto.it/vini"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «vini/amarone-della-valpolicella».",
+   "url": "https://roccolocallisto.it/vini/amarone-della-valpolicella/",
+   "etichetta": "roccolocallisto.it/vini/amarone-della-valpolicella"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «vini/valpolicella-ripasso».",
+   "url": "https://roccolocallisto.it/vini/valpolicella-ripasso/",
+   "etichetta": "roccolocallisto.it/vini/valpolicella-ripasso"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «vini/valpolicella-superiore».",
+   "url": "https://roccolocallisto.it/vini/valpolicella-superiore/",
+   "etichetta": "roccolocallisto.it/vini/valpolicella-superiore"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «vini/valpolicella».",
+   "url": "https://roccolocallisto.it/vini/valpolicella/",
+   "etichetta": "roccolocallisto.it/vini/valpolicella"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «vini/custode-eng».",
+   "url": "https://roccolocallisto.it/vini/custode-eng/",
+   "etichetta": "roccolocallisto.it/vini/custode-eng"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «premi».",
+   "url": "https://roccolocallisto.it/premi/",
+   "etichetta": "roccolocallisto.it/premi"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://roccolocallisto.it/",
+   "etichetta": "roccolocallisto.it"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, consultato il 25 ottobre 2026, pagina «roccolocallisto.it» (verifica incrociata).",
+   "url": "https://www.roccolocallisto.it/",
+   "etichetta": "roccolocallisto.it"
+  }
+ ]
+}

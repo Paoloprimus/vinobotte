@@ -1,0 +1,127 @@
+{
+ "nome": "Inama",
+ "slug": "inama",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agr. eredi di Inama Giuseppe S.S [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Biacche 50, 37047 San Bonifacio (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "045 6104343 [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "inama@inama.wine [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.inama.wine|inama.wine}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Ragione sociale Soc. Agricola eredi di Inama Giuseppe S.S., località Biacche, San Bonifacio; il sito ha una sezione sulla famiglia, non letta; anno di fondazione non indicato [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito riporta la denominazione solo per Vin Soave; tra i vini compaiono anche Foscarino e Carbonare, ma la denominazione non è scritta nel testo letto. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Vin Soave",
+     "denominazione": "Soave",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Inamawine|Inamawine}}\nInstagram {{https://www.instagram.com/inama_wine/|@inama_wine}} [[2]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://inama.wine/shop/|inama.wine/shop}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12629370506301153393|Mappa}} — valutazione 4,7 su 5 (78 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/inama/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.inama.wine",
+   "etichetta": "inama.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «inama.wine», consultata il 24 ottobre 2026.",
+   "url": "https://www.inama.wine",
+   "etichetta": "inama.wine"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «inama.wine/shop/le-bottiglie/vin-soave», consultata il 24 ottobre 2026.",
+   "url": "https://inama.wine/shop/le-bottiglie/vin-soave/",
+   "etichetta": "inama.wine"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Inama Azienda Agricola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12629370506301153393",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

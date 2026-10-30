@@ -1,0 +1,169 @@
+{
+ "nome": "Ernesto Ruffo",
+ "slug": "ernesto-ruffo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Ernesto Ruffo Vino Società Semplice [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04047210234 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Crociata 17, San Briccio di Lavagno (VR) [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ruffovini.com [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ruffovini.com/|www.ruffovini.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "La famiglia Ruffo vive a San Briccio dal 1627; “Artigiani del Vino” Ernesto e Leonardo [[2]] [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal sito, senza annata. [[2]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Campogadis",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "The Wine Hunter Award: Amarone 2012 e Basaltico 2017 oro 2022\nThe Wine Hunter Award: Amarone 2010 platino 2020\nThe Wine Hunter Award: Valpolicella Superiore 2014 e 2013 oro [[4]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Decanter UK Wine Style Awards 2018: Superiore 2013, 96 punti [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Visite e acquisti su prenotazione [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "ruffovini.com in italiano e inglese [[7]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/amarone_ernesto_ruffo/|@amarone_ernesto_ruffo}}\nYouTube {{https://www.youtube.com/channel/UCnFisBimrK2aIE-hnY70kCA|canale UCnFisBimrK2aIE-hnY70kCA}} [[8]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=12687413725669370572|Mappa}} — valutazione 4,7 su 5 (15 recensioni) [[9]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[10]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.ruffovini.com/",
+   "etichetta": "ruffovini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «contact».",
+   "url": "http://www.ruffovini.com/contact/",
+   "etichetta": "ruffovini.com/contact"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «gli-artigiani-del-vino».",
+   "url": "http://www.ruffovini.com/gli-artigiani-del-vino/",
+   "etichetta": "ruffovini.com/gli-artigiani-del-vino"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «lamarone-della-valpolicella».",
+   "url": "http://www.ruffovini.com/lamarone-della-valpolicella/",
+   "etichetta": "ruffovini.com/lamarone-della-valpolicella"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «il-valpolicella-superiore».",
+   "url": "http://www.ruffovini.com/il-valpolicella-superiore/",
+   "etichetta": "ruffovini.com/il-valpolicella-superiore"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «?lang=en».",
+   "url": "http://www.ruffovini.com/?lang=en",
+   "etichetta": "ruffovini.com/?lang=en"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.ruffovini.com/",
+   "etichetta": "ruffovini.com"
+  },
+  {
+   "n": 9,
+   "testo": "Scheda «Ernesto Ruffo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=12687413725669370572",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 10,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

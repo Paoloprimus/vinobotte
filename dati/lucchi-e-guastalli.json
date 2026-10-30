@@ -1,0 +1,54 @@
+{
+ "nome": "Lucchi e Guastalli",
+ "slug": "lucchi-e-guastalli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Lucchi e Guastalli S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01136750112 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Vincinella 13/6, 19037 Santo Stefano di Magra, SP [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://lucchieguastalli.com/|lucchieguastalli.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colli di Luni Vermentino DOC, Colli di Luni Rosso DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://lucchieguastalli.com/",
+   "etichetta": "lucchieguastalli.com"
+  }
+ ]
+}

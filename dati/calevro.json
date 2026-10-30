@@ -1,0 +1,68 @@
+{
+ "nome": "Calevro",
+ "slug": "calevro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Calevro di Bondielli Fabrizio [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01063640450 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Aurelia Ovest 158, 54100 Massa, MS [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "aziendacalevro@yahoo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://vinicalevro.it/|vinicalevro.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Candia dei Colli Apuani [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Vermentino DOC, Rosso DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://vinicalevro.it/",
+   "etichetta": "vinicalevro.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende associate al Consorzio di Tutela del Candia dei Colli Apuani, consultato il 30 ottobre 2026.",
+   "url": "https://candiadeicolliapuani.it/the-winery/",
+   "etichetta": "candiadeicolliapuani.it"
+  }
+ ]
+}

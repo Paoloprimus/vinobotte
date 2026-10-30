@@ -1,0 +1,140 @@
+{
+ "nome": "Provolo",
+ "slug": "provolo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Provolo Soc. Agr. Semplice di Provolo Marco & C. (come da elenco del Consorzio) [[1]]; P.IVA 02168100234 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via San Cassiano 7, 37030 Mezzane di Sotto (VR) [[3]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 8880106 · info@viniprovolo.com · shop@viniprovolo.com; aperto mar–sab 8–12 e 14–18 [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.viniprovolo.com/|www.viniprovolo.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Dal 1927, quattro generazioni, Valle di Mezzane [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Metodo",
+     "valore": "Vini biologici [[4]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olivi e olio [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito nomina Amarone, Ripasso, Soave e altri vini biologici, ma le singole etichette sono nel negozio e non sono salvate. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "2017 [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Un articolo del blog cita per l’Amarone 2017 la Grand Gold Medal e il premio “Best of Show” al Mundus Vini Summer Tasting 2025; dichiarato dalla cantina, non verificato da VinoBot [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Visite e degustazioni prenotabili dal negozio [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "viniprovolo.com con negozio online (spedizione gratuita sopra 99 €, ordini solo per l’Italia dal sito) [[4]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Negozio sul sito; altri marketplace: presenza non verificata [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «termini-e-condizioni-di-vendita».",
+   "url": "https://www.viniprovolo.com/termini-e-condizioni-di-vendita/",
+   "etichetta": "viniprovolo.com/termini-e-condizioni-di-vendita"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.viniprovolo.com/",
+   "etichetta": "viniprovolo.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «shop».",
+   "url": "https://www.viniprovolo.com/shop/",
+   "etichetta": "viniprovolo.com/shop"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «il-terroir-dei-vini-provolo».",
+   "url": "https://www.viniprovolo.com/il-terroir-dei-vini-provolo/",
+   "etichetta": "viniprovolo.com/il-terroir-dei-vini-provolo"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «shop/blog.html».",
+   "url": "https://www.viniprovolo.com/shop/blog.html",
+   "etichetta": "viniprovolo.com/shop/blog.html"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «shop/degustazioni.html».",
+   "url": "https://www.viniprovolo.com/shop/degustazioni.html",
+   "etichetta": "viniprovolo.com/shop/degustazioni.html"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "nome": "Abbazia di San Gaudenzio",
+ "slug": "abbazia-di-san-gaudenzio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Casa Vinicola Abbazia di San Gaudenzio s.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03159210040 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Abbazia 6, 12058 Santo Stefano Belbo (CN) [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0 141840808 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "italia@abbazia.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.abbazia.it/|www.abbazia.it}} — non raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito indica la famiglia Santero come proprietaria e gestore della cantina (sezione «La Famiglia») [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Prosecco DOC",
+     "valore": "Il sito elenca linee (Fortuna, Atmosphere, Zoë, Panorama) e cita Moscato, Asti e Prosecco senza indicare le denominazioni [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Punteggi",
+     "valore": "Decanter DWWA: 88 e 91 punti\nWine Enthusiast: 86 punti al Contessa Chiara Prosecco [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cantinaabbazia|cantinaabbazia}}\nInstagram {{https://www.instagram.com/cantinaabbazia/|@cantinaabbazia}}\nYouTube {{https://www.youtube.com/channel/UCjaoNT5ZW2YFfZWwjS7BxXw|canale UCjaoNT5ZW2YFfZWwjS7BxXw}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=5034765622454914106|Mappa}} — valutazione 4,7 su 5 (51 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «abbazia.it», consultata il 24 ottobre 2026.",
+   "url": "https://www.abbazia.it/",
+   "etichetta": "abbazia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.abbazia.it/",
+   "etichetta": "abbazia.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Abbazia di S. Gaudenzio» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=5034765622454914106",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

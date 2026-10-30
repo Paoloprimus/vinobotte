@@ -1,0 +1,135 @@
+{
+ "nome": "Grotta del Ninfeo",
+ "slug": "grotta-del-ninfeo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Grotta del Ninfeo s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04997560232 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Boschetto 6, 37030 San Pietro di Lavagno (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 8980154 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@grottadelninfeo.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.grottadelninfeo.com/|www.grottadelninfeo.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Fraccaroli; nel 2002 Tiziano amplia la produzione ai grandi rossi della Valpolicella; oggi Luca e Alice [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Etichette Grotta del Ninfeo e Villa Verità, ciascuna da un singolo vigneto; Val d’Illasi [[4]] [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Pagina “I vini premiati”: Valpolicella DOC, Valpolicella Superiore DOC, Amarone della Valpolicella DOCG e Ripasso Superiore premiati dalle guide di settore, con certificati in galleria [[5]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Guide e punteggi non indicati nel testo [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "grottadelninfeo.com con sezione press & news [[7]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nVivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.grottadelninfeo.com/contatti/",
+   "etichetta": "grottadelninfeo.com/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «la-famiglia».",
+   "url": "https://www.grottadelninfeo.com/la-famiglia/",
+   "etichetta": "grottadelninfeo.com/la-famiglia"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «territorio-e-vigneti».",
+   "url": "https://www.grottadelninfeo.com/territorio-e-vigneti/",
+   "etichetta": "grottadelninfeo.com/territorio-e-vigneti"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «press-and-news/i-vini-premiati-di-grotta-del-ninfeo».",
+   "url": "https://www.grottadelninfeo.com/press-and-news/i-vini-premiati-di-grotta-del-ninfeo/",
+   "etichetta": "grottadelninfeo.com/press-and-news/i-vini-premiati-di-grotta-del-ninfeo"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «ninfeo».",
+   "url": "https://www.grottadelninfeo.com/ninfeo/",
+   "etichetta": "grottadelninfeo.com/ninfeo"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «press-and-news».",
+   "url": "https://www.grottadelninfeo.com/press-and-news/",
+   "etichetta": "grottadelninfeo.com/press-and-news"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "nome": "La Cappuccina",
+ "slug": "la-cappuccina-soave",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Capuccina Società Agricola Semplice [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via S. Brizio 125, 37032 Costalunga di Monteforte d'Alpone (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 6175036 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.lacappuccina.it|lacappuccina.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Tenuta della famiglia Tessari (Elena, Sisto e Pietro) tra le colline del Soave, con oltre 42 ettari di vigneto; ragione sociale La Cappuccina Società Agricola s.s.; anno di fondazione non indicato [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Soave e Recioto di Soave, con la denominazione come scritta nel sito; la cantina produce anche vini IGT e spumanti. Il sito non riporta le annate nell’elenco. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Monte Stelle",
+     "denominazione": "Soave DOC Classico",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "San Brizio",
+     "denominazione": "Soave DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Fontègo",
+     "denominazione": "Soave DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Soave",
+     "denominazione": "Soave DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Gelso 300 anni",
+     "denominazione": "Soave DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Arzimo",
+     "denominazione": "Recioto di Soave DOCG",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel testo letto; il sito ha una pagina «premi» non letta [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/la-capuccina-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «lacappuccina.it».",
+   "url": "http://www.lacappuccina.it",
+   "etichetta": "lacappuccina.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «lacappuccina.it/vini».",
+   "url": "https://lacappuccina.it/vini/",
+   "etichetta": "lacappuccina.it"
+  }
+ ]
+}

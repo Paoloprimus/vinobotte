@@ -1,0 +1,231 @@
+{
+ "nome": "Santa Sofia",
+ "slug": "santa-sofia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Santa Sofia S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Cà Dedè 61, Pedemonte, 37020 San Pietro in Cariano (VR) [[2]]; il sito indica Via Ca’ Dedè [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7701074 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@santasofia.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.santasofia.com/|www.santasofia.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vini Valpolicella [[2]]\nConsorzio Tutela Vini DOC Delle Venezie [[3]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via Ca’ Dede’ 61 Fraz. Pedemonte di Valpolicella 37029 San Pietro in Cariano (Verona) – Italia; tel. 045 7701074; info@santasofia.com; antichello.it [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Villa Santa Sofia (Palladio, 1565) legata alla produzione di vino dal 1811; famiglia Begnoni (Giancarlo e Luciano) da circa 50 anni [[4]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Tenuta Briago in Valpantena (45 ettari) e Montegradella in Valpolicella Classica (24 ettari); in parte uve di conferitori storici [[5]] [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche Soave, Bardolino, Lugana, Custoza, Pinot Grigio e altri. [[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Gioè",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2016 [[6]]"
+    },
+    {
+     "nome": "Amarone Classico Riserva",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "2017 [[7]]"
+    },
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Montegradella",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[12]]"
+    },
+    {
+     "nome": "Pinot Grigio Antichello",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Wine tour di circa 2 ore nelle cantine storiche (€ 10) con degustazioni a scelta da € 12 a € 30 [[13]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Punteggi e medaglie per annata (tra cui Wine Enthusiast, Falstaff, Decanter, Mundus Vini, Vinibuoni d’Italia), in gran parte su vini non Valpolicella; non riportati qui singolarmente [[14]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/SantaSofiaWines|SantaSofiaWines}}\nInstagram {{https://www.instagram.com/santa_sofiawines/|@santa_sofiawines}} [[15]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[16]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://www.santasofia.com/it/contatti",
+   "etichetta": "santasofia.com/it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/azienda».",
+   "url": "https://www.santasofia.com/it/azienda",
+   "etichetta": "santasofia.com/it/azienda"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/uve-e-vigneti».",
+   "url": "https://www.santasofia.com/it/uve-e-vigneti",
+   "etichetta": "santasofia.com/it/uve-e-vigneti"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini».",
+   "url": "https://www.santasofia.com/it/vini",
+   "etichetta": "santasofia.com/it/vini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella/amarone-valpolicella-docg-clas/amarone-valpolicella-docg-classico-riserva-2017».",
+   "url": "https://www.santasofia.com/it/vini/valpolicella/amarone-valpolicella-docg-clas/amarone-valpolicella-docg-classico-riserva-2017",
+   "etichetta": "santasofia.com/it/vini/valpolicella/amarone-valpolicella-docg-clas/amarone-valpolicella-docg-classico-riserva-2017"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella/amarone-della-valpolicella-doc».",
+   "url": "https://www.santasofia.com/it/vini/valpolicella/amarone-della-valpolicella-doc",
+   "etichetta": "santasofia.com/it/vini/valpolicella/amarone-della-valpolicella-doc"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella/recioto-della-valpolicella-doc».",
+   "url": "https://www.santasofia.com/it/vini/valpolicella/recioto-della-valpolicella-doc",
+   "etichetta": "santasofia.com/it/vini/valpolicella/recioto-della-valpolicella-doc"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella/montegradella-valpolicella-doc».",
+   "url": "https://www.santasofia.com/it/vini/valpolicella/montegradella-valpolicella-doc",
+   "etichetta": "santasofia.com/it/vini/valpolicella/montegradella-valpolicella-doc"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella/valpolicella-ripasso-doc-super».",
+   "url": "https://www.santasofia.com/it/vini/valpolicella/valpolicella-ripasso-doc-super",
+   "etichetta": "santasofia.com/it/vini/valpolicella/valpolicella-ripasso-doc-super"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/i-veronesi/valpolicella-doc-classico».",
+   "url": "https://www.santasofia.com/it/vini/i-veronesi/valpolicella-doc-classico",
+   "etichetta": "santasofia.com/it/vini/i-veronesi/valpolicella-doc-classico"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «it/ospitalita».",
+   "url": "https://www.santasofia.com/it/ospitalita",
+   "etichetta": "santasofia.com/it/ospitalita"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «it/premi».",
+   "url": "https://www.santasofia.com/it/premi",
+   "etichetta": "santasofia.com/it/premi"
+  },
+  {
+   "n": 15,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.santasofia.com/",
+   "etichetta": "santasofia.com"
+  },
+  {
+   "n": 16,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "nome": "Fattoria Bacìo",
+ "slug": "fattoria-bacio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04591840485 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via del Pino, 703, 50052 Certaldo [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 335 5613450 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fattoriabacio.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fattoriabacio.com/|fattoriabacio.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Chianti [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2154780220505395107|Mappa}} — valutazione 4,3 su 5 (144 recensioni) [[2]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://www.fattoriabacio.com/",
+   "etichetta": "fattoriabacio.com"
+  },
+  {
+   "n": 2,
+   "testo": "Scheda «Agriturismo Bio Fattoria Bacio - Villa nel Chianti con Piscina» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2154780220505395107",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

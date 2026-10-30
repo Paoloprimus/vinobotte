@@ -1,0 +1,193 @@
+{
+ "nome": "Corte Merci",
+ "slug": "corte-merci",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Vitivinicola Corte Merci (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03020320234 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Jago di Sopra 5, 37024 Negrar di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 750 1046 [[2]] · info@cortemerci.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortemerci.com/|www.cortemerci.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "A Jago di Negrar dal 1957, quattro generazioni; famiglia Merci (Nicola, Marco, Francesco, Carla Speri) [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Colline di Jago tra 300 e 500 m; impianti di oltre 60 anni [[3]]"
+    },
+    {
+     "etichetta": "Agriturismo",
+     "valore": "Tra i primi di Verona, dai primi anni ’90, cucina veneta e veronese [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Capel del Prete",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "La Buseta",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "La Doga",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Sontar",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "La Ria",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Terra Vegra",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Agriturismo",
+     "valore": "Agriturismo Corte Merci con cucina tipica veronese [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortemerci.com [[3]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti.html».",
+   "url": "https://www.cortemerci.com/contatti.html",
+   "etichetta": "cortemerci.com/contatti.html"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.cortemerci.com/",
+   "etichetta": "cortemerci.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «agriturismo.html».",
+   "url": "https://www.cortemerci.com/agriturismo.html",
+   "etichetta": "cortemerci.com/agriturismo.html"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini.html».",
+   "url": "https://www.cortemerci.com/i-nostri-vini.html",
+   "etichetta": "cortemerci.com/i-nostri-vini.html"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini/amarone-della-valpolicella-classico-docg.html».",
+   "url": "https://www.cortemerci.com/i-nostri-vini/amarone-della-valpolicella-classico-docg.html",
+   "etichetta": "cortemerci.com/i-nostri-vini/amarone-della-valpolicella-classico-docg.html"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini/recioto-della-valpolicella-classico-docg.html».",
+   "url": "https://www.cortemerci.com/i-nostri-vini/recioto-della-valpolicella-classico-docg.html",
+   "etichetta": "cortemerci.com/i-nostri-vini/recioto-della-valpolicella-classico-docg.html"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini/recioto-della-valpolicella-classico-docg-2.html».",
+   "url": "https://www.cortemerci.com/i-nostri-vini/recioto-della-valpolicella-classico-docg-2.html",
+   "etichetta": "cortemerci.com/i-nostri-vini/recioto-della-valpolicella-classico-docg-2.html"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini/valpolicella-classico-superiore-ripasso-doc.html».",
+   "url": "https://www.cortemerci.com/i-nostri-vini/valpolicella-classico-superiore-ripasso-doc.html",
+   "etichetta": "cortemerci.com/i-nostri-vini/valpolicella-classico-superiore-ripasso-doc.html"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini/valpolicella-classico-superiore-doc.html».",
+   "url": "https://www.cortemerci.com/i-nostri-vini/valpolicella-classico-superiore-doc.html",
+   "etichetta": "cortemerci.com/i-nostri-vini/valpolicella-classico-superiore-doc.html"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini/valpolicella-classico-doc.html».",
+   "url": "https://www.cortemerci.com/i-nostri-vini/valpolicella-classico-doc.html",
+   "etichetta": "cortemerci.com/i-nostri-vini/valpolicella-classico-doc.html"
+  }
+ ]
+}

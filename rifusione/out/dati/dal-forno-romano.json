@@ -1,0 +1,121 @@
+{
+ "nome": "Dal Forno Romano",
+ "slug": "dal-forno-romano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Dal Forno Romano di Dal Forno Marco (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località Lodoletta 1, 37031 Cellore d’Illasi (VR) [[1]]; sul sito: Loc. Lodoletta 1, 37031 Illasi [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7834923 · info@dalfornoromano.it [[2]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "05145060231 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.dalfornoromano.it/|www.dalfornoromano.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata nel 1983 da Romano Dal Forno, oggi guidata dal figlio Marco; cantina costruita nel 1990; prima annata di Amarone e Valpolicella: vendemmia 1983 [[3]]"
+    },
+    {
+     "etichetta": "Zona",
+     "valore": "Val d’Illasi, versante est della denominazione; suoli alluvionali di ghiaia, limo, argilla e fossili [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "34 ettari, di cui 18 di proprietà, tra 280 e 350 m s.l.m.; Corvina, Corvinone, Croatina, Rondinella e Oseleta; quasi 13.000 piante per ettaro [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non elenca le singole etichette né le annate; indica la produzione di Amarone, Valpolicella e Recioto. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Il sito parla di “più alti riconoscimenti” senza citare premi o punteggi [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "dalfornoromano.it, in italiano e inglese, con brochure [[3]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://dalfornoromano.it/",
+   "etichetta": "dalfornoromano.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/brochure».",
+   "url": "https://dalfornoromano.it/it/brochure/",
+   "etichetta": "dalfornoromano.it/it/brochure"
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "nome": "Contrámalini",
+ "slug": "contramalini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Tezza Fabio [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "IT02017280237 [[10]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Ravazzol 10, 37020 Marano di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 6838177 · cell. +39 333 7686020 · info@contramalini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://contramalini.it/|contramalini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata nel 1954; nuova cantina avviata nel 1998 e inaugurata cinque anni dopo; oggi guidata da Fabio Tezza (terza generazione) con la moglie Chiara [[3]]"
+    },
+    {
+     "etichetta": "Cantina",
+     "valore": "Usa pannelli solari per le operazioni di cantina [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Linee “I Classici” e “Piere del Baldo”; il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Valpolicella Classico Superiore",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Vendita diretta; visite e degustazioni su appuntamento; orari 8–20 lun–ven, 8–18 sabato su appuntamento [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "contramalini.it, con blog [[10]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatto».",
+   "url": "https://contramalini.it/contatto",
+   "etichetta": "contramalini.it/contatto"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://contramalini.it/azienda",
+   "etichetta": "contramalini.it/azienda"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://contramalini.it/vini",
+   "etichetta": "contramalini.it/vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classico».",
+   "url": "https://contramalini.it/valpolicella-classico",
+   "etichetta": "contramalini.it/valpolicella-classico"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classico-superiore».",
+   "url": "https://contramalini.it/valpolicella-classico-superiore",
+   "etichetta": "contramalini.it/valpolicella-classico-superiore"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-ripasso-classico».",
+   "url": "https://contramalini.it/valpolicella-ripasso-classico",
+   "etichetta": "contramalini.it/valpolicella-ripasso-classico"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-valpolicella-classico».",
+   "url": "https://contramalini.it/amarone-valpolicella-classico",
+   "etichetta": "contramalini.it/amarone-valpolicella-classico"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «recioto-valpolicella-classico».",
+   "url": "https://contramalini.it/recioto-valpolicella-classico",
+   "etichetta": "contramalini.it/recioto-valpolicella-classico"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://contramalini.it/",
+   "etichetta": "contramalini.it"
+  }
+ ]
+}

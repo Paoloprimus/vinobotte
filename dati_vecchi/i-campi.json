@@ -1,0 +1,198 @@
+{
+ "nome": "I Campi",
+ "slug": "i-campi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola I Campi di Flavio Prà (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "IT03617030238 [[10]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via delle Pezzole 3, località Allodola, 37031 Cellore d’Illasi (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 6175915 · info@icampi.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.icampi.it/|www.icampi.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Flavio Prà, quarta generazione di famiglia, con la figlia Gloria; vigneti d’alta collina a circa 400 m s.l.m. [[3]]"
+    },
+    {
+     "etichetta": "Cantina",
+     "valore": "A Illasi, a 250–280 m, in pietra e legno [[3]] [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dalle pagine vini; il sito non riporta le annate nell’elenco. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Campo delle Rocce",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Campo Ciotoli",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Campi Lunghi",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Campo Marna Cinquecento",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Campo Vulcano",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Campo Base",
+     "denominazione": "Soave DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Campo delle Pietre",
+     "denominazione": "Pinot Grigio delle Venezie DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Campo Argilla",
+     "denominazione": "Lugana DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Bollicine",
+     "denominazione": "Lessini Durello DOC",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Tra gli altri: Soave Classico Campo Vulcano, 94/100 James Suckling (annata 2023) e Tre Bicchieri Gambero Rosso (annata 2022 e 2019); Soave Campo Base fino a 92/100 Suckling; Valpolicella Superiore Campo delle Rocce 91/100 (annata 2023); dichiarati dalla cantina, non verificati da VinoBot sulle guide [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Cantina e degustazioni; apertura lunedì–venerdì 9:00–12:30 e 14:00–17:30 [[4]] [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "icampi.it in italiano, inglese e tedesco, con blog [[9]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/icampi/contatti».",
+   "url": "https://www.icampi.it/it/icampi/contatti",
+   "etichetta": "icampi.it/it/icampi/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it».",
+   "url": "https://www.icampi.it/it",
+   "etichetta": "icampi.it/it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/icampi/cantina-e-degustazioni».",
+   "url": "https://www.icampi.it/it/icampi/cantina-e-degustazioni",
+   "etichetta": "icampi.it/it/icampi/cantina-e-degustazioni"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/icampi/vini-rossi».",
+   "url": "https://www.icampi.it/it/icampi/vini-rossi",
+   "etichetta": "icampi.it/it/icampi/vini-rossi"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/icampi/vini-bianchi».",
+   "url": "https://www.icampi.it/it/icampi/vini-bianchi",
+   "etichetta": "icampi.it/it/icampi/vini-bianchi"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/icampi/premi-awards».",
+   "url": "https://www.icampi.it/it/icampi/premi-awards",
+   "etichetta": "icampi.it/it/icampi/premi-awards"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/icampi/bollicine-durello-doc».",
+   "url": "https://www.icampi.it/it/icampi/bollicine-durello-doc",
+   "etichetta": "icampi.it/it/icampi/bollicine-durello-doc"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/blog».",
+   "url": "https://www.icampi.it/it/blog",
+   "etichetta": "icampi.it/it/blog"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, consultato il 25 ottobre 2026, pagina «icampi.it» (verifica incrociata).",
+   "url": "https://www.icampi.it/",
+   "etichetta": "icampi.it"
+  }
+ ]
+}

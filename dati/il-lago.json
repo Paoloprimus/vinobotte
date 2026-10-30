@@ -1,0 +1,115 @@
+{
+ "nome": "Il Lago",
+ "slug": "il-lago",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03608810481 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Fraz. Campagna, 23 – 50062 Dicomano [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fattoriaillago.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fattoriaillago.com/|fattoriaillago.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Chianti Rufina DOCG; Chianti Rufina Riserva DOCG; Vin Santo del Chianti Rufina DOC [[4]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Chianti; Sangiovese [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://it-it.facebook.com/fattoriaillago|fattoriaillago}}\nInstagram {{https://www.instagram.com/fattoria_il_lago/|@fattoria_il_lago}} [[2]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.fattoriaillago.com/shop/|fattoriaillago.com/shop}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=4773734624449324539|Mappa}} — valutazione 4 su 5 (70 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://www.fattoriaillago.com/",
+   "etichetta": "fattoriaillago.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.fattoriaillago.com/",
+   "etichetta": "fattoriaillago.com"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/fattoria-il-lago-srl/",
+   "etichetta": "consorziovinochianti.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://www.fattoriaillago.com/",
+   "etichetta": "fattoriaillago.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Fattoria Il Lago» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=4773734624449324539",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

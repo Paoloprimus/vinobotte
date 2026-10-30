@@ -1,0 +1,141 @@
+{
+ "nome": "Ernesto Ruffo",
+ "slug": "ernesto-ruffo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Ernesto Ruffo Vino Società Semplice (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04047210234 [[3]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Crociata 17, San Briccio di Lavagno (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "info@ruffovini.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ruffovini.com/|www.ruffovini.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "La famiglia Ruffo vive a San Briccio dal 1627; “Artigiani del Vino” Ernesto e Leonardo [[3]] [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal sito, senza annata. [[3]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Campogadis",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Pagina “Premi”: The Wine Hunter Award (Amarone 2012 e Basaltico 2017 oro 2022; Amarone 2010 platino 2020; Valpolicella Superiore 2014 e 2013 oro), Decanter UK Wine Style Awards 2018 (Superiore 2013, 96 punti); dichiarati dalla cantina, non verificati da VinoBot sulle guide [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Visite e acquisti su prenotazione [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "ruffovini.com in italiano e inglese [[7]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino (citato nei premi), Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contact».",
+   "url": "http://www.ruffovini.com/contact/",
+   "etichetta": "ruffovini.com/contact"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.ruffovini.com/",
+   "etichetta": "ruffovini.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «gli-artigiani-del-vino».",
+   "url": "http://www.ruffovini.com/gli-artigiani-del-vino/",
+   "etichetta": "ruffovini.com/gli-artigiani-del-vino"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «lamarone-della-valpolicella».",
+   "url": "http://www.ruffovini.com/lamarone-della-valpolicella/",
+   "etichetta": "ruffovini.com/lamarone-della-valpolicella"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «il-valpolicella-superiore».",
+   "url": "http://www.ruffovini.com/il-valpolicella-superiore/",
+   "etichetta": "ruffovini.com/il-valpolicella-superiore"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «?lang=en».",
+   "url": "http://www.ruffovini.com/?lang=en",
+   "etichetta": "ruffovini.com/?lang=en"
+  }
+ ]
+}

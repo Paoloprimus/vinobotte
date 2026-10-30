@@ -1,0 +1,109 @@
+{
+ "nome": "Tessari",
+ "slug": "tessari-soave",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Tessari di Tessari Cornelia, Antonio e Germano [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fontana Nuova 86, Brognoligo, 37032 Monteforte d'Alpone (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 617 6041 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinatessari.com|cantinatessari.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito dichiara attività dal 1933 e produzione di Soave Classico solo da uve Garganega; valori tramandati per tre generazioni; ragione sociale Società Agricola T.E.S.S.A.R.I. s.s. (il sito indicato dal Consorzio rinvia a corneliatessari.com) [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Soave e Recioto di Soave; la cantina produce anche vermouth e altri vini. Il sito non riporta le annate. [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Natus (metodo classico)",
+     "denominazione": "Soave DOC Spumante",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "I° Ettaro",
+     "denominazione": "Soave Superiore Classico DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Bine Longhe",
+     "denominazione": "Soave Superiore Classico DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Grisela",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Tre Colli",
+     "denominazione": "Recioto di Soave DOCG",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/tessari-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «corneliatessari.com».",
+   "url": "https://corneliatessari.com/",
+   "etichetta": "corneliatessari.com"
+  }
+ ]
+}

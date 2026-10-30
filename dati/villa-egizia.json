@@ -1,0 +1,100 @@
+{
+ "nome": "Villa Egizia",
+ "slug": "villa-egizia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Villa Egizia [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Galzignana, 40 - 35041 Battaglia Terme (Padova) [[1]]"
+    },
+    {
+     "etichetta": "Ruolo nell’elenco del Consorzio",
+     "valore": "Coltivatore, Imbottigliatore, Produttore [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "049 525149 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "villaegizia@hotmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.villaegizia.com/|villaegizia.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini D.O.C. Colli Euganei [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Colli Euganei",
+     "valore": "Non indicato nella elenco dei produttori del Consorzio; non ancora raccolto dai siti delle cantine [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=7693231855101362735|Mappa}} — valutazione 4,3 su 5 (14 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini D.O.C. Colli Euganei, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinieuganei.it/",
+   "etichetta": "consorziovinieuganei.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito indicato nella scheda Google Maps della cantina, ricerca del 29 ottobre 2026.",
+   "url": "https://maps.google.com/?cid=7693231855101362735",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Azienda Agricola Agriturismo Villa Egizia» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=7693231855101362735",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

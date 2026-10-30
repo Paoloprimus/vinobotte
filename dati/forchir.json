@@ -1,0 +1,118 @@
+{
+ "nome": "Forchir",
+ "slug": "forchir",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02039640301 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Casali Bianchini, 2, 33030 Camino al Tagliamento (UD) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0432821525 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "forchir@forchir.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.forchir.it|forchir.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio DOC Friuli [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Fondata dalla famiglia nobile di origine austriaca Forchir, trasferitasi in Friuli alla fine dell’Ottocento. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Forchir.Viticoltori.In.Friuli|Forchir.Viticoltori.In.Friuli}}\nInstagram {{https://www.instagram.com/forchirvini/|@forchirvini}}\nYouTube {{https://www.youtube.com/channel/UCc493tcntX3lKWTE92yo8LA|canale UCc493tcntX3lKWTE92yo8LA}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://forchir.wineshopwine.it/negozio/|forchir.wineshopwine.it/negozio}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=15524685878107923252|Mappa}} — valutazione 4,8 su 5 (61 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.forchir.it",
+   "etichetta": "forchir.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/forchir/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.forchir.it",
+   "etichetta": "forchir.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «FORCHIR - Viticoltori in Friuli» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=15524685878107923252",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

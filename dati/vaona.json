@@ -1,0 +1,224 @@
+{
+ "nome": "Vaona",
+ "slug": "vaona",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Vaona Odino di Vaona Alberto [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03213750239 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Paverno 41, Valgatara, 37020 Marano di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7703710\nfax +39 045 7703799 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vaona.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vaona.it/|www.vaona.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Famiglia Vaona, oggi con Alberto; cantina a Valgatara, zona storica della Valpolicella [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Circa 10 ettari, altitudine media 200 m, pergola veronese e Guyot in pianura; produzione biologica dichiarata [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Paerno",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Pegrandi",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Pegrandi Riserva",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Le Peagnè",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Degustazione di vini biologici e visita in cantina [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/AziendaAgricolaVAONA|AziendaAgricolaVAONA}}\nInstagram {{https://www.instagram.com/azienda_agricola_vaona/|@azienda_agricola_vaona}} [[13]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16673121429925900299|Mappa}} — valutazione 4,8 su 5 (59 recensioni) [[14]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[15]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://www.vaona.it/it/contatti",
+   "etichetta": "vaona.it/it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.vaona.it/",
+   "etichetta": "vaona.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/produzione-vini-biologici-valpolicella».",
+   "url": "https://www.vaona.it/it/produzione-vini-biologici-valpolicella",
+   "etichetta": "vaona.it/it/produzione-vini-biologici-valpolicella"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/degustazione-vini-biologici-valpolicella».",
+   "url": "https://www.vaona.it/it/degustazione-vini-biologici-valpolicella",
+   "etichetta": "vaona.it/it/degustazione-vini-biologici-valpolicella"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/amarone-classico-biologico-paerno».",
+   "url": "https://www.vaona.it/it/amarone-classico-biologico-paerno",
+   "etichetta": "vaona.it/it/amarone-classico-biologico-paerno"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/amarone-classico-pegrandi».",
+   "url": "https://www.vaona.it/it/amarone-classico-pegrandi",
+   "etichetta": "vaona.it/it/amarone-classico-pegrandi"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/amarone-classico-pegrandi-riserva».",
+   "url": "https://www.vaona.it/it/amarone-classico-pegrandi-riserva",
+   "etichetta": "vaona.it/it/amarone-classico-pegrandi-riserva"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/recioto-classico-biologico-le-peagne».",
+   "url": "https://www.vaona.it/it/recioto-classico-biologico-le-peagne",
+   "etichetta": "vaona.it/it/recioto-classico-biologico-le-peagne"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «it/valpolicella-ripasso-classico-superiore-biologico».",
+   "url": "https://www.vaona.it/it/valpolicella-ripasso-classico-superiore-biologico",
+   "etichetta": "vaona.it/it/valpolicella-ripasso-classico-superiore-biologico"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «it/valpolicella-superiore-doc-biologico».",
+   "url": "https://www.vaona.it/it/valpolicella-superiore-doc-biologico",
+   "etichetta": "vaona.it/it/valpolicella-superiore-doc-biologico"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «it/valpolicella-classico-biologico».",
+   "url": "https://www.vaona.it/it/valpolicella-classico-biologico",
+   "etichetta": "vaona.it/it/valpolicella-classico-biologico"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.vaona.it/",
+   "etichetta": "vaona.it"
+  },
+  {
+   "n": 14,
+   "testo": "Scheda «Vaona Odino» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16673121429925900299",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 15,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "nome": "La Vigna di Sarah",
+ "slug": "la-vigna-di-sarah",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Vigna di Sarah [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via del Bersagliere, 30/a, Vittorio Veneto, TV [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+393406003442 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lavignadisarah.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.lavignadisarah.it/|www.lavignadisarah.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Nasce nel 2010 e prende il nome dalla titolare, Sarah. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Conegliano Valdobbiadene Prosecco Superiore",
+     "valore": "Tipologie indicate: brut [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/La-Vigna-di-Sarah-165824483511041|La-Vigna-di-Sarah-165824483511041}}\nInstagram {{https://www.instagram.com/lavignadisarah/|@lavignadisarah}}\nX {{https://x.com/about|@about}} [[2]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{http://lavignadisarah.it/shop|lavignadisarah.it/shop}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=11843228876893962675|Mappa}} — valutazione 4,4 su 5 (22 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/la-vigna-di-sarah/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.lavignadisarah.it/",
+   "etichetta": "lavignadisarah.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Azienda Vitivinicola La Vigna di Sarah» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=11843228876893962675",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

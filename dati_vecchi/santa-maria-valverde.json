@@ -1,0 +1,183 @@
+{
+ "nome": "Tenuta Santa Maria Valverde",
+ "slug": "santa-maria-valverde",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Santa Maria Valverde Società Semplice Agricola (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località Gazzo 4, 37020 Marano di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "santamaria.valverde@gmail.com; tel. +39 347 0908763 (Ilaria, Nicola); esperienze: discovervalpolicella@gmail.com, +39 347 7080453 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutasantamariavalverde.it/|www.tenutasantamariavalverde.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Produttore Nicola Campagnola; la famiglia coltiva la vite in questa cascina dal 1800 [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Colline di Marano di Valpolicella, circa 500 m s.l.m., terrazzamenti su suoli vulcanici (sottozona Purano) [[3]] [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Bottiglie numerate; il sito non riporta le annate nella presentazione dei vini. [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore Classico DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore Classico DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Degustazioni, wine tour, caccia al tartufo, bike station, matrimoni [[8]] [[9]] [[10]] [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Amarone Classico Riserva 2014 “maggior riconoscimento” Bibenda e Vini Buoni d’Italia; Amarone Riserva 2013 Corona Vini Buoni d’Italia (2021). Dichiarati dalla cantina, non verificati da VinoBot sulle guide [[12]] [[13]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Pre-ordine sul sito con spedizione; altri marketplace: presenza non verificata [[6]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook, Instagram, Tripadvisor, Pinterest, YouTube indicati dal sito; altre presenze non verificate [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.tenutasantamariavalverde.it/contatti",
+   "etichetta": "tenutasantamariavalverde.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «l-azienda».",
+   "url": "https://www.tenutasantamariavalverde.it/l-azienda",
+   "etichetta": "tenutasantamariavalverde.it/l-azienda"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «la-storia».",
+   "url": "https://www.tenutasantamariavalverde.it/la-storia",
+   "etichetta": "tenutasantamariavalverde.it/la-storia"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «amarone».",
+   "url": "https://www.tenutasantamariavalverde.it/amarone",
+   "etichetta": "tenutasantamariavalverde.it/amarone"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «ordini».",
+   "url": "https://www.tenutasantamariavalverde.it/ordini",
+   "etichetta": "tenutasantamariavalverde.it/ordini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini».",
+   "url": "https://www.tenutasantamariavalverde.it/i-vini",
+   "etichetta": "tenutasantamariavalverde.it/i-vini"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «discover-valpolicella».",
+   "url": "https://www.tenutasantamariavalverde.it/discover-valpolicella",
+   "etichetta": "tenutasantamariavalverde.it/discover-valpolicella"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «caccia-al-tartufo-verona».",
+   "url": "https://www.tenutasantamariavalverde.it/caccia-al-tartufo-verona",
+   "etichetta": "tenutasantamariavalverde.it/caccia-al-tartufo-verona"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «bike-station».",
+   "url": "https://www.tenutasantamariavalverde.it/bike-station",
+   "etichetta": "tenutasantamariavalverde.it/bike-station"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «matrimoni-valpolicella».",
+   "url": "https://www.tenutasantamariavalverde.it/matrimoni-valpolicella",
+   "etichetta": "tenutasantamariavalverde.it/matrimoni-valpolicella"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «post/premi-all-amarone-classico-riserva-2014».",
+   "url": "https://www.tenutasantamariavalverde.it/post/premi-all-amarone-classico-riserva-2014",
+   "etichetta": "tenutasantamariavalverde.it/post/premi-all-amarone-classico-riserva-2014"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «post/premio-all-amarone-classico-riserva-2013».",
+   "url": "https://www.tenutasantamariavalverde.it/post/premio-all-amarone-classico-riserva-2013",
+   "etichetta": "tenutasantamariavalverde.it/post/premio-all-amarone-classico-riserva-2013"
+  }
+ ]
+}

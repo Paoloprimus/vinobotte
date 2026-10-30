@@ -1,0 +1,104 @@
+{
+ "nome": "Antica Corte",
+ "slug": "antica-corte-soave",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Antica Corte SS [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Pressi 7, 37038 Soave (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 767 5409 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.anticacortesoave.it/|anticacortesoave.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Piccola realtà di artigianato enoico di Christian Bottaro, in contrada Pressi vicino a Soave; offre anche B&B [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito cita nelle sue pagine novità il «Doc Soave Pressi» (annata 2017) e il «Soave Pressi Calcare Rosa»; non c’è un elenco dei vini con denominazione. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pressi",
+     "denominazione": "Soave DOC",
+     "annata": "2017 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite guidate in vigna e degustazioni su richiesta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle pagine lette [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/antica-corte-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «anticacortesoave.it».",
+   "url": "http://www.anticacortesoave.it/",
+   "etichetta": "anticacortesoave.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «anticacortesoave.it/news.php?idtip=3&id=10&titolo=antica-corte-doc-soave-pressi-2017».",
+   "url": "https://www.anticacortesoave.it/news.php?idtip=3&id=10&titolo=antica-corte-doc-soave-pressi-2017",
+   "etichetta": "anticacortesoave.it"
+  }
+ ]
+}

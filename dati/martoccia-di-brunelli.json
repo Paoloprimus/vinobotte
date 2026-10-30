@@ -1,0 +1,124 @@
+{
+ "nome": "Martoccia di Brunelli",
+ "slug": "martoccia-di-brunelli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Martoccia di Brunelli Luca [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00942500521 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "53024 Montalcino - SI [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577848540 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poderemartoccia.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.poderemartoccia.it|poderemartoccia.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Brunello di Montalcino [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Gestita dalla famiglia Brunelli da due generazioni. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Brunello di Montalcino DOCG; Brunello di Montalcino Riserva DOCG; Rosso di Montalcino DOC; Chianti DOCG [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Brunello di Montalcino; Rosso di Montalcino [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/lamartoccia|lamartoccia}} [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://www.poderemartoccia.it/it/shop/chianti-docg-075-lt|poderemartoccia.it/it/shop/chianti-docg-075-lt}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=2225379673317377902|Mappa}} — valutazione 4,9 su 5 (32 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "http://www.poderemartoccia.it",
+   "etichetta": "poderemartoccia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio del Vino Brunello di Montalcino, scheda della cantina nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
+   "url": "https://www.consorziobrunellodimontalcino.it/it/1406/martoccia-di-brunelli",
+   "etichetta": "consorziobrunellodimontalcino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.poderemartoccia.it",
+   "etichetta": "poderemartoccia.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.poderemartoccia.it",
+   "etichetta": "poderemartoccia.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Azienda Agricola Martoccia» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2225379673317377902",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

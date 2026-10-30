@@ -1,0 +1,106 @@
+{
+ "nome": "San Vettor",
+ "slug": "san-vettor",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "San Vettor [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Strade Nove, 12, 31034 Cavaso del Tomba (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "393 9742892 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@sanvettor.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.sanvettor.com|www.sanvettor.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Asolo Montello [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Asolo Montello Recantina DOC; Asolo Prosecco Superiore DOCG [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Asian Sparkling Wine Masters 2017: bronzo [[3]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Falstaff Prosecco Trophy 2023: 89 e 90 punti [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=11555267997893443162|Mappa}} — valutazione 5 su 5 (1 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.sanvettor.com",
+   "etichetta": "sanvettor.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.sanvettor.com",
+   "etichetta": "sanvettor.com"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «San Vettor» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=11555267997893443162",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

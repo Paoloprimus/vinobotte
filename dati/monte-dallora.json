@@ -1,0 +1,237 @@
+{
+ "nome": "Monte Dall’Ora",
+ "slug": "monte-dallora",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Monte Dall’Ora di Venturini Carlo [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Monte Dall’Ora 5, Castelrotto, 37029 San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7704462\ncell. +39 349 5791176 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@montedallora.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.montedallora.com/|www.montedallora.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "Cru a Monte Dall’Ora e Camporenzo (pergola veronese, terrazze a sud-est), San Giorgio (alta collina), Saustò; nuovo progetto di vigneto sinergico a Sausto [[3]]"
+    },
+    {
+     "etichetta": "Metodo",
+     "valore": "Agricoltura biologica/biodinamica; membro dell’associazione di vignaioli Renaissance des Appellations [[4]] [[5]]"
+    },
+    {
+     "etichetta": "Famiglia",
+     "valore": "“Monte Dall’Ora è una famiglia”; vini artigianali in piccole quantità [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dal sito, con annata dove nel titolo della pagina. [[7]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Stropa",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2010 [[8]]"
+    },
+    {
+     "nome": "Sant’Ulderico",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "2011 [[9]]"
+    },
+    {
+     "nome": "Saseti",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "2017 [[10]]"
+    },
+    {
+     "nome": "Camporenzo",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "2015 [[11]]"
+    },
+    {
+     "nome": "San Giorgio",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "2015 [[12]]"
+    },
+    {
+     "nome": "Saustò",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "2015 [[13]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle pagine vini; il sito ha notizie su un premio della ristorazione del 2019 [[14]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Eventi",
+     "valore": "Giornate di assaggio “Il vino degli amici” con navetta dalla stazione di Verona Porta Nuova [[15]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "montedallora.com con carrello (nessun prodotto attivo) e pagina distributori [[16]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/montedallora|montedallora}} [[17]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook citato nella cookie policy del sito [[4]]\nGoogle Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[18]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://montedallora.com/contatti/",
+   "etichetta": "montedallora.com/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo/terroir».",
+   "url": "http://montedallora.com/chi-siamo/terroir/",
+   "etichetta": "montedallora.com/chi-siamo/terroir"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://montedallora.com/",
+   "etichetta": "montedallora.com"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo/biodiversita».",
+   "url": "http://montedallora.com/chi-siamo/biodiversita/",
+   "etichetta": "montedallora.com/chi-siamo/biodiversita"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo/persone».",
+   "url": "http://montedallora.com/chi-siamo/persone/",
+   "etichetta": "montedallora.com/chi-siamo/persone"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini».",
+   "url": "http://montedallora.com/i-nostri-vini/",
+   "etichetta": "montedallora.com/i-nostri-vini"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/amarone-della-valpolicella-docg-classico-2010-stro».",
+   "url": "https://montedallora.com/prodotto/amarone-della-valpolicella-docg-classico-2010-stropa/",
+   "etichetta": "montedallora.com/prodotto/amarone-della-valpolicella-docg-classico-2010-stropa"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/recioto-della-valpolicella-docg-classico-2011-sant».",
+   "url": "https://montedallora.com/prodotto/recioto-della-valpolicella-docg-classico-2011-santulderico/",
+   "etichetta": "montedallora.com/prodotto/recioto-della-valpolicella-docg-classico-2011-santulderico"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/valpolicella-classico-d-o-c-2017-saseti».",
+   "url": "https://montedallora.com/prodotto/valpolicella-classico-d-o-c-2017-saseti/",
+   "etichetta": "montedallora.com/prodotto/valpolicella-classico-d-o-c-2017-saseti"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/valpolicella-classico-superiore-d-o-c-2015-campore».",
+   "url": "https://montedallora.com/prodotto/valpolicella-classico-superiore-d-o-c-2015-camporenzo/",
+   "etichetta": "montedallora.com/prodotto/valpolicella-classico-superiore-d-o-c-2015-camporenzo"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/valpolicella-classico-superiore-doc-2015-san-giorg».",
+   "url": "https://montedallora.com/prodotto/valpolicella-classico-superiore-doc-2015-san-giorgio-alto/",
+   "etichetta": "montedallora.com/prodotto/valpolicella-classico-superiore-doc-2015-san-giorgio-alto"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «prodotto/valpolicella-ripasso-doc-classico-superiore-2015-s».",
+   "url": "https://montedallora.com/prodotto/valpolicella-ripasso-doc-classico-superiore-2015-sausto/",
+   "etichetta": "montedallora.com/prodotto/valpolicella-ripasso-doc-classico-superiore-2015-sausto"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «gran-premio-internazionale-della-ristorazione-2019».",
+   "url": "https://montedallora.com/gran-premio-internazionale-della-ristorazione-2019/",
+   "etichetta": "montedallora.com/gran-premio-internazionale-della-ristorazione-2019"
+  },
+  {
+   "n": 15,
+   "testo": "Sito ufficiale della cantina, pagina «assaggi-e-convivialita-per-il-vino-degli-amici».",
+   "url": "https://montedallora.com/assaggi-e-convivialita-per-il-vino-degli-amici/",
+   "etichetta": "montedallora.com/assaggi-e-convivialita-per-il-vino-degli-amici"
+  },
+  {
+   "n": 16,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-distributori».",
+   "url": "https://montedallora.com/i-nostri-distributori/",
+   "etichetta": "montedallora.com/i-nostri-distributori"
+  },
+  {
+   "n": 17,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.montedallora.com/",
+   "etichetta": "montedallora.com"
+  },
+  {
+   "n": 18,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

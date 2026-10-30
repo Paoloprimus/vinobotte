@@ -1,0 +1,112 @@
+{
+ "nome": "Antica Fattoria Sorbaiano",
+ "slug": "antica-fattoria-sorbaiano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Sorbaiano 39, 56040 Montecatini Val di Cecina, PI [[1]]"
+    },
+    {
+     "etichetta": "Presenza in elenchi",
+     "valore": "Presente nell’archivio delle cantine di Bere il Vino (scheda con nome, CAP e provincia) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0588 028054 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@sorbaiano.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fattoriasorbaiano.it/|fattoriasorbaiano.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Montescudaio DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montescudaio DOC [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Sorbaiano Bianco DOC; Sorbaiano Rosso DOC; Pian del Conte Sangiovese DOC; Rosso delle Miniere DOC; Vin Santo DOC [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8896550842480050579|Mappa}} — valutazione 4,4 su 5 (17 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale consultata il 26 ottobre 2026.",
+   "url": "https://www.fattoriasorbaiano.it/",
+   "etichetta": "fattoriasorbaiano.it"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina nell’archivio delle cantine, consultata il 26 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/antica-fattoria-sorbaiano/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco delle aziende del Consorzio Vino Montescudaio DOC, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.consorziovinomontescudaiodoc.it/fattoria-sorbaiano/",
+   "etichetta": "consorziovinomontescudaiodoc.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale, consultato il 26 ottobre 2026.",
+   "url": "https://www.fattoriasorbaiano.it/",
+   "etichetta": "fattoriasorbaiano.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Fattoria Sorbaiano» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8896550842480050579",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

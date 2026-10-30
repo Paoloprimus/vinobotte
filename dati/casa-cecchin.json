@@ -1,0 +1,109 @@
+{
+ "nome": "Casa Cecchin",
+ "slug": "casa-cecchin",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Casa Cecchin [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Agugliana 11, 36054 Montebello Vicentino (VI) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0444 649610 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@casacecchin.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.casacecchin.it|casacecchin.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Lessini Durello DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina su terreno vulcanico che valorizza i vitigni Durella e Garganega; fondata dall’ingegner Renato con la figlia Roberta; il Metodo Classico affina in una cripta scavata nella roccia vulcanica [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il testo del Consorzio cita un solo vino; il sito della cantina non è stato letto. [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Durello Spumante Riserva",
+     "denominazione": "Denominazione non indicata (Metodo Classico)",
+     "annata": "— [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Slow Wine Treviso, 9ª edizione [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/casa.cecchin|casa.cecchin}}\nInstagram {{https://www.instagram.com/casacecchin_winery/|@casacecchin_winery}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=9097116316533254239|Mappa}} — valutazione 5 su 5 (46 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://montilessini.com/casa-cecchin/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.casacecchin.it",
+   "etichetta": "casacecchin.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Casa Cecchin» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=9097116316533254239",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

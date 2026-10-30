@@ -1,0 +1,128 @@
+{
+ "nome": "Serpaia di Endrizzi",
+ "slug": "serpaia-di-endrizzi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina Endrizzi S.R.L. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00366940229 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Aurelia Antica, 46 Grosseto GR 58100 IT [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+390461650129 [[3]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@endrizzi.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.endrizzi.it/it/serpaia|endrizzi.it/it/serpaia}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini della Maremma Toscana [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Produttori di vino da cinque generazioni, famiglia Endrici. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Trentino DOC; Trento DOC [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/CantinaEndrizzi|CantinaEndrizzi}}\nInstagram {{https://www.instagram.com/cantinaendrizzi/|@cantinaendrizzi}} [[3]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "{{https://shop.endrizzi.it/|shop.endrizzi.it}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=5217827990589966802|Mappa}} — valutazione 5 su 5 (2 recensioni) [[5]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[6]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.endrizzi.it/it/serpaia",
+   "etichetta": "endrizzi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini della Maremma Toscana, scheda dell’azienda nell’elenco delle aziende, consultato il 26 ottobre 2026.",
+   "url": "https://www.aziendevinimaremma.it/directory/listing/serpaia-di-endrizzi",
+   "etichetta": "aziendevinimaremma.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.endrizzi.it/it/serpaia",
+   "etichetta": "endrizzi.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://www.endrizzi.it/it/serpaia",
+   "etichetta": "endrizzi.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Tenuta Serpaia» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=5217827990589966802",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

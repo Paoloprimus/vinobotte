@@ -1,0 +1,214 @@
+{
+ "nome": "Monte del Frà",
+ "slug": "monte-del-fra",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Monte del Frà di Bonomo Eligio Claudio e Marica Az. Agr. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "IT01923560237 [[3]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Strada Custoza 35, 37066 Sommacampagna (VR) [[1]]; vinificazione e appassimento a San Pietro in Cariano [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 510490 · wine shop wineshop@montedelfra.it [[3]] · info@montedelfra.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.montedelfra.it/|www.montedelfra.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vino Bardolino D.O.C.: {{/pagine/monte-del-fra-bardolino.html|scheda Bardolino}} [[4]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vino Custoza DOC: {{/pagine/monte-del-fra-custoza.html|scheda Custoza}} [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Oltre 60 anni di storia a Custoza; guidata dalla famiglia Bonomo [[6]]"
+    },
+    {
+     "etichetta": "Tenuta Valpolicella",
+     "valore": "Tenuta Lena di Mezzo: 18 ettari sotto il santuario della Madonna de La Salette; fruttaio termocondizionato a San Pietro in Cariano per 300 tonnellate di uva [[2]]"
+    },
+    {
+     "etichetta": "Linee",
+     "valore": "Monte del Frà, Tenuta Lena di Mezzo, Casa Capitei, Le Undici Terre [[7]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo le etichette di Valpolicella e Amarone; la cantina produce anche Custoza, Bardolino, Lugana e altri vini. Il sito non riporta le annate. [[8]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Tenuta Lena di Mezzo",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Scarnocchio – Tenuta Lena di Mezzo",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Tenuta Lena di Mezzo",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Tenuta Lena di Mezzo",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[12]]"
+    },
+    {
+     "nome": "Tenuta Lena di Mezzo",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Il sito ha una sezione “Riconoscimenti” con punteggi per ogni vino (la scheda ne rimanda alla fonte, non li riporta); dichiarati dalla cantina, non verificati da VinoBot sulle guide [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Visite e degustazioni, tour della cantina, degustazione vino e cioccolato, passeggiata a cavallo, eventi; wine shop a Sommacampagna [[13]] [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "montedelfra.it in italiano, inglese, tedesco e francese; wine shop online e wine club [[14]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Wine shop online sul sito; altri marketplace: presenza non verificata [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «territorio/valpolicella-classica».",
+   "url": "https://www.montedelfra.it/territorio/valpolicella-classica/",
+   "etichetta": "montedelfra.it/territorio/valpolicella-classica"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «punto-vendita».",
+   "url": "https://www.montedelfra.it/punto-vendita/",
+   "etichetta": "montedelfra.it/punto-vendita"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.montedelfra.it/",
+   "etichetta": "montedelfra.it"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «linee-vini».",
+   "url": "https://www.montedelfra.it/linee-vini/",
+   "etichetta": "montedelfra.it/linee-vini"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «vini/rossi».",
+   "url": "https://www.montedelfra.it/vini/rossi/",
+   "etichetta": "montedelfra.it/vini/rossi"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «vini/rossi/amarone-della-valpolicella-classico-docg-19».",
+   "url": "https://www.montedelfra.it/vini/rossi/amarone-della-valpolicella-classico-docg-19/",
+   "etichetta": "montedelfra.it/vini/rossi/amarone-della-valpolicella-classico-docg-19"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «vini/rossi/riserva-amarone-della-valpolicella-classico-docg».",
+   "url": "https://www.montedelfra.it/vini/rossi/riserva-amarone-della-valpolicella-classico-docg-scarnocchio-20/",
+   "etichetta": "montedelfra.it/vini/rossi/riserva-amarone-della-valpolicella-classico-docg-scarnocchio-20"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «vini/rossi/valpolicella-classico-superiore-doc-7».",
+   "url": "https://www.montedelfra.it/vini/rossi/valpolicella-classico-superiore-doc-7/",
+   "etichetta": "montedelfra.it/vini/rossi/valpolicella-classico-superiore-doc-7"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «vini/rossi/valpolicella-ripasso-classico-superiore-doc-22».",
+   "url": "https://www.montedelfra.it/vini/rossi/valpolicella-ripasso-classico-superiore-doc-22/",
+   "etichetta": "montedelfra.it/vini/rossi/valpolicella-ripasso-classico-superiore-doc-22"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «visite-e-degustazioni».",
+   "url": "https://www.montedelfra.it/visite-e-degustazioni/",
+   "etichetta": "montedelfra.it/visite-e-degustazioni"
+  },
+  {
+   "n": 14,
+   "testo": "Sito ufficiale della cantina, pagina «wine-club».",
+   "url": "https://www.montedelfra.it/wine-club/",
+   "etichetta": "montedelfra.it/wine-club"
+  }
+ ]
+}

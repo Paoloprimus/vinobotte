@@ -1,0 +1,172 @@
+{
+ "nome": "Fratelli Barana",
+ "slug": "fratelli-barana",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Fratelli Barana s.s. [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03932980232 [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Bisano 7, 37141 Verona (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "349 445 4709 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fratellibarana.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fratellibarana.it/|www.fratellibarana.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "1958 Angelo Barana acquista un appezzamento a Bisano (“La Conca d’Oro”); 1987 l’azienda passa a Marco Barana; 2011 Marco e Paolo fondano la Società Agricola Fratelli Barana; primo vino della cantina nel 2018 [[3]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine di oliva, grappa di Amarone, confetture [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non indica le annate. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari punto vendita",
+     "valore": "Gio–ven 16–19; sab–dom 9–12 e 15–19; lun–mer chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visita guidata con degustazione su prenotazione; esperienze e didattica [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=14911021572193516756|Mappa}} — valutazione 4,8 su 5 (50 recensioni) [[10]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «fratellibarana.it», consultata il 24 ottobre 2026.",
+   "url": "https://www.fratellibarana.it/",
+   "etichetta": "fratellibarana.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «fratellibarana.it/chi-siamo», consultata il 24 ottobre 2026.",
+   "url": "https://www.fratellibarana.it/chi-siamo/",
+   "etichetta": "fratellibarana.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «fratellibarana.it/altri-prodotti», consultata il 24 ottobre 2026.",
+   "url": "https://www.fratellibarana.it/altri-prodotti/",
+   "etichetta": "fratellibarana.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «fratellibarana.it/vino», consultata il 24 ottobre 2026.",
+   "url": "https://www.fratellibarana.it/vino/",
+   "etichetta": "fratellibarana.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «fratellibarana.it/vino/valpolicella-doc», consultata il 24 ottobre 2026.",
+   "url": "https://www.fratellibarana.it/vino/valpolicella-doc/",
+   "etichetta": "fratellibarana.it"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «fratellibarana.it/vino/valpolicella-ripasso-doc-superiore», consultata il 24 ottobre 2026.",
+   "url": "https://www.fratellibarana.it/vino/valpolicella-ripasso-doc-superiore/",
+   "etichetta": "fratellibarana.it"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «fratellibarana.it/vino/amarone-della-valpolicella-docg», consultata il 24 ottobre 2026.",
+   "url": "https://www.fratellibarana.it/vino/amarone-della-valpolicella-docg/",
+   "etichetta": "fratellibarana.it"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «fratellibarana.it/esperienze», consultata il 24 ottobre 2026.",
+   "url": "https://www.fratellibarana.it/esperienze/",
+   "etichetta": "fratellibarana.it"
+  },
+  {
+   "n": 10,
+   "testo": "Scheda «Fratelli Barana» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=14911021572193516756",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

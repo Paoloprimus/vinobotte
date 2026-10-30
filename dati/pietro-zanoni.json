@@ -1,0 +1,179 @@
+{
+ "nome": "Pietro Zanoni",
+ "slug": "pietro-zanoni",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Zanoni Pietro [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02869680237 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Are Zovo 16/D, 37125 Quinzano, Verona [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "Informazioni su ordini e spedizioni: 800 684 850\ninformazioni sulla cantina (degustazioni, orari, consigli): +39 045 834 3977 [[3]] [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@pietrozanoni.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.pietrozanoni.it/|www.pietrozanoni.it}} [[1]]; negozio online {{https://www.pietrozanonishop.it/|www.pietrozanonishop.it}} — raggiungibile al controllo del 29 ottobre 2026 [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Vigneti in Valpolicella in tre appezzamenti (Avesa, Parona, Quinzano); la nuova cantina in località Zovo è ultimata nel 2006. [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Vini del negozio online del produttore, con le annate scritte nei titoli dei prodotti; il negozio vende anche olio e confezioni. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "2022 [[6]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso Superiore",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "2021 [[7]]"
+    },
+    {
+     "nome": "Campo Denari",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "2018 [[8]]"
+    },
+    {
+     "nome": "Recioto della Valpolicella",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "2021 [[9]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "2016 [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti sul negozio online del sito"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Vendita online",
+     "valore": "Negozio online con vendita diretta, anche in confezioni e magnum con cassetta in legno [[4]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/PietroZanoniVini|PietroZanoniVini}}\nInstagram {{https://www.instagram.com/pietrozanonivino/|@pietrozanonivino}} [[5]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8410289474656226263|Mappa}} — valutazione 5 su 5 (21 recensioni) [[11]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «pietrozanoni.it», consultata il 25 ottobre 2026.",
+   "url": "https://www.pietrozanoni.it/",
+   "etichetta": "pietrozanoni.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/contact».",
+   "url": "https://www.pietrozanonishop.it/it/contact",
+   "etichetta": "pietrozanonishop.it/it/contact"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.pietrozanonishop.it/",
+   "etichetta": "pietrozanonishop.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.pietrozanoni.it/",
+   "etichetta": "pietrozanoni.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/valpolicella-superiore-60».",
+   "url": "https://www.pietrozanonishop.it/it/valpolicella-superiore-60",
+   "etichetta": "pietrozanonishop.it/it/valpolicella-superiore-60"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/valpolicella-ripasso-60».",
+   "url": "https://www.pietrozanonishop.it/it/valpolicella-ripasso-60",
+   "etichetta": "pietrozanonishop.it/it/valpolicella-ripasso-60"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/valpolicella-campo-denari-doc-60».",
+   "url": "https://www.pietrozanonishop.it/it/valpolicella-campo-denari-doc-60",
+   "etichetta": "pietrozanonishop.it/it/valpolicella-campo-denari-doc-60"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/recioto-valpolicella-60».",
+   "url": "https://www.pietrozanonishop.it/it/recioto-valpolicella-60",
+   "etichetta": "pietrozanonishop.it/it/recioto-valpolicella-60"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «it/amarone-valpolicella-2016-60».",
+   "url": "https://www.pietrozanonishop.it/it/amarone-valpolicella-2016-60",
+   "etichetta": "pietrozanonishop.it/it/amarone-valpolicella-2016-60"
+  },
+  {
+   "n": 11,
+   "testo": "Scheda «Zanoni Pietro Azienda Agricola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8410289474656226263",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

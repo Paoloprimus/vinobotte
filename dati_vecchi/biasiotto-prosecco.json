@@ -1,0 +1,99 @@
+{
+ "nome": "Biasiotto",
+ "slug": "biasiotto-prosecco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Biasiotto S.Ag.S.; P.IVA e C.F. 01026660256 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Piave 16, Vas, 32038 Setteville (BL) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 0439 788000; fax +39 0439 787734; info@vinibiasiotto.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinibiasiotto.it/|www.vinibiasiotto.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda agricola a conduzione familiare: il sito parla di quattro generazioni e di oltre un secolo di esperienza, a partire da Luigi, il capostipite; oggi la conduce il nipote Luigi con i figli Andrea e Tatiana. Ha una tenuta di 27 ettari a Codroipo (UD) [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[1]] Esclusi Zero15, Primo Passo e Quattro dell’11, per i quali il sito non indica la denominazione.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Andrea Biasiotto Spumante Millesimato Brut",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Tati Spumante Rosé Millesimato Extra Brut",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    },
+    {
+     "nome": "Nonno Luigi Spumante Millesimato Extra Dry",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "La pagina «Riconoscimenti» elenca, dichiarati dalla cantina: Andrea Biasiotto «Miglior Prosecco d’Italia» Luca Maroni 2016–2020, 90 punti Decanter 2017, medaglia d’oro Gilbert & Gaillard 2018–2020; Nonno Luigi «Miglior Prosecco d’Italia» Luca Maroni 2021 e 2022, medaglia d’oro Berliner Wine Trophy 2018 e 2021, 17 punti Jancis Robinson 2020. Non verificati con le fonti dei concorsi [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Scheda del Consorzio e sito ufficiale della cantina, consultati il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «vinibiasiotto.it».",
+   "url": "https://www.vinibiasiotto.it/",
+   "etichetta": "vinibiasiotto.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.prosecco.wine/produttori/",
+   "etichetta": "prosecco.wine"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "nome": "Pecol Boin",
+ "slug": "pecol-boin",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Pecol Boin di Tormena Aldo [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03402380269 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Tesis 14, 33097 Spilimbergo (PN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 366 9954316 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@pecolboin.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.pecolboin.it|pecolboin.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio DOC Friuli [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Friuli Grave DOC; Prosecco DOC [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16114970509132865676|Mappa}} — valutazione 4,6 su 5 (66 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.pecolboin.it",
+   "etichetta": "pecolboin.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/pecol-boin/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.pecolboin.it",
+   "etichetta": "pecolboin.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Azienda Agricola Pecol Boin di Tormena Aldo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16114970509132865676",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

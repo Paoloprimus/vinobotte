@@ -1,0 +1,109 @@
+{
+ "nome": "Azienda Agricola Bellussi Agostino e Lamberto",
+ "slug": "azienda-agricola-bellussi-agostino-e-lamberto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Bellussi [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00342630266 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Borgo Bellussi, 26, 31020 Vazzola (TV) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Prosecco DOC» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 043828439 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@labellussera.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.labellussera.com|labellussera.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Prosecco DOC (frizzante)",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8702096899982950389|Mappa}} — valutazione 4,5 su 5 (55 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.labellussera.com",
+   "etichetta": "labellussera.com"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-bellussi-agostino-e-lamberto/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «labellussera.com/vini», consultata il 25 ottobre 2026.",
+   "url": "https://www.labellussera.com/vini/",
+   "etichetta": "labellussera.com"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Azienda Agricola Bellussi Agostino & Lamberto» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8702096899982950389",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

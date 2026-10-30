@@ -1,0 +1,139 @@
+{
+ "nome": "Azienda Agricola Bortolin Alessandro",
+ "slug": "azienda-agricola-bortolin-alessandro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Alessandro Bortolin [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02296290303 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Santo Stefano, 31, 31049 Valdobbiadene (TV) [[2]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Valdobbiadene Prosecco Superiore DOCG», «Valdobbiadene Prosecco Superiore DOCG Brut», «Valdobbiadene Prosecco Superiore DOCG Cartizze», «Valdobbiadene Prosecco Superiore DOCG Extra Dry», «Valdobbiadene Prosecco Superiore DOCG Millesimato Dry» [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0423901201 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@alessandrobortolin.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.alessandrobortolin.com|alessandrobortolin.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione. Altri vini del sito, senza denominazione chiara, non inclusi: Fonduel (rifermentazione naturale) [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Logo del Vecio",
+     "denominazione": "Valdobbiadene Prosecco Superiore DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Prosecco Brut",
+     "denominazione": "Valdobbiadene Prosecco Superiore DOCG Brut",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Prosecco Extra Dry",
+     "denominazione": "Valdobbiadene Prosecco Superiore DOCG Extra Dry",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Prosecco Millesimato Dry",
+     "denominazione": "Valdobbiadene Prosecco Superiore DOCG Millesimato Dry",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Cartizze Aura",
+     "denominazione": "Valdobbiadene Prosecco Superiore DOCG Cartizze",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/alessandrobortolinprosecco|alessandrobortolinprosecco}}\nInstagram {{https://www.instagram.com/alessandrobortolinprosecco/|@alessandrobortolinprosecco}} [[4]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=13946343653256730150|Mappa}} — valutazione 4,8 su 5 (103 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "https://www.alessandrobortolin.com",
+   "etichetta": "alessandrobortolin.com"
+  },
+  {
+   "n": 2,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-bortolin-alessandro/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «alessandrobortolin.com/shop-vini», consultata il 25 ottobre 2026.",
+   "url": "https://www.alessandrobortolin.com/shop-vini/",
+   "etichetta": "alessandrobortolin.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.alessandrobortolin.com",
+   "etichetta": "alessandrobortolin.com"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «CANTINA ALESSANDRO BORTOLIN» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=13946343653256730150",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

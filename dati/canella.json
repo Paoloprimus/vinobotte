@@ -1,0 +1,118 @@
+{
+ "nome": "Canella",
+ "slug": "canella",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Canella [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Fontane 17, 37010 Cavaion Veronese (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 6260402\nmobile +39 349 5470484 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinicanella.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinicanella.com/|www.vinicanella.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Il sito la dice nata nel 1990 per passione per il vino, sulla sponda sud-orientale del Garda; si presenta come una delle cantine più piccole della zona, che segue da sola coltivazione, vinificazione, imbottigliamento e vendita [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[2]] Il sito elenca anche vini IGT (Bianco Garganega, Rosso Rubino, Rosso Monte Salvador, Rosso Fontane, Rosso GC Canella), un Passito Bianco, un Prosecco Valdobbiadene e uno Spumante Rosa, di cui non indica la denominazione.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Bardolino Classico",
+     "denominazione": "Bardolino Classico DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Chiaretto Classico",
+     "denominazione": "Chiaretto di Bardolino Classico DOC",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=4809523585223967097|Mappa}} — valutazione 4,9 su 5 (88 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/canella/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina (in tedesco), pagine «Az. Agr. Canella», «Weinsortiment» e «Kontakt», consultato il 25 ottobre 2026.",
+   "url": "https://www.vinicanella.com/",
+   "etichetta": "vinicanella.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Azienda Agricola Vini Canella» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=4809523585223967097",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

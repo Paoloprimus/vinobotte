@@ -1,0 +1,120 @@
+{
+ "nome": "Azienda Agricola La Ghidina",
+ "slug": "azienda-agricola-la-ghidina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cadellora, 10, 37062 Villafranca di Verona (VR) [[1]]"
+    },
+    {
+     "etichetta": "Collocazione",
+     "valore": "Inserita in questa sezione perché il sito della cantina elenca vini con denominazione «Lugana DOC» [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045513567 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ancillalugana.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ancillalugana.it|ancillalugana.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dei vini a denominazione DOC/DOCG che il sito della cantina assegna a questa sezione [[2]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Ancilla Lugana DOC ella",
+     "denominazione": "Lugana DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Rose Blanche Lugana DOC",
+     "denominazione": "Lugana DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "Ancilla Lugana DOC",
+     "denominazione": "Lugana DOC",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "La Ghidina Lugana DOC",
+     "denominazione": "Lugana DOC",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{http://www.facebook.com/ancillalugana|ancillalugana}}\nInstagram {{https://www.instagram.com/luisella_benedetti/|@luisella_benedetti}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=11908101994231463929|Mappa}} — valutazione 4,5 su 5 (10 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
+   "url": "https://www.bereilvino.it/cantina/azienda-agricola-la-ghidina/",
+   "etichetta": "bereilvino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «ancillalugana.it/benvenuti», consultata il 25 ottobre 2026.",
+   "url": "https://ancillalugana.it/benvenuti",
+   "etichetta": "ancillalugana.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.ancillalugana.it",
+   "etichetta": "ancillalugana.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Ancilla - Azienda Agricola La Ghidina» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=11908101994231463929",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

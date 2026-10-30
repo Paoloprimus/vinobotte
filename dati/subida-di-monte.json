@@ -1,0 +1,106 @@
+{
+ "nome": "Subida di Monte",
+ "slug": "subida-di-monte",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Agrotech Soc. Agr. a R.L. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01208140317 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Subida 6, 34071 Cormons (GO) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 347 04 82 861 [[3]]\n+39 0481 61011[[2]] [[3]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@subidadimonte.it [[3]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.subidadimonte.it|subidadimonte.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Collio [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina fondata negli anni ’70 a Cormòns, 11 ettari; proprietà della famiglia Scarpa. [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Collio",
+     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=8994045565110946096|Mappa}} — valutazione 4,7 su 5 (62 recensioni) [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": "http://www.subidadimonte.it",
+   "etichetta": "subidadimonte.it"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Collio, scheda della cantina nell’elenco dei produttori, consultata il 25 ottobre 2026.",
+   "url": "https://www.collio.it/cantina/subida-di-monte/",
+   "etichetta": "collio.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.subidadimonte.it",
+   "etichetta": "subidadimonte.it"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Az. Agr. Subida di Monte - Agrotech» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=8994045565110946096",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

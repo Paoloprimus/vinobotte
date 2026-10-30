@@ -1,0 +1,182 @@
+{
+ "nome": "Graziano Prà",
+ "slug": "graziano-pra-soave",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola di Graziano Prà s.a.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via della Fontana 31, 37032 Monteforte d’Alpone (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7612125 · fax +39 045 7610326 · info@vinipra.it · marketing@vinipra.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinipra.it/|www.vinipra.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Valpolicella: {{/pagine/graziano-pra.html|scheda Valpolicella}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda F.lli Prà dagli anni Ottanta; dal 2007 Graziano Prà unico proprietario [[4]]"
+    },
+    {
+     "etichetta": "Tenuta",
+     "valore": "Agriturismo Monte Bisson in una tenuta di 15 ettari (7 a vigna, 8 a bosco) [[5]]"
+    },
+    {
+     "etichetta": "Metodo",
+     "valore": "Vigneti di collina, raccolta a mano, regime biologico [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Soave; l’elenco del sito riporta anche il Passito Bianco delle Fontane (senza denominazione indicata) e i vini della Valpolicella. Il sito non riporta le annate. [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Wild",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Otto",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Staforte",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Monte Grande",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Colle Sant’Antonio",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[8]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Accoglienza",
+     "valore": "Visite in cantina e agriturismo Monte Bisson [[9]] [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "vinipra.it in italiano e inglese; Instagram, Facebook, Twitter, TikTok, LinkedIn indicati [[10]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Instagram, Facebook, Twitter, TikTok, LinkedIn indicati dal sito; Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[10]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito della cantina; elenco del consorzio consultato dal vivo). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.vinipra.it/contatti",
+   "etichetta": "vinipra.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/graziano-pra».",
+   "url": "https://www.vinipra.it/it/graziano-pra/",
+   "etichetta": "vinipra.it/it/graziano-pra"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/agriturismo».",
+   "url": "https://www.vinipra.it/it/agriturismo/",
+   "etichetta": "vinipra.it/it/agriturismo"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini».",
+   "url": "https://www.vinipra.it/it/vini/",
+   "etichetta": "vinipra.it/it/vini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «vini/staforte».",
+   "url": "https://www.vinipra.it/vini/staforte/",
+   "etichetta": "vinipra.it/vini/staforte"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/colle».",
+   "url": "https://www.vinipra.it/it/vini/colle/",
+   "etichetta": "vinipra.it/it/vini/colle"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/visite».",
+   "url": "https://www.vinipra.it/it/visite/",
+   "etichetta": "vinipra.it/it/visite"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella».",
+   "url": "https://www.vinipra.it/it/vini/valpolicella/",
+   "etichetta": "vinipra.it/it/vini/valpolicella"
+  }
+ ]
+}

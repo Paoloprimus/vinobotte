@@ -1,0 +1,114 @@
+{
+ "nome": "Menegolli",
+ "slug": "menegolli-elsa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Menegolli Elsa [[1]] [[2]]\nSul sito: Menegolli Luigi, P.IVA 04083750234"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Ponte Florio 47, 37141 Verona [[1]]; sul sito: Via Tavigliana 8, 37023 Grezzana (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 907104 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://menegolli1450.it/|menegolli1450.it}} (il sito indicato dal Consorzio, menegolliwine.com, rinvia qui)"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Posizione",
+     "valore": "Cantina in Valpantena, ai piedi di Forte San Giovanni [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; il sito mostra anche uno spumante rosé e un Pinot Grigio IGT. Il sito non indica le annate. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Premium",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite guidate e degustazioni prenotabili per telefono o dai contatti; passeggiate nei vigneti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «menegolli1450.it», consultata il 24 ottobre 2026.",
+   "url": "https://menegolli1450.it/",
+   "etichetta": "menegolli1450.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «menegolli1450.it/wines», consultata il 24 ottobre 2026.",
+   "url": "https://menegolli1450.it/wines/",
+   "etichetta": "menegolli1450.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «menegolli1450.it/product/amarone-premium», consultata il 24 ottobre 2026.",
+   "url": "https://menegolli1450.it/product/amarone-premium/",
+   "etichetta": "menegolli1450.it"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

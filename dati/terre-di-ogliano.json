@@ -1,0 +1,100 @@
+{
+ "nome": "Terre di Ogliano",
+ "slug": "terre-di-ogliano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Terre di Ogliano S.S. Soc. Agr. Az. Agr. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Santissima Trinità, 58 - Ogliano, 31015 Conegliano [[1]]"
+    },
+    {
+     "etichetta": "Denominazioni Venezia dichiarate",
+     "valore": "Piave, Venezia [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bernardiogliano.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bernardiogliano.it/azienda.aspx|bernardiogliano.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Venezia [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Azienda (Bernardi Ogliano) di circa 16 ettari, di cui 13 a vigneto in un unico corpo attorno al centro aziendale. [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini Vini Venezia",
+     "valore": "Non indicato nella elenco dei produttori del Consorzio; non ancora raccolto dai siti delle cantine [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/bernardiogliano|bernardiogliano}}\nInstagram {{https://www.instagram.com/bernardi_ogliano/|@bernardi_ogliano}} [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=4323581896852518871|Mappa}} — valutazione 4,9 su 5 (10 recensioni) [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.bernardiogliano.it/azienda.aspx",
+   "etichetta": "bernardiogliano.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «AZ.AGR.TERRE DI OGLIANO SOC. AGR.SEMPLICE» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=4323581896852518871",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

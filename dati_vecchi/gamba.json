@@ -1,0 +1,189 @@
+{
+ "nome": "Gamba",
+ "slug": "gamba",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Gamba Gnirega s.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Gnirega 19, 37020 Marano di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 6801714 · cell. +39 349 3154527 · info@vinigamba.it [[2]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03301920231 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinigamba.it/|www.vinigamba.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina attiva dal 2003, fondata dai fratelli Giovanni, Giuseppe e Martino Aldrighetti; “Gamba” è il soprannome storico della famiglia [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "15 ettari a terrazze, circa 300 m s.l.m., nella Valpolicella Classica [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Linee Campedel e Le Quare; il sito non riporta le annate nell’elenco. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Campedel Riserva",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Campedel",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Campedel",
+     "denominazione": "Valpolicella Ripasso Superiore Classico DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Campedel",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Campedel",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Le Quare",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Le Quare",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Le Quare",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Le Quare",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Diplomi di Gran Menzione al concorso Vinitaly (2008–2015) per Amarone Campedel, Amarone Le Quare e Recioto Le Quare; punteggi 5 Star Wines tra 90 e 94 su 100 (2018–2025); nel 2022 Premio Dante (miglior vino del territorio veronese) all’Amarone Riserva 2015 con 94 punti; dichiarati dalla cantina, non verificati da VinoBot sulle guide [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "vinigamba.it con pagina riconoscimenti [[10]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «dove-siamo».",
+   "url": "https://www.vinigamba.it/dove-siamo/",
+   "etichetta": "vinigamba.it/dove-siamo"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.vinigamba.it/",
+   "etichetta": "vinigamba.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://www.vinigamba.it/vini/",
+   "etichetta": "vinigamba.it/vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini/amarone-riserva-campedel».",
+   "url": "https://www.vinigamba.it/vini/amarone-riserva-campedel/",
+   "etichetta": "vinigamba.it/vini/amarone-riserva-campedel"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «vini/amarone-campedel».",
+   "url": "https://www.vinigamba.it/vini/amarone-campedel/",
+   "etichetta": "vinigamba.it/vini/amarone-campedel"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «vini/ripasso-campedel».",
+   "url": "https://www.vinigamba.it/vini/ripasso-campedel/",
+   "etichetta": "vinigamba.it/vini/ripasso-campedel"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «vini/amarone-le-quare».",
+   "url": "https://www.vinigamba.it/vini/amarone-le-quare/",
+   "etichetta": "vinigamba.it/vini/amarone-le-quare"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «vini/recioto-le-quare».",
+   "url": "https://www.vinigamba.it/vini/recioto-le-quare/",
+   "etichetta": "vinigamba.it/vini/recioto-le-quare"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «riconoscimenti».",
+   "url": "https://www.vinigamba.it/riconoscimenti/",
+   "etichetta": "vinigamba.it/riconoscimenti"
+  }
+ ]
+}

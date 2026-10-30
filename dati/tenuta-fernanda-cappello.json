@@ -1,0 +1,112 @@
+{
+ "nome": "Tenuta Fernanda Cappello",
+ "slug": "tenuta-fernanda-cappello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01176780938 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada di Sequals, 15, 33090 Sequals (PN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39042793291 [[3]]\ne fax 0427/93291 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fernandacappello.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.fernandacappello.it|fernandacappello.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Friuli Grave [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Non disponibile nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Friuli Grave DOC [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Vini di Veronelli 2023\nGambero Rosso, Libro dei vini 2023 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/tenutafernandacappellosequals|tenutafernandacappellosequals}}\nInstagram {{https://www.instagram.com/tenuta.fernanda.cappello/|@tenuta.fernanda.cappello}} [[3]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=17969052420230330120|Mappa}} — valutazione 4,4 su 5 (65 recensioni) [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 25 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, piè di pagina o note legali, consultato il 27 ottobre 2026.",
+   "url": " Privacy policy | Cookie pol|http://www.fernandacappello.it",
+   "etichetta": " Privacy policy | Cookie pol|http:"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «docfriuligrave.com/cantine.html», consultata il 24 ottobre 2026.",
+   "url": "https://www.docfriuligrave.com/cantine.html",
+   "etichetta": "docfriuligrave.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "http://www.fernandacappello.it",
+   "etichetta": "fernandacappello.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "http://www.fernandacappello.it",
+   "etichetta": "fernandacappello.it"
+  },
+  {
+   "n": 5,
+   "testo": "Scheda «Tenuta Fernanda Cappello» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=17969052420230330120",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

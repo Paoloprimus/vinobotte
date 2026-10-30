@@ -1,0 +1,218 @@
+{
+ "nome": "Coali - Tenuta Savoia",
+ "slug": "coali",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Coali - Tenuta Savoia Soc. Agr. Semplice (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04001760232 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Case Sparse Coali 3, 37015 Sant’Ambrogio di Valpolicella (VR); wine shop e uffici in Via Matteotti 12 [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 9619175 · cell. +39 347 5287771 · info@coali.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.coali.it/|www.coali.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Fondata nel 1997 a Sant’Ambrogio di Valpolicella [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Nove ettari collinari in Valpolicella Classica, tra 250 e 400 m, esposti a sud; cru Il Carlin, I Pipioni, I Simieri, Il Bigio [[3]]"
+    },
+    {
+     "etichetta": "Vitigni",
+     "valore": "5 varietà autoctone, 9 etichette [[3]]"
+    },
+    {
+     "etichetta": "Associazioni",
+     "valore": "Aderisce alla FIVI [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Il Carlin",
+     "denominazione": "Valpolicella Superiore Ripasso DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "I Pipioni",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Il Bigio",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Savoia",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel testo salvato del sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Wine tour",
+     "valore": "Degustazioni guidate in cantina tra i vigneti [[12]]"
+    },
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–ven 8.30–12 e 14–18.30; sabato 8–12; sabato pomeriggio e domenica su prenotazione [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "coali.it, in italiano, inglese e tedesco, con blog [[13]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://coali.it/contatti",
+   "etichetta": "coali.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://coali.it/chi-siamo",
+   "etichetta": "coali.it/chi-siamo"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://coali.it/vini",
+   "etichetta": "coali.it/vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini/amarone».",
+   "url": "https://coali.it/vini/amarone",
+   "etichetta": "coali.it/vini/amarone"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «vini/amarone-riserva».",
+   "url": "https://coali.it/vini/amarone-riserva",
+   "etichetta": "coali.it/vini/amarone-riserva"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «vini/il-carlin».",
+   "url": "https://coali.it/vini/il-carlin",
+   "etichetta": "coali.it/vini/il-carlin"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «vini/i-pipioni».",
+   "url": "https://coali.it/vini/i-pipioni",
+   "etichetta": "coali.it/vini/i-pipioni"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «vini/il-bigio».",
+   "url": "https://coali.it/vini/il-bigio",
+   "etichetta": "coali.it/vini/il-bigio"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «vini/valpolicella-classico».",
+   "url": "https://coali.it/vini/valpolicella-classico",
+   "etichetta": "coali.it/vini/valpolicella-classico"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «vini/recioto».",
+   "url": "https://coali.it/vini/recioto",
+   "etichetta": "coali.it/vini/recioto"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «wine-tours».",
+   "url": "https://coali.it/wine-tours",
+   "etichetta": "coali.it/wine-tours"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «blog».",
+   "url": "https://coali.it/blog",
+   "etichetta": "coali.it/blog"
+  }
+ ]
+}

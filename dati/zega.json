@@ -1,0 +1,104 @@
+{
+ "nome": "Zega",
+ "slug": "zega",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA e codice fiscale",
+     "valore": "01503800490 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via di Costarella 32, 57030, Marciana (LI) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "329 5458888 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@zegaelba.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.zegaelba.it/|zegaelba.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Seguendo una visione, seguendo la passione, seguendo il cuore, (bis) nonno Giovanni scelse di acquistare i terreni e le vigne che costituiscono oggi la Tenuta Zega. Nome o meglio soprannome, con cui venne battezzato dall’anagrafe volgare, come consuetudine dei tempi. Un marchio a fuoco, indelebile, che veniva impresso a futura memoria ad ogni famiglia, e che oggi caratterizza il vino da noi prodotto. [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Elba Rosso DOC; Elba Bianco DOC; Elba Vermentino DOC [[2]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Vermentino [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=16758039522864827514|Mappa}} — valutazione 4,9 su 5 (74 recensioni) — Google la segnala come temporaneamente chiusa [[3]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[4]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://www.zegaelba.it/",
+   "etichetta": "zegaelba.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://www.zegaelba.it/",
+   "etichetta": "zegaelba.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Azienda agricola Zega» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=16758039522864827514",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 4,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

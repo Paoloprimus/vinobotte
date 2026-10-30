@@ -1,0 +1,199 @@
+{
+ "nome": "Bronzato",
+ "slug": "bronzato",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Bronzato / Agricola Vittoria s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04497870230 [[2]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via dei Peschi 21, 37141 Verona [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 378 0663873 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bronzatowine.it [[3]] [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bronzatowine.it/|www.bronzatowine.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella come «Bronzato / Agricola Vittoria s.s.» [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Azienda di famiglia; coltiva la terra da generazioni e si dedica alla vite e al vino solo da pochi anni [[4]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "Alta Val Squaranto, colline a nord di Verona, a poca distanza dal Parco regionale della Lessinia [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "Alta Val Squaranto, in zona Valpolicella; nello stesso territorio anche olivo e ciliegio, prati e boschi [[4]]"
+    },
+    {
+     "etichetta": "Terreni",
+     "valore": "Basalto, biancone della Lessinia e selce; la selce è il simbolo dell’azienda [[4]]"
+    },
+    {
+     "etichetta": "Conduzione",
+     "valore": "Produzione con metodo biologico, in alta collina con forte escursione termica e ventilazione quasi costante [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Amarone della Valpolicella DOCG, Valpolicella Ripasso, Valpolicella Superiore, Rosato Veneto; serie «Artist Series» (Pinot Noir, Chardonnay, Nebbiolo) [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette come indicate sul sito della cantina; annate non indicate. [[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "—"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "bronzatowine.it, in italiano e inglese, con negozio online [[2]] [[7]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Negozio con carrello sul sito [[7]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/bronzatowine|bronzatowine}}\nInstagram {{https://www.instagram.com/bronzatowine/|@bronzatowine}} [[8]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=1910904355891209041|Mappa}} — valutazione 3,6 su 5 (14 recensioni) [[9]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[10]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.bronzatowine.it/",
+   "etichetta": "bronzatowine.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.bronzatowine.it/contatti/",
+   "etichetta": "bronzatowine.it/contatti"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://www.bronzatowine.it/azienda/",
+   "etichetta": "bronzatowine.it/azienda"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «oltre-il-bio».",
+   "url": "https://www.bronzatowine.it/oltre-il-bio/",
+   "etichetta": "bronzatowine.it/oltre-il-bio"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://www.bronzatowine.it/vini/",
+   "etichetta": "bronzatowine.it/vini"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «shop».",
+   "url": "https://www.bronzatowine.it/shop/",
+   "etichetta": "bronzatowine.it/shop"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.bronzatowine.it/",
+   "etichetta": "bronzatowine.it"
+  },
+  {
+   "n": 9,
+   "testo": "Scheda «Bronzato Azienda Vitivinicola - Agricola Vittoria SS» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=1910904355891209041",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 10,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

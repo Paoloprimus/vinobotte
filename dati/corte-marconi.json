@@ -1,0 +1,142 @@
+{
+ "nome": "Corte Marconi",
+ "slug": "corte-marconi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "S.S. Corte Marconi Giulia [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04479220230 [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Casa Zamboni 70/i5, 37024 Negrar di Valpolicella (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 349 4152994 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cortemarconi.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortemarconi.it/|www.cortemarconi.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Viticoltori da quattro generazioni; primi vini prodotti nel 2019; antica corte alle porte della Valpolicella Classica [[1]]"
+    },
+    {
+     "etichetta": "Agricoltura",
+     "valore": "Viticoltura biologica; interventi minimi in cantina [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[3]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Baimara",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Informazioni e prenotazione visite tramite modulo [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortemarconi.it, con shop [[6]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Instagram\nFacebook\nWhatsApp [[1]]\nGoogle Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[7]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «about».",
+   "url": "https://cortemarconi.it/about/",
+   "etichetta": "cortemarconi.it/about"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «adventure-details».",
+   "url": "https://cortemarconi.it/adventure-details/",
+   "etichetta": "cortemarconi.it/adventure-details"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-classico».",
+   "url": "http://cortemarconi.it/valpolicella-classico/",
+   "etichetta": "cortemarconi.it/valpolicella-classico"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «contact».",
+   "url": "https://cortemarconi.it/contact/",
+   "etichetta": "cortemarconi.it/contact"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «981-2».",
+   "url": "https://cortemarconi.it/981-2/",
+   "etichetta": "cortemarconi.it/981-2"
+  },
+  {
+   "n": 7,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

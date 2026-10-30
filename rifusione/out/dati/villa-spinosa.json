@@ -1,0 +1,143 @@
+{
+ "nome": "Villa Spinosa",
+ "slug": "villa-spinosa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Villa Spinosa di Enrico Cascella Spinosa [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02237040239 [[6]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Jago Dall’Ora 14, 37024 Negrar di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7500093; mobile +39 340 3060480; info@villaspinosa.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.villaspinosa.it/|www.villaspinosa.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e sede",
+     "valore": "Rustici di Jago e villa ottocentesca con giardino all’italiana; cantine, wine shop e agriturismo nei rustici ristrutturati [[3]] [[4]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Vigneti di collina dei cru Jago, Figari e Costa del Buso [[3]]"
+    },
+    {
+     "etichetta": "Staff",
+     "valore": "Andrea Zaramella (direttore e area viticola); Gianmaria Ciman (enologo) [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito salvato non contiene un elenco vini; sono citati nelle notizie solo i vini sotto. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Albasini",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2017, 2019 [[5]]"
+    },
+    {
+     "nome": "Francesca Finato Spinosa",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "2021 [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Wine shop lun–ven 9.30–12.30 e 15–18 [[2]]"
+    },
+    {
+     "etichetta": "Agriturismo",
+     "valore": "Corte Spinosa, agriturismo con spazi per visite, degustazioni, eventi e matrimoni [[3]] [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Tre Bicchieri Gambero Rosso all’Amarone Albasini (otto volte); Quattro Viti AIS Vitae 2025 all’Albasini 2017; 4 Rosoni AIS Veneto (Vinetia 2025) al Recioto 2021; Amarone 94 punti Sarah Heller. Dichiarati dalla cantina, non verificati da VinoBot sulle guide [[2]] [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «dovesiamo.asp».",
+   "url": "http://www.villaspinosa.it/dovesiamo.asp",
+   "etichetta": "villaspinosa.it/dovesiamo.asp"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «chisiamo.asp».",
+   "url": "http://www.villaspinosa.it/chisiamo.asp",
+   "etichetta": "villaspinosa.it/chisiamo.asp"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «storia.asp».",
+   "url": "http://www.villaspinosa.it/storia.asp",
+   "etichetta": "villaspinosa.it/storia.asp"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "http://www.villaspinosa.it/",
+   "etichetta": "villaspinosa.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, consultato il 25 ottobre 2026, pagina «villaspinosa.it» (verifica incrociata).",
+   "url": "https://www.villaspinosa.it/",
+   "etichetta": "villaspinosa.it"
+  }
+ ]
+}

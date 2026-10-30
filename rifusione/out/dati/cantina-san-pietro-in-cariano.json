@@ -1,0 +1,153 @@
+{
+ "nome": "Cantina Sociale Valpolicella Classico di San Pietro in Cariano",
+ "slug": "cantina-san-pietro-in-cariano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina Sociale Valpolicella Classico di San Pietro In Cariano (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00343920237 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Valpolicella 61, 37029 San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 6838448 · info@cantinavalpolicellasanpietro.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinavalpolicellasanpietro.it/|www.cantinavalpolicellasanpietro.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Natura",
+     "valore": "Cantina cooperativa nata prima del 1946; dopo circa due anni dalla fondazione contava 164 soci [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Prodotti",
+     "valore": "Vini rossi della Valpolicella (Amarone, Recioto, Ripasso), Chardonnay fermo e frizzante IGT, olio, grappe [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco desunto dalla pagina prodotti; i singoli vini e le annate non sono dettagliati nel testo salvato. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari negozio",
+     "valore": "Lun–ven 9–12.30 e 15.30–19; sabato 9–12.30; domenica chiuso [[2]]"
+    },
+    {
+     "etichetta": "Ospitalità locale",
+     "valore": "Pagina su dove dormire e mangiare in Valpolicella [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cantinavalpolicellasanpietro.it con shop online (sospeso secondo un avviso del sito) [[6]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Facebook indicato dal sito; Google Business Profile, Vivino, Wine-Searcher, Instagram, YouTube, Wikipedia: presenza non verificata [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.cantinavalpolicellasanpietro.it/contatti/",
+   "etichetta": "cantinavalpolicellasanpietro.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://www.cantinavalpolicellasanpietro.it/azienda",
+   "etichetta": "cantinavalpolicellasanpietro.it/azienda"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «prodotti-vini-olio-grappe».",
+   "url": "https://www.cantinavalpolicellasanpietro.it/prodotti-vini-olio-grappe/",
+   "etichetta": "cantinavalpolicellasanpietro.it/prodotti-vini-olio-grappe"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «ospitalita».",
+   "url": "https://www.cantinavalpolicellasanpietro.it/ospitalita/",
+   "etichetta": "cantinavalpolicellasanpietro.it/ospitalita"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «avviso-sospensione-shop».",
+   "url": "https://www.cantinavalpolicellasanpietro.it/avviso-sospensione-shop/",
+   "etichetta": "cantinavalpolicellasanpietro.it/avviso-sospensione-shop"
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "nome": "Bronzato",
+ "slug": "bronzato",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Bronzato / Agricola Vittoria s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04497870230 [[6]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via dei Peschi 21, 37141 Verona [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "info@bronzatowine.it [[2]] · Tel. +39 378 0663873 [[6]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bronzatowine.it/|www.bronzatowine.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella come «Bronzato / Agricola Vittoria s.s.» [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Azienda di famiglia; coltiva la terra da generazioni e si dedica alla vite e al vino solo da pochi anni [[3]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "Alta Val Squaranto, colline a nord di Verona, a poca distanza dal Parco regionale della Lessinia [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: struttura",
+   "righe": [
+    {
+     "etichetta": "Vigneti",
+     "valore": "Alta Val Squaranto, in zona Valpolicella; nello stesso territorio anche olivo e ciliegio, prati e boschi [[3]]"
+    },
+    {
+     "etichetta": "Terreni",
+     "valore": "Basalto, biancone della Lessinia e selce; la selce è il simbolo dell’azienda [[3]]"
+    },
+    {
+     "etichetta": "Conduzione",
+     "valore": "Produzione con metodo biologico, in alta collina con forte escursione termica e ventilazione quasi costante [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Amarone della Valpolicella DOCG, Valpolicella Ripasso, Valpolicella Superiore, Rosato Veneto; serie «Artist Series» (Pinot Noir, Chardonnay, Nebbiolo) [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette come indicate sul sito della cantina; annate non indicate. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "—"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "bronzatowine.it, in italiano e inglese, con negozio online [[6]] [[7]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Negozio con carrello sul sito [[7]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.bronzatowine.it/contatti/",
+   "etichetta": "bronzatowine.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «azienda».",
+   "url": "https://www.bronzatowine.it/azienda/",
+   "etichetta": "bronzatowine.it/azienda"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «oltre-il-bio».",
+   "url": "https://www.bronzatowine.it/oltre-il-bio/",
+   "etichetta": "bronzatowine.it/oltre-il-bio"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://www.bronzatowine.it/vini/",
+   "etichetta": "bronzatowine.it/vini"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.bronzatowine.it/",
+   "etichetta": "bronzatowine.it"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «shop».",
+   "url": "https://www.bronzatowine.it/shop/",
+   "etichetta": "bronzatowine.it/shop"
+  }
+ ]
+}

@@ -1,0 +1,206 @@
+{
+ "nome": "Fornaser",
+ "slug": "fornaser",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Monte Faustino di Fornaser Paolo [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02695210233 [[1]] [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Bure Alto 1, 37029 San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "045 7701651\nfax 045 6801675 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fornaser.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fornaser.com/|www.fornaser.com}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Giuseppe Fornaser, nato nel 1920, “il Maestro”; dal 1984 in azienda il figlio Paolo [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Monte Faustino (primo vigneto di famiglia, circa 250 m, terra gialla tufacea), Costalunga e Traversagna [[4]] [[5]] [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[7]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Monte Faustino",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Amarone del Maestro Fornaser",
+     "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Monte Faustino",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "La Traversagna",
+     "denominazione": "Valpolicella Classico Superiore DOC (Ripasso)",
+     "annata": "— [[10]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Cantina storica",
+     "valore": "Degustazioni con gastronomia nella cantina storica di Monte Faustino [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "fornaser.com in italiano e inglese [[13]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Vivino: non trovata tra i produttori (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=10243817653072684132|Mappa}} — valutazione 4,7 su 5 (12 recensioni) [[14]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «ita/contatti.html».",
+   "url": "https://www.fornaser.com/ita/contatti.html",
+   "etichetta": "fornaser.com/ita/contatti.html"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «ita/arte.html».",
+   "url": "https://www.fornaser.com/ita/arte.html",
+   "etichetta": "fornaser.com/ita/arte.html"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «ita/monte_faustino.html».",
+   "url": "https://www.fornaser.com/ita/monte_faustino.html",
+   "etichetta": "fornaser.com/ita/monte_faustino.html"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «ita/costalunga.html».",
+   "url": "https://www.fornaser.com/ita/costalunga.html",
+   "etichetta": "fornaser.com/ita/costalunga.html"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «ita/traversagna.html».",
+   "url": "https://www.fornaser.com/ita/traversagna.html",
+   "etichetta": "fornaser.com/ita/traversagna.html"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «ita/amarone.html».",
+   "url": "https://www.fornaser.com/ita/amarone.html",
+   "etichetta": "fornaser.com/ita/amarone.html"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «ita/riserva.html».",
+   "url": "https://www.fornaser.com/ita/riserva.html",
+   "etichetta": "fornaser.com/ita/riserva.html"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «ita/recioto.html».",
+   "url": "https://www.fornaser.com/ita/recioto.html",
+   "etichetta": "fornaser.com/ita/recioto.html"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «ita/valpo_sup.html».",
+   "url": "https://www.fornaser.com/ita/valpo_sup.html",
+   "etichetta": "fornaser.com/ita/valpo_sup.html"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «ita/valpo.html».",
+   "url": "https://www.fornaser.com/ita/valpo.html",
+   "etichetta": "fornaser.com/ita/valpo.html"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «ita/cantina_storica.html».",
+   "url": "https://www.fornaser.com/ita/cantina_storica.html",
+   "etichetta": "fornaser.com/ita/cantina_storica.html"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «eng/index.html».",
+   "url": "https://www.fornaser.com/eng/index.html",
+   "etichetta": "fornaser.com/eng/index.html"
+  },
+  {
+   "n": 14,
+   "testo": "Scheda «Cantina Fornaser» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=10243817653072684132",
+   "etichetta": "maps.google.com"
+  }
+ ]
+}

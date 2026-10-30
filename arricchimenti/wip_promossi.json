@@ -1,0 +1,841 @@
+[
+ {
+  "wip": "Le Fonti di Ciucchi Simone",
+  "slug": "le-fonti-di-ciucchi-simone",
+  "nome": "Le Fonti di Ciucchi Simone",
+  "comune": "Barberino Tavarnelle",
+  "sede": "Località Pastine, Barberino Tavarnelle, FI",
+  "rag": "",
+  "piva": "",
+  "tel": "",
+  "email": "lefontidiciucchi@gmail.com",
+  "sito": "https://lefonti.weebly.com/",
+  "dom": "lefonti.weebly.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/LeFonti/",
+   "Instagram": "https://www.instagram.com/chiantipastine/"
+  },
+  "den": "Chianti DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/le-fonti-di-ciucchi-simone/"
+ },
+ {
+  "wip": "Eredi Milani Elvira S.A.",
+  "slug": "eredi-milani-elvira",
+  "nome": "Eredi Milani Elvira",
+  "comune": "Carrara",
+  "sede": "Piazza Matteotti 24, 54033 Carrara, MS",
+  "rag": "Azienda Agricola Eredi Elvira Milani",
+  "piva": "01170140451",
+  "tel": "+39 0585 73160",
+  "email": "borghettiangelo@eredielviramilani.wine",
+  "sito": "https://eredielviramilani.wine/",
+  "dom": "eredielviramilani.wine",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "candia-colli-apuani": [
+    "Candia dei Colli Apuani"
+   ]
+  },
+  "consorzio": "candia",
+  "regione": "Toscana",
+  "url_consorzio": "https://candiadeicolliapuani.it/the-winery/"
+ },
+ {
+  "wip": "Calevro di Bondielli Fabrizio",
+  "slug": "calevro",
+  "nome": "Calevro",
+  "comune": "Massa",
+  "sede": "Via Aurelia Ovest 158, 54100 Massa, MS",
+  "rag": "Azienda Agricola Calevro di Bondielli Fabrizio",
+  "piva": "01063640450",
+  "tel": "",
+  "email": "aziendacalevro@yahoo.it",
+  "sito": "https://vinicalevro.it/",
+  "dom": "vinicalevro.it",
+  "social": {},
+  "den": "Vermentino DOC, Rosso DOC",
+  "tipi": {
+   "candia-colli-apuani": [
+    "Candia dei Colli Apuani"
+   ]
+  },
+  "consorzio": "candia",
+  "regione": "Toscana",
+  "url_consorzio": "https://candiadeicolliapuani.it/the-winery/"
+ },
+ {
+  "wip": "Azienda Agricola degli Azzoni Avogadro Carradori",
+  "slug": "azzoni-avogadro-carradori",
+  "nome": "Azienda Agricola degli Azzoni Avogadro Carradori",
+  "comune": "Pontedera",
+  "sede": "Via Capecchi 74, 56025 Pontedera (fraz. La Rotta), PI",
+  "rag": "Azienda Agricola degli Azzoni Avogadro Carradori società semplice",
+  "piva": "",
+  "tel": "+39 0587 484818",
+  "email": "info@adegliazzoni.eu",
+  "sito": "https://www.adegliazzoni.eu/",
+  "dom": "adegliazzoni.eu",
+  "social": {
+   "Facebook": "https://www.facebook.com/contealdobrandodegliazzoni/",
+   "Instagram": "https://www.instagram.com/adegliazzoni/"
+  },
+  "den": "Chianti DOCG, Vin Santo DOC",
+  "tipi": {
+   "terre-di-pisa": [
+    "Terre di Pisa"
+   ],
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "terre_di_pisa",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.viniterredipisa.com/azienda-it.php?id=25"
+ },
+ {
+  "wip": "Castelvecchio (Azienda Agricola Castelvecchio, Terricciola)",
+  "slug": "castelvecchio-terricciola",
+  "nome": "Castelvecchio",
+  "comune": "Terricciola",
+  "sede": "Terricciola, PI",
+  "rag": "Società Agricola Castelvecchio S.r.l.",
+  "piva": "02449320502",
+  "tel": "",
+  "email": "info@agricastelvecchio.com",
+  "sito": "https://agricastelvecchio.com/",
+  "dom": "agricastelvecchio.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/aziendaagricola.castelvecchio.7",
+   "Instagram": "https://www.instagram.com/castelvecchio_wine/"
+  },
+  "den": "Terre di Pisa Rosso DOC, Terre di Pisa Sangiovese DOC, Vin Santo del Chianti DOC",
+  "tipi": {
+   "terre-di-pisa": [
+    "Terre di Pisa"
+   ],
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "terre_di_pisa",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.viniterredipisa.com/azienda-it.php?id=4"
+ },
+ {
+  "wip": "Fattoria Fibbiano",
+  "slug": "fattoria-fibbiano",
+  "nome": "Fattoria Fibbiano",
+  "comune": "Terricciola",
+  "sede": "Via Fibbiano 2, 56030 Terricciola, PI",
+  "rag": "",
+  "piva": "01509860506",
+  "tel": "+39 0587 635677",
+  "email": "reception@fattoria-fibbiano.it",
+  "sito": "https://www.fattoria-fibbiano.it/",
+  "dom": "fattoria-fibbiano.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/fattoriafibbianoagriturismo/",
+   "Instagram": "https://www.instagram.com/fattoriafibbiano/"
+  },
+  "den": "",
+  "tipi": {
+   "terre-di-pisa": [
+    "Terre di Pisa"
+   ]
+  },
+  "consorzio": "terre_di_pisa",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.viniterredipisa.com/azienda-it.php?id=6"
+ },
+ {
+  "wip": "Tenuta di Ghizzano",
+  "slug": "tenuta-di-ghizzano",
+  "nome": "Tenuta di Ghizzano",
+  "comune": "Peccioli",
+  "sede": "Via della Chiesa 4, 56037 Ghizzano di Peccioli, PI",
+  "rag": "",
+  "piva": "01892770502",
+  "tel": "+39 0587 630096",
+  "email": "info@tenutadighizzano.com",
+  "sito": "https://www.tenutadighizzano.com/",
+  "dom": "tenutadighizzano.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/TenutadiGhizzano",
+   "Instagram": "https://www.instagram.com/tenuta_di_ghizzano/",
+   "YouTube": "https://www.youtube.com/channel/UCVaPpmyRfX2f4FHkTg_8WJQ",
+   "LinkedIn": "https://it.linkedin.com/company/tenuta-di-ghizzano"
+  },
+  "den": "Terre di Pisa Rosso DOC, Terre di Pisa Sangiovese DOC",
+  "tipi": {
+   "terre-di-pisa": [
+    "Terre di Pisa"
+   ]
+  },
+  "consorzio": "terre_di_pisa",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.viniterredipisa.com/azienda-it.php?id=8"
+ },
+ {
+  "wip": "Podere Pellicciano",
+  "slug": "podere-pellicciano",
+  "nome": "Podere Pellicciano",
+  "comune": "San Miniato",
+  "sede": "Via Serra 64, Loc. La Serra, 56028 San Miniato, PI",
+  "rag": "Agrisole S.s.a. di Caputo F. & C.",
+  "piva": "02013330507",
+  "tel": "+39 0571 460109",
+  "email": "info@poderepellicciano.it",
+  "sito": "https://poderepellicciano.it/",
+  "dom": "poderepellicciano.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/PoderePellicciano/",
+   "Instagram": "https://www.instagram.com/poderepellicciano/",
+   "YouTube": "https://www.youtube.com/channel/UCBkG3KhSB6-y4SCmJ09I0sQ"
+  },
+  "den": "",
+  "tipi": {
+   "terre-di-pisa": [
+    "Terre di Pisa"
+   ]
+  },
+  "consorzio": "terre_di_pisa",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.viniterredipisa.com/azienda-it.php?id=15"
+ },
+ {
+  "wip": "Podere La Chiesa",
+  "slug": "podere-la-chiesa",
+  "nome": "Podere La Chiesa",
+  "comune": "Terricciola",
+  "sede": "Via di Casanova 66/A, 56030 Terricciola, PI",
+  "rag": "Società Agricola Podere la Chiesa S.r.l.",
+  "piva": "01948460504",
+  "tel": "",
+  "email": "info@poderelachiesa.it",
+  "sito": "http://www.poderelachiesa.it/",
+  "dom": "poderelachiesa.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/PodereLaChiesa",
+   "Instagram": "https://www.instagram.com/poderelachiesa"
+  },
+  "den": "Chianti DOCG, Terre di Pisa Rosso DOC, Terre di Pisa Sangiovese DOC",
+  "tipi": {
+   "terre-di-pisa": [
+    "Terre di Pisa"
+   ],
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "terre_di_pisa",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.viniterredipisa.com/azienda-it.php?id=5"
+ },
+ {
+  "wip": "Marina Romin",
+  "slug": "marina-romin",
+  "nome": "Marina Romin",
+  "comune": "Terricciola",
+  "sede": "Via del Chianti 34, 56030 Terricciola, PI",
+  "rag": "",
+  "piva": "02338820505",
+  "tel": "+39 391 3506315",
+  "email": "cantina@marinaromin.com",
+  "sito": "https://marinaromin.com/",
+  "dom": "marinaromin.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/marinarominwines",
+   "Instagram": "https://www.instagram.com/marinarominwines/"
+  },
+  "den": "",
+  "tipi": {
+   "terre-di-pisa": [
+    "Terre di Pisa"
+   ]
+  },
+  "consorzio": "terre_di_pisa",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.viniterredipisa.com/azienda-it.php?id=17"
+ },
+ {
+  "wip": "Tenuta Casadei",
+  "slug": "tenuta-casadei",
+  "nome": "Tenuta Casadei",
+  "comune": "Suvereto",
+  "sede": "Località San Rocco, 57028 Suvereto, LI",
+  "rag": "Casadei & Cline s.s.a.",
+  "piva": "01699610497",
+  "tel": "+39 0565 1933605",
+  "email": "info@tenutacasadei.it",
+  "sito": "https://www.tenutacasadei.it/",
+  "dom": "tenutacasadei.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/tenutacasadei/",
+   "Instagram": "https://www.instagram.com/tenutacasadei/"
+  },
+  "den": "",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/tenuta-casadei/"
+ },
+ {
+  "wip": "Colle Vento",
+  "slug": "colle-vento",
+  "nome": "Colle Vento",
+  "comune": "Suvereto",
+  "sede": "Località Debbione 211, 57028 Suvereto, LI",
+  "rag": "Società Agricola L & Fam. di Govi Luca s.s.a.",
+  "piva": "01929210498",
+  "tel": "+39 370 3684164",
+  "email": "info@agriturismocollevento.it",
+  "sito": "https://agriturismocollevento.it/",
+  "dom": "agriturismocollevento.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/agriturismocollevento",
+   "Instagram": "https://www.instagram.com/agriturismocollevento"
+  },
+  "den": "",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/colle-vento/"
+ },
+ {
+  "wip": "Gualdo del Re",
+  "slug": "gualdo-del-re",
+  "nome": "Gualdo del Re",
+  "comune": "Suvereto",
+  "sede": "Località Notri 79, 57028 Suvereto, LI",
+  "rag": "GDR S.a.r.l.",
+  "piva": "01975760495",
+  "tel": "+39 0565 829888",
+  "email": "info@gualdodelre.it",
+  "sito": "https://www.gualdodelre.it/",
+  "dom": "gualdodelre.it",
+  "social": {},
+  "den": "Suvereto DOCG Merlot, Suvereto DOCG Sangiovese",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/gualdo-del-re/"
+ },
+ {
+  "wip": "Il Bruscello",
+  "slug": "il-bruscello",
+  "nome": "Il Bruscello",
+  "comune": "Suvereto",
+  "sede": "Località Tabarò 94, 57028 Suvereto, LI",
+  "rag": "Azienda Vitivinicola Il Bruscello di Laura Topi Celembrini",
+  "piva": "00806380499",
+  "tel": "+39 0565 827091",
+  "email": "info@ilbruscello.it",
+  "sito": "https://www.ilbruscello.it/",
+  "dom": "ilbruscello.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/ilbruscello.it",
+   "Instagram": "https://www.instagram.com/ilbruscello/"
+  },
+  "den": "",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/il-bruscello/"
+ },
+ {
+  "wip": "Il Falcone",
+  "slug": "il-falcone",
+  "nome": "Il Falcone",
+  "comune": "Suvereto",
+  "sede": "Località Falcone 186/187, 57028 Suvereto, LI",
+  "rag": "Azienda Agricola Il Falcone",
+  "piva": "00658810494",
+  "tel": "+39 333 1214293",
+  "email": "info@ilfalcone.net",
+  "sito": "https://ilfalcone.net/",
+  "dom": "ilfalcone.net",
+  "social": {},
+  "den": "Boccalupo DOCG",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/il-falcone/"
+ },
+ {
+  "wip": "Tua Rita",
+  "slug": "tua-rita",
+  "nome": "Tua Rita",
+  "comune": "Suvereto",
+  "sede": "Località Notri 81, 57028 Suvereto, LI",
+  "rag": "",
+  "piva": "01475690499",
+  "tel": "+39 0565 829237",
+  "email": "info@tuarita.it",
+  "sito": "https://accoglienza.tuarita.it/",
+  "dom": "accoglienza.tuarita.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/TuaRitaWinery",
+   "Instagram": "https://www.instagram.com/tua_rita/"
+  },
+  "den": "",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/tua-rita/"
+ },
+ {
+  "wip": "Petra",
+  "slug": "petra",
+  "nome": "Petra",
+  "comune": "Suvereto",
+  "sede": "Località San Lorenzo Alto 131, 57028 Suvereto, LI",
+  "rag": "Petra azienda agricola",
+  "piva": "01261500498",
+  "tel": "+39 0565 845308",
+  "email": "info@petrawine.it",
+  "sito": "https://www.petrawine.it/",
+  "dom": "petrawine.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/petrawine/",
+   "Instagram": "https://www.instagram.com/petrawine/"
+  },
+  "den": "",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/cantina-petra/"
+ },
+ {
+  "wip": "La Fralluca",
+  "slug": "la-fralluca",
+  "nome": "La Fralluca",
+  "comune": "Suvereto",
+  "sede": "Località Barbiconi 153, 57028 Suvereto, LI",
+  "rag": "Società Agricola La Fralluca di Luca Recine e C. s.s.",
+  "piva": "01500040496",
+  "tel": "",
+  "email": "info@lafralluca.com",
+  "sito": "https://www.lafralluca.com/",
+  "dom": "lafralluca.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/LaFralluca/",
+   "Instagram": "https://www.instagram.com/la_fralluca/"
+  },
+  "den": "",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/la-fralluca/"
+ },
+ {
+  "wip": "Terravita",
+  "slug": "terravita",
+  "nome": "Terravita",
+  "comune": "Suvereto",
+  "sede": "Località Gregana 198, 57028 Suvereto, LI",
+  "rag": "Tenuta TerraVita S.s.",
+  "piva": "01746300498",
+  "tel": "+39 388 9892188",
+  "email": "info@tenutaterravita.it",
+  "sito": "https://www.tenutaterravita.it/",
+  "dom": "tenutaterravita.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/tenutaterravita",
+   "Instagram": "https://www.instagram.com/tenuta_terravita/"
+  },
+  "den": "",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/terravita-2/"
+ },
+ {
+  "wip": "La Batistina",
+  "slug": "la-batistina",
+  "nome": "La Batistina",
+  "comune": "Suvereto",
+  "sede": "Località Ventoluccia 157, 57028 Suvereto, LI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 331 4562711",
+  "email": "info@tenutalabatistina.it",
+  "sito": "https://www.tenutalabatistina.it/",
+  "dom": "tenutalabatistina.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/tenutabatistina",
+   "Instagram": "https://www.instagram.com/_tenutalabatistina_/"
+  },
+  "den": "Suvereto DOCG (Quantisassi, Cabernet Sauvignon)",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "val_di_cornia",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/tenuta-la-batistina/"
+ },
+ {
+  "wip": "Terradonnà",
+  "slug": "terradonna",
+  "nome": "Terradonnà",
+  "comune": "Campiglia Marittima",
+  "sede": "Via di Fontanella 4, 57021 Campiglia Marittima, LI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 331 4026914",
+  "email": "info@terradonna.it",
+  "sito": "https://terradonna.it/",
+  "dom": "terradonna.it",
+  "social": {},
+  "den": "Suvereto DOCG, Rosso della Val di Cornia DOCG",
+  "tipi": {
+   "val-di-cornia": [
+    "Suvereto"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Valdamone",
+  "slug": "valdamone",
+  "nome": "Valdamone",
+  "comune": "Suvereto",
+  "sede": "Suvereto, LI",
+  "rag": "",
+  "piva": "",
+  "tel": "",
+  "email": "info@valdamone.com",
+  "sito": "https://valdamone.weebly.com/",
+  "dom": "valdamone.weebly.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/lorenzo.brugali.valdamone",
+   "Instagram": "https://www.instagram.com/valdamone/"
+  },
+  "den": "Val di Cornia DOC",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Tenuta Lenzini",
+  "slug": "tenuta-lenzini",
+  "nome": "Tenuta Lenzini",
+  "comune": "Capannori",
+  "sede": "Via della Chiesa di Gragnano 44, 55012 Capannori, LU",
+  "rag": "Tenuta Lenzini Soc. Agricola S.r.l.",
+  "piva": "01492070469",
+  "tel": "+39 0583 974037",
+  "email": "info@tenutalenzini.it",
+  "sito": "https://www.tenutalenzini.it/",
+  "dom": "tenutalenzini.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/TenutaLenzini",
+   "Instagram": "https://www.instagram.com/tenutalenzini/"
+  },
+  "den": "Colline Lucchesi DOC",
+  "tipi": {
+   "colline-lucchesi": [
+    "Colline Lucchesi"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Fattoria Maionchi",
+  "slug": "fattoria-maionchi",
+  "nome": "Fattoria Maionchi",
+  "comune": "Capannori",
+  "sede": "Via Tofori 81, 55012 Capannori, LU",
+  "rag": "Fattoria Maionchi società semplice agricola",
+  "piva": "02103430464",
+  "tel": "+39 0583 978194",
+  "email": "info@fattoriamaionchi.it",
+  "sito": "https://fattoriamaionchi.it/",
+  "dom": "fattoriamaionchi.it",
+  "social": {
+   "Facebook": "https://it-it.facebook.com/FattoriaMaionchi/",
+   "Instagram": "https://www.instagram.com/fattoriamaionchi/"
+  },
+  "den": "Rosso delle Colline Lucchesi DOC, Vin Santo delle Colline Lucchesi DOC",
+  "tipi": {
+   "colline-lucchesi": [
+    "Colline Lucchesi"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Fattoria Colleverde",
+  "slug": "fattoria-colleverde",
+  "nome": "Fattoria Colle Verde",
+  "comune": "Capannori",
+  "sede": "Loc. Castello, Matraia, 55012 Capannori, LU",
+  "rag": "Fattoria Colle Verde S.r.l.",
+  "piva": "01318620463",
+  "tel": "",
+  "email": "info@fattoria-colleverde.it",
+  "sito": "https://www.fattoria-colleverde.de/",
+  "dom": "fattoria-colleverde.de",
+  "social": {
+   "Facebook": "https://www.facebook.com/FattoriaColleVerde",
+   "Instagram": "https://www.instagram.com/fattoria_colle_verde/"
+  },
+  "den": "Colline Lucchesi DOC",
+  "tipi": {
+   "colline-lucchesi": [
+    "Colline Lucchesi"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Azienda Agricola La Badiola (Lucca)",
+  "slug": "la-badiola",
+  "nome": "La Badiola",
+  "comune": "Lucca",
+  "sede": "Via del Parco 868, San Pancrazio, 55100 Lucca, LU",
+  "rag": "Azienda Agricola La Badiola",
+  "piva": "01211030463",
+  "tel": "+39 328 1510088",
+  "email": "info@labadiola.it",
+  "sito": "https://www.labadiola.it/",
+  "dom": "labadiola.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/aziendaagricolalabadiola",
+   "Instagram": "https://www.instagram.com/labadiola/",
+   "LinkedIn": "https://www.linkedin.com/company/azienda-agricola-la-badiola/"
+  },
+  "den": "Colline Lucchesi Rosso DOC, Colline Lucchesi Bianco DOC",
+  "tipi": {
+   "colline-lucchesi": [
+    "Colline Lucchesi"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Fattoria Sardi Giustiniani",
+  "slug": "fattoria-sardi-giustiniani",
+  "nome": "Fattoria Sardi Giustiniani",
+  "comune": "Lucca",
+  "sede": "Via della Maulina 747, 55100 Lucca, LU",
+  "rag": "Fattoria Sardi s.a.r.l.",
+  "piva": "02090550464",
+  "tel": "",
+  "email": "fattoriasardi@gmail.com",
+  "sito": "https://www.fattoriasardi.com/",
+  "dom": "fattoriasardi.com",
+  "social": {},
+  "den": "Colline Lucchesi DOC",
+  "tipi": {
+   "colline-lucchesi": [
+    "Colline Lucchesi"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Azienda Agricola Enzo Carmignani",
+  "slug": "enzo-carmignani",
+  "nome": "Azienda Agricola Enzo Carmignani",
+  "comune": "Montecarlo",
+  "sede": "Via di Cercatoia Alta 14, 55015 Montecarlo, LU",
+  "rag": "Azienda Agricola Carmignani Enzo di Elena Carmignani",
+  "piva": "01845350469",
+  "tel": "+39 0583 22463",
+  "email": "info@fattoriacarmignani.com",
+  "sito": "https://www.fattoriacarmignani.com/",
+  "dom": "fattoriacarmignani.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/fattoriacarmignani",
+   "Instagram": "https://www.instagram.com/aziendaagricolacarmignanienzo/",
+   "YouTube": "https://www.youtube.com/@fattoriacarmignani"
+  },
+  "den": "Montecarlo Bianco DOC, Montecarlo Rosso DOC, Vin Santo DOC",
+  "tipi": {
+   "montecarlo": [
+    "Montecarlo"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Azienda Agricola Edoardo Primo",
+  "slug": "edoardo-primo",
+  "nome": "Edoardo Primo",
+  "comune": "Castelnuovo Magra",
+  "sede": "Via Aurelia 190, 19030 Castelnuovo Magra, SP",
+  "rag": "Edoardo Primo",
+  "piva": "01146940117",
+  "tel": "+39 340 6739118",
+  "email": "info@edoardoprimo.it",
+  "sito": "https://www.edoardoprimo.it/",
+  "dom": "edoardoprimo.it",
+  "social": {},
+  "den": "Colli di Luni Vermentino DOC, Colli di Luni Rosso DOC",
+  "tipi": {
+   "colli-di-luni": [
+    "Colli di Luni"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Liguria",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Azienda Agricola La Colombiera",
+  "slug": "la-colombiera",
+  "nome": "La Colombiera",
+  "comune": "Castelnuovo Magra",
+  "sede": "Via Montecchio 176, 19033 Castelnuovo Magra, SP",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0187 699235",
+  "email": "info@cantinalacolombiera.it",
+  "sito": "https://www.cantinalacolombiera.it/",
+  "dom": "cantinalacolombiera.it",
+  "social": {},
+  "den": "Colli di Luni Vermentino DOC",
+  "tipi": {
+   "colli-di-luni": [
+    "Colli di Luni"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Liguria",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Società Agricola Arrigoni",
+  "slug": "arrigoni",
+  "nome": "Arrigoni",
+  "comune": "La Spezia",
+  "sede": "Via Sarzana 224, 19126 La Spezia, SP",
+  "rag": "Arrigoni Soc. Agr. s.a.s.",
+  "piva": "00913860110",
+  "tel": "+39 0187 504060",
+  "email": "",
+  "sito": "https://arrigoni1913.it/",
+  "dom": "arrigoni1913.it",
+  "social": {},
+  "den": "Colli di Luni Vermentino DOC",
+  "tipi": {
+   "colli-di-luni": [
+    "Colli di Luni"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Liguria",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Azienda Agricola Zangani",
+  "slug": "zangani",
+  "nome": "Zangani",
+  "comune": "Santo Stefano di Magra",
+  "sede": "Via Gramsci 46, Loc. Mortedo, 19037 Santo Stefano di Magra, SP",
+  "rag": "Azienda Agricola Zangani",
+  "piva": "01392280119",
+  "tel": "+39 0187 632406",
+  "email": "box@zangani.it",
+  "sito": "https://www.zangani.it/",
+  "dom": "zangani.it",
+  "social": {},
+  "den": "Colli di Luni Vermentino Superiore DOC",
+  "tipi": {
+   "colli-di-luni": [
+    "Colli di Luni"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Liguria",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Azienda Agricola Lucchi e Guastalli",
+  "slug": "lucchi-e-guastalli",
+  "nome": "Lucchi e Guastalli",
+  "comune": "Santo Stefano di Magra",
+  "sede": "Via Vincinella 13/6, 19037 Santo Stefano di Magra, SP",
+  "rag": "Lucchi e Guastalli S.r.l.",
+  "piva": "01136750112",
+  "tel": "",
+  "email": "",
+  "sito": "https://lucchieguastalli.com/",
+  "dom": "lucchieguastalli.com",
+  "social": {},
+  "den": "Colli di Luni Vermentino DOC, Colli di Luni Rosso DOC",
+  "tipi": {
+   "colli-di-luni": [
+    "Colli di Luni"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Liguria",
+  "url_consorzio": ""
+ }
+]

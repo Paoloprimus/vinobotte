@@ -1,0 +1,150 @@
+{
+ "nome": "Fasoli Gino",
+ "slug": "fasoli-gino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Fasoli Gino di Fasoli Amadio e Natalino (come da elenco del Consorzio) [[1]]; sul sito: ICARO S.r.l. [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7650741 · welcome@fasoligino.com [[5]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cesare Battisti 47, San Zeno, 37030 Colognola ai Colli (VR) [[1]]; il sito indica via Cesare Battisti 49 [[2]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03089040236 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fasoligino.com/|www.fasoligino.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Soave e Recioto di Soave: {{/pagine/fasoli-gino-soave.html|scheda Soave}} [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vino Bardolino D.O.C.: {{/pagine/fasoli-gino-bardolino.html|scheda Bardolino}} [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Dal 1925 la famiglia coltiva la vite in Val d’Illasi [[2]]"
+    },
+    {
+     "etichetta": "Metodo",
+     "valore": "Biologico dal 1984; oggi anche pratiche biodinamiche e di agricoltura rigenerativa [[2]]"
+    },
+    {
+     "etichetta": "Tenute",
+     "valore": "Magari Estates e Tenuta Le Cave [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette dello shop; il sito non riporta le annate. [[2]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Alteo",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "La Corte del Pozzo",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[2]]"
+    },
+    {
+     "nome": "La Corte del Pozzo",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Notizia sul sito: tra le cantine più belle del mondo da visitare secondo Forbes (14.04.2026); nessun premio sui vini [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Esperienze",
+     "valore": "Degustazioni e visite in cantina prenotabili sul sito; progetto “Adotta un albero” [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "fasoligino.com con negozio online, in italiano e inglese [[2]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Negozio sul sito; altri marketplace: presenza non verificata [[2]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://fasoligino.com/",
+   "etichetta": "fasoligino.com"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, consultato il 25 ottobre 2026, pagina «fasoligino.com» (verifica incrociata).",
+   "url": "https://www.fasoligino.com/",
+   "etichetta": "fasoligino.com"
+  }
+ ]
+}

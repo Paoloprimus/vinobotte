@@ -1,0 +1,115 @@
+{
+ "nome": "Tenuta S. Antonio",
+ "slug": "tenuta-s-antonio-soave",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta S. Antonio di Castagnedi [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Ceriani 23, Fr. San Zeno, 37030 Colognola ai Colli (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 045 7650383 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutasantantonio.it|tenutasantantonio.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Gestita da quattro fratelli (Massimo, Armando, Tiziano e Paolo Castagnedi); la storia della cantina si avvicina ai trent’anni e la famiglia lavora la terra da generazioni [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini della pagina «I Grandi Bianchi» che il sito indica come Soave; la cantina produce soprattutto Valpolicella e Amarone. Il sito non riporta le annate. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Monte di Colognola",
+     "denominazione": "Soave DOC U.G.A.",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Vecchie Vigne",
+     "denominazione": "Soave Cru",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Esperienze in cantina su prenotazione (Winederful, Valpolicella Experience, Valpolicella & Amarone Special, carta regalo) [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti per i vini Soave; i premi elencati nel sito riguardano Amarone e Valpolicella [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate dal vivo il 24 ottobre 2026. Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/tenuta-s-antonio-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «tenutasantantonio.it».",
+   "url": "https://tenutasantantonio.it/",
+   "etichetta": "tenutasantantonio.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «tenutasantantonio.it/i-bianchi».",
+   "url": "https://tenutasantantonio.it/i-bianchi/",
+   "etichetta": "tenutasantantonio.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, consultato dal vivo il 24 ottobre 2026, pagina «tenutasantantonio.it/esperienze».",
+   "url": "https://tenutasantantonio.it/esperienze/",
+   "etichetta": "tenutasantantonio.it"
+  }
+ ]
+}

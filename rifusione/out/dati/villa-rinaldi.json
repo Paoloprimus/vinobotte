@@ -1,0 +1,181 @@
+{
+ "nome": "Villa Rinaldi",
+ "slug": "villa-rinaldi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Villa Rinaldi sas di Rinaldi Rinaldo &c. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00877810234 [[12]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via San Lorenzo 74, 37038 Soave (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7613228; fax +39 045 6101051; info@villarinaldi.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://villarinaldi.it/|villarinaldi.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantine Rinaldi fondate da Marcello Rinaldo; poi Ferdinando; Rinaldo Rinaldi la trasforma in Villa Rinaldi (“Maison de Négoce Italiana”), specializzata in Spumanti Metodo Classico e vini della Valpolicella; dal 1999 entrano i figli [[4]]"
+    },
+    {
+     "etichetta": "Uve della Valpolicella",
+     "valore": "Corvina, Rondinella, Molinara da vigneti a 250–300 m s.l.m. [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella; la produzione è soprattutto di Spumanti Metodo Classico, anche da Chardonnay e Pinot Nero del Trentino Alto Adige. Il sito non riporta le annate. [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Corpus",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Rinaldi Maior",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Recioto Cuvée Millesimata",
+     "denominazione": "Recioto della Valpolicella DOCG (Metodo Classico)",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visita guidata alle cantine e degustazioni su prenotazione [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Pagina “Il medagliere”: tra gli altri, Corpus Amarone Gold Medal Los Angeles International Wine Competition 2016, Silver Decanter 2017 per Corpus e Rinaldi Maior, WineHunter Award 2017 (Merano). Dichiarati dalla cantina, non verificati da VinoBot sulle guide [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «cookie-policy».",
+   "url": "https://villarinaldi.it/cookie-policy/",
+   "etichetta": "villarinaldi.it/cookie-policy"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://villarinaldi.it/contatti/",
+   "etichetta": "villarinaldi.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «storia».",
+   "url": "https://villarinaldi.it/storia/",
+   "etichetta": "villarinaldi.it/storia"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «corpus-amarone-della-valpolicella-d-o-c-g».",
+   "url": "https://villarinaldi.it/corpus-amarone-della-valpolicella-d-o-c-g/",
+   "etichetta": "villarinaldi.it/corpus-amarone-della-valpolicella-d-o-c-g"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «collezioni».",
+   "url": "https://villarinaldi.it/collezioni/",
+   "etichetta": "villarinaldi.it/collezioni"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «rinaldi-maior-amarone-della-valpolicella-d-o-c-g».",
+   "url": "https://villarinaldi.it/rinaldi-maior-amarone-della-valpolicella-d-o-c-g/",
+   "etichetta": "villarinaldi.it/rinaldi-maior-amarone-della-valpolicella-d-o-c-g"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «valpolicella-ripasso-classico-superiore-doc-2».",
+   "url": "https://villarinaldi.it/valpolicella-ripasso-classico-superiore-doc-2/",
+   "etichetta": "villarinaldi.it/valpolicella-ripasso-classico-superiore-doc-2"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «recioto-della-valpolicella-doc».",
+   "url": "https://villarinaldi.it/recioto-della-valpolicella-doc/",
+   "etichetta": "villarinaldi.it/recioto-della-valpolicella-doc"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «villa-rinaldi».",
+   "url": "https://villarinaldi.it/villa-rinaldi/",
+   "etichetta": "villarinaldi.it/villa-rinaldi"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «awards».",
+   "url": "https://villarinaldi.it/awards/",
+   "etichetta": "villarinaldi.it/awards"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, consultato il 25 ottobre 2026, pagina «villarinaldi.it» (verifica incrociata).",
+   "url": "https://villarinaldi.it/",
+   "etichetta": "villarinaldi.it"
+  }
+ ]
+}

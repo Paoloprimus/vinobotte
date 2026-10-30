@@ -1,0 +1,137 @@
+{
+ "nome": "Santa Sofia",
+ "slug": "santa-sofia-delle-venezie",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Santa Sofia S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Cà Dedè 61, Pedemonte, 37020 San Pietro in Cariano (VR) [[2]]; il sito indica Via Ca’ Dedè [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7701074; info@santasofia.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.santasofia.com/|www.santasofia.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[3]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini Valpolicella: {{/pagine/santa-sofia.html|scheda Valpolicella}} [[2]]"
+    },
+    {
+     "etichetta": "Altro consorzio",
+     "valore": "Compare anche nell’elenco del Consorzio Tutela Vini DOC Delle Venezie: {{/pagine/santa-sofia-delle-venezie.html|scheda Delle Venezie}} [[3]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
+     "valore": "Via Ca’ Dede’ 61 Fraz. Pedemonte di Valpolicella 37029 San Pietro in Cariano (Verona) – Italia; tel. 045 7701074; info@santasofia.com; antichello.it [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Villa Santa Sofia (Palladio, 1565) legata alla produzione di vino dal 1811; famiglia Begnoni (Giancarlo e Luciano) da circa 50 anni [[4]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Tenuta Briago in Valpantena (45 ettari) e Montegradella in Valpolicella Classica (24 ettari); in parte uve di conferitori storici [[5]] [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Wine tour di circa 2 ore nelle cantine storiche (€ 10) con degustazioni a scelta da € 12 a € 30 [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pinot Grigio Antichello",
+     "denominazione": "Delle Venezie DOC",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://www.santasofia.com/it/contatti",
+   "etichetta": "santasofia.com/it/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/azienda».",
+   "url": "https://www.santasofia.com/it/azienda",
+   "etichetta": "santasofia.com/it/azienda"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/uve-e-vigneti».",
+   "url": "https://www.santasofia.com/it/uve-e-vigneti",
+   "etichetta": "santasofia.com/it/uve-e-vigneti"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/ospitalita».",
+   "url": "https://www.santasofia.com/it/ospitalita",
+   "etichetta": "santasofia.com/it/ospitalita"
+  }
+ ]
+}

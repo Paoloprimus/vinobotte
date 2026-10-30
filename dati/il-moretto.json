@@ -1,0 +1,101 @@
+{
+ "nome": "Il Moretto",
+ "slug": "il-moretto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Vitale, 9, 54100 Mirteto, Massa (MS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 339 2477068 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ilmoretto.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ilmoretto.com/|ilmoretto.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Candia dei Colli Apuani [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Elenco vini",
+     "valore": "Denominazioni DOC e DOCG: Candia dei Colli Apuani DOC [[3]]"
+    },
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Toscana IGT; Vermentino [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=6095172221885172248|Mappa}} — valutazione 4,6 su 5 (95 recensioni) — Google la segnala come temporaneamente chiusa [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://www.ilmoretto.com/",
+   "etichetta": "ilmoretto.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende associate al Consorzio di Tutela del Candia dei Colli Apuani, consultato il 30 ottobre 2026.",
+   "url": "https://candiadeicolliapuani.it/the-winery/",
+   "etichetta": "candiadeicolliapuani.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
+   "url": "https://www.ilmoretto.com/",
+   "etichetta": "ilmoretto.com"
+  },
+  {
+   "n": 4,
+   "testo": "Scheda «Il Moretto Azienda Agricola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=6095172221885172248",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

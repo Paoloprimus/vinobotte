@@ -1,0 +1,217 @@
+{
+ "nome": "Il Canovino",
+ "slug": "il-canovino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Il Canovino S.r.l. Soc. Agricola [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Contrada La Costa 2, località Mizzole, 37141 Verona [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 348 2205949\nfax +39 045 988292 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "commerciale@ilcanovino.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ilcanovino.it/|www.ilcanovino.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Quattro generazioni; tenuta in località Canova [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Località Mizzole, 200–250 m, esposizione sud, terreno calcareo; vigneti dichiarati in regime biologico [[4]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Grappa di Amarone, olio extravergine biologico [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Solo i vini a denominazione Valpolicella e il rosso IGT; la tenuta produce anche Soave, Lugana e Pinot Grigio. Il sito non riporta le annate. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Riserva",
+     "denominazione": "Amarone della Valpolicella DOCG Riserva",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Superiore DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Appassimento",
+     "denominazione": "Valpolicella DOC Superiore",
+     "annata": "— [[9]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella DOC",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Relais",
+     "valore": "Due suite a Verona di fronte a Castelvecchio [[10]]"
+    },
+    {
+     "etichetta": "Visite",
+     "valore": "Su appuntamento telefonico [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Pagina Riconoscimenti senza contenuto sul sito [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/pages/Il-Canovino/411000865634387|Il-Canovino}}\nInstagram {{https://www.instagram.com/tenuta_il_canovino/|@tenuta_il_canovino}}\nX {{https://x.com/ilcanovino|@ilcanovino}} [[12]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=157411035555459775|Mappa}} — valutazione 4,8 su 5 (27 recensioni) [[13]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[14]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «it/contatti».",
+   "url": "https://www.ilcanovino.it/it/contatti",
+   "etichetta": "ilcanovino.it/it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «it/la-missione».",
+   "url": "https://www.ilcanovino.it/it/la-missione",
+   "etichetta": "ilcanovino.it/it/la-missione"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «it/le-selezioni/amarone-della-valpolicella-docg-classico-2».",
+   "url": "https://www.ilcanovino.it/it/le-selezioni/amarone-della-valpolicella-docg-classico-2",
+   "etichetta": "ilcanovino.it/it/le-selezioni/amarone-della-valpolicella-docg-classico-2"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «it/le-selezioni».",
+   "url": "https://www.ilcanovino.it/it/le-selezioni",
+   "etichetta": "ilcanovino.it/it/le-selezioni"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «it/le-selezioni/amarone-della-valpolicella-docg-riserva-1».",
+   "url": "https://www.ilcanovino.it/it/le-selezioni/amarone-della-valpolicella-docg-riserva-1",
+   "etichetta": "ilcanovino.it/it/le-selezioni/amarone-della-valpolicella-docg-riserva-1"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «it/le-selezioni/recioto-della-valpolicella-docg-41».",
+   "url": "https://www.ilcanovino.it/it/le-selezioni/recioto-della-valpolicella-docg-41",
+   "etichetta": "ilcanovino.it/it/le-selezioni/recioto-della-valpolicella-docg-41"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «it/le-selezioni/valpolicella-ripasso-doc-superiore-3».",
+   "url": "https://www.ilcanovino.it/it/le-selezioni/valpolicella-ripasso-doc-superiore-3",
+   "etichetta": "ilcanovino.it/it/le-selezioni/valpolicella-ripasso-doc-superiore-3"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «it/le-selezioni/valpolicella-doc-superiore-tenuta-il-canovino-38».",
+   "url": "https://www.ilcanovino.it/it/le-selezioni/valpolicella-doc-superiore-tenuta-il-canovino-38",
+   "etichetta": "ilcanovino.it/it/le-selezioni/valpolicella-doc-superiore-tenuta-il-canovino-38"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «it/relais».",
+   "url": "https://www.ilcanovino.it/it/relais",
+   "etichetta": "ilcanovino.it/it/relais"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «it/riconoscimenti».",
+   "url": "https://www.ilcanovino.it/it/riconoscimenti",
+   "etichetta": "ilcanovino.it/it/riconoscimenti"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.ilcanovino.it/",
+   "etichetta": "ilcanovino.it"
+  },
+  {
+   "n": 13,
+   "testo": "Scheda «Tenuta il Canovino» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=157411035555459775",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 14,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

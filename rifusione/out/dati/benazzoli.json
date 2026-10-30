@@ -1,0 +1,264 @@
+{
+ "nome": "Benazzoli",
+ "slug": "benazzoli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Benazzoli Fulvio Società Agricola Semplice [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04392210235 [[13]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Località Costiere 25, 37010 Pastrengo (VR) [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. e WhatsApp +39 045 7170395 · info@benazzoli.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.benazzoli.com/|www.benazzoli.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella come «Benazzoli Fulvio Soc. Agr. Semplice» [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Bardolino D.O.C. [[14]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà",
+   "righe": [
+    {
+     "etichetta": "Famiglia",
+     "valore": "Le sorelle Claudia e Giulia Benazzoli, con alle spalle quattro generazioni di famiglia del vino di origine trentina (nonno Vittorio, papà Fulvio) [[4]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Negli anni Settanta la famiglia si sposta dal Trentino alle colline del Lago di Garda e della Valpolicella classica [[4]]"
+    },
+    {
+     "etichetta": "Luogo",
+     "valore": "Pastrengo [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: produzione",
+   "righe": [
+    {
+     "etichetta": "Denominazioni",
+     "valore": "Amarone della Valpolicella Classico DOCG, Valpolicella Ripasso DOC, Valpolicella Superiore DOC, Trento DOC, Pinot Grigio delle Venezie DOC, Chiaretto di Bardolino DOC, Bardolino DOC [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Etichette come indicate sul sito della cantina, che non riporta le annate in vendita. [[5]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[14]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "—"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Riserva",
+     "denominazione": "Trento DOC Riserva Dosaggio zero, metodo classico",
+     "annata": "—"
+    },
+    {
+     "nome": "Agata",
+     "denominazione": "Pinot Grigio DOC delle Venezie",
+     "annata": "—"
+    },
+    {
+     "nome": "Tecla",
+     "denominazione": "Chiaretto di Bardolino DOC",
+     "annata": "—"
+    },
+    {
+     "nome": "Dafne",
+     "denominazione": "Bardolino DOC",
+     "annata": "—"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino DOC; Chiaretto di Bardolino DOC [[14]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti dichiarati dalla cantina",
+   "righe": [
+    {
+     "etichetta": "James Suckling",
+     "valore": "Novembre 2023: Dafne Bardolino 2022, 90 punti; Tecla Chiaretto 2022, 89 punti [[7]]"
+    },
+    {
+     "etichetta": "Slow Wine",
+     "valore": "Cantina tra quelle selezionate dalla guida Slow Wine 2024 [[8]]"
+    },
+    {
+     "etichetta": "The Wine Hunter Awards",
+     "valore": "Agosto 2022: Valpolicella Ripasso 2019 e Amarone Classico 2016, premio Hunter Rosso (90–92,99 punti) [[9]]"
+    },
+    {
+     "etichetta": "Vinibuoni d’Italia",
+     "valore": "2022: Corona al Chiaretto Tecla 2021 [[10]]"
+    },
+    {
+     "etichetta": "Vinous",
+     "valore": "Luglio 2022: Chiaretto Tecla 2021, 90/100 [[11]]"
+    }
+   ],
+   "nota": "Riconoscimenti dichiarati dalla cantina sul proprio sito, non verificati da VinoBot sulle guide. [[6]]"
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì 9–12 e 14.30–18; sabato 9.30–12.30; domenica chiuso [[1]]"
+    },
+    {
+     "etichetta": "Visite",
+     "valore": "Ingresso libero senza prenotazione al wine shop; prenotazione obbligatoria per tour e degustazioni; bike friendly; aperitivi e cene in vigna in estate [[12]]"
+    },
+    {
+     "etichetta": "Wine shop",
+     "valore": "In cantina, con negozio online («Shop online») [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "benazzoli.com, in italiano, con pagine su vini, rassegna stampa, news e blog [[13]]"
+    },
+    {
+     "etichetta": "Vendita online",
+     "valore": "Negozio online collegato dal sito [[12]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.benazzoli.com/contatti/",
+   "etichetta": "benazzoli.com/contatti"
+  },
+  {
+   "n": 2,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
+   "url": "https://www.benazzoli.com/chi-siamo/",
+   "etichetta": "benazzoli.com/chi-siamo"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini».",
+   "url": "https://www.benazzoli.com/i-nostri-vini/",
+   "etichetta": "benazzoli.com/i-nostri-vini"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «news».",
+   "url": "https://www.benazzoli.com/news/",
+   "etichetta": "benazzoli.com/news"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «james-suckling».",
+   "url": "https://www.benazzoli.com/james-suckling/",
+   "etichetta": "benazzoli.com/james-suckling"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «slow-wine-2024».",
+   "url": "https://www.benazzoli.com/slow-wine-2024/",
+   "etichetta": "benazzoli.com/slow-wine-2024"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «the-wine-hunter-awards».",
+   "url": "https://www.benazzoli.com/the-wine-hunter-awards/",
+   "etichetta": "benazzoli.com/the-wine-hunter-awards"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «vinibuoni-ditalia-2022».",
+   "url": "https://www.benazzoli.com/vinibuoni-ditalia-2022/",
+   "etichetta": "benazzoli.com/vinibuoni-ditalia-2022"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina «vinous».",
+   "url": "https://www.benazzoli.com/vinous/",
+   "etichetta": "benazzoli.com/vinous"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina «vieni-a-trovarci».",
+   "url": "https://www.benazzoli.com/vieni-a-trovarci/",
+   "etichetta": "benazzoli.com/vieni-a-trovarci"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.benazzoli.com/",
+   "etichetta": "benazzoli.com"
+  },
+  {
+   "n": 14,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/benazzoli/",
+   "etichetta": "consorziobardolino.it"
+  }
+ ]
+}

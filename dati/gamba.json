@@ -1,0 +1,221 @@
+{
+ "nome": "Gamba",
+ "slug": "gamba",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Gamba Gnirega s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03301920231 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Gnirega 19, 37020 Marano di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 6801714\ncell. +39 349 3154527 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinigamba.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinigamba.it/|www.vinigamba.it}} — raggiungibile al controllo del 29 ottobre 2026"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Cantina attiva dal 2003, fondata dai fratelli Giovanni, Giuseppe e Martino Aldrighetti; “Gamba” è il soprannome storico della famiglia [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "15 ettari a terrazze, circa 300 m s.l.m., nella Valpolicella Classica [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Linee Campedel e Le Quare; il sito non riporta le annate nell’elenco. [[4]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Campedel Riserva",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Campedel",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Campedel",
+     "denominazione": "Valpolicella Ripasso Superiore Classico DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Campedel",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Campedel",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Le Quare",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Le Quare",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Le Quare",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Le Quare",
+     "denominazione": "Recioto della Valpolicella Classico DOCG",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Diplomi di Gran Menzione al concorso Vinitaly (2008–2015) per Amarone Campedel, Amarone Le Quare e Recioto Le Quare\nNel 2022 Premio Dante (miglior vino del territorio veronese) all’Amarone Riserva 2015 [[10]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Punteggi 5 Star Wines tra 90 e 94 su 100 (2018–2025)\nAmarone Riserva 2015: 94 punti (Premio Dante 2022) [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "vinigamba.it con pagina riconoscimenti [[10]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/vini-GAMBA-228167240532465|vini-GAMBA-228167240532465}}\nInstagram {{https://www.instagram.com/gambawinery/|@gambawinery}} [[11]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=14306362084403431510|Mappa}} — valutazione 4,8 su 5 (87 recensioni) [[12]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[13]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «dove-siamo».",
+   "url": "https://www.vinigamba.it/dove-siamo/",
+   "etichetta": "vinigamba.it/dove-siamo"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina iniziale.",
+   "url": "https://www.vinigamba.it/",
+   "etichetta": "vinigamba.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://www.vinigamba.it/vini/",
+   "etichetta": "vinigamba.it/vini"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini/amarone-riserva-campedel».",
+   "url": "https://www.vinigamba.it/vini/amarone-riserva-campedel/",
+   "etichetta": "vinigamba.it/vini/amarone-riserva-campedel"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «vini/amarone-campedel».",
+   "url": "https://www.vinigamba.it/vini/amarone-campedel/",
+   "etichetta": "vinigamba.it/vini/amarone-campedel"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «vini/ripasso-campedel».",
+   "url": "https://www.vinigamba.it/vini/ripasso-campedel/",
+   "etichetta": "vinigamba.it/vini/ripasso-campedel"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «vini/amarone-le-quare».",
+   "url": "https://www.vinigamba.it/vini/amarone-le-quare/",
+   "etichetta": "vinigamba.it/vini/amarone-le-quare"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «vini/recioto-le-quare».",
+   "url": "https://www.vinigamba.it/vini/recioto-le-quare/",
+   "etichetta": "vinigamba.it/vini/recioto-le-quare"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «riconoscimenti».",
+   "url": "https://www.vinigamba.it/riconoscimenti/",
+   "etichetta": "vinigamba.it/riconoscimenti"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
+   "url": "https://www.vinigamba.it/",
+   "etichetta": "vinigamba.it"
+  },
+  {
+   "n": 12,
+   "testo": "Scheda «Cantina vini GAMBA» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=14306362084403431510",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 13,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

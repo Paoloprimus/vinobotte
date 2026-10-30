@@ -1,0 +1,149 @@
+{
+ "nome": "Ugolini Vini",
+ "slug": "ugolini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenute Ugolini Società Agricola s.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03727910238 [[4]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Strada Bonamico 11, 37029 San Pietro in Cariano (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7703830; info@ugolinivini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ugolinivini.it/|www.ugolinivini.it}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Struttura",
+     "valore": "Villa San Michele sulla collina di Bure (Valle di Fumane); socio fondatore di Terre di Fumane, centro di appassimento delle uve [[3]] [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate nell’elenco principale. [[4]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Valle Alta",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Monte Solane",
+     "denominazione": "Valpolicella Ripasso DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "San Michele",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Pozzetto",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valle Lena",
+     "denominazione": "Recioto della Valpolicella DOCG",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "San Michele della Chiesa",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lun–ven 10–18, sabato 10–17, domenica chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Wine tour con degustazioni ed escursioni a Villa San Michele, solo su prenotazione [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nell’elenco principale del sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Blog sul sito; social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata [[5]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.ugolinivini.it/contatti",
+   "etichetta": "ugolinivini.it/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «enoturismo».",
+   "url": "https://www.ugolinivini.it/enoturismo",
+   "etichetta": "ugolinivini.it/enoturismo"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://www.ugolinivini.it/",
+   "etichetta": "ugolinivini.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «blog».",
+   "url": "https://www.ugolinivini.it/blog",
+   "etichetta": "ugolinivini.it/blog"
+  }
+ ]
+}

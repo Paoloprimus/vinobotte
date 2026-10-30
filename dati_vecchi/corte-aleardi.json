@@ -1,0 +1,155 @@
+{
+ "nome": "Corte Aleardi",
+ "slug": "corte-aleardi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Corte Aleardi di Ferrari Carlo e F.lli s.a.s. (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Giare 208, Gargagnago, 37015 Sant’Ambrogio di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 7701379 · info@cortealeardi.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortealeardi.com/|www.cortealeardi.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Produce dal 1789 secondo il sito; titolare Carlo Ferrari [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate nell’elenco. [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Bure Alto",
+     "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Montepalà",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Valpolicella Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Valpolicella Superiore Montepalà",
+     "denominazione": "Valpolicella Classico Superiore DOC",
+     "annata": "— [[4]]"
+    },
+    {
+     "nome": "Valpolicella Classico",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Recioto",
+     "denominazione": "Recioto della Valpolicella Classico DOC",
+     "annata": "— [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Pagina “Awards”: World Wine Selections Canada 2020, The WineHunter Award 2020 e 2023, Wine Expo Poland 2019, International Wine Challenge 2007; livelli non riportati nel testo salvato; dichiarati dalla cantina, non verificati da VinoBot sulle guide [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Degustazioni",
+     "valore": "Da 1 a 20 persone, con formaggi e salumi locali; Silver 25 € (4 vini) e Gold 33 € (4 vini riserva), con visita; prenotazione via email o telefono [[4]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio extravergine di oliva [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cortealeardi.com, in italiano, inglese e tedesco [[2]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-wine/info.php».",
+   "url": "https://www.cortealeardi.com/amarone-wine/info.php",
+   "etichetta": "cortealeardi.com/amarone-wine/info.php"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-wine/wines.php».",
+   "url": "https://www.cortealeardi.com/amarone-wine/wines.php",
+   "etichetta": "cortealeardi.com/amarone-wine/wines.php"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-wine/wine-tastings.php».",
+   "url": "https://www.cortealeardi.com/amarone-wine/wine-tastings.php",
+   "etichetta": "cortealeardi.com/amarone-wine/wine-tastings.php"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-wine/news.php?s=awards».",
+   "url": "https://www.cortealeardi.com/amarone-wine/news.php?s=awards",
+   "etichetta": "cortealeardi.com/amarone-wine/news.php?s=awards"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «amarone-wine/extra-virgin-olive-oil.php».",
+   "url": "https://www.cortealeardi.com/amarone-wine/extra-virgin-olive-oil.php",
+   "etichetta": "cortealeardi.com/amarone-wine/extra-virgin-olive-oil.php"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "nome": "Palazzi",
+ "slug": "palazzi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Agriturismo Podere \"Palazzi del Papa\" [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01086890520 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. La Vittoria 53026 Pienza (SI) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0578 755037\n+39 339 5947563 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "-info@palazzidelpapa.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.palazzidelpapa.it/|palazzidelpapa.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Chianti; Sangiovese; Brunello di Montalcino [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Wikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "{{https://maps.google.com/?cid=9138594894188897706|Mappa}} — valutazione 4,9 su 5 (15 recensioni) [[2]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://www.palazzidelpapa.it/",
+   "etichetta": "palazzidelpapa.it"
+  },
+  {
+   "n": 2,
+   "testo": "Scheda «Az.Agr. Palazzi Di Nardi Enzo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=9138594894188897706",
+   "etichetta": "maps.google.com"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

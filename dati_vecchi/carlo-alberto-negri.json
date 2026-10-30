@@ -1,0 +1,150 @@
+{
+ "nome": "Cantina Carlo Alberto Negri",
+ "slug": "carlo-alberto-negri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Negri Carlo Alberto (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via dei Ciliegi 7, 37030 Mezzane di Sotto (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. 345 9878939 · carloalbertonegri@yahoo.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinacarloalbertonegri.com/|www.cantinacarloalbertonegri.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Il titolare ha lavorato per anni nei vigneti dell’azienda agricola di famiglia e produce pochissime bottiglie da una piccola porzione di vigneti [[3]]"
+    },
+    {
+     "etichetta": "Vigneti",
+     "valore": "Soave: 1 ettaro a pergola veronese di 30 anni a Lavagno, località Fornace. Valpolicella e Amarone: 1,53 ettari a guyot di 15–20 anni a Mezzane di Sotto, località Giare [[4]]"
+    },
+    {
+     "etichetta": "Vitigni",
+     "valore": "Valpolicella e Amarone: Corvina 55%, Corvinone 40%, Rondinella 5%; Soave: Garganega in purezza [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Soave",
+     "denominazione": "Soave DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Amarone della Valpolicella",
+     "denominazione": "Amarone della Valpolicella DOCG",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Appuntamento in cantina su richiesta tramite contatti [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cantinacarloalbertonegri.com con carrello [[7]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contact-us».",
+   "url": "https://www.cantinacarloalbertonegri.com/contact-us",
+   "etichetta": "cantinacarloalbertonegri.com/contact-us"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «chisono».",
+   "url": "https://www.cantinacarloalbertonegri.com/chisono",
+   "etichetta": "cantinacarloalbertonegri.com/chisono"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «il-vigneto».",
+   "url": "https://www.cantinacarloalbertonegri.com/il-vigneto",
+   "etichetta": "cantinacarloalbertonegri.com/il-vigneto"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «vini».",
+   "url": "https://www.cantinacarloalbertonegri.com/vini",
+   "etichetta": "cantinacarloalbertonegri.com/vini"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «home».",
+   "url": "https://www.cantinacarloalbertonegri.com/home",
+   "etichetta": "cantinacarloalbertonegri.com/home"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «cart».",
+   "url": "https://www.cantinacarloalbertonegri.com/cart",
+   "etichetta": "cantinacarloalbertonegri.com/cart"
+  }
+ ]
+}

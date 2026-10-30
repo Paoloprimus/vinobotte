@@ -1,0 +1,151 @@
+{
+ "nome": "Tenute Fasoli",
+ "slug": "tenute-fasoli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenute Fasoli di Fasoli Lorena (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04359070234 [[7]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Vicolo Giacomo Matteotti 7, 37015 Sant’Ambrogio di Valpolicella (VR) [[2]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 340 3429306; info@tenutefasoli.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutefasoli.com/|www.tenutefasoli.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia e proprietà",
+     "valore": "Tradizione familiare dal XVIII secolo; oggi Lorena Fasoli, che ha costruito una nuova cantina e convertito l’azienda al biologico [[3]]"
+    },
+    {
+     "etichetta": "Vigneto",
+     "valore": "Tenuta a San Pietro in Cariano (circa 1,5 ha di Valpolicella, stele del 1798) e tenuta a Ferrara di Monte Baldo (940–980 m, biologica dal 2019) [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Il sito non riporta le annate. Altri vini in gamma: Rubrum Caelum Sidereum, Ayrton, Lorena 980, Oro del Berto (denominazione non indicata nel testo salvato). [[5]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Ripasso",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Valpolicella Superiore",
+     "denominazione": "Valpolicella Superiore Classico DOC",
+     "annata": "— [[5]]"
+    },
+    {
+     "nome": "Valpolicella",
+     "denominazione": "Valpolicella Classico DOC",
+     "annata": "— [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Visite su appuntamento telefonico o e-mail [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel sito della cantina"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Pagina Shop presente sul sito, senza prodotti nel testo salvato; altri marketplace: presenza non verificata [[6]]"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://www.tenutefasoli.com/contatti/",
+   "etichetta": "tenutefasoli.com/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «la-nostra-storia».",
+   "url": "https://www.tenutefasoli.com/la-nostra-storia/",
+   "etichetta": "tenutefasoli.com/la-nostra-storia"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina «territorio».",
+   "url": "https://www.tenutefasoli.com/territorio/",
+   "etichetta": "tenutefasoli.com/territorio"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «i-vini».",
+   "url": "https://www.tenutefasoli.com/i-vini/",
+   "etichetta": "tenutefasoli.com/i-vini"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «shop».",
+   "url": "https://www.tenutefasoli.com/shop/",
+   "etichetta": "tenutefasoli.com/shop"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, consultato il 25 ottobre 2026, pagina «tenutefasoli.com» (verifica incrociata).",
+   "url": "https://www.tenutefasoli.com/",
+   "etichetta": "tenutefasoli.com"
+  }
+ ]
+}

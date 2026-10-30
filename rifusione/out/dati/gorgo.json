@@ -1,0 +1,183 @@
+{
+ "nome": "Gorgo",
+ "slug": "gorgo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola Gorgo di Bricolo Roberta (come da elenco del Consorzio) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04479630230 [[2]]"
+    },
+    {
+     "etichetta": "Sede e cantina",
+     "valore": "Via Gorgo 19, 37066 Custoza (VR) [[2]]; il Consorzio indica Via Gorgo 15 [[1]]"
+    },
+    {
+     "etichetta": "Contatti",
+     "valore": "Tel. +39 045 516063 · gorgo@cantinagorgo.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinagorgo.com/|www.cantinagorgo.com}}"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Bardolino D.O.C. [[11]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Compare nell’elenco dei soci del Consorzio Tutela Vino Custoza DOC [[4]]"
+    },
+    {
+     "etichetta": "Dati nell’elenco del Consorzio Custoza",
+     "valore": "Custoza (VR); tel. 045 516 063; cantinagorgo.com [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Metodo",
+     "valore": "Azienda agricola biologica; terreni di origine morenica [[5]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Vini della Valpolicella dall’elenco del sito, che comprende Custoza, Bardolino e spumanti; annate non indicate. [[6]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[11]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Amarone Classico",
+     "denominazione": "Amarone della Valpolicella Classico DOCG",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Ripasso Classico Superiore",
+     "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
+     "annata": "— [[8]]"
+    }
+   ],
+   "righe": [
+    {
+     "etichetta": "Denominazioni Bardolino dichiarate",
+     "valore": "Bardolino DOC; Bardolino Superiore DOCG; Chiaretto di Bardolino spumante DOC; Chiaretto di Bardolino DOC; Sottozone di Bardolino; Sommacampagna Bardolino DOC [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nel testo salvato del sito"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite",
+     "valore": "Lunedì–venerdì 8:30–12:30 e 14:30–18:00, sabato 9:00–12:30, domenica su prenotazione; degustazioni, eventi (e-bike, pilates, escursioni) e gift card [[9]] [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Identità online",
+   "righe": [
+    {
+     "etichetta": "Sito",
+     "valore": "cantinagorgo.com con gift card degustazioni [[10]]"
+    },
+    {
+     "etichetta": "Negozi online e marketplace",
+     "valore": "Presenza non verificata"
+    },
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Social, Google Business Profile, Vivino, Wine-Searcher, YouTube, Wikipedia: presenza non verificata"
+    }
+   ]
+  }
+ ],
+ "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
+   "url": "https://www.consorziovalpolicella.it/",
+   "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contatti».",
+   "url": "https://cantinagorgo.com/contatti/",
+   "etichetta": "cantinagorgo.com/contatti"
+  },
+  {
+   "n": 3,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026 (testo copiato dal sito del Consorzio).",
+   "url": "https://www.vinocustoza.it/",
+   "etichetta": "vinocustoza.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, home.",
+   "url": "https://cantinagorgo.com/",
+   "etichetta": "cantinagorgo.com"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «linea-classica».",
+   "url": "https://cantinagorgo.com/linea-classica/",
+   "etichetta": "cantinagorgo.com/linea-classica"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina «linea-classica/amarone-valpolicella-docg».",
+   "url": "https://cantinagorgo.com/linea-classica/amarone-valpolicella-docg/",
+   "etichetta": "cantinagorgo.com/linea-classica/amarone-valpolicella-docg"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «linea-classica/ripasso-valpolicella-classico-superiore».",
+   "url": "https://cantinagorgo.com/linea-classica/ripasso-valpolicella-classico-superiore/",
+   "etichetta": "cantinagorgo.com/linea-classica/ripasso-valpolicella-classico-superiore"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina «degustazioni-visite».",
+   "url": "https://cantinagorgo.com/degustazioni-visite/",
+   "etichetta": "cantinagorgo.com/degustazioni-visite"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina «giftcard-degustazioni».",
+   "url": "https://cantinagorgo.com/giftcard-degustazioni/",
+   "etichetta": "cantinagorgo.com/giftcard-degustazioni"
+  },
+  {
+   "n": 11,
+   "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato dal vivo il 24 ottobre 2026.",
+   "url": "https://consorziobardolino.it/cantine/gorgo/",
+   "etichetta": "consorziobardolino.it"
+  }
+ ]
+}
