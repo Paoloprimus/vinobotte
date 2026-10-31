@@ -14,7 +14,7 @@ for x in N:
     ana=[]
     if x['rag']: ana.append({'etichetta':'Ragione sociale','valore':x['rag']+' '+b})
     if x['piva']: ana.append({'etichetta':'Partita IVA','valore':x['piva']+' '+b})
-    ana.append({'etichetta':'Sede','valore':x['sede']+' '+a})
+    ana.append({'etichetta':'Sede','valore':x['sede']+(' [[2]]' if x.get('fonte_sede') else ' '+a)})
     if x['tel']: ana.append({'etichetta':'Telefono','valore':x['tel']+' '+a})
     if x['email']: ana.append({'etichetta':'Email','valore':x['email']+' '+a})
     ana.append({'etichetta':'Sito ufficiale','valore':'{{'+x['sito']+'|'+x['dom']+'}} '+a})
@@ -28,6 +28,8 @@ for x in N:
     d={'nome':x['nome'],'slug':x['slug'],'sezioni':sez,
        'consultate':'Fonti consultate il '+D+'. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.',
        'fonti':([{'n':1,'testo':'Elenco delle '+('aziende del '+x['consorzio_nome'] if x.get('consorzio_nome') else 'cantine del Consorzio di tutela DOP Suvereto e Val di Cornia Wine')+', scheda dell’azienda consultata il '+x.get('data_consorzio',D)+'.','url':x['url_consorzio'],'etichetta':x.get('dom_consorzio','suveretowine.com')}] if cons else [])+([{'n':2 if cons else 1,'testo':'Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il '+D+'.','url':x['sito'],'etichetta':x['dom']}] if (not cons or x['rag'] or x['piva'] or x['social'] or (x['den'] and not cons)) else [])}
+    if x.get('fonte_sede'):  # indirizzo trovato in una pagina esterna al sito della cantina
+        d['fonti'].append({'n':2,'testo':x['fonte_sede']['testo']+' Consultata il 31 ottobre 2026.','url':x['fonte_sede']['url'],'etichetta':x['fonte_sede']['etichetta']})
     if x.get('fonte_den'):  # denominazione confermata da una pagina esterna (vendita online) invece che dal sito della cantina
         d['fonti'].append({'n':2,'testo':x['fonte_den']['testo']+' Consultata il 31 ottobre 2026.','url':x['fonte_den']['url'],'etichetta':x['fonte_den']['etichetta']})
     json.dump(d,open('dati/'+x['slug']+'.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)

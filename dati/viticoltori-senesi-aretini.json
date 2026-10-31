@@ -28,6 +28,15 @@
    ]
   },
   {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti DOCG, Chianti Riserva DOCG [[2]]"
+    }
+   ]
+  },
+  {
    "titolo": "Riconoscimenti",
    "righe": [
     {
@@ -44,6 +53,12 @@
    "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
    "url": "https://www.viticoltorisenesiaretini.it/",
    "etichetta": "viticoltorisenesiaretini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Scheda di vendita online del Chianti Riserva DOCG della Cantina Viticoltori Senesi Aretini. Consultata il 31 ottobre 2026.",
+   "url": "https://www.cellars.com.au/product/cantina-viticoltori-senesi-aretini-chianti-riserva-siena-italy/",
+   "etichetta": "cellars.com.au"
   }
  ]
 }

@@ -3959,25 +3959,27 @@
   "sito": "https://www.viticoltorisenesiaretini.it/",
   "dom": "viticoltorisenesiaretini.it",
   "social": {},
-  "den": "",
+  "den": "Chianti DOCG, Chianti Riserva DOCG",
   "tipi": {
    "chianti": [
     "Chianti"
-   ],
-   "orcia": [
-    "Orcia"
    ]
   },
   "consorzio": "",
   "regione": "Toscana",
-  "url_consorzio": ""
+  "url_consorzio": "",
+  "fonte_den": {
+   "testo": "Scheda di vendita online del Chianti Riserva DOCG della Cantina Viticoltori Senesi Aretini.",
+   "url": "https://www.cellars.com.au/product/cantina-viticoltori-senesi-aretini-chianti-riserva-siena-italy/",
+   "etichetta": "cellars.com.au"
+  }
  },
  {
   "wip": "Azienda Agricola Colle di Bordocheo",
   "slug": "colle-di-bordocheo",
   "nome": "Colle di Bordocheo",
   "comune": "Capannori",
-  "sede": "Segromigno in Monte, Capannori, LU",
+  "sede": "Via di Piaggiori Basso 123, 55018 Segromigno in Monte, Capannori, LU",
   "rag": "Azienda Agricola Colle di Bordocheo",
   "piva": "01117940468",
   "tel": "",
@@ -3996,6 +3998,11 @@
   },
   "consorzio": "",
   "regione": "Toscana",
-  "url_consorzio": ""
+  "url_consorzio": "",
+  "fonte_sede": {
+   "testo": "Scheda dell’azienda agricola Colle di Bordocheo con indirizzo.",
+   "url": "https://tripaligner.com/countries/italy-15/destinations/lucca-5239/places/azienda-agricola-colle-di-bordocheo-12501088",
+   "etichetta": "tripaligner.com"
+  }
  }
 ]
