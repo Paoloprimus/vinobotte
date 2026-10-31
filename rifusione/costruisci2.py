@@ -80,7 +80,7 @@ for r in REGORD+[x for x in conta if x not in REGORD]:
         k=chiave(t,r) if t in primreg else None
         if k in PAGES and PAGES[k]==(t,r):
             tiles.append((k,TIT[t][0].replace('Produttori vini ',''),len(G[(t,r)])))
-    tiles.sort(key=lambda x:PAGES[x[0]][1]!=primreg[PAGES[x[0]][0]])
+    tiles.sort(key=lambda x:(-x[2],x[1]))  # dalla denominazione con più produttori a quella con meno (come le regioni in home); a parità, alfabetico
     h='<!doctype html>\n<html lang="it">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width,initial-scale=1">\n<title>'+r+' — VinoBotte</title>\n'+CSS+'\n</head>\n<body>\n<main>\n<h1 class="reg">'+r+'</h1>\n<p class="num">'+fmt(conta[r])+' produttori</p>\n<div class="griglia">\n'
     h+=''.join('<a class="vai" href="/%s/">%s<small>%s produttori</small></a>\n'%(k,n,fmt(c)) for k,n,c in tiles)
     h+='</div>\n</main>\n<script src="/shell.js" defer></script>\n</body>\n</html>\n'
