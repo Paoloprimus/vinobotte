@@ -21,6 +21,7 @@ for x in N:
     if cons: ana.append({'etichetta':'Consorzio','valore':x.get('consorzio_nome','Consorzio di tutela DOP Suvereto e Val di Cornia Wine')+' [[1]]'})
     sez=[{'titolo':'Anagrafica','righe':ana}]
     if x['den']: sez.append({'titolo':'Vini','righe':[{'etichetta':'Denominazioni dichiarate','valore':x['den']+(' [[%d]]'%(2 if x.get('fonte_den') else 1))}]})
+    if x.get('ospitalita'): sez.append({'titolo':'Ospitalità','righe':[{'etichetta':k,'valore':v+' [[1]]'} for k,v in x['ospitalita']]})
     sez.append({'titolo':'Riconoscimenti','righe':[{'etichetta':'Premi e punteggi','valore':'Non presenti nelle fonti consultate'}]})
     if x['social']:
         sez.append({'titolo':'Presenza online','righe':[{'etichetta':'Social','valore':'\n'.join(k+' {{'+v+'|'+re.sub(r'^https?://(www\.)?','',v).rstrip('/')+'}}' for k,v in x['social'].items())+' '+b}]})
