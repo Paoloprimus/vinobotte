@@ -48257,5 +48257,54 @@
 "bosco"
 ],
 "primario": "bosco"
+},
+{
+"slug": "casello-bondoni",
+"nome": "Casello Bondoni",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana",
+"Garda Marzemino"
+]
+},
+"membri": [
+"casello-bondoni"
+],
+"primario": "casello-bondoni"
+},
+{
+"slug": "zamichele",
+"nome": "Zamichele",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana",
+"Lugana Spumante",
+"Garda Cabernet Sauvignon",
+"Garda Merlot"
+]
+},
+"membri": [
+"zamichele"
+],
+"primario": "zamichele"
+},
+{
+"slug": "poggio-al-garda",
+"nome": "Poggio al Garda",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"poggio-al-garda"
+],
+"primario": "poggio-al-garda"
 }
 ]

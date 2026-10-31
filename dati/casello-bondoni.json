@@ -1,0 +1,59 @@
+{
+ "nome": "Casello Bondoni",
+ "slug": "casello-bondoni",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02273020988 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Casello Bondoni 1, 25015 Desenzano del Garda (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "030 9906827 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@casellobondoni.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.casellobondoni.it/|casellobondoni.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana, Garda Marzemino [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.casellobondoni.it/",
+   "etichetta": "casellobondoni.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, consultato il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/bondoni-primiano",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "nome": "Poggio al Garda",
+ "slug": "poggio-al-garda",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04148310982 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Casaloldo 2, 25010 Pozzolengo (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "030 9918170 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://poggioalgarda.wine/|poggioalgarda.wine}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://poggioalgarda.wine/",
+   "etichetta": "poggioalgarda.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, consultato il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/poggio-al-garda",
+   "etichetta": "consorziolugana.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda del vino «Poggio al Garda 2022» (Lugana DOC) su Falstaff. Consultata il 31 ottobre 2026.",
+   "url": "https://www.falstaff.com/en/wines/poggio-al-garda-2022-lugana-doc",
+   "etichetta": "falstaff.com"
+  }
+ ]
+}

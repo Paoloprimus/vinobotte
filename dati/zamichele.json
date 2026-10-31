@@ -1,0 +1,59 @@
+{
+ "nome": "Zamichele",
+ "slug": "zamichele",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00618970982 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Roveglia, Palazzina 2, 25010 Pozzolengo (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "030 918631 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinazamichele.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinazamichele.it/|cantinazamichele.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana, Lugana Spumante, Garda Cabernet Sauvignon, Garda Merlot [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.cantinazamichele.it/",
+   "etichetta": "cantinazamichele.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, consultato il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/zamichele",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}

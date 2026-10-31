@@ -10607,5 +10607,104 @@
   "data_consorzio": "31 ottobre 2026",
   "consorzio": "lugana",
   "data_consultazione": "31 ottobre 2026"
+ },
+ {
+  "slug": "casello-bondoni",
+  "nome": "Casello Bondoni",
+  "comune": "Desenzano del Garda",
+  "tipi": {
+   "lugana": [
+    "Lugana",
+    "Garda Marzemino"
+   ]
+  },
+  "piva": "02273020988",
+  "sede": "Via Casello Bondoni 1, 25015 Desenzano del Garda (BS)",
+  "tel": "030 9906827",
+  "email": "info@casellobondoni.it",
+  "sito": "https://www.casellobondoni.it/",
+  "dom": "casellobondoni.it",
+  "den": "Lugana, Garda Marzemino",
+  "wip": "Bondoni Primiano",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/bondoni-primiano",
+  "rag": "",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "31 ottobre 2026",
+  "regione": "Lombardia"
+ },
+ {
+  "slug": "zamichele",
+  "nome": "Zamichele",
+  "comune": "Pozzolengo",
+  "tipi": {
+   "lugana": [
+    "Lugana",
+    "Lugana Spumante",
+    "Garda Cabernet Sauvignon",
+    "Garda Merlot"
+   ]
+  },
+  "piva": "00618970982",
+  "sede": "Località Roveglia, Palazzina 2, 25010 Pozzolengo (BS)",
+  "tel": "030 918631",
+  "email": "info@cantinazamichele.it",
+  "sito": "https://www.cantinazamichele.it/",
+  "dom": "cantinazamichele.it",
+  "den": "Lugana, Lugana Spumante, Garda Cabernet Sauvignon, Garda Merlot",
+  "wip": "Zamichele",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/zamichele",
+  "rag": "",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "31 ottobre 2026",
+  "regione": "Lombardia"
+ },
+ {
+  "slug": "poggio-al-garda",
+  "nome": "Poggio al Garda",
+  "comune": "Pozzolengo",
+  "tipi": {
+   "lugana": [
+    "Lugana"
+   ]
+  },
+  "piva": "04148310982",
+  "sede": "Località Casaloldo 2, 25010 Pozzolengo (BS)",
+  "tel": "030 9918170",
+  "email": "",
+  "sito": "https://poggioalgarda.wine/",
+  "dom": "poggioalgarda.wine",
+  "den": "Lugana",
+  "wip": "Poggio al Garda",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/poggio-al-garda",
+  "rag": "",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "31 ottobre 2026",
+  "regione": "Lombardia",
+  "fonte_den": {
+   "testo": "Scheda del vino «Poggio al Garda 2022» (Lugana DOC) su Falstaff.",
+   "url": "https://www.falstaff.com/en/wines/poggio-al-garda-2022-lugana-doc",
+   "etichetta": "falstaff.com"
+  }
  }
 ]
