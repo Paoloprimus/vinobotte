@@ -9833,5 +9833,132 @@
   "consorzio": "oltrepo-pavese",
   "regione": "Lombardia",
   "data_consultazione": "31 ottobre 2026"
+ },
+ {
+  "slug": "prime-alture",
+  "nome": "Prime Alture",
+  "comune": "Casteggio",
+  "tipi": {
+   "oltrepo-pavese": [
+    "Oltrepò Pavese Metodo Classico",
+    "Bonarda dell’Oltrepò Pavese"
+   ]
+  },
+  "piva": "02337220186",
+  "sede": "Via Madonna 109, 27045 Casteggio (PV)",
+  "tel": "0383 83214",
+  "email": "prenotazioni@primealture.it",
+  "sito": "https://primealture.it/",
+  "dom": "primealture.it",
+  "den": "Oltrepò Pavese Metodo Classico, Bonarda dell’Oltrepò Pavese",
+  "wip": "Prime Alture",
+  "rag": "",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "url_consorzio": "https://www.classeseoltrepopavese.it/i-produttori/",
+  "consorzio_nome": "Consorzio Tutela Vini Oltrepò Pavese",
+  "dom_consorzio": "classeseoltrepopavese.it",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "oltrepo-pavese",
+  "regione": "Lombardia",
+  "data_consultazione": "31 ottobre 2026"
+ },
+ {
+  "slug": "paravella-clementino",
+  "nome": "Paravella Clementino",
+  "comune": "Stradella",
+  "tipi": {
+   "oltrepo-pavese": [
+    "Oltrepò Pavese Metodo Classico"
+   ]
+  },
+  "piva": "01566270185",
+  "sede": "Frazione Cassinello, 27049 Stradella (PV)",
+  "tel": "338 5318705",
+  "email": "matteo.paravella@gmail.com",
+  "sito": "https://www.paravellavini.com/",
+  "dom": "paravellavini.com",
+  "den": "Oltrepò Pavese Metodo Classico",
+  "wip": "Paravella Clementino",
+  "rag": "",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "url_consorzio": "https://www.classeseoltrepopavese.it/i-produttori/",
+  "consorzio_nome": "Consorzio Tutela Vini Oltrepò Pavese",
+  "dom_consorzio": "classeseoltrepopavese.it",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "oltrepo-pavese",
+  "regione": "Lombardia",
+  "data_consultazione": "31 ottobre 2026"
+ },
+ {
+  "slug": "verdi-cascina-vecchia",
+  "nome": "Verdi Cascina Vecchia",
+  "comune": "Zenevredo",
+  "tipi": {
+   "oltrepo-pavese": [
+    "Bonarda dell’Oltrepò Pavese",
+    "Pinot Nero dell’Oltrepò Pavese"
+   ]
+  },
+  "piva": "02442410185",
+  "sede": "Via Cascina Vecchia 15, 27049 Zenevredo (PV)",
+  "tel": "0385 241951",
+  "email": "info@verdicascinavecchia.it",
+  "sito": "https://www.verdicascinavecchia.it/",
+  "dom": "verdicascinavecchia.it",
+  "den": "Bonarda dell’Oltrepò Pavese, Pinot Nero dell’Oltrepò Pavese",
+  "wip": "Verdi F.LLI ' di Carlo E Alessandro",
+  "rag": "",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "url_consorzio": "https://www.classeseoltrepopavese.it/i-produttori/",
+  "consorzio_nome": "Consorzio Tutela Vini Oltrepò Pavese",
+  "dom_consorzio": "classeseoltrepopavese.it",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "oltrepo-pavese",
+  "regione": "Lombardia",
+  "data_consultazione": "31 ottobre 2026"
+ },
+ {
+  "slug": "bisi",
+  "nome": "Bisi",
+  "comune": "San Damiano al Colle",
+  "tipi": {
+   "oltrepo-pavese": [
+    "Bonarda dell’Oltrepò Pavese"
+   ]
+  },
+  "piva": "01317280186",
+  "sede": "Località Cascina San Michele, 27040 San Damiano al Colle (PV)",
+  "tel": "0385 75237",
+  "email": "",
+  "sito": "https://www.aziendagricolabisi.it/",
+  "dom": "aziendagricolabisi.it",
+  "den": "Bonarda dell’Oltrepò Pavese",
+  "wip": "Bisi",
+  "rag": "",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "url_consorzio": "https://www.classeseoltrepopavese.it/i-produttori/",
+  "consorzio_nome": "Consorzio Tutela Vini Oltrepò Pavese",
+  "dom_consorzio": "classeseoltrepopavese.it",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "oltrepo-pavese",
+  "regione": "Lombardia",
+  "data_consultazione": "31 ottobre 2026",
+  "fonte_den": {
+   "testo": "Scheda del vino «La Peccatrice» (Bonarda dell’Oltrepò Pavese DOC) su Tannico.",
+   "url": "https://www.tannico.com/products/bonarda-dell-oltrepo-pavese-doc-la-peccatrice-2024-bisi",
+   "etichetta": "tannico.com"
+  }
  }
 ]

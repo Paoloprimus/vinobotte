@@ -1,0 +1,59 @@
+{
+ "nome": "Prime Alture",
+ "slug": "prime-alture",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02337220186 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Madonna 109, 27045 Casteggio (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0383 83214 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "prenotazioni@primealture.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://primealture.it/|primealture.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Oltrepò Pavese Metodo Classico, Bonarda dell’Oltrepò Pavese [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://primealture.it/",
+   "etichetta": "primealture.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  }
+ ]
+}

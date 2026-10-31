@@ -47868,5 +47868,67 @@
 "fiamberti-giulio"
 ],
 "primario": "fiamberti-giulio"
+},
+{
+"slug": "prime-alture",
+"nome": "Prime Alture",
+"regione": "Lombardia",
+"comune": "Casteggio",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese Metodo Classico",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"prime-alture"
+],
+"primario": "prime-alture"
+},
+{
+"slug": "paravella-clementino",
+"nome": "Paravella Clementino",
+"regione": "Lombardia",
+"comune": "Stradella",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese Metodo Classico"
+]
+},
+"membri": [
+"paravella-clementino"
+],
+"primario": "paravella-clementino"
+},
+{
+"slug": "verdi-cascina-vecchia",
+"nome": "Verdi Cascina Vecchia",
+"regione": "Lombardia",
+"comune": "Zenevredo",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese",
+"Pinot Nero dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"verdi-cascina-vecchia"
+],
+"primario": "verdi-cascina-vecchia"
+},
+{
+"slug": "bisi",
+"nome": "Bisi",
+"regione": "Lombardia",
+"comune": "San Damiano al Colle",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"bisi"
+],
+"primario": "bisi"
 }
 ]

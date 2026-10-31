@@ -1,0 +1,61 @@
+{
+ "nome": "Bisi",
+ "slug": "bisi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01317280186 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Cascina San Michele, 27040 San Damiano al Colle (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0385 75237 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.aziendagricolabisi.it/|aziendagricolabisi.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Bonarda dell’Oltrepò Pavese [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.aziendagricolabisi.it/",
+   "etichetta": "aziendagricolabisi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda del vino «La Peccatrice» (Bonarda dell’Oltrepò Pavese DOC) su Tannico. Consultata il 31 ottobre 2026.",
+   "url": "https://www.tannico.com/products/bonarda-dell-oltrepo-pavese-doc-la-peccatrice-2024-bisi",
+   "etichetta": "tannico.com"
+  }
+ ]
+}
