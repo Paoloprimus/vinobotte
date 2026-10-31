@@ -45008,5 +45008,36 @@
 "le-farnete"
 ],
 "primario": "le-farnete"
+},
+{
+"slug": "podere-allocco",
+"nome": "Podere Allocco",
+"regione": "Toscana",
+"comune": "Carmignano",
+"tipi": {
+"carmignano": [
+"Carmignano",
+"Barco Reale di Carmignano"
+]
+},
+"membri": [
+"podere-allocco"
+],
+"primario": "podere-allocco"
+},
+{
+"slug": "colline-san-biagio",
+"nome": "Colline San Biagio",
+"regione": "Toscana",
+"comune": "Carmignano",
+"tipi": {
+"carmignano": [
+"Carmignano"
+]
+},
+"membri": [
+"colline-san-biagio"
+],
+"primario": "colline-san-biagio"
 }
 ]

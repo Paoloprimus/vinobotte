@@ -1,0 +1,54 @@
+{
+ "nome": "Colline San Biagio",
+ "slug": "colline-san-biagio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Carmignano, PO [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 055 871 7143 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.collinesanbiagio.it/|collinesanbiagio.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela dei Vini di Carmignano [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Carmignano DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di Tutela dei Vini di Carmignano, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziovinicarmignano.it/le-aziende/colline-san-biagio/",
+   "etichetta": "consorziovinicarmignano.it"
+  }
+ ]
+}

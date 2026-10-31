@@ -3346,5 +3346,60 @@
   "consorzio_nome": "Consorzio di Tutela dei Vini di Carmignano",
   "dom_consorzio": "consorziovinicarmignano.it",
   "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "Podere Allocco",
+  "slug": "podere-allocco",
+  "nome": "Podere Allocco",
+  "comune": "Carmignano",
+  "sede": "Carmignano, PO",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 333 9393027",
+  "email": "podereallocco@gmail.com",
+  "sito": "https://www.podereallocco.com/",
+  "dom": "podereallocco.com",
+  "social": {},
+  "den": "Carmignano DOCG, Carmignano Riserva DOCG, Barco Reale DOC",
+  "tipi": {
+   "carmignano": [
+    "Carmignano",
+    "Barco Reale di Carmignano"
+   ]
+  },
+  "consorzio": "carmignano",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinicarmignano.it/le-aziende/podere-allocco/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio di Tutela dei Vini di Carmignano",
+  "dom_consorzio": "consorziovinicarmignano.it",
+  "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "Colline San Biagio",
+  "slug": "colline-san-biagio",
+  "nome": "Colline San Biagio",
+  "comune": "Carmignano",
+  "sede": "Carmignano, PO",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 055 871 7143",
+  "email": "",
+  "sito": "https://www.collinesanbiagio.it/",
+  "dom": "collinesanbiagio.it",
+  "social": {},
+  "den": "Carmignano DOCG",
+  "tipi": {
+   "carmignano": [
+    "Carmignano"
+   ]
+  },
+  "consorzio": "carmignano",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinicarmignano.it/le-aziende/colline-san-biagio/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio di Tutela dei Vini di Carmignano",
+  "dom_consorzio": "consorziovinicarmignano.it",
+  "data_consorzio": "31 ottobre 2026"
  }
 ]
