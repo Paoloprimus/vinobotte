@@ -1,0 +1,62 @@
+{
+ "nome": "Vignacci",
+ "slug": "vignacci",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Vignacci [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01036380531 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Podere Vignacci 22, Montenero, Castel del Piano, GR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0564 954073 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vignacciwineoil.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vignacciwineoil.it/|vignacciwineoil.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montecucco DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.vignacciwineoil.it/",
+   "etichetta": "vignacciwineoil.it"
+  }
+ ]
+}

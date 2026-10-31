@@ -3680,5 +3680,92 @@
     "Visite guidate e degustazioni su prenotazione, telefonando allo 0187 661821"
    ]
   ]
+ },
+ {
+  "wip": "Villa Santo Stefano",
+  "slug": "villa-santo-stefano",
+  "nome": "Villa Santo Stefano",
+  "comune": "Lucca",
+  "sede": "Via della Chiesa di Pieve di Santo Stefano 504/B, 55100 Lucca, LU",
+  "rag": "",
+  "piva": "02446590461",
+  "tel": "+39 0583 395349",
+  "email": "info@villa-santostefano.it",
+  "sito": "https://villa-santostefano.it/",
+  "dom": "villa-santostefano.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/villasantostefanolucca",
+   "Instagram": "https://www.instagram.com/villasantostefano/"
+  },
+  "den": "Colline Lucchesi DOC",
+  "tipi": {
+   "colline-lucchesi": [
+    "Colline Lucchesi"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": "",
+  "ospitalita": [
+   [
+    "Orari",
+    "Lunedì–venerdì 9–17; sabato e domenica solo su appuntamento"
+   ]
+  ]
+ },
+ {
+  "wip": "Fattoria La Pieve",
+  "slug": "fattoria-la-pieve",
+  "nome": "Fattoria La Pieve",
+  "comune": "Campagnatico",
+  "sede": "Frantoio e cantina: Via Italia 5, 58042 Campagnatico, GR",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0564 1761626",
+  "email": "cantina@fattorialapieve.it",
+  "sito": "https://fattorialapieve.it/",
+  "dom": "fattorialapieve.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/lapievemaremmatoscana/",
+   "Instagram": "https://instagram.com/lapievemaremma"
+  },
+  "den": "Maremma Toscana DOC",
+  "tipi": {
+   "maremma": [
+    "Maremma Toscana"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": "",
+  "ospitalita": [
+   [
+    "Visite e degustazioni",
+    "Punto vendita e sala degustazione, con prenotazione preventiva"
+   ]
+  ]
+ },
+ {
+  "wip": "Vignacci",
+  "slug": "vignacci",
+  "nome": "Vignacci",
+  "comune": "Castel del Piano",
+  "sede": "Podere Vignacci 22, Montenero, Castel del Piano, GR",
+  "rag": "Azienda Agricola Vignacci",
+  "piva": "01036380531",
+  "tel": "+39 0564 954073",
+  "email": "info@vignacciwineoil.it",
+  "sito": "https://www.vignacciwineoil.it/",
+  "dom": "vignacciwineoil.it",
+  "social": {},
+  "den": "Montecucco DOC",
+  "tipi": {
+   "montecucco": [
+    "Montecucco"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
  }
 ]

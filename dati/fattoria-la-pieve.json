@@ -1,0 +1,72 @@
+{
+ "nome": "Fattoria La Pieve",
+ "slug": "fattoria-la-pieve",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Frantoio e cantina: Via Italia 5, 58042 Campagnatico, GR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0564 1761626 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantina@fattorialapieve.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://fattorialapieve.it/|fattorialapieve.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Maremma Toscana DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Punto vendita e sala degustazione, con prenotazione preventiva [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/lapievemaremmatoscana/|facebook.com/lapievemaremmatoscana}}\nInstagram {{https://instagram.com/lapievemaremma|instagram.com/lapievemaremma}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://fattorialapieve.it/",
+   "etichetta": "fattorialapieve.it"
+  }
+ ]
+}

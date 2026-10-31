@@ -45189,5 +45189,50 @@
 "cantine-federici"
 ],
 "primario": "cantine-federici"
+},
+{
+"slug": "villa-santo-stefano",
+"nome": "Villa Santo Stefano",
+"regione": "Toscana",
+"comune": "Lucca",
+"tipi": {
+"colline-lucchesi": [
+"Colline Lucchesi"
+]
+},
+"membri": [
+"villa-santo-stefano"
+],
+"primario": "villa-santo-stefano"
+},
+{
+"slug": "fattoria-la-pieve",
+"nome": "Fattoria La Pieve",
+"regione": "Toscana",
+"comune": "Campagnatico",
+"tipi": {
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"fattoria-la-pieve"
+],
+"primario": "fattoria-la-pieve"
+},
+{
+"slug": "vignacci",
+"nome": "Vignacci",
+"regione": "Toscana",
+"comune": "Castel del Piano",
+"tipi": {
+"montecucco": [
+"Montecucco"
+]
+},
+"membri": [
+"vignacci"
+],
+"primario": "vignacci"
 }
 ]
