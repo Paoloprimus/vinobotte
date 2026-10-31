@@ -1,0 +1,55 @@
+{
+ "nome": "Abate",
+ "slug": "abate",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Centenaro 73, 25017 Lonato del Garda (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "351 5303939 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@abatewine.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://abatewine.com/|abatewine.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://abatewine.com/",
+   "etichetta": "abatewine.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, consultato il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/2015/7/7/abate-claudia",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}

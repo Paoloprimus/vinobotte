@@ -1,0 +1,59 @@
+{
+ "nome": "La Conta",
+ "slug": "la-conta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01289940239 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località La Conta 1, 37019 Peschiera del Garda (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "333 2681829 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@aziendagricolaconta.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.aziendagricolaconta.com/|aziendagricolaconta.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.aziendagricolaconta.com/",
+   "etichetta": "aziendagricolaconta.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, consultato il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/la-conta",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}

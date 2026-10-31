@@ -1,0 +1,59 @@
+{
+ "nome": "Pasetto Emilio",
+ "slug": "pasetto-emilio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03814640987 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Albarone 9, 25019 Sirmione (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "030 9904943 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@luganapasetto.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.luganapasetto.it/|luganapasetto.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.luganapasetto.it/",
+   "etichetta": "luganapasetto.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, consultato il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/pasetto-emilio",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}

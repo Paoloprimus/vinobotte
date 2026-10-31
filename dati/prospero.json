@@ -1,0 +1,55 @@
+{
+ "nome": "Prospero",
+ "slug": "prospero",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02474700230 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Lizzara Vecchia 5, 37019 Peschiera del Garda (VR) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@agriprospero.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://agriprospero.it/|agriprospero.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana, Lugana Spumante [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://agriprospero.it/",
+   "etichetta": "agriprospero.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, consultato il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/prospero-enrico",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}

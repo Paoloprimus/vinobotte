@@ -1,0 +1,55 @@
+{
+ "nome": "Corte Anna",
+ "slug": "corte-anna",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01910470986 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Vigneto 10, 25019 Sirmione (BS) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "visit.corteanna@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://corteanna.com/|corteanna.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana, Lugana Riserva [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://corteanna.com/",
+   "etichetta": "corteanna.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, consultato il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/sant-anna",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}

@@ -48090,5 +48090,172 @@
 "giorgi"
 ],
 "primario": "giorgi"
+},
+{
+"slug": "la-conta",
+"nome": "La Conta",
+"regione": "Veneto",
+"comune": "Peschiera del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"la-conta"
+],
+"primario": "la-conta"
+},
+{
+"slug": "armea",
+"nome": "Armea",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"armea"
+],
+"primario": "armea"
+},
+{
+"slug": "cantina-cattani",
+"nome": "Cantina Cattani",
+"regione": "Lombardia",
+"comune": "Cavriana",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"cantina-cattani"
+],
+"primario": "cantina-cattani"
+},
+{
+"slug": "ca-lufera",
+"nome": "Cà Lufera",
+"regione": "Veneto",
+"comune": "Peschiera del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"ca-lufera"
+],
+"primario": "ca-lufera"
+},
+{
+"slug": "marida-benedetti",
+"nome": "Marida Benedetti",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"marida-benedetti"
+],
+"primario": "marida-benedetti"
+},
+{
+"slug": "corte-anna",
+"nome": "Corte Anna",
+"regione": "Lombardia",
+"comune": "Sirmione",
+"tipi": {
+"lugana": [
+"Lugana",
+"Lugana Riserva"
+]
+},
+"membri": [
+"corte-anna"
+],
+"primario": "corte-anna"
+},
+{
+"slug": "prospero",
+"nome": "Prospero",
+"regione": "Veneto",
+"comune": "Peschiera del Garda",
+"tipi": {
+"lugana": [
+"Lugana",
+"Lugana Spumante"
+]
+},
+"membri": [
+"prospero"
+],
+"primario": "prospero"
+},
+{
+"slug": "pasetto-emilio",
+"nome": "Pasetto Emilio",
+"regione": "Lombardia",
+"comune": "Sirmione",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"pasetto-emilio"
+],
+"primario": "pasetto-emilio"
+},
+{
+"slug": "dal-biondo",
+"nome": "Dal Biondo",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"dal-biondo"
+],
+"primario": "dal-biondo"
+},
+{
+"slug": "abate",
+"nome": "Abate",
+"regione": "Lombardia",
+"comune": "Lonato del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"abate"
+],
+"primario": "abate"
+},
+{
+"slug": "bosco",
+"nome": "Bosco",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"bosco"
+],
+"primario": "bosco"
 }
 ]

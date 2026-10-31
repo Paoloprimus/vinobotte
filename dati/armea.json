@@ -1,0 +1,59 @@
+{
+ "nome": "Armea",
+ "slug": "armea",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01870880984 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Armea 1, 25015 Desenzano del Garda (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "030 9108325 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@agriturismoarmea.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://agriturismoarmea.it/|agriturismoarmea.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://agriturismoarmea.it/",
+   "etichetta": "agriturismoarmea.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, consultato il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/armea",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}

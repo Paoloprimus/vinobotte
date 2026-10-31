@@ -1,0 +1,59 @@
+{
+ "nome": "Cà Lufera",
+ "slug": "ca-lufera",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "08453380969 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Baccoli di Sopra 5, 37019 Peschiera del Garda (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "339 2156550 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "tenuta@calufera.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://calufera.com/|calufera.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://calufera.com/",
+   "etichetta": "calufera.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, consultato il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/ca-lufera",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}
