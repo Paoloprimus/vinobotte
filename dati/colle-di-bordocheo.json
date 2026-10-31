@@ -1,0 +1,63 @@
+{
+ "nome": "Colle di Bordocheo",
+ "slug": "colle-di-bordocheo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Colle di Bordocheo [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01117940468 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Segromigno in Monte, Capannori, LU [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.colledibordocheo.com/|colledibordocheo.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colline Lucchesi DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/bordocheo/|facebook.com/bordocheo}}\nInstagram {{https://www.instagram.com/colledibordocheo/|instagram.com/colledibordocheo}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.colledibordocheo.com/",
+   "etichetta": "colledibordocheo.com"
+  }
+ ]
+}

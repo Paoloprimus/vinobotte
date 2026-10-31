@@ -45324,5 +45324,38 @@
 "tenuta-la-chiusa"
 ],
 "primario": "tenuta-la-chiusa"
+},
+{
+"slug": "viticoltori-senesi-aretini",
+"nome": "Cantina Viticoltori Senesi Aretini",
+"regione": "Toscana",
+"comune": "Sinalunga",
+"tipi": {
+"chianti": [
+"Chianti"
+],
+"orcia": [
+"Orcia"
+]
+},
+"membri": [
+"viticoltori-senesi-aretini"
+],
+"primario": "viticoltori-senesi-aretini"
+},
+{
+"slug": "colle-di-bordocheo",
+"nome": "Colle di Bordocheo",
+"regione": "Toscana",
+"comune": "Capannori",
+"tipi": {
+"colline-lucchesi": [
+"Colline Lucchesi"
+]
+},
+"membri": [
+"colle-di-bordocheo"
+],
+"primario": "colle-di-bordocheo"
 }
 ]
