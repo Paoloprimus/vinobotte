@@ -44670,5 +44670,80 @@
 "le-sedici"
 ],
 "primario": "le-sedici"
+},
+{
+"slug": "tenute-di-badia",
+"nome": "Tenute di Badia",
+"regione": "Toscana",
+"comune": "Altopascio",
+"tipi": {
+"montecarlo": [
+"Montecarlo"
+]
+},
+"membri": [
+"tenute-di-badia"
+],
+"primario": "tenute-di-badia"
+},
+{
+"slug": "fattoria-valdrighi",
+"nome": "Fattoria Valdrighi",
+"regione": "Toscana",
+"comune": "Montecarlo",
+"tipi": {
+"montecarlo": [
+"Montecarlo"
+]
+},
+"membri": [
+"fattoria-valdrighi"
+],
+"primario": "fattoria-valdrighi"
+},
+{
+"slug": "il-monticello",
+"nome": "Il Monticello",
+"regione": "Liguria",
+"comune": "Sarzana",
+"tipi": {
+"colli-di-luni": [
+"Colli di Luni"
+]
+},
+"membri": [
+"il-monticello"
+],
+"primario": "il-monticello"
+},
+{
+"slug": "cantina-del-nonno-pescetto",
+"nome": "Cantina del Nonno Pescetto",
+"regione": "Liguria",
+"comune": "Santo Stefano di Magra",
+"tipi": {
+"colli-di-luni": [
+"Colli di Luni"
+]
+},
+"membri": [
+"cantina-del-nonno-pescetto"
+],
+"primario": "cantina-del-nonno-pescetto"
+},
+{
+"slug": "la-pietra-del-focolare",
+"nome": "La Pietra del Focolare",
+"regione": "Liguria",
+"comune": "Luni",
+"tipi": {
+"colli-di-luni": [
+"Colli di Luni"
+]
+},
+"membri": [
+"la-pietra-del-focolare"
+],
+"primario": "la-pietra-del-focolare"
 }
 ]

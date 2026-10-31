@@ -1,0 +1,63 @@
+{
+ "nome": "Il Monticello",
+ "slug": "il-monticello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Groppolo 7, 19038 Sarzana, SP [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0187 763889 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "infovini@ilmonticello.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ilmonticello.it/|ilmonticello.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colli di Luni DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/ilmonticellosarzana|facebook.com/ilmonticellosarzana}}\nInstagram {{https://www.instagram.com/ilmonticellovini/|instagram.com/ilmonticellovini}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.ilmonticello.it/",
+   "etichetta": "ilmonticello.it"
+  }
+ ]
+}

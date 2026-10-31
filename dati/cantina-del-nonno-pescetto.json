@@ -1,0 +1,63 @@
+{
+ "nome": "Cantina del Nonno Pescetto",
+ "slug": "cantina-del-nonno-pescetto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cisa Sud 477/A, 19037 Santo Stefano di Magra, SP [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0187 630868 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantinadelnonnopescetto@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lacantinadelnonnopescetto.it/|lacantinadelnonnopescetto.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colli di Luni DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/lacantinadelnonnopescetto|facebook.com/lacantinadelnonnopescetto}}\nInstagram {{https://instagram.com/lacantinadelnonnopescetto/|instagram.com/lacantinadelnonnopescetto}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.lacantinadelnonnopescetto.it/",
+   "etichetta": "lacantinadelnonnopescetto.it"
+  }
+ ]
+}

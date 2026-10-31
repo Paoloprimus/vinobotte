@@ -2740,5 +2740,133 @@
   "consorzio": "",
   "regione": "Toscana",
   "url_consorzio": ""
+ },
+ {
+  "wip": "Tenute di Badia",
+  "slug": "tenute-di-badia",
+  "nome": "Tenute di Badia",
+  "comune": "Altopascio",
+  "sede": "Via Fattoria 10, località Badia Pozzeveri, 55011 Altopascio, LU",
+  "rag": "",
+  "piva": "00475010476",
+  "tel": "",
+  "email": "info@tenutedibadia.it",
+  "sito": "https://www.tenutedibadia.it/",
+  "dom": "tenutedibadia.it",
+  "social": {
+   "Instagram": "https://www.instagram.com/tenute.di.badia/"
+  },
+  "den": "Montecarlo DOC",
+  "tipi": {
+   "montecarlo": [
+    "Montecarlo"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Fattoria Valdrighi",
+  "slug": "fattoria-valdrighi",
+  "nome": "Fattoria Valdrighi",
+  "comune": "Montecarlo",
+  "sede": "Via Provinciale di Montecarlo 12, 55015 Montecarlo, LU",
+  "rag": "",
+  "piva": "01907490476",
+  "tel": "+39 348 385 7281",
+  "email": "info@fattoriavaldrighi.com",
+  "sito": "https://www.fattoriavaldrighi.com/",
+  "dom": "fattoriavaldrighi.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/fattoriavaldrighi"
+  },
+  "den": "Montecarlo DOC",
+  "tipi": {
+   "montecarlo": [
+    "Montecarlo"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Il Monticello di Neri Davide",
+  "slug": "il-monticello",
+  "nome": "Il Monticello",
+  "comune": "Sarzana",
+  "sede": "Via Groppolo 7, 19038 Sarzana, SP",
+  "rag": "",
+  "piva": "",
+  "tel": "0187 763889",
+  "email": "infovini@ilmonticello.it",
+  "sito": "https://www.ilmonticello.it/",
+  "dom": "ilmonticello.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/ilmonticellosarzana",
+   "Instagram": "https://www.instagram.com/ilmonticellovini/"
+  },
+  "den": "Colli di Luni DOC",
+  "tipi": {
+   "colli-di-luni": [
+    "Colli di Luni"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Liguria",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Cantina del Nonno Pescetto",
+  "slug": "cantina-del-nonno-pescetto",
+  "nome": "Cantina del Nonno Pescetto",
+  "comune": "Santo Stefano di Magra",
+  "sede": "Via Cisa Sud 477/A, 19037 Santo Stefano di Magra, SP",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0187 630868",
+  "email": "cantinadelnonnopescetto@gmail.com",
+  "sito": "https://www.lacantinadelnonnopescetto.it/",
+  "dom": "lacantinadelnonnopescetto.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/lacantinadelnonnopescetto",
+   "Instagram": "https://instagram.com/lacantinadelnonnopescetto/"
+  },
+  "den": "Colli di Luni DOC",
+  "tipi": {
+   "colli-di-luni": [
+    "Colli di Luni"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Liguria",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Azienda Agricola La Pietra del Focolare",
+  "slug": "la-pietra-del-focolare",
+  "nome": "La Pietra del Focolare",
+  "comune": "Luni",
+  "sede": "Via Isola 76, 19034 Luni, SP",
+  "rag": "",
+  "piva": "00505100115",
+  "tel": "+39 347 9500439",
+  "email": "lapietradelfocolare@gmail.com",
+  "sito": "https://www.lapietradelfocolare.it/",
+  "dom": "lapietradelfocolare.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/lapietradelfocolare/",
+   "Instagram": "https://www.instagram.com/lapietradelfocolare/"
+  },
+  "den": "Colli di Luni DOC",
+  "tipi": {
+   "colli-di-luni": [
+    "Colli di Luni"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Liguria",
+  "url_consorzio": ""
  }
 ]
