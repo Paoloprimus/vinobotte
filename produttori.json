@@ -44976,5 +44976,37 @@
 "poggio-salvi"
 ],
 "primario": "poggio-salvi"
+},
+{
+"slug": "la-borriana",
+"nome": "La Borriana",
+"regione": "Toscana",
+"comune": "Carmignano",
+"tipi": {
+"carmignano": [
+"Carmignano",
+"Barco Reale di Carmignano"
+]
+},
+"membri": [
+"la-borriana"
+],
+"primario": "la-borriana"
+},
+{
+"slug": "le-farnete",
+"nome": "Le Farnete (Tenuta Cantagallo)",
+"regione": "Toscana",
+"comune": "Carmignano",
+"tipi": {
+"carmignano": [
+"Carmignano",
+"Barco Reale di Carmignano"
+]
+},
+"membri": [
+"le-farnete"
+],
+"primario": "le-farnete"
 }
 ]

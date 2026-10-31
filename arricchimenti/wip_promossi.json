@@ -3290,5 +3290,61 @@
   "consorzio_nome": "Consorzio Vino Chianti",
   "dom_consorzio": "consorziovinochianti.it",
   "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "La Borriana",
+  "slug": "la-borriana",
+  "nome": "La Borriana",
+  "comune": "Carmignano",
+  "sede": "Carmignano, PO",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 055 8710058",
+  "email": "info@agriturismolaborriana.it",
+  "sito": "https://www.agriturismolaborriana.it/",
+  "dom": "agriturismolaborriana.it",
+  "social": {},
+  "den": "Carmignano DOCG, Carmignano Riserva DOCG, Barco Reale di Carmignano DOC",
+  "tipi": {
+   "carmignano": [
+    "Carmignano",
+    "Barco Reale di Carmignano"
+   ]
+  },
+  "consorzio": "carmignano",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinicarmignano.it/le-aziende/la-borriana/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio di Tutela dei Vini di Carmignano",
+  "dom_consorzio": "consorziovinicarmignano.it",
+  "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "Le Fernete (Tenuta Cantagallo)",
+  "slug": "le-farnete",
+  "nome": "Le Farnete (Tenuta Cantagallo)",
+  "comune": "Carmignano",
+  "sede": "Carmignano, PO",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0571 910078",
+  "email": "info@tenutacantagallo.it",
+  "sito": "https://www.tenutacantagallo.it/",
+  "dom": "tenutacantagallo.it",
+  "social": {},
+  "den": "Carmignano DOCG, Carmignano Riserva DOCG, Barco Reale di Carmignano DOC",
+  "tipi": {
+   "carmignano": [
+    "Carmignano",
+    "Barco Reale di Carmignano"
+   ]
+  },
+  "consorzio": "carmignano",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinicarmignano.it/le-aziende/le-fernete/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio di Tutela dei Vini di Carmignano",
+  "dom_consorzio": "consorziovinicarmignano.it",
+  "data_consorzio": "31 ottobre 2026"
  }
 ]

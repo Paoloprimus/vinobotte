@@ -1,0 +1,58 @@
+{
+ "nome": "Le Farnete (Tenuta Cantagallo)",
+ "slug": "le-farnete",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Carmignano, PO [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0571 910078 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutacantagallo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutacantagallo.it/|tenutacantagallo.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela dei Vini di Carmignano [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Carmignano DOCG, Carmignano Riserva DOCG, Barco Reale di Carmignano DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di Tutela dei Vini di Carmignano, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziovinicarmignano.it/le-aziende/le-fernete/",
+   "etichetta": "consorziovinicarmignano.it"
+  }
+ ]
+}
