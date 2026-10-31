@@ -1,0 +1,76 @@
+{
+ "nome": "CorteBianca",
+ "slug": "cortebianca",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Caduto Antonini, 6/1, 25050 Sergnana (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3355278163 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cortebianca@corte-bianca.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cortebianca.it/|cortebianca.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/CorteBianca-Franciacorta-1215233718490849|facebook.com/CorteBianca-Franciacorta-1215233718490849}}\nInstagram {{https://www.instagram.com/cortebiancafranciacorta/|instagram.com/cortebiancafranciacorta}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/cortebianca/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

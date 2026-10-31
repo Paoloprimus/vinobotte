@@ -1,0 +1,90 @@
+{
+ "nome": "Contadi Castaldi",
+ "slug": "contadi-castaldi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Contadi Castaldi S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02084650981 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Colzano, 32, 25030 Adro (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0307450126 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "contadicastaldi@contadicastaldi.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.contadicastaldi.it/it/|contadicastaldi.it/it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì e martedì 10.30–13 e 15.30–18; mercoledì e giovedì 10–13 e 15.30–18; venerdì e sabato 10.30–13 e 15.30–18; domenica 10.30–13 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Contadi/|facebook.com/Contadi}}\nInstagram {{https://instagram.com/contadicastaldi/|instagram.com/contadicastaldi}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.contadicastaldi.it/it/",
+   "etichetta": "contadicastaldi.it/it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/contadi-castaldi/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

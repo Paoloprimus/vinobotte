@@ -1,0 +1,71 @@
+{
+ "nome": "Bosio",
+ "slug": "bosio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Mario Gatti, 4, 25040 Corte Franca (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0309826224 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bosiofranciacorta.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.bosiofranciacorta.it/|bosiofranciacorta.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva, Curtefranca [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–sabato 10–12 e 15–17.30; domenica chiuso [[1]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://it-it.facebook.com/Bosio-Franciacorta-272546066146862/|it-it.facebook.com/Bosio-Franciacorta-272546066146862}}\nInstagram {{https://www.instagram.com/bosiofranciacorta|instagram.com/bosiofranciacorta}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/bosio/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

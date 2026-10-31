@@ -1,0 +1,85 @@
+{
+ "nome": "Le Due Querce",
+ "slug": "le-due-querce",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Le Due Querce Luis Franciacorta S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03699370981 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via S. Lorenzo, 24, 25050 Ome (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0306527454 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "infoluisfranciacorta@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://cantinaleduequerce.it/|cantinaleduequerce.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì 8.30–12.30 e 14.30–18; sabato 8.30–12.30; domenica chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/LuisFranciacorta|facebook.com/LuisFranciacorta}}\nInstagram {{https://www.instagram.com/luis_franciacorta/|instagram.com/luis_franciacorta}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://cantinaleduequerce.it/",
+   "etichetta": "cantinaleduequerce.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/le-due-querce/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

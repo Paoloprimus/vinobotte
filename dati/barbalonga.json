@@ -1,0 +1,76 @@
+{
+ "nome": "Barbalonga",
+ "slug": "barbalonga",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Monte Orfano, 25, 25038 Rovato (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3356298668 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@barbalonga.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://barbalonga.it/|barbalonga.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Millesimato, Franciacorta Riserva [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–giovedì 9–12 e 14–17.30; venerdì 9–12 e 14–18; sabato e domenica chiuso [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Barbalonga-717378475071790/|facebook.com/Barbalonga-717378475071790}}\nInstagram {{https://www.instagram.com/barbalongawine/|instagram.com/barbalongawine}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/barbalonga/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

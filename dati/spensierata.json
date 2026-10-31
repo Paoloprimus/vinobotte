@@ -1,0 +1,81 @@
+{
+ "nome": "Spensierata",
+ "slug": "spensierata",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04449750985 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Luigi Cadorna, 25050 Monterotondo (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3476016513 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@spensieratafranciacorta.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.spensieratafranciacorta.it/|spensieratafranciacorta.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì e martedì 8.30–13; mercoledì chiuso; giovedì 8.30–13; venerdì e sabato 8.30–18.30; domenica chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/spensierata.franciacorta|facebook.com/spensierata.franciacorta}}\nInstagram {{https://www.instagram.com/spensierata.franciacorta|instagram.com/spensierata.franciacorta}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.spensieratafranciacorta.it/",
+   "etichetta": "spensieratafranciacorta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/spensierata/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

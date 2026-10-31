@@ -1,0 +1,81 @@
+{
+ "nome": "Le Cantorìe",
+ "slug": "le-cantorie",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03460160173 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Castello Di Casaglio, 24/25, 25064 Gussago (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0302523723 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lecantorie.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.lecantorie.com/|lecantorie.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì 8.30–12.30 e 14.30–19; sabato e domenica 10.30–13.30 [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/le.cantorie/|facebook.com/le.cantorie}}\nInstagram {{https://www.instagram.com/lecantorie/?hl=it|instagram.com/lecantorie/?hl=it}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.lecantorie.com/",
+   "etichetta": "lecantorie.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/le-cantorie/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

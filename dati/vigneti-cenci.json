@@ -1,0 +1,81 @@
+{
+ "nome": "Vigneti Cenci",
+ "slug": "vigneti-cenci",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Vigneti Cenci S.S. Soc. Agr. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03867400982 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Riccafana, 19, 25033 Cologne (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0307156386 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vigneticenci.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.vigneticenci.com/|vigneticenci.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/vigneticenci/|facebook.com/vigneticenci}}\nInstagram {{https://www.instagram.com/vigneticenci|instagram.com/vigneticenci}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.vigneticenci.com/",
+   "etichetta": "vigneticenci.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/vigneti-cenci/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

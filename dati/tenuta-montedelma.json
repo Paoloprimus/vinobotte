@@ -1,0 +1,94 @@
+{
+ "nome": "Tenuta Montedelma",
+ "slug": "tenuta-montedelma",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Monte Delma di Berardi P. & P. Soc. Agr. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03588150171 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Valenzano, 23, 25050 Passirano (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0306546161 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@montedelma.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.montedelma.it/|montedelma.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì chiuso; martedì–giovedì 14.30–17.30; venerdì 14–18; sabato 9–12 e 14–18; domenica chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/montedelma|facebook.com/montedelma}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.montedelma.it/",
+   "etichetta": "montedelma.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/tenuta-monterdelma/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

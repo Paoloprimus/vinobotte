@@ -1,0 +1,68 @@
+{
+ "nome": "Monte Alto",
+ "slug": "monte-alto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03973310984 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Luigi Di Bernardo, 98, 25049 Iseo (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3478693294 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@montealtofranciacorta.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.montealtofranciacorta.it/|montealtofranciacorta.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.montealtofranciacorta.it/",
+   "etichetta": "montealtofranciacorta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/monte-alto/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "nome": "Le Quattro Terre",
+ "slug": "le-quattro-terre",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02797310980 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Risorgimento, 11, 25040 Corte Franca (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "030984312 - 3406456031 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@quattroterre.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.quattroterre.it/|quattroterre.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì e martedì 14–18; mercoledì–domenica 8.30–20 [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/LeQuattroTerre|facebook.com/LeQuattroTerre}}\nInstagram {{https://www.instagram.com/quattroterre_official/|instagram.com/quattroterre_official}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.quattroterre.it/",
+   "etichetta": "quattroterre.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/le-quattro-terre/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

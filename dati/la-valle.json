@@ -1,0 +1,81 @@
+{
+ "nome": "La Valle",
+ "slug": "la-valle",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02109470985 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Marrocco, 25, 25050 Rodengo Saiano (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "030611404 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinilavalle.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.vinilavalle.it/|vinilavalle.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–giovedì 8–12 e 14–18; venerdì 8–12 e 14–17; sabato e domenica chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.vinilavalle.it/",
+   "etichetta": "vinilavalle.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/la-valle/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

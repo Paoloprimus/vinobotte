@@ -1,0 +1,81 @@
+{
+ "nome": "Castello Bonomi Tenute in Franciacorta",
+ "slug": "castello-bonomi-tenute-in-franciacorta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03034170989 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Pietro, 46, 25030 Coccaglio (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0307721015 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@castellobonomi.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.castellobonomi.it/|castellobonomi.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–sabato 10.30–12 e 15–16.30; domenica 10.30–12 [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/CastelloBonomi|facebook.com/CastelloBonomi}}\nInstagram {{https://www.instagram.com/castellobonomi/|instagram.com/castellobonomi}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.castellobonomi.it/",
+   "etichetta": "castellobonomi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/castello-bonomi/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "nome": "Bersi Serlini",
+ "slug": "bersi-serlini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cereto, 7, 25050 Provaglio D'Iseo (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0309823338 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "visite@bersiserlini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.bersiserlini.it/|bersiserlini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva, Curtefranca [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–domenica 11–16.30 [[1]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://m.facebook.com/bersiserlini.franciacorta/|m.facebook.com/bersiserlini.franciacorta}}\nInstagram {{https://instagram.com/bersiserlini_franciacorta?utm_medium=copy_link|instagram.com/bersiserlini_franciacorta?utm_medium=copy_link}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/bersi-serlini/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

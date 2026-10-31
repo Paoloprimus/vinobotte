@@ -1,0 +1,81 @@
+{
+ "nome": "Terre d'Aenòr",
+ "slug": "terre-daenor",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02433110984 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Alessandro Volta, 22, 25050 Provaglio D'Iseo (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3490530613 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "eleonora@terredaenor.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://terredaenor.com/|terredaenor.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì 8.30–12 e 13–17.30; sabato 9–12; domenica chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/terredaenor|facebook.com/terredaenor}}\nInstagram {{https://www.instagram.com/terredaenor/|instagram.com/terredaenor}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://terredaenor.com/",
+   "etichetta": "terredaenor.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/terre-aenor/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

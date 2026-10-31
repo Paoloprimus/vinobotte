@@ -1,0 +1,58 @@
+{
+ "nome": "La Fiorita",
+ "slug": "la-fiorita-ome",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Maglio, 10, 25050 Ome (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "030652279 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lafioritafranciacorta.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://lafioritafranciacorta.com/|lafioritafranciacorta.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/lafioritafranciacorta/|facebook.com/lafioritafranciacorta}}\nInstagram {{https://www.instagram.com/lafioritafranciacorta/|instagram.com/lafioritafranciacorta}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/la-fiorita/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

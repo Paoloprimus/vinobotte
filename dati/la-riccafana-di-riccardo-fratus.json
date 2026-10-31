@@ -1,0 +1,76 @@
+{
+ "nome": "La Riccafana di Riccardo Fratus",
+ "slug": "la-riccafana-di-riccardo-fratus",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Riccafana di Riccardo Fratus (ditta individuale) [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02029720980 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fratelli Facchetti, 91, 25033 Cologne (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3927935584 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fratuslariccafana.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://riccafana.it/|riccafana.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì 9.45–11.45 e 14–17; sabato e domenica 9.45–11.45 [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://riccafana.it/",
+   "etichetta": "riccafana.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/la-riccafana/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

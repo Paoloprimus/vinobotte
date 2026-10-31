@@ -1,0 +1,81 @@
+{
+ "nome": "Franca Contea",
+ "slug": "franca-contea",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Franca Contea di Cavalleri Luigi e figli s.s. Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02082000981 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Valli, 30, 25030 Adro (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0307451217 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@francacontea.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.francacontea.it/|francacontea.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Millesimato, Franciacorta Riserva [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/FrancaContea|facebook.com/FrancaContea}}\nInstagram {{https://www.instagram.com/francacontea|instagram.com/francacontea}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.francacontea.it/",
+   "etichetta": "francacontea.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/franca-contea/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

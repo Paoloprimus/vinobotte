@@ -1,0 +1,72 @@
+{
+ "nome": "Le Vedute",
+ "slug": "le-vedute",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Le Vedute di Manenti Graziano e C. - Società Agricola SS [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03719180980 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Gallo, 2b, Fornaci-Quattrovie, Corte Franca (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3339524571 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "infolevedute@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.levedutefranciacorta.it/|levedutefranciacorta.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.levedutefranciacorta.it/",
+   "etichetta": "levedutefranciacorta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/le-vedute/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

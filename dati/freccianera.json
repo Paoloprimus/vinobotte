@@ -1,0 +1,94 @@
+{
+ "nome": "Freccianera",
+ "slug": "freccianera",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agricola F.lli Berlucchi S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01555790177 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Broletto, 2, 25040 Borgonato (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "030984451 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@freccianera.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://freccianera.it/visite-in-cantina/|freccianera.it/visite-in-cantina}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì 9–18; sabato 10–17; domenica chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/freccianerafratelliberlucchi|facebook.com/freccianerafratelliberlucchi}}\nInstagram {{https://www.instagram.com/freccianera/|instagram.com/freccianera}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://freccianera.it/visite-in-cantina/",
+   "etichetta": "freccianera.it/visite-in-cantina"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/fratelli-berlucchi/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

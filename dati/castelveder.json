@@ -1,0 +1,94 @@
+{
+ "nome": "Castelveder",
+ "slug": "castelveder",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Castelveder [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03011870981 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Belvedere, 4, 25040 Monticelli Brusati (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "030652308 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@castelveder.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.castelveder.it/|castelveder.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì 9–12.30 e 14–17.30; sabato 9–12.30; domenica chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/pg/castelveder/|facebook.com/pg/castelveder}}\nInstagram {{https://www.instagram.com/castelveder_franciacorta/?hl=it|instagram.com/castelveder_franciacorta/?hl=it}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.castelveder.it/",
+   "etichetta": "castelveder.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/castelveder/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

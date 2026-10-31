@@ -1,0 +1,94 @@
+{
+ "nome": "Muratori",
+ "slug": "muratori",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda agricola fratelli Muratori SS [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03535970176 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Valli, 31, 25030 ADRO (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0307451051 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "accoglienza@muratoriwine.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://muratoriwine.it/|muratoriwine.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–sabato 10.30–15.30; domenica chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/muratoriwine|facebook.com/muratoriwine}}\nInstagram {{https://www.instagram.com/muratoriwine/|instagram.com/muratoriwine}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://muratoriwine.it/",
+   "etichetta": "muratoriwine.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/muratori/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

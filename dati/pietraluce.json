@@ -1,0 +1,90 @@
+{
+ "nome": "Pietraluce",
+ "slug": "pietraluce",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02136340987 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Boschi, 18, 25046 Calino (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0307759997 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@pietralucefranciacorta.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.pietralucefranciacorta.it/|pietralucefranciacorta.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–domenica 9–12.30 e 14.30–18.30 [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Pietralucefranciacorta|facebook.com/Pietralucefranciacorta}}\nInstagram {{https://www.instagram.com/pietraluce_franciacorta/|instagram.com/pietraluce_franciacorta}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.pietralucefranciacorta.it/",
+   "etichetta": "pietralucefranciacorta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/pietraluce/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

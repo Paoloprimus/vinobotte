@@ -1,0 +1,71 @@
+{
+ "nome": "Lo Sparviere",
+ "slug": "lo-sparviere",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Costa, 2, 25040 Monticelli Brusati (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "030652382 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@losparviere.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://losparviere.it/|losparviere.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì 9–13 e 14–17.30; sabato e domenica chiuso [[1]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/losparviere.franciacorta|facebook.com/losparviere.franciacorta}}\nInstagram {{https://www.instagram.com/losparviere_franciacorta/|instagram.com/losparviere_franciacorta}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/lo-sparviere/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

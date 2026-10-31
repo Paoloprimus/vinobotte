@@ -1,0 +1,76 @@
+{
+ "nome": "La Fiòca",
+ "slug": "la-fioca",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola La Fiòca S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03512430178 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Dei Pellegrini, 25040 Nigoline Bonomelli (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0309826313 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "mail@lafioca.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://lafioca.com/|lafioca.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì 8–12 e 13–17; sabato e domenica 9–12 e 14–18 [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://lafioca.com/",
+   "etichetta": "lafioca.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/la-fioca/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

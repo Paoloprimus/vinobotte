@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Curtefranca — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Curtefranca</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Curtefranca</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Al Rocol","s":"al-rocol","c":"Ome","d":["Curtefranca"]},{"n":"Alberelle di Luca Zefferino Dabeni","s":"alberelle-di-luca-zefferino-dabeni","c":"Rovato","d":["Curtefranca"]},{"n":"Barboglio de Gaioncelli","s":"barboglio-de-gaioncelli","c":"Colombaro","d":["Curtefranca"]},{"n":"Bariselli Gabriella","s":"bariselli-gabriella","c":"Erbusco","d":["Curtefranca"]},{"n":"Barone Pizzini","s":"barone-pizzini","c":"Provaglio D'Iseo","d":["Curtefranca"]},{"n":"Bersi Serlini","s":"bersi-serlini","c":"Provaglio D'Iseo","d":["Curtefranca"]},{"n":"Bosio","s":"bosio","c":"Corte Franca","d":["Curtefranca"]},{"n":"Bredasole","s":"bredasole","c":"Paratico","d":["Curtefranca"]},{"n":"Ca' del Bosco","s":"ca-del-bosco","c":"Erbusco","d":["Curtefranca"]},{"n":"Cantina Chiara Ziliani","s":"cantina-chiara-ziliani","c":"Provaglio D'Iseo","d":["Curtefranca"]},{"n":"Cascina Carretto","s":"cascina-carretto","c":"Erbusco","d":["Curtefranca"]},{"n":"Cascina San Pietro","s":"cascina-san-pietro","c":"Calino","d":["Curtefranca"]},{"n":"Castello Bonomi Tenute in Franciacorta","s":"castello-bonomi-tenute-in-franciacorta","c":"Coccaglio","d":["Curtefranca"]},{"n":"Castello di Bornato","s":"castello-di-bornato","c":"Bornato","d":["Curtefranca"]},{"n":"Castello di Gussago - La Santissima","s":"castello-di-gussago-la-santissima","c":"Gussago","d":["Curtefranca"]},{"n":"Castelveder","s":"castelveder","c":"Monticelli Brusati","d":["Curtefranca"]},{"n":"Cola Battista","s":"cola-battista","c":"Adro","d":["Curtefranca"]},{"n":"Contadi Castaldi","s":"contadi-castaldi","c":"Adro","d":["Curtefranca"]},{"n":"Cooperativa Cellatica Gussago","s":"cooperativa-cellatica-gussago","c":"Cellatica","d":["Curtefranca"]},{"n":"Facchetti","s":"facchetti","c":"Erbusco","d":["Curtefranca"]},{"n":"Ferghettina","s":"ferghettina","c":"Adro","d":["Curtefranca"]},{"n":"Freccianera","s":"freccianera","c":"Borgonato","d":["Curtefranca"]},{"n":"I Barisèi","s":"i-barisei","c":"Erbusco","d":["Curtefranca"]},{"n":"Il Dosso","s":"il-dosso","c":"Corte Franca","d":["Curtefranca"]},{"n":"La Costa di Ome","s":"la-costa-di-ome","c":"Ome","d":["Curtefranca"]},{"n":"La Torre","s":"la-torre-torbiato-di-adro","c":"Torbiato Di Adro","d":["Curtefranca"]},{"n":"Lantieri de Paratico","s":"lantieri-de-paratico","c":"Capriolo","d":["Curtefranca"]},{"n":"Le Cantorìe","s":"le-cantorie","c":"Gussago","d":["Curtefranca"]},{"n":"Le Due Querce","s":"le-due-querce","c":"Ome","d":["Curtefranca"]},{"n":"Le Marchesine","s":"le-marchesine","c":"Passirano","d":["Curtefranca"]},{"n":"Le Quattro Terre","s":"le-quattro-terre","c":"Corte Franca","d":["Curtefranca"]},{"n":"Le Vedute","s":"le-vedute","c":"Corte Franca","d":["Curtefranca"]},{"n":"Majolini","s":"majolini","c":"Ome","d":["Curtefranca"]},{"n":"Montorfano de Filippo","s":"montorfano-de-filippo","c":"Coccaglio","d":["Curtefranca"]},{"n":"Monzio Compagnoni","s":"monzio-compagnoni","c":"Adro","d":["Curtefranca"]},{"n":"Priore","s":"priore","c":"Cazzago San Martino","d":["Curtefranca"]},{"n":"Ricci Curbastro","s":"ricci-curbastro","c":"Capriolo","d":["Curtefranca"]},{"n":"Ronco Calino","s":"ronco-calino","c":"Adro","d":["Curtefranca"]},{"n":"Santa Lucia","s":"santa-lucia-erbusco","c":"Erbusco","d":["Curtefranca"]},{"n":"Tenuta Martinelli","s":"tenuta-martinelli","c":"Cologne","d":["Curtefranca"]},{"n":"Tenuta Moraschi","s":"tenuta-moraschi","c":"Capriolo","d":["Curtefranca"]},{"n":"Terre d'Aenòr","s":"terre-daenor","c":"Provaglio D'Iseo","d":["Curtefranca"]},{"n":"Turra","s":"turra","c":"Cologne","d":["Curtefranca"]},{"n":"Uberti","s":"uberti","c":"Erbusco","d":["Curtefranca"]},{"n":"Ugo Vezzoli","s":"ugo-vezzoli","c":"Palazzolo Sull'Oglio","d":["Curtefranca"]},{"n":"Vezzoli di Vezzoli Giuseppe","s":"vezzoli-di-vezzoli-giuseppe","c":"Erbusco","d":["Curtefranca"]},{"n":"Vigna Dorata","s":"vigna-dorata","c":"Cazzago San Martino","d":["Curtefranca"]},{"n":"Villa Franciacorta","s":"villa-franciacorta","c":"Monticelli Brusati","d":["Curtefranca"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    

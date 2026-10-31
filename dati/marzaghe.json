@@ -1,0 +1,81 @@
+{
+ "nome": "Marzaghe",
+ "slug": "marzaghe",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03631260985 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Parlamento, 28, 25030 Zocco (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0307267245 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@marzaghefranciacorta.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.marzaghefranciacorta.it/|marzaghefranciacorta.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–sabato 10–12 e 15–18; domenica chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/marzaghefranciacorta|facebook.com/marzaghefranciacorta}}\nInstagram {{https://www.instagram.com/marzaghe|instagram.com/marzaghe}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.marzaghefranciacorta.it/",
+   "etichetta": "marzaghefranciacorta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/marzaghe/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

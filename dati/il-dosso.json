@@ -1,0 +1,94 @@
+{
+ "nome": "Il Dosso",
+ "slug": "il-dosso",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Agricola Il Dosso [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03406590178 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Dosso, 2, 25040 Corte Franca (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3280345306 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "prenotazioni@agricolaildosso.info [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://agricolaildosso.info/|agricolaildosso.info}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì 10–12.30 e 14–19; sabato e domenica 10–19 [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/AgricolaIlDosso/|facebook.com/AgricolaIlDosso}}\nInstagram {{https://www.instagram.com/agricola_il_dosso_/|instagram.com/agricola_il_dosso_}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://agricolaildosso.info/",
+   "etichetta": "agricolaildosso.info"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/il-dosso/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "nome": "Vezzoli di Vezzoli Giuseppe",
+ "slug": "vezzoli-di-vezzoli-giuseppe",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Vezzoli Giuseppe [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02199600988 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Costa Sopra, 22, 25030 Erbusco (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0307267579 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vezzolivini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vezzolivini.it/|vezzolivini.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì 8.30–12 e 13.30–17.30; martedì 8.30–12 e 13–17.30; mercoledì–venerdì 8.30–12 e 13.30–17.30; sabato 8.30–12 e 13–17.30; domenica chiuso [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/VezzoliVini/?fref=ts|facebook.com/VezzoliVini/?fref=ts}}\nInstagram {{https://www.instagram.com/vezzolivinifranciacorta/|instagram.com/vezzolivinifranciacorta}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.vezzolivini.it/",
+   "etichetta": "vezzolivini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/vezzoli/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

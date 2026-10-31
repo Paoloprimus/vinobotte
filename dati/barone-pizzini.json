@@ -1,0 +1,85 @@
+{
+ "nome": "Barone Pizzini",
+ "slug": "barone-pizzini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Barone Pizzini S.Agr.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02156450179 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via S. Carlo, 14, 25050 Provaglio D'Iseo (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0309848311 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@baronepizzini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.baronepizzini.it/|baronepizzini.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–sabato 9–12.30 e 14.30–18; domenica 9–12.30 [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/baronepizzini|facebook.com/baronepizzini}}\nInstagram {{https://www.instagram.com/barone_pizzini_1870/|instagram.com/barone_pizzini_1870}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.baronepizzini.it/",
+   "etichetta": "baronepizzini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/barone-pizzini/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

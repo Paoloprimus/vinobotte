@@ -1,0 +1,86 @@
+{
+ "nome": "Santa Lucia",
+ "slug": "santa-lucia-erbusco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03978390981 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Giuseppe Verdi, 6, 25030 Erbusco (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0307769814 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@santaluciawine.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.santaluciafranciacorta.it/|santaluciafranciacorta.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–sabato 8–12 e 14–17; domenica chiuso [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/SantaLuciaFranciacorta/|facebook.com/SantaLuciaFranciacorta}}\nInstagram {{https://www.instagram.com/santalucia_franciacorta/|instagram.com/santalucia_franciacorta}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.santaluciafranciacorta.it/",
+   "etichetta": "santaluciafranciacorta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/santa-lucia/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

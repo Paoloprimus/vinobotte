@@ -1,0 +1,81 @@
+{
+ "nome": "La Torre",
+ "slug": "la-torre-torbiato-di-adro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02128090988 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Zeno, 6, 25030 Torbiato Di Adro (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0307450844 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinilatorre.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.vinidifranciacortalatorre.it/|vinidifranciacortalatorre.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–mercoledì 8.30–12 e 13.30–18; giovedì 8–12 e 13.30–18; venerdì 8.30–12 e 13.30–18; sabato 8.30–12 e 13.30–17; domenica chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.vinidifranciacortalatorre.it/",
+   "etichetta": "vinidifranciacortalatorre.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/la-torre/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

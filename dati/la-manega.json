@@ -1,0 +1,94 @@
+{
+ "nome": "La Manèga",
+ "slug": "la-manega",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Rizzini Natale [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03200410177 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Manica, 8B, 25064 Gussago (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3357014913 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lamanega.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.lamanega.it/|lamanega.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Riserva [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì chiuso; sabato e domenica 10.30–12.30 [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/lamanega|facebook.com/lamanega}}\nInstagram {{https://www.instagram.com/la_manega/|instagram.com/la_manega}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.lamanega.it/",
+   "etichetta": "lamanega.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/la-manega/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

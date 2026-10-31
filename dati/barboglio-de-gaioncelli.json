@@ -1,0 +1,85 @@
+{
+ "nome": "Barboglio de Gaioncelli",
+ "slug": "barboglio-de-gaioncelli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Barboglio de Gaioncelli di Costa Andrea S.A.S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03283440174 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Nazario Sauro, 14, 25040 Colombaro (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3939018924 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@barbogliodegaioncelli.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.barbogliodegaioncelli.it/|barbogliodegaioncelli.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva, Curtefranca [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì 8–12 e 13.30–17; sabato 9.30–13; domenica chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.barbogliodegaioncelli.it/",
+   "etichetta": "barbogliodegaioncelli.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/barboglio-de-gaioncelli/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

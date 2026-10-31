@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Franciacorta — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Franciacorta</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Franciacorta</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"1701","s":"1701","c":"Cazzago San Martino","d":["Franciacorta"]},{"n":"Al Rocol","s":"al-rocol","c":"Ome","d":["Franciacorta"]},{"n":"Alberelle di Luca Zefferino Dabeni","s":"alberelle-di-luca-zefferino-dabeni","c":"Rovato","d":["Franciacorta"]},{"n":"Antica Fratta","s":"antica-fratta","c":"Fontana","d":["Franciacorta"]},{"n":"Barbalonga","s":"barbalonga","c":"Rovato","d":["Franciacorta"]},{"n":"Barboglio de Gaioncelli","s":"barboglio-de-gaioncelli","c":"Colombaro","d":["Franciacorta"]},{"n":"Bariselli Gabriella","s":"bariselli-gabriella","c":"Erbusco","d":["Franciacorta"]},{"n":"Barone Pizzini","s":"barone-pizzini","c":"Provaglio D'Iseo","d":["Franciacorta"]},{"n":"Berlucchi Guido","s":"berlucchi-guido","c":"Borgonato","d":["Franciacorta"]},{"n":"Bersi Serlini","s":"bersi-serlini","c":"Provaglio D'Iseo","d":["Franciacorta"]},{"n":"Biondelli","s":"biondelli","c":"Bornato","d":["Franciacorta"]},{"n":"Boccadoro","s":"boccadoro","c":"Cazzago San Martino","d":["Franciacorta"]},{"n":"Bonfadini","s":"bonfadini","c":"Iseo","d":["Franciacorta"]},{"n":"Bonzoni","s":"bonzoni","c":"Ome","d":["Franciacorta"]},{"n":"Bosio","s":"bosio","c":"Corte Franca","d":["Franciacorta"]},{"n":"Bredasole","s":"bredasole","c":"Paratico","d":["Franciacorta"]},{"n":"Brutell","s":"brutell","c":"Adro","d":["Franciacorta"]},{"n":"Ca' del Bosco","s":"ca-del-bosco","c":"Erbusco","d":["Franciacorta"]},{"n":"Camilucci","s":"camilucci","c":"Erbusco","d":["Franciacorta"]},{"n":"Camossi","s":"camossi","c":"Erbusco","d":["Franciacorta"]},{"n":"Cantina Chiara Ziliani","s":"cantina-chiara-ziliani","c":"Provaglio D'Iseo","d":["Franciacorta"]},{"n":"Caruna","s":"caruna","c":"Cologne","d":["Franciacorta"]},{"n":"Cascina Carretto","s":"cascina-carretto","c":"Erbusco","d":["Franciacorta"]},{"n":"Cascina San Pietro","s":"cascina-san-pietro","c":"Calino","d":["Franciacorta"]},{"n":"Castel Faglia","s":"castel-faglia","c":"Calino","d":["Franciacorta"]},{"n":"Castello Bonomi Tenute in Franciacorta","s":"castello-bonomi-tenute-in-franciacorta","c":"Coccaglio","d":["Franciacorta"]},{"n":"Castello di Bornato","s":"castello-di-bornato","c":"Bornato","d":["Franciacorta"]},{"n":"Castello di Gussago - La Santissima","s":"castello-di-gussago-la-santissima","c":"Gussago","d":["Franciacorta"]},{"n":"Castelveder","s":"castelveder","c":"Monticelli Brusati","d":["Franciacorta"]},{"n":"Centinari","s":"centinari","c":"Capriolo","d":["Franciacorta"]},{"n":"Cola Battista","s":"cola-battista","c":"Adro","d":["Franciacorta"]},{"n":"Colline della Stella di Andrea Arici","s":"colline-della-stella-di-andrea-arici","c":"Gussago","d":["Franciacorta"]},{"n":"Contadi Castaldi","s":"contadi-castaldi","c":"Adro","d":["Franciacorta"]},{"n":"Cooperativa Cellatica Gussago","s":"cooperativa-cellatica-gussago","c":"Cellatica","d":["Franciacorta"]},{"n":"Corte Aura","s":"corte-aura","c":"Adro","d":["Franciacorta"]},{"n":"Corte Fusia","s":"corte-fusia","c":"Coccaglio","d":["Franciacorta"]},{"n":"CorteBianca","s":"cortebianca","c":"Sergnana","d":["Franciacorta"]},{"n":"Derbusco Cives","s":"derbusco-cives","c":"Erbusco","d":["Franciacorta"]},{"n":"Facchetti","s":"facchetti","c":"Erbusco","d":["Franciacorta"]},{"n":"Faccoli Lorenzo","s":"faccoli-lorenzo","c":"Coccaglio","d":["Franciacorta"]},{"n":"Ferghettina","s":"ferghettina","c":"Adro","d":["Franciacorta"]},{"n":"Franca Contea","s":"franca-contea","c":"Adro","d":["Franciacorta"]},{"n":"Franciacorta Bèlon Wine","s":"franciacorta-belon-wine","c":"Erbusco","d":["Franciacorta"]},{"n":"Freccianera","s":"freccianera","c":"Borgonato","d":["Franciacorta"]},{"n":"Gatti Enrico","s":"gatti-enrico","c":"Erbusco","d":["Franciacorta"]},{"n":"Girolamo Conforti","s":"girolamo-conforti","c":"Erbusco","d":["Franciacorta"]},{"n":"I Barisèi","s":"i-barisei","c":"Erbusco","d":["Franciacorta"]},{"n":"Il Dosso","s":"il-dosso","c":"Corte Franca","d":["Franciacorta"]},{"n":"La Costa di Ome","s":"la-costa-di-ome","c":"Ome","d":["Franciacorta"]},{"n":"La Fiorita","s":"la-fiorita-ome","c":"Ome","d":["Franciacorta"]},{"n":"La Fiòca","s":"la-fioca","c":"Nigoline Bonomelli","d":["Franciacorta"]},{"n":"La Manèga","s":"la-manega","c":"Gussago","d":["Franciacorta"]},{"n":"La Riccafana di Riccardo Fratus","s":"la-riccafana-di-riccardo-fratus","c":"Cologne","d":["Franciacorta"]},{"n":"La Torre","s":"la-torre-torbiato-di-adro","c":"Torbiato Di Adro","d":["Franciacorta"]},{"n":"La Valle","s":"la-valle","c":"Rodengo Saiano","d":["Franciacorta"]},{"n":"Lantieri de Paratico","s":"lantieri-de-paratico","c":"Capriolo","d":["Franciacorta"]},{"n":"Le Cantorìe","s":"le-cantorie","c":"Gussago","d":["Franciacorta"]},{"n":"Le Due Querce","s":"le-due-querce","c":"Ome","d":["Franciacorta"]},{"n":"Le Marchesine","s":"le-marchesine","c":"Passirano","d":["Franciacorta"]},{"n":"Le Quattro Terre","s":"le-quattro-terre","c":"Corte Franca","d":["Franciacorta"]},{"n":"Le Vedute","s":"le-vedute","c":"Corte Franca","d":["Franciacorta"]},{"n":"Lo Sparviere","s":"lo-sparviere","c":"Monticelli Brusati","d":["Franciacorta"]},{"n":"Majolini","s":"majolini","c":"Ome","d":["Franciacorta"]},{"n":"Mantì Franciacorta","s":"manti-franciacorta","c":"Villa Pedergnano","d":["Franciacorta"]},{"n":"Marzaghe","s":"marzaghe","c":"Zocco","d":["Franciacorta"]},{"n":"Mirabella","s":"mirabella","c":"Saiano","d":["Franciacorta"]},{"n":"Monte Alto","s":"monte-alto","c":"Iseo","d":["Franciacorta"]},{"n":"Monte Rossa","s":"monte-rossa","c":"Cazzago San Martino","d":["Franciacorta"]},{"n":"Montina","s":"montina","c":"Monticelli Brusati","d":["Franciacorta"]},{"n":"Montorfano de Filippo","s":"montorfano-de-filippo","c":"Coccaglio","d":["Franciacorta"]},{"n":"Monzio Compagnoni","s":"monzio-compagnoni","c":"Adro","d":["Franciacorta"]},{"n":"Mosnel","s":"mosnel","c":"Passirano","d":["Franciacorta"]},{"n":"Muratori","s":"muratori","c":"Adro","d":["Franciacorta"]},{"n":"Pian del Maggio","s":"pian-del-maggio","c":"Erbusco","d":["Franciacorta"]},{"n":"Pietraluce","s":"pietraluce","c":"Calino","d":["Franciacorta"]},{"n":"Plozza Ome","s":"plozza-ome","c":"Ome","d":["Franciacorta"]},{"n":"Priore","s":"priore","c":"Cazzago San Martino","d":["Franciacorta"]},{"n":"Ricci Curbastro","s":"ricci-curbastro","c":"Capriolo","d":["Franciacorta"]},{"n":"Romantica","s":"romantica","c":"Passirano","d":["Franciacorta"]},{"n":"Ronco Calino","s":"ronco-calino","c":"Adro","d":["Franciacorta"]},{"n":"San Cristoforo","s":"san-cristoforo","c":"Villa Pedergnano","d":["Franciacorta"]},{"n":"Santa Lucia","s":"santa-lucia-erbusco","c":"Erbusco","d":["Franciacorta"]},{"n":"Santus","s":"santus","c":"Passirano","d":["Franciacorta"]},{"n":"Spensierata","s":"spensierata","c":"Monterotondo","d":["Franciacorta"]},{"n":"Sullali","s":"sullali","c":"Erbusco","d":["Franciacorta"]},{"n":"Tenuta Ambrosini","s":"tenuta-ambrosini","c":"Cazzago San Martino","d":["Franciacorta"]},{"n":"Tenuta Martinelli","s":"tenuta-martinelli","c":"Cologne","d":["Franciacorta"]},{"n":"Tenuta Montedelma","s":"tenuta-montedelma","c":"Passirano","d":["Franciacorta"]},{"n":"Tenuta Moraschi","s":"tenuta-moraschi","c":"Capriolo","d":["Franciacorta"]},{"n":"Terra Donata","s":"terra-donata","c":"Erbusco","d":["Franciacorta"]},{"n":"Terre d'Aenòr","s":"terre-daenor","c":"Provaglio D'Iseo","d":["Franciacorta"]},{"n":"Turra","s":"turra","c":"Cologne","d":["Franciacorta"]},{"n":"Uberti","s":"uberti","c":"Erbusco","d":["Franciacorta"]},{"n":"Ugo Vezzoli","s":"ugo-vezzoli","c":"Palazzolo Sull'Oglio","d":["Franciacorta"]},{"n":"Vezzoli di Vezzoli Giuseppe","s":"vezzoli-di-vezzoli-giuseppe","c":"Erbusco","d":["Franciacorta"]},{"n":"Vigna Dorata","s":"vigna-dorata","c":"Cazzago San Martino","d":["Franciacorta"]},{"n":"Vigneti Cenci","s":"vigneti-cenci","c":"Cologne","d":["Franciacorta"]},{"n":"Villa Franciacorta","s":"villa-franciacorta","c":"Monticelli Brusati","d":["Franciacorta"]},{"n":"Villa Giuliana","s":"villa-giuliana","c":"Saiano","d":["Franciacorta"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    

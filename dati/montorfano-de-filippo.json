@@ -1,0 +1,49 @@
+{
+ "nome": "Montorfano de Filippo",
+ "slug": "montorfano-de-filippo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Vittorio Veneto, 3, 25030 Coccaglio (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0307721541 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@montorfanodefilippo.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.montorfanodefilippo.it/|montorfanodefilippo.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Curtefranca [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/montorfano-de-filippo/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

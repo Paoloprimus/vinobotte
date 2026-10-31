@@ -1,16 +1,17 @@
 # Promuove nel sito le cantine della lista temporanea (wip/schede-wip.csv) che hanno sede, sito e DOC/DOCG confermati.
-# Dati: arricchimenti/wip_promossi.json (letti dai siti ufficiali delle cantine, 30 ottobre 2026).
+# Dati: arricchimenti/wip_promossi.json (letti dai siti ufficiali delle cantine, 30 ottobre 2026; Franciacorta: schede del Consorzio e siti, 31 ottobre 2026).
 import json,os,re
 R=os.path.dirname(os.path.abspath(__file__))+'/..'
 os.chdir(R)
 N=json.load(open('arricchimenti/wip_promossi.json',encoding='utf-8'))
 P=json.load(open('produttori.json',encoding='utf-8'));have={p['slug'] for p in P}
-D='30 ottobre 2026'
+D0='30 ottobre 2026'
 n=0
 for x in N:
     if x['slug'] in have: continue
     cons=x.get('dati_consorzio')  # sede e contatti dalla scheda del consorzio (fonte 1), il resto dal sito (fonte 2)
     a='[[1]]'; b='[[2]]' if cons else '[[1]]'
+    bs=a if x.get('social_consorzio') else b  # social letti dalla scheda del consorzio
     ana=[]
     if x['rag']: ana.append({'etichetta':'Ragione sociale','valore':x['rag']+' '+b})
     if x['piva']: ana.append({'etichetta':'Partita IVA','valore':x['piva']+' '+b})
@@ -22,12 +23,13 @@ for x in N:
     sez=[{'titolo':'Anagrafica','righe':ana}]
     if x['den']: sez.append({'titolo':'Vini','righe':[{'etichetta':'Denominazioni dichiarate','valore':x['den']+(' [[%d]]'%(2 if x.get('fonte_den') else 1))}]})
     if x.get('ospitalita'): sez.append({'titolo':'Ospitalità','righe':[{'etichetta':k,'valore':v+' [[1]]'} for k,v in x['ospitalita']]})
-    sez.append({'titolo':'Riconoscimenti','righe':[{'etichetta':'Premi e punteggi','valore':'Non presenti nelle fonti consultate'}]})
+    if not x.get('premi_da_verificare'): sez.append({'titolo':'Riconoscimenti','righe':[{'etichetta':'Premi e punteggi','valore':'Non presenti nelle fonti consultate'}]})  # se la scheda del consorzio o il sito citano premi, la sezione si compila a mano
     if x['social']:
-        sez.append({'titolo':'Presenza online','righe':[{'etichetta':'Social','valore':'\n'.join(k+' {{'+v+'|'+re.sub(r'^https?://(www\.)?','',v).rstrip('/')+'}}' for k,v in x['social'].items())+' '+b}]})
+        sez.append({'titolo':'Presenza online','righe':[{'etichetta':'Social','valore':'\n'.join(k+' {{'+v+'|'+re.sub(r'^https?://(www\.)?','',v).rstrip('/')+'}}' for k,v in x['social'].items())+' '+bs}]})
+    D=x.get('data_consultazione',D0)  # data di consultazione dei dati della scheda, se diversa dal 30 ottobre
     d={'nome':x['nome'],'slug':x['slug'],'sezioni':sez,
        'consultate':'Fonti consultate il '+D+'. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.',
-       'fonti':([{'n':1,'testo':'Elenco delle '+('aziende del '+x['consorzio_nome'] if x.get('consorzio_nome') else 'cantine del Consorzio di tutela DOP Suvereto e Val di Cornia Wine')+', scheda dell’azienda consultata il '+x.get('data_consorzio',D)+'.','url':x['url_consorzio'],'etichetta':x.get('dom_consorzio','suveretowine.com')}] if cons else [])+([{'n':2 if cons else 1,'testo':'Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il '+D+'.','url':x['sito'],'etichetta':x['dom']}] if (not cons or x['rag'] or x['piva'] or x['social'] or (x['den'] and not cons)) else [])}
+       'fonti':([{'n':1,'testo':'Elenco delle '+('aziende del '+x['consorzio_nome'] if x.get('consorzio_nome') else 'cantine del Consorzio di tutela DOP Suvereto e Val di Cornia Wine')+', scheda dell’azienda consultata il '+x.get('data_consorzio',D)+'.','url':x['url_consorzio'],'etichetta':x.get('dom_consorzio','suveretowine.com')}] if cons else [])+([{'n':2 if cons else 1,'testo':'Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il '+D+'.','url':x['sito'],'etichetta':x['dom']}] if (not cons or x['rag'] or x['piva'] or (x['social'] and not x.get('social_consorzio')) or (x['den'] and not cons)) else [])}
     if x.get('fonte_sede'):  # indirizzo trovato in una pagina esterna al sito della cantina
         d['fonti'].append({'n':2,'testo':x['fonte_sede']['testo']+' Consultata il 31 ottobre 2026.','url':x['fonte_sede']['url'],'etichetta':x['fonte_sede']['etichetta']})
     if x.get('fonte_den'):  # denominazione confermata da una pagina esterna (vendita online) invece che dal sito della cantina

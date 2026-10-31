@@ -1,0 +1,77 @@
+{
+ "nome": "Biondelli",
+ "slug": "biondelli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantine Biondelli Società Agricola S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03229590983 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Basso Castello, 10, 25046 Bornato (BS) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "Hospitality@biondelli.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.biondelli.com/|biondelli.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/biondellifranciacorta/|instagram.com/biondellifranciacorta}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.biondelli.com/",
+   "etichetta": "biondelli.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/biondelli/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

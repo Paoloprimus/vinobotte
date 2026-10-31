@@ -1,0 +1,85 @@
+{
+ "nome": "Santus",
+ "slug": "santus",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Maria Luisa Santus Azienda Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02144500986 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Case Sparse 2, 25050 Passirano (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3486512920 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@santus.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.santus.it/|santus.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–venerdì 9–12 e 14.30–18; sabato 9–12 e 14.30–17; domenica 9–12 [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/SantusFranciacortaWinery|facebook.com/SantusFranciacortaWinery}}\nInstagram {{https://www.instagram.com/santusfranciacorta/|instagram.com/santusfranciacorta}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.santus.it/",
+   "etichetta": "santus.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/santus/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "nome": "Caruna",
+ "slug": "caruna",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Caruna s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03167120983 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Brodo Di Cappone, 2, 25033 Cologne (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0305577018 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@carunafranciacorta.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.carunafranciacorta.com/|carunafranciacorta.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Millesimato [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–mercoledì 10–12.30 e 14.30–17.30; giovedì 9.30–12.30 e 14.30–17.30; venerdì 10.30–12.30 e 14.30–17.30; sabato 10–12.30; domenica chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/carunafranciacorta/|instagram.com/carunafranciacorta}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.carunafranciacorta.com/",
+   "etichetta": "carunafranciacorta.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/caruna/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}
