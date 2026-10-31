@@ -1,0 +1,65 @@
+{
+ "nome": "Podere Bignolino",
+ "slug": "podere-bignolino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01308790185 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Bignolino S.P. 44, 27040 Montalto Pavese (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "338 1244345 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poderebignolino.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.poderebignolino.it/|poderebignolino.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Cruasè [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.poderebignolino.it/",
+   "etichetta": "poderebignolino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda del vino «Cruasè Pinot Nero Brut Millesimato» (Oltrepò Pavese DOCG) su Falstaff. Consultata il 31 ottobre 2026.",
+   "url": "https://www.falstaff.com/en/wines/podere-bignolino-2011-cruase-pinot-nero-brut-millesimato-oltrepo-pavese-docg",
+   "etichetta": "falstaff.com"
+  }
+ ]
+}

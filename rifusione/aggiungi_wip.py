@@ -22,7 +22,7 @@ for x in N:
     if cons: ana.append({'etichetta':'Consorzio','valore':x.get('consorzio_nome','Consorzio di tutela DOP Suvereto e Val di Cornia Wine')+' [[1]]'})
     if x.get('elenco_consorzio'): ana.append({'etichetta':'Consorzio','valore':x['consorzio_nome']+' [[2]]'})  # socio del consorzio: solo dall'elenco soci (contatti e dati dal sito)
     sez=[{'titolo':'Anagrafica','righe':ana}]
-    if x['den']: sez.append({'titolo':'Vini','righe':[{'etichetta':'Denominazioni dichiarate','valore':x['den']+(' [[%d]]'%(2 if x.get('fonte_den') else 1))}]})
+    if x['den']: sez.append({'titolo':'Vini','righe':[{'etichetta':'Denominazioni dichiarate','valore':x['den']+(' [[%d]]'%((3 if x.get('elenco_consorzio') else 2) if x.get('fonte_den') else 1))}]})
     if x.get('ospitalita'): sez.append({'titolo':'Ospitalità','righe':[{'etichetta':k,'valore':v+' [[1]]'} for k,v in x['ospitalita']]})
     if not x.get('premi_da_verificare'): sez.append({'titolo':'Riconoscimenti','righe':[{'etichetta':'Premi e punteggi','valore':'Non presenti nelle fonti consultate'}]})  # se la scheda del consorzio o il sito citano premi, la sezione si compila a mano
     if x['social']:
@@ -36,7 +36,7 @@ for x in N:
     if x.get('fonte_sede'):  # indirizzo trovato in una pagina esterna al sito della cantina
         d['fonti'].append({'n':2,'testo':x['fonte_sede']['testo']+' Consultata il 31 ottobre 2026.','url':x['fonte_sede']['url'],'etichetta':x['fonte_sede']['etichetta']})
     if x.get('fonte_den'):  # denominazione confermata da una pagina esterna (vendita online) invece che dal sito della cantina
-        d['fonti'].append({'n':2,'testo':x['fonte_den']['testo']+' Consultata il 31 ottobre 2026.','url':x['fonte_den']['url'],'etichetta':x['fonte_den']['etichetta']})
+        d['fonti'].append({'n':3 if x.get('elenco_consorzio') else 2,'testo':x['fonte_den']['testo']+' Consultata il 31 ottobre 2026.','url':x['fonte_den']['url'],'etichetta':x['fonte_den']['etichetta']})
     json.dump(d,open('dati/'+x['slug']+'.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)
     P.append({'slug':x['slug'],'nome':x['nome'],'regione':x['regione'],'comune':x['comune'],'tipi':x['tipi'],'membri':[x['slug']],'primario':x['slug']})
     n+=1

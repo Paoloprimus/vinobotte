@@ -47574,5 +47574,145 @@
 "cantine-cavallotti"
 ],
 "primario": "cantine-cavallotti"
+},
+{
+"slug": "lefiole",
+"nome": "Lefiole",
+"regione": "Lombardia",
+"comune": "Montalto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese Metodo Classico",
+"Oltrepò Pavese Pinot Grigio",
+"Pinot Nero dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"lefiole"
+],
+"primario": "lefiole"
+},
+{
+"slug": "bagnasco-paolo",
+"nome": "Bagnasco Paolo",
+"regione": "Lombardia",
+"comune": "Castana",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese",
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"bagnasco-paolo"
+],
+"primario": "bagnasco-paolo"
+},
+{
+"slug": "faravelli-gabriele",
+"nome": "Faravelli Gabriele",
+"regione": "Lombardia",
+"comune": "Montecalvo Versiggia",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese Metodo Classico",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"faravelli-gabriele"
+],
+"primario": "faravelli-gabriele"
+},
+{
+"slug": "il-feudo-nico",
+"nome": "Il Feudo Nico",
+"regione": "Lombardia",
+"comune": "Mornico Losana",
+"tipi": {
+"oltrepo-pavese": [
+"Classese DOCG"
+]
+},
+"membri": [
+"il-feudo-nico"
+],
+"primario": "il-feudo-nico"
+},
+{
+"slug": "finigeto",
+"nome": "Finigeto",
+"regione": "Lombardia",
+"comune": "Montalto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Pinot Nero dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"finigeto"
+],
+"primario": "finigeto"
+},
+{
+"slug": "marchesi-di-montalto",
+"nome": "Marchesi di Montalto",
+"regione": "Lombardia",
+"comune": "Montalto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese Metodo Classico"
+]
+},
+"membri": [
+"marchesi-di-montalto"
+],
+"primario": "marchesi-di-montalto"
+},
+{
+"slug": "alessio-brandolini",
+"nome": "Alessio Brandolini",
+"regione": "Lombardia",
+"comune": "San Damiano al Colle",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese Metodo Classico"
+]
+},
+"membri": [
+"alessio-brandolini"
+],
+"primario": "alessio-brandolini"
+},
+{
+"slug": "podere-bignolino",
+"nome": "Podere Bignolino",
+"regione": "Lombardia",
+"comune": "Montalto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Cruasè"
+]
+},
+"membri": [
+"podere-bignolino"
+],
+"primario": "podere-bignolino"
+},
+{
+"slug": "frecciarossa",
+"nome": "Frecciarossa",
+"regione": "Lombardia",
+"comune": "Casteggio",
+"tipi": {
+"oltrepo-pavese": [
+"Pinot Nero dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"frecciarossa"
+],
+"primario": "frecciarossa"
 }
 ]

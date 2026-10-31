@@ -1,0 +1,65 @@
+{
+ "nome": "Marchesi di Montalto",
+ "slug": "marchesi-di-montalto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02102930183 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Costa Gallotti, 5, 27040 Montalto Pavese (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "339 4982856 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@marchesidimontalto.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://marchesidimontalto.it/|marchesidimontalto.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Oltrepò Pavese Metodo Classico [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://marchesidimontalto.it/",
+   "etichetta": "marchesidimontalto.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda del vino «Tre Gran Lustry» (Oltrepò Pavese Metodo Classico Pinot Nero DOCG) su Falstaff. Consultata il 31 ottobre 2026.",
+   "url": "https://www.falstaff.com/en/wines/marchesi-di-montalto-2004-tre-gran-lustry-oltrepo-pavese-metodo-classico-pinot-nero-docg-extra-brut",
+   "etichetta": "falstaff.com"
+  }
+ ]
+}
