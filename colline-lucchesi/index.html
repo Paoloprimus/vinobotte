@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Fattoria Colle Verde","s":"fattoria-colleverde","c":"Capannori","d":["Colline Lucchesi"]},{"n":"Fattoria di Fubbiano","s":"fattoria-di-fubbiano","c":"Capannori","d":["Colline Lucchesi"]},{"n":"Fattoria Maionchi","s":"fattoria-maionchi","c":"Capannori","d":["Colline Lucchesi"]},{"n":"Fattoria Sardi Giustiniani","s":"fattoria-sardi-giustiniani","c":"Lucca","d":["Colline Lucchesi"]},{"n":"La Badiola","s":"la-badiola","c":"Lucca","d":["Colline Lucchesi"]},{"n":"Tenuta Lenzini","s":"tenuta-lenzini","c":"Capannori","d":["Colline Lucchesi"]}];
+    const D=[{"n":"Fattoria Colle Verde","s":"fattoria-colleverde","c":"Capannori","d":["Colline Lucchesi"]},{"n":"Fattoria di Fubbiano","s":"fattoria-di-fubbiano","c":"Capannori","d":["Colline Lucchesi"]},{"n":"Fattoria Maionchi","s":"fattoria-maionchi","c":"Capannori","d":["Colline Lucchesi"]},{"n":"Fattoria Sardi Giustiniani","s":"fattoria-sardi-giustiniani","c":"Lucca","d":["Colline Lucchesi"]},{"n":"La Badiola","s":"la-badiola","c":"Lucca","d":["Colline Lucchesi"]},{"n":"Tenuta di Valgiano","s":"tenuta-di-valgiano","c":"Capannori","d":["Colline Lucchesi"]},{"n":"Tenuta Lenzini","s":"tenuta-lenzini","c":"Capannori","d":["Colline Lucchesi"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');

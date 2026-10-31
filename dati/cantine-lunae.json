@@ -1,0 +1,73 @@
+{
+ "nome": "Cantine Lunae",
+ "slug": "cantine-lunae",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantine Lunae Bosoni srl [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00985000116 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Bozzi 63, 19034 Ortonovo, SP [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinelunae.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinelunae.com/|cantinelunae.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colli di Luni DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Cantinelunaeofficial|facebook.com/Cantinelunaeofficial}}\nInstagram {{https://www.instagram.com/cantinelunae_official/|instagram.com/cantinelunae_official}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.cantinelunae.com/",
+   "etichetta": "cantinelunae.com"
+  },
+  {
+   "n": 2,
+   "testo": "Scheda di vendita online del Vermentino Etichetta Nera di Cantine Lunae Bosoni, in cui è indicata la denominazione Colli di Luni DOC. Consultata il 31 ottobre 2026.",
+   "url": "https://farehamwinecellar.co.uk/?p=44421",
+   "etichetta": "farehamwinecellar.co.uk"
+  }
+ ]
+}

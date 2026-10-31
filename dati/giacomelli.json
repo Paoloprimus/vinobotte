@@ -1,0 +1,69 @@
+{
+ "nome": "Azienda Agricola Giacomelli",
+ "slug": "giacomelli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00505140111 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Palvotrisia 134, 19033 Castelnuovo Magra, SP [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "az.agr.giacomelli@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://aziendaagricolagiacomelli.it/|aziendaagricolagiacomelli.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colli di Luni DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/AziendaAgricolaGiacomelli/|facebook.com/AziendaAgricolaGiacomelli}}\nInstagram {{https://www.instagram.com/azienda_agricola_giacomelli/|instagram.com/azienda_agricola_giacomelli}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://aziendaagricolagiacomelli.it/",
+   "etichetta": "aziendaagricolagiacomelli.it"
+  },
+  {
+   "n": 2,
+   "testo": "Scheda di vendita online del Colli di Luni Vermentino DOC «Pianacce» dell’azienda Giacomelli. Consultata il 31 ottobre 2026.",
+   "url": "https://www.vino.com/en/dettaglio/colli-di-luni-vermentino-doc-pianacce-giacomelli-2019.html",
+   "etichetta": "vino.com"
+  }
+ ]
+}

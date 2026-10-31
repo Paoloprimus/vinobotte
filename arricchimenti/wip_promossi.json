@@ -2868,5 +2868,97 @@
   "consorzio": null,
   "regione": "Liguria",
   "url_consorzio": ""
+ },
+ {
+  "wip": "Tenuta di Valgiano",
+  "slug": "tenuta-di-valgiano",
+  "nome": "Tenuta di Valgiano",
+  "comune": "Capannori",
+  "sede": "Via di Valgiano 7, Frazione Valgiano, 55010 Capannori, LU",
+  "rag": "",
+  "piva": "01367650460",
+  "tel": "+39 0583 402271",
+  "email": "info@valgiano.it",
+  "sito": "https://www.valgiano.it/",
+  "dom": "valgiano.it",
+  "social": {
+   "Instagram": "https://www.instagram.com/tenutadivalgiano_"
+  },
+  "den": "Colline Lucchesi DOC",
+  "tipi": {
+   "colline-lucchesi": [
+    "Colline Lucchesi"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": "",
+  "fonte_den": {
+   "testo": "Scheda di vendita online del vino Tenuta di Valgiano, in cui è indicata la denominazione Colline Lucchesi DOC.",
+   "url": "https://idealwine.com/en/prix-vin/118366-2009-Bottle-Tuscany-Colline-Lucchesi-DOC-Tenuta-di-Valgiano-red",
+   "etichetta": "idealwine.com"
+  }
+ },
+ {
+  "wip": "Cantine Lunae srl",
+  "slug": "cantine-lunae",
+  "nome": "Cantine Lunae",
+  "comune": "Ortonovo",
+  "sede": "Via Bozzi 63, 19034 Ortonovo, SP",
+  "rag": "Cantine Lunae Bosoni srl",
+  "piva": "00985000116",
+  "tel": "",
+  "email": "info@cantinelunae.com",
+  "sito": "https://www.cantinelunae.com/",
+  "dom": "cantinelunae.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/Cantinelunaeofficial",
+   "Instagram": "https://www.instagram.com/cantinelunae_official/"
+  },
+  "den": "Colli di Luni DOC",
+  "tipi": {
+   "colli-di-luni": [
+    "Colli di Luni"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Liguria",
+  "url_consorzio": "",
+  "fonte_den": {
+   "testo": "Scheda di vendita online del Vermentino Etichetta Nera di Cantine Lunae Bosoni, in cui è indicata la denominazione Colli di Luni DOC.",
+   "url": "https://farehamwinecellar.co.uk/?p=44421",
+   "etichetta": "farehamwinecellar.co.uk"
+  }
+ },
+ {
+  "wip": "Azienda Agricola Giacomelli",
+  "slug": "giacomelli",
+  "nome": "Azienda Agricola Giacomelli",
+  "comune": "Castelnuovo Magra",
+  "sede": "Via Palvotrisia 134, 19033 Castelnuovo Magra, SP",
+  "rag": "",
+  "piva": "00505140111",
+  "tel": "",
+  "email": "az.agr.giacomelli@gmail.com",
+  "sito": "https://aziendaagricolagiacomelli.it/",
+  "dom": "aziendaagricolagiacomelli.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/AziendaAgricolaGiacomelli/",
+   "Instagram": "https://www.instagram.com/azienda_agricola_giacomelli/"
+  },
+  "den": "Colli di Luni DOC",
+  "tipi": {
+   "colli-di-luni": [
+    "Colli di Luni"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Liguria",
+  "url_consorzio": "",
+  "fonte_den": {
+   "testo": "Scheda di vendita online del Colli di Luni Vermentino DOC «Pianacce» dell’azienda Giacomelli.",
+   "url": "https://www.vino.com/en/dettaglio/colli-di-luni-vermentino-doc-pianacce-giacomelli-2019.html",
+   "etichetta": "vino.com"
+  }
  }
 ]

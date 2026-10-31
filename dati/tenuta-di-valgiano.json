@@ -1,0 +1,73 @@
+{
+ "nome": "Tenuta di Valgiano",
+ "slug": "tenuta-di-valgiano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01367650460 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via di Valgiano 7, Frazione Valgiano, 55010 Capannori, LU [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0583 402271 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@valgiano.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.valgiano.it/|valgiano.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colline Lucchesi DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/tenutadivalgiano_|instagram.com/tenutadivalgiano_}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.valgiano.it/",
+   "etichetta": "valgiano.it"
+  },
+  {
+   "n": 2,
+   "testo": "Scheda di vendita online del vino Tenuta di Valgiano, in cui è indicata la denominazione Colline Lucchesi DOC. Consultata il 31 ottobre 2026.",
+   "url": "https://idealwine.com/en/prix-vin/118366-2009-Bottle-Tuscany-Colline-Lucchesi-DOC-Tenuta-di-Valgiano-red",
+   "etichetta": "idealwine.com"
+  }
+ ]
+}

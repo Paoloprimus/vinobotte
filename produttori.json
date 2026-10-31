@@ -44745,5 +44745,50 @@
 "la-pietra-del-focolare"
 ],
 "primario": "la-pietra-del-focolare"
+},
+{
+"slug": "tenuta-di-valgiano",
+"nome": "Tenuta di Valgiano",
+"regione": "Toscana",
+"comune": "Capannori",
+"tipi": {
+"colline-lucchesi": [
+"Colline Lucchesi"
+]
+},
+"membri": [
+"tenuta-di-valgiano"
+],
+"primario": "tenuta-di-valgiano"
+},
+{
+"slug": "cantine-lunae",
+"nome": "Cantine Lunae",
+"regione": "Liguria",
+"comune": "Ortonovo",
+"tipi": {
+"colli-di-luni": [
+"Colli di Luni"
+]
+},
+"membri": [
+"cantine-lunae"
+],
+"primario": "cantine-lunae"
+},
+{
+"slug": "giacomelli",
+"nome": "Azienda Agricola Giacomelli",
+"regione": "Liguria",
+"comune": "Castelnuovo Magra",
+"tipi": {
+"colli-di-luni": [
+"Colli di Luni"
+]
+},
+"membri": [
+"giacomelli"
+],
+"primario": "giacomelli"
 }
 ]
