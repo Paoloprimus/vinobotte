@@ -1762,5 +1762,983 @@
   "consorzio": "chianti",
   "regione": "Toscana",
   "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/cantina-dei-vini-tipici-dellaretino-sca/"
+ },
+ {
+  "wip": "Assolati (Podere Assolati)",
+  "slug": "assolati",
+  "nome": "Assolati (Podere Assolati)",
+  "comune": "Castel del Piano",
+  "sede": "Podere Assolati 47, 58033 Montenero d'Orcia, Castel del Piano, GR",
+  "rag": "",
+  "piva": "",
+  "tel": "",
+  "email": "info@assolati.it",
+  "sito": "https://www.assolati.it",
+  "dom": "assolati.it",
+  "social": {},
+  "den": "Montecucco Riserva DOCG, Montecucco Sangiovese DOCG, Montecucco Rosso DOC",
+  "tipi": {
+   "montecucco": [
+    "Montecucco",
+    "Montecucco Sangiovese"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Basile",
+  "slug": "basile",
+  "nome": "Basile",
+  "comune": "Cinigiano",
+  "sede": "Podere Monte Mario, 58044 Cinigiano, GR",
+  "rag": "Basile S.S.A.",
+  "piva": "01353800533",
+  "tel": "+39 0564 993227",
+  "email": "info@basilessa.it",
+  "sito": "https://basilessa.it",
+  "dom": "basilessa.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/AZIENDA-BIOLOGICA-BASILE-58592528746/",
+   "Instagram": "https://www.instagram.com/basile_wine/"
+  },
+  "den": "Montecucco Sangiovese DOCG, Montecucco Sangiovese Riserva DOCG, Maremma Toscana DOC",
+  "tipi": {
+   "montecucco": [
+    "Montecucco Sangiovese"
+   ],
+   "maremma": [
+    "Maremma Toscana"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Begnardi – Sapori di Monteantico",
+  "slug": "begnardi",
+  "nome": "Begnardi – Sapori di Monteantico",
+  "comune": "Civitella Paganico",
+  "sede": "Podere Campo Rosso 34, 58045 Monte Antico, Civitella Paganico, GR",
+  "rag": "Sapori di Monte Antico di Begnardi",
+  "piva": "01184840534",
+  "tel": "+39 339 4626418",
+  "email": "info@begnardi.com",
+  "sito": "https://begnardi.com",
+  "dom": "begnardi.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/BegnardiVini/",
+   "Instagram": "https://www.instagram.com/begnardivini/"
+  },
+  "den": "Montecucco Sangiovese DOCG, Montecucco Rosso DOC, Montecucco Vermentino DOC",
+  "tipi": {
+   "montecucco": [
+    "Montecucco",
+    "Montecucco Sangiovese"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Casale Pozzuolo",
+  "slug": "casale-pozzuolo",
+  "nome": "Casale Pozzuolo",
+  "comune": "Cinigiano",
+  "sede": "58044 Cinigiano, GR",
+  "rag": "Soc. Agricola Casale Pozzuolo S.r.l.",
+  "piva": "01265670537",
+  "tel": "+39 347 7564988",
+  "email": "info@casalepozzuolo.it",
+  "sito": "https://casalepozzuolo.it",
+  "dom": "casalepozzuolo.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/residenzastoricacasalepozzuolo",
+   "Instagram": "https://www.instagram.com/casalepozzuolo/"
+  },
+  "den": "Montecucco Rosso DOC, Montecucco Rosso Riserva DOCG",
+  "tipi": {
+   "montecucco": [
+    "Montecucco"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Castello ColleMassari",
+  "slug": "castello-collemassari",
+  "nome": "Castello ColleMassari",
+  "comune": "Cinigiano",
+  "sede": "Località Poggi del Sasso, 58044 Cinigiano, GR",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0564 990496",
+  "email": "info@collemassari.it",
+  "sito": "https://www.collemassariestates.com",
+  "dom": "collemassariestates.com",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "montecucco": [
+    "Montecucco"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Castello di Potentino",
+  "slug": "castello-di-potentino",
+  "nome": "Castello di Potentino",
+  "comune": "Seggiano",
+  "sede": "58038 Seggiano, GR",
+  "rag": "Potentino Società Agricola S.r.l.",
+  "piva": "01203170533",
+  "tel": "+39 0564 950014",
+  "email": "mail@potentino.com",
+  "sito": "https://potentino.com",
+  "dom": "potentino.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/CastelloDiPotentino",
+   "Instagram": "https://www.instagram.com/castellodipotentino"
+  },
+  "den": "",
+  "tipi": {
+   "montecucco": [
+    "Montecucco"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Salustri (Tenuta Salustri)",
+  "slug": "salustri",
+  "nome": "Salustri (Tenuta Salustri)",
+  "comune": "Cinigiano",
+  "sede": "Poggi del Sasso, 58044 Cinigiano, GR",
+  "rag": "",
+  "piva": "00254370539",
+  "tel": "+39 334 8946264",
+  "email": "info@tenutasalustri.it",
+  "sito": "https://www.tenutasalustri.it",
+  "dom": "tenutasalustri.it",
+  "social": {
+   "Instagram": "https://www.instagram.com/tenutasalustri/"
+  },
+  "den": "Montecucco Sangiovese DOCG, Montecucco Rosso DOC, Maremma Vermentino DOC",
+  "tipi": {
+   "montecucco": [
+    "Montecucco",
+    "Montecucco Sangiovese"
+   ],
+   "maremma": [
+    "Maremma Toscana"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Parmoleto",
+  "slug": "parmoleto",
+  "nome": "Parmoleto",
+  "comune": "Castel del Piano",
+  "sede": "Montenero d'Orcia, 58033 Castel del Piano, GR",
+  "rag": "",
+  "piva": "00273130534",
+  "tel": "+39 0564 954131",
+  "email": "info@parmoleto.it",
+  "sito": "https://www.parmoleto.it",
+  "dom": "parmoleto.it",
+  "social": {},
+  "den": "Montecucco Sangiovese Riserva DOCG",
+  "tipi": {
+   "montecucco": [
+    "Montecucco",
+    "Montecucco Sangiovese"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Peteglia",
+  "slug": "peteglia",
+  "nome": "Peteglia",
+  "comune": "Castel del Piano",
+  "sede": "Podere Peteglia, 58033 Montenero d'Orcia, Castel del Piano, GR",
+  "rag": "Peteglia s.s.a.",
+  "piva": "01515880530",
+  "tel": "",
+  "email": "info@peteglia.com",
+  "sito": "https://www.peteglia.com",
+  "dom": "peteglia.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/Peteglia-1816848614994939/",
+   "Instagram": "https://www.instagram.com/peteglia/"
+  },
+  "den": "",
+  "tipi": {
+   "montecucco": [
+    "Montecucco"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Pierini e Brugi",
+  "slug": "pierini-e-brugi",
+  "nome": "Pierini e Brugi",
+  "comune": "Campagnatico",
+  "sede": "Località Belvedere, Montorsaio, 58040 Campagnatico, GR",
+  "rag": "",
+  "piva": "01287840530",
+  "tel": "+39 0564 997310",
+  "email": "info@pieriniebrugi.it",
+  "sito": "https://www.pieriniebrugi.it",
+  "dom": "pieriniebrugi.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/pieriniebrugibio",
+   "Instagram": "https://www.instagram.com/pieriniebrugi_bio/"
+  },
+  "den": "Montecucco Vermentino DOC, Montecucco Rosso DOC",
+  "tipi": {
+   "montecucco": [
+    "Montecucco"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Poggio Stenti",
+  "slug": "poggio-stenti",
+  "nome": "Poggio Stenti",
+  "comune": "Castel del Piano",
+  "sede": "Podere Stenti, 58033 Montenero d'Orcia, Castel del Piano, GR",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 328 6934508",
+  "email": "info@poggiostenti.com",
+  "sito": "https://www.poggiostenti.com",
+  "dom": "poggiostenti.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/PoggioStenti/",
+   "Instagram": "https://www.instagram.com/poggiostenti"
+  },
+  "den": "Montecucco Sangiovese Riserva DOCG, Montecucco Sangiovese DOCG, Montecucco Rosso DOC, Maremma Toscana Rosato DOC",
+  "tipi": {
+   "montecucco": [
+    "Montecucco",
+    "Montecucco Sangiovese"
+   ],
+   "maremma": [
+    "Maremma Toscana"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Amiata",
+  "slug": "amiata",
+  "nome": "Amiata",
+  "comune": "Castel del Piano",
+  "sede": "Località Montegiovi, 58033 Castel del Piano, GR",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 339 6902444",
+  "email": "info@amiatavini.it",
+  "sito": "https://www.amiatavini.it",
+  "dom": "amiatavini.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/AmiataIViniDelVulcano/",
+   "Instagram": "https://www.instagram.com/amiatavini_winery/"
+  },
+  "den": "Montecucco DOCG, Montecucco Riserva DOCG",
+  "tipi": {
+   "montecucco": [
+    "Montecucco",
+    "Montecucco Sangiovese"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Montenero",
+  "slug": "montenero",
+  "nome": "Montenero",
+  "comune": "Castel del Piano",
+  "sede": "Podere Marinelli 74, 58033 Montenero d'Orcia, Castel del Piano, GR",
+  "rag": "Montenero Winery S.r.l.",
+  "piva": "04427620234",
+  "tel": "+39 349 3701998",
+  "email": "info@montenerowinery.com",
+  "sito": "https://www.montenerowinery.com",
+  "dom": "montenerowinery.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/montenerotoscana",
+   "Instagram": "https://www.instagram.com/montenerotoscana"
+  },
+  "den": "Montecucco Sangiovese DOCG, Montecucco Rosso DOC",
+  "tipi": {
+   "montecucco": [
+    "Montecucco",
+    "Montecucco Sangiovese"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Muschi Alti",
+  "slug": "muschi-alti",
+  "nome": "Muschi Alti",
+  "comune": "Campagnatico",
+  "sede": "Località Marrucheti 70, 58042 Campagnatico, GR",
+  "rag": "",
+  "piva": "01149490532",
+  "tel": "+39 339 7079841",
+  "email": "info@muschialti.it",
+  "sito": "https://muschialti.it",
+  "dom": "muschialti.it",
+  "social": {},
+  "den": "Montecucco DOC",
+  "tipi": {
+   "montecucco": [
+    "Montecucco"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Podere Montale",
+  "slug": "podere-montale",
+  "nome": "Podere Montale",
+  "comune": "Seggiano",
+  "sede": "58038 Seggiano, GR",
+  "rag": "La Rocca S.r.l. Società Agricola",
+  "piva": "01554070530",
+  "tel": "",
+  "email": "info@poderemontale.it",
+  "sito": "https://poderemontale.it",
+  "dom": "poderemontale.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/poderemontale/",
+   "Instagram": "https://www.instagram.com/poderemontale/"
+  },
+  "den": "Montecucco DOCG",
+  "tipi": {
+   "montecucco": [
+    "Montecucco"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Poggio Mandorlo",
+  "slug": "poggio-mandorlo",
+  "nome": "Poggio Mandorlo",
+  "comune": "Seggiano",
+  "sede": "Località Ansidonina, 58038 Seggiano, GR",
+  "rag": "Poggio Mandorlo S.r.l.",
+  "piva": "01054100522",
+  "tel": "",
+  "email": "info@poggiomandorlo.it",
+  "sito": "https://poggiomandorlo.it",
+  "dom": "poggiomandorlo.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/PoggioMandorlo/",
+   "Instagram": "https://www.instagram.com/poggiomandorlo/"
+  },
+  "den": "Montecucco Sangiovese DOCG",
+  "tipi": {
+   "montecucco": [
+    "Montecucco",
+    "Montecucco Sangiovese"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Tenute Bruni",
+  "slug": "tenute-bruni",
+  "nome": "Tenute Bruni",
+  "comune": "Grosseto",
+  "sede": "Strada Provinciale 79 n. 24, Poggio La Mozza, 58100 Grosseto, GR",
+  "rag": "",
+  "piva": "01631940531",
+  "tel": "",
+  "email": "",
+  "sito": "https://www.tenutebruni.it",
+  "dom": "tenutebruni.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/TenuteBruniMaremma/"
+  },
+  "den": "Montecucco DOC, Maremma Toscana Vermentino DOC",
+  "tipi": {
+   "montecucco": [
+    "Montecucco"
+   ],
+   "maremma": [
+    "Maremma Toscana"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Campotondo",
+  "slug": "campotondo",
+  "nome": "Campotondo",
+  "comune": "Castiglione d'Orcia",
+  "sede": "C.S. Campotondo 7, 53023 Campiglia d'Orcia, Castiglione d'Orcia, SI",
+  "rag": "",
+  "piva": "",
+  "tel": "",
+  "email": "info@cantinacampotondo.it",
+  "sito": "https://www.cantinacampotondo.it/",
+  "dom": "cantinacampotondo.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/campotondo/",
+   "Instagram": "https://www.instagram.com/cantinacampotondo/"
+  },
+  "den": "",
+  "tipi": {
+   "orcia": [
+    "Orcia"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Podere Forte",
+  "slug": "podere-forte",
+  "nome": "Podere Forte",
+  "comune": "Castiglione d'Orcia",
+  "sede": "Località Petrucci 13, 53023 Castiglione d'Orcia, SI",
+  "rag": "Agricola Forte s.s.",
+  "piva": "00934570524",
+  "tel": "",
+  "email": "podereforte@podereforte.it",
+  "sito": "https://podereforte.it/",
+  "dom": "podereforte.it",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "orcia": [
+    "Orcia"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Capitoni Marco",
+  "slug": "capitoni-marco",
+  "nome": "Capitoni Marco",
+  "comune": "Pienza",
+  "sede": "53026 Pienza, SI",
+  "rag": "",
+  "piva": "00838740520",
+  "tel": "+39 338 8981597",
+  "email": "info@capitoni.eu",
+  "sito": "https://capitoni.eu/",
+  "dom": "capitoni.eu",
+  "social": {
+   "Facebook": "https://www.facebook.com/capitonimarco",
+   "Instagram": "https://www.instagram.com/capitoni_winery_pienza/"
+  },
+  "den": "Orcia Sangiovese DOC, Orcia Riserva DOC",
+  "tipi": {
+   "orcia": [
+    "Orcia"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Belsedere",
+  "slug": "belsedere",
+  "nome": "Belsedere",
+  "comune": "Trequanda",
+  "sede": "Località Belsedere 1, 53020 Trequanda, SI",
+  "rag": "Belsedere Sustainable S.r.l. Società Agricola",
+  "piva": "01453250522",
+  "tel": "",
+  "email": "info@borgo-belsedere.com",
+  "sito": "https://www.borgo-belsedere.com/",
+  "dom": "borgo-belsedere.com",
+  "social": {
+   "Instagram": "https://www.instagram.com/borgo_belsedere/"
+  },
+  "den": "",
+  "tipi": {
+   "orcia": [
+    "Orcia"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Castelnuovo Tancredi",
+  "slug": "castelnuovo-tancredi",
+  "nome": "Castelnuovo Tancredi",
+  "comune": "Buonconvento",
+  "sede": "Località Castelnuovo Tancredi 93, 53022 Buonconvento, SI",
+  "rag": "",
+  "piva": "01063340523",
+  "tel": "",
+  "email": "info@castelnuovotancredi.it",
+  "sito": "https://www.castelnuovotancredi.it/",
+  "dom": "castelnuovotancredi.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/castelnuovotancredituscany",
+   "Instagram": "https://www.instagram.com/tenutacastelnuovotancredi/"
+  },
+  "den": "Orcia DOC",
+  "tipi": {
+   "orcia": [
+    "Orcia"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "La Ripolina",
+  "slug": "la-ripolina",
+  "nome": "La Ripolina",
+  "comune": "Buonconvento",
+  "sede": "Podere Sant'Ignazio 173, 53022 Buonconvento, SI",
+  "rag": "Azienda Agricola La Ripolina S.S.",
+  "piva": "00386120521",
+  "tel": "+39 335 5739284",
+  "email": "info@laripolina.it",
+  "sito": "https://www.laripolina.it/",
+  "dom": "laripolina.it",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "orcia": [
+    "Orcia"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "I Vicini",
+  "slug": "i-vicini",
+  "nome": "I Vicini",
+  "comune": "Cortona",
+  "sede": "Ferretto, 52044 Cortona, AR",
+  "rag": "I Vicini Soc. Agricola S.r.l.",
+  "piva": "01733360513",
+  "tel": "",
+  "email": "info@ivicinicortona.it",
+  "sito": "https://www.iviciniwinery.com/",
+  "dom": "iviciniwinery.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/pages/category/Wine-Spirits/I-Vicini-Winery-108069064190570/"
+  },
+  "den": "",
+  "tipi": {
+   "cortona": [
+    "Cortona"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "I Viti",
+  "slug": "i-viti",
+  "nome": "I Viti",
+  "comune": "Cortona",
+  "sede": "52044 Cortona, AR",
+  "rag": "",
+  "piva": "02122160514",
+  "tel": "",
+  "email": "info@ivitiwinery.com",
+  "sito": "https://www.ivitiwinery.com/",
+  "dom": "ivitiwinery.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/vinicolaiviti/",
+   "Instagram": "https://www.instagram.com/iviti_winery/"
+  },
+  "den": "Cortona Syrah DOC, Cortona Cabernet Sauvignon DOC, Vin Santo Cortona DOC",
+  "tipi": {
+   "cortona": [
+    "Cortona"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Amerighi (Stefano Amerighi)",
+  "slug": "amerighi",
+  "nome": "Amerighi (Stefano Amerighi)",
+  "comune": "Cortona",
+  "sede": "Poggiobello di Farneta, 52044 Cortona, AR",
+  "rag": "",
+  "piva": "",
+  "tel": "",
+  "email": "info@stefanoamerighi.it",
+  "sito": "http://www.stefanoamerighi.it/",
+  "dom": "stefanoamerighi.it",
+  "social": {
+   "Facebook": "http://www.facebook.com/stefano.amerighi"
+  },
+  "den": "",
+  "tipi": {
+   "cortona": [
+    "Cortona"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Eredi Trevisan",
+  "slug": "eredi-trevisan",
+  "nome": "Eredi Trevisan",
+  "comune": "Cortona",
+  "sede": "Via C.S. Pietraia 182, 52044 Cortona, AR",
+  "rag": "Soc. Agr. Eredi Trevisan G. di Trevisan L. & C. S.s.",
+  "piva": "02161530510",
+  "tel": "",
+  "email": "",
+  "sito": "https://ereditrevisan.it/",
+  "dom": "ereditrevisan.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/ereditrevisan",
+   "Instagram": "https://www.instagram.com/ereditrevisan/"
+  },
+  "den": "",
+  "tipi": {
+   "cortona": [
+    "Cortona"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Le Sughere",
+  "slug": "le-sughere",
+  "nome": "Le Sughere",
+  "comune": "Rio",
+  "sede": "57038 Rio, LI",
+  "rag": "Le Sughere del Montefico S.a.s. di Aldo Claris Appiani & C.",
+  "piva": "01651450494",
+  "tel": "+39 345 3585035",
+  "email": "cantina@lesughere.it",
+  "sito": "https://www.lesughere.it/",
+  "dom": "lesughere.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/le.sughere.del.montefico/"
+  },
+  "den": "Elba Rosso DOC, Elba Rosso Riserva DOC, Elba Rosato DOC, Ansonica dell'Elba DOC",
+  "tipi": {
+   "elba": [
+    "Elba"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Castelvecchio (Tenuta Castelvecchio)",
+  "slug": "tenuta-castelvecchio-carmignano",
+  "nome": "Tenuta Castelvecchio",
+  "comune": "Carmignano",
+  "sede": "Via delle Mannelle 19, Seano, 59011 Carmignano, PO",
+  "rag": "",
+  "piva": "00250480977",
+  "tel": "+39 055 8705451",
+  "email": "info@tenutacastelvecchio.it",
+  "sito": "https://www.tenutacastelvecchio.it",
+  "dom": "tenutacastelvecchio.it",
+  "social": {
+   "Instagram": "https://www.instagram.com/tenutacastelvecchio/"
+  },
+  "den": "Carmignano DOCG, Barco Reale DOC, Vin Santo di Carmignano DOC",
+  "tipi": {
+   "carmignano": [
+    "Carmignano",
+    "Barco Reale di Carmignano"
+   ]
+  },
+  "consorzio": "carmignano",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinicarmignano.it/le-aziende/castelvecchio/"
+ },
+ {
+  "wip": "Vigne Conti di Conti Alice",
+  "slug": "vigne-conti",
+  "nome": "Vigne Conti",
+  "comune": "Carrara",
+  "sede": "Via Candia, 54033 Carrara, MS",
+  "rag": "",
+  "piva": "01252700453",
+  "tel": "",
+  "email": "vigneconti@gmail.com",
+  "sito": "http://www.vigneconti.com/",
+  "dom": "vigneconti.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/aziendaagricolavigneconti",
+   "Instagram": "https://www.instagram.com/vigneconti/"
+  },
+  "den": "Candia dei Colli Apuani DOC",
+  "tipi": {
+   "candia-colli-apuani": [
+    "Candia dei Colli Apuani"
+   ]
+  },
+  "consorzio": "candia",
+  "regione": "Toscana",
+  "url_consorzio": "https://candiadeicolliapuani.it/the-winery/"
+ },
+ {
+  "wip": "Cantine Ramarro",
+  "slug": "cantine-ramarro",
+  "nome": "Cantine Ramarro",
+  "comune": "Massa",
+  "sede": "Via Scurtarola 232, 54100 Massa, MS",
+  "rag": "Cantine Ramarro S.s. Società Agricola",
+  "piva": "01337830457",
+  "tel": "",
+  "email": "info@cantineramarro.com",
+  "sito": "http://cantineramarro.com/",
+  "dom": "cantineramarro.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/cantineramarro/",
+   "Instagram": "https://www.instagram.com/cantineramarro"
+  },
+  "den": "",
+  "tipi": {
+   "candia-colli-apuani": [
+    "Candia dei Colli Apuani"
+   ]
+  },
+  "consorzio": "candia",
+  "regione": "Toscana",
+  "url_consorzio": "https://candiadeicolliapuani.it/the-winery/"
+ },
+ {
+  "wip": "Fattoria Uccelliera (Crespina, Pisa)",
+  "slug": "fattoria-uccelliera-crespina",
+  "nome": "Fattoria Uccelliera (Crespina)",
+  "comune": "Crespina Lorenzana",
+  "sede": "Via Roncione 9, 56042 Crespina Lorenzana, PI",
+  "rag": "",
+  "piva": "02237190505",
+  "tel": "+39 050 662747",
+  "email": "amministrazione@uccelliera.com",
+  "sito": "https://uccelliera.com/",
+  "dom": "uccelliera.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/fattoria.uccelliera/"
+  },
+  "den": "",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/fattoria-uccelliera/"
+ },
+ {
+  "wip": "Colline di Sopra",
+  "slug": "colline-di-sopra",
+  "nome": "Colline di Sopra",
+  "comune": "Montescudaio",
+  "sede": "Via delle Colline 17, 56040 Montescudaio, PI",
+  "rag": "",
+  "piva": "01807840507",
+  "tel": "+39 0586 1881172",
+  "email": "info@collinedisopra.com",
+  "sito": "https://www.collinedisopra.com",
+  "dom": "collinedisopra.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/collinedisopra/",
+   "Instagram": "https://www.instagram.com/collinedisopra"
+  },
+  "den": "",
+  "tipi": {
+   "montescudaio": [
+    "Montescudaio"
+   ]
+  },
+  "consorzio": "montescudaio",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinomontescudaiodoc.it/colline-di-sopra/"
+ },
+ {
+  "wip": "Marchesi Ginori Lisci",
+  "slug": "marchesi-ginori-lisci",
+  "nome": "Marchesi Ginori Lisci",
+  "comune": "Montecatini Val di Cecina",
+  "sede": "Località Querceto, Ponteginori, 56040 Montecatini Val di Cecina, PI",
+  "rag": "",
+  "piva": "01405010487",
+  "tel": "+39 0588 37443",
+  "email": "info@marchesiginorilisci.it",
+  "sito": "https://www.marchesiginorilisci.it/",
+  "dom": "marchesiginorilisci.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/castellodiquerceto"
+  },
+  "den": "Montescudaio DOC",
+  "tipi": {
+   "montescudaio": [
+    "Montescudaio"
+   ]
+  },
+  "consorzio": "montescudaio",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinomontescudaiodoc.it/marchesi-ginori-lisci/"
+ },
+ {
+  "wip": "Pagani de Marchi",
+  "slug": "pagani-de-marchi",
+  "nome": "Pagani de Marchi",
+  "comune": "Casale Marittimo",
+  "sede": "56040 Casale Marittimo, PI",
+  "rag": "",
+  "piva": "",
+  "tel": "",
+  "email": "info@paganidemarchi.com",
+  "sito": "http://www.paganidemarchi.com/",
+  "dom": "paganidemarchi.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/PaganideMarchi",
+   "Instagram": "https://www.instagram.com/paganidemarchi/"
+  },
+  "den": "Montescudaio DOC",
+  "tipi": {
+   "montescudaio": [
+    "Montescudaio"
+   ]
+  },
+  "consorzio": "montescudaio",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinomontescudaiodoc.it/pagani-de-marchi/"
+ },
+ {
+  "wip": "Tenuta La Macchia",
+  "slug": "tenuta-la-macchia",
+  "nome": "Tenuta La Macchia",
+  "comune": "Montescudaio",
+  "sede": "56040 Montescudaio, PI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 338 1258469",
+  "email": "info@tenutalamacchia.com",
+  "sito": "https://www.tenutalamacchia.com/",
+  "dom": "tenutalamacchia.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/tenutalamacchia/",
+   "Instagram": "https://www.instagram.com/tenutalamacchia/"
+  },
+  "den": "",
+  "tipi": {
+   "montescudaio": [
+    "Montescudaio"
+   ]
+  },
+  "consorzio": "montescudaio",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinomontescudaiodoc.it/tenuta-la-macchia/"
+ },
+ {
+  "wip": "Camporignano",
+  "slug": "camporignano",
+  "nome": "Camporignano",
+  "comune": "Casole d'Elsa",
+  "sede": "Podere Camporignano, 53031 Casole d'Elsa, SI",
+  "rag": "",
+  "piva": "13196530151",
+  "tel": "+39 0577 579800",
+  "email": "info@camporignano.com",
+  "sito": "https://www.camporignano.com/",
+  "dom": "camporignano.com",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "terre-di-casole": [
+    "Terre di Casole"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Azienda Agricola Le Sedici",
+  "slug": "le-sedici",
+  "nome": "Azienda Agricola Le Sedici",
+  "comune": "Massa Marittima",
+  "sede": "Podere Le Sedici 23/A, Località Massa Vecchia, 58024 Massa Marittima, GR",
+  "rag": "",
+  "piva": "01564760534",
+  "tel": "+39 348 0505056",
+  "email": "lesediciaz.agricola@gmail.com",
+  "sito": "https://www.aziendalesedici.it/aziendalesedici/",
+  "dom": "aziendalesedici.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/Azienda-agricola-le-16-1354351704631321/"
+  },
+  "den": "Monteregio di Massa Marittima DOC",
+  "tipi": {
+   "monteregio": [
+    "Monteregio di Massa Marittima"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
  }
 ]

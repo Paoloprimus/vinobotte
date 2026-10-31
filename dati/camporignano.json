@@ -1,0 +1,49 @@
+{
+ "nome": "Camporignano",
+ "slug": "camporignano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "13196530151 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Podere Camporignano, 53031 Casole d'Elsa, SI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577 579800 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@camporignano.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.camporignano.com/|camporignano.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.camporignano.com/",
+   "etichetta": "camporignano.com"
+  }
+ ]
+}

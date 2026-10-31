@@ -1,0 +1,71 @@
+{
+ "nome": "Montenero",
+ "slug": "montenero",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Montenero Winery S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04427620234 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Podere Marinelli 74, 58033 Montenero d'Orcia, Castel del Piano, GR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 349 3701998 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@montenerowinery.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.montenerowinery.com|montenerowinery.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montecucco Sangiovese DOCG, Montecucco Rosso DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/montenerotoscana|facebook.com/montenerotoscana}}\nInstagram {{https://www.instagram.com/montenerotoscana|instagram.com/montenerotoscana}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.montenerowinery.com",
+   "etichetta": "montenerowinery.com"
+  }
+ ]
+}

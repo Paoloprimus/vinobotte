@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Capezzana","s":"capezzana","c":"Carmignano","d":["Carmignano"]},{"n":"Ceri","s":"ceri","c":"Carmignano","d":["Carmignano"]},{"n":"Fabrizio Pratesi","s":"fabrizio-pratesi","c":"Carmignano","d":["Carmignano"]},{"n":"Fattoria Ambra","s":"fattoria-ambra","c":"Carmignano","d":["Barco Reale di Carmignano","Carmignano"]},{"n":"Piaggia","s":"piaggia","c":"Poggio a Caiano","d":["Carmignano"]},{"n":"Tenuta di Artimino","s":"tenuta-di-artimino","c":"Carmignano","d":["Carmignano"]}];
+    const D=[{"n":"Capezzana","s":"capezzana","c":"Carmignano","d":["Carmignano"]},{"n":"Ceri","s":"ceri","c":"Carmignano","d":["Carmignano"]},{"n":"Fabrizio Pratesi","s":"fabrizio-pratesi","c":"Carmignano","d":["Carmignano"]},{"n":"Fattoria Ambra","s":"fattoria-ambra","c":"Carmignano","d":["Barco Reale di Carmignano","Carmignano"]},{"n":"Piaggia","s":"piaggia","c":"Poggio a Caiano","d":["Carmignano"]},{"n":"Tenuta Castelvecchio","s":"tenuta-castelvecchio-carmignano","c":"Carmignano","d":["Barco Reale di Carmignano","Carmignano"]},{"n":"Tenuta di Artimino","s":"tenuta-di-artimino","c":"Carmignano","d":["Carmignano"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');

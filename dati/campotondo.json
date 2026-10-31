@@ -1,0 +1,50 @@
+{
+ "nome": "Campotondo",
+ "slug": "campotondo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "C.S. Campotondo 7, 53023 Campiglia d'Orcia, Castiglione d'Orcia, SI [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinacampotondo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinacampotondo.it/|cantinacampotondo.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/campotondo/|facebook.com/campotondo}}\nInstagram {{https://www.instagram.com/cantinacampotondo/|instagram.com/cantinacampotondo}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.cantinacampotondo.it/",
+   "etichetta": "cantinacampotondo.it"
+  }
+ ]
+}

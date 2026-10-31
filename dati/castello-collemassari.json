@@ -1,0 +1,45 @@
+{
+ "nome": "Castello ColleMassari",
+ "slug": "castello-collemassari",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Poggi del Sasso, 58044 Cinigiano, GR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0564 990496 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@collemassari.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.collemassariestates.com|collemassariestates.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.collemassariestates.com",
+   "etichetta": "collemassariestates.com"
+  }
+ ]
+}

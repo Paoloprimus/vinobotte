@@ -1,0 +1,53 @@
+{
+ "nome": "La Ripolina",
+ "slug": "la-ripolina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola La Ripolina S.S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00386120521 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Podere Sant'Ignazio 173, 53022 Buonconvento, SI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 335 5739284 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@laripolina.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.laripolina.it/|laripolina.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.laripolina.it/",
+   "etichetta": "laripolina.it"
+  }
+ ]
+}

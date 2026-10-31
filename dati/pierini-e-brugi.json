@@ -1,0 +1,67 @@
+{
+ "nome": "Pierini e Brugi",
+ "slug": "pierini-e-brugi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01287840530 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Belvedere, Montorsaio, 58040 Campagnatico, GR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0564 997310 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@pieriniebrugi.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.pieriniebrugi.it|pieriniebrugi.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montecucco Vermentino DOC, Montecucco Rosso DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/pieriniebrugibio|facebook.com/pieriniebrugibio}}\nInstagram {{https://www.instagram.com/pieriniebrugi_bio/|instagram.com/pieriniebrugi_bio}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.pieriniebrugi.it",
+   "etichetta": "pieriniebrugi.it"
+  }
+ ]
+}

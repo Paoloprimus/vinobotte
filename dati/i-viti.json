@@ -1,0 +1,63 @@
+{
+ "nome": "I Viti",
+ "slug": "i-viti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02122160514 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "52044 Cortona, AR [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ivitiwinery.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ivitiwinery.com/|ivitiwinery.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Cortona Syrah DOC, Cortona Cabernet Sauvignon DOC, Vin Santo Cortona DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/vinicolaiviti/|facebook.com/vinicolaiviti}}\nInstagram {{https://www.instagram.com/iviti_winery/|instagram.com/iviti_winery}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.ivitiwinery.com/",
+   "etichetta": "ivitiwinery.com"
+  }
+ ]
+}

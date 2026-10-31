@@ -1,0 +1,58 @@
+{
+ "nome": "Parmoleto",
+ "slug": "parmoleto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00273130534 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Montenero d'Orcia, 58033 Castel del Piano, GR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0564 954131 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@parmoleto.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.parmoleto.it|parmoleto.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montecucco Sangiovese Riserva DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.parmoleto.it",
+   "etichetta": "parmoleto.it"
+  }
+ ]
+}

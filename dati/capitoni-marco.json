@@ -1,0 +1,67 @@
+{
+ "nome": "Capitoni Marco",
+ "slug": "capitoni-marco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00838740520 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "53026 Pienza, SI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 338 8981597 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@capitoni.eu [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://capitoni.eu/|capitoni.eu}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Orcia Sangiovese DOC, Orcia Riserva DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/capitonimarco|facebook.com/capitonimarco}}\nInstagram {{https://www.instagram.com/capitoni_winery_pienza/|instagram.com/capitoni_winery_pienza}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://capitoni.eu/",
+   "etichetta": "capitoni.eu"
+  }
+ ]
+}

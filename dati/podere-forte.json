@@ -1,0 +1,49 @@
+{
+ "nome": "Podere Forte",
+ "slug": "podere-forte",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Agricola Forte s.s. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00934570524 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Petrucci 13, 53023 Castiglione d'Orcia, SI [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "podereforte@podereforte.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://podereforte.it/|podereforte.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://podereforte.it/",
+   "etichetta": "podereforte.it"
+  }
+ ]
+}

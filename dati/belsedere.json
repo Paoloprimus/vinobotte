@@ -1,0 +1,58 @@
+{
+ "nome": "Belsedere",
+ "slug": "belsedere",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Belsedere Sustainable S.r.l. Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01453250522 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Belsedere 1, 53020 Trequanda, SI [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@borgo-belsedere.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.borgo-belsedere.com/|borgo-belsedere.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/borgo_belsedere/|instagram.com/borgo_belsedere}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.borgo-belsedere.com/",
+   "etichetta": "borgo-belsedere.com"
+  }
+ ]
+}

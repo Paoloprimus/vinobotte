@@ -1,0 +1,68 @@
+{
+ "nome": "Fattoria Uccelliera (Crespina)",
+ "slug": "fattoria-uccelliera-crespina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02237190505 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Roncione 9, 56042 Crespina Lorenzana, PI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 050 662747 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "amministrazione@uccelliera.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://uccelliera.com/|uccelliera.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/fattoria.uccelliera/|facebook.com/fattoria.uccelliera}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://uccelliera.com/",
+   "etichetta": "uccelliera.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/fattoria-uccelliera/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

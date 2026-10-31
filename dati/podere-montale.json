@@ -1,0 +1,67 @@
+{
+ "nome": "Podere Montale",
+ "slug": "podere-montale",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Rocca S.r.l. Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01554070530 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "58038 Seggiano, GR [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poderemontale.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://poderemontale.it|poderemontale.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montecucco DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/poderemontale/|facebook.com/poderemontale}}\nInstagram {{https://www.instagram.com/poderemontale/|instagram.com/poderemontale}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://poderemontale.it",
+   "etichetta": "poderemontale.it"
+  }
+ ]
+}

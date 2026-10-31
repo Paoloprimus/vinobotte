@@ -1,0 +1,64 @@
+{
+ "nome": "Tenuta La Macchia",
+ "slug": "tenuta-la-macchia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "56040 Montescudaio, PI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 338 1258469 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutalamacchia.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutalamacchia.com/|tenutalamacchia.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Montescudaio DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/tenutalamacchia/|facebook.com/tenutalamacchia}}\nInstagram {{https://www.instagram.com/tenutalamacchia/|instagram.com/tenutalamacchia}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.tenutalamacchia.com/",
+   "etichetta": "tenutalamacchia.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Montescudaio DOC, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.consorziovinomontescudaiodoc.it/tenuta-la-macchia/",
+   "etichetta": "consorziovinomontescudaiodoc.it"
+  }
+ ]
+}

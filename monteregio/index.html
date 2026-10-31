@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Campo Bargello","s":"campo-bargello","c":"Massa Marittima","d":["Monteregio di Massa Marittima"]},{"n":"Conti Di San Bonifacio","s":"conti-di-san-bonifacio","c":"Gavorrano","d":["Monteregio di Massa Marittima"]},{"n":"La Cura","s":"la-cura","c":"Massa Marittima","d":["Monteregio di Massa Marittima"]},{"n":"La Pierotta","s":"la-pierotta","c":"Scarlino","d":["Monteregio di Massa Marittima"]}];
+    const D=[{"n":"Azienda Agricola Le Sedici","s":"le-sedici","c":"Massa Marittima","d":["Monteregio di Massa Marittima"]},{"n":"Campo Bargello","s":"campo-bargello","c":"Massa Marittima","d":["Monteregio di Massa Marittima"]},{"n":"Conti Di San Bonifacio","s":"conti-di-san-bonifacio","c":"Gavorrano","d":["Monteregio di Massa Marittima"]},{"n":"La Cura","s":"la-cura","c":"Massa Marittima","d":["Monteregio di Massa Marittima"]},{"n":"La Pierotta","s":"la-pierotta","c":"Scarlino","d":["Monteregio di Massa Marittima"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');

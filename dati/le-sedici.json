@@ -1,0 +1,67 @@
+{
+ "nome": "Azienda Agricola Le Sedici",
+ "slug": "le-sedici",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01564760534 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Podere Le Sedici 23/A, Località Massa Vecchia, 58024 Massa Marittima, GR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 348 0505056 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "lesediciaz.agricola@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.aziendalesedici.it/aziendalesedici/|aziendalesedici.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Monteregio di Massa Marittima DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Azienda-agricola-le-16-1354351704631321/|facebook.com/Azienda-agricola-le-16-1354351704631321}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.aziendalesedici.it/aziendalesedici/",
+   "etichetta": "aziendalesedici.it"
+  }
+ ]
+}

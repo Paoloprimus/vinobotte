@@ -1,0 +1,58 @@
+{
+ "nome": "Peteglia",
+ "slug": "peteglia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Peteglia s.s.a. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01515880530 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Podere Peteglia, 58033 Montenero d'Orcia, Castel del Piano, GR [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@peteglia.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.peteglia.com|peteglia.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Peteglia-1816848614994939/|facebook.com/Peteglia-1816848614994939}}\nInstagram {{https://www.instagram.com/peteglia/|instagram.com/peteglia}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.peteglia.com",
+   "etichetta": "peteglia.com"
+  }
+ ]
+}

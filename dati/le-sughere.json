@@ -1,0 +1,71 @@
+{
+ "nome": "Le Sughere",
+ "slug": "le-sughere",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Le Sughere del Montefico S.a.s. di Aldo Claris Appiani & C. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01651450494 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "57038 Rio, LI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 345 3585035 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantina@lesughere.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lesughere.it/|lesughere.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Elba Rosso DOC, Elba Rosso Riserva DOC, Elba Rosato DOC, Ansonica dell'Elba DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/le.sughere.del.montefico/|facebook.com/le.sughere.del.montefico}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.lesughere.it/",
+   "etichetta": "lesughere.it"
+  }
+ ]
+}

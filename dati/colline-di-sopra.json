@@ -1,0 +1,68 @@
+{
+ "nome": "Colline di Sopra",
+ "slug": "colline-di-sopra",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01807840507 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via delle Colline 17, 56040 Montescudaio, PI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0586 1881172 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@collinedisopra.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.collinedisopra.com|collinedisopra.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Montescudaio DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/collinedisopra/|facebook.com/collinedisopra}}\nInstagram {{https://www.instagram.com/collinedisopra|instagram.com/collinedisopra}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.collinedisopra.com",
+   "etichetta": "collinedisopra.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Montescudaio DOC, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.consorziovinomontescudaiodoc.it/colline-di-sopra/",
+   "etichetta": "consorziovinomontescudaiodoc.it"
+  }
+ ]
+}

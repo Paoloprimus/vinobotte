@@ -1,0 +1,67 @@
+{
+ "nome": "Salustri (Tenuta Salustri)",
+ "slug": "salustri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00254370539 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Poggi del Sasso, 58044 Cinigiano, GR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 334 8946264 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutasalustri.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutasalustri.it|tenutasalustri.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montecucco Sangiovese DOCG, Montecucco Rosso DOC, Maremma Vermentino DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/tenutasalustri/|instagram.com/tenutasalustri}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.tenutasalustri.it",
+   "etichetta": "tenutasalustri.it"
+  }
+ ]
+}

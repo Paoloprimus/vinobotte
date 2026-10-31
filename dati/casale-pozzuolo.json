@@ -1,0 +1,71 @@
+{
+ "nome": "Casale Pozzuolo",
+ "slug": "casale-pozzuolo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agricola Casale Pozzuolo S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01265670537 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "58044 Cinigiano, GR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 347 7564988 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@casalepozzuolo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://casalepozzuolo.it|casalepozzuolo.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montecucco Rosso DOC, Montecucco Rosso Riserva DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/residenzastoricacasalepozzuolo|facebook.com/residenzastoricacasalepozzuolo}}\nInstagram {{https://www.instagram.com/casalepozzuolo/|instagram.com/casalepozzuolo}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://casalepozzuolo.it",
+   "etichetta": "casalepozzuolo.it"
+  }
+ ]
+}

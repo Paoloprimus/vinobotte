@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Calevro","s":"calevro","c":"Massa","d":["Candia dei Colli Apuani"]},{"n":"Cantine Beatrice & Maloro","s":"cantine-beatrice-maloro","c":"Massa","d":["Candia dei Colli Apuani"]},{"n":"Eredi Milani Elvira","s":"eredi-milani-elvira","c":"Carrara","d":["Candia dei Colli Apuani"]},{"n":"Il Moretto","s":"il-moretto","c":"Massa","d":["Candia dei Colli Apuani"]},{"n":"IncandiaBio","s":"incandiabio","c":"Carrara","d":["Candia dei Colli Apuani"]},{"n":"Le Canne","s":"le-canne","c":"Massa","d":["Candia dei Colli Apuani"]}];
+    const D=[{"n":"Calevro","s":"calevro","c":"Massa","d":["Candia dei Colli Apuani"]},{"n":"Cantine Beatrice & Maloro","s":"cantine-beatrice-maloro","c":"Massa","d":["Candia dei Colli Apuani"]},{"n":"Cantine Ramarro","s":"cantine-ramarro","c":"Massa","d":["Candia dei Colli Apuani"]},{"n":"Eredi Milani Elvira","s":"eredi-milani-elvira","c":"Carrara","d":["Candia dei Colli Apuani"]},{"n":"Il Moretto","s":"il-moretto","c":"Massa","d":["Candia dei Colli Apuani"]},{"n":"IncandiaBio","s":"incandiabio","c":"Carrara","d":["Candia dei Colli Apuani"]},{"n":"Le Canne","s":"le-canne","c":"Massa","d":["Candia dei Colli Apuani"]},{"n":"Vigne Conti","s":"vigne-conti","c":"Carrara","d":["Candia dei Colli Apuani"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');

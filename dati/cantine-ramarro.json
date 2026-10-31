@@ -1,0 +1,68 @@
+{
+ "nome": "Cantine Ramarro",
+ "slug": "cantine-ramarro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantine Ramarro S.s. Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01337830457 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Scurtarola 232, 54100 Massa, MS [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantineramarro.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://cantineramarro.com/|cantineramarro.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Candia dei Colli Apuani [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/cantineramarro/|facebook.com/cantineramarro}}\nInstagram {{https://www.instagram.com/cantineramarro|instagram.com/cantineramarro}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "http://cantineramarro.com/",
+   "etichetta": "cantineramarro.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende associate al Consorzio di Tutela del Candia dei Colli Apuani, consultato il 30 ottobre 2026.",
+   "url": "https://candiadeicolliapuani.it/the-winery/",
+   "etichetta": "candiadeicolliapuani.it"
+  }
+ ]
+}

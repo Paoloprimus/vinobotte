@@ -44079,5 +44079,596 @@
 "vini-tipici-aretino"
 ],
 "primario": "vini-tipici-aretino"
+},
+{
+"slug": "assolati",
+"nome": "Assolati (Podere Assolati)",
+"regione": "Toscana",
+"comune": "Castel del Piano",
+"tipi": {
+"montecucco": [
+"Montecucco",
+"Montecucco Sangiovese"
+]
+},
+"membri": [
+"assolati"
+],
+"primario": "assolati"
+},
+{
+"slug": "basile",
+"nome": "Basile",
+"regione": "Toscana",
+"comune": "Cinigiano",
+"tipi": {
+"montecucco": [
+"Montecucco Sangiovese"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"basile"
+],
+"primario": "basile"
+},
+{
+"slug": "begnardi",
+"nome": "Begnardi – Sapori di Monteantico",
+"regione": "Toscana",
+"comune": "Civitella Paganico",
+"tipi": {
+"montecucco": [
+"Montecucco",
+"Montecucco Sangiovese"
+]
+},
+"membri": [
+"begnardi"
+],
+"primario": "begnardi"
+},
+{
+"slug": "casale-pozzuolo",
+"nome": "Casale Pozzuolo",
+"regione": "Toscana",
+"comune": "Cinigiano",
+"tipi": {
+"montecucco": [
+"Montecucco"
+]
+},
+"membri": [
+"casale-pozzuolo"
+],
+"primario": "casale-pozzuolo"
+},
+{
+"slug": "castello-collemassari",
+"nome": "Castello ColleMassari",
+"regione": "Toscana",
+"comune": "Cinigiano",
+"tipi": {
+"montecucco": [
+"Montecucco"
+]
+},
+"membri": [
+"castello-collemassari"
+],
+"primario": "castello-collemassari"
+},
+{
+"slug": "castello-di-potentino",
+"nome": "Castello di Potentino",
+"regione": "Toscana",
+"comune": "Seggiano",
+"tipi": {
+"montecucco": [
+"Montecucco"
+]
+},
+"membri": [
+"castello-di-potentino"
+],
+"primario": "castello-di-potentino"
+},
+{
+"slug": "salustri",
+"nome": "Salustri (Tenuta Salustri)",
+"regione": "Toscana",
+"comune": "Cinigiano",
+"tipi": {
+"montecucco": [
+"Montecucco",
+"Montecucco Sangiovese"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"salustri"
+],
+"primario": "salustri"
+},
+{
+"slug": "parmoleto",
+"nome": "Parmoleto",
+"regione": "Toscana",
+"comune": "Castel del Piano",
+"tipi": {
+"montecucco": [
+"Montecucco",
+"Montecucco Sangiovese"
+]
+},
+"membri": [
+"parmoleto"
+],
+"primario": "parmoleto"
+},
+{
+"slug": "peteglia",
+"nome": "Peteglia",
+"regione": "Toscana",
+"comune": "Castel del Piano",
+"tipi": {
+"montecucco": [
+"Montecucco"
+]
+},
+"membri": [
+"peteglia"
+],
+"primario": "peteglia"
+},
+{
+"slug": "pierini-e-brugi",
+"nome": "Pierini e Brugi",
+"regione": "Toscana",
+"comune": "Campagnatico",
+"tipi": {
+"montecucco": [
+"Montecucco"
+]
+},
+"membri": [
+"pierini-e-brugi"
+],
+"primario": "pierini-e-brugi"
+},
+{
+"slug": "poggio-stenti",
+"nome": "Poggio Stenti",
+"regione": "Toscana",
+"comune": "Castel del Piano",
+"tipi": {
+"montecucco": [
+"Montecucco",
+"Montecucco Sangiovese"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"poggio-stenti"
+],
+"primario": "poggio-stenti"
+},
+{
+"slug": "amiata",
+"nome": "Amiata",
+"regione": "Toscana",
+"comune": "Castel del Piano",
+"tipi": {
+"montecucco": [
+"Montecucco",
+"Montecucco Sangiovese"
+]
+},
+"membri": [
+"amiata"
+],
+"primario": "amiata"
+},
+{
+"slug": "montenero",
+"nome": "Montenero",
+"regione": "Toscana",
+"comune": "Castel del Piano",
+"tipi": {
+"montecucco": [
+"Montecucco",
+"Montecucco Sangiovese"
+]
+},
+"membri": [
+"montenero"
+],
+"primario": "montenero"
+},
+{
+"slug": "muschi-alti",
+"nome": "Muschi Alti",
+"regione": "Toscana",
+"comune": "Campagnatico",
+"tipi": {
+"montecucco": [
+"Montecucco"
+]
+},
+"membri": [
+"muschi-alti"
+],
+"primario": "muschi-alti"
+},
+{
+"slug": "podere-montale",
+"nome": "Podere Montale",
+"regione": "Toscana",
+"comune": "Seggiano",
+"tipi": {
+"montecucco": [
+"Montecucco"
+]
+},
+"membri": [
+"podere-montale"
+],
+"primario": "podere-montale"
+},
+{
+"slug": "poggio-mandorlo",
+"nome": "Poggio Mandorlo",
+"regione": "Toscana",
+"comune": "Seggiano",
+"tipi": {
+"montecucco": [
+"Montecucco",
+"Montecucco Sangiovese"
+]
+},
+"membri": [
+"poggio-mandorlo"
+],
+"primario": "poggio-mandorlo"
+},
+{
+"slug": "tenute-bruni",
+"nome": "Tenute Bruni",
+"regione": "Toscana",
+"comune": "Grosseto",
+"tipi": {
+"montecucco": [
+"Montecucco"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"tenute-bruni"
+],
+"primario": "tenute-bruni"
+},
+{
+"slug": "campotondo",
+"nome": "Campotondo",
+"regione": "Toscana",
+"comune": "Castiglione d'Orcia",
+"tipi": {
+"orcia": [
+"Orcia"
+]
+},
+"membri": [
+"campotondo"
+],
+"primario": "campotondo"
+},
+{
+"slug": "podere-forte",
+"nome": "Podere Forte",
+"regione": "Toscana",
+"comune": "Castiglione d'Orcia",
+"tipi": {
+"orcia": [
+"Orcia"
+]
+},
+"membri": [
+"podere-forte"
+],
+"primario": "podere-forte"
+},
+{
+"slug": "capitoni-marco",
+"nome": "Capitoni Marco",
+"regione": "Toscana",
+"comune": "Pienza",
+"tipi": {
+"orcia": [
+"Orcia"
+]
+},
+"membri": [
+"capitoni-marco"
+],
+"primario": "capitoni-marco"
+},
+{
+"slug": "belsedere",
+"nome": "Belsedere",
+"regione": "Toscana",
+"comune": "Trequanda",
+"tipi": {
+"orcia": [
+"Orcia"
+]
+},
+"membri": [
+"belsedere"
+],
+"primario": "belsedere"
+},
+{
+"slug": "castelnuovo-tancredi",
+"nome": "Castelnuovo Tancredi",
+"regione": "Toscana",
+"comune": "Buonconvento",
+"tipi": {
+"orcia": [
+"Orcia"
+]
+},
+"membri": [
+"castelnuovo-tancredi"
+],
+"primario": "castelnuovo-tancredi"
+},
+{
+"slug": "la-ripolina",
+"nome": "La Ripolina",
+"regione": "Toscana",
+"comune": "Buonconvento",
+"tipi": {
+"orcia": [
+"Orcia"
+]
+},
+"membri": [
+"la-ripolina"
+],
+"primario": "la-ripolina"
+},
+{
+"slug": "i-vicini",
+"nome": "I Vicini",
+"regione": "Toscana",
+"comune": "Cortona",
+"tipi": {
+"cortona": [
+"Cortona"
+]
+},
+"membri": [
+"i-vicini"
+],
+"primario": "i-vicini"
+},
+{
+"slug": "i-viti",
+"nome": "I Viti",
+"regione": "Toscana",
+"comune": "Cortona",
+"tipi": {
+"cortona": [
+"Cortona"
+]
+},
+"membri": [
+"i-viti"
+],
+"primario": "i-viti"
+},
+{
+"slug": "amerighi",
+"nome": "Amerighi (Stefano Amerighi)",
+"regione": "Toscana",
+"comune": "Cortona",
+"tipi": {
+"cortona": [
+"Cortona"
+]
+},
+"membri": [
+"amerighi"
+],
+"primario": "amerighi"
+},
+{
+"slug": "eredi-trevisan",
+"nome": "Eredi Trevisan",
+"regione": "Toscana",
+"comune": "Cortona",
+"tipi": {
+"cortona": [
+"Cortona"
+]
+},
+"membri": [
+"eredi-trevisan"
+],
+"primario": "eredi-trevisan"
+},
+{
+"slug": "le-sughere",
+"nome": "Le Sughere",
+"regione": "Toscana",
+"comune": "Rio",
+"tipi": {
+"elba": [
+"Elba"
+]
+},
+"membri": [
+"le-sughere"
+],
+"primario": "le-sughere"
+},
+{
+"slug": "tenuta-castelvecchio-carmignano",
+"nome": "Tenuta Castelvecchio",
+"regione": "Toscana",
+"comune": "Carmignano",
+"tipi": {
+"carmignano": [
+"Carmignano",
+"Barco Reale di Carmignano"
+]
+},
+"membri": [
+"tenuta-castelvecchio-carmignano"
+],
+"primario": "tenuta-castelvecchio-carmignano"
+},
+{
+"slug": "vigne-conti",
+"nome": "Vigne Conti",
+"regione": "Toscana",
+"comune": "Carrara",
+"tipi": {
+"candia-colli-apuani": [
+"Candia dei Colli Apuani"
+]
+},
+"membri": [
+"vigne-conti"
+],
+"primario": "vigne-conti"
+},
+{
+"slug": "cantine-ramarro",
+"nome": "Cantine Ramarro",
+"regione": "Toscana",
+"comune": "Massa",
+"tipi": {
+"candia-colli-apuani": [
+"Candia dei Colli Apuani"
+]
+},
+"membri": [
+"cantine-ramarro"
+],
+"primario": "cantine-ramarro"
+},
+{
+"slug": "fattoria-uccelliera-crespina",
+"nome": "Fattoria Uccelliera (Crespina)",
+"regione": "Toscana",
+"comune": "Crespina Lorenzana",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"fattoria-uccelliera-crespina"
+],
+"primario": "fattoria-uccelliera-crespina"
+},
+{
+"slug": "colline-di-sopra",
+"nome": "Colline di Sopra",
+"regione": "Toscana",
+"comune": "Montescudaio",
+"tipi": {
+"montescudaio": [
+"Montescudaio"
+]
+},
+"membri": [
+"colline-di-sopra"
+],
+"primario": "colline-di-sopra"
+},
+{
+"slug": "marchesi-ginori-lisci",
+"nome": "Marchesi Ginori Lisci",
+"regione": "Toscana",
+"comune": "Montecatini Val di Cecina",
+"tipi": {
+"montescudaio": [
+"Montescudaio"
+]
+},
+"membri": [
+"marchesi-ginori-lisci"
+],
+"primario": "marchesi-ginori-lisci"
+},
+{
+"slug": "pagani-de-marchi",
+"nome": "Pagani de Marchi",
+"regione": "Toscana",
+"comune": "Casale Marittimo",
+"tipi": {
+"montescudaio": [
+"Montescudaio"
+]
+},
+"membri": [
+"pagani-de-marchi"
+],
+"primario": "pagani-de-marchi"
+},
+{
+"slug": "tenuta-la-macchia",
+"nome": "Tenuta La Macchia",
+"regione": "Toscana",
+"comune": "Montescudaio",
+"tipi": {
+"montescudaio": [
+"Montescudaio"
+]
+},
+"membri": [
+"tenuta-la-macchia"
+],
+"primario": "tenuta-la-macchia"
+},
+{
+"slug": "camporignano",
+"nome": "Camporignano",
+"regione": "Toscana",
+"comune": "Casole d'Elsa",
+"tipi": {
+"terre-di-casole": [
+"Terre di Casole"
+]
+},
+"membri": [
+"camporignano"
+],
+"primario": "camporignano"
+},
+{
+"slug": "le-sedici",
+"nome": "Azienda Agricola Le Sedici",
+"regione": "Toscana",
+"comune": "Massa Marittima",
+"tipi": {
+"monteregio": [
+"Monteregio di Massa Marittima"
+]
+},
+"membri": [
+"le-sedici"
+],
+"primario": "le-sedici"
 }
 ]

@@ -1,0 +1,62 @@
+{
+ "nome": "Castello di Potentino",
+ "slug": "castello-di-potentino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Potentino Società Agricola S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01203170533 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "58038 Seggiano, GR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0564 950014 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "mail@potentino.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://potentino.com|potentino.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/CastelloDiPotentino|facebook.com/CastelloDiPotentino}}\nInstagram {{https://www.instagram.com/castellodipotentino|instagram.com/castellodipotentino}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://potentino.com",
+   "etichetta": "potentino.com"
+  }
+ ]
+}
