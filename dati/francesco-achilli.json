@@ -1,0 +1,63 @@
+{
+ "nome": "Francesco Achilli",
+ "slug": "francesco-achilli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Francesco Achilli S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02636210185 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Pianella 6, 27047 Santa Maria della Versa (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0385 278014 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "commerciale@achillifrancesco.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.francescoachilli.com/|francescoachilli.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Oltrepò Pavese, Sangue di Giuda [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.francescoachilli.com/",
+   "etichetta": "francescoachilli.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  }
+ ]
+}

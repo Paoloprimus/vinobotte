@@ -47993,5 +47993,102 @@
 "andrea-calvi"
 ],
 "primario": "andrea-calvi"
+},
+{
+"slug": "brandolini-pietro",
+"nome": "Brandolini Pietro",
+"regione": "Lombardia",
+"comune": "San Damiano al Colle",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Pinot Nero dell’Oltrepò",
+"Cruasè"
+]
+},
+"membri": [
+"brandolini-pietro"
+],
+"primario": "brandolini-pietro"
+},
+{
+"slug": "manuelina",
+"nome": "Manuelina",
+"regione": "Lombardia",
+"comune": "Santa Maria della Versa",
+"tipi": {
+"oltrepo-pavese": [
+"Pinot Nero dell’Oltrepò Pavese",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"manuelina"
+],
+"primario": "manuelina"
+},
+{
+"slug": "cantine-francesco-montagna",
+"nome": "Cantine Francesco Montagna",
+"regione": "Lombardia",
+"comune": "Broni",
+"tipi": {
+"oltrepo-pavese": [
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"cantine-francesco-montagna"
+],
+"primario": "cantine-francesco-montagna"
+},
+{
+"slug": "francesco-achilli",
+"nome": "Francesco Achilli",
+"regione": "Lombardia",
+"comune": "Santa Maria della Versa",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"francesco-achilli"
+],
+"primario": "francesco-achilli"
+},
+{
+"slug": "calatroni",
+"nome": "Calatroni",
+"regione": "Lombardia",
+"comune": "Montecalvo Versiggia",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese Metodo Classico"
+]
+},
+"membri": [
+"calatroni"
+],
+"primario": "calatroni"
+},
+{
+"slug": "giorgi",
+"nome": "Giorgi",
+"regione": "Lombardia",
+"comune": "Canneto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese Pinot Nero DOCG",
+"Bonarda",
+"Barbera"
+]
+},
+"membri": [
+"giorgi"
+],
+"primario": "giorgi"
 }
 ]

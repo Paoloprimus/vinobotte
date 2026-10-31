@@ -1,0 +1,59 @@
+{
+ "nome": "Calatroni",
+ "slug": "calatroni",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02993720180 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Frazione Casa Grande 7, 27047 Montecalvo Versiggia (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "348 0195118 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@calatronivini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.calatronivini.com/|calatronivini.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Oltrepò Pavese Metodo Classico [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.calatronivini.com/",
+   "etichetta": "calatronivini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  }
+ ]
+}
