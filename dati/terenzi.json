@@ -1,0 +1,67 @@
+{
+ "nome": "Terenzi",
+ "slug": "terenzi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Terenzi srl [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01266200532 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Montedonico, 58054 Scansano, GR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0564 599601 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.terenzi.eu/|terenzi.eu}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Morellino di Scansano DOCG, Morellino di Scansano Riserva DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/societaagricolaterenzi|facebook.com/societaagricolaterenzi}}\nInstagram {{https://www.instagram.com/terenziwines/|instagram.com/terenziwines}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.terenzi.eu/",
+   "etichetta": "terenzi.eu"
+  }
+ ]
+}

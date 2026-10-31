@@ -45039,5 +45039,65 @@
 "colline-san-biagio"
 ],
 "primario": "colline-san-biagio"
+},
+{
+"slug": "terenzi",
+"nome": "Terenzi",
+"regione": "Toscana",
+"comune": "Scansano",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+]
+},
+"membri": [
+"terenzi"
+],
+"primario": "terenzi"
+},
+{
+"slug": "tenute-folonari",
+"nome": "Tenute Folonari",
+"regione": "Toscana",
+"comune": "Greve in Chianti",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+]
+},
+"membri": [
+"tenute-folonari"
+],
+"primario": "tenute-folonari"
+},
+{
+"slug": "estevan-wine",
+"nome": "Estevan Wine",
+"regione": "Toscana",
+"comune": "Casole d’Elsa",
+"tipi": {
+"terre-di-casole": [
+"Terre di Casole"
+]
+},
+"membri": [
+"estevan-wine"
+],
+"primario": "estevan-wine"
+},
+{
+"slug": "fabrizio-doveri",
+"nome": "Fabrizio Doveri",
+"regione": "Toscana",
+"comune": "Cortona",
+"tipi": {
+"cortona": [
+"Cortona"
+]
+},
+"membri": [
+"fabrizio-doveri"
+],
+"primario": "fabrizio-doveri"
 }
 ]

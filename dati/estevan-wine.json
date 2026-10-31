@@ -1,0 +1,62 @@
+{
+ "nome": "Estevan Wine",
+ "slug": "estevan-wine",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Casole d’Elsa di Lisa Ammannati [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01511420521 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Casolani 2, 53031 Casole d’Elsa, SI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 327 7145209 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@estevanwine.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.estevanwine.it/|estevanwine.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Terre di Casole Sangiovese DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.estevanwine.it/",
+   "etichetta": "estevanwine.it"
+  }
+ ]
+}

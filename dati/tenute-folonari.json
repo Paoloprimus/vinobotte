@@ -1,0 +1,67 @@
+{
+ "nome": "Tenute Folonari",
+ "slug": "tenute-folonari",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03768690483 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via di Nozzole 12, località Passo dei Pecorai, 50022 Greve in Chianti, FI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 055 859811 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "folonari@tenutefolonari.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutefolonari.com/|tenutefolonari.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti Classico DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/folonaritenute/|facebook.com/folonaritenute}}\nInstagram {{https://www.instagram.com/folonaritenute/|instagram.com/folonaritenute}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.tenutefolonari.com/",
+   "etichetta": "tenutefolonari.com"
+  }
+ ]
+}

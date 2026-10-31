@@ -3401,5 +3401,103 @@
   "consorzio_nome": "Consorzio di Tutela dei Vini di Carmignano",
   "dom_consorzio": "consorziovinicarmignano.it",
   "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "Terenzi",
+  "slug": "terenzi",
+  "nome": "Terenzi",
+  "comune": "Scansano",
+  "sede": "Località Montedonico, 58054 Scansano, GR",
+  "rag": "Società Agricola Terenzi srl",
+  "piva": "01266200532",
+  "tel": "+39 0564 599601",
+  "email": "",
+  "sito": "https://www.terenzi.eu/",
+  "dom": "terenzi.eu",
+  "social": {
+   "Facebook": "https://www.facebook.com/societaagricolaterenzi",
+   "Instagram": "https://www.instagram.com/terenziwines/"
+  },
+  "den": "Morellino di Scansano DOCG, Morellino di Scansano Riserva DOCG",
+  "tipi": {
+   "morellino": [
+    "Morellino di Scansano"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Tenute Folonari",
+  "slug": "tenute-folonari",
+  "nome": "Tenute Folonari",
+  "comune": "Greve in Chianti",
+  "sede": "Via di Nozzole 12, località Passo dei Pecorai, 50022 Greve in Chianti, FI",
+  "rag": "",
+  "piva": "03768690483",
+  "tel": "+39 055 859811",
+  "email": "folonari@tenutefolonari.com",
+  "sito": "https://www.tenutefolonari.com/",
+  "dom": "tenutefolonari.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/folonaritenute/",
+   "Instagram": "https://www.instagram.com/folonaritenute/"
+  },
+  "den": "Chianti Classico DOCG",
+  "tipi": {
+   "chianti-classico": [
+    "Chianti Classico"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Esteva Wine (Azienda Agricola Casole d'Elsa di Lisa Ammannati)",
+  "slug": "estevan-wine",
+  "nome": "Estevan Wine",
+  "comune": "Casole d’Elsa",
+  "sede": "Via Casolani 2, 53031 Casole d’Elsa, SI",
+  "rag": "Azienda Agricola Casole d’Elsa di Lisa Ammannati",
+  "piva": "01511420521",
+  "tel": "+39 327 7145209",
+  "email": "info@estevanwine.it",
+  "sito": "https://www.estevanwine.it/",
+  "dom": "estevanwine.it",
+  "social": {},
+  "den": "Terre di Casole Sangiovese DOC",
+  "tipi": {
+   "terre-di-casole": [
+    "Terre di Casole"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Fabrizio Doveri",
+  "slug": "fabrizio-doveri",
+  "nome": "Fabrizio Doveri",
+  "comune": "Cortona",
+  "sede": "Cortona, AR",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 388 614 5802",
+  "email": "fabrizio.dov2002@libero.it",
+  "sito": "https://cantinadoveri.it/",
+  "dom": "cantinadoveri.it",
+  "social": {},
+  "den": "Cortona DOC",
+  "tipi": {
+   "cortona": [
+    "Cortona"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
  }
 ]
