@@ -10766,5 +10766,133 @@
   "data_consorzio": "31 ottobre 2026",
   "consorzio": "lugana",
   "data_consultazione": "31 ottobre 2026"
+ },
+ {
+  "slug": "zenegaglia",
+  "nome": "Zenegaglia",
+  "regione": "Lombardia",
+  "comune": "Pozzolengo",
+  "tipi": {
+   "lugana": [
+    "Lugana",
+    "Lugana Riserva"
+   ]
+  },
+  "piva": "01845700986",
+  "sede": "Via Longarone 9, 25010 Pozzolengo (BS)",
+  "tel": "030 9918738",
+  "email": "info@zenegaglia.it",
+  "sito": "https://zenegaglia.it/",
+  "dom": "zenegaglia.it",
+  "den": "Lugana, Lugana Riserva",
+  "wip": "Zenegaglia",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/zenegagliasocagr",
+  "rag": "",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "31 ottobre 2026"
+ },
+ {
+  "slug": "castrini",
+  "nome": "Castrini",
+  "regione": "Lombardia",
+  "comune": "Pozzolengo",
+  "tipi": {
+   "lugana": [
+    "Lugana"
+   ]
+  },
+  "piva": "",
+  "sede": "Via Santa Maria 19, 25010 Pozzolengo (BS)",
+  "tel": "335 216031",
+  "email": "info@fattoriecollistorici.it",
+  "sito": "http://www.luganacastrini.com/",
+  "dom": "luganacastrini.com",
+  "den": "Lugana",
+  "wip": "Castrini",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/castrini",
+  "rag": "",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "31 ottobre 2026"
+ },
+ {
+  "slug": "primo-campo",
+  "nome": "Primo Campo",
+  "regione": "Lombardia",
+  "comune": "Desenzano del Garda",
+  "tipi": {
+   "lugana": [
+    "Lugana",
+    "Lugana Spumante",
+    "Lugana Superiore"
+   ]
+  },
+  "piva": "03635620986",
+  "sede": "Via De Gasperi 9, 25015 Desenzano del Garda (BS)",
+  "tel": "",
+  "email": "info@aziendaagricolaprimocampo.it",
+  "sito": "https://aziendaagricolaprimocampo.it/",
+  "dom": "aziendaagricolaprimocampo.it",
+  "den": "Lugana, Lugana Spumante, Lugana Superiore",
+  "wip": "Primo Campo",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/primo-campo",
+  "rag": "",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "31 ottobre 2026"
+ },
+ {
+  "slug": "tenuta-corbari",
+  "nome": "Tenuta Corbari",
+  "regione": "Lombardia",
+  "comune": "Desenzano del Garda",
+  "tipi": {
+   "lugana": [
+    "Lugana"
+   ]
+  },
+  "piva": "04569740980",
+  "sede": "Via Casella 6, 25015 Desenzano del Garda (BS)",
+  "tel": "334 5441290",
+  "email": "info@tenutacorbari.it",
+  "sito": "https://www.tenutacorbari.com/",
+  "dom": "tenutacorbari.com",
+  "den": "Lugana",
+  "wip": "Corbari Roberto",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/corbari-roberto",
+  "rag": "",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "31 ottobre 2026",
+  "fonte_sede": {
+   "testo": "Scheda dell’azienda nell’elenco dei soci del Consorzio Tutela Lugana DOC, con indirizzo.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/corbari-roberto",
+   "etichetta": "consorziolugana.it"
+  }
  }
 ]

@@ -48384,5 +48384,68 @@
 "perla-del-garda"
 ],
 "primario": "perla-del-garda"
+},
+{
+"slug": "zenegaglia",
+"nome": "Zenegaglia",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana",
+"Lugana Riserva"
+]
+},
+"membri": [
+"zenegaglia"
+],
+"primario": "zenegaglia"
+},
+{
+"slug": "castrini",
+"nome": "Castrini",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"castrini"
+],
+"primario": "castrini"
+},
+{
+"slug": "primo-campo",
+"nome": "Primo Campo",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana",
+"Lugana Spumante",
+"Lugana Superiore"
+]
+},
+"membri": [
+"primo-campo"
+],
+"primario": "primo-campo"
+},
+{
+"slug": "tenuta-corbari",
+"nome": "Tenuta Corbari",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"tenuta-corbari"
+],
+"primario": "tenuta-corbari"
 }
 ]

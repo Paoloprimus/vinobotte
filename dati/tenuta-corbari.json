@@ -1,0 +1,55 @@
+{
+ "nome": "Tenuta Corbari",
+ "slug": "tenuta-corbari",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04569740980 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Casella 6, 25015 Desenzano del Garda (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "334 5441290 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutacorbari.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutacorbari.com/|tenutacorbari.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.tenutacorbari.com/",
+   "etichetta": "tenutacorbari.com"
+  },
+  {
+   "n": 2,
+   "testo": "Scheda dell’azienda nell’elenco dei soci del Consorzio Tutela Lugana DOC, con indirizzo. Consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/corbari-roberto",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}

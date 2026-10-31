@@ -1,0 +1,55 @@
+{
+ "nome": "Primo Campo",
+ "slug": "primo-campo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03635620986 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via De Gasperi 9, 25015 Desenzano del Garda (BS) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@aziendaagricolaprimocampo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://aziendaagricolaprimocampo.it/|aziendaagricolaprimocampo.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana, Lugana Spumante, Lugana Superiore [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://aziendaagricolaprimocampo.it/",
+   "etichetta": "aziendaagricolaprimocampo.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, consultato il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/primo-campo",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}
