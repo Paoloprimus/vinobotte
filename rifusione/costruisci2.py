@@ -90,10 +90,10 @@ for r in REGORD+[x for x in conta if x not in REGORD]:
 # home
 home=open('index.html',encoding='utf-8').read()
 sec=''.join('<section class="regione">\n<h2 class="reg"><a href="/%s/">%s</a></h2>\n<p class="num">%s produttori</p>\n</section>\n'%(rs(r),r,fmt(conta[r])) for r in sorted([x for x in conta if conta.get(x)],key=lambda x:(-conta[x],x)))
-tot='<h1 class="tot">ITALIA - %d produttori vini DOP</h1>\n'%sum(conta.values())
+tot='<h1 class="tot">In <span class="cap">I</span>talia ci sono %d produttori di vini DOP</h1>\n'%sum(conta.values())
 home=re.sub(r'(<div class="griglia" id="griglia">\n).*?(</div>\n</main>)',lambda m:m.group(1)+tot+sec+m.group(2),home,1,flags=re.S)
 home=re.sub(r'\.griglia \.tot\{[^}]*\}\n(\.griglia \.tot2\{[^}]*\}\n)?','',home)
-home=home.replace('.griglia .regione{width:calc(25% - 18px)','.griglia .tot{width:100%;margin:0;text-align:center;font-size:30px;font-weight:400;font-variant:small-caps;color:var(--acc);letter-spacing:.12em}\n.griglia .tot2{width:100%;margin:-22px 0 4px;text-align:center;font-size:17px;color:var(--ink);opacity:.8;letter-spacing:.03em}\n.griglia .regione{width:calc(25% - 18px)',1)
+home=home.replace('.griglia .regione{width:calc(25% - 18px)','.griglia .tot{width:100%;margin:6px 0 10px;text-align:center;font-size:20px;font-weight:400;font-variant:all-small-caps;color:var(--acc);letter-spacing:.09em}\n.griglia .tot::before,.griglia .tot::after{content:"";display:block;width:64px;height:1px;margin:0 auto;background:var(--acc);opacity:.35}\n.griglia .tot .cap{font-variant:normal}\n.griglia .tot::before{margin-bottom:12px}\n.griglia .tot::after{margin-top:12px}\n.griglia .tot2{width:100%;margin:-22px 0 4px;text-align:center;font-size:17px;color:var(--ink);opacity:.8;letter-spacing:.03em}\n.griglia .regione{width:calc(25% - 18px)',1)
 open('index.html','w',encoding='utf-8').write(home)
 # shell.js: menu, breadcrumb
 sh=open('shell.js',encoding='utf-8').read()
