@@ -1,0 +1,76 @@
+{
+ "nome": "Tenuta La Chiusa",
+ "slug": "tenuta-la-chiusa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Magazzini 93, Portoferraio, LI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0565 933046 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutalachiusa.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://tenutalachiusa.com/|tenutalachiusa.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Elba Vermentino DOC, Elba Ansonica DOC, Elba Bianco DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Lunedì–sabato 9–17.30 [[1]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Degustazioni di prodotti locali su prenotazione [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/tenutalachiusa/|instagram.com/tenutalachiusa}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://tenutalachiusa.com/",
+   "etichetta": "tenutalachiusa.com"
+  }
+ ]
+}

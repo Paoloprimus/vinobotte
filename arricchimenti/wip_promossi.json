@@ -3793,5 +3793,157 @@
   "consorzio": "",
   "regione": "Umbria",
   "url_consorzio": ""
+ },
+ {
+  "wip": "Azienda Agricola Gino Fuso Carmignani",
+  "slug": "fattoria-carmignani-enzo",
+  "nome": "Fattoria Carmignani Enzo",
+  "comune": "Montecarlo",
+  "sede": "Via di Cercatoia Alta 14, 55015 Montecarlo, LU",
+  "rag": "Azienda Agricola Carmignani Enzo di Elena Carmignani",
+  "piva": "01845350469",
+  "tel": "+39 0583 22463",
+  "email": "info@fattoriacarmignani.com",
+  "sito": "https://www.fattoriacarmignani.com/",
+  "dom": "fattoriacarmignani.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/fattoriacarmignani",
+   "Instagram": "https://www.instagram.com/aziendaagricolacarmignanienzo/"
+  },
+  "den": "Montecarlo Bianco DOC, Montecarlo Rosso DOC",
+  "tipi": {
+   "montecarlo": [
+    "Montecarlo"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": "",
+  "ospitalita": [
+   [
+    "Orari",
+    "Tutti i giorni 9–19"
+   ],
+   [
+    "Visite e degustazioni",
+    "Degustazioni, lezioni di cucina e ospitalità in azienda"
+   ]
+  ]
+ },
+ {
+  "wip": "Fattoria Santa Maria",
+  "slug": "fattoria-santa-maria-montescudaio",
+  "nome": "Fattoria Santa Maria",
+  "comune": "Montescudaio",
+  "sede": "Strada Provinciale dei Tre Comuni 131, località Il Palazzo, 56040 Montescudaio, PI",
+  "rag": "",
+  "piva": "02178070500",
+  "tel": "+39 0586 650047",
+  "email": "info@fattoriasantamaria.it",
+  "sito": "http://www.fattoriasantamaria.it/",
+  "dom": "fattoriasantamaria.it",
+  "social": {},
+  "den": "Montescudaio Rosso DOC, Montescudaio Bianco DOC, Montescudaio Rosso Riserva DOC, Vin Santo di Montescudaio DOC",
+  "tipi": {
+   "montescudaio": [
+    "Montescudaio"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Cincinelli",
+  "slug": "cincinelli",
+  "nome": "Cincinelli",
+  "comune": "Capolona",
+  "sede": "Sede: Piazza della Vittoria 11, 52010 Capolona, AR; cantina: località Il Legato, 52010 Capolona, AR",
+  "rag": "Azienda Agricola Cincinelli Marco",
+  "piva": "01543160517",
+  "tel": "+39 377 3376489",
+  "email": "info@aziendaagricolacincinelli.it",
+  "sito": "https://aziendaagricolacincinelli.it/",
+  "dom": "aziendaagricolacincinelli.it",
+  "social": {
+   "Facebook": "http://www.facebook.com/aziendaagricolacincinelli",
+   "Instagram": "http://www.instagram.com/cantinacinelli"
+  },
+  "den": "Chianti DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Giomi e Zannoni",
+  "slug": "giomi-e-zannoni",
+  "nome": "Giomi e Zannoni",
+  "comune": "Campiglia Marittima",
+  "sede": "Via Aurelia Nord 63, località Lumiere, Campiglia Marittima, LI",
+  "rag": "",
+  "piva": "01825340498",
+  "tel": "+39 393 1338238",
+  "email": "info@giomi-zannoni.com",
+  "sito": "https://www.giomi-zannoni.com/",
+  "dom": "giomi-zannoni.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/giomizannoni/",
+   "Instagram": "https://www.instagram.com/cantina_giomi_zannoni/"
+  },
+  "den": "Val di Cornia DOC",
+  "tipi": {
+   "val-di-cornia": [
+    "Val di Cornia"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": "",
+  "ospitalita": [
+   [
+    "Visite e degustazioni",
+    "Degustazioni su prenotazione"
+   ]
+  ]
+ },
+ {
+  "wip": "Tenuta La Chiusa",
+  "slug": "tenuta-la-chiusa",
+  "nome": "Tenuta La Chiusa",
+  "comune": "Portoferraio",
+  "sede": "Località Magazzini 93, Portoferraio, LI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0565 933046",
+  "email": "info@tenutalachiusa.com",
+  "sito": "https://tenutalachiusa.com/",
+  "dom": "tenutalachiusa.com",
+  "social": {
+   "Instagram": "https://www.instagram.com/tenutalachiusa/"
+  },
+  "den": "Elba Vermentino DOC, Elba Ansonica DOC, Elba Bianco DOC",
+  "tipi": {
+   "elba": [
+    "Elba"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": "",
+  "ospitalita": [
+   [
+    "Orari",
+    "Lunedì–sabato 9–17.30"
+   ],
+   [
+    "Visite e degustazioni",
+    "Degustazioni di prodotti locali su prenotazione"
+   ]
+  ]
  }
 ]

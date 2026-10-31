@@ -1,0 +1,76 @@
+{
+ "nome": "Giomi e Zannoni",
+ "slug": "giomi-e-zannoni",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01825340498 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Aurelia Nord 63, località Lumiere, Campiglia Marittima, LI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 393 1338238 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@giomi-zannoni.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.giomi-zannoni.com/|giomi-zannoni.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Val di Cornia DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Degustazioni su prenotazione [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/giomizannoni/|facebook.com/giomizannoni}}\nInstagram {{https://www.instagram.com/cantina_giomi_zannoni/|instagram.com/cantina_giomi_zannoni}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.giomi-zannoni.com/",
+   "etichetta": "giomi-zannoni.com"
+  }
+ ]
+}

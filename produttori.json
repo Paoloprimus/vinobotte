@@ -45249,5 +45249,80 @@
 "stefania-mezzetti"
 ],
 "primario": "stefania-mezzetti"
+},
+{
+"slug": "fattoria-carmignani-enzo",
+"nome": "Fattoria Carmignani Enzo",
+"regione": "Toscana",
+"comune": "Montecarlo",
+"tipi": {
+"montecarlo": [
+"Montecarlo"
+]
+},
+"membri": [
+"fattoria-carmignani-enzo"
+],
+"primario": "fattoria-carmignani-enzo"
+},
+{
+"slug": "fattoria-santa-maria-montescudaio",
+"nome": "Fattoria Santa Maria",
+"regione": "Toscana",
+"comune": "Montescudaio",
+"tipi": {
+"montescudaio": [
+"Montescudaio"
+]
+},
+"membri": [
+"fattoria-santa-maria-montescudaio"
+],
+"primario": "fattoria-santa-maria-montescudaio"
+},
+{
+"slug": "cincinelli",
+"nome": "Cincinelli",
+"regione": "Toscana",
+"comune": "Capolona",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"cincinelli"
+],
+"primario": "cincinelli"
+},
+{
+"slug": "giomi-e-zannoni",
+"nome": "Giomi e Zannoni",
+"regione": "Toscana",
+"comune": "Campiglia Marittima",
+"tipi": {
+"val-di-cornia": [
+"Val di Cornia"
+]
+},
+"membri": [
+"giomi-e-zannoni"
+],
+"primario": "giomi-e-zannoni"
+},
+{
+"slug": "tenuta-la-chiusa",
+"nome": "Tenuta La Chiusa",
+"regione": "Toscana",
+"comune": "Portoferraio",
+"tipi": {
+"elba": [
+"Elba"
+]
+},
+"membri": [
+"tenuta-la-chiusa"
+],
+"primario": "tenuta-la-chiusa"
 }
 ]

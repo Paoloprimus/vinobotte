@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Azienda Agricola Enzo Carmignani","s":"enzo-carmignani","c":"Montecarlo","d":["Montecarlo"]},{"n":"Fattoria del Buonamico","s":"fattoria-del-buonamico","c":"Montecarlo","d":["Montecarlo"]},{"n":"Fattoria del Teso","s":"fattoria-del-teso","c":"Montecarlo","d":["Montecarlo"]},{"n":"Fattoria Il Poggio","s":"fattoria-il-poggio","c":"Montecarlo","d":["Montecarlo"]},{"n":"Fattoria Valdrighi","s":"fattoria-valdrighi","c":"Montecarlo","d":["Montecarlo"]},{"n":"Tenute di Badia","s":"tenute-di-badia","c":"Altopascio","d":["Montecarlo"]}];
+    const D=[{"n":"Azienda Agricola Enzo Carmignani","s":"enzo-carmignani","c":"Montecarlo","d":["Montecarlo"]},{"n":"Fattoria Carmignani Enzo","s":"fattoria-carmignani-enzo","c":"Montecarlo","d":["Montecarlo"]},{"n":"Fattoria del Buonamico","s":"fattoria-del-buonamico","c":"Montecarlo","d":["Montecarlo"]},{"n":"Fattoria del Teso","s":"fattoria-del-teso","c":"Montecarlo","d":["Montecarlo"]},{"n":"Fattoria Il Poggio","s":"fattoria-il-poggio","c":"Montecarlo","d":["Montecarlo"]},{"n":"Fattoria Valdrighi","s":"fattoria-valdrighi","c":"Montecarlo","d":["Montecarlo"]},{"n":"Tenute di Badia","s":"tenute-di-badia","c":"Altopascio","d":["Montecarlo"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
