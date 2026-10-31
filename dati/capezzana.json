@@ -1,0 +1,68 @@
+{
+ "nome": "Capezzana",
+ "slug": "capezzana",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta di Capezzana S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01700950973 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Carmignano, PO [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "capezzana@capezzana.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://capezzana.it/|capezzana.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela dei Vini di Carmignano [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/tenutadicapezzana/|facebook.com/tenutadicapezzana}}\nInstagram {{https://www.instagram.com/tenutadicapezzana/|instagram.com/tenutadicapezzana}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://capezzana.it/",
+   "etichetta": "capezzana.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio di Tutela dei Vini di Carmignano, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.consorziovinicarmignano.it/",
+   "etichetta": "consorziovinicarmignano.it"
+  }
+ ]
+}

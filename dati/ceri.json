@@ -1,0 +1,72 @@
+{
+ "nome": "Ceri",
+ "slug": "ceri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Ceri S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02035970975 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Carmignano, PO [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 055 0981593 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutaceri.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://tenutaceri.it/|tenutaceri.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela dei Vini di Carmignano [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Carmignano DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://tenutaceri.it/",
+   "etichetta": "tenutaceri.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio di Tutela dei Vini di Carmignano, scheda dell’azienda consultata il 30 ottobre 2026.",
+   "url": "https://www.consorziovinicarmignano.it/",
+   "etichetta": "consorziovinicarmignano.it"
+  }
+ ]
+}

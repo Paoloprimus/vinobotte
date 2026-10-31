@@ -1,0 +1,81 @@
+{
+ "nome": "Cooperativa Cantina Colli Fiorentini Valvirginio",
+ "slug": "colli-fiorentini-valvirginio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cooperativa Cantina Colli Fiorentini Valvirginio [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00890170483 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "50025 Montespertoli, FI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0571 659127 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@collifiorentini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://collifiorentini.it/|collifiorentini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti DOCG, Chianti Classico DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Cantina-Sociale-Colli-Fiorentini-276773299357675/|facebook.com/Cantina-Sociale-Colli-Fiorentini-276773299357675}}\nInstagram {{https://www.instagram.com/cantinasocialecollifiorentini/|instagram.com/cantinasocialecollifiorentini}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://collifiorentini.it/",
+   "etichetta": "collifiorentini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/cantina-sociale-colli-fiorentini-s-a-c/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

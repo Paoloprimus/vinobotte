@@ -1,0 +1,81 @@
+{
+ "nome": "Azienda Agricola Marini Giuseppe",
+ "slug": "marini-giuseppe",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Marini Giuseppe [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01876600477 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Bartolomeo Sestini 274, 51100 Pistoia, PT [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0573 451162 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@marinifarm.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.marinifarm.it/|marinifarm.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti DOCG, Vin Santo del Chianti DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/marinifarmpistoia|facebook.com/marinifarmpistoia}}\nInstagram {{https://www.instagram.com/marinifarmpistoia/|instagram.com/marinifarmpistoia}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.marinifarm.it/",
+   "etichetta": "marinifarm.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/azienda-agricola-marini-giuseppe/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

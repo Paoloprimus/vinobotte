@@ -1,0 +1,55 @@
+{
+ "nome": "Fattoria Altomena",
+ "slug": "fattoria-altomena",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Fattoria Altomena S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "50060 Pelago, FI [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@altomena.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://altomena.it/|altomena.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "http://altomena.it/",
+   "etichetta": "altomena.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/fattoria-altomena-s-r-l/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

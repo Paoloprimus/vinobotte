@@ -1,0 +1,67 @@
+{
+ "nome": "Fattoria Le Pupille",
+ "slug": "fattoria-le-pupille",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01101240537 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Piagge del Maiano 92/A, 58100 Grosseto, GR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0564 409517 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fattorialepupille.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://fattorialepupille.it/|fattorialepupille.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Morellino di Scansano DOCG, Morellino di Scansano Riserva DOCG, Maremma Toscana DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/fattorialepupille/|facebook.com/fattorialepupille}}\nInstagram {{https://www.instagram.com/fattorialepupille__official/|instagram.com/fattorialepupille__official}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://fattorialepupille.it/",
+   "etichetta": "fattorialepupille.it"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "nome": "Fattoria di Casalbosco",
+ "slug": "fattoria-di-casalbosco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Fattoria di Casalbosco S.r.l. – Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01358450474 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Montalese 117, Santomato, 51100 Pistoia, PT [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "amministrazione@fattoriacasalbosco.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fattoriacasalbosco.it/|fattoriacasalbosco.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti Superiore DOCG, Chianti Riserva DOCG, Vin Santo DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/fattoriacasalbosco/|instagram.com/fattoriacasalbosco}}\nFacebook {{https://www.facebook.com/fattoriacasalbosco|facebook.com/fattoriacasalbosco}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.fattoriacasalbosco.it/",
+   "etichetta": "fattoriacasalbosco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/fattoria-di-casalbosco-s-r-l/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

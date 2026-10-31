@@ -1,0 +1,58 @@
+{
+ "nome": "Campinuovi",
+ "slug": "campinuovi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Campinuovi società semplice società agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01658590532 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Provinciale 7, Podere Campinuovi snc, 58044 Cinigiano, GR [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@campinuovi.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://campinuovi.com/|campinuovi.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montecucco Rosso DOC, Montecucco Sangiovese DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://campinuovi.com/",
+   "etichetta": "campinuovi.com"
+  }
+ ]
+}

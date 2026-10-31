@@ -1,0 +1,67 @@
+{
+ "nome": "Arrighi Antonio",
+ "slug": "arrighi-antonio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01392500490 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Porto Azzurro, LI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0565 95604 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@arrighivini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://arrighivigneolivi.it/|arrighivigneolivi.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Aleatico passito dell’Isola d’Elba DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Aziendaagricolaarrighi|facebook.com/Aziendaagricolaarrighi}}\nInstagram {{https://www.instagram.com/aziendaagricolaarrighi/|instagram.com/aziendaagricolaarrighi}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://arrighivigneolivi.it/",
+   "etichetta": "arrighivigneolivi.it"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "nome": "Montefabbrello",
+ "slug": "montefabbrello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Schiopparello 30, 57037 Portoferraio, LI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 338 6183584 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@montefabbrello.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://aziendaagricolamontefabbrello.it/|aziendaagricolamontefabbrello.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Elba DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/agriturismo.montefabbrello|facebook.com/agriturismo.montefabbrello}}\nInstagram {{https://www.instagram.com/montefabbrello/|instagram.com/montefabbrello}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://aziendaagricolamontefabbrello.it/",
+   "etichetta": "aziendaagricolamontefabbrello.it"
+  }
+ ]
+}

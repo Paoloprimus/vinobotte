@@ -1,0 +1,72 @@
+{
+ "nome": "Fattoria Il Palagio",
+ "slug": "fattoria-il-palagio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Fattoria Il Palagio S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00293120523 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Il Palagio, Castel San Gimignano, 53034 Colle di Val d'Elsa, SI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577 953004 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ilpalagio.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ilpalagio.it/|ilpalagio.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti DOCG, Chianti Classico DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.ilpalagio.it/",
+   "etichetta": "ilpalagio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/fattoria-il-palagio/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

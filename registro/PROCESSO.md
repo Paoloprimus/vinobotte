@@ -67,3 +67,4 @@ Il generatore delle schede nasce in `valpolicella-web/annuario` (24/10). Poi il 
 - Siti trovati sbagliati e corretti nella lista: La Tommasina e Via del Ferro (Piemonte), Morandi (Arezzo), Carlini (Rimini), Terre della Luna (Franciacorta), scambio Fattoria La Torre / Fattoria Tori.
 - Restano in `wip/schede-wip.csv` le cantine senza DOC/DOCG indicata sul sito o senza sede, con il motivo nella colonna Stato.
 - Val di Cornia: altre 7 cantine promosse con sede e contatti dalla scheda del consorzio (suveretowine.com): Bulichella, Montepeloso, Macchion dei Lupi, Rigoli, Sasso Orlando, Monte Solaio, Sant'Agnese. Totale promosse dalla lista: 40.
+- Secondo blocco di lettura siti (68): promosse altre 30 cantine (21 Chianti con elenco del Consorzio Vino Chianti, 2 Carmignano, 2 Montecucco, 2 Morellino, 1 Cortona, 1 Elba, e Arrighi all’Elba); totale promosse dalla lista: 70. Restano 179 in `wip/schede-wip.csv`.

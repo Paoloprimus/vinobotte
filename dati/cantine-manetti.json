@@ -1,0 +1,59 @@
+{
+ "nome": "Cantine Manetti",
+ "slug": "cantine-manetti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantine Manetti S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00143760478 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Statale 320, Olmi, 51039 Quarrata, PT [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinemanetti.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinemanetti.it/|cantinemanetti.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.cantinemanetti.it/",
+   "etichetta": "cantinemanetti.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/manetti-paolo-raimondo-s-n-c/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

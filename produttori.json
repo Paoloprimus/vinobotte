@@ -43618,5 +43618,466 @@
 "sant-agnese"
 ],
 "primario": "sant-agnese"
+},
+{
+"slug": "campinuovi",
+"nome": "Campinuovi",
+"regione": "Toscana",
+"comune": "Cinigiano",
+"tipi": {
+"montecucco": [
+"Montecucco",
+"Montecucco Sangiovese"
+]
+},
+"membri": [
+"campinuovi"
+],
+"primario": "campinuovi"
+},
+{
+"slug": "arrighi-antonio",
+"nome": "Arrighi Antonio",
+"regione": "Toscana",
+"comune": "Porto Azzurro",
+"tipi": {
+"elba": [
+"Aleatico dell'Elba"
+]
+},
+"membri": [
+"arrighi-antonio"
+],
+"primario": "arrighi-antonio"
+},
+{
+"slug": "capezzana",
+"nome": "Capezzana",
+"regione": "Toscana",
+"comune": "Carmignano",
+"tipi": {
+"carmignano": [
+"Carmignano"
+]
+},
+"membri": [
+"capezzana"
+],
+"primario": "capezzana"
+},
+{
+"slug": "ceri",
+"nome": "Ceri",
+"regione": "Toscana",
+"comune": "Carmignano",
+"tipi": {
+"carmignano": [
+"Carmignano"
+]
+},
+"membri": [
+"ceri"
+],
+"primario": "ceri"
+},
+{
+"slug": "fattoria-le-pupille",
+"nome": "Fattoria Le Pupille",
+"regione": "Toscana",
+"comune": "Grosseto",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"fattoria-le-pupille"
+],
+"primario": "fattoria-le-pupille"
+},
+{
+"slug": "la-banditaccia",
+"nome": "La Banditaccia",
+"regione": "Toscana",
+"comune": "Cinigiano",
+"tipi": {
+"montecucco": [
+"Montecucco Sangiovese"
+]
+},
+"membri": [
+"la-banditaccia"
+],
+"primario": "la-banditaccia"
+},
+{
+"slug": "le-rogaie",
+"nome": "Le Rogaie",
+"regione": "Toscana",
+"comune": "Magliano in Toscana",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+]
+},
+"membri": [
+"le-rogaie"
+],
+"primario": "le-rogaie"
+},
+{
+"slug": "montefabbrello",
+"nome": "Montefabbrello",
+"regione": "Toscana",
+"comune": "Portoferraio",
+"tipi": {
+"elba": [
+"Elba"
+]
+},
+"membri": [
+"montefabbrello"
+],
+"primario": "montefabbrello"
+},
+{
+"slug": "poggio-sorbello",
+"nome": "Poggio Sorbello",
+"regione": "Toscana",
+"comune": "Cortona",
+"tipi": {
+"cortona": [
+"Cortona"
+]
+},
+"membri": [
+"poggio-sorbello"
+],
+"primario": "poggio-sorbello"
+},
+{
+"slug": "balbi-fattoria-il-capitano",
+"nome": "Azienda Agricola Balbi - Fattoria Il Capitano",
+"regione": "Toscana",
+"comune": "Pontassieve",
+"tipi": {
+"chianti": [
+"Chianti Rufina",
+"Vin Santo del Chianti Rufina"
+]
+},
+"membri": [
+"balbi-fattoria-il-capitano"
+],
+"primario": "balbi-fattoria-il-capitano"
+},
+{
+"slug": "corbinelli",
+"nome": "Azienda Agricola Corbinelli",
+"regione": "Toscana",
+"comune": "Certaldo",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"corbinelli"
+],
+"primario": "corbinelli"
+},
+{
+"slug": "marini-giuseppe",
+"nome": "Azienda Agricola Marini Giuseppe",
+"regione": "Toscana",
+"comune": "Pistoia",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"marini-giuseppe"
+],
+"primario": "marini-giuseppe"
+},
+{
+"slug": "parentini",
+"nome": "Azienda Agricola Parentini di Parentini Riccardo",
+"regione": "Toscana",
+"comune": "Empoli",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"parentini"
+],
+"primario": "parentini"
+},
+{
+"slug": "podere-alberese",
+"nome": "Podere Alberese",
+"regione": "Toscana",
+"comune": "Asciano",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"podere-alberese"
+],
+"primario": "podere-alberese"
+},
+{
+"slug": "castelvecchio-san-casciano",
+"nome": "Castelvecchio",
+"regione": "Toscana",
+"comune": "San Casciano in Val di Pesa",
+"tipi": {
+"chianti": [
+"Chianti",
+"Chianti Colli Fiorentini",
+"Vin Santo del Chianti"
+]
+},
+"membri": [
+"castelvecchio-san-casciano"
+],
+"primario": "castelvecchio-san-casciano"
+},
+{
+"slug": "fattoria-altomena",
+"nome": "Fattoria Altomena",
+"regione": "Toscana",
+"comune": "Pelago",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"fattoria-altomena"
+],
+"primario": "fattoria-altomena"
+},
+{
+"slug": "fattoria-di-casalbosco",
+"nome": "Fattoria di Casalbosco",
+"regione": "Toscana",
+"comune": "Pistoia",
+"tipi": {
+"chianti": [
+"Chianti",
+"Chianti Superiore"
+]
+},
+"membri": [
+"fattoria-di-casalbosco"
+],
+"primario": "fattoria-di-casalbosco"
+},
+{
+"slug": "castel-pietraio",
+"nome": "Fattoria di Castel Pietraio",
+"regione": "Toscana",
+"comune": "Monteriggioni",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"castel-pietraio"
+],
+"primario": "castel-pietraio"
+},
+{
+"slug": "poggiopiano",
+"nome": "Fattoria di Poggiopiano",
+"regione": "Toscana",
+"comune": "Fiesole",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"poggiopiano"
+],
+"primario": "poggiopiano"
+},
+{
+"slug": "fattoria-il-muro",
+"nome": "Fattoria Il Muro",
+"regione": "Toscana",
+"comune": "Arezzo",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"fattoria-il-muro"
+],
+"primario": "fattoria-il-muro"
+},
+{
+"slug": "fattoria-il-palagio",
+"nome": "Fattoria Il Palagio",
+"regione": "Toscana",
+"comune": "Colle di Val d'Elsa",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"fattoria-il-palagio"
+],
+"primario": "fattoria-il-palagio"
+},
+{
+"slug": "il-poderaccio",
+"nome": "Fattoria Il Poderaccio",
+"regione": "Toscana",
+"comune": "Siena",
+"tipi": {
+"chianti": [
+"Chianti"
+],
+"colli-senesi": [
+"Chianti Colli Senesi"
+]
+},
+"membri": [
+"il-poderaccio"
+],
+"primario": "il-poderaccio"
+},
+{
+"slug": "gratena",
+"nome": "Gratena",
+"regione": "Toscana",
+"comune": "Arezzo",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"gratena"
+],
+"primario": "gratena"
+},
+{
+"slug": "la-querce",
+"nome": "La Querce",
+"regione": "Toscana",
+"comune": "Impruneta",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"la-querce"
+],
+"primario": "la-querce"
+},
+{
+"slug": "la-torre-arezzo",
+"nome": "La Torre",
+"regione": "Toscana",
+"comune": "Arezzo",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"la-torre-arezzo"
+],
+"primario": "la-torre-arezzo"
+},
+{
+"slug": "cantine-manetti",
+"nome": "Cantine Manetti",
+"regione": "Toscana",
+"comune": "Quarrata",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"cantine-manetti"
+],
+"primario": "cantine-manetti"
+},
+{
+"slug": "palumbo-angelo",
+"nome": "Palumbo Angelo",
+"regione": "Toscana",
+"comune": "Cerreto Guidi",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"palumbo-angelo"
+],
+"primario": "palumbo-angelo"
+},
+{
+"slug": "poggio-al-chiuso",
+"nome": "Poggio al Chiuso",
+"regione": "Toscana",
+"comune": "Barberino Tavarnelle",
+"tipi": {
+"chianti": [
+"Chianti Colli Fiorentini"
+]
+},
+"membri": [
+"poggio-al-chiuso"
+],
+"primario": "poggio-al-chiuso"
+},
+{
+"slug": "colli-fiorentini-valvirginio",
+"nome": "Cooperativa Cantina Colli Fiorentini Valvirginio",
+"regione": "Toscana",
+"comune": "Montespertoli",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"colli-fiorentini-valvirginio"
+],
+"primario": "colli-fiorentini-valvirginio"
+},
+{
+"slug": "vini-tipici-aretino",
+"nome": "Cooperativa Cantina Vini Tipici dell’Aretino",
+"regione": "Toscana",
+"comune": "Arezzo",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"vini-tipici-aretino"
+],
+"primario": "vini-tipici-aretino"
 }
 ]

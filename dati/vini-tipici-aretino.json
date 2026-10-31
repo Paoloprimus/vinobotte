@@ -1,0 +1,73 @@
+{
+ "nome": "Cooperativa Cantina Vini Tipici dell’Aretino",
+ "slug": "vini-tipici-aretino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00101320513 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Chiani 57/F, 52100 Arezzo, AR [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinitipiciar.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://vinitipiciar.it/|vinitipiciar.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti DOCG, Valdichiana Toscana DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/CantinaViniTipiciAretino|facebook.com/CantinaViniTipiciAretino}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://vinitipiciar.it/",
+   "etichetta": "vinitipiciar.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/cantina-dei-vini-tipici-dellaretino-sca/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

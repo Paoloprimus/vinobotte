@@ -1005,5 +1005,762 @@
   "regione": "Toscana",
   "url_consorzio": "https://www.suveretowine.com/cantina-suvereto/santagnese/",
   "dati_consorzio": true
+ },
+ {
+  "wip": "Campinuovi",
+  "slug": "campinuovi",
+  "nome": "Campinuovi",
+  "comune": "Cinigiano",
+  "sede": "Strada Provinciale 7, Podere Campinuovi snc, 58044 Cinigiano, GR",
+  "rag": "Campinuovi società semplice società agricola",
+  "piva": "01658590532",
+  "tel": "",
+  "email": "info@campinuovi.com",
+  "sito": "https://campinuovi.com/",
+  "dom": "campinuovi.com",
+  "social": {},
+  "den": "Montecucco Rosso DOC, Montecucco Sangiovese DOCG",
+  "tipi": {
+   "montecucco": [
+    "Montecucco",
+    "Montecucco Sangiovese"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Arrighi Antonio",
+  "slug": "arrighi-antonio",
+  "nome": "Arrighi Antonio",
+  "comune": "Porto Azzurro",
+  "sede": "Porto Azzurro, LI",
+  "rag": "",
+  "piva": "01392500490",
+  "tel": "+39 0565 95604",
+  "email": "info@arrighivini.it",
+  "sito": "https://arrighivigneolivi.it/",
+  "dom": "arrighivigneolivi.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/Aziendaagricolaarrighi",
+   "Instagram": "https://www.instagram.com/aziendaagricolaarrighi/"
+  },
+  "den": "Aleatico passito dell’Isola d’Elba DOCG",
+  "tipi": {
+   "elba": [
+    "Aleatico dell'Elba"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Capezzana",
+  "slug": "capezzana",
+  "nome": "Capezzana",
+  "comune": "Carmignano",
+  "sede": "Carmignano, PO",
+  "rag": "Tenuta di Capezzana S.r.l.",
+  "piva": "01700950973",
+  "tel": "",
+  "email": "capezzana@capezzana.it",
+  "sito": "https://capezzana.it/",
+  "dom": "capezzana.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/tenutadicapezzana/",
+   "Instagram": "https://www.instagram.com/tenutadicapezzana/"
+  },
+  "den": "",
+  "tipi": {
+   "carmignano": [
+    "Carmignano"
+   ]
+  },
+  "consorzio": "carmignano",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinicarmignano.it/"
+ },
+ {
+  "wip": "Ceri",
+  "slug": "ceri",
+  "nome": "Ceri",
+  "comune": "Carmignano",
+  "sede": "Carmignano, PO",
+  "rag": "Società Agricola Ceri S.r.l.",
+  "piva": "02035970975",
+  "tel": "+39 055 0981593",
+  "email": "info@tenutaceri.it",
+  "sito": "https://tenutaceri.it/",
+  "dom": "tenutaceri.it",
+  "social": {},
+  "den": "Carmignano DOCG",
+  "tipi": {
+   "carmignano": [
+    "Carmignano"
+   ]
+  },
+  "consorzio": "carmignano",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinicarmignano.it/"
+ },
+ {
+  "wip": "Fattoria Le Pupille",
+  "slug": "fattoria-le-pupille",
+  "nome": "Fattoria Le Pupille",
+  "comune": "Grosseto",
+  "sede": "Piagge del Maiano 92/A, 58100 Grosseto, GR",
+  "rag": "",
+  "piva": "01101240537",
+  "tel": "+39 0564 409517",
+  "email": "info@fattorialepupille.it",
+  "sito": "https://fattorialepupille.it/",
+  "dom": "fattorialepupille.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/fattorialepupille/",
+   "Instagram": "https://www.instagram.com/fattorialepupille__official/"
+  },
+  "den": "Morellino di Scansano DOCG, Morellino di Scansano Riserva DOCG, Maremma Toscana DOC",
+  "tipi": {
+   "morellino": [
+    "Morellino di Scansano"
+   ],
+   "maremma": [
+    "Maremma Toscana"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "La Banditaccia",
+  "slug": "la-banditaccia",
+  "nome": "La Banditaccia",
+  "comune": "Cinigiano",
+  "sede": "Monticello Amiata, 58044 Cinigiano, GR",
+  "rag": "",
+  "piva": "01604070530",
+  "tel": "",
+  "email": "info@labanditaccia.com",
+  "sito": "https://labanditaccia.com/",
+  "dom": "labanditaccia.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/labanditacciafarm"
+  },
+  "den": "Montecucco Sangiovese DOCG",
+  "tipi": {
+   "montecucco": [
+    "Montecucco Sangiovese"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Le Rogaie",
+  "slug": "le-rogaie",
+  "nome": "Le Rogaie",
+  "comune": "Magliano in Toscana",
+  "sede": "Zona Banditaccia 17, 58051 Magliano in Toscana, GR",
+  "rag": "Agricola Le Rogaie di Pietro Poggi & C. s.n.c.",
+  "piva": "",
+  "tel": "+39 329 9438368",
+  "email": "info@lerogaie.com",
+  "sito": "https://lerogaie.com/",
+  "dom": "lerogaie.com",
+  "social": {
+   "Instagram": "https://www.instagram.com/lerogaie_vinoeoliodimaremma/"
+  },
+  "den": "Morellino di Scansano DOCG",
+  "tipi": {
+   "morellino": [
+    "Morellino di Scansano"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Montefabbrello",
+  "slug": "montefabbrello",
+  "nome": "Montefabbrello",
+  "comune": "Portoferraio",
+  "sede": "Località Schiopparello 30, 57037 Portoferraio, LI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 338 6183584",
+  "email": "info@montefabbrello.it",
+  "sito": "https://aziendaagricolamontefabbrello.it/",
+  "dom": "aziendaagricolamontefabbrello.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/agriturismo.montefabbrello",
+   "Instagram": "https://www.instagram.com/montefabbrello/"
+  },
+  "den": "Elba DOC",
+  "tipi": {
+   "elba": [
+    "Elba"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Poggio Sorbello",
+  "slug": "poggio-sorbello",
+  "nome": "Poggio Sorbello",
+  "comune": "Cortona",
+  "sede": "Cortona, AR",
+  "rag": "Poggio Sorbello S.S. di Baldetti Felice e C. Società Agricola",
+  "piva": "02032140515",
+  "tel": "+39 339 5447059",
+  "email": "info@poggiosorbello.it",
+  "sito": "https://poggiosorbello.it/",
+  "dom": "poggiosorbello.it",
+  "social": {
+   "Instagram": "https://www.instagram.com/poggiosorbello/",
+   "Facebook": "https://www.facebook.com/PoggioSorbello/"
+  },
+  "den": "Cortona DOC",
+  "tipi": {
+   "cortona": [
+    "Cortona"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Azienda Agricola Balbi - Fattoria Il Capitano S.r.l.",
+  "slug": "balbi-fattoria-il-capitano",
+  "nome": "Azienda Agricola Balbi - Fattoria Il Capitano",
+  "comune": "Pontassieve",
+  "sede": "50065 Pontassieve, FI",
+  "rag": "Azienda Agricola Balbi – Fattoria Il Capitano S.r.l.",
+  "piva": "02208310108",
+  "tel": "",
+  "email": "fattoriabalbi@gmail.com",
+  "sito": "https://www.fattoriailcapitano.com/",
+  "dom": "fattoriailcapitano.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/FattoriaIlCapitano/"
+  },
+  "den": "Chianti Rufina DOCG Riserva, Vin Santo del Chianti Rufina DOC",
+  "tipi": {
+   "chianti": [
+    "Chianti Rufina",
+    "Vin Santo del Chianti Rufina"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/azienda-agricola-balbi-fattoria-il-capitano-s-r-l/"
+ },
+ {
+  "wip": "Azienda Agricola Corbinelli di Corbinelli Claudio",
+  "slug": "corbinelli",
+  "nome": "Azienda Agricola Corbinelli",
+  "comune": "Certaldo",
+  "sede": "Via La Selva-Pino 488, 50052 Certaldo, FI",
+  "rag": "",
+  "piva": "02262270487",
+  "tel": "",
+  "email": "",
+  "sito": "https://www.corbinelli.it/",
+  "dom": "corbinelli.it",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/azienda-agricola-corbinelli-di-corbinelli-claudio/"
+ },
+ {
+  "wip": "Azienda Agricola Marini Giuseppe",
+  "slug": "marini-giuseppe",
+  "nome": "Azienda Agricola Marini Giuseppe",
+  "comune": "Pistoia",
+  "sede": "Via Bartolomeo Sestini 274, 51100 Pistoia, PT",
+  "rag": "Società Agricola Marini Giuseppe",
+  "piva": "01876600477",
+  "tel": "+39 0573 451162",
+  "email": "info@marinifarm.it",
+  "sito": "https://www.marinifarm.it/",
+  "dom": "marinifarm.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/marinifarmpistoia",
+   "Instagram": "https://www.instagram.com/marinifarmpistoia/"
+  },
+  "den": "Chianti DOCG, Vin Santo del Chianti DOC",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/azienda-agricola-marini-giuseppe/"
+ },
+ {
+  "wip": "Azienda Agricola Parentini di Parentini Riccardo",
+  "slug": "parentini",
+  "nome": "Azienda Agricola Parentini di Parentini Riccardo",
+  "comune": "Empoli",
+  "sede": "Via Sottopoggio per San Donato 56, 50053 Empoli, FI",
+  "rag": "",
+  "piva": "05120460489",
+  "tel": "",
+  "email": "",
+  "sito": "https://tenutaparentini.it/",
+  "dom": "tenutaparentini.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/people/Tenuta-Parentini/100063595509045/",
+   "Instagram": "https://www.instagram.com/tenutaparentini/"
+  },
+  "den": "Chianti DOCG, Vin Santo DOC",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/azienda-agricola-parentini-di-parentini-riccardo/"
+ },
+ {
+  "wip": "Azienda Agricola Podere Alberese di Casati Giovanni",
+  "slug": "podere-alberese",
+  "nome": "Podere Alberese",
+  "comune": "Asciano",
+  "sede": "Località Casabianca, 53041 Asciano, SI",
+  "rag": "",
+  "piva": "01270660523",
+  "tel": "+39 353 4536639",
+  "email": "info@poderealberese.it",
+  "sito": "http://www.poderealberese.it/",
+  "dom": "poderealberese.it",
+  "social": {
+   "Instagram": "http://www.instagram.com/poderealberese"
+  },
+  "den": "Chianti DOCG, Chianti Riserva DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/azienda-agricola-podere-alberese-di-casati-giovanni/"
+ },
+ {
+  "wip": "Castelvecchio fattoria/azienda agricola di Filippo Rocchi",
+  "slug": "castelvecchio-san-casciano",
+  "nome": "Castelvecchio",
+  "comune": "San Casciano in Val di Pesa",
+  "sede": "Via Certaldese 30, 50026 San Casciano in Val di Pesa, FI",
+  "rag": "Castelvecchio di Filippo Rocchi",
+  "piva": "02216170486",
+  "tel": "+39 055 8248032",
+  "email": "info@castelvecchio.it",
+  "sito": "https://www.castelvecchio.it/",
+  "dom": "castelvecchio.it",
+  "social": {
+   "Facebook": "http://www.facebook.com/fattoriacastelvecchio",
+   "Instagram": "https://www.instagram.com/castelvecchiofituscany/"
+  },
+  "den": "Chianti DOCG, Chianti Colli Fiorentini DOCG, Vin Santo del Chianti DOC",
+  "tipi": {
+   "chianti": [
+    "Chianti",
+    "Chianti Colli Fiorentini",
+    "Vin Santo del Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/castelvecchio-fattoria-azienda-agricola-di-filippo-rocchi/"
+ },
+ {
+  "wip": "Fattoria Altomena s.r.l.",
+  "slug": "fattoria-altomena",
+  "nome": "Fattoria Altomena",
+  "comune": "Pelago",
+  "sede": "50060 Pelago, FI",
+  "rag": "Fattoria Altomena S.r.l.",
+  "piva": "",
+  "tel": "",
+  "email": "info@altomena.it",
+  "sito": "http://altomena.it/",
+  "dom": "altomena.it",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/fattoria-altomena-s-r-l/"
+ },
+ {
+  "wip": "Fattoria di Casalbosco s.r.l.",
+  "slug": "fattoria-di-casalbosco",
+  "nome": "Fattoria di Casalbosco",
+  "comune": "Pistoia",
+  "sede": "Via Montalese 117, Santomato, 51100 Pistoia, PT",
+  "rag": "Fattoria di Casalbosco S.r.l. – Società Agricola",
+  "piva": "01358450474",
+  "tel": "",
+  "email": "amministrazione@fattoriacasalbosco.it",
+  "sito": "https://www.fattoriacasalbosco.it/",
+  "dom": "fattoriacasalbosco.it",
+  "social": {
+   "Instagram": "https://www.instagram.com/fattoriacasalbosco/",
+   "Facebook": "https://www.facebook.com/fattoriacasalbosco"
+  },
+  "den": "Chianti Superiore DOCG, Chianti Riserva DOCG, Vin Santo DOC",
+  "tipi": {
+   "chianti": [
+    "Chianti",
+    "Chianti Superiore"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/fattoria-di-casalbosco-s-r-l/"
+ },
+ {
+  "wip": "Fattoria di Castel Pietraio di Mauro Neri Del Nero",
+  "slug": "castel-pietraio",
+  "nome": "Fattoria di Castel Pietraio",
+  "comune": "Monteriggioni",
+  "sede": "Strada di Strove 33, 53035 Monteriggioni, SI",
+  "rag": "",
+  "piva": "02528120377",
+  "tel": "+39 0577 300020",
+  "email": "info@castelpietraio.it",
+  "sito": "http://www.castelpietraio.it/",
+  "dom": "castelpietraio.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/castelpietraiowineresort/",
+   "Instagram": "https://www.instagram.com/castelpietraio/"
+  },
+  "den": "",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/fattoria-di-castel-pietraio-di-mauro-neri-del-nero/"
+ },
+ {
+  "wip": "Fattoria di Poggiopiano di M. Galardi",
+  "slug": "poggiopiano",
+  "nome": "Fattoria di Poggiopiano",
+  "comune": "Fiesole",
+  "sede": "Via dei Bassi 13, Località Girone, 50014 Fiesole, FI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 055 6593020",
+  "email": "info@poggiopiano.it",
+  "sito": "https://www.poggiopiano.it/",
+  "dom": "poggiopiano.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/FattoriadiPoggiopiano",
+   "Instagram": "https://www.instagram.com/fattoria.di.poggiopiano/"
+  },
+  "den": "Chianti Superiore DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/fattoria-di-poggiopiano-di-m-galardi/"
+ },
+ {
+  "wip": "Fattoria Il muro della Famiglia Pancaro s.s. soc.agr.",
+  "slug": "fattoria-il-muro",
+  "nome": "Fattoria Il Muro",
+  "comune": "Arezzo",
+  "sede": "Via delle Conserve 51, 52100 Arezzo, AR",
+  "rag": "",
+  "piva": "02085160519",
+  "tel": "",
+  "email": "info@fattoriailmuro.it",
+  "sito": "http://www.fattoriailmuro.it/",
+  "dom": "fattoriailmuro.it",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/fattoria-il-muro-della-famiglia-pancaro-s-s-soc-agr/"
+ },
+ {
+  "wip": "Fattoria Il Palagio",
+  "slug": "fattoria-il-palagio",
+  "nome": "Fattoria Il Palagio",
+  "comune": "Colle di Val d'Elsa",
+  "sede": "Località Il Palagio, Castel San Gimignano, 53034 Colle di Val d'Elsa, SI",
+  "rag": "Fattoria Il Palagio S.r.l.",
+  "piva": "00293120523",
+  "tel": "+39 0577 953004",
+  "email": "info@ilpalagio.it",
+  "sito": "https://www.ilpalagio.it/",
+  "dom": "ilpalagio.it",
+  "social": {},
+  "den": "Chianti DOCG, Chianti Classico DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/fattoria-il-palagio/"
+ },
+ {
+  "wip": "Fattoria Il Poderaccio di Lisa Ravà",
+  "slug": "il-poderaccio",
+  "nome": "Fattoria Il Poderaccio",
+  "comune": "Siena",
+  "sede": "53100 Siena, SI",
+  "rag": "",
+  "piva": "00711770529",
+  "tel": "",
+  "email": "info@poderaccio.com",
+  "sito": "https://www.poderaccio.com/",
+  "dom": "poderaccio.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/fattoriailpoderacciosiena/"
+  },
+  "den": "Chianti Riserva DOCG, Chianti Colli Senesi DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ],
+   "colli-senesi": [
+    "Chianti Colli Senesi"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/fattoria-il-poderaccio-di-lisa-rava/"
+ },
+ {
+  "wip": "Gratena Società Agricola s.r.l.",
+  "slug": "gratena",
+  "nome": "Gratena",
+  "comune": "Arezzo",
+  "sede": "Località Gratena, 52100 Arezzo, AR",
+  "rag": "Gratena Società Agricola S.r.l.",
+  "piva": "01207220169",
+  "tel": "",
+  "email": "info@gratena.bio",
+  "sito": "http://www.gratena.com/",
+  "dom": "gratena.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/gratena.it/",
+   "Instagram": "https://www.instagram.com/gratenanero1/"
+  },
+  "den": "Chianti DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/gratena-societa-agricola-s-r-l/"
+ },
+ {
+  "wip": "La Querce di Massimo Marchi e C. S.a.s.",
+  "slug": "la-querce",
+  "nome": "La Querce",
+  "comune": "Impruneta",
+  "sede": "Via Imprunetana per Tavarnuzze 41, 50023 Impruneta, FI",
+  "rag": "La Querce di Massimo Marchi e C. S.a.s.",
+  "piva": "03109710487",
+  "tel": "+39 328 2423844",
+  "email": "info@laquerce.com",
+  "sito": "https://www.laquerce.com/",
+  "dom": "laquerce.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/La-Querce-40597978925/",
+   "Instagram": "https://www.instagram.com/laquerce/"
+  },
+  "den": "",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/la-querce-di-massimo-marchi-e-c-s-a-s-2/"
+ },
+ {
+  "wip": "La Torre srl società agricola",
+  "slug": "la-torre-arezzo",
+  "nome": "La Torre",
+  "comune": "Arezzo",
+  "sede": "Località Chiassa Superiore, 52100 Arezzo, AR",
+  "rag": "La Torre S.r.l. Società Agricola",
+  "piva": "00885370510",
+  "tel": "",
+  "email": "info@relaislatorre.it",
+  "sito": "https://relaislatorre.it/",
+  "dom": "relaislatorre.it",
+  "social": {},
+  "den": "Chianti DOCG, Vin Santo DOC",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/la-torre-srl-societa-agricola/"
+ },
+ {
+  "wip": "Manetti Paolo & Raimondo s.n.c.",
+  "slug": "cantine-manetti",
+  "nome": "Cantine Manetti",
+  "comune": "Quarrata",
+  "sede": "Via Statale 320, Olmi, 51039 Quarrata, PT",
+  "rag": "Cantine Manetti S.r.l.",
+  "piva": "00143760478",
+  "tel": "",
+  "email": "info@cantinemanetti.it",
+  "sito": "https://www.cantinemanetti.it/",
+  "dom": "cantinemanetti.it",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/manetti-paolo-raimondo-s-n-c/"
+ },
+ {
+  "wip": "Palumbo Angelo",
+  "slug": "palumbo-angelo",
+  "nome": "Palumbo Angelo",
+  "comune": "Cerreto Guidi",
+  "sede": "Via Perticato 2, 50050 Cerreto Guidi, FI",
+  "rag": "Angelo Palumbo",
+  "piva": "04376960482",
+  "tel": "",
+  "email": "info@vinicolapalumbo.it",
+  "sito": "https://www.vinicolapalumbo.it/",
+  "dom": "vinicolapalumbo.it",
+  "social": {},
+  "den": "",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/palumbo-angelo/"
+ },
+ {
+  "wip": "Poggio al Chiuso s.s.a.",
+  "slug": "poggio-al-chiuso",
+  "nome": "Poggio al Chiuso",
+  "comune": "Barberino Tavarnelle",
+  "sede": "50028 Barberino Tavarnelle, FI",
+  "rag": "Azienda Agricola Poggio al Chiuso S.S.A. di Corti Matteo e Corti Marco",
+  "piva": "06319080484",
+  "tel": "+39 340 3968345",
+  "email": "info@poggioalchiuso.com",
+  "sito": "https://www.poggioalchiuso.com/",
+  "dom": "poggioalchiuso.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/poggioalchiuso/"
+  },
+  "den": "Chianti Colli Fiorentini DOCG, Chianti Colli Fiorentini Riserva DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti Colli Fiorentini"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/poggio-al-chiuso-s-s-a/"
+ },
+ {
+  "wip": "Cooperativa Cantina Colli Fiorentini Valvirginio",
+  "slug": "colli-fiorentini-valvirginio",
+  "nome": "Cooperativa Cantina Colli Fiorentini Valvirginio",
+  "comune": "Montespertoli",
+  "sede": "50025 Montespertoli, FI",
+  "rag": "Cooperativa Cantina Colli Fiorentini Valvirginio",
+  "piva": "00890170483",
+  "tel": "+39 0571 659127",
+  "email": "info@collifiorentini.it",
+  "sito": "https://collifiorentini.it/",
+  "dom": "collifiorentini.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/Cantina-Sociale-Colli-Fiorentini-276773299357675/",
+   "Instagram": "https://www.instagram.com/cantinasocialecollifiorentini/"
+  },
+  "den": "Chianti DOCG, Chianti Classico DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/cantina-sociale-colli-fiorentini-s-a-c/"
+ },
+ {
+  "wip": "Cooperativa Cantina Vini Tipici dell’Aretino",
+  "slug": "vini-tipici-aretino",
+  "nome": "Cooperativa Cantina Vini Tipici dell’Aretino",
+  "comune": "Arezzo",
+  "sede": "Località Chiani 57/F, 52100 Arezzo, AR",
+  "rag": "",
+  "piva": "00101320513",
+  "tel": "",
+  "email": "info@vinitipiciar.it",
+  "sito": "https://vinitipiciar.it/",
+  "dom": "vinitipiciar.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/CantinaViniTipiciAretino"
+  },
+  "den": "Chianti DOCG, Valdichiana Toscana DOC",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/cantina-dei-vini-tipici-dellaretino-sca/"
  }
 ]

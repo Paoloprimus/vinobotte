@@ -1,0 +1,71 @@
+{
+ "nome": "Poggio Sorbello",
+ "slug": "poggio-sorbello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Poggio Sorbello S.S. di Baldetti Felice e C. Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02032140515 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Cortona, AR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 339 5447059 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poggiosorbello.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://poggiosorbello.it/|poggiosorbello.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Cortona DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/poggiosorbello/|instagram.com/poggiosorbello}}\nFacebook {{https://www.facebook.com/PoggioSorbello/|facebook.com/PoggioSorbello}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://poggiosorbello.it/",
+   "etichetta": "poggiosorbello.it"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "nome": "Castelvecchio",
+ "slug": "castelvecchio-san-casciano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Castelvecchio di Filippo Rocchi [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02216170486 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Certaldese 30, 50026 San Casciano in Val di Pesa, FI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 055 8248032 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@castelvecchio.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.castelvecchio.it/|castelvecchio.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti DOCG, Chianti Colli Fiorentini DOCG, Vin Santo del Chianti DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{http://www.facebook.com/fattoriacastelvecchio|facebook.com/fattoriacastelvecchio}}\nInstagram {{https://www.instagram.com/castelvecchiofituscany/|instagram.com/castelvecchiofituscany}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.castelvecchio.it/",
+   "etichetta": "castelvecchio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/castelvecchio-fattoria-azienda-agricola-di-filippo-rocchi/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "nome": "Fattoria Il Muro",
+ "slug": "fattoria-il-muro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02085160519 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via delle Conserve 51, 52100 Arezzo, AR [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fattoriailmuro.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.fattoriailmuro.it/|fattoriailmuro.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "http://www.fattoriailmuro.it/",
+   "etichetta": "fattoriailmuro.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/fattoria-il-muro-della-famiglia-pancaro-s-s-soc-agr/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

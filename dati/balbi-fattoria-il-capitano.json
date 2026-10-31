@@ -1,0 +1,77 @@
+{
+ "nome": "Azienda Agricola Balbi - Fattoria Il Capitano",
+ "slug": "balbi-fattoria-il-capitano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Balbi – Fattoria Il Capitano S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02208310108 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "50065 Pontassieve, FI [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "fattoriabalbi@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fattoriailcapitano.com/|fattoriailcapitano.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti Rufina DOCG Riserva, Vin Santo del Chianti Rufina DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/FattoriaIlCapitano/|facebook.com/FattoriaIlCapitano}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.fattoriailcapitano.com/",
+   "etichetta": "fattoriailcapitano.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/azienda-agricola-balbi-fattoria-il-capitano-s-r-l/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

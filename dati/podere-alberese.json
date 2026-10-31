@@ -1,0 +1,77 @@
+{
+ "nome": "Podere Alberese",
+ "slug": "podere-alberese",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01270660523 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Casabianca, 53041 Asciano, SI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 353 4536639 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poderealberese.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.poderealberese.it/|poderealberese.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti DOCG, Chianti Riserva DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{http://www.instagram.com/poderealberese|instagram.com/poderealberese}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "http://www.poderealberese.it/",
+   "etichetta": "poderealberese.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 29 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/azienda-agricola-podere-alberese-di-casati-giovanni/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}
