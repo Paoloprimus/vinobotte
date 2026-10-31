@@ -26,8 +26,8 @@
      "valore": "{{http://www.cantinagasparini.it/|cantinagasparini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[2]]\nConsorzio Tutela Lugana DOC [[3]]"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Lugana DOC; Custoza DOC; Pinot Grigio delle Venezie DOC [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Lugana DOC; Custoza DOC; Pinot Grigio delle Venezie DOC [[4]]"
     },
     {
      "etichetta": "Denominazioni Bardolino dichiarate",
@@ -72,7 +72,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=13511550962873843277|Mappa}} — valutazione 4,8 su 5 (26 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=13511550962873843277|Mappa}} — valutazione 4,8 su 5 (26 recensioni) [[5]]"
     }
    ]
   }
@@ -93,12 +93,18 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/gasparini-vitivinicola",
+   "etichetta": "consorziolugana.it"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.cantinagasparini.it/",
    "etichetta": "cantinagasparini.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Vitivinicola Gasparini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=13511550962873843277",
    "etichetta": "maps.google.com"

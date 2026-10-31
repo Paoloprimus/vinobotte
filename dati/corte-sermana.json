@@ -24,6 +24,10 @@
     {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.cortesermana.it|cortesermana.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[3]]"
     }
    ]
   },
@@ -32,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Tre generazioni sul territorio; oggi la conducono i fratelli Nicolò e Filippo. [[3]]"
+     "valore": "Tre generazioni sul territorio; oggi la conducono i fratelli Nicolò e Filippo. [[4]]"
     }
    ]
   },
@@ -81,11 +85,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=12474389403863204978|Mappa}} — valutazione 4,9 su 5 (63 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=12474389403863204978|Mappa}} — valutazione 4,9 su 5 (63 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -106,18 +110,24 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/corte-sermana",
+   "etichetta": "consorziolugana.it"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.cortesermana.it",
    "etichetta": "cortesermana.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Corte Sermana Winery - Lugana DOC - Lago di Garda» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=12474389403863204978",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

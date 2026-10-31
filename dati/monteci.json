@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[3]]\nConsorzio Tutela Vino Bardolino D.O.C. [[4]]"
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[3]]\nConsorzio Tutela Vino Bardolino D.O.C. [[4]]\nConsorzio Tutela Lugana DOC [[5]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -40,57 +40,57 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "“Cent’anni”, quinta generazione [[5]]"
+     "valore": "“Cent’anni”, quinta generazione [[6]]"
     },
     {
      "etichetta": "Vigneti",
-     "valore": "250 ettari vitati: 70 in Valpolicella Classica e 45 in Lugana; vigneti anche a Pescantina (Adige) [[5]] [[6]]"
+     "valore": "250 ettari vitati: 70 in Valpolicella Classica e 45 in Lugana; vigneti anche a Pescantina (Adige) [[6]] [[7]]"
     },
     {
      "etichetta": "Metodo",
-     "valore": "Alcuni vini indicati come biologici sul sito [[7]]"
+     "valore": "Alcuni vini indicati come biologici sul sito [[8]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche Lugana, Bardolino, spumanti e altri vini. Il sito non riporta le annate. [[8]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[4]]",
+   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche Lugana, Bardolino, spumanti e altri vini. Il sito non riporta le annate. [[9]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[4]]",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Costa delle Corone",
      "denominazione": "Amarone Classico della Valpolicella DOCG",
-     "annata": "— [[9]]"
+     "annata": "— [[10]]"
     },
     {
      "nome": "Amarone Classico",
      "denominazione": "Amarone Classico della Valpolicella DOCG",
-     "annata": "— [[10]]"
+     "annata": "— [[11]]"
     },
     {
      "nome": "Monte Reoli",
      "denominazione": "Recioto della Valpolicella Classico DOCG",
-     "annata": "— [[11]]"
+     "annata": "— [[12]]"
     },
     {
      "nome": "Tenazio",
      "denominazione": "Valpolicella Classico Superiore Ripasso DOC",
-     "annata": "— [[12]]"
+     "annata": "— [[13]]"
     },
     {
      "nome": "Ripasso",
      "denominazione": "Valpolicella Classico Superiore Ripasso DOC",
-     "annata": "— [[13]]"
+     "annata": "— [[14]]"
     },
     {
      "nome": "Valpolicella Classico Superiore",
      "denominazione": "Valpolicella Classico Superiore DOC",
-     "annata": "— [[14]]"
+     "annata": "— [[15]]"
     },
     {
      "nome": "Valpolicella Classico",
      "denominazione": "Valpolicella Classico DOC (biologico)",
-     "annata": "— [[7]]"
+     "annata": "— [[8]]"
     },
     {
      "nome": "Pinot Grigio",
@@ -119,7 +119,7 @@
    "righe": [
     {
      "etichetta": "Visite ed eventi",
-     "valore": "Wine tasting & tours, wine shop (lun–sab), cene in vigna, location per cerimonie ed eventi aziendali [[15]] [[16]]"
+     "valore": "Wine tasting & tours, wine shop (lun–sab), cene in vigna, location per cerimonie ed eventi aziendali [[16]] [[17]]"
     }
    ]
   },
@@ -132,7 +132,7 @@
     },
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/monteciwines|monteciwines}}\nInstagram {{https://www.instagram.com/monteciwines/|@monteciwines}} [[17]]"
+     "valore": "Facebook {{https://www.facebook.com/monteciwines|monteciwines}}\nInstagram {{https://www.instagram.com/monteciwines/|@monteciwines}} [[18]]"
     },
     {
      "etichetta": "Negozio online",
@@ -144,11 +144,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=3922559286189353247|Mappa}} — valutazione 4,7 su 5 (235 recensioni) [[18]]"
+     "valore": "{{https://maps.google.com/?cid=3922559286189353247|Mappa}} — valutazione 4,7 su 5 (235 recensioni) [[19]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[19]]"
+     "valore": "Presente come produttore [[20]]"
     }
    ]
   }
@@ -181,94 +181,100 @@
   },
   {
    "n": 5,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/monteci",
+   "etichetta": "consorziolugana.it"
+  },
+  {
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina «it».",
    "url": "https://www.monteci.it/it",
    "etichetta": "monteci.it/it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «it/territorio».",
    "url": "https://www.monteci.it/it/territorio",
    "etichetta": "monteci.it/it/territorio"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella-classico-doc-biologico».",
    "url": "https://www.monteci.it/it/vini/valpolicella-classico-doc-biologico",
    "etichetta": "monteci.it/it/vini/valpolicella-classico-doc-biologico"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina «it/vini».",
    "url": "https://www.monteci.it/it/vini",
    "etichetta": "monteci.it/it/vini"
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Sito ufficiale della cantina, pagina «it/vini/costa-delle-corone-amarone-classico-della-valpolice».",
    "url": "https://www.monteci.it/it/vini/costa-delle-corone-amarone-classico-della-valpolicella",
    "etichetta": "monteci.it/it/vini/costa-delle-corone-amarone-classico-della-valpolicella"
   },
   {
-   "n": 10,
+   "n": 11,
    "testo": "Sito ufficiale della cantina, pagina «it/amarone-classico-della-valpolicella».",
    "url": "https://www.monteci.it/it/amarone-classico-della-valpolicella",
    "etichetta": "monteci.it/it/amarone-classico-della-valpolicella"
   },
   {
-   "n": 11,
+   "n": 12,
    "testo": "Sito ufficiale della cantina, pagina «it/vini/recioto-classico-della-valpolicella-docg».",
    "url": "https://www.monteci.it/it/vini/recioto-classico-della-valpolicella-docg",
    "etichetta": "monteci.it/it/vini/recioto-classico-della-valpolicella-docg"
   },
   {
-   "n": 12,
+   "n": 13,
    "testo": "Sito ufficiale della cantina, pagina «it/vini/tenazio-valpolicella-classico-superiore-ripasso-doc».",
    "url": "https://www.monteci.it/it/vini/tenazio-valpolicella-classico-superiore-ripasso-doc",
    "etichetta": "monteci.it/it/vini/tenazio-valpolicella-classico-superiore-ripasso-doc"
   },
   {
-   "n": 13,
+   "n": 14,
    "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella-classico-superiore».",
    "url": "https://www.monteci.it/it/vini/valpolicella-classico-superiore",
    "etichetta": "monteci.it/it/vini/valpolicella-classico-superiore"
   },
   {
-   "n": 14,
+   "n": 15,
    "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella-classico-superiore-doc».",
    "url": "https://www.monteci.it/it/vini/valpolicella-classico-superiore-doc",
    "etichetta": "monteci.it/it/vini/valpolicella-classico-superiore-doc"
   },
   {
-   "n": 15,
+   "n": 16,
    "testo": "Sito ufficiale della cantina, pagina «it/eventi».",
    "url": "https://www.monteci.it/it/eventi",
    "etichetta": "monteci.it/it/eventi"
   },
   {
-   "n": 16,
+   "n": 17,
    "testo": "Sito ufficiale della cantina, pagina «it/cerimonie-ed-eventi-privati».",
    "url": "https://www.monteci.it/it/cerimonie-ed-eventi-privati",
    "etichetta": "monteci.it/it/cerimonie-ed-eventi-privati"
   },
   {
-   "n": 17,
+   "n": 18,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.monteci.it/",
    "etichetta": "monteci.it"
   },
   {
-   "n": 18,
+   "n": 19,
    "testo": "Scheda «Monteci» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=3922559286189353247",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 19,
+   "n": 20,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 20,
+   "n": 21,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"

@@ -31,7 +31,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vino Bardolino D.O.C. [[4]]"
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vino Bardolino D.O.C. [[4]]\nConsorzio Tutela Lugana DOC [[5]]"
     }
    ]
   },
@@ -84,11 +84,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=8767946889331339728|Mappa}} — valutazione 4,7 su 5 (209 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=8767946889331339728|Mappa}} — valutazione 4,7 su 5 (209 recensioni) [[6]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[7]]"
     }
    ]
   }
@@ -121,16 +121,22 @@
   },
   {
    "n": 5,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/le-morette",
+   "etichetta": "consorziolugana.it"
+  },
+  {
+   "n": 6,
    "testo": "Scheda «Le Morette - Az.Agr. Valerio Zenato» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=8767946889331339728",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"

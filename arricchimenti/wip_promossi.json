@@ -10706,5 +10706,35 @@
    "url": "https://www.falstaff.com/en/wines/poggio-al-garda-2022-lugana-doc",
    "etichetta": "falstaff.com"
   }
+ },
+ {
+  "slug": "cantina-di-sona",
+  "nome": "Cantina di Sona",
+  "regione": "Veneto",
+  "comune": "Sona",
+  "tipi": {
+   "lugana": [
+    "Lugana"
+   ]
+  },
+  "piva": "04364130239",
+  "sede": "Via Verona 6, 37060 Sona (VR)",
+  "tel": "045 4858554",
+  "email": "info@cantinadisona.it",
+  "sito": "https://cantinadisona.it/",
+  "dom": "cantinadisona.it",
+  "den": "Lugana",
+  "wip": "Cantina di Sona",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/cantina-di-sona",
+  "rag": "",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "31 ottobre 2026"
  }
 ]

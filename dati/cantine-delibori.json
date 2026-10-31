@@ -31,7 +31,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]\nConsorzio Tutela Vino Bardolino D.O.C. [[5]]"
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]\nConsorzio Tutela Vino Bardolino D.O.C. [[5]]\nConsorzio Tutela Lugana DOC [[6]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -44,13 +44,13 @@
    "righe": [
     {
      "etichetta": "Gruppo",
-     "valore": "Famiglie Cristoforetti e Delibori, unite da un’intesa di oltre mezzo secolo; il gruppo comprende anche Ristorante Oseleta e Villa Cordevigole [[6]]"
+     "valore": "Famiglie Cristoforetti e Delibori, unite da un’intesa di oltre mezzo secolo; il gruppo comprende anche Ristorante Oseleta e Villa Cordevigole [[7]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Il sito presenta le etichette senza annata corrente; la home del sito elenca anche l’Amarone della Valpolicella; gli altri vini in elenco non sono di denominazione Valpolicella. [[7]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[5]]",
+   "nota": "Il sito presenta le etichette senza annata corrente; la home del sito elenca anche l’Amarone della Valpolicella; gli altri vini in elenco non sono di denominazione Valpolicella. [[8]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[5]]",
    "tipo": "vini",
    "vini": [
     {
@@ -61,37 +61,37 @@
     {
      "nome": "Lugana",
      "denominazione": "Lugana DOC",
-     "annata": "— [[7]]"
+     "annata": "— [[8]]"
     },
     {
      "nome": "Soave Classico",
      "denominazione": "Soave Classico DOC",
-     "annata": "— [[8]]"
+     "annata": "— [[9]]"
     },
     {
      "nome": "Soave",
      "denominazione": "Soave DOC",
-     "annata": "— [[9]]"
+     "annata": "— [[10]]"
     },
     {
      "nome": "Custoza",
      "denominazione": "Custoza DOC",
-     "annata": "— [[10]]"
+     "annata": "— [[11]]"
     },
     {
      "nome": "Chardonnay Garda",
      "denominazione": "Garda DOC",
-     "annata": "— [[11]]"
+     "annata": "— [[12]]"
     },
     {
      "nome": "Pinot Grigio Garda",
      "denominazione": "Garda DOC",
-     "annata": "— [[12]]"
+     "annata": "— [[13]]"
     },
     {
      "nome": "Prosecco Spumante",
      "denominazione": "Prosecco DOC",
-     "annata": "— [[13]]"
+     "annata": "— [[14]]"
     },
     {
      "nome": "Pinot Grigio",
@@ -111,11 +111,11 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Luca Maroni, Berliner Wine Trophy e Asia Wine Trophy\nLugana: oro Berliner Wine Trophy 2025 (annata 2024) [[7]]"
+     "valore": "Luca Maroni, Berliner Wine Trophy e Asia Wine Trophy\nLugana: oro Berliner Wine Trophy 2025 (annata 2024) [[8]]"
     },
     {
      "etichetta": "Punteggi",
-     "valore": "Lugana: 96 punti Luca Maroni (annate 2022 e 2023) [[7]]"
+     "valore": "Lugana: 96 punti Luca Maroni (annate 2022 e 2023) [[8]]"
     }
    ]
   },
@@ -124,11 +124,11 @@
    "righe": [
     {
      "etichetta": "Sito",
-     "valore": "cantinedelibori.com, in italiano, inglese e tedesco, con pagina “Lavora con noi” [[14]]"
+     "valore": "cantinedelibori.com, in italiano, inglese e tedesco, con pagina “Lavora con noi” [[15]]"
     },
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/cantinedelibori|cantinedelibori}} [[15]]"
+     "valore": "Facebook {{https://www.facebook.com/cantinedelibori|cantinedelibori}} [[16]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -136,11 +136,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=2241408123849497753|Mappa}} — valutazione 4,7 su 5 (37 recensioni) [[16]]"
+     "valore": "{{https://maps.google.com/?cid=2241408123849497753|Mappa}} — valutazione 4,7 su 5 (37 recensioni) [[17]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[17]]"
+     "valore": "Presente come produttore [[18]]"
     }
    ]
   }
@@ -179,76 +179,82 @@
   },
   {
    "n": 6,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/delibori",
+   "etichetta": "consorziolugana.it"
+  },
+  {
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «il-gruppo».",
    "url": "https://cantinedelibori.com/il-gruppo/",
    "etichetta": "cantinedelibori.com/il-gruppo"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/lugana».",
    "url": "https://cantinedelibori.com/prodotti/lugana/",
    "etichetta": "cantinedelibori.com/prodotti/lugana"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/soave-classico».",
    "url": "https://cantinedelibori.com/prodotti/soave-classico/",
    "etichetta": "cantinedelibori.com/prodotti/soave-classico"
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/soave».",
    "url": "https://cantinedelibori.com/prodotti/soave/",
    "etichetta": "cantinedelibori.com/prodotti/soave"
   },
   {
-   "n": 10,
+   "n": 11,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/custoza».",
    "url": "https://cantinedelibori.com/prodotti/custoza/",
    "etichetta": "cantinedelibori.com/prodotti/custoza"
   },
   {
-   "n": 11,
+   "n": 12,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/chardonnay-garda».",
    "url": "https://cantinedelibori.com/prodotti/chardonnay-garda/",
    "etichetta": "cantinedelibori.com/prodotti/chardonnay-garda"
   },
   {
-   "n": 12,
+   "n": 13,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/pinot-grigio-garda».",
    "url": "https://cantinedelibori.com/prodotti/pinot-grigio-garda/",
    "etichetta": "cantinedelibori.com/prodotti/pinot-grigio-garda"
   },
   {
-   "n": 13,
+   "n": 14,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/prosecco-spumante».",
    "url": "https://cantinedelibori.com/prodotti/prosecco-spumante/",
    "etichetta": "cantinedelibori.com/prodotti/prosecco-spumante"
   },
   {
-   "n": 14,
+   "n": 15,
    "testo": "Sito ufficiale della cantina, pagina «lavora-con-noi».",
    "url": "https://cantinedelibori.com/lavora-con-noi/",
    "etichetta": "cantinedelibori.com/lavora-con-noi"
   },
   {
-   "n": 15,
+   "n": 16,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.cantinedelibori.com/",
    "etichetta": "cantinedelibori.com"
   },
   {
-   "n": 16,
+   "n": 17,
    "testo": "Scheda «Cantine Delibori» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=2241408123849497753",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 17,
+   "n": 18,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 18,
+   "n": 19,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"

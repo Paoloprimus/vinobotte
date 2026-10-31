@@ -341,6 +341,9 @@
 "bardolino": [
 "Bardolino",
 "Chiaretto di Bardolino"
+],
+"lugana": [
+"Lugana"
 ]
 },
 "membri": [
@@ -512,7 +515,10 @@
 "prosecco": [
 "Prosecco DOC"
 ],
-"valpolicella": []
+"valpolicella": [],
+"lugana": [
+"Lugana"
+]
 },
 "membri": [
 "zonin",
@@ -824,6 +830,9 @@
 ],
 "durello": [
 "Lessini Durello"
+],
+"lugana": [
+"Lugana"
 ]
 },
 "membri": [
@@ -2065,6 +2074,9 @@
 "Bardolino",
 "Bardolino Superiore",
 "Chiaretto di Bardolino"
+],
+"lugana": [
+"Lugana"
 ]
 },
 "membri": [
@@ -3180,6 +3192,9 @@
 ],
 "venezie": [
 "Delle Venezie"
+],
+"lugana": [
+"Lugana"
 ]
 },
 "membri": [
@@ -4309,6 +4324,9 @@
 "bardolino": [
 "Bardolino",
 "Chiaretto di Bardolino"
+],
+"lugana": [
+"Lugana"
 ]
 },
 "membri": [
@@ -6551,6 +6569,9 @@
 "Amarone",
 "Ripasso",
 "Valpolicella"
+],
+"lugana": [
+"Lugana"
 ]
 },
 "membri": [
@@ -12315,6 +12336,9 @@
 "Recioto",
 "Ripasso",
 "Valpolicella"
+],
+"lugana": [
+"Lugana"
 ]
 },
 "membri": [
@@ -13636,6 +13660,9 @@
 ],
 "valpolicella": [
 "Amarone"
+],
+"lugana": [
+"Lugana"
 ]
 },
 "membri": [
@@ -15378,7 +15405,10 @@
 "Bardolino",
 "Chiaretto di Bardolino"
 ],
-"valpolicella": []
+"valpolicella": [],
+"lugana": [
+"Lugana"
+]
 },
 "membri": [
 "le-morette",
@@ -17148,6 +17178,9 @@
 "Bardolino",
 "Bardolino Superiore",
 "Chiaretto di Bardolino"
+],
+"lugana": [
+"Lugana"
 ]
 },
 "membri": [
@@ -18973,6 +19006,9 @@
 "tipi": {
 "venezie": [
 "Delle Venezie"
+],
+"lugana": [
+"Lugana"
 ]
 },
 "membri": [
@@ -22472,6 +22508,9 @@
 ],
 "custoza": [
 "Custoza"
+],
+"lugana": [
+"Lugana"
 ]
 },
 "membri": [
@@ -34046,6 +34085,9 @@
 "bardolino": [
 "Bardolino",
 "Chiaretto di Bardolino"
+],
+"lugana": [
+"Lugana"
 ]
 },
 "membri": [
@@ -34283,6 +34325,9 @@
 "tipi": {
 "valpolicella": [
 "Amarone"
+],
+"lugana": [
+"Lugana"
 ]
 },
 "membri": [
@@ -37205,6 +37250,9 @@
 "bardolino": [
 "Bardolino",
 "Chiaretto di Bardolino"
+],
+"lugana": [
+"Lugana"
 ]
 },
 "membri": [
@@ -48306,5 +48354,20 @@
 "poggio-al-garda"
 ],
 "primario": "poggio-al-garda"
+},
+{
+"slug": "cantina-di-sona",
+"nome": "Cantina di Sona",
+"regione": "Veneto",
+"comune": "Sona",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"cantina-di-sona"
+],
+"primario": "cantina-di-sona"
 }
 ]

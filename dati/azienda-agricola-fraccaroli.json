@@ -28,6 +28,10 @@
     {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.fraccarolivini.it|fraccarolivini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[4]]"
     }
    ]
   },
@@ -86,7 +90,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/Fraccarolivini|Fraccarolivini}}\nInstagram {{https://www.instagram.com/fraccarolilugana/|@fraccarolilugana}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/Fraccarolivini|Fraccarolivini}}\nInstagram {{https://www.instagram.com/fraccarolilugana/|@fraccarolilugana}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -94,7 +98,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=8769215165987826795|Mappa}} — valutazione 4,7 su 5 (234 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=8769215165987826795|Mappa}} — valutazione 4,7 su 5 (234 recensioni) [[6]]"
     }
    ]
   }
@@ -121,12 +125,18 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/fraccaroli",
+   "etichetta": "consorziolugana.it"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.fraccarolivini.it",
    "etichetta": "fraccarolivini.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Azienda Agricola Fraccaroli - Lugana DOC» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=8769215165987826795",
    "etichetta": "maps.google.com"

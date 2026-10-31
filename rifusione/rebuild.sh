@@ -26,6 +26,7 @@ python3 -I rifusione/applica_consorzio_candia.py
 python3 -I rifusione/applica_consorzio_terre_di_pisa.py
 python3 -I rifusione/applica_consorzio_montescudaio.py
 python3 -I rifusione/applica_consorzio_val_di_cornia.py
+python3 -I rifusione/applica_consorzio_lugana.py
 python3 -I rifusione/rifinisci_presenza.py
 python3 -I rifusione/rifinisci_anagrafica.py
 python3 -I rifusione/rifinisci_testi.py
