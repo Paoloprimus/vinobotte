@@ -1,0 +1,55 @@
+{
+ "nome": "Monsupello",
+ "slug": "monsupello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Lazzaro 5, 27050 Torricella Verzate (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0383 896043 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "monsupello@monsupello.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.monsupello.it/|monsupello.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Oltrepò Pavese [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.monsupello.it/",
+   "etichetta": "monsupello.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  }
+ ]
+}

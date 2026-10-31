@@ -1,0 +1,55 @@
+{
+ "nome": "Pietro Torti",
+ "slug": "pietro-torti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Frazione Castelrotto 9, 27047 Montecalvo Versiggia (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "331 3477508 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@pietrotorti.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.pietrotorti.it/|pietrotorti.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Bonarda dell’Oltrepò Pavese [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.pietrotorti.it/",
+   "etichetta": "pietrotorti.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  }
+ ]
+}

@@ -47714,5 +47714,159 @@
 "frecciarossa"
 ],
 "primario": "frecciarossa"
+},
+{
+"slug": "cantine-monterosso",
+"nome": "Cantine Monterosso",
+"regione": "Lombardia",
+"comune": "Volpara",
+"tipi": {
+"oltrepo-pavese": [
+"Buttafuoco"
+]
+},
+"membri": [
+"cantine-monterosso"
+],
+"primario": "cantine-monterosso"
+},
+{
+"slug": "tenuta-mazzolino",
+"nome": "Tenuta Mazzolino",
+"regione": "Lombardia",
+"comune": "Corvino San Quirico",
+"tipi": {
+"oltrepo-pavese": [
+"Cruasè"
+]
+},
+"membri": [
+"tenuta-mazzolino"
+],
+"primario": "tenuta-mazzolino"
+},
+{
+"slug": "poggio-rebasti",
+"nome": "Poggio Rebasti",
+"regione": "Lombardia",
+"comune": "Montescano",
+"tipi": {
+"oltrepo-pavese": [
+"Buttafuoco Storico"
+]
+},
+"membri": [
+"poggio-rebasti"
+],
+"primario": "poggio-rebasti"
+},
+{
+"slug": "luigi-montini-figli",
+"nome": "Luigi Montini & Figli",
+"regione": "Lombardia",
+"comune": "Santa Giuletta",
+"tipi": {
+"oltrepo-pavese": [
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"luigi-montini-figli"
+],
+"primario": "luigi-montini-figli"
+},
+{
+"slug": "belcredi",
+"nome": "Belcredi",
+"regione": "Lombardia",
+"comune": "Montù Beccaria",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Pinot Nero dell’Oltrepò",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"belcredi"
+],
+"primario": "belcredi"
+},
+{
+"slug": "oltrenero",
+"nome": "Oltrenero",
+"regione": "Lombardia",
+"comune": "Zenevredo",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese DOCG"
+]
+},
+"membri": [
+"oltrenero"
+],
+"primario": "oltrenero"
+},
+{
+"slug": "pietro-torti",
+"nome": "Pietro Torti",
+"regione": "Lombardia",
+"comune": "Montecalvo Versiggia",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"pietro-torti"
+],
+"primario": "pietro-torti"
+},
+{
+"slug": "monsupello",
+"nome": "Monsupello",
+"regione": "Lombardia",
+"comune": "Torricella Verzate",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"monsupello"
+],
+"primario": "monsupello"
+},
+{
+"slug": "giorgi-franco",
+"nome": "Giorgi Franco",
+"regione": "Lombardia",
+"comune": "Montù Beccaria",
+"tipi": {
+"oltrepo-pavese": [
+"Buttafuoco Storico"
+]
+},
+"membri": [
+"giorgi-franco"
+],
+"primario": "giorgi-franco"
+},
+{
+"slug": "fiamberti-giulio",
+"nome": "Fiamberti Giulio",
+"regione": "Lombardia",
+"comune": "Canneto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"fiamberti-giulio"
+],
+"primario": "fiamberti-giulio"
 }
 ]
