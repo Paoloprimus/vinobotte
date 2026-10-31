@@ -44790,5 +44790,191 @@
 "giacomelli"
 ],
 "primario": "giacomelli"
+},
+{
+"slug": "ficomontanino",
+"nome": "Agricola Ficomontanino",
+"regione": "Toscana",
+"comune": "Chiusi",
+"tipi": {
+"colli-senesi": [
+"Chianti Colli Senesi"
+]
+},
+"membri": [
+"ficomontanino"
+],
+"primario": "ficomontanino"
+},
+{
+"slug": "san-jacopo-pasquini",
+"nome": "San Jacopo di Aldo Pasquini",
+"regione": "Toscana",
+"comune": "Reggello",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"san-jacopo-pasquini"
+],
+"primario": "san-jacopo-pasquini"
+},
+{
+"slug": "la-cignozza",
+"nome": "La Cignozza",
+"regione": "Toscana",
+"comune": "Chianciano Terme",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"la-cignozza"
+],
+"primario": "la-cignozza"
+},
+{
+"slug": "san-gervasio",
+"nome": "San Gervasio",
+"regione": "Toscana",
+"comune": "Palaia",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"san-gervasio"
+],
+"primario": "san-gervasio"
+},
+{
+"slug": "cerreto-libri",
+"nome": "Fattoria Cerreto Libri",
+"regione": "Toscana",
+"comune": "Pontassieve",
+"tipi": {
+"chianti": [
+"Chianti Rufina"
+]
+},
+"membri": [
+"cerreto-libri"
+],
+"primario": "cerreto-libri"
+},
+{
+"slug": "fattoria-di-fiano-ugo-bing",
+"nome": "Fattoria di Fiano Ugo Bing",
+"regione": "Toscana",
+"comune": "Certaldo",
+"tipi": {
+"chianti": [
+"Chianti",
+"Chianti Colli Fiorentini",
+"Vin Santo del Chianti"
+]
+},
+"membri": [
+"fattoria-di-fiano-ugo-bing"
+],
+"primario": "fattoria-di-fiano-ugo-bing"
+},
+{
+"slug": "fattoria-montereggi",
+"nome": "Fattoria Montereggi",
+"regione": "Toscana",
+"comune": "Fiesole",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"fattoria-montereggi"
+],
+"primario": "fattoria-montereggi"
+},
+{
+"slug": "la-cantina-di-presciano",
+"nome": "La Cantina di Presciano",
+"regione": "Toscana",
+"comune": "Pergine Valdarno",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"la-cantina-di-presciano"
+],
+"primario": "la-cantina-di-presciano"
+},
+{
+"slug": "paterna",
+"nome": "Paterna",
+"regione": "Toscana",
+"comune": "Terranuova Bracciolini",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"paterna"
+],
+"primario": "paterna"
+},
+{
+"slug": "la-fortezza-vini",
+"nome": "La Fortezza Vini",
+"regione": "Toscana",
+"comune": "Lucca",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"la-fortezza-vini"
+],
+"primario": "la-fortezza-vini"
+},
+{
+"slug": "poggio-del-moro",
+"nome": "Poggio del Moro",
+"regione": "Toscana",
+"comune": "Chianciano Terme",
+"tipi": {
+"colli-senesi": [
+"Chianti Colli Senesi"
+]
+},
+"membri": [
+"poggio-del-moro"
+],
+"primario": "poggio-del-moro"
+},
+{
+"slug": "poggio-salvi",
+"nome": "Poggio Salvi",
+"regione": "Toscana",
+"comune": "Siena",
+"tipi": {
+"chianti": [
+"Chianti",
+"Vin Santo del Chianti"
+],
+"colli-senesi": [
+"Chianti Colli Senesi"
+]
+},
+"membri": [
+"poggio-salvi"
+],
+"primario": "poggio-salvi"
 }
 ]

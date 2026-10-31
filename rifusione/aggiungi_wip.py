@@ -18,7 +18,7 @@ for x in N:
     if x['tel']: ana.append({'etichetta':'Telefono','valore':x['tel']+' '+a})
     if x['email']: ana.append({'etichetta':'Email','valore':x['email']+' '+a})
     ana.append({'etichetta':'Sito ufficiale','valore':'{{'+x['sito']+'|'+x['dom']+'}} '+a})
-    if cons: ana.append({'etichetta':'Consorzio','valore':'Consorzio di tutela DOP Suvereto e Val di Cornia Wine [[1]]'})
+    if cons: ana.append({'etichetta':'Consorzio','valore':x.get('consorzio_nome','Consorzio di tutela DOP Suvereto e Val di Cornia Wine')+' [[1]]'})
     sez=[{'titolo':'Anagrafica','righe':ana}]
     if x['den']: sez.append({'titolo':'Vini','righe':[{'etichetta':'Denominazioni dichiarate','valore':x['den']+(' [[%d]]'%(2 if x.get('fonte_den') else 1))}]})
     sez.append({'titolo':'Riconoscimenti','righe':[{'etichetta':'Premi e punteggi','valore':'Non presenti nelle fonti consultate'}]})
@@ -26,7 +26,7 @@ for x in N:
         sez.append({'titolo':'Presenza online','righe':[{'etichetta':'Social','valore':'\n'.join(k+' {{'+v+'|'+re.sub(r'^https?://(www\.)?','',v).rstrip('/')+'}}' for k,v in x['social'].items())+' '+b}]})
     d={'nome':x['nome'],'slug':x['slug'],'sezioni':sez,
        'consultate':'Fonti consultate il '+D+'. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.',
-       'fonti':([{'n':1,'testo':'Elenco delle cantine del Consorzio di tutela DOP Suvereto e Val di Cornia Wine, scheda dell’azienda consultata il '+D+'.','url':x['url_consorzio'],'etichetta':'suveretowine.com'}] if cons else [])+([{'n':2 if cons else 1,'testo':'Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il '+D+'.','url':x['sito'],'etichetta':x['dom']}] if (not cons or x['rag'] or x['piva'] or x['social'] or x['den']) else [])}
+       'fonti':([{'n':1,'testo':'Elenco delle '+('aziende del '+x['consorzio_nome'] if x.get('consorzio_nome') else 'cantine del Consorzio di tutela DOP Suvereto e Val di Cornia Wine')+', scheda dell’azienda consultata il '+x.get('data_consorzio',D)+'.','url':x['url_consorzio'],'etichetta':x.get('dom_consorzio','suveretowine.com')}] if cons else [])+([{'n':2 if cons else 1,'testo':'Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il '+D+'.','url':x['sito'],'etichetta':x['dom']}] if (not cons or x['rag'] or x['piva'] or x['social'] or (x['den'] and not cons)) else [])}
     if x.get('fonte_den'):  # denominazione confermata da una pagina esterna (vendita online) invece che dal sito della cantina
         d['fonti'].append({'n':2,'testo':x['fonte_den']['testo']+' Consultata il 31 ottobre 2026.','url':x['fonte_den']['url'],'etichetta':x['fonte_den']['etichetta']})
     json.dump(d,open('dati/'+x['slug']+'.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)

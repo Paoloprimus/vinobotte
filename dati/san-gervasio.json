@@ -1,0 +1,58 @@
+{
+ "nome": "San Gervasio",
+ "slug": "san-gervasio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via dei Cipressi 13, 56036 Palaia, PI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0587 483360 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@sangervasio.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.sangervasio.com/|sangervasio.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti DOCG, Vin Santo DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/azienda-agricola-san-gervasio/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

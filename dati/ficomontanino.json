@@ -1,0 +1,58 @@
+{
+ "nome": "Agricola Ficomontanino",
+ "slug": "ficomontanino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Ficomontanino, 53043 Chiusi, SI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 06 5561283 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@agricolaficomontanino.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ficomontanino.it/|ficomontanino.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti dei Colli Senesi DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/agricola-ficomontanino-s-r-l/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

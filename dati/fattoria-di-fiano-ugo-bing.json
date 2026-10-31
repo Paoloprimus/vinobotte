@@ -1,0 +1,58 @@
+{
+ "nome": "Fattoria di Fiano Ugo Bing",
+ "slug": "fattoria-di-fiano-ugo-bing",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Firenze 11, località Fiano, 50052 Certaldo, FI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0571 669048 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fattoriadifiano.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ugobing.it/|ugobing.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti DOCG, Chianti Riserva DOCG, Chianti Colli Fiorentini DOCG, Chianti Colli Fiorentini Riserva DOCG, Vin Santo del Chianti DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/fattoria-di-fiano-ugo-bing/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

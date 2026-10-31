@@ -1,0 +1,58 @@
+{
+ "nome": "Poggio del Moro",
+ "slug": "poggio-del-moro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cavine e Valli 79, 53042 Chianciano Terme, SI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 339 5646897 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poggiodelmoro.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.poggiodelmoro.it/|poggiodelmoro.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti Colli Senesi DOCG, Vin Santo del Chianti Colli Senesi DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/poggio-del-moro/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

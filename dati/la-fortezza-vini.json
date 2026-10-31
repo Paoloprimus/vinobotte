@@ -1,0 +1,68 @@
+{
+ "nome": "La Fortezza Vini",
+ "slug": "la-fortezza-vini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00134350461 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Mammianese Sud 1, 55015 Lucca, LU [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0583 22059 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lafortezzavini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.lafortezzavini.it/|lafortezzavini.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti DOCG, Chianti Riserva DOCG [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "http://www.lafortezzavini.it/",
+   "etichetta": "lafortezzavini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/la-fortezza-vini-srl/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}

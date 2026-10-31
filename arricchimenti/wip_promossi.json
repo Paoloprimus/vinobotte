@@ -2960,5 +2960,335 @@
    "url": "https://www.vino.com/en/dettaglio/colli-di-luni-vermentino-doc-pianacce-giacomelli-2019.html",
    "etichetta": "vino.com"
   }
+ },
+ {
+  "wip": "Agricola Ficomontanino S.r.l.",
+  "slug": "ficomontanino",
+  "nome": "Agricola Ficomontanino",
+  "comune": "Chiusi",
+  "sede": "Località Ficomontanino, 53043 Chiusi, SI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 06 5561283",
+  "email": "info@agricolaficomontanino.it",
+  "sito": "https://www.ficomontanino.it/",
+  "dom": "ficomontanino.it",
+  "social": {},
+  "den": "Chianti dei Colli Senesi DOCG",
+  "tipi": {
+   "colli-senesi": [
+    "Chianti Colli Senesi"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/agricola-ficomontanino-s-r-l/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio Vino Chianti",
+  "dom_consorzio": "consorziovinochianti.it",
+  "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "Az. Agr. San Jacopo di Aldo Pasquini",
+  "slug": "san-jacopo-pasquini",
+  "nome": "San Jacopo di Aldo Pasquini",
+  "comune": "Reggello",
+  "sede": "Via I Ciai 247, San Lorenzo, 50066 Reggello, FI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 055 8695589",
+  "email": "info@pasquinisanjacopo.com",
+  "sito": "https://www.pasquinisanjacopo.com/",
+  "dom": "pasquinisanjacopo.com",
+  "social": {},
+  "den": "Chianti DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/az-agr-san-jacopo-di-aldo-pasquini/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio Vino Chianti",
+  "dom_consorzio": "consorziovinochianti.it",
+  "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "Azienda Agricola La Cignozza",
+  "slug": "la-cignozza",
+  "nome": "La Cignozza",
+  "comune": "Chianciano Terme",
+  "sede": "Via Cavine e Valli 63, 53042 Chianciano Terme, SI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0578 336262",
+  "email": "info@lacignozza.com",
+  "sito": "http://www.lacignozza.it/",
+  "dom": "lacignozza.it",
+  "social": {},
+  "den": "Chianti DOCG, Chianti Riserva DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/azienda-agricola-la-cignozza/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio Vino Chianti",
+  "dom_consorzio": "consorziovinochianti.it",
+  "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "Azienda Agricola San Gervasio",
+  "slug": "san-gervasio",
+  "nome": "San Gervasio",
+  "comune": "Palaia",
+  "sede": "Via dei Cipressi 13, 56036 Palaia, PI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0587 483360",
+  "email": "info@sangervasio.com",
+  "sito": "http://www.sangervasio.com/",
+  "dom": "sangervasio.com",
+  "social": {},
+  "den": "Chianti DOCG, Vin Santo DOC",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/azienda-agricola-san-gervasio/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio Vino Chianti",
+  "dom_consorzio": "consorziovinochianti.it",
+  "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "Fattoria Cerreto Libri di Valentina Baldini Libri",
+  "slug": "cerreto-libri",
+  "nome": "Fattoria Cerreto Libri",
+  "comune": "Pontassieve",
+  "sede": "Via Aretina 96, 50065 Pontassieve, FI",
+  "rag": "",
+  "piva": "",
+  "tel": "",
+  "email": "fattoria@cerretolibri.it",
+  "sito": "http://www.cerretolibri.it/",
+  "dom": "cerretolibri.it",
+  "social": {},
+  "den": "Chianti Rufina DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti Rufina"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/fattoria-cerreto-libri-di-valentina-baldini-libri/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio Vino Chianti",
+  "dom_consorzio": "consorziovinochianti.it",
+  "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "Fattoria di Fiano Ugo Bing",
+  "slug": "fattoria-di-fiano-ugo-bing",
+  "nome": "Fattoria di Fiano Ugo Bing",
+  "comune": "Certaldo",
+  "sede": "Via Firenze 11, località Fiano, 50052 Certaldo, FI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0571 669048",
+  "email": "info@fattoriadifiano.it",
+  "sito": "https://www.ugobing.it/",
+  "dom": "ugobing.it",
+  "social": {},
+  "den": "Chianti DOCG, Chianti Riserva DOCG, Chianti Colli Fiorentini DOCG, Chianti Colli Fiorentini Riserva DOCG, Vin Santo del Chianti DOC",
+  "tipi": {
+   "chianti": [
+    "Chianti",
+    "Chianti Colli Fiorentini",
+    "Vin Santo del Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/fattoria-di-fiano-ugo-bing/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio Vino Chianti",
+  "dom_consorzio": "consorziovinochianti.it",
+  "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "Fattoria Montereggi",
+  "slug": "fattoria-montereggi",
+  "nome": "Fattoria Montereggi",
+  "comune": "Fiesole",
+  "sede": "Via Bosconi 44, 50139 Firenze, FI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 055 540005",
+  "email": "info@fattoriamontereggi.it",
+  "sito": "https://www.fattoriamontereggi.it/",
+  "dom": "fattoriamontereggi.it",
+  "social": {},
+  "den": "Chianti DOCG, Chianti Riserva DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/fattoria-montereggi/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio Vino Chianti",
+  "dom_consorzio": "consorziovinochianti.it",
+  "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "La Cantina di Presciano s.i.a. Società Agricola Italiana a r.l.",
+  "slug": "la-cantina-di-presciano",
+  "nome": "La Cantina di Presciano",
+  "comune": "Pergine Valdarno",
+  "sede": "Via Giovanni XXIII 2, Pieve a Presciano, 52020 Pergine Valdarno, AR",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0575 897303",
+  "email": "info@lacantinadipresciano.it",
+  "sito": "https://www.lacantinadipresciano.it/",
+  "dom": "lacantinadipresciano.it",
+  "social": {},
+  "den": "Chianti DOCG, Chianti Superiore DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/la-cantina-di-presciano-s-i-a-societa-agricola-italiana-a-r-l/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio Vino Chianti",
+  "dom_consorzio": "consorziovinochianti.it",
+  "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "Paterna, società agricola cooperativa",
+  "slug": "paterna",
+  "nome": "Paterna",
+  "comune": "Terranuova Bracciolini",
+  "sede": "Località Paterna 96, 52028 Terranuova Bracciolini, AR",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 055 977052",
+  "email": "paterna@paterna.it",
+  "sito": "https://www.paterna.it/",
+  "dom": "paterna.it",
+  "social": {},
+  "den": "Chianti DOCG, Vin Santo del Chianti DOC",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/paterna-societa-agricola-cooperativa/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio Vino Chianti",
+  "dom_consorzio": "consorziovinochianti.it",
+  "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "La Fortezza Vini srl",
+  "slug": "la-fortezza-vini",
+  "nome": "La Fortezza Vini",
+  "comune": "Lucca",
+  "sede": "Via Mammianese Sud 1, 55015 Lucca, LU",
+  "rag": "",
+  "piva": "00134350461",
+  "tel": "+39 0583 22059",
+  "email": "info@lafortezzavini.it",
+  "sito": "http://www.lafortezzavini.it/",
+  "dom": "lafortezzavini.it",
+  "social": {},
+  "den": "Chianti DOCG, Chianti Riserva DOCG",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/la-fortezza-vini-srl/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio Vino Chianti",
+  "dom_consorzio": "consorziovinochianti.it",
+  "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "Poggio del Moro",
+  "slug": "poggio-del-moro",
+  "nome": "Poggio del Moro",
+  "comune": "Chianciano Terme",
+  "sede": "Via Cavine e Valli 79, 53042 Chianciano Terme, SI",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 339 5646897",
+  "email": "info@poggiodelmoro.it",
+  "sito": "https://www.poggiodelmoro.it/",
+  "dom": "poggiodelmoro.it",
+  "social": {},
+  "den": "Chianti Colli Senesi DOCG, Vin Santo del Chianti Colli Senesi DOC",
+  "tipi": {
+   "colli-senesi": [
+    "Chianti Colli Senesi"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/poggio-del-moro/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio Vino Chianti",
+  "dom_consorzio": "consorziovinochianti.it",
+  "data_consorzio": "31 ottobre 2026"
+ },
+ {
+  "wip": "Poggio Salvi di Bicchi Laura s.a.s.",
+  "slug": "poggio-salvi",
+  "nome": "Poggio Salvi",
+  "comune": "Siena",
+  "sede": "Via Camollia 185, 53100 Siena, SI",
+  "rag": "",
+  "piva": "01123850529",
+  "tel": "+39 0577 45237",
+  "email": "info@poggiosalvi-sovicille.it",
+  "sito": "https://www.poggiosalvi-sovicille.it/",
+  "dom": "poggiosalvi-sovicille.it",
+  "social": {},
+  "den": "Chianti Colli Senesi DOCG, Chianti DOCG, Chianti Riserva DOCG, Vin Santo del Chianti DOC",
+  "tipi": {
+   "chianti": [
+    "Chianti",
+    "Vin Santo del Chianti"
+   ],
+   "colli-senesi": [
+    "Chianti Colli Senesi"
+   ]
+  },
+  "consorzio": "chianti",
+  "regione": "Toscana",
+  "url_consorzio": "https://www.consorziovinochianti.it/aziende-old/poggio-salvi-di-bicchi-laura-s-a-s/",
+  "dati_consorzio": true,
+  "consorzio_nome": "Consorzio Vino Chianti",
+  "dom_consorzio": "consorziovinochianti.it",
+  "data_consorzio": "31 ottobre 2026"
  }
 ]

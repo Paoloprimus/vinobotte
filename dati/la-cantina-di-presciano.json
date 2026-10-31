@@ -1,0 +1,58 @@
+{
+ "nome": "La Cantina di Presciano",
+ "slug": "la-cantina-di-presciano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Giovanni XXIII 2, Pieve a Presciano, 52020 Pergine Valdarno, AR [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0575 897303 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lacantinadipresciano.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lacantinadipresciano.it/|lacantinadipresciano.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Chianti [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Chianti DOCG, Chianti Superiore DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vino Chianti, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://www.consorziovinochianti.it/aziende-old/la-cantina-di-presciano-s-i-a-societa-agricola-italiana-a-r-l/",
+   "etichetta": "consorziovinochianti.it"
+  }
+ ]
+}
