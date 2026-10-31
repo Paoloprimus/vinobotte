@@ -1,0 +1,59 @@
+{
+ "nome": "Fattoria Fratelli Massara",
+ "slug": "fattoria-fratelli-massara",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00635100183 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Casa Ramati, 11, 27050 Redavalle (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0385.74150 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "fratelli-massara@libero.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.massaravini.it/|massaravini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Sangue di Giuda [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.massaravini.it/",
+   "etichetta": "massaravini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  }
+ ]
+}

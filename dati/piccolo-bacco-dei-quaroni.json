@@ -1,0 +1,59 @@
+{
+ "nome": "Piccolo Bacco dei Quaroni",
+ "slug": "piccolo-bacco-dei-quaroni",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02659320184 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Frazione Costa Montefedele, 27040 Montù Beccaria (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0385 937310 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@piccolobaccodeiquaroni.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.piccolobaccodeiquaroni.it/|piccolobaccodeiquaroni.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Oltrepò Pavese, Buttafuoco Storico [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.piccolobaccodeiquaroni.it/",
+   "etichetta": "piccolobaccodeiquaroni.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  }
+ ]
+}

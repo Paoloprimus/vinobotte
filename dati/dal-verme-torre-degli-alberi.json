@@ -1,0 +1,59 @@
+{
+ "nome": "Dal Verme (Torre degli Alberi)",
+ "slug": "dal-verme-torre-degli-alberi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00854190188 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Torre degli Alberi, 27061 Colli Verdi (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "333 8235792 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@torredeglialberi.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.torredeglialberi.it/|torredeglialberi.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Oltrepò Pavese, Oltrepò Pavese Metodo Classico, Cruasè [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.torredeglialberi.it/",
+   "etichetta": "torredeglialberi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  }
+ ]
+}

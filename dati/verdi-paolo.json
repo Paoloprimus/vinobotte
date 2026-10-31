@@ -1,0 +1,59 @@
+{
+ "nome": "Verdi Paolo",
+ "slug": "verdi-paolo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01129620181 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Vergomberra, 5, 27044 Canneto Pavese (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0385 88023 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@brunoverdi.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://brunoverdi.it/|brunoverdi.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Oltrepò Pavese, Buttafuoco, Sangue di Giuda [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://brunoverdi.it/",
+   "etichetta": "brunoverdi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  }
+ ]
+}

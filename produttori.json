@@ -47043,5 +47043,536 @@
 "villa-giuliana"
 ],
 "primario": "villa-giuliana"
+},
+{
+"slug": "tenuta-travaglino",
+"nome": "Tenuta Travaglino",
+"regione": "Lombardia",
+"comune": "Calvignano",
+"tipi": {
+"oltrepo-pavese": [
+"Pinot Nero dell’Oltrepò"
+]
+},
+"membri": [
+"tenuta-travaglino"
+],
+"primario": "tenuta-travaglino"
+},
+{
+"slug": "alziati-annibale",
+"nome": "Alziati Annibale",
+"regione": "Lombardia",
+"comune": "Rovescala",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"alziati-annibale"
+],
+"primario": "alziati-annibale"
+},
+{
+"slug": "vanzini",
+"nome": "Vanzini",
+"regione": "Lombardia",
+"comune": "San Damiano Al Colle",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"vanzini"
+],
+"primario": "vanzini"
+},
+{
+"slug": "castello-di-cigognola",
+"nome": "Castello di Cigognola",
+"regione": "Lombardia",
+"comune": "Cigognola",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"castello-di-cigognola"
+],
+"primario": "castello-di-cigognola"
+},
+{
+"slug": "dal-verme-torre-degli-alberi",
+"nome": "Dal Verme (Torre degli Alberi)",
+"regione": "Lombardia",
+"comune": "Colli Verdi",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Oltrepò Pavese Metodo Classico",
+"Cruasè"
+]
+},
+"membri": [
+"dal-verme-torre-degli-alberi"
+],
+"primario": "dal-verme-torre-degli-alberi"
+},
+{
+"slug": "casarini-valentino-e-rosanna",
+"nome": "Casarini Valentino e Rosanna",
+"regione": "Lombardia",
+"comune": "Broni",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Buttafuoco"
+]
+},
+"membri": [
+"casarini-valentino-e-rosanna"
+],
+"primario": "casarini-valentino-e-rosanna"
+},
+{
+"slug": "tenuta-isimbarda",
+"nome": "Tenuta Isimbarda",
+"regione": "Lombardia",
+"comune": "Santa Giuletta",
+"tipi": {
+"oltrepo-pavese": [
+"Cruasè"
+]
+},
+"membri": [
+"tenuta-isimbarda"
+],
+"primario": "tenuta-isimbarda"
+},
+{
+"slug": "torrevilla-viticoltori-associati",
+"nome": "Torrevilla Viticoltori Associati",
+"regione": "Lombardia",
+"comune": "Torrazza Coste",
+"tipi": {
+"oltrepo-pavese": [
+"Sangue di Giuda"
+]
+},
+"membri": [
+"torrevilla-viticoltori-associati"
+],
+"primario": "torrevilla-viticoltori-associati"
+},
+{
+"slug": "piccolo-bacco-dei-quaroni",
+"nome": "Piccolo Bacco dei Quaroni",
+"regione": "Lombardia",
+"comune": "Montù Beccaria",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Buttafuoco Storico"
+]
+},
+"membri": [
+"piccolo-bacco-dei-quaroni"
+],
+"primario": "piccolo-bacco-dei-quaroni"
+},
+{
+"slug": "roveda-ernestino",
+"nome": "Roveda Ernestino",
+"regione": "Lombardia",
+"comune": "Montù Beccaria",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"roveda-ernestino"
+],
+"primario": "roveda-ernestino"
+},
+{
+"slug": "fattoria-fratelli-massara",
+"nome": "Fattoria Fratelli Massara",
+"regione": "Lombardia",
+"comune": "Redavalle",
+"tipi": {
+"oltrepo-pavese": [
+"Sangue di Giuda"
+]
+},
+"membri": [
+"fattoria-fratelli-massara"
+],
+"primario": "fattoria-fratelli-massara"
+},
+{
+"slug": "quaquarini-francesco",
+"nome": "Quaquarini Francesco",
+"regione": "Lombardia",
+"comune": "Canneto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Buttafuoco Storico",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"quaquarini-francesco"
+],
+"primario": "quaquarini-francesco"
+},
+{
+"slug": "cantina-sociale-di-vicobarone",
+"nome": "Cantina Sociale di Vicobarone",
+"regione": "Emilia-Romagna",
+"comune": "Ziano Piacentino",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Pinot Nero dell’Oltrepò"
+]
+},
+"membri": [
+"cantina-sociale-di-vicobarone"
+],
+"primario": "cantina-sociale-di-vicobarone"
+},
+{
+"slug": "cavallini-1919",
+"nome": "Cavallini 1919",
+"regione": "Lombardia",
+"comune": "Corvino San Quirico",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"cavallini-1919"
+],
+"primario": "cavallini-1919"
+},
+{
+"slug": "picchioni-andrea",
+"nome": "Picchioni Andrea",
+"regione": "Lombardia",
+"comune": "Canneto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"picchioni-andrea"
+],
+"primario": "picchioni-andrea"
+},
+{
+"slug": "cantina-scuropasso",
+"nome": "Cantina Scuropasso",
+"regione": "Lombardia",
+"comune": "Pietra dè Giorgi",
+"tipi": {
+"oltrepo-pavese": [
+"Buttafuoco Storico"
+]
+},
+"membri": [
+"cantina-scuropasso"
+],
+"primario": "cantina-scuropasso"
+},
+{
+"slug": "corte-fabbri",
+"nome": "Corte Fabbri",
+"regione": "Lombardia",
+"comune": "Broni",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Oltrepò Pavese Metodo Classico",
+"Buttafuoco"
+]
+},
+"membri": [
+"corte-fabbri"
+],
+"primario": "corte-fabbri"
+},
+{
+"slug": "tenuta-la-costa",
+"nome": "Tenuta La Costa",
+"regione": "Lombardia",
+"comune": "Castana",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Oltrepò Pavese Metodo Classico",
+"Buttafuoco Storico",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"tenuta-la-costa"
+],
+"primario": "tenuta-la-costa"
+},
+{
+"slug": "monterucco",
+"nome": "Monterucco",
+"regione": "Lombardia",
+"comune": "Cigognola",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"monterucco"
+],
+"primario": "monterucco"
+},
+{
+"slug": "sartieri-1931",
+"nome": "Sartieri 1931",
+"regione": "Lombardia",
+"comune": "Casteggio",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Oltrepò Pavese Metodo Classico"
+]
+},
+"membri": [
+"sartieri-1931"
+],
+"primario": "sartieri-1931"
+},
+{
+"slug": "sclavi-davide",
+"nome": "Sclavi Davide",
+"regione": "Lombardia",
+"comune": "Montescano",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Buttafuoco"
+]
+},
+"membri": [
+"sclavi-davide"
+],
+"primario": "sclavi-davide"
+},
+{
+"slug": "tenuta-percivalle",
+"nome": "Tenuta Percivalle",
+"regione": "Lombardia",
+"comune": "Borgo Priolo",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Pinot Nero dell’Oltrepò"
+]
+},
+"membri": [
+"tenuta-percivalle"
+],
+"primario": "tenuta-percivalle"
+},
+{
+"slug": "crosio-angelo",
+"nome": "Crosio Angelo",
+"regione": "Lombardia",
+"comune": "Stradella",
+"tipi": {
+"oltrepo-pavese": [
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"crosio-angelo"
+],
+"primario": "crosio-angelo"
+},
+{
+"slug": "sabaghina",
+"nome": "Sabaghina",
+"regione": "Lombardia",
+"comune": "Montalto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"sabaghina"
+],
+"primario": "sabaghina"
+},
+{
+"slug": "conte-vistarino",
+"nome": "Conte Vistarino",
+"regione": "Lombardia",
+"comune": "Rocca De' Giorgi",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Oltrepò Pavese Metodo Classico",
+"Pinot Nero dell’Oltrepò",
+"Sangue di Giuda",
+"Cruasè"
+]
+},
+"membri": [
+"conte-vistarino"
+],
+"primario": "conte-vistarino"
+},
+{
+"slug": "ruinello",
+"nome": "Ruinello",
+"regione": "Lombardia",
+"comune": "Santa Maria della Versa",
+"tipi": {
+"oltrepo-pavese": [
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"ruinello"
+],
+"primario": "ruinello"
+},
+{
+"slug": "malpaga",
+"nome": "Malpaga",
+"regione": "Lombardia",
+"comune": "Canneto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Oltrepò Pavese Metodo Classico",
+"Buttafuoco"
+]
+},
+"membri": [
+"malpaga"
+],
+"primario": "malpaga"
+},
+{
+"slug": "cordero",
+"nome": "Cordero",
+"regione": "Lombardia",
+"comune": "Santa Giuletta",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"cordero"
+],
+"primario": "cordero"
+},
+{
+"slug": "ca-del-ge",
+"nome": "Ca' del Gè",
+"regione": "Lombardia",
+"comune": "Montalto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"ca-del-ge"
+],
+"primario": "ca-del-ge"
+},
+{
+"slug": "verdi-paolo",
+"nome": "Verdi Paolo",
+"regione": "Lombardia",
+"comune": "Canneto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"verdi-paolo"
+],
+"primario": "verdi-paolo"
+},
+{
+"slug": "doria",
+"nome": "Doria",
+"regione": "Lombardia",
+"comune": "Montalto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"doria"
+],
+"primario": "doria"
+},
+{
+"slug": "la-travaglina",
+"nome": "La Travaglina",
+"regione": "Lombardia",
+"comune": "Santa Giuletta",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Pinot Nero dell’Oltrepò"
+]
+},
+"membri": [
+"la-travaglina"
+],
+"primario": "la-travaglina"
+},
+{
+"slug": "cantine-cavallotti",
+"nome": "Cantine Cavallotti",
+"regione": "Lombardia",
+"comune": "Cigognola",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Oltrepò Pavese Metodo Classico",
+"Buttafuoco",
+"Cruasè"
+]
+},
+"membri": [
+"cantine-cavallotti"
+],
+"primario": "cantine-cavallotti"
 }
 ]

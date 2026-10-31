@@ -1,0 +1,59 @@
+{
+ "nome": "Corte Fabbri",
+ "slug": "corte-fabbri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02774280180 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Vallescuropasso, 131, 27043 Broni (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "347 6602253 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cortefabbri.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortefabbri.it/|cortefabbri.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Oltrepò Pavese, Oltrepò Pavese Metodo Classico, Buttafuoco [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.cortefabbri.it/",
+   "etichetta": "cortefabbri.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  }
+ ]
+}

@@ -20,6 +20,7 @@ for x in N:
     if x['email']: ana.append({'etichetta':'Email','valore':x['email']+' '+a})
     ana.append({'etichetta':'Sito ufficiale','valore':'{{'+x['sito']+'|'+x['dom']+'}} '+a})
     if cons: ana.append({'etichetta':'Consorzio','valore':x.get('consorzio_nome','Consorzio di tutela DOP Suvereto e Val di Cornia Wine')+' [[1]]'})
+    if x.get('elenco_consorzio'): ana.append({'etichetta':'Consorzio','valore':x['consorzio_nome']+' [[2]]'})  # socio del consorzio: solo dall'elenco soci (contatti e dati dal sito)
     sez=[{'titolo':'Anagrafica','righe':ana}]
     if x['den']: sez.append({'titolo':'Vini','righe':[{'etichetta':'Denominazioni dichiarate','valore':x['den']+(' [[%d]]'%(2 if x.get('fonte_den') else 1))}]})
     if x.get('ospitalita'): sez.append({'titolo':'Ospitalità','righe':[{'etichetta':k,'valore':v+' [[1]]'} for k,v in x['ospitalita']]})
@@ -30,6 +31,8 @@ for x in N:
     d={'nome':x['nome'],'slug':x['slug'],'sezioni':sez,
        'consultate':'Fonti consultate il '+D+'. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.',
        'fonti':([{'n':1,'testo':'Elenco delle '+('aziende del '+x['consorzio_nome'] if x.get('consorzio_nome') else 'cantine del Consorzio di tutela DOP Suvereto e Val di Cornia Wine')+', scheda dell’azienda consultata il '+x.get('data_consorzio',D)+'.','url':x['url_consorzio'],'etichetta':x.get('dom_consorzio','suveretowine.com')}] if cons else [])+([{'n':2 if cons else 1,'testo':'Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il '+D+'.','url':x['sito'],'etichetta':x['dom']}] if (not cons or x['rag'] or x['piva'] or (x['social'] and not x.get('social_consorzio')) or (x['den'] and not cons)) else [])}
+    if x.get('elenco_consorzio'):
+        d['fonti'].append({'n':2,'testo':'Elenco dei produttori associati al '+x['consorzio_nome']+', consultato il '+x.get('data_consorzio',D)+'.','url':x['url_consorzio'],'etichetta':x['dom_consorzio']})
     if x.get('fonte_sede'):  # indirizzo trovato in una pagina esterna al sito della cantina
         d['fonti'].append({'n':2,'testo':x['fonte_sede']['testo']+' Consultata il 31 ottobre 2026.','url':x['fonte_sede']['url'],'etichetta':x['fonte_sede']['etichetta']})
     if x.get('fonte_den'):  # denominazione confermata da una pagina esterna (vendita online) invece che dal sito della cantina

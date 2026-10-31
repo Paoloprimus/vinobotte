@@ -1,0 +1,59 @@
+{
+ "nome": "Ruinello",
+ "slug": "ruinello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01261040180 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Fraz. Ruinello di Sopra, 15, 27047 Santa Maria della Versa (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0385 278057 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ruinello.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.ruinello.it/|ruinello.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Buttafuoco, Sangue di Giuda [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://www.ruinello.it/",
+   "etichetta": "ruinello.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  }
+ ]
+}
