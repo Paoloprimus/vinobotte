@@ -1,0 +1,60 @@
+{
+ "nome": "La Nascosta",
+ "slug": "la-nascosta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Strada vicinale Le Rovine, Castiglione d’Orcia, SI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577 1607338 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lanascosta.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://lanascosta.it/|lanascosta.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Orcia DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://lanascosta.it/",
+   "etichetta": "lanascosta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Scheda di vendita online del Rosso Orcia DOC «Saltamacchia» di La Nascosta. Consultata il 31 ottobre 2026.",
+   "url": "https://bottleofitaly.com/en/products/rosso-orcia-doc-saltamacchia-2019-la-nascosta",
+   "etichetta": "bottleofitaly.com"
+  }
+ ]
+}

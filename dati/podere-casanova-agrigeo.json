@@ -1,0 +1,58 @@
+{
+ "nome": "Podere Casanova",
+ "slug": "podere-casanova-agrigeo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "AGRIGEO Soc. Agricola S.S. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Provinciale 326 n. 196, località Tre Berte, 53045 Montepulciano, SI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0578 896136 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poderecasanovavini.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.poderecasanovavini.com/|poderecasanovavini.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Rosso di Montepulciano DOC, Nobile di Montepulciano DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.poderecasanovavini.com/",
+   "etichetta": "poderecasanovavini.com"
+  }
+ ]
+}

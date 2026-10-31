@@ -1,1 +1,202 @@
-{"valpolicella": ["Produttori vini Valpolicella", "<option>Amarone</option><option>Ripasso</option><option>Recioto</option><option>Valpolicella</option>"], "soave": ["Produttori vini Soave e Recioto di Soave", "<option>Soave</option><option>Soave Classico</option><option>Soave Superiore</option><option>Recioto di Soave</option>"], "durello": ["Produttori vini Lessini Durello", "<option>Lessini Durello</option>"], "bardolino": ["Produttori vini Bardolino", "<option>Bardolino</option><option>Bardolino Superiore</option><option>Chiaretto di Bardolino</option>"], "custoza": ["Produttori vini Custoza", "<option>Custoza</option>"], "prosecco": ["Produttori vini Prosecco DOC", "<option>Prosecco DOC</option>"], "prosecco-fvg": ["Produttori vini Prosecco DOC", "<option>Prosecco DOC</option>"], "euganei": ["Produttori vini Colli Euganei", "<option>Colli Euganei</option>"], "venezia": ["Produttori vini Venezia", "<option>Venezia</option><option>Lison Pramaggiore</option><option>Lison</option><option>Piave</option><option>Malanotte</option>"], "conegliano": ["Produttori vini Conegliano Valdobbiadene", "<option>Conegliano Valdobbiadene Prosecco Superiore</option><option>Valdobbiadene Superiore di Cartizze</option><option>Conegliano Valdobbiadene Prosecco</option>"], "asolo": ["Produttori vini Asolo Montello", "<option>Asolo Montello</option>"], "collio": ["Produttori vini Collio", "<option>Collio</option>"], "colli-orientali": ["Produttori vini Friuli Colli Orientali e Ramandolo", "<option>DOC Friuli Colli Orientali</option><option>DOCG Colli Orientali del Friuli Picolit</option><option>DOCG Ramandolo</option><option>DOCG Rosazzo</option>"], "friuli-grave": ["Produttori vini Friuli Grave", "<option>Friuli Grave</option>"], "friuli-doc": ["Produttori vini Friuli DOC", "<option>Friuli DOC</option>"], "colli-berici": ["Produttori vini Colli Berici", "<option>Colli Berici</option>"], "gambellara": ["Produttori vini Gambellara", "<option>Gambellara</option>"], "garda": ["Produttori vini Garda DOC", "<option>Garda</option>"], "breganze": ["Produttori vini Breganze", "<option>Breganze</option>"], "lugana": ["Produttori vini Lugana", "<option>Lugana</option>"], "gutturnio": ["Produttori vini Gutturnio (Colli Piacentini)", "<option>Gutturnio</option>"], "brunello": ["Produttori vini Brunello di Montalcino", "<option>Brunello di Montalcino</option><option>Rosso di Montalcino</option><option>Sant'Antimo</option>"], "chianti-classico": ["Produttori vini Chianti Classico", "<option>Chianti Classico</option>"], "bolgheri": ["Produttori vini Bolgheri", "<option>Bolgheri</option>"], "nobile": ["Produttori vini Nobile di Montepulciano", "<option>Vino Nobile di Montepulciano</option>"], "maremma": ["Produttori vini Maremma Toscana", "<option>Maremma Toscana</option>"], "colli-senesi": ["Produttori vini Chianti Colli Senesi", "<option>Chianti Colli Senesi</option>"], "valdarno": ["Produttori vini Valdarno di Sopra", "<option>Valdarno di Sopra</option>"], "venezie": ["Produttori vini Delle Venezie", "<option>Delle Venezie</option>"], "chianti": ["Produttori vini Chianti", "<option>Chianti</option><option>Chianti Superiore</option><option>Chianti Rufina</option><option>Chianti Colli Fiorentini</option><option>Chianti Colline Pisane</option><option>Chianti Montalbano</option><option>Vin Santo del Chianti</option>"], "morellino": ["Produttori vini Morellino di Scansano", "<option>Morellino di Scansano</option>"], "vernaccia": ["Produttori vini Vernaccia di San Gimignano", "<option>Vernaccia di San Gimignano</option><option>San Gimignano</option>"], "carmignano": ["Produttori vini Carmignano", "<option>Carmignano</option><option>Barco Reale di Carmignano</option>"], "orcia": ["Produttori vini Orcia", "<option>Orcia</option>"], "montecucco": ["Produttori vini Montecucco", "<option>Montecucco</option>"], "elba": ["Produttori vini Elba", "<option>Elba</option><option>Aleatico dell'Elba</option>"], "terre-di-pisa": ["Produttori vini Terre di Pisa", "<option>Terre di Pisa</option>"], "montescudaio": ["Produttori vini Montescudaio", "<option>Montescudaio</option>"], "val-di-cornia": ["Produttori vini Val di Cornia e Suvereto", "<option>Val di Cornia</option><option>Suvereto</option>"], "montecarlo": ["Produttori vini Montecarlo", "<option>Montecarlo</option>"], "colline-lucchesi": ["Produttori vini Colline Lucchesi", "<option>Colline Lucchesi</option>"], "pitigliano": ["Produttori vini Bianco di Pitigliano e Sovana", "<option>Bianco di Pitigliano</option><option>Sovana</option>"], "cortona": ["Produttori vini Cortona", "<option>Cortona</option>"], "colli-di-luni": ["Produttori vini Colli di Luni", "<option>Colli di Luni</option>"], "parrina": ["Produttori vini Parrina", "<option>Parrina</option>"], "monteregio": ["Produttori vini Monteregio di Massa Marittima", "<option>Monteregio di Massa Marittima</option>"], "terre-di-casole": ["Produttori vini Terre di Casole", "<option>Terre di Casole</option>"], "etna": ["Produttori vini Etna", "<option>Etna</option>"], "candia-colli-apuani": ["Produttori vini Candia dei Colli Apuani", "<option>Candia dei Colli Apuani</option>"]}
+{
+ "valpolicella": [
+  "Produttori vini Valpolicella",
+  "<option>Amarone</option><option>Ripasso</option><option>Recioto</option><option>Valpolicella</option>"
+ ],
+ "soave": [
+  "Produttori vini Soave e Recioto di Soave",
+  "<option>Soave</option><option>Soave Classico</option><option>Soave Superiore</option><option>Recioto di Soave</option>"
+ ],
+ "durello": [
+  "Produttori vini Lessini Durello",
+  "<option>Lessini Durello</option>"
+ ],
+ "bardolino": [
+  "Produttori vini Bardolino",
+  "<option>Bardolino</option><option>Bardolino Superiore</option><option>Chiaretto di Bardolino</option>"
+ ],
+ "custoza": [
+  "Produttori vini Custoza",
+  "<option>Custoza</option>"
+ ],
+ "prosecco": [
+  "Produttori vini Prosecco DOC",
+  "<option>Prosecco DOC</option>"
+ ],
+ "prosecco-fvg": [
+  "Produttori vini Prosecco DOC",
+  "<option>Prosecco DOC</option>"
+ ],
+ "euganei": [
+  "Produttori vini Colli Euganei",
+  "<option>Colli Euganei</option>"
+ ],
+ "venezia": [
+  "Produttori vini Venezia",
+  "<option>Venezia</option><option>Lison Pramaggiore</option><option>Lison</option><option>Piave</option><option>Malanotte</option>"
+ ],
+ "conegliano": [
+  "Produttori vini Conegliano Valdobbiadene",
+  "<option>Conegliano Valdobbiadene Prosecco Superiore</option><option>Valdobbiadene Superiore di Cartizze</option><option>Conegliano Valdobbiadene Prosecco</option>"
+ ],
+ "asolo": [
+  "Produttori vini Asolo Montello",
+  "<option>Asolo Montello</option>"
+ ],
+ "collio": [
+  "Produttori vini Collio",
+  "<option>Collio</option>"
+ ],
+ "colli-orientali": [
+  "Produttori vini Friuli Colli Orientali e Ramandolo",
+  "<option>DOC Friuli Colli Orientali</option><option>DOCG Colli Orientali del Friuli Picolit</option><option>DOCG Ramandolo</option><option>DOCG Rosazzo</option>"
+ ],
+ "friuli-grave": [
+  "Produttori vini Friuli Grave",
+  "<option>Friuli Grave</option>"
+ ],
+ "friuli-doc": [
+  "Produttori vini Friuli DOC",
+  "<option>Friuli DOC</option>"
+ ],
+ "colli-berici": [
+  "Produttori vini Colli Berici",
+  "<option>Colli Berici</option>"
+ ],
+ "gambellara": [
+  "Produttori vini Gambellara",
+  "<option>Gambellara</option>"
+ ],
+ "garda": [
+  "Produttori vini Garda DOC",
+  "<option>Garda</option>"
+ ],
+ "breganze": [
+  "Produttori vini Breganze",
+  "<option>Breganze</option>"
+ ],
+ "lugana": [
+  "Produttori vini Lugana",
+  "<option>Lugana</option>"
+ ],
+ "gutturnio": [
+  "Produttori vini Gutturnio (Colli Piacentini)",
+  "<option>Gutturnio</option>"
+ ],
+ "brunello": [
+  "Produttori vini Brunello di Montalcino",
+  "<option>Brunello di Montalcino</option><option>Rosso di Montalcino</option><option>Sant'Antimo</option>"
+ ],
+ "chianti-classico": [
+  "Produttori vini Chianti Classico",
+  "<option>Chianti Classico</option>"
+ ],
+ "bolgheri": [
+  "Produttori vini Bolgheri",
+  "<option>Bolgheri</option>"
+ ],
+ "nobile": [
+  "Produttori vini Nobile di Montepulciano",
+  "<option>Vino Nobile di Montepulciano</option>"
+ ],
+ "maremma": [
+  "Produttori vini Maremma Toscana",
+  "<option>Maremma Toscana</option>"
+ ],
+ "colli-senesi": [
+  "Produttori vini Chianti Colli Senesi",
+  "<option>Chianti Colli Senesi</option>"
+ ],
+ "valdarno": [
+  "Produttori vini Valdarno di Sopra",
+  "<option>Valdarno di Sopra</option>"
+ ],
+ "venezie": [
+  "Produttori vini Delle Venezie",
+  "<option>Delle Venezie</option>"
+ ],
+ "chianti": [
+  "Produttori vini Chianti",
+  "<option>Chianti</option><option>Chianti Superiore</option><option>Chianti Rufina</option><option>Chianti Colli Fiorentini</option><option>Chianti Colline Pisane</option><option>Chianti Montalbano</option><option>Vin Santo del Chianti</option>"
+ ],
+ "morellino": [
+  "Produttori vini Morellino di Scansano",
+  "<option>Morellino di Scansano</option>"
+ ],
+ "vernaccia": [
+  "Produttori vini Vernaccia di San Gimignano",
+  "<option>Vernaccia di San Gimignano</option><option>San Gimignano</option>"
+ ],
+ "carmignano": [
+  "Produttori vini Carmignano",
+  "<option>Carmignano</option><option>Barco Reale di Carmignano</option>"
+ ],
+ "orcia": [
+  "Produttori vini Orcia",
+  "<option>Orcia</option>"
+ ],
+ "montecucco": [
+  "Produttori vini Montecucco",
+  "<option>Montecucco</option>"
+ ],
+ "elba": [
+  "Produttori vini Elba",
+  "<option>Elba</option><option>Aleatico dell'Elba</option>"
+ ],
+ "terre-di-pisa": [
+  "Produttori vini Terre di Pisa",
+  "<option>Terre di Pisa</option>"
+ ],
+ "montescudaio": [
+  "Produttori vini Montescudaio",
+  "<option>Montescudaio</option>"
+ ],
+ "val-di-cornia": [
+  "Produttori vini Val di Cornia e Suvereto",
+  "<option>Val di Cornia</option><option>Suvereto</option>"
+ ],
+ "montecarlo": [
+  "Produttori vini Montecarlo",
+  "<option>Montecarlo</option>"
+ ],
+ "colline-lucchesi": [
+  "Produttori vini Colline Lucchesi",
+  "<option>Colline Lucchesi</option>"
+ ],
+ "pitigliano": [
+  "Produttori vini Bianco di Pitigliano e Sovana",
+  "<option>Bianco di Pitigliano</option><option>Sovana</option>"
+ ],
+ "cortona": [
+  "Produttori vini Cortona",
+  "<option>Cortona</option>"
+ ],
+ "colli-di-luni": [
+  "Produttori vini Colli di Luni",
+  "<option>Colli di Luni</option>"
+ ],
+ "parrina": [
+  "Produttori vini Parrina",
+  "<option>Parrina</option>"
+ ],
+ "monteregio": [
+  "Produttori vini Monteregio di Massa Marittima",
+  "<option>Monteregio di Massa Marittima</option>"
+ ],
+ "terre-di-casole": [
+  "Produttori vini Terre di Casole",
+  "<option>Terre di Casole</option>"
+ ],
+ "etna": [
+  "Produttori vini Etna",
+  "<option>Etna</option>"
+ ],
+ "candia-colli-apuani": [
+  "Produttori vini Candia dei Colli Apuani",
+  "<option>Candia dei Colli Apuani</option>"
+ ],
+ "grance-senesi": [
+  "Produttori vini Grance Senesi",
+  "<option>Grance Senesi</option>"
+ ]
+}

@@ -45354,5 +45354,50 @@
 "colle-di-bordocheo"
 ],
 "primario": "colle-di-bordocheo"
+},
+{
+"slug": "abbazia-di-monte-oliveto-maggiore",
+"nome": "Abbazia di Monte Oliveto Maggiore",
+"regione": "Toscana",
+"comune": "Asciano",
+"tipi": {
+"grance-senesi": [
+"Grance Senesi"
+]
+},
+"membri": [
+"abbazia-di-monte-oliveto-maggiore"
+],
+"primario": "abbazia-di-monte-oliveto-maggiore"
+},
+{
+"slug": "la-nascosta",
+"nome": "La Nascosta",
+"regione": "Toscana",
+"comune": "Castiglione d’Orcia",
+"tipi": {
+"orcia": [
+"Orcia"
+]
+},
+"membri": [
+"la-nascosta"
+],
+"primario": "la-nascosta"
+},
+{
+"slug": "podere-casanova-agrigeo",
+"nome": "Podere Casanova",
+"regione": "Toscana",
+"comune": "Montepulciano",
+"tipi": {
+"nobile": [
+"Nobile di Montepulciano"
+]
+},
+"membri": [
+"podere-casanova-agrigeo"
+],
+"primario": "podere-casanova-agrigeo"
 }
 ]

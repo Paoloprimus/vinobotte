@@ -4004,5 +4004,89 @@
    "url": "https://tripaligner.com/countries/italy-15/destinations/lucca-5239/places/azienda-agricola-colle-di-bordocheo-12501088",
    "etichetta": "tripaligner.com"
   }
+ },
+ {
+  "rag": "Abbazia di Monte Oliveto Maggiore S.R.L., Società agricola",
+  "piva": "01564620522",
+  "tel": "+39 0577 707258",
+  "email": "info@agricolamonteoliveto.com",
+  "social": {},
+  "consorzio": null,
+  "regione": "Toscana",
+  "url_consorzio": "",
+  "wip": "Abbazia di Monte Oliveto Maggiore",
+  "slug": "abbazia-di-monte-oliveto-maggiore",
+  "nome": "Abbazia di Monte Oliveto Maggiore",
+  "comune": "Asciano",
+  "sede": "Località Monte Oliveto Maggiore, 53041 Asciano, SI",
+  "sito": "https://agricolamonteoliveto.com/",
+  "dom": "agricolamonteoliveto.com",
+  "den": "Grance Senesi DOC",
+  "tipi": {
+   "grance-senesi": [
+    "Grance Senesi"
+   ]
+  },
+  "ospitalita": [
+   [
+    "Orari di visita",
+    "10–13 e 14.30–18.30 (in inverno fino alle 18); aperta tutti i giorni da metà marzo a fine ottobre e nel periodo natalizio, nei mesi invernali sabato, domenica e festivi"
+   ],
+   [
+    "Ingresso",
+    "Libero e gratuito"
+   ]
+  ]
+ },
+ {
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0577 1607338",
+  "email": "info@lanascosta.it",
+  "social": {},
+  "consorzio": null,
+  "regione": "Toscana",
+  "url_consorzio": "",
+  "wip": "La Nascosta",
+  "slug": "la-nascosta",
+  "nome": "La Nascosta",
+  "comune": "Castiglione d’Orcia",
+  "sede": "Strada vicinale Le Rovine, Castiglione d’Orcia, SI",
+  "sito": "https://lanascosta.it/",
+  "dom": "lanascosta.it",
+  "den": "Orcia DOC",
+  "tipi": {
+   "orcia": [
+    "Orcia"
+   ]
+  },
+  "fonte_den": {
+   "testo": "Scheda di vendita online del Rosso Orcia DOC «Saltamacchia» di La Nascosta.",
+   "url": "https://bottleofitaly.com/en/products/rosso-orcia-doc-saltamacchia-2019-la-nascosta",
+   "etichetta": "bottleofitaly.com"
+  }
+ },
+ {
+  "rag": "AGRIGEO Soc. Agricola S.S.",
+  "piva": "",
+  "tel": "+39 0578 896136",
+  "email": "info@poderecasanovavini.com",
+  "social": {},
+  "consorzio": null,
+  "regione": "Toscana",
+  "url_consorzio": "",
+  "wip": "Grappi Luchino (Podere Casanova)",
+  "slug": "podere-casanova-agrigeo",
+  "nome": "Podere Casanova",
+  "comune": "Montepulciano",
+  "sede": "Strada Provinciale 326 n. 196, località Tre Berte, 53045 Montepulciano, SI",
+  "sito": "https://www.poderecasanovavini.com/",
+  "dom": "poderecasanovavini.com",
+  "den": "Rosso di Montepulciano DOC, Nobile di Montepulciano DOCG",
+  "tipi": {
+   "nobile": [
+    "Nobile di Montepulciano"
+   ]
+  }
  }
 ]
