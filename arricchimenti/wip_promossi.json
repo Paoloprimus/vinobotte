@@ -11080,5 +11080,42 @@
   "social_consorzio": true,
   "wip": "Abrami Elisabetta",
   "data_consultazione": "31 ottobre 2026"
+ },
+ {
+  "slug": "montelio",
+  "nome": "Montelio",
+  "comune": "Codevilla",
+  "tipi": {
+   "oltrepo-pavese": [
+    "Oltrepò Pavese",
+    "Bonarda dell’Oltrepò Pavese",
+    "Pinot Nero dell’Oltrepò Pavese"
+   ]
+  },
+  "piva": "01830950182",
+  "sede": "Via Domenico Mazza 1, 27050 Codevilla (PV)",
+  "tel": "0383 373090",
+  "email": "cantine@montelio.it",
+  "sito": "https://www.montelio.it/",
+  "dom": "montelio.it",
+  "den": "Oltrepò Pavese, Bonarda dell’Oltrepò Pavese, Pinot Nero dell’Oltrepò Pavese",
+  "wip": "Montelio di C. E G. Brazzola",
+  "rag": "Azienda Agricola Montelio di C. e G. Brazzola",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "url_consorzio": "https://www.classeseoltrepopavese.it/i-produttori/",
+  "consorzio_nome": "Consorzio Tutela Vini Oltrepò Pavese",
+  "dom_consorzio": "classeseoltrepopavese.it",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "oltrepo-pavese",
+  "regione": "Lombardia",
+  "data_consultazione": "31 ottobre 2026",
+  "fonte_den": {
+   "testo": "Scheda della cantina Montelio con i vini Oltrepò Pavese DOC, Bonarda e Pinot Nero.",
+   "url": "https://www.enprimeurclub.com/wineries/montelio-codevilla",
+   "etichetta": "enprimeurclub.com"
+  }
  }
 ]

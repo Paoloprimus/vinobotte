@@ -1,0 +1,69 @@
+{
+ "nome": "Montelio",
+ "slug": "montelio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Montelio di C. e G. Brazzola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01830950182 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Domenico Mazza 1, 27050 Codevilla (PV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0383 373090 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantine@montelio.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.montelio.it/|montelio.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Oltrepò Pavese [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Oltrepò Pavese, Bonarda dell’Oltrepò Pavese, Pinot Nero dell’Oltrepò Pavese [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.montelio.it/",
+   "etichetta": "montelio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Oltrepò Pavese, consultato il 31 ottobre 2026.",
+   "url": "https://www.classeseoltrepopavese.it/i-produttori/",
+   "etichetta": "classeseoltrepopavese.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda della cantina Montelio con i vini Oltrepò Pavese DOC, Bonarda e Pinot Nero. Consultata il 31 ottobre 2026.",
+   "url": "https://www.enprimeurclub.com/wineries/montelio-codevilla",
+   "etichetta": "enprimeurclub.com"
+  }
+ ]
+}
