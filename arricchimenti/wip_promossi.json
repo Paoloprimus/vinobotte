@@ -3560,5 +3560,115 @@
    "url": "https://www.falstaff.com/en/wines/fattoria-delle-ripalte-2007-aleatico-alea-passito-dellelba-docg",
    "etichetta": "falstaff.com"
   }
+ },
+ {
+  "wip": "Ottaviano Lambruschi",
+  "slug": "ottaviano-lambruschi",
+  "nome": "Ottaviano Lambruschi",
+  "comune": "Castelnuovo Magra",
+  "sede": "Via Olmarello 56/58, 19033 Castelnuovo Magra, SP",
+  "rag": "",
+  "piva": "00502120116",
+  "tel": "+39 0187 674261",
+  "email": "info@ottavianolambruschi.com",
+  "sito": "https://www.ottavianolambruschisp.com/",
+  "dom": "ottavianolambruschisp.com",
+  "social": {
+   "Facebook": "https://www.facebook.com/Azienda-Agricola-Ottaviano-Lambruschi-1804694533142928/",
+   "Instagram": "https://www.instagram.com/ottaviano_lambruschi/"
+  },
+  "den": "Colli di Luni DOC",
+  "tipi": {
+   "colli-di-luni": [
+    "Colli di Luni"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Liguria",
+  "url_consorzio": "",
+  "fonte_den": {
+   "testo": "Scheda di vendita online del Vermentino Colli di Luni «Costa Marina» di Ottaviano Lambruschi.",
+   "url": "https://callmewine.com/en/vermentino-costa-marina-lambruschi-2023-P55385.htm",
+   "etichetta": "callmewine.com"
+  }
+ },
+ {
+  "wip": "Cantine Faralli",
+  "slug": "cantine-faralli",
+  "nome": "Cantine Faralli",
+  "comune": "Cortona",
+  "sede": "Località Fasciano 4, 52044 Cortona, AR",
+  "rag": "",
+  "piva": "",
+  "tel": "",
+  "email": "afaralli82@gmail.com",
+  "sito": "https://cantinefaralli.it/",
+  "dom": "cantinefaralli.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/cantine.faralli2003",
+   "Instagram": "https://www.instagram.com/cantinefaralliwine"
+  },
+  "den": "Cortona DOC",
+  "tipi": {
+   "cortona": [
+    "Cortona"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Azienda Agricola Fabbrica di San Martino",
+  "slug": "fabbrica-di-san-martino",
+  "nome": "Fabbrica di San Martino",
+  "comune": "Lucca",
+  "sede": "Via Pieve Santo Stefano 2511, San Martino in Vignale, 55100 Lucca, LU",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0583 394284",
+  "email": "info@fabbricadisanmartino.it",
+  "sito": "https://www.fabbricadisanmartino.it/",
+  "dom": "fabbricadisanmartino.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/pages/Fabbrica-di-San-Martino/132968864079"
+  },
+  "den": "Colline Lucchesi DOC",
+  "tipi": {
+   "colline-lucchesi": [
+    "Colline Lucchesi"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": ""
+ },
+ {
+  "wip": "Azienda Agricola Federici",
+  "slug": "cantine-federici",
+  "nome": "Cantine Federici",
+  "comune": "Ortonovo",
+  "sede": "Via Forlino 3, Ortonovo, SP",
+  "rag": "",
+  "piva": "",
+  "tel": "+39 0187 661821",
+  "email": "info@cantinefederici.com",
+  "sito": "https://www.cantinefederici.com/",
+  "dom": "cantinefederici.com",
+  "social": {},
+  "den": "Colli di Luni DOC",
+  "tipi": {
+   "colli-di-luni": [
+    "Colli di Luni"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Liguria",
+  "url_consorzio": "",
+  "fonte_den": {
+   "testo": "Scheda di vendita online del Vermentino Colli di Luni «Sarticola» di Federici, in cui è indicata la denominazione Colli di Luni DOC.",
+   "url": "https://vinaidelborgo.com/en-hk/products/federici-sarticola-colli-di-luni-vermentino-doc",
+   "etichetta": "vinaidelborgo.com"
+  }
  }
 ]

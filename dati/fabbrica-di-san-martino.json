@@ -1,0 +1,63 @@
+{
+ "nome": "Fabbrica di San Martino",
+ "slug": "fabbrica-di-san-martino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Pieve Santo Stefano 2511, San Martino in Vignale, 55100 Lucca, LU [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0583 394284 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fabbricadisanmartino.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fabbricadisanmartino.it/|fabbricadisanmartino.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colline Lucchesi DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/pages/Fabbrica-di-San-Martino/132968864079|facebook.com/pages/Fabbrica-di-San-Martino/132968864079}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.fabbricadisanmartino.it/",
+   "etichetta": "fabbricadisanmartino.it"
+  }
+ ]
+}

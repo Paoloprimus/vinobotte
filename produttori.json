@@ -45129,5 +45129,65 @@
 "tenuta-delle-ripalte"
 ],
 "primario": "tenuta-delle-ripalte"
+},
+{
+"slug": "ottaviano-lambruschi",
+"nome": "Ottaviano Lambruschi",
+"regione": "Liguria",
+"comune": "Castelnuovo Magra",
+"tipi": {
+"colli-di-luni": [
+"Colli di Luni"
+]
+},
+"membri": [
+"ottaviano-lambruschi"
+],
+"primario": "ottaviano-lambruschi"
+},
+{
+"slug": "cantine-faralli",
+"nome": "Cantine Faralli",
+"regione": "Toscana",
+"comune": "Cortona",
+"tipi": {
+"cortona": [
+"Cortona"
+]
+},
+"membri": [
+"cantine-faralli"
+],
+"primario": "cantine-faralli"
+},
+{
+"slug": "fabbrica-di-san-martino",
+"nome": "Fabbrica di San Martino",
+"regione": "Toscana",
+"comune": "Lucca",
+"tipi": {
+"colline-lucchesi": [
+"Colline Lucchesi"
+]
+},
+"membri": [
+"fabbrica-di-san-martino"
+],
+"primario": "fabbrica-di-san-martino"
+},
+{
+"slug": "cantine-federici",
+"nome": "Cantine Federici",
+"regione": "Liguria",
+"comune": "Ortonovo",
+"tipi": {
+"colli-di-luni": [
+"Colli di Luni"
+]
+},
+"membri": [
+"cantine-federici"
+],
+"primario": "cantine-federici"
 }
 ]

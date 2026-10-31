@@ -1,0 +1,60 @@
+{
+ "nome": "Cantine Federici",
+ "slug": "cantine-federici",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Forlino 3, Ortonovo, SP [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0187 661821 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinefederici.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinefederici.com/|cantinefederici.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colli di Luni DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.cantinefederici.com/",
+   "etichetta": "cantinefederici.com"
+  },
+  {
+   "n": 2,
+   "testo": "Scheda di vendita online del Vermentino Colli di Luni «Sarticola» di Federici, in cui è indicata la denominazione Colli di Luni DOC. Consultata il 31 ottobre 2026.",
+   "url": "https://vinaidelborgo.com/en-hk/products/federici-sarticola-colli-di-luni-vermentino-doc",
+   "etichetta": "vinaidelborgo.com"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "nome": "Ottaviano Lambruschi",
+ "slug": "ottaviano-lambruschi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00502120116 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Olmarello 56/58, 19033 Castelnuovo Magra, SP [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0187 674261 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ottavianolambruschi.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ottavianolambruschisp.com/|ottavianolambruschisp.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colli di Luni DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/Azienda-Agricola-Ottaviano-Lambruschi-1804694533142928/|facebook.com/Azienda-Agricola-Ottaviano-Lambruschi-1804694533142928}}\nInstagram {{https://www.instagram.com/ottaviano_lambruschi/|instagram.com/ottaviano_lambruschi}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.ottavianolambruschisp.com/",
+   "etichetta": "ottavianolambruschisp.com"
+  },
+  {
+   "n": 2,
+   "testo": "Scheda di vendita online del Vermentino Colli di Luni «Costa Marina» di Ottaviano Lambruschi. Consultata il 31 ottobre 2026.",
+   "url": "https://callmewine.com/en/vermentino-costa-marina-lambruschi-2023-P55385.htm",
+   "etichetta": "callmewine.com"
+  }
+ ]
+}
