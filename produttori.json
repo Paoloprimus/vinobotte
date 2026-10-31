@@ -45399,5 +45399,20 @@
 "podere-casanova-agrigeo"
 ],
 "primario": "podere-casanova-agrigeo"
+},
+{
+"slug": "pieve-di-santo-stefano",
+"nome": "Pieve di Santo Stefano",
+"regione": "Toscana",
+"comune": "Lucca",
+"tipi": {
+"colline-lucchesi": [
+"Colline Lucchesi"
+]
+},
+"membri": [
+"pieve-di-santo-stefano"
+],
+"primario": "pieve-di-santo-stefano"
 }
 ]

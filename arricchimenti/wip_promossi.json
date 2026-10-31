@@ -4088,5 +4088,33 @@
     "Nobile di Montepulciano"
    ]
   }
+ },
+ {
+  "wip": "Società Agricola Pieve di Santo Stefano",
+  "slug": "pieve-di-santo-stefano",
+  "nome": "Pieve di Santo Stefano",
+  "comune": "Lucca",
+  "sede": "Via Pieve Santo Stefano 5427, località Sardini, 55100 Lucca",
+  "rag": "Società Agricola Pieve di Santo Stefano srl",
+  "piva": "01084760451",
+  "tel": "+39 0583 394115",
+  "email": "cantina@pievedisantostefano.com",
+  "sito": "https://www.pievedisantostefano.com/",
+  "dom": "pievedisantostefano.com",
+  "social": {},
+  "den": "Colline Lucchesi DOC",
+  "tipi": {
+   "colline-lucchesi": [
+    "Colline Lucchesi"
+   ]
+  },
+  "consorzio": null,
+  "regione": "Toscana",
+  "url_consorzio": "",
+  "fonte_den": {
+   "testo": "Scheda del vino «Villa Sardini» sul sito della cantina, che indica la denominazione Colline Lucchesi Rosso DOC.",
+   "url": "https://www.pievedisantostefano.com/it/wine-house/our-wines/villa-sardini/",
+   "etichetta": "pievedisantostefano.com"
+  }
  }
 ]

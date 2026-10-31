@@ -1,0 +1,68 @@
+{
+ "nome": "Pieve di Santo Stefano",
+ "slug": "pieve-di-santo-stefano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Pieve di Santo Stefano srl [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01084760451 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Pieve Santo Stefano 5427, località Sardini, 55100 Lucca [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0583 394115 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantina@pievedisantostefano.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.pievedisantostefano.com/|pievedisantostefano.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colline Lucchesi DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://www.pievedisantostefano.com/",
+   "etichetta": "pievedisantostefano.com"
+  },
+  {
+   "n": 2,
+   "testo": "Scheda del vino «Villa Sardini» sul sito della cantina, che indica la denominazione Colline Lucchesi Rosso DOC. Consultata il 31 ottobre 2026.",
+   "url": "https://www.pievedisantostefano.com/it/wine-house/our-wines/villa-sardini/",
+   "etichetta": "pievedisantostefano.com"
+  }
+ ]
+}
