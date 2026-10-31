@@ -10736,5 +10736,35 @@
   "data_consorzio": "31 ottobre 2026",
   "consorzio": "lugana",
   "data_consultazione": "31 ottobre 2026"
+ },
+ {
+  "slug": "perla-del-garda",
+  "nome": "Perla del Garda",
+  "regione": "Lombardia",
+  "comune": "Lonato del Garda",
+  "tipi": {
+   "lugana": [
+    "Lugana"
+   ]
+  },
+  "piva": "01426170179",
+  "sede": "Via Fenil Vecchio 3, 25017 Lonato del Garda (BS)",
+  "tel": "030 910 3109",
+  "email": "info@perladelgarda.it",
+  "sito": "https://www.perladelgarda.it/",
+  "dom": "perladelgarda.it",
+  "den": "Lugana",
+  "wip": "Prandini",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/perla-del-garda",
+  "rag": "Morenica Società Agricola S.r.l.",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "31 ottobre 2026"
  }
 ]

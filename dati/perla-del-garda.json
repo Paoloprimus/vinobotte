@@ -1,0 +1,63 @@
+{
+ "nome": "Perla del Garda",
+ "slug": "perla-del-garda",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Morenica Società Agricola S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01426170179 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fenil Vecchio 3, 25017 Lonato del Garda (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "030 910 3109 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@perladelgarda.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.perladelgarda.it/|perladelgarda.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.perladelgarda.it/",
+   "etichetta": "perladelgarda.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, consultato il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/perla-del-garda",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}

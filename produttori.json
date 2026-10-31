@@ -48369,5 +48369,20 @@
 "cantina-di-sona"
 ],
 "primario": "cantina-di-sona"
+},
+{
+"slug": "perla-del-garda",
+"nome": "Perla del Garda",
+"regione": "Lombardia",
+"comune": "Lonato del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"perla-del-garda"
+],
+"primario": "perla-del-garda"
 }
 ]
