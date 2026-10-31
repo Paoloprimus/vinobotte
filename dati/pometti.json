@@ -1,0 +1,77 @@
+{
+ "nome": "Pometti",
+ "slug": "pometti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Pometti di Pometti Carlotta [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01237820525 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località La Selva, 53020 Trequanda, SI [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0577 662017 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@pometti.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://pometti.it/|pometti.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Orcia DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram {{https://www.instagram.com/carlotta_pometti/|instagram.com/carlotta_pometti}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 30 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
+   "url": "https://pometti.it/",
+   "etichetta": "pometti.it"
+  },
+  {
+   "n": 2,
+   "testo": "Scheda di vendita online dell’Orcia DOC «Centosei» di Tenuta Pometti. Consultata il 31 ottobre 2026.",
+   "url": "https://www.vino.com/en/dettaglio/orcia-doc-centosei-tenuta-pometti-2011.html",
+   "etichetta": "vino.com"
+  }
+ ]
+}

@@ -3499,5 +3499,66 @@
   "consorzio": "",
   "regione": "Toscana",
   "url_consorzio": ""
+ },
+ {
+  "wip": "Pometti",
+  "slug": "pometti",
+  "nome": "Pometti",
+  "comune": "Trequanda",
+  "sede": "Località La Selva, 53020 Trequanda, SI",
+  "rag": "Pometti di Pometti Carlotta",
+  "piva": "01237820525",
+  "tel": "+39 0577 662017",
+  "email": "info@pometti.it",
+  "sito": "https://pometti.it/",
+  "dom": "pometti.it",
+  "social": {
+   "Instagram": "https://www.instagram.com/carlotta_pometti/"
+  },
+  "den": "Orcia DOC",
+  "tipi": {
+   "orcia": [
+    "Orcia"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": "",
+  "fonte_den": {
+   "testo": "Scheda di vendita online dell’Orcia DOC «Centosei» di Tenuta Pometti.",
+   "url": "https://www.vino.com/en/dettaglio/orcia-doc-centosei-tenuta-pometti-2011.html",
+   "etichetta": "vino.com"
+  }
+ },
+ {
+  "wip": "Tenuta delle Ripalte",
+  "slug": "tenuta-delle-ripalte",
+  "nome": "Tenuta delle Ripalte",
+  "comune": "Capoliveri",
+  "sede": "Località Ripe Alte, 57031 Capoliveri, LI",
+  "rag": "Tenuta delle Ripalte S.p.A.",
+  "piva": "01774970238",
+  "tel": "+39 0565 94211",
+  "email": "info@tenutadelleripalte.it",
+  "sito": "https://www.tenutadelleripalte.it/",
+  "dom": "tenutadelleripalte.it",
+  "social": {
+   "Facebook": "https://www.facebook.com/tenutadelleripalte",
+   "Instagram": "https://www.instagram.com/tenutadelleripalte_wineresort"
+  },
+  "den": "Aleatico Passito dell’Elba DOCG",
+  "tipi": {
+   "elba": [
+    "Elba Aleatico Passito"
+   ]
+  },
+  "consorzio": "",
+  "regione": "Toscana",
+  "url_consorzio": "",
+  "fonte_den": {
+   "testo": "Scheda del vino Aleatico «Alea» Passito dell’Elba DOCG della Fattoria delle Ripalte (società del gruppo, citata nel sito della tenuta).",
+   "url": "https://www.falstaff.com/en/wines/fattoria-delle-ripalte-2007-aleatico-alea-passito-dellelba-docg",
+   "etichetta": "falstaff.com"
+  }
  }
 ]

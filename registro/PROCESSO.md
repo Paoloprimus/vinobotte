@@ -77,3 +77,4 @@ Il generatore delle schede nasce in `valpolicella-web/annuario` (24/10). Poi il 
 - Nono passo (31 ottobre): promosse anche Podere Allocco e Colline San Biagio (Carmignano DOCG dalla scheda del consorzio, sede solo comune). Lista provvisoria: 94 righe; sito: 2.782 produttori.
 - Decimo passo (31 ottobre): per decisione di Paolo tolte dalla lista provvisoria le 36 cantine senza sito ufficiale trovabile. Lista provvisoria: 59 righe.
 - Undicesimo passo (31 ottobre): promosse Terenzi (Morellino di Scansano DOCG), Tenute Folonari (Chianti Classico DOCG), Estevan Wine (Terre di Casole DOC) e Fabrizio Doveri (Cortona DOC, sede solo comune). Lista provvisoria: 55 righe; sito: 2.786 produttori.
+- Dodicesimo passo (31 ottobre): promosse Pometti (Orcia DOC) e Tenuta delle Ripalte (Elba, Aleatico Passito DOCG) con denominazione da schede di vendita online; Faralli e Fabbrica di San Martino restano senza sede. Lista provvisoria: 53 righe; sito: 2.788 produttori.

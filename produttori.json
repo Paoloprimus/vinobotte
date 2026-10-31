@@ -45099,5 +45099,35 @@
 "fabrizio-doveri"
 ],
 "primario": "fabrizio-doveri"
+},
+{
+"slug": "pometti",
+"nome": "Pometti",
+"regione": "Toscana",
+"comune": "Trequanda",
+"tipi": {
+"orcia": [
+"Orcia"
+]
+},
+"membri": [
+"pometti"
+],
+"primario": "pometti"
+},
+{
+"slug": "tenuta-delle-ripalte",
+"nome": "Tenuta delle Ripalte",
+"regione": "Toscana",
+"comune": "Capoliveri",
+"tipi": {
+"elba": [
+"Elba Aleatico Passito"
+]
+},
+"membri": [
+"tenuta-delle-ripalte"
+],
+"primario": "tenuta-delle-ripalte"
 }
 ]
