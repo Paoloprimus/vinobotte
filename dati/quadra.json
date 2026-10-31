@@ -1,0 +1,85 @@
+{
+ "nome": "Quadra",
+ "slug": "quadra",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Quadra S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03055570166 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Sant’Eusebio 1, 25033 Cologne (BS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "030 7157314 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@quadrafranciacorta.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://quadrafranciacorta.it/|quadrafranciacorta.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Orari",
+     "valore": "Mercoledì–sabato 9.30–18; domenica 9.30–13; lunedì e martedì chiuso [[2]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Visite e degustazioni in cantina [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook {{https://www.facebook.com/quadrafranciacorta|facebook.com/quadrafranciacorta}}\nInstagram {{https://www.instagram.com/quadrafranciacorta|instagram.com/quadrafranciacorta}} [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "http://quadrafranciacorta.it/",
+   "etichetta": "quadrafranciacorta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/quadra/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

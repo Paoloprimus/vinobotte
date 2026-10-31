@@ -10894,5 +10894,191 @@
    "url": "https://www.consorziolugana.it/elenco-aziende/corbari-roberto",
    "etichetta": "consorziolugana.it"
   }
+ },
+ {
+  "slug": "bellavista",
+  "nome": "Bellavista",
+  "regione": "Lombardia",
+  "comune": "Erbusco",
+  "tipi": {
+   "franciacorta": [
+    "Franciacorta",
+    "Franciacorta Satèn",
+    "Franciacorta Rosé",
+    "Franciacorta Millesimato",
+    "Franciacorta Riserva"
+   ]
+  },
+  "rag": "",
+  "piva": "01948510985",
+  "sede": "Via Bellavista 5, 25030 Erbusco (BS)",
+  "tel": "030 7762000",
+  "email": "",
+  "sito": "https://www.bellavistawine.it/",
+  "dom": "bellavistawine.it",
+  "den": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva",
+  "social": {
+   "Facebook": "https://www.facebook.com/bellavistawine/",
+   "Instagram": "https://www.instagram.com/bellavistawine/"
+  },
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "url_consorzio": "https://franciacorta.wine/it/cantine/bellavista/",
+  "ospitalita": [
+   [
+    "Orari",
+    "Lunedì–venerdì 10–12.30 e 14–18; sabato e domenica 10–18"
+   ],
+   [
+    "Visite e degustazioni",
+    "Visite e degustazioni in cantina"
+   ]
+  ],
+  "consorzio_nome": "Consorzio per la tutela del Franciacorta",
+  "dom_consorzio": "franciacorta.wine",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "franciacorta",
+  "social_consorzio": true,
+  "wip": "Bellavista",
+  "data_consultazione": "31 ottobre 2026"
+ },
+ {
+  "slug": "quadra",
+  "nome": "Quadra",
+  "regione": "Lombardia",
+  "comune": "Cologne",
+  "tipi": {
+   "franciacorta": [
+    "Franciacorta",
+    "Franciacorta Satèn",
+    "Franciacorta Rosé",
+    "Franciacorta Millesimato",
+    "Franciacorta Riserva"
+   ]
+  },
+  "rag": "Quadra S.r.l.",
+  "piva": "03055570166",
+  "sede": "Via Sant’Eusebio 1, 25033 Cologne (BS)",
+  "tel": "030 7157314",
+  "email": "info@quadrafranciacorta.it",
+  "sito": "http://quadrafranciacorta.it/",
+  "dom": "quadrafranciacorta.it",
+  "den": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva",
+  "social": {
+   "Facebook": "https://www.facebook.com/quadrafranciacorta",
+   "Instagram": "https://www.instagram.com/quadrafranciacorta"
+  },
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "url_consorzio": "https://franciacorta.wine/it/cantine/quadra/",
+  "ospitalita": [
+   [
+    "Orari",
+    "Mercoledì–sabato 9.30–18; domenica 9.30–13; lunedì e martedì chiuso"
+   ],
+   [
+    "Visite e degustazioni",
+    "Visite e degustazioni in cantina"
+   ]
+  ],
+  "consorzio_nome": "Consorzio per la tutela del Franciacorta",
+  "dom_consorzio": "franciacorta.wine",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "franciacorta",
+  "social_consorzio": true,
+  "wip": "Quadra",
+  "data_consultazione": "31 ottobre 2026"
+ },
+ {
+  "slug": "vinea-ventis",
+  "nome": "Vinea Ventis",
+  "regione": "Lombardia",
+  "comune": "Paratico",
+  "tipi": {
+   "franciacorta": [
+    "Franciacorta",
+    "Franciacorta Satèn",
+    "Franciacorta Rosé",
+    "Franciacorta Millesimato"
+   ]
+  },
+  "rag": "Azienda Agricola Spica",
+  "piva": "04276400985",
+  "sede": "Via Molino 1, 25030 Paratico (BS)",
+  "tel": "035 0266523",
+  "email": "info@vineaventis.it",
+  "sito": "http://www.vineaventis.it/",
+  "dom": "vineaventis.it",
+  "den": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato",
+  "social": {
+   "Instagram": "https://www.instagram.com/vineaventis_franciacorta"
+  },
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "url_consorzio": "https://franciacorta.wine/it/cantine/vinea-ventis/",
+  "ospitalita": [
+   [
+    "Orari",
+    "Lunedì–venerdì 10.30–15.30; sabato e domenica 10.30–16.30"
+   ],
+   [
+    "Visite e degustazioni",
+    "Visite e degustazioni in cantina"
+   ]
+  ],
+  "consorzio_nome": "Consorzio per la tutela del Franciacorta",
+  "dom_consorzio": "franciacorta.wine",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "franciacorta",
+  "social_consorzio": true,
+  "wip": "Vinea Ventis",
+  "data_consultazione": "31 ottobre 2026"
+ },
+ {
+  "slug": "abrami-elisabetta",
+  "nome": "Abrami Elisabetta",
+  "regione": "Lombardia",
+  "comune": "Provaglio d’Iseo",
+  "tipi": {
+   "franciacorta": [
+    "Franciacorta",
+    "Franciacorta Satèn",
+    "Franciacorta Rosé",
+    "Franciacorta Millesimato",
+    "Franciacorta Riserva"
+   ]
+  },
+  "rag": "Azienda Agricola Abrami Elisabetta",
+  "piva": "02884850989",
+  "sede": "Via Fosche 5, 25050 Provaglio d’Iseo (BS)",
+  "tel": "030 6857185",
+  "email": "info@vinielisabettaabrami.it",
+  "sito": "http://www.vinielisabettaabrami.it/",
+  "dom": "vinielisabettaabrami.it",
+  "den": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva",
+  "social": {
+   "Facebook": "https://www.facebook.com/viniabrami",
+   "Instagram": "https://www.instagram.com/elisabettaabrami"
+  },
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "url_consorzio": "https://franciacorta.wine/it/cantine/abrami-elisabetta/",
+  "ospitalita": [
+   [
+    "Orari",
+    "Lunedì–sabato 11.30–13 e 15.30–17; domenica chiuso; visite su prenotazione"
+   ],
+   [
+    "Visite e degustazioni",
+    "Visite e degustazioni in cantina"
+   ]
+  ],
+  "consorzio_nome": "Consorzio per la tutela del Franciacorta",
+  "dom_consorzio": "franciacorta.wine",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "franciacorta",
+  "social_consorzio": true,
+  "wip": "Abrami Elisabetta",
+  "data_consultazione": "31 ottobre 2026"
  }
 ]
