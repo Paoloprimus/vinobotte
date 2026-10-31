@@ -47930,5 +47930,68 @@
 "bisi"
 ],
 "primario": "bisi"
+},
+{
+"slug": "la-sbercia",
+"nome": "La Sbercia",
+"regione": "Lombardia",
+"comune": "Borgoratto Mormorolo",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese",
+"Oltrepò Pavese Bianco"
+]
+},
+"membri": [
+"la-sbercia"
+],
+"primario": "la-sbercia"
+},
+{
+"slug": "il-poggiolo-delmonte-pietro",
+"nome": "Il Poggiolo di Delmonte Pietro",
+"regione": "Lombardia",
+"comune": "Montù Beccaria",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda",
+"Classese Pinot Nero DOCG"
+]
+},
+"membri": [
+"il-poggiolo-delmonte-pietro"
+],
+"primario": "il-poggiolo-delmonte-pietro"
+},
+{
+"slug": "ca-del-santo",
+"nome": "Ca’ del Santo",
+"regione": "Lombardia",
+"comune": "Montalto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese Metodo Classico",
+"Sangue di Giuda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"ca-del-santo"
+],
+"primario": "ca-del-santo"
+},
+{
+"slug": "andrea-calvi",
+"nome": "Andrea Calvi",
+"regione": "Lombardia",
+"comune": "Canneto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"andrea-calvi"
+],
+"primario": "andrea-calvi"
 }
 ]
