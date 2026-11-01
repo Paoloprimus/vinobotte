@@ -8320,7 +8320,10 @@
 "venezie": [
 "Delle Venezie"
 ],
-"durello": []
+"durello": [],
+"merlara": [
+"Merlara"
+]
 },
 "membri": [
 "collis-veneto-wine-group",
@@ -48539,5 +48542,20 @@
 "montelio"
 ],
 "primario": "montelio"
+},
+{
+"slug": "ponte-al-masero",
+"nome": "Ponte al Masero",
+"regione": "Veneto",
+"comune": "Merlara",
+"tipi": {
+"merlara": [
+"Merlara"
+]
+},
+"membri": [
+"ponte-al-masero"
+],
+"primario": "ponte-al-masero"
 }
 ]

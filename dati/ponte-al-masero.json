@@ -1,0 +1,69 @@
+{
+ "nome": "Ponte al Masero",
+ "slug": "ponte-al-masero",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Ponte al Masero di Bisin & Bisin [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04287750287 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Malmercato 67, 35040 Merlara (PD) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0429 844604 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "pontealmasero@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.pontealmasero.it/|pontealmasero.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Merlara DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Merlara [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.pontealmasero.it/",
+   "etichetta": "pontealmasero.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Merlara DOC, consultato il 31 ottobre 2026.",
+   "url": "https://merlara.wine/aziende-del-merlara-doc/",
+   "etichetta": "merlara.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco delle aziende del Merlara DOC sul sito del Consorzio Tutela Vini Merlara DOC, che include l’azienda; il sito dell’azienda riporta «Membro del Consorzio Merlara DOC». Consultata il 31 ottobre 2026.",
+   "url": "https://merlara.wine/aziende-del-merlara-doc/",
+   "etichetta": "merlara.wine"
+  }
+ ]
+}

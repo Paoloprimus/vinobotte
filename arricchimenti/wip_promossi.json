@@ -11117,5 +11117,40 @@
    "url": "https://www.enprimeurclub.com/wineries/montelio-codevilla",
    "etichetta": "enprimeurclub.com"
   }
+ },
+ {
+  "slug": "ponte-al-masero",
+  "nome": "Ponte al Masero",
+  "regione": "Veneto",
+  "comune": "Merlara",
+  "tipi": {
+   "merlara": [
+    "Merlara"
+   ]
+  },
+  "piva": "04287750287",
+  "sede": "Via Malmercato 67, 35040 Merlara (PD)",
+  "tel": "0429 844604",
+  "email": "pontealmasero@gmail.com",
+  "sito": "https://www.pontealmasero.it/",
+  "dom": "pontealmasero.it",
+  "den": "Merlara",
+  "wip": "Ponte al Masero",
+  "url_consorzio": "https://merlara.wine/aziende-del-merlara-doc/",
+  "rag": "Azienda Agricola Ponte al Masero di Bisin & Bisin",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio Tutela Vini Merlara DOC",
+  "dom_consorzio": "merlara.wine",
+  "data_consorzio": "31 ottobre 2026",
+  "consorzio": "merlara",
+  "data_consultazione": "31 ottobre 2026",
+  "fonte_den": {
+   "testo": "Elenco delle aziende del Merlara DOC sul sito del Consorzio Tutela Vini Merlara DOC, che include l’azienda; il sito dell’azienda riporta «Membro del Consorzio Merlara DOC».",
+   "url": "https://merlara.wine/aziende-del-merlara-doc/",
+   "etichetta": "merlara.wine"
+  }
  }
 ]
