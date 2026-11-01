@@ -1,0 +1,69 @@
+{
+ "nome": "Le Carezze",
+ "slug": "cantina-le-carezze",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Le Carezze S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04716590239 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Carezze 28/A, 37040 Terrazzo (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0442 1908111 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinalecarezze.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinalecarezze.it/|cantinalecarezze.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Merlara DOC [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Merlara [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://www.cantinalecarezze.it/",
+   "etichetta": "cantinalecarezze.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Merlara DOC, consultato il 31 ottobre 2026.",
+   "url": "https://merlara.wine/aziende-del-merlara-doc/",
+   "etichetta": "merlara.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco delle aziende del Merlara DOC sul sito del Consorzio Tutela Vini Merlara DOC, che include l’azienda (il sito dell’azienda elenca i vini come IGT e non cita la denominazione). Consultata il 31 ottobre 2026.",
+   "url": "https://merlara.wine/aziende-del-merlara-doc/",
+   "etichetta": "merlara.wine"
+  }
+ ]
+}

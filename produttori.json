@@ -48557,5 +48557,20 @@
 "ponte-al-masero"
 ],
 "primario": "ponte-al-masero"
+},
+{
+"slug": "cantina-le-carezze",
+"nome": "Le Carezze",
+"regione": "Veneto",
+"comune": "Terrazzo",
+"tipi": {
+"merlara": [
+"Merlara"
+]
+},
+"membri": [
+"cantina-le-carezze"
+],
+"primario": "cantina-le-carezze"
 }
 ]

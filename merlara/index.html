@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Collis Veneto Wine Group","s":"collis-veneto-wine-group","c":"Monteforte d'Alpone","d":["Merlara"]},{"n":"Ponte al Masero","s":"ponte-al-masero","c":"Merlara","d":["Merlara"]}];
+    const D=[{"n":"Collis Veneto Wine Group","s":"collis-veneto-wine-group","c":"Monteforte d'Alpone","d":["Merlara"]},{"n":"Le Carezze","s":"cantina-le-carezze","c":"Terrazzo","d":["Merlara"]},{"n":"Ponte al Masero","s":"ponte-al-masero","c":"Merlara","d":["Merlara"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
