@@ -4067,29 +4067,6 @@
   }
  },
  {
-  "rag": "AGRIGEO Soc. Agricola S.S.",
-  "piva": "",
-  "tel": "+39 0578 896136",
-  "email": "info@poderecasanovavini.com",
-  "social": {},
-  "consorzio": null,
-  "regione": "Toscana",
-  "url_consorzio": "",
-  "wip": "Grappi Luchino (Podere Casanova)",
-  "slug": "podere-casanova-agrigeo",
-  "nome": "Podere Casanova",
-  "comune": "Montepulciano",
-  "sede": "Strada Provinciale 326 n. 196, località Tre Berte, 53045 Montepulciano, SI",
-  "sito": "https://www.poderecasanovavini.com/",
-  "dom": "poderecasanovavini.com",
-  "den": "Rosso di Montepulciano DOC, Nobile di Montepulciano DOCG",
-  "tipi": {
-   "nobile": [
-    "Nobile di Montepulciano"
-   ]
-  }
- },
- {
   "wip": "Società Agricola Pieve di Santo Stefano",
   "slug": "pieve-di-santo-stefano",
   "nome": "Pieve di Santo Stefano",
@@ -11186,6 +11163,44 @@
    "testo": "Elenco delle aziende del Merlara DOC sul sito del Consorzio Tutela Vini Merlara DOC, che include l’azienda (il sito dell’azienda elenca i vini come IGT e non cita la denominazione).",
    "url": "https://merlara.wine/aziende-del-merlara-doc/",
    "etichetta": "merlara.wine"
+  }
+ },
+ {
+  "slug": "il-conventino",
+  "nome": "Il Conventino",
+  "regione": "Toscana",
+  "comune": "Gracciano di Montepulciano",
+  "tipi": {
+   "nobile": [
+    "Vino Nobile di Montepulciano"
+   ]
+  },
+  "piva": "02334360506",
+  "sede": "Via della Ciarliana 25/B, 53045 Gracciano di Montepulciano (SI)",
+  "tel": "+39 0578 715 371",
+  "email": "info@ilconventino.it",
+  "sito": "https://www.ilconventino.it/",
+  "dom": "ilconventino.it",
+  "den": "Vino Nobile di Montepulciano",
+  "wip": "Il Conventino",
+  "url_consorzio": "https://aziendeconsorziovinonobile.it/",
+  "rag": "La Casella SARL",
+  "social": {
+   "facebook": "https://www.facebook.com/aziendaagricolailconventino/",
+   "instagram": "https://www.instagram.com/agricolailconventino/"
+  },
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio del Vino Nobile di Montepulciano",
+  "dom_consorzio": "aziendeconsorziovinonobile.it",
+  "data_consorzio": "1 novembre 2026",
+  "consorzio": "nobile",
+  "data_consultazione": "1 novembre 2026",
+  "fonte_den": {
+   "testo": "Elenco delle aziende associate al Consorzio del Vino Nobile di Montepulciano, che include l’azienda (il sito dell’azienda non elenca le denominazioni dei vini).",
+   "url": "https://aziendeconsorziovinonobile.it/",
+   "etichetta": "aziendeconsorziovinonobile.it"
   }
  }
 ]

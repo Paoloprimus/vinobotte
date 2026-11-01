@@ -1,0 +1,78 @@
+{
+ "nome": "Il Conventino",
+ "slug": "il-conventino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Casella SARL [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02334360506 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via della Ciarliana 25/B, 53045 Gracciano di Montepulciano (SI) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0578 715 371 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ilconventino.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ilconventino.it/|ilconventino.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Nobile di Montepulciano [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Vino Nobile di Montepulciano [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "facebook {{https://www.facebook.com/aziendaagricolailconventino/|facebook.com/aziendaagricolailconventino}}\ninstagram {{https://www.instagram.com/agricolailconventino/|instagram.com/agricolailconventino}} [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 1 novembre 2026.",
+   "url": "https://www.ilconventino.it/",
+   "etichetta": "ilconventino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio del Vino Nobile di Montepulciano, consultato il 1 novembre 2026.",
+   "url": "https://aziendeconsorziovinonobile.it/",
+   "etichetta": "aziendeconsorziovinonobile.it"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco delle aziende associate al Consorzio del Vino Nobile di Montepulciano, che include l’azienda (il sito dell’azienda non elenca le denominazioni dei vini). Consultata il 31 ottobre 2026.",
+   "url": "https://aziendeconsorziovinonobile.it/",
+   "etichetta": "aziendeconsorziovinonobile.it"
+  }
+ ]
+}

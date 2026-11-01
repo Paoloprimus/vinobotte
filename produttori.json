@@ -45437,21 +45437,6 @@
 "primario": "la-nascosta"
 },
 {
-"slug": "podere-casanova-agrigeo",
-"nome": "Podere Casanova",
-"regione": "Toscana",
-"comune": "Montepulciano",
-"tipi": {
-"nobile": [
-"Nobile di Montepulciano"
-]
-},
-"membri": [
-"podere-casanova-agrigeo"
-],
-"primario": "podere-casanova-agrigeo"
-},
-{
 "slug": "pieve-di-santo-stefano",
 "nome": "Pieve di Santo Stefano",
 "regione": "Toscana",
@@ -48572,5 +48557,20 @@
 "cantina-le-carezze"
 ],
 "primario": "cantina-le-carezze"
+},
+{
+"slug": "il-conventino",
+"nome": "Il Conventino",
+"regione": "Toscana",
+"comune": "Gracciano di Montepulciano",
+"tipi": {
+"nobile": [
+"Vino Nobile di Montepulciano"
+]
+},
+"membri": [
+"il-conventino"
+],
+"primario": "il-conventino"
 }
 ]
