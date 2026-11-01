@@ -22,8 +22,8 @@
      "valore": "{{http://www.fornacelle.com|fornacelle.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzi",
-     "valore": "Consorzio Chianti Colli Senesi [[1]]\nConsorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia [[2]]"
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Chianti Colli Senesi [[1]]"
     }
    ]
   },
@@ -41,7 +41,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Chianti Colli Senesi DOCG; Vernaccia di San Gimignano DOCG; Vernaccia di San Gimignano Riserva DOCG; Vin Santo del Chianti DOC [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Chianti Colli Senesi DOCG; Vernaccia di San Gimignano DOCG; Vernaccia di San Gimignano Riserva DOCG; Vin Santo del Chianti DOC [[2]]"
     }
    ]
   },
@@ -59,7 +59,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/pages/Tenuta-Fornacelle/416988301782426|Tenuta-Fornacelle}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/pages/Tenuta-Fornacelle/416988301782426|Tenuta-Fornacelle}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -67,11 +67,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=1922466922771303266|Mappa}} — valutazione 4,8 su 5 (32 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=1922466922771303266|Mappa}} — valutazione 4,8 su 5 (32 recensioni) [[4]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[5]]"
     }
    ]
   }
@@ -86,30 +86,24 @@
   },
   {
    "n": 2,
-   "testo": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia, scheda del consorziato, consultato il 26 ottobre 2026.",
-   "url": "https://www.bolgheridoc.com/consorziati/fornacelle/",
-   "etichetta": "bolgheridoc.com"
-  },
-  {
-   "n": 3,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.fornacelle.com",
    "etichetta": "fornacelle.com"
   },
   {
-   "n": 4,
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.fornacelle.com",
    "etichetta": "fornacelle.com"
   },
   {
-   "n": 5,
+   "n": 4,
    "testo": "Scheda «Tenuta Fornacelle Azienda Biologica» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=1922466922771303266",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 5,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

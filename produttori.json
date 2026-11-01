@@ -7,7 +7,8 @@
 "tipi": {
 "venezia": [
 "Piave",
-"Venezia"
+"Venezia",
+"Malanotte"
 ],
 "prosecco": [
 "Prosecco DOC"
@@ -19,7 +20,8 @@
 "membri": [
 "barbaran-vigne-e-vini-conegliano",
 "barbaran-vigne-e-vini-prosecco",
-"barbaran-vigne-e-vini-venezia"
+"barbaran-vigne-e-vini-venezia",
+"barbaran-vigne-e-vini-di-barbaran-fabio-c-venezia"
 ],
 "primario": "barbaran-vigne-e-vini-venezia"
 },
@@ -42,23 +44,6 @@
 "cesari-bardolino"
 ],
 "primario": "cesari"
-},
-{
-"slug": "barbaran-vigne-e-vini-di-barbaran-fabio-c",
-"nome": "Barbaran Vigne e Vini di Barbaran Fabio & C",
-"regione": "Veneto",
-"comune": "Zenson di Piave",
-"tipi": {
-"venezia": [
-"Malanotte",
-"Piave",
-"Venezia"
-]
-},
-"membri": [
-"barbaran-vigne-e-vini-di-barbaran-fabio-c-venezia"
-],
-"primario": "barbaran-vigne-e-vini-di-barbaran-fabio-c-venezia"
 },
 {
 "slug": "romani-facco-barbara",
@@ -419,31 +404,22 @@
 "slug": "riva-dei-frati",
 "nome": "Riva dei Frati",
 "regione": "Veneto",
-"comune": "",
+"comune": "Cornuda",
 "tipi": {
-"conegliano": []
-},
-"membri": [
-"riva-dei-frati-conegliano"
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore",
+"Valdobbiadene Superiore di Cartizze"
 ],
-"primario": "riva-dei-frati-conegliano"
-},
-{
-"slug": "ornella-molon-traverso",
-"nome": "Ornella Molon Traverso",
-"regione": "Veneto",
-"comune": "Salgareda",
-"tipi": {
-"venezia": [
-"Malanotte",
-"Piave",
-"Venezia"
+"prosecco": [
+"Prosecco DOC"
 ]
 },
 "membri": [
-"ornella-molon-traverso-venezia"
+"riva-dei-frati-conegliano",
+"la-riva-dei-frati-conegliano",
+"la-riva-dei-frati-prosecco"
 ],
-"primario": "ornella-molon-traverso-venezia"
+"primario": "riva-dei-frati-conegliano"
 },
 {
 "slug": "canoso",
@@ -1103,19 +1079,6 @@
 "primario": "podere-la-madonna-tenuta-dodici-maremma"
 },
 {
-"slug": "lavarini-gian-battista",
-"nome": "Lavarini Gian Battista",
-"regione": "Veneto",
-"comune": "Negrar di Valpolicella",
-"tipi": {
-"valpolicella": []
-},
-"membri": [
-"lavarini-gian-battista"
-],
-"primario": "lavarini-gian-battista"
-},
-{
 "slug": "bertani",
 "nome": "Bertani",
 "regione": "Veneto",
@@ -1147,7 +1110,8 @@
 ]
 },
 "membri": [
-"lavarini-massimo"
+"lavarini-massimo",
+"lavarini-gian-battista"
 ],
 "primario": "lavarini-massimo"
 },
@@ -1798,9 +1762,6 @@
 "regione": "Toscana",
 "comune": "San Gimignano",
 "tipi": {
-"bolgheri": [
-"Bolgheri"
-],
 "colli-senesi": [
 "Chianti Colli Senesi"
 ],
@@ -4289,11 +4250,13 @@
 "tipi": {
 "venezia": [
 "Lison Pramaggiore",
-"Venezia"
+"Venezia",
+"Lison"
 ]
 },
 "membri": [
-"azienda-vitivinicola-ornella-bellia-venezia"
+"azienda-vitivinicola-ornella-bellia-venezia",
+"ornella-bellia-venezia"
 ],
 "primario": "azienda-vitivinicola-ornella-bellia-venezia"
 },
@@ -5671,11 +5634,13 @@
 "comune": "Mansue",
 "tipi": {
 "venezia": [
-"Venezia"
+"Venezia",
+"Piave"
 ]
 },
 "membri": [
-"setten-davide-alcide-venezia"
+"setten-davide-alcide-venezia",
+"tenuta-setten-venezia"
 ],
 "primario": "setten-davide-alcide-venezia"
 },
@@ -8022,7 +7987,8 @@
 ]
 },
 "membri": [
-"buiatti-livio-claudio-colli-orientali"
+"buiatti-livio-claudio-colli-orientali",
+"buiatti-olivo-colli-orientali"
 ],
 "primario": "buiatti-livio-claudio-colli-orientali"
 },
@@ -9825,26 +9791,6 @@
 "primario": "masi"
 },
 {
-"slug": "la-riva-dei-frati",
-"nome": "La Riva dei Frati",
-"regione": "Veneto",
-"comune": "Cornuda",
-"tipi": {
-"conegliano": [
-"Conegliano Valdobbiadene Prosecco Superiore",
-"Valdobbiadene Superiore di Cartizze"
-],
-"prosecco": [
-"Prosecco DOC"
-]
-},
-"membri": [
-"la-riva-dei-frati-conegliano",
-"la-riva-dei-frati-prosecco"
-],
-"primario": "la-riva-dei-frati-conegliano"
-},
-{
 "slug": "societa-agricola-ca-bonetto",
 "nome": "Società Agricola Cà Bonetto",
 "regione": "Veneto",
@@ -9944,41 +9890,6 @@
 "fedele-giacomo-colli-orientali"
 ],
 "primario": "fedele-giacomo-colli-orientali"
-},
-{
-"slug": "cantina-sociale",
-"nome": "Cantina Sociale Valpolicella",
-"regione": "Veneto",
-"comune": "Negrar",
-"tipi": {
-"bardolino": [
-"Bardolino",
-"Chiaretto di Bardolino"
-],
-"soave": [
-"Soave Classico"
-],
-"custoza": [
-"Custoza"
-],
-"valpolicella": [
-"Amarone",
-"Recioto",
-"Ripasso",
-"Valpolicella"
-],
-"venezie": [
-"Delle Venezie"
-]
-},
-"membri": [
-"cantina-sociale-valpolicella",
-"cantina-sociale-valpolicella-bardolino",
-"cantina-sociale-valpolicella-custoza",
-"cantina-sociale-valpolicella-delle-venezie",
-"cantina-sociale-valpolicella-soave"
-],
-"primario": "cantina-sociale-valpolicella"
 },
 {
 "slug": "badia-a-coltibuono",
@@ -12170,25 +12081,6 @@
 "primario": "dino-turco-collio"
 },
 {
-"slug": "le-monde",
-"nome": "Le Monde",
-"regione": "Friuli Venezia Giulia",
-"comune": "Prata di Pordenone",
-"tipi": {
-"friuli-grave": [
-"Friuli Grave"
-],
-"friuli-doc": [
-"Friuli DOC"
-]
-},
-"membri": [
-"le-monde-friuli-doc",
-"le-monde-friuli-grave"
-],
-"primario": "le-monde-friuli-doc"
-},
-{
 "slug": "monte-altore",
 "nome": "Monte Altore",
 "regione": "Veneto",
@@ -13488,7 +13380,7 @@
 "slug": "sensi",
 "nome": "Sensi",
 "regione": "Toscana",
-"comune": "",
+"comune": "Lamporecchio",
 "tipi": {
 "bolgheri": [
 "Bolgheri"
@@ -15272,19 +15164,27 @@
 "regione": "Veneto",
 "comune": "Ponte di Piave",
 "tipi": {
-"conegliano": [],
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore",
+"Valdobbiadene Superiore di Cartizze"
+],
 "venezie": [
 "Delle Venezie"
 ],
 "venezia": [
 "Malanotte",
 "Venezia"
+],
+"prosecco": [
+"Prosecco DOC"
 ]
 },
 "membri": [
 "anna-spinato-conegliano",
 "anna-spinato-delle-venezie",
-"anna-spinato-venezia"
+"anna-spinato-venezia",
+"azienda-vinicola-spinato-anna-conegliano",
+"azienda-vinicola-spinato-anna-prosecco"
 ],
 "primario": "anna-spinato-delle-venezie"
 },
@@ -16028,12 +15928,23 @@
 "bardolino": [
 "Bardolino",
 "Chiaretto di Bardolino"
+],
+"soave": [
+"Soave Classico"
+],
+"venezie": [
+"Delle Venezie"
 ]
 },
 "membri": [
 "cantina-valpolicella-negrar",
 "cantina-valpolicella-negrar-bardolino",
-"cantina-valpolicella-negrar-custoza"
+"cantina-valpolicella-negrar-custoza",
+"cantina-sociale-valpolicella",
+"cantina-sociale-valpolicella-bardolino",
+"cantina-sociale-valpolicella-custoza",
+"cantina-sociale-valpolicella-delle-venezie",
+"cantina-sociale-valpolicella-soave"
 ],
 "primario": "cantina-valpolicella-negrar"
 },
@@ -16736,7 +16647,7 @@
 "slug": "fattoria-casa-di-terra-podere-roseto",
 "nome": "Fattoria Casa Di Terra Podere Roseto",
 "regione": "Toscana",
-"comune": "",
+"comune": "Castagneto Carducci",
 "tipi": {
 "bolgheri": [
 "Bolgheri"
@@ -17827,7 +17738,8 @@
 ]
 },
 "membri": [
-"villa-canthus-di-g-ormenese-c-venezia"
+"villa-canthus-di-g-ormenese-c-venezia",
+"villa-canthus-venezia"
 ],
 "primario": "villa-canthus-di-g-ormenese-c-venezia"
 },
@@ -18291,7 +18203,8 @@
 ]
 },
 "membri": [
-"eredi-scala-ernesto-e-c-venezia"
+"eredi-scala-ernesto-e-c-venezia",
+"cantine-scala-venezia"
 ],
 "primario": "eredi-scala-ernesto-e-c-venezia"
 },
@@ -22347,22 +22260,6 @@
 "primario": "piccoli-wine"
 },
 {
-"slug": "cantine-scala",
-"nome": "Cantine Scala",
-"regione": "Veneto",
-"comune": "Caorle",
-"tipi": {
-"venezia": [
-"Lison Pramaggiore",
-"Venezia"
-]
-},
-"membri": [
-"cantine-scala-venezia"
-],
-"primario": "cantine-scala-venezia"
-},
-{
 "slug": "cantine-lenotti",
 "nome": "Cantine Lenotti",
 "regione": "Veneto",
@@ -22450,21 +22347,6 @@
 "miss-bio-friuli-doc"
 ],
 "primario": "miss-bio-friuli-doc"
-},
-{
-"slug": "villa-canthus",
-"nome": "Villa Canthus",
-"regione": "Veneto",
-"comune": "Fossalta di Piave",
-"tipi": {
-"venezia": [
-"Piave"
-]
-},
-"membri": [
-"villa-canthus-venezia"
-],
-"primario": "villa-canthus-venezia"
 },
 {
 "slug": "f-lli-collovini-di-collovini-flavio-e-sandro",
@@ -23034,26 +22916,6 @@
 "roberto-zonin-prosecco"
 ],
 "primario": "roberto-zonin-gambellara"
-},
-{
-"slug": "azienda-vinicola-spinato-anna",
-"nome": "Azienda Vinicola Spinato Anna",
-"regione": "Veneto",
-"comune": "Ponte di Piave",
-"tipi": {
-"prosecco": [
-"Prosecco DOC"
-],
-"conegliano": [
-"Conegliano Valdobbiadene Prosecco Superiore",
-"Valdobbiadene Superiore di Cartizze"
-]
-},
-"membri": [
-"azienda-vinicola-spinato-anna-conegliano",
-"azienda-vinicola-spinato-anna-prosecco"
-],
-"primario": "azienda-vinicola-spinato-anna-prosecco"
 },
 {
 "slug": "la-ciarliana",
@@ -26659,7 +26521,8 @@
 ]
 },
 "membri": [
-"ornella-molon-venezia"
+"ornella-molon-venezia",
+"ornella-molon-traverso-venezia"
 ],
 "primario": "ornella-molon-venezia"
 },
@@ -27436,10 +27299,18 @@
 "tipi": {
 "prosecco": [
 "Prosecco DOC"
+],
+"friuli-grave": [
+"Friuli Grave"
+],
+"friuli-doc": [
+"Friuli DOC"
 ]
 },
 "membri": [
-"arcadia-prosecco"
+"arcadia-prosecco",
+"le-monde-friuli-doc",
+"le-monde-friuli-grave"
 ],
 "primario": "arcadia-prosecco"
 },
@@ -27672,19 +27543,6 @@
 "antonio-introvigne-venezia"
 ],
 "primario": "antonio-introvigne-conegliano"
-},
-{
-"slug": "buiatti-olivo",
-"nome": "Buiatti Olivo",
-"regione": "Friuli Venezia Giulia",
-"comune": "Buttrio",
-"tipi": {
-"colli-orientali": []
-},
-"membri": [
-"buiatti-olivo-colli-orientali"
-],
-"primario": "buiatti-olivo-colli-orientali"
 },
 {
 "slug": "russian",
@@ -31307,7 +31165,7 @@
 "slug": "lasorgiva",
 "nome": "Lasorgiva",
 "regione": "Toscana",
-"comune": "",
+"comune": "San Vincenzo",
 "tipi": {
 "bolgheri": [
 "Bolgheri"
@@ -31538,22 +31396,6 @@
 "agnoletti-ida-asolo"
 ],
 "primario": "agnoletti-ida-asolo"
-},
-{
-"slug": "tenuta-setten",
-"nome": "Tenuta Setten",
-"regione": "Veneto",
-"comune": "Mansuè",
-"tipi": {
-"venezia": [
-"Piave",
-"Venezia"
-]
-},
-"membri": [
-"tenuta-setten-venezia"
-],
-"primario": "tenuta-setten-venezia"
 },
 {
 "slug": "sassetti-di-sassetti-angelo",
@@ -32569,23 +32411,6 @@
 "tenuta-di-lilliano-chianti-classico"
 ],
 "primario": "tenuta-di-lilliano-chianti-classico"
-},
-{
-"slug": "ornella-bellia",
-"nome": "Ornella Bellia",
-"regione": "Veneto",
-"comune": "Pramaggiore",
-"tipi": {
-"venezia": [
-"Lison",
-"Lison Pramaggiore",
-"Venezia"
-]
-},
-"membri": [
-"ornella-bellia-venezia"
-],
-"primario": "ornella-bellia-venezia"
 },
 {
 "slug": "tenuta-san-giovanni-semplice",
@@ -37035,7 +36860,7 @@
 },
 {
 "slug": "basile-az-ienda-agricola-biologica",
-"nome": "Basile - Az.Ienda Agricola Biologica",
+"nome": "Basile",
 "regione": "Toscana",
 "comune": "Cinigiano",
 "tipi": {
@@ -37043,11 +36868,13 @@
 "Maremma Toscana"
 ],
 "montecucco": [
-"Montecucco"
+"Montecucco",
+"Montecucco Sangiovese"
 ]
 },
 "membri": [
-"basile-az-ienda-agricola-biologica-maremma"
+"basile-az-ienda-agricola-biologica-maremma",
+"basile"
 ],
 "primario": "basile-az-ienda-agricola-biologica-maremma"
 },
@@ -43476,21 +43303,6 @@
 "primario": "fattoria-sardi-giustiniani"
 },
 {
-"slug": "enzo-carmignani",
-"nome": "Azienda Agricola Enzo Carmignani",
-"regione": "Toscana",
-"comune": "Montecarlo",
-"tipi": {
-"montecarlo": [
-"Montecarlo"
-]
-},
-"membri": [
-"enzo-carmignani"
-],
-"primario": "enzo-carmignani"
-},
-{
 "slug": "edoardo-primo",
 "nome": "Edoardo Primo",
 "regione": "Liguria",
@@ -44146,24 +43958,6 @@
 "assolati"
 ],
 "primario": "assolati"
-},
-{
-"slug": "basile",
-"nome": "Basile",
-"regione": "Toscana",
-"comune": "Cinigiano",
-"tipi": {
-"montecucco": [
-"Montecucco Sangiovese"
-],
-"maremma": [
-"Maremma Toscana"
-]
-},
-"membri": [
-"basile"
-],
-"primario": "basile"
 },
 {
 "slug": "begnardi",
@@ -45312,7 +45106,8 @@
 ]
 },
 "membri": [
-"fattoria-carmignani-enzo"
+"fattoria-carmignani-enzo",
+"enzo-carmignani"
 ],
 "primario": "fattoria-carmignani-enzo"
 },

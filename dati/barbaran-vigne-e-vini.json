@@ -32,6 +32,10 @@
     {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.barbaran.it|barbaran.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Venezia [[4]]"
     }
    ]
   },
@@ -94,7 +98,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=16363086316359698278|Mappa}} — valutazione 4,9 su 5 (68 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=16363086316359698278|Mappa}} — valutazione 4,9 su 5 (68 recensioni) [[5]]"
     }
    ]
   }
@@ -121,6 +125,12 @@
   },
   {
    "n": 4,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 5,
    "testo": "Scheda «BARBARAN VIGNE E VINI - Soc. Agr. di Barbaran Fabio e C.S.S.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=16363086316359698278",
    "etichetta": "maps.google.com"

@@ -34,8 +34,8 @@
      "valore": "{{https://www.lemondewine.com/|www.lemondewine.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[2]]\nCompare nell’elenco delle aziende del Consorzio DOC Friuli [[3]]"
     }
    ]
   },
@@ -62,11 +62,11 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Gambero Rosso Vini d’Italia 2021: Miglior rapporto qualità-prezzo al Friuli Pinot Bianco 2019 [[3]]\nSecondo Wine Industry Advisor: Tre Bicchieri 2026 al Pinot Bianco 2024 e premio qualità-prezzo Berebene al Chardonnay 2024 [[4]]"
+     "valore": "Gambero Rosso Vini d’Italia 2021: Miglior rapporto qualità-prezzo al Friuli Pinot Bianco 2019 [[4]]\nSecondo Wine Industry Advisor: Tre Bicchieri 2026 al Pinot Bianco 2024 e premio qualità-prezzo Berebene al Chardonnay 2024 [[5]]"
     },
     {
      "etichetta": "Punteggi",
-     "valore": "Secondo Wine Industry Advisor: 89 punti Winemag al Pinot Bianco 2024; 90 punti James Suckling all’Inaco 2020 [[4]]"
+     "valore": "Secondo Wine Industry Advisor: 89 punti Winemag al Pinot Bianco 2024; 90 punti James Suckling all’Inaco 2020 [[5]]"
     }
    ]
   },
@@ -75,7 +75,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/vignetilemonde|vignetilemonde}}\nInstagram {{https://www.instagram.com/vignetilemonde/|@vignetilemonde}} [[5]]"
+     "valore": "Facebook {{https://www.facebook.com/vignetilemonde|vignetilemonde}}\nInstagram {{https://www.instagram.com/vignetilemonde/|@vignetilemonde}} [[6]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -83,11 +83,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=2507739906310428861|Mappa}} — valutazione 4,8 su 5 (44 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=2507739906310428861|Mappa}} — valutazione 4,8 su 5 (44 recensioni) [[7]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[7]]"
+     "valore": "Presente come produttore [[8]]"
     }
    ]
   }
@@ -108,30 +108,36 @@
   },
   {
    "n": 3,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/le-monde/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 4,
    "testo": "Gambero Rosso, articolo sulla guida Vini d’Italia (sito di terzi, non della cantina), consultato il 25 ottobre 2026.",
    "url": "https://www.gamberorosso.it/vino/miglior-rapporto-qualita-prezzo-friuli-pinot-bianco-19-vigneti-le-monde/",
    "etichetta": "gamberorosso.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Wine Industry Advisor, articolo «A year of accolades for Le Monde», 3 dicembre 2025 (sito di settore, non della cantina), consultato il 25 ottobre 2026.",
    "url": "https://wineindustryadvisor.com/2025/12/03/a-year-of-accolades-for-le-monde/",
    "etichetta": "wineindustryadvisor.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.lemondewine.com/",
    "etichetta": "lemondewine.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «Le Monde» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=2507739906310428861",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

@@ -14,12 +14,16 @@
      "valore": "01365300498 [[1]]"
     },
     {
+     "etichetta": "Sede",
+     "valore": "Località Le Ferruggini 162/A, 57022 Castagneto Carducci (LI) [[2]]"
+    },
+    {
      "etichetta": "Telefono",
-     "valore": "+390565749810 [[2]] [[2]]"
+     "valore": "+390565749810 [[3]] [[3]]"
     },
     {
      "etichetta": "Email",
-     "valore": "info@podereroseto.com [[2]]"
+     "valore": "info@podereroseto.com [[3]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -27,7 +31,7 @@
     },
     {
      "etichetta": "Consorzio",
-     "valore": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia [[3]]"
+     "valore": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia [[4]]"
     }
    ]
   },
@@ -45,7 +49,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Bolgheri Superiore DOC; Bolgheri Rosso DOC [[4]]"
+     "valore": "Denominazioni DOC e DOCG: Bolgheri Superiore DOC; Bolgheri Rosso DOC [[5]]"
     }
    ]
   },
@@ -67,7 +71,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=6450641982657140793|Mappa}} — valutazione 3,3 su 5 (3 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=6450641982657140793|Mappa}} — valutazione 3,3 su 5 (3 recensioni) [[6]]"
     }
    ]
   }
@@ -82,24 +86,30 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina (fattoriacasaditerra.com), note legali, consultato il 1 novembre 2026.",
+   "url": "https://www.fattoriacasaditerra.com/",
+   "etichetta": "fattoriacasaditerra.com"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.podereroseto.com/",
    "etichetta": "podereroseto.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia, scheda del consorziato, consultato il 26 ottobre 2026.",
    "url": "https://www.bolgheridoc.com/consorziati/fattoria-casa-di-terra-podere-roseto/",
    "etichetta": "bolgheridoc.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "https://www.podereroseto.com/",
    "etichetta": "podereroseto.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Podere Roseto Bolgheri» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=6450641982657140793",
    "etichetta": "maps.google.com"

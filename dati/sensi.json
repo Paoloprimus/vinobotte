@@ -6,8 +6,32 @@
    "titolo": "Anagrafica",
    "righe": [
     {
+     "etichetta": "Ragione sociale",
+     "valore": "Sensi Vigne & Vini S.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00183820471 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cerbaia 107, 51035 Lamporecchio (PT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0573 82910 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "sensi@sensivini.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.sensivini.it/|sensivini.it}} [[1]]"
+    },
+    {
      "etichetta": "Consorzio",
-     "valore": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia [[1]]"
+     "valore": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia [[2]]"
     }
    ]
   },
@@ -25,7 +49,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[1]]"
+     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[2]]"
     }
    ]
   },
@@ -47,7 +71,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -56,12 +80,18 @@
  "fonti": [
   {
    "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e note legali, consultato il 1 novembre 2026.",
+   "url": "https://www.sensivini.it/",
+   "etichetta": "sensivini.it"
+  },
+  {
+   "n": 2,
    "testo": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia, scheda del consorziato, consultato il 26 ottobre 2026.",
    "url": "https://www.bolgheridoc.com/consorziati/sensi/",
    "etichetta": "bolgheridoc.com"
   },
   {
-   "n": 2,
+   "n": 3,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

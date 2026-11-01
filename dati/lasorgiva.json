@@ -6,8 +6,32 @@
    "titolo": "Anagrafica",
    "righe": [
     {
+     "etichetta": "Ragione sociale",
+     "valore": "LasorgivA di Laura Fabiani [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02062460494 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via dell’Ulivo 132, 57027 San Vincenzo (LI) (sede legale; vigneti e cantina a Bolgheri, Castagneto Carducci) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 344 5877360 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "direzione@lasorgiva.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lasorgiva.com/|lasorgiva.com}} [[1]]"
+    },
+    {
      "etichetta": "Consorzio",
-     "valore": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia [[1]]"
+     "valore": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia [[2]]"
     }
    ]
   },
@@ -25,7 +49,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Non indicato nella scheda del Consorzio; non ancora raccolto [[1]]"
+     "valore": "Denominazioni DOC e DOCG: Bolgheri Vermentino DOC; Bolgheri Rosso DOC; Bolgheri Superiore DOC [[1]]"
     }
    ]
   },
@@ -47,7 +71,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -56,12 +80,18 @@
  "fonti": [
   {
    "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine dei vini, consultato il 1 novembre 2026.",
+   "url": "https://www.lasorgiva.com/",
+   "etichetta": "lasorgiva.com"
+  },
+  {
+   "n": 2,
    "testo": "Consorzio per la Tutela dei Vini DOC Bolgheri e DOC Bolgheri Sassicaia, scheda del consorziato, consultato il 26 ottobre 2026.",
    "url": "https://www.bolgheridoc.com/consorziati/lasorgiva/",
    "etichetta": "bolgheridoc.com"
   },
   {
-   "n": 2,
+   "n": 3,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

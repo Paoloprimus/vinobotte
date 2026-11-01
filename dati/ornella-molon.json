@@ -36,6 +36,10 @@
     {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.ornellamolon.it|ornellamolon.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Venezia [[4]]"
     }
    ]
   },
@@ -80,11 +84,11 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "The WineHunter Award\nVinetia: 4 viti al Traminer 2015 e 3 viti al Rosso di Villa 2011 [[4]]"
+     "valore": "The WineHunter Award\nVinetia: 4 viti al Traminer 2015 e 3 viti al Rosso di Villa 2011 [[5]]"
     },
     {
      "etichetta": "Punteggi",
-     "valore": "Vinetia: 91,10 al Traminer 2015 [[4]]"
+     "valore": "Vinetia: 91,10 al Traminer 2015 [[5]]"
     }
    ]
   },
@@ -93,11 +97,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/ornellamolonwines|ornellamolonwines}}\nInstagram {{https://www.instagram.com/ornellamolonwines/|@ornellamolonwines}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/ornellamolonwines|ornellamolonwines}}\nInstagram {{https://www.instagram.com/ornellamolonwines/|@ornellamolonwines}} [[5]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.ornellamolon.it/shop/le-selezioni/raboso-doc-piave/|ornellamolon.it/shop/le-selezioni/raboso-doc-piave}} [[4]]"
+     "valore": "{{https://www.ornellamolon.it/shop/le-selezioni/raboso-doc-piave/|ornellamolon.it/shop/le-selezioni/raboso-doc-piave}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -105,11 +109,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=3650277382868115521|Mappa}} — valutazione 4,7 su 5 (575 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=3650277382868115521|Mappa}} — valutazione 4,7 su 5 (575 recensioni) [[6]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[7]]"
     }
    ]
   }
@@ -136,18 +140,24 @@
   },
   {
    "n": 4,
+   "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://www.consorziovinivenezia.it/cantine-associate/",
+   "etichetta": "consorziovinivenezia.it"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.ornellamolon.it",
    "etichetta": "ornellamolon.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Cantina Ornella Molon» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=3650277382868115521",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]
