@@ -1,0 +1,46 @@
+{
+ "nome": "Grawu",
+ "slug": "grawu",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02830150211 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Raffein 8 · 39010 Cermes (BZ), 39010 Cermes (BZ) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@grawu.wine [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.grawu.wine|grawu.wine}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio volontario di tutela Vini Alto Adige [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.grawu.wine",
+   "etichetta": "grawu.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio volontario di tutela Vini Alto Adige, consultato il 2 novembre 2026.",
+   "url": "https://www.vinialtoadige.com/it/viticoltori/produttori-di-vino",
+   "etichetta": "vinialtoadige.com"
+  }
+ ]
+}

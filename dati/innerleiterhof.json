@@ -1,0 +1,40 @@
+{
+ "nome": "Innerleiterhof",
+ "slug": "innerleiterhof",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Leiter 8, 39017 Scena (BZ) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0473 946000 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@innerleiterhof.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.innerleiterhof.it|innerleiterhof.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio volontario di tutela Vini Alto Adige [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio volontario di tutela Vini Alto Adige, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinialtoadige.com/it/viticoltori/produttori-di-vino",
+   "etichetta": "vinialtoadige.com"
+  }
+ ]
+}

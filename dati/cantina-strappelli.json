@@ -1,0 +1,50 @@
+{
+ "nome": "Cantina Strappelli",
+ "slug": "cantina-strappelli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00742340672 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Torri 16, 64010 Torano Nuovo (TE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0861887402 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinastrappelli.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://cantinastrappelli.it/|cantinastrappelli.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://cantinastrappelli.it/",
+   "etichetta": "cantinastrappelli.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

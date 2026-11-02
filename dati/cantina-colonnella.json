@@ -1,0 +1,40 @@
+{
+ "nome": "Cantina Colonnella",
+ "slug": "cantina-colonnella",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Riomoro 49 -, 64010 Colonnella (TE) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0861 714777 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinacolonnella.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinacolonnella.it/|cantinacolonnella.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

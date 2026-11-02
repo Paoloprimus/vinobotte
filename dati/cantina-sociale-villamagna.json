@@ -1,0 +1,50 @@
+{
+ "nome": "Cantina Sociale Villamagna",
+ "slug": "cantina-sociale-villamagna",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00121050694 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Viale Regina Margherita, 169 - 171, 66010 Villamagna (CH) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0871 300193 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinavillamagna.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinavillamagna.it|cantinavillamagna.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.cantinavillamagna.it",
+   "etichetta": "cantinavillamagna.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

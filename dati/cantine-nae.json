@@ -1,0 +1,50 @@
+{
+ "nome": "Cantine Nae",
+ "slug": "cantine-nae",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02082830676 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "C.da Piane Tronto, snc, 64010 Controguerra (TE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0861 229856 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinenae.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinenae.it|cantinenae.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.cantinenae.it",
+   "etichetta": "cantinenae.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

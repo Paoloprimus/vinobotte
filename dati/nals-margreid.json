@@ -1,0 +1,50 @@
+{
+ "nome": "Nals Margreid",
+ "slug": "nals-margreid",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00126790211 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Heiligenberg 2, 39010 Nalles (BZ) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0471 678626 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@nalsmargreid.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.nalsmargreid.com|nalsmargreid.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio volontario di tutela Vini Alto Adige [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.nalsmargreid.com",
+   "etichetta": "nalsmargreid.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio volontario di tutela Vini Alto Adige, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinialtoadige.com/it/viticoltori/produttori-di-vino",
+   "etichetta": "vinialtoadige.com"
+  }
+ ]
+}

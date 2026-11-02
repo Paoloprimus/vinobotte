@@ -1,0 +1,46 @@
+{
+ "nome": "Cioti",
+ "slug": "cioti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Fantini Group Srl [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Luigi Dommarco 23, 66026 Ortona (CH) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "segreteria@fantinigroup.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fantiniwines.com/it/|fantiniwines.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.fantiniwines.com/it/",
+   "etichetta": "fantiniwines.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini d’Abruzzo, consultato il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

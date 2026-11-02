@@ -1,0 +1,40 @@
+{
+ "nome": "Colle Corviano",
+ "slug": "colle-corviano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Paterno 54/B, 65014 Loreto Aprutino (PE) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 085 8289039 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@collecorviano.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.collecorviano.it|collecorviano.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

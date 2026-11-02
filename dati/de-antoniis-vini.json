@@ -1,0 +1,50 @@
+{
+ "nome": "De Antoniis Vini",
+ "slug": "de-antoniis-vini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01424940672 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Metella Nuova, 56, 64010 Garrufo (TE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0861887087 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@deantoniisvini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.deantoniisvini.it/|deantoniisvini.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.deantoniisvini.it/",
+   "etichetta": "deantoniisvini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

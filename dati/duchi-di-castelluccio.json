@@ -1,0 +1,50 @@
+{
+ "nome": "Duchi Di Castelluccio",
+ "slug": "duchi-di-castelluccio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01708330681 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "C.da Zappino 99 -, 65027 Scafa (PE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 085 8541366 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@duchidicastelluccio.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.duchidicastelluccio.it/|duchidicastelluccio.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.duchidicastelluccio.it/",
+   "etichetta": "duchidicastelluccio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

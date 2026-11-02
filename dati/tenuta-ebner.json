@@ -1,0 +1,40 @@
+{
+ "nome": "Tenuta Ebner",
+ "slug": "tenuta-ebner",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via del vigneto 8, 39054 Renon-Campodazzo (BZ) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3401521644 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@weingutebner.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.weingutebner.it|weingutebner.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio volontario di tutela Vini Alto Adige [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio volontario di tutela Vini Alto Adige, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinialtoadige.com/it/viticoltori/produttori-di-vino",
+   "etichetta": "vinialtoadige.com"
+  }
+ ]
+}

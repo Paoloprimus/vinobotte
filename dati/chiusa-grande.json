@@ -1,0 +1,50 @@
+{
+ "nome": "Chiusa Grande",
+ "slug": "chiusa-grande",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01533890693 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "C.da Casali SNC, 65010 Nocciano (PE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 085 847460 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@chiusagrande.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.chiusagrande.com|chiusagrande.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.chiusagrande.com",
+   "etichetta": "chiusagrande.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

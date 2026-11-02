@@ -1,0 +1,50 @@
+{
+ "nome": "Popphof",
+ "slug": "popphof",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03163760212 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Terzo di Mezzo 5, 39020 Marlengo (BZ) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0473 447180 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@popphof.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.popphof.com|popphof.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio volontario di tutela Vini Alto Adige [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.popphof.com",
+   "etichetta": "popphof.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio volontario di tutela Vini Alto Adige, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinialtoadige.com/it/viticoltori/produttori-di-vino",
+   "etichetta": "vinialtoadige.com"
+  }
+ ]
+}

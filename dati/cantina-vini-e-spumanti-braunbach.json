@@ -1,0 +1,50 @@
+{
+ "nome": "Cantina vini e spumanti Braunbach",
+ "slug": "cantina-vini-e-spumanti-braunbach",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01420990218 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via P.-Romedio 5, 39018 Terlano (BZ) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0471 910184 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@braunbach.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.braunbach.it|braunbach.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio volontario di tutela Vini Alto Adige [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.braunbach.it",
+   "etichetta": "braunbach.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio volontario di tutela Vini Alto Adige, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinialtoadige.com/it/viticoltori/produttori-di-vino",
+   "etichetta": "vinialtoadige.com"
+  }
+ ]
+}

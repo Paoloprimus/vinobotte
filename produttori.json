@@ -17529,6 +17529,9 @@
 "valpolicella": [],
 "soave": [
 "Soave"
+],
+"alto-adige": [
+"Alto Adige"
 ]
 },
 "membri": [
@@ -21068,6 +21071,9 @@
 "tipi": {
 "venezie": [
 "Delle Venezie"
+],
+"alto-adige": [
+"Alto Adige"
 ]
 },
 "membri": [
@@ -26170,6 +26176,9 @@
 "tipi": {
 "venezie": [
 "Delle Venezie"
+],
+"alto-adige": [
+"Alto Adige"
 ]
 },
 "membri": [
@@ -37156,6 +37165,9 @@
 ],
 "trentino": [
 "Trentino"
+],
+"alto-adige": [
+"Alto Adige"
 ]
 },
 "membri": [
@@ -56330,5 +56342,3200 @@
 "cantine-polvanera"
 ],
 "primario": "cantine-polvanera"
+},
+{
+"slug": "buzzarone",
+"nome": "Buzzarone",
+"regione": "Abruzzo",
+"comune": "Torrevecchia Teatina",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"buzzarone"
+],
+"primario": "buzzarone"
+},
+{
+"slug": "cantina-cerretano",
+"nome": "Cantina Cerretano",
+"regione": "Abruzzo",
+"comune": "Orsogna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-cerretano"
+],
+"primario": "cantina-cerretano"
+},
+{
+"slug": "cantina-colle-del-sole",
+"nome": "Cantina Colle Del Sole",
+"regione": "Abruzzo",
+"comune": "Francavilla al Mare",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-colle-del-sole"
+],
+"primario": "cantina-colle-del-sole"
+},
+{
+"slug": "cantina-colle-moro",
+"nome": "Cantina Colle Moro",
+"regione": "Abruzzo",
+"comune": "Frisa",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-colle-moro"
+],
+"primario": "cantina-colle-moro"
+},
+{
+"slug": "cantina-collefrisio",
+"nome": "Cantina Collefrisio",
+"regione": "Abruzzo",
+"comune": "Frisa",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-collefrisio"
+],
+"primario": "cantina-collefrisio"
+},
+{
+"slug": "cantina-colonnella",
+"nome": "Cantina Colonnella",
+"regione": "Abruzzo",
+"comune": "Colonnella",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-colonnella"
+],
+"primario": "cantina-colonnella"
+},
+{
+"slug": "cantina-del-fucino",
+"nome": "Cantina Del Fucino",
+"regione": "Abruzzo",
+"comune": "Avezzano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-del-fucino"
+],
+"primario": "cantina-del-fucino"
+},
+{
+"slug": "cantina-diubaldo",
+"nome": "Cantina Diubaldo",
+"regione": "Abruzzo",
+"comune": "Sant'Egidio alla Vibrata",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-diubaldo"
+],
+"primario": "cantina-diubaldo"
+},
+{
+"slug": "cantina-eredi",
+"nome": "Cantina Eredi",
+"regione": "Abruzzo",
+"comune": "Lanciano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-eredi"
+],
+"primario": "cantina-eredi"
+},
+{
+"slug": "cantina-frentana",
+"nome": "Cantina Frentana",
+"regione": "Abruzzo",
+"comune": "Rocca San Giovanni",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-frentana"
+],
+"primario": "cantina-frentana"
+},
+{
+"slug": "cantina-margiotta",
+"nome": "Cantina Margiotta",
+"regione": "Abruzzo",
+"comune": "Pratola Peligna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-margiotta"
+],
+"primario": "cantina-margiotta"
+},
+{
+"slug": "cantina-miglianico",
+"nome": "Cantina Miglianico",
+"regione": "Abruzzo",
+"comune": "Miglianico",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-miglianico"
+],
+"primario": "cantina-miglianico"
+},
+{
+"slug": "cantina-rapino",
+"nome": "Cantina Rapino",
+"regione": "Abruzzo",
+"comune": "Francavilla al Mare",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-rapino"
+],
+"primario": "cantina-rapino"
+},
+{
+"slug": "cantina-san-zefferino",
+"nome": "Cantina San Zefferino",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-san-zefferino"
+],
+"primario": "cantina-san-zefferino"
+},
+{
+"slug": "cantina-sociale-di-giuliano-teatino",
+"nome": "Cantina Sociale Di Giuliano Teatino",
+"regione": "Abruzzo",
+"comune": "Giuliano Teatino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-sociale-di-giuliano-teatino"
+],
+"primario": "cantina-sociale-di-giuliano-teatino"
+},
+{
+"slug": "cantina-sociale-di-paglieta",
+"nome": "Cantina Sociale Di Paglieta",
+"regione": "Abruzzo",
+"comune": "Paglieta",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-sociale-di-paglieta"
+],
+"primario": "cantina-sociale-di-paglieta"
+},
+{
+"slug": "cantina-sociale-sannitica",
+"nome": "Cantina Sociale Sannitica",
+"regione": "Abruzzo",
+"comune": "Canosa Sannita",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-sociale-sannitica"
+],
+"primario": "cantina-sociale-sannitica"
+},
+{
+"slug": "cantina-sociale-villamagna",
+"nome": "Cantina Sociale Villamagna",
+"regione": "Abruzzo",
+"comune": "Villamagna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-sociale-villamagna"
+],
+"primario": "cantina-sociale-villamagna"
+},
+{
+"slug": "cantina-strappelli",
+"nome": "Cantina Strappelli",
+"regione": "Abruzzo",
+"comune": "Torano Nuovo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-strappelli"
+],
+"primario": "cantina-strappelli"
+},
+{
+"slug": "cantina-terzini",
+"nome": "Cantina Terzini",
+"regione": "Abruzzo",
+"comune": "Tocco da Casauria",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-terzini"
+],
+"primario": "cantina-terzini"
+},
+{
+"slug": "cantina-tollo",
+"nome": "Cantina Tollo",
+"regione": "Abruzzo",
+"comune": "Tollo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-tollo"
+],
+"primario": "cantina-tollo"
+},
+{
+"slug": "cantina-valle-tritana",
+"nome": "Cantina Valle Tritana",
+"regione": "Abruzzo",
+"comune": "Ofena",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-valle-tritana"
+],
+"primario": "cantina-valle-tritana"
+},
+{
+"slug": "cantina-zaccagnini",
+"nome": "Cantina Zaccagnini",
+"regione": "Abruzzo",
+"comune": "Bolognano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-zaccagnini"
+],
+"primario": "cantina-zaccagnini"
+},
+{
+"slug": "cantine-ciampoli",
+"nome": "Cantine Ciampoli",
+"regione": "Abruzzo",
+"comune": "Caldari di Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantine-ciampoli"
+],
+"primario": "cantine-ciampoli"
+},
+{
+"slug": "cantine-frontenac",
+"nome": "Cantine Frontenac",
+"regione": "Abruzzo",
+"comune": "Martinsicuro",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantine-frontenac"
+],
+"primario": "cantine-frontenac"
+},
+{
+"slug": "cantine-mucci",
+"nome": "Cantine Mucci",
+"regione": "Abruzzo",
+"comune": "Torino di Sangro",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantine-mucci"
+],
+"primario": "cantine-mucci"
+},
+{
+"slug": "cantine-nae",
+"nome": "Cantine Nae",
+"regione": "Abruzzo",
+"comune": "Controguerra",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantine-nae"
+],
+"primario": "cantine-nae"
+},
+{
+"slug": "cantine-san-nicola",
+"nome": "Cantine San Nicola",
+"regione": "Abruzzo",
+"comune": "Pollutri",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantine-san-nicola"
+],
+"primario": "cantine-san-nicola"
+},
+{
+"slug": "cantine-spinelli",
+"nome": "Cantine Spinelli",
+"regione": "Abruzzo",
+"comune": "Atessa",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantine-spinelli"
+],
+"primario": "cantine-spinelli"
+},
+{
+"slug": "caprera",
+"nome": "Caprera",
+"regione": "Abruzzo",
+"comune": "Pietranico",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"caprera"
+],
+"primario": "caprera"
+},
+{
+"slug": "casa-catelli",
+"nome": "Casa Catelli",
+"regione": "Toscana",
+"comune": "Capannori",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"casa-catelli"
+],
+"primario": "casa-catelli"
+},
+{
+"slug": "casa-vinicola-caldirola",
+"nome": "Casa Vinicola Caldirola",
+"regione": "Lombardia",
+"comune": "Missaglia",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"casa-vinicola-caldirola"
+],
+"primario": "casa-vinicola-caldirola"
+},
+{
+"slug": "cataldi-madonna",
+"nome": "Cataldi Madonna",
+"regione": "Abruzzo",
+"comune": "Ofena",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cataldi-madonna"
+],
+"primario": "cataldi-madonna"
+},
+{
+"slug": "chiusa-grande",
+"nome": "Chiusa Grande",
+"regione": "Abruzzo",
+"comune": "Nocciano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"chiusa-grande"
+],
+"primario": "chiusa-grande"
+},
+{
+"slug": "ciavolich",
+"nome": "Ciavolich",
+"regione": "Abruzzo",
+"comune": "Loreto Aprutino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"ciavolich"
+],
+"primario": "ciavolich"
+},
+{
+"slug": "cioti",
+"nome": "Cioti",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cioti"
+],
+"primario": "cioti"
+},
+{
+"slug": "citra-vini",
+"nome": "Citra Vini",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"citra-vini"
+],
+"primario": "citra-vini"
+},
+{
+"slug": "colle-corviano",
+"nome": "Colle Corviano",
+"regione": "Abruzzo",
+"comune": "Loreto Aprutino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"colle-corviano"
+],
+"primario": "colle-corviano"
+},
+{
+"slug": "contesa",
+"nome": "Contesa",
+"regione": "Abruzzo",
+"comune": "Collecorvino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"contesa"
+],
+"primario": "contesa"
+},
+{
+"slug": "dalesio-vini",
+"nome": "D’Alesio Vini",
+"regione": "Abruzzo",
+"comune": "Città Sant'Angelo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"dalesio-vini"
+],
+"primario": "dalesio-vini"
+},
+{
+"slug": "de-antoniis-vini",
+"nome": "De Antoniis Vini",
+"regione": "Abruzzo",
+"comune": "Garrufo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"de-antoniis-vini"
+],
+"primario": "de-antoniis-vini"
+},
+{
+"slug": "di-camillo-vini",
+"nome": "Di Camillo Vini",
+"regione": "Abruzzo",
+"comune": "Poggiofiorito",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"di-camillo-vini"
+],
+"primario": "di-camillo-vini"
+},
+{
+"slug": "di-carlo-vini",
+"nome": "Di Carlo Vini",
+"regione": "Abruzzo",
+"comune": "Villa Caldari - Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"di-carlo-vini"
+],
+"primario": "di-carlo-vini"
+},
+{
+"slug": "donvitantonio-vini",
+"nome": "Donvitantonio Vini",
+"regione": "Abruzzo",
+"comune": "Crecchio",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"donvitantonio-vini"
+],
+"primario": "donvitantonio-vini"
+},
+{
+"slug": "duchi-di-castelluccio",
+"nome": "Duchi Di Castelluccio",
+"regione": "Abruzzo",
+"comune": "Scafa",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"duchi-di-castelluccio"
+],
+"primario": "duchi-di-castelluccio"
+},
+{
+"slug": "emidio-pepe",
+"nome": "Emidio Pepe",
+"regione": "Abruzzo",
+"comune": "Torano Nuovo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"emidio-pepe"
+],
+"primario": "emidio-pepe"
+},
+{
+"slug": "faraone",
+"nome": "Faraone",
+"regione": "Abruzzo",
+"comune": "Giulianova",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"faraone"
+],
+"primario": "faraone"
+},
+{
+"slug": "fattoria-bruno-nicodemi",
+"nome": "Fattoria Bruno Nicodemi",
+"regione": "Abruzzo",
+"comune": "Notaresco",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"fattoria-bruno-nicodemi"
+],
+"primario": "fattoria-bruno-nicodemi"
+},
+{
+"slug": "fattoria-giuseppe-savini",
+"nome": "Fattoria Giuseppe Savini",
+"regione": "Abruzzo",
+"comune": "Morro D'Oro",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"fattoria-giuseppe-savini"
+],
+"primario": "fattoria-giuseppe-savini"
+},
+{
+"slug": "fontefico",
+"nome": "Fontefico",
+"regione": "Abruzzo",
+"comune": "Vasto",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"fontefico"
+],
+"primario": "fontefico"
+},
+{
+"slug": "guardiani-farchione",
+"nome": "Guardiani Farchione",
+"regione": "Abruzzo",
+"comune": "Tocco da Casauria",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"guardiani-farchione"
+],
+"primario": "guardiani-farchione"
+},
+{
+"slug": "il-feuduccio",
+"nome": "Il Feuduccio",
+"regione": "Abruzzo",
+"comune": "Orsogna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"il-feuduccio"
+],
+"primario": "il-feuduccio"
+},
+{
+"slug": "illuminati-vini",
+"nome": "Illuminati Vini",
+"regione": "Abruzzo",
+"comune": "Controguerra",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"illuminati-vini"
+],
+"primario": "illuminati-vini"
+},
+{
+"slug": "italgusto-wine",
+"nome": "Italgusto Wine",
+"regione": "Abruzzo",
+"comune": "Vasto",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"italgusto-wine"
+],
+"primario": "italgusto-wine"
+},
+{
+"slug": "abbazia-di-novacella",
+"nome": "Abbazia di Novacella",
+"regione": "Trentino-Alto Adige",
+"comune": "Varna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"abbazia-di-novacella"
+],
+"primario": "abbazia-di-novacella"
+},
+{
+"slug": "angergut",
+"nome": "Angergut",
+"regione": "Trentino-Alto Adige",
+"comune": "Castelbello-Ciardes",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"angergut"
+],
+"primario": "angergut"
+},
+{
+"slug": "ansitz-rynnhof",
+"nome": "Ansitz Rynnhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Termeno",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"ansitz-rynnhof"
+],
+"primario": "ansitz-rynnhof"
+},
+{
+"slug": "ansitz-villa-rasslhof",
+"nome": "Ansitz Villa Rasslhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Termeno",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"ansitz-villa-rasslhof"
+],
+"primario": "ansitz-villa-rasslhof"
+},
+{
+"slug": "ansitz-waldgries",
+"nome": "Ansitz Waldgries",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"ansitz-waldgries"
+],
+"primario": "ansitz-waldgries"
+},
+{
+"slug": "arunda",
+"nome": "Arunda",
+"regione": "Trentino-Alto Adige",
+"comune": "Meltina",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"arunda"
+],
+"primario": "arunda"
+},
+{
+"slug": "az-vitivinicola-obermoser",
+"nome": "Az. Vitivinicola Obermoser",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"az-vitivinicola-obermoser"
+],
+"primario": "az-vitivinicola-obermoser"
+},
+{
+"slug": "azienda-agricola-haderburg",
+"nome": "Azienda Agricola Haderburg",
+"regione": "Trentino-Alto Adige",
+"comune": "Pochi",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"azienda-agricola-haderburg"
+],
+"primario": "azienda-agricola-haderburg"
+},
+{
+"slug": "azienda-agricola-maso-thaler",
+"nome": "Azienda Agricola Maso Thaler",
+"regione": "Trentino-Alto Adige",
+"comune": "Montagna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"azienda-agricola-maso-thaler"
+],
+"primario": "azienda-agricola-maso-thaler"
+},
+{
+"slug": "azienda-agricola-stroblhof",
+"nome": "Azienda Agricola Stroblhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Appiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"azienda-agricola-stroblhof"
+],
+"primario": "azienda-agricola-stroblhof"
+},
+{
+"slug": "azienda-vinicola-falkenstein",
+"nome": "Azienda Vinicola Falkenstein",
+"regione": "Trentino-Alto Adige",
+"comune": "Naturno",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"azienda-vinicola-falkenstein"
+],
+"primario": "azienda-vinicola-falkenstein"
+},
+{
+"slug": "azienda-vinicola-fliederhof",
+"nome": "Azienda Vinicola Fliederhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"azienda-vinicola-fliederhof"
+],
+"primario": "azienda-vinicola-fliederhof"
+},
+{
+"slug": "azienda-vinicola-lieselehof",
+"nome": "Azienda Vinicola Lieselehof",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"azienda-vinicola-lieselehof"
+],
+"primario": "azienda-vinicola-lieselehof"
+},
+{
+"slug": "azienda-vinicola-radoarhof",
+"nome": "Azienda Vinicola Radoarhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Velturno",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"azienda-vinicola-radoarhof"
+],
+"primario": "azienda-vinicola-radoarhof"
+},
+{
+"slug": "azienda-vinicola-t-pichler",
+"nome": "Azienda Vinicola T. Pichler",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"azienda-vinicola-t-pichler"
+],
+"primario": "azienda-vinicola-t-pichler"
+},
+{
+"slug": "azienda-vinicola-von-elzenbaum-wiesenheim-peter",
+"nome": "Azienda Vinicola Von Elzenbaum Wiesenheim Peter",
+"regione": "Trentino-Alto Adige",
+"comune": "Termeno",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"azienda-vinicola-von-elzenbaum-wiesenheim-peter"
+],
+"primario": "azienda-vinicola-von-elzenbaum-wiesenheim-peter"
+},
+{
+"slug": "azienda-agricola-kreithof",
+"nome": "Azienda agricola Kreithof",
+"regione": "Trentino-Alto Adige",
+"comune": "Appiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"azienda-agricola-kreithof"
+],
+"primario": "azienda-agricola-kreithof"
+},
+{
+"slug": "baron-longo",
+"nome": "Baron Longo",
+"regione": "Trentino-Alto Adige",
+"comune": "Egna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"baron-longo"
+],
+"primario": "baron-longo"
+},
+{
+"slug": "befehlhof-schuster-magdalena",
+"nome": "Befehlhof - Schuster Magdalena",
+"regione": "Trentino-Alto Adige",
+"comune": "Silandro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"befehlhof-schuster-magdalena"
+],
+"primario": "befehlhof-schuster-magdalena"
+},
+{
+"slug": "bessererhof",
+"nome": "Bessererhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Fiè Allo Sciliar",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"bessererhof"
+],
+"primario": "bessererhof"
+},
+{
+"slug": "boutique-winery",
+"nome": "Boutique Winery",
+"regione": "Trentino-Alto Adige",
+"comune": "Appiano sulla Strada del Vino",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"boutique-winery"
+],
+"primario": "boutique-winery"
+},
+{
+"slug": "cantina-alois-warasin",
+"nome": "Cantina Alois Warasin",
+"regione": "Trentino-Alto Adige",
+"comune": "Appiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-alois-warasin"
+],
+"primario": "cantina-alois-warasin"
+},
+{
+"slug": "cantina-andriano",
+"nome": "Cantina Andriano",
+"regione": "Trentino-Alto Adige",
+"comune": "Terlano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-andriano"
+],
+"primario": "cantina-andriano"
+},
+{
+"slug": "cantina-bozen",
+"nome": "Cantina Bozen",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-bozen"
+],
+"primario": "cantina-bozen"
+},
+{
+"slug": "cantina-colterenzio",
+"nome": "Cantina Colterenzio",
+"regione": "Trentino-Alto Adige",
+"comune": "Cornaiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-colterenzio"
+],
+"primario": "cantina-colterenzio"
+},
+{
+"slug": "cantina-convento-muri-gries",
+"nome": "Cantina Convento Muri-Gries",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-convento-muri-gries"
+],
+"primario": "cantina-convento-muri-gries"
+},
+{
+"slug": "cantina-girlan",
+"nome": "Cantina Girlan",
+"regione": "Trentino-Alto Adige",
+"comune": "Girlan",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-girlan"
+],
+"primario": "cantina-girlan"
+},
+{
+"slug": "cantina-kaltern",
+"nome": "Cantina Kaltern",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-kaltern"
+],
+"primario": "cantina-kaltern"
+},
+{
+"slug": "cantina-kurtatsch",
+"nome": "Cantina Kurtatsch",
+"regione": "Trentino-Alto Adige",
+"comune": "Cortaccia",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-kurtatsch"
+],
+"primario": "cantina-kurtatsch"
+},
+{
+"slug": "cantina-kossler",
+"nome": "Cantina Kössler",
+"regione": "Trentino-Alto Adige",
+"comune": "Appiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-kossler"
+],
+"primario": "cantina-kossler"
+},
+{
+"slug": "cantina-merano",
+"nome": "Cantina Merano",
+"regione": "Trentino-Alto Adige",
+"comune": "Marlengo",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-merano"
+],
+"primario": "cantina-merano"
+},
+{
+"slug": "cantina-produttori-san-michele-appiano",
+"nome": "Cantina Produttori San Michele Appiano",
+"regione": "Trentino-Alto Adige",
+"comune": "Appiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-produttori-san-michele-appiano"
+],
+"primario": "cantina-produttori-san-michele-appiano"
+},
+{
+"slug": "cantina-sankt-pauls",
+"nome": "Cantina Sankt Pauls",
+"regione": "Trentino-Alto Adige",
+"comune": "Appiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-sankt-pauls"
+],
+"primario": "cantina-sankt-pauls"
+},
+{
+"slug": "cantina-spumanti-lorenz-martini-comitissa",
+"nome": "Cantina Spumanti Lorenz Martini Comitissa",
+"regione": "Trentino-Alto Adige",
+"comune": "Cornaiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-spumanti-lorenz-martini-comitissa"
+],
+"primario": "cantina-spumanti-lorenz-martini-comitissa"
+},
+{
+"slug": "cantina-terlano",
+"nome": "Cantina Terlano",
+"regione": "Trentino-Alto Adige",
+"comune": "Terlano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-terlano"
+],
+"primario": "cantina-terlano"
+},
+{
+"slug": "cantina-tiefenbrunner-schlosskellerei-turmhof",
+"nome": "Cantina Tiefenbrunner - Schlosskellerei Turmhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Cortaccia",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-tiefenbrunner-schlosskellerei-turmhof"
+],
+"primario": "cantina-tiefenbrunner-schlosskellerei-turmhof"
+},
+{
+"slug": "cantina-tramin",
+"nome": "Cantina Tramin",
+"regione": "Trentino-Alto Adige",
+"comune": "Termeno",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-tramin"
+],
+"primario": "cantina-tramin"
+},
+{
+"slug": "cantina-valle-isarco",
+"nome": "Cantina Valle Isarco",
+"regione": "Trentino-Alto Adige",
+"comune": "Chiusa",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-valle-isarco"
+],
+"primario": "cantina-valle-isarco"
+},
+{
+"slug": "cantina-vini-e-spumanti-braunbach",
+"nome": "Cantina vini e spumanti Braunbach",
+"regione": "Trentino-Alto Adige",
+"comune": "Terlano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cantina-vini-e-spumanti-braunbach"
+],
+"primario": "cantina-vini-e-spumanti-braunbach"
+},
+{
+"slug": "castel-annenberg",
+"nome": "Castel Annenberg",
+"regione": "Trentino-Alto Adige",
+"comune": "Laces",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"castel-annenberg"
+],
+"primario": "castel-annenberg"
+},
+{
+"slug": "castelfeder",
+"nome": "Castelfeder",
+"regione": "Trentino-Alto Adige",
+"comune": "Cortina S.S.D.V.",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"castelfeder"
+],
+"primario": "castelfeder"
+},
+{
+"slug": "cora",
+"nome": "Cora",
+"regione": "Trentino-Alto Adige",
+"comune": "Appiano sulla Strada del Vino",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"cora"
+],
+"primario": "cora"
+},
+{
+"slug": "dipoli-peter",
+"nome": "Dipoli Peter",
+"regione": "Trentino-Alto Adige",
+"comune": "Egna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"dipoli-peter"
+],
+"primario": "dipoli-peter"
+},
+{
+"slug": "dominikus",
+"nome": "Dominikus",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"dominikus"
+],
+"primario": "dominikus"
+},
+{
+"slug": "egger-ramer",
+"nome": "Egger Ramer",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"egger-ramer"
+],
+"primario": "egger-ramer"
+},
+{
+"slug": "elena-walch",
+"nome": "Elena Walch",
+"regione": "Trentino-Alto Adige",
+"comune": "Termeno",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"elena-walch"
+],
+"primario": "elena-walch"
+},
+{
+"slug": "engadiner-wines",
+"nome": "Engadiner Wines",
+"regione": "Trentino-Alto Adige",
+"comune": "Montagna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"engadiner-wines"
+],
+"primario": "engadiner-wines"
+},
+{
+"slug": "ferruccio-carlotto",
+"nome": "Ferruccio Carlotto",
+"regione": "Trentino-Alto Adige",
+"comune": "Ora",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"ferruccio-carlotto"
+],
+"primario": "ferruccio-carlotto"
+},
+{
+"slug": "franz-gojer-glogglhof",
+"nome": "Franz Gojer - Glögglhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Cornedo All'Isarco",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"franz-gojer-glogglhof"
+],
+"primario": "franz-gojer-glogglhof"
+},
+{
+"slug": "grawu",
+"nome": "Grawu",
+"regione": "Trentino-Alto Adige",
+"comune": "Cermes",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"grawu"
+],
+"primario": "grawu"
+},
+{
+"slug": "glassierhof",
+"nome": "Glassierhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Egna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"glassierhof"
+],
+"primario": "glassierhof"
+},
+{
+"slug": "grottnerhof",
+"nome": "Grottnerhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Fiè Allo Sciliar",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"grottnerhof"
+],
+"primario": "grottnerhof"
+},
+{
+"slug": "gruberhof",
+"nome": "Gruberhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Marlengo",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"gruberhof"
+],
+"primario": "gruberhof"
+},
+{
+"slug": "h-lun",
+"nome": "H. Lun",
+"regione": "Trentino-Alto Adige",
+"comune": "Cornaiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"h-lun"
+],
+"primario": "h-lun"
+},
+{
+"slug": "happacherhof",
+"nome": "Happacherhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Ora",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"happacherhof"
+],
+"primario": "happacherhof"
+},
+{
+"slug": "hoandlhof",
+"nome": "Hoandlhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Bressanone",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"hoandlhof"
+],
+"primario": "hoandlhof"
+},
+{
+"slug": "hof-am-keller",
+"nome": "Hof am Keller",
+"regione": "Trentino-Alto Adige",
+"comune": "Montan",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"hof-am-keller"
+],
+"primario": "hof-am-keller"
+},
+{
+"slug": "huber-andreas-pacher-hof",
+"nome": "Huber Andreas, Pacher Hof",
+"regione": "Trentino-Alto Adige",
+"comune": "Varna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"huber-andreas-pacher-hof"
+],
+"primario": "huber-andreas-pacher-hof"
+},
+{
+"slug": "hannsl-am-ort",
+"nome": "Hännsl am Ort",
+"regione": "Trentino-Alto Adige",
+"comune": "Lana",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"hannsl-am-ort"
+],
+"primario": "hannsl-am-ort"
+},
+{
+"slug": "hauslerhof",
+"nome": "Häuslerhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Naz",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"hauslerhof"
+],
+"primario": "hauslerhof"
+},
+{
+"slug": "innerleiterhof",
+"nome": "Innerleiterhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Scena",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"innerleiterhof"
+],
+"primario": "innerleiterhof"
+},
+{
+"slug": "j-hofstatter",
+"nome": "J. Hofstätter",
+"regione": "Trentino-Alto Adige",
+"comune": "Termeno",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"j-hofstatter"
+],
+"primario": "j-hofstatter"
+},
+{
+"slug": "josef-brigl",
+"nome": "Josef Brigl",
+"regione": "Trentino-Alto Adige",
+"comune": "Appiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"josef-brigl"
+],
+"primario": "josef-brigl"
+},
+{
+"slug": "josef-weger",
+"nome": "Josef Weger",
+"regione": "Trentino-Alto Adige",
+"comune": "Cornaiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"josef-weger"
+],
+"primario": "josef-weger"
+},
+{
+"slug": "josmoar-des-sebastian-tonner",
+"nome": "Josmoar des Sebastian Tonner",
+"regione": "Trentino-Alto Adige",
+"comune": "Castelbello-Ciardes",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"josmoar-des-sebastian-tonner"
+],
+"primario": "josmoar-des-sebastian-tonner"
+},
+{
+"slug": "k-martini-sohn",
+"nome": "K. Martini & Sohn",
+"regione": "Trentino-Alto Adige",
+"comune": "Cornaiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"k-martini-sohn"
+],
+"primario": "k-martini-sohn"
+},
+{
+"slug": "kandlerhof",
+"nome": "Kandlerhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"kandlerhof"
+],
+"primario": "kandlerhof"
+},
+{
+"slug": "katharina-martini-tenuta-sonnleiten",
+"nome": "Katharina Martini Tenuta Sonnleiten",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"katharina-martini-tenuta-sonnleiten"
+],
+"primario": "katharina-martini-tenuta-sonnleiten"
+},
+{
+"slug": "kettmeir",
+"nome": "Kettmeir",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"kettmeir"
+],
+"primario": "kettmeir"
+},
+{
+"slug": "kuenhof",
+"nome": "Kuenhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Bressanone",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"kuenhof"
+],
+"primario": "kuenhof"
+},
+{
+"slug": "kofererhof",
+"nome": "Köfererhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Varna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"kofererhof"
+],
+"primario": "kofererhof"
+},
+{
+"slug": "lehengut",
+"nome": "Lehengut",
+"regione": "Trentino-Alto Adige",
+"comune": "Castelbello",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"lehengut"
+],
+"primario": "lehengut"
+},
+{
+"slug": "malojer-gummerhof",
+"nome": "Malojer - Gummerhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"malojer-gummerhof"
+],
+"primario": "malojer-gummerhof"
+},
+{
+"slug": "manuel-taddei-manifattura-vini",
+"nome": "Manuel Taddei Manifattura vini",
+"regione": "Trentino-Alto Adige",
+"comune": "Cortina S.S.D.V.",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"manuel-taddei-manifattura-vini"
+],
+"primario": "manuel-taddei-manifattura-vini"
+},
+{
+"slug": "marinushof",
+"nome": "Marinushof",
+"regione": "Trentino-Alto Adige",
+"comune": "Castelbello",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"marinushof"
+],
+"primario": "marinushof"
+},
+{
+"slug": "maso-hillepranter",
+"nome": "Maso Hillepranter",
+"regione": "Trentino-Alto Adige",
+"comune": "Marlengo",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"maso-hillepranter"
+],
+"primario": "maso-hillepranter"
+},
+{
+"slug": "mauslocher",
+"nome": "Mauslocher",
+"regione": "Trentino-Alto Adige",
+"comune": "Cermes",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"mauslocher"
+],
+"primario": "mauslocher"
+},
+{
+"slug": "mayr-josef-maso-unterganzner",
+"nome": "Mayr Josef, Maso Unterganzner",
+"regione": "Trentino-Alto Adige",
+"comune": "Cardano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"mayr-josef-maso-unterganzner"
+],
+"primario": "mayr-josef-maso-unterganzner"
+},
+{
+"slug": "nals-margreid",
+"nome": "Nals Margreid",
+"regione": "Trentino-Alto Adige",
+"comune": "Nalles",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"nals-margreid"
+],
+"primario": "nals-margreid"
+},
+{
+"slug": "niedrist",
+"nome": "Niedrist",
+"regione": "Trentino-Alto Adige",
+"comune": "Cornaiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"niedrist"
+],
+"primario": "niedrist"
+},
+{
+"slug": "noafer",
+"nome": "Noafer",
+"regione": "Trentino-Alto Adige",
+"comune": "San Genesio",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"noafer"
+],
+"primario": "noafer"
+},
+{
+"slug": "oberrauch-luis",
+"nome": "Oberrauch Luis",
+"regione": "Trentino-Alto Adige",
+"comune": "Ora",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"oberrauch-luis"
+],
+"primario": "oberrauch-luis"
+},
+{
+"slug": "peter-zemmer",
+"nome": "Peter Zemmer",
+"regione": "Trentino-Alto Adige",
+"comune": "Cortina S.S.D.V.",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"peter-zemmer"
+],
+"primario": "peter-zemmer"
+},
+{
+"slug": "pfannenstielhof",
+"nome": "Pfannenstielhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"pfannenstielhof"
+],
+"primario": "pfannenstielhof"
+},
+{
+"slug": "pfitscher",
+"nome": "Pfitscher",
+"regione": "Trentino-Alto Adige",
+"comune": "Montagna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"pfitscher"
+],
+"primario": "pfitscher"
+},
+{
+"slug": "pitsch-am-bach",
+"nome": "Pitsch am Bach",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"pitsch-am-bach"
+],
+"primario": "pitsch-am-bach"
+},
+{
+"slug": "pitzner-winery-suites",
+"nome": "Pitzner Winery & Suites",
+"regione": "Trentino-Alto Adige",
+"comune": "Cardano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"pitzner-winery-suites"
+],
+"primario": "pitzner-winery-suites"
+},
+{
+"slug": "popphof",
+"nome": "Popphof",
+"regione": "Trentino-Alto Adige",
+"comune": "Marlengo",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"popphof"
+],
+"primario": "popphof"
+},
+{
+"slug": "prader-rosmarie",
+"nome": "Prader Rosmarie",
+"regione": "Trentino-Alto Adige",
+"comune": "Funes",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"prader-rosmarie"
+],
+"primario": "prader-rosmarie"
+},
+{
+"slug": "praeclarus-cantina-sankt-pauls",
+"nome": "Praeclarus - Cantina Sankt Pauls",
+"regione": "Trentino-Alto Adige",
+"comune": "Appiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"praeclarus-cantina-sankt-pauls"
+],
+"primario": "praeclarus-cantina-sankt-pauls"
+},
+{
+"slug": "pratenberg",
+"nome": "Pratenberg",
+"regione": "Trentino-Alto Adige",
+"comune": "Merano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"pratenberg"
+],
+"primario": "pratenberg"
+},
+{
+"slug": "punterhof",
+"nome": "Punterhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Varna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"punterhof"
+],
+"primario": "punterhof"
+},
+{
+"slug": "putzenhof-di-schweigkofler-anna",
+"nome": "Putzenhof di Schweigkofler Anna",
+"regione": "Trentino-Alto Adige",
+"comune": "Laives",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"putzenhof-di-schweigkofler-anna"
+],
+"primario": "putzenhof-di-schweigkofler-anna"
+},
+{
+"slug": "rebhof",
+"nome": "Rebhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Castelbello",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"rebhof"
+],
+"primario": "rebhof"
+},
+{
+"slug": "resmairhof",
+"nome": "Resmairhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Scena Presso Merano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"resmairhof"
+],
+"primario": "resmairhof"
+},
+{
+"slug": "riedingerhof",
+"nome": "Riedingerhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Merano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"riedingerhof"
+],
+"primario": "riedingerhof"
+},
+{
+"slug": "ritterhof-weingut-tenuta",
+"nome": "Ritterhof Weingut-Tenuta",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"ritterhof-weingut-tenuta"
+],
+"primario": "ritterhof-weingut-tenuta"
+},
+{
+"slug": "runsthof",
+"nome": "Runsthof",
+"regione": "Trentino-Alto Adige",
+"comune": "Lana",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"runsthof"
+],
+"primario": "runsthof"
+},
+{
+"slug": "rock",
+"nome": "Röck",
+"regione": "Trentino-Alto Adige",
+"comune": "Villandro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"rock"
+],
+"primario": "rock"
+},
+{
+"slug": "rosslhof",
+"nome": "Rösslhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"rosslhof"
+],
+"primario": "rosslhof"
+},
+{
+"slug": "schloss-plars",
+"nome": "Schloss Plars",
+"regione": "Trentino-Alto Adige",
+"comune": "Lagundo",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"schloss-plars"
+],
+"primario": "schloss-plars"
+},
+{
+"slug": "schlosskellerei-fritz-dellago",
+"nome": "Schlosskellerei Fritz Dellago",
+"regione": "Trentino-Alto Adige",
+"comune": "Missiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"schlosskellerei-fritz-dellago"
+],
+"primario": "schlosskellerei-fritz-dellago"
+},
+{
+"slug": "seeperle",
+"nome": "Seeperle",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"seeperle"
+],
+"primario": "seeperle"
+},
+{
+"slug": "stachlburg",
+"nome": "Stachlburg",
+"regione": "Trentino-Alto Adige",
+"comune": "Parcines",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"stachlburg"
+],
+"primario": "stachlburg"
+},
+{
+"slug": "steflhof",
+"nome": "Steflhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro S.S.D.V.",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"steflhof"
+],
+"primario": "steflhof"
+},
+{
+"slug": "steidlerhof",
+"nome": "Steidlerhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"steidlerhof"
+],
+"primario": "steidlerhof"
+},
+{
+"slug": "steinhaus",
+"nome": "Steinhaus",
+"regione": "Trentino-Alto Adige",
+"comune": "Salorno",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"steinhaus"
+],
+"primario": "steinhaus"
+},
+{
+"slug": "tenuta-abraham",
+"nome": "Tenuta Abraham",
+"regione": "Trentino-Alto Adige",
+"comune": "Appiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-abraham"
+],
+"primario": "tenuta-abraham"
+},
+{
+"slug": "tenuta-alois-lageder",
+"nome": "Tenuta Alois Lageder",
+"regione": "Trentino-Alto Adige",
+"comune": "Magrè",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-alois-lageder"
+],
+"primario": "tenuta-alois-lageder"
+},
+{
+"slug": "tenuta-ansitz-dornach",
+"nome": "Tenuta Ansitz Dornach",
+"regione": "Trentino-Alto Adige",
+"comune": "Salorno",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-ansitz-dornach"
+],
+"primario": "tenuta-ansitz-dornach"
+},
+{
+"slug": "tenuta-brunnenhof",
+"nome": "Tenuta Brunnenhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Egna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-brunnenhof"
+],
+"primario": "tenuta-brunnenhof"
+},
+{
+"slug": "tenuta-castel-rametz",
+"nome": "Tenuta Castel Rametz",
+"regione": "Trentino-Alto Adige",
+"comune": "Merano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-castel-rametz"
+],
+"primario": "tenuta-castel-rametz"
+},
+{
+"slug": "tenuta-castel-sallegg",
+"nome": "Tenuta Castel Sallegg",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-castel-sallegg"
+],
+"primario": "tenuta-castel-sallegg"
+},
+{
+"slug": "tenuta-daniel-sigmund",
+"nome": "Tenuta Daniel Sigmund",
+"regione": "Trentino-Alto Adige",
+"comune": "Bressanone",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-daniel-sigmund"
+],
+"primario": "tenuta-daniel-sigmund"
+},
+{
+"slug": "tenuta-eberlehof",
+"nome": "Tenuta Eberlehof",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-eberlehof"
+],
+"primario": "tenuta-eberlehof"
+},
+{
+"slug": "tenuta-ebner",
+"nome": "Tenuta Ebner",
+"regione": "Trentino-Alto Adige",
+"comune": "Renon-Campodazzo",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-ebner"
+],
+"primario": "tenuta-ebner"
+},
+{
+"slug": "tenuta-eichenstein",
+"nome": "Tenuta Eichenstein",
+"regione": "Trentino-Alto Adige",
+"comune": "Merano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-eichenstein"
+],
+"primario": "tenuta-eichenstein"
+},
+{
+"slug": "tenuta-gottardi",
+"nome": "Tenuta Gottardi",
+"regione": "Trentino-Alto Adige",
+"comune": "Egna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-gottardi"
+],
+"primario": "tenuta-gottardi"
+},
+{
+"slug": "tenuta-griesbauerhof",
+"nome": "Tenuta Griesbauerhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-griesbauerhof"
+],
+"primario": "tenuta-griesbauerhof"
+},
+{
+"slug": "tenuta-griesserhof",
+"nome": "Tenuta Griesserhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Varna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-griesserhof"
+],
+"primario": "tenuta-griesserhof"
+},
+{
+"slug": "tenuta-h-lentsch",
+"nome": "Tenuta H. Lentsch",
+"regione": "Trentino-Alto Adige",
+"comune": "Bronzolo",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-h-lentsch"
+],
+"primario": "tenuta-h-lentsch"
+},
+{
+"slug": "tenuta-hans-rottensteiner",
+"nome": "Tenuta Hans Rottensteiner",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-hans-rottensteiner"
+],
+"primario": "tenuta-hans-rottensteiner"
+},
+{
+"slug": "tenuta-hochegg",
+"nome": "Tenuta Hochegg",
+"regione": "Trentino-Alto Adige",
+"comune": "Laives",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-hochegg"
+],
+"primario": "tenuta-hochegg"
+},
+{
+"slug": "tenuta-hochklaus",
+"nome": "Tenuta Hochklaus",
+"regione": "Trentino-Alto Adige",
+"comune": "Cornedo",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-hochklaus"
+],
+"primario": "tenuta-hochklaus"
+},
+{
+"slug": "tenuta-kiemberger",
+"nome": "Tenuta Kiemberger",
+"regione": "Trentino-Alto Adige",
+"comune": "Terlano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-kiemberger"
+],
+"primario": "tenuta-kiemberger"
+},
+{
+"slug": "tenuta-klaus-lentsch",
+"nome": "Tenuta Klaus Lentsch",
+"regione": "Trentino-Alto Adige",
+"comune": "S. Paolo",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-klaus-lentsch"
+],
+"primario": "tenuta-klaus-lentsch"
+},
+{
+"slug": "tenuta-klosterhof",
+"nome": "Tenuta Klosterhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-klosterhof"
+],
+"primario": "tenuta-klosterhof"
+},
+{
+"slug": "tenuta-kobler",
+"nome": "Tenuta Kobler",
+"regione": "Trentino-Alto Adige",
+"comune": "Magré",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-kobler"
+],
+"primario": "tenuta-kobler"
+},
+{
+"slug": "tenuta-kornell",
+"nome": "Tenuta Kornell",
+"regione": "Trentino-Alto Adige",
+"comune": "Settequerce",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-kornell"
+],
+"primario": "tenuta-kornell"
+},
+{
+"slug": "tenuta-kranzelhof",
+"nome": "Tenuta Kränzelhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Cermes",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-kranzelhof"
+],
+"primario": "tenuta-kranzelhof"
+},
+{
+"slug": "tenuta-larcherhof",
+"nome": "Tenuta Larcherhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-larcherhof"
+],
+"primario": "tenuta-larcherhof"
+},
+{
+"slug": "tenuta-morandell",
+"nome": "Tenuta Morandell",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-morandell"
+],
+"primario": "tenuta-morandell"
+},
+{
+"slug": "tenuta-niklas",
+"nome": "Tenuta Niklas",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-niklas"
+],
+"primario": "tenuta-niklas"
+},
+{
+"slug": "tenuta-oberpreyhof",
+"nome": "Tenuta Oberpreyhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-oberpreyhof"
+],
+"primario": "tenuta-oberpreyhof"
+},
+{
+"slug": "tenuta-peter-solva",
+"nome": "Tenuta Peter Sölva",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-peter-solva"
+],
+"primario": "tenuta-peter-solva"
+},
+{
+"slug": "tenuta-pfostl",
+"nome": "Tenuta Pföstl",
+"regione": "Trentino-Alto Adige",
+"comune": "Scena",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-pfostl"
+],
+"primario": "tenuta-pfostl"
+},
+{
+"slug": "tenuta-ploner",
+"nome": "Tenuta Ploner",
+"regione": "Trentino-Alto Adige",
+"comune": "Marlengo",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-ploner"
+],
+"primario": "tenuta-ploner"
+},
+{
+"slug": "tenuta-romen",
+"nome": "Tenuta Romen",
+"regione": "Trentino-Alto Adige",
+"comune": "Appiano sulla Strada del Vino",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-romen"
+],
+"primario": "tenuta-romen"
+},
+{
+"slug": "tenuta-roll",
+"nome": "Tenuta Röll",
+"regione": "Trentino-Alto Adige",
+"comune": "Auna di Sotto Renon",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-roll"
+],
+"primario": "tenuta-roll"
+},
+{
+"slug": "tenuta-schmid-oberrautner",
+"nome": "Tenuta Schmid Oberrautner",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-schmid-oberrautner"
+],
+"primario": "tenuta-schmid-oberrautner"
+},
+{
+"slug": "tenuta-spiegelhof",
+"nome": "Tenuta Spiegelhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-spiegelhof"
+],
+"primario": "tenuta-spiegelhof"
+},
+{
+"slug": "tenuta-st-peter",
+"nome": "Tenuta St. Peter",
+"regione": "Trentino-Alto Adige",
+"comune": "Lana",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-st-peter"
+],
+"primario": "tenuta-st-peter"
+},
+{
+"slug": "tenuta-strasserhof-hannes-baumgartner",
+"nome": "Tenuta Strasserhof - Hannes Baumgartner",
+"regione": "Trentino-Alto Adige",
+"comune": "Varna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-strasserhof-hannes-baumgartner"
+],
+"primario": "tenuta-strasserhof-hannes-baumgartner"
+},
+{
+"slug": "tenuta-thurner",
+"nome": "Tenuta Thurner",
+"regione": "Trentino-Alto Adige",
+"comune": "Nalles",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-thurner"
+],
+"primario": "tenuta-thurner"
+},
+{
+"slug": "tenuta-vitivinicola-haidenhof",
+"nome": "Tenuta Vitivinicola Haidenhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Cermes",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-vitivinicola-haidenhof"
+],
+"primario": "tenuta-vitivinicola-haidenhof"
+},
+{
+"slug": "tenuta-von-payr",
+"nome": "Tenuta Von Payr",
+"regione": "Trentino-Alto Adige",
+"comune": "Appiano sulla Strada del Vino",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-von-payr"
+],
+"primario": "tenuta-von-payr"
+},
+{
+"slug": "tenuta-waldthaler",
+"nome": "Tenuta Waldthaler",
+"regione": "Trentino-Alto Adige",
+"comune": "Ora",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-waldthaler"
+],
+"primario": "tenuta-waldthaler"
+},
+{
+"slug": "tenuta-weinewolf",
+"nome": "Tenuta WeineWolf",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-weinewolf"
+],
+"primario": "tenuta-weinewolf"
+},
+{
+"slug": "tenuta-weitgruber-raffeis",
+"nome": "Tenuta Weitgruber-Raffeis",
+"regione": "Trentino-Alto Adige",
+"comune": "Merano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-weitgruber-raffeis"
+],
+"primario": "tenuta-weitgruber-raffeis"
+},
+{
+"slug": "tenuta-wildmonn",
+"nome": "Tenuta Wildmonn",
+"regione": "Trentino-Alto Adige",
+"comune": "Cornaiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tenuta-wildmonn"
+],
+"primario": "tenuta-wildmonn"
+},
+{
+"slug": "thomas-niedermayr",
+"nome": "Thomas Niedermayr",
+"regione": "Trentino-Alto Adige",
+"comune": "Appiano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"thomas-niedermayr"
+],
+"primario": "thomas-niedermayr"
+},
+{
+"slug": "tropfltalhof",
+"nome": "Tröpfltalhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Caldaro",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"tropfltalhof"
+],
+"primario": "tropfltalhof"
+},
+{
+"slug": "untermoserhof",
+"nome": "Untermoserhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"untermoserhof"
+],
+"primario": "untermoserhof"
+},
+{
+"slug": "villscheiderhof",
+"nome": "Villscheiderhof",
+"regione": "Trentino-Alto Adige",
+"comune": "Bressanone",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"villscheiderhof"
+],
+"primario": "villscheiderhof"
+},
+{
+"slug": "weingut-michael-puff",
+"nome": "Weingut Michael Puff",
+"regione": "Trentino-Alto Adige",
+"comune": "Girlan",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"weingut-michael-puff"
+],
+"primario": "weingut-michael-puff"
+},
+{
+"slug": "weingut-sebastian-praxmarer",
+"nome": "Weingut Sebastian Praxmarer",
+"regione": "Trentino-Alto Adige",
+"comune": "Egna",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"weingut-sebastian-praxmarer"
+],
+"primario": "weingut-sebastian-praxmarer"
+},
+{
+"slug": "wilhelm-walch-1869",
+"nome": "Wilhelm Walch 1869",
+"regione": "Trentino-Alto Adige",
+"comune": "Tramin",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"wilhelm-walch-1869"
+],
+"primario": "wilhelm-walch-1869"
+},
+{
+"slug": "azienda-vitivinicola-weingut-seppi",
+"nome": "azienda vitivinicola WeinGut Seppi",
+"regione": "Trentino-Alto Adige",
+"comune": "Kaltern",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"azienda-vitivinicola-weingut-seppi"
+],
+"primario": "azienda-vitivinicola-weingut-seppi"
+},
+{
+"slug": "reyter-di-christoph-unterhofer",
+"nome": "reyter di Christoph Unterhofer",
+"regione": "Trentino-Alto Adige",
+"comune": "Bolzano",
+"tipi": {
+"alto-adige": [
+"Alto Adige"
+]
+},
+"membri": [
+"reyter-di-christoph-unterhofer"
+],
+"primario": "reyter-di-christoph-unterhofer"
 }
 ]

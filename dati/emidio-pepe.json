@@ -1,0 +1,50 @@
+{
+ "nome": "Emidio Pepe",
+ "slug": "emidio-pepe",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01555360674 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Chiesi 10, 64010 Torano Nuovo (TE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0861 856493 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@emidiopepe.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.emidiopepe.com|emidiopepe.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.emidiopepe.com",
+   "etichetta": "emidiopepe.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "nome": "Thomas Niedermayr",
+ "slug": "thomas-niedermayr",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Castel Palú 1, 39057 Appiano (BZ) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 340 8242 495 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@thomas-niedermayr.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.thomas-niedermayr.com/de|thomas-niedermayr.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio volontario di tutela Vini Alto Adige [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio volontario di tutela Vini Alto Adige, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinialtoadige.com/it/viticoltori/produttori-di-vino",
+   "etichetta": "vinialtoadige.com"
+  }
+ ]
+}

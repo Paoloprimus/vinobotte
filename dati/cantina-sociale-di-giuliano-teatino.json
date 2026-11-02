@@ -1,0 +1,40 @@
+{
+ "nome": "Cantina Sociale Di Giuliano Teatino",
+ "slug": "cantina-sociale-di-giuliano-teatino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Tratturo, 102, 66010 Giuliano Teatino (CH) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0871 718229 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinagiulianoteatino.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinagiulianoteatino.it|cantinagiulianoteatino.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

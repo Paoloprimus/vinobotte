@@ -1,0 +1,46 @@
+{
+ "nome": "Dipoli Peter",
+ "slug": "dipoli-peter",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Villa 5, 39044 Egna (BZ) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 333 2345042 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@dipoli.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.peterdipoli.com|dipoli.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio volontario di tutela Vini Alto Adige [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.peterdipoli.com",
+   "etichetta": "dipoli.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio volontario di tutela Vini Alto Adige, consultato il 2 novembre 2026.",
+   "url": "https://www.vinialtoadige.com/it/viticoltori/produttori-di-vino",
+   "etichetta": "vinialtoadige.com"
+  }
+ ]
+}

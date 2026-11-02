@@ -1,0 +1,50 @@
+{
+ "nome": "Faraone",
+ "slug": "faraone",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01963040678 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Nazionale per Teramo, 290, 64020 Giulianova (TE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 085 8071804 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@faraonevini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.faraonevini.it/|faraonevini.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.faraonevini.it/",
+   "etichetta": "faraonevini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

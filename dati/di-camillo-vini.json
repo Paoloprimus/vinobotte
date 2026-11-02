@@ -1,0 +1,40 @@
+{
+ "nome": "Di Camillo Vini",
+ "slug": "di-camillo-vini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Roma, 27, 66030 Poggiofiorito (CH) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0871 930102 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@dicamillovini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.dicamillovini.it|dicamillovini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

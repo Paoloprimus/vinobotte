@@ -1,0 +1,40 @@
+{
+ "nome": "Cantina Terzini",
+ "slug": "cantina-terzini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Roma, 52, 65028 Tocco da Casauria (PE) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 085 9158147 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinaterzini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinaterzini.it|cantinaterzini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

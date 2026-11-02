@@ -1,0 +1,50 @@
+{
+ "nome": "Fattoria Giuseppe Savini",
+ "slug": "fattoria-giuseppe-savini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00939220679 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "C.da Piane Vomano, 64020 Morro D'Oro (TE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 085 8048022 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantina@fattoriagiuseppesavini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.fattoriagiuseppesavini.com|fattoriagiuseppesavini.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.fattoriagiuseppesavini.com",
+   "etichetta": "fattoriagiuseppesavini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

@@ -23,7 +23,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio Tutela Vini del Trentino [[2]]\nConsorzio Tutela DOC Delle Venezie [[3]]"
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio Tutela Vini del Trentino [[2]]\nConsorzio Tutela DOC Delle Venezie [[3]]\nConsorzio volontario di tutela Vini Alto Adige [[4]]"
     }
    ]
   },
@@ -61,7 +61,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/CavitViniTrentini|CavitViniTrentini}}\nInstagram {{https://www.instagram.com/cavitvinitrentini/|@cavitvinitrentini}}\nYouTube {{https://www.youtube.com/user/CavitTrento|CavitTrento}}\nLinkedIn {{https://www.linkedin.com/company/cavit|cavit}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/CavitViniTrentini|CavitViniTrentini}}\nInstagram {{https://www.instagram.com/cavitvinitrentini/|@cavitvinitrentini}}\nYouTube {{https://www.youtube.com/user/CavitTrento|CavitTrento}}\nLinkedIn {{https://www.linkedin.com/company/cavit|cavit}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -69,11 +69,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=7921471188459864065|Mappa}} — valutazione 4,4 su 5 (219 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=7921471188459864065|Mappa}} — valutazione 4,4 su 5 (219 recensioni) [[6]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[7]]"
     }
    ]
   }
@@ -100,18 +100,24 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio volontario di tutela Vini Alto Adige, consultato il 2 novembre 2026.",
+   "url": "https://www.vinialtoadige.com/it/viticoltori/produttori-di-vino",
+   "etichetta": "vinialtoadige.com"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://cavit.it",
    "etichetta": "cavit.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Cavit s.c. Trento» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=7921471188459864065",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

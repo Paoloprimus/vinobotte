@@ -1,0 +1,50 @@
+{
+ "nome": "Cantina Eredi",
+ "slug": "cantina-eredi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00091430694 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "C.da Nasuti 169, 66034 Lanciano (CH) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0872 45210 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@eredilegonziano.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.eredilegonziano.it|eredilegonziano.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.eredilegonziano.it",
+   "etichetta": "eredilegonziano.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

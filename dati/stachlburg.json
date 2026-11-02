@@ -1,0 +1,40 @@
+{
+ "nome": "Stachlburg",
+ "slug": "stachlburg",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via P. Mitterhofer 2, 39020 Parcines (BZ) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 335 265939 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "sigmund.kripp@stachlburg.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.stachlburg.com|stachlburg.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio volontario di tutela Vini Alto Adige [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio volontario di tutela Vini Alto Adige, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinialtoadige.com/it/viticoltori/produttori-di-vino",
+   "etichetta": "vinialtoadige.com"
+  }
+ ]
+}

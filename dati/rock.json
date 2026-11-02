@@ -1,0 +1,50 @@
+{
+ "nome": "Röck",
+ "slug": "rock",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01329170219 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "S. Valentino 22, 39040 Villandro (BZ) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0472 847130 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@roeck.bz [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.roeck.bz|roeck.bz}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio volontario di tutela Vini Alto Adige [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.roeck.bz",
+   "etichetta": "roeck.bz"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio volontario di tutela Vini Alto Adige, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinialtoadige.com/it/viticoltori/produttori-di-vino",
+   "etichetta": "vinialtoadige.com"
+  }
+ ]
+}

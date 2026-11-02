@@ -1,0 +1,50 @@
+{
+ "nome": "Cantina Alois Warasin",
+ "slug": "cantina-alois-warasin",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00210490215 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Colterenzio 1, 39057 Appiano (BZ) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0471 662462 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "weine.a.warasin@rolmail.net [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.weinewarasin.com/|weinewarasin.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio volontario di tutela Vini Alto Adige [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.weinewarasin.com/",
+   "etichetta": "weinewarasin.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio volontario di tutela Vini Alto Adige, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinialtoadige.com/it/viticoltori/produttori-di-vino",
+   "etichetta": "vinialtoadige.com"
+  }
+ ]
+}

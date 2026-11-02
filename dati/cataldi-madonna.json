@@ -1,0 +1,50 @@
+{
+ "nome": "Cataldi Madonna",
+ "slug": "cataldi-madonna",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02075050662 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via della Madonna Carrufo, 3, 67025 Ofena (AQ) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0862 708037 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "amministrazione@cataldimadonna.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cataldimadonna.com|cataldimadonna.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.cataldimadonna.com",
+   "etichetta": "cataldimadonna.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "Cantine Ciampoli",
+ "slug": "cantine-ciampoli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantine Dragani S.r.l [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01725280687 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Macinini, 15, 66026 Caldari di Ortona (CH) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 085 8289526 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cordano.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://cantinadragani.it/|cantinadragani.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://cantinadragani.it/",
+   "etichetta": "cantinadragani.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini d’Abruzzo, consultato il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

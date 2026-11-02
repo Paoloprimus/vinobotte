@@ -1,0 +1,50 @@
+{
+ "nome": "Ciavolich",
+ "slug": "ciavolich",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01689710687 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "C.da Salmacina, 11, 65014 Loreto Aprutino (PE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 085 8289002 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "agricola@ciavolich.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.ciavolich.com|ciavolich.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.ciavolich.com",
+   "etichetta": "ciavolich.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

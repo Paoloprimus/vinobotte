@@ -1,0 +1,40 @@
+{
+ "nome": "Cantina San Zefferino",
+ "slug": "cantina-san-zefferino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "C.da Caldari Stazione s.n.c., 66026 Ortona (CH) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 085 9032126 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinasanzefferino.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinasanzefferino.it|cantinasanzefferino.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

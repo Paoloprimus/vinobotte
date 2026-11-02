@@ -1,0 +1,40 @@
+{
+ "nome": "Donvitantonio Vini",
+ "slug": "donvitantonio-vini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Villa Selciaroli, 66014 Crecchio (CH) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0871 784339 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@donvitantonio.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.donvitantonio.com|donvitantonio.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}
