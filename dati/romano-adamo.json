@@ -1,0 +1,36 @@
+{
+ "nome": "Romano & Adamo",
+ "slug": "romano-adamo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cesare Battisti, 70, 88811 Cirò Marina (KR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3405641411 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.romanoeadamo.it|romanoeadamo.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorzioviniciroemelissa.it/aziende/",
+   "etichetta": "consorzioviniciroemelissa.it"
+  }
+ ]
+}

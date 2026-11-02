@@ -32346,5 +32346,395 @@
   "data_consorzio": "2 novembre 2026",
   "consorzio": "alto-adige",
   "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "lungarotti",
+  "nome": "Lungarotti",
+  "regione": "Umbria",
+  "comune": "Torgiano",
+  "tipi": {
+   "torgiano": [
+    "Torgiano"
+   ]
+  },
+  "rag": "Lungarotti Società Agricola a.",
+  "piva": "",
+  "sede": "Viale Giorgio Lungarotti 2, 06089 Torgiano (PG)",
+  "tel": "+39 075 9886649",
+  "email": "enoteca@lungarotti.it",
+  "sito": "http://www.lungarotti.it/ita",
+  "dom": "lungarotti.it",
+  "den": "",
+  "wip": "Lungarotti",
+  "url_consorzio": "https://consorziotutelavinitorgiano.it/cantine/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio di tutela dei vini di Torgiano",
+  "dom_consorzio": "consorziotutelavinitorgiano.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "torgiano",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "terre-margaritelli",
+  "nome": "Terre Margaritelli",
+  "regione": "Umbria",
+  "comune": "San Venanzo",
+  "tipi": {
+   "torgiano": [
+    "Torgiano"
+   ]
+  },
+  "rag": "Terre Margaritelli S.r.l",
+  "piva": "00643910540",
+  "sede": "Via IV Novembre n. 46, 05010 San Venanzo (TR)",
+  "tel": "",
+  "email": "info@terremargaritelli.com",
+  "sito": "http://www.terremargaritelli.com/home-4-1.html",
+  "dom": "terremargaritelli.com",
+  "den": "",
+  "wip": "Terre Margaritelli",
+  "url_consorzio": "https://consorziotutelavinitorgiano.it/cantine/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio di tutela dei vini di Torgiano",
+  "dom_consorzio": "consorziotutelavinitorgiano.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "torgiano",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "soc-agr-de-luca",
+  "nome": "Soc. Agr. De Luca",
+  "regione": "Calabria",
+  "comune": "Melissa",
+  "tipi": {
+   "ciro-melissa": [
+    "Cirò e Melissa"
+   ]
+  },
+  "rag": "",
+  "piva": "00230720795",
+  "sede": "Via S. Caterina, 3, 88817 Melissa (KR)",
+  "tel": "+39 0962 935802",
+  "email": "info@cantinedeluca.com",
+  "sito": "https://www.cantinedeluca.com",
+  "dom": "vinideluca.com",
+  "den": "",
+  "wip": "Soc. Agr. De Luca",
+  "url_consorzio": "https://www.consorzioviniciroemelissa.it/aziende/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa",
+  "dom_consorzio": "consorzioviniciroemelissa.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "ciro-melissa",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "librandi-antonio-e-nicodemo",
+  "nome": "Librandi Antonio e Nicodemo",
+  "regione": "Calabria",
+  "comune": "Cirò Marina",
+  "tipi": {
+   "ciro-melissa": [
+    "Cirò e Melissa"
+   ]
+  },
+  "rag": "Librandi Antonio e Nicodemo S.p.A",
+  "piva": "01494560798",
+  "sede": "C.da S. Gennaro, 88811 Cirò Marina (KR)",
+  "tel": "",
+  "email": "",
+  "sito": "https://www.librandi.it",
+  "dom": "librandi.it",
+  "den": "",
+  "wip": "Librandi Antonio e Nicodemo",
+  "url_consorzio": "https://www.consorzioviniciroemelissa.it/aziende/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa",
+  "dom_consorzio": "consorzioviniciroemelissa.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "ciro-melissa",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "fax-0962-88252-348-2260328",
+  "nome": "Fax 0962-88252 – 348 2260328",
+  "regione": "Calabria",
+  "comune": "Strongoli",
+  "tipi": {
+   "ciro-melissa": [
+    "Cirò e Melissa"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "C.da Pizzuta, 88816 Strongoli (KR)",
+  "tel": "",
+  "email": "amministrazione@lapizzutadelprincipe.it",
+  "sito": "https://www.lapizzutadelprincipe.it",
+  "dom": "lapizzutadelprincipe.it",
+  "den": "",
+  "wip": "Fax 0962-88252 – 348 2260328",
+  "url_consorzio": "https://www.consorzioviniciroemelissa.it/aziende/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa",
+  "dom_consorzio": "consorzioviniciroemelissa.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "ciro-melissa",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "fax-39-0962-1905781",
+  "nome": "Fax (+39) 0962 1905781",
+  "regione": "Calabria",
+  "comune": "Strongoli",
+  "tipi": {
+   "ciro-melissa": [
+    "Cirò e Melissa"
+   ]
+  },
+  "rag": "Russo & Longo Snc",
+  "piva": "",
+  "sede": "Via Serpito, 2 · 88816 Strongoli (KR), 88816 Strongoli (KR)",
+  "tel": "",
+  "email": "commerciale@russoelongo.it",
+  "sito": "https://www.russoelongo.it",
+  "dom": "russoelongo.com",
+  "den": "",
+  "wip": "Fax (+39) 0962 1905781",
+  "url_consorzio": "https://www.consorzioviniciroemelissa.it/aziende/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa",
+  "dom_consorzio": "consorzioviniciroemelissa.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "ciro-melissa",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "romano-adamo",
+  "nome": "Romano & Adamo",
+  "regione": "Calabria",
+  "comune": "Cirò Marina",
+  "tipi": {
+   "ciro-melissa": [
+    "Cirò e Melissa"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Cesare Battisti, 70, 88811 Cirò Marina (KR)",
+  "tel": "+39 3405641411",
+  "email": "",
+  "sito": "https://www.romanoeadamo.it",
+  "dom": "romanoeadamo.it",
+  "den": "",
+  "wip": "Romano & Adamo",
+  "url_consorzio": "https://www.consorzioviniciroemelissa.it/aziende/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa",
+  "dom_consorzio": "consorzioviniciroemelissa.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "ciro-melissa",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "fax-39-0962-379152",
+  "nome": "Fax (+39) 0962 379152",
+  "regione": "Calabria",
+  "comune": "Cirò Marina",
+  "tipi": {
+   "ciro-melissa": [
+    "Cirò e Melissa"
+   ]
+  },
+  "rag": "Tenuta Iuzzolini di Iuzzolini P. & C. Società Agricola in",
+  "piva": "02347670792",
+  "sede": "Località Frassà, 88811 Cirò Marina (KR)",
+  "tel": "",
+  "email": "info@tenutaiuzzolini.it",
+  "sito": "https://www.tenutaiuzzolini.it",
+  "dom": "tenutaiuzzolini.it",
+  "den": "",
+  "wip": "Fax (+39) 0962 379152",
+  "url_consorzio": "https://www.consorzioviniciroemelissa.it/aziende/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa",
+  "dom_consorzio": "consorzioviniciroemelissa.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "ciro-melissa",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "cell-39-380-3679780",
+  "nome": "Cell. (+39) 380 3679780",
+  "regione": "Calabria",
+  "comune": "Cirò Marina",
+  "tipi": {
+   "ciro-melissa": [
+    "Cirò e Melissa"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "C.da Ceramidio, 88811 Cirò Marina (KR)",
+  "tel": "+39 0962.35801",
+  "email": "info@capoano.it",
+  "sito": "https://www.capoano.it",
+  "dom": "capoano.it",
+  "den": "",
+  "wip": "Cell. (+39) 380 3679780",
+  "url_consorzio": "https://www.consorzioviniciroemelissa.it/aziende/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa",
+  "dom_consorzio": "consorzioviniciroemelissa.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "ciro-melissa",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "fax-39-0962-31107",
+  "nome": "Fax (+39) 0962 31107",
+  "regione": "Calabria",
+  "comune": "Ciró Marina",
+  "tipi": {
+   "ciro-melissa": [
+    "Cirò e Melissa"
+   ]
+  },
+  "rag": "",
+  "piva": "00343110797",
+  "sede": "Via Tirone, 132, 88811 Ciró Marina (KR)",
+  "tel": "",
+  "email": "",
+  "sito": "https://www.ippolito1845.it",
+  "dom": "ippolito1845.it",
+  "den": "",
+  "wip": "Fax (+39) 0962 31107",
+  "url_consorzio": "https://www.consorzioviniciroemelissa.it/aziende/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa",
+  "dom_consorzio": "consorzioviniciroemelissa.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "ciro-melissa",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "feudo-liguori-azienda-agricola-giuseppe-liguori",
+  "nome": "FEUDO LIGUORI – Azienda Agricola Giuseppe Liguori",
+  "regione": "Calabria",
+  "comune": "Terravecchia",
+  "tipi": {
+   "ciro-melissa": [
+    "Cirò e Melissa"
+   ]
+  },
+  "rag": "",
+  "piva": "01375540786",
+  "sede": "C.da S. Giorgio, snc, 87060 Terravecchia (CS)",
+  "tel": "+39 379.1149395",
+  "email": "info@feudoliguori.it",
+  "sito": "https://www.feudoliguori.it",
+  "dom": "feudoliguori.it",
+  "den": "",
+  "wip": "FEUDO LIGUORI – Azienda Agricola Giuseppe Liguori",
+  "url_consorzio": "https://www.consorzioviniciroemelissa.it/aziende/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa",
+  "dom_consorzio": "consorzioviniciroemelissa.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "ciro-melissa",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "cantina-campana-di-cosentino-maria",
+  "nome": "CANTINA CAMPANA di Cosentino Maria",
+  "regione": "Calabria",
+  "comune": "Cirò Marina",
+  "tipi": {
+   "ciro-melissa": [
+    "Cirò e Melissa"
+   ]
+  },
+  "rag": "",
+  "piva": "03726160793",
+  "sede": "Via Stazione, 20, 88811 Cirò Marina (KR)",
+  "tel": "+39 348 229 1998",
+  "email": "info@cantinacampana.it",
+  "sito": "https://www.cantinacampana.it",
+  "dom": "cantinacampana.it",
+  "den": "",
+  "wip": "CANTINA CAMPANA di Cosentino Maria",
+  "url_consorzio": "https://www.consorzioviniciroemelissa.it/aziende/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa",
+  "dom_consorzio": "consorzioviniciroemelissa.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "ciro-melissa",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "l-garbin",
+  "nome": "'L Garbin",
+  "regione": "Piemonte",
+  "comune": "Chiomonte",
+  "tipi": {
+   "valsusa": [
+    "Valsusa"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "località Signou, 10050 Chiomonte (TO)",
+  "tel": "+39 333 5965510",
+  "email": "aziendagarbin@gmail.com",
+  "sito": "https://www.garbin.info",
+  "dom": "garbin.info",
+  "den": "",
+  "wip": "'L Garbin",
+  "url_consorzio": "http://www.consorziovalsusadoc.com/cantine.html",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio per la Tutela e la Valorizzazione dei vini D.O.C. Valsusa",
+  "dom_consorzio": "consorziovalsusadoc.com",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "valsusa",
+  "data_consultazione": "2 novembre 2026"
  }
 ]

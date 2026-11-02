@@ -1,0 +1,50 @@
+{
+ "nome": "Soc. Agr. De Luca",
+ "slug": "soc-agr-de-luca",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00230720795 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via S. Caterina, 3, 88817 Melissa (KR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0962 935802 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinedeluca.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinedeluca.com|vinideluca.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cantinedeluca.com",
+   "etichetta": "vinideluca.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorzioviniciroemelissa.it/aziende/",
+   "etichetta": "consorzioviniciroemelissa.it"
+  }
+ ]
+}

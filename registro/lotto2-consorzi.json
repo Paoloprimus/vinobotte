@@ -2,6 +2,8 @@
  "data": "2 novembre 2026",
  "consorzi": [
   15,
+  18,
+  19,
   36,
   37,
   41,
@@ -9,230 +11,36 @@
   49,
   61,
   62,
+  77,
+  83,
   85,
   91,
   93,
   106,
   107,
-  123
+  109,
+  116,
+  119,
+  123,
+  135
  ],
  "promosse": [
-  "buzzarone",
-  "cantina-cerretano",
-  "cantina-colle-del-sole",
-  "cantina-colle-moro",
-  "cantina-collefrisio",
-  "cantina-colonnella",
-  "cantina-del-fucino",
-  "cantina-diubaldo",
-  "cantina-eredi",
-  "cantina-frentana",
-  "cantina-margiotta",
-  "cantina-miglianico",
-  "cantina-rapino",
-  "cantina-san-zefferino",
-  "cantina-sociale-di-giuliano-teatino",
-  "cantina-sociale-di-paglieta",
-  "cantina-sociale-sannitica",
-  "cantina-sociale-villamagna",
-  "cantina-strappelli",
-  "cantina-terzini",
-  "cantina-tollo",
-  "cantina-valle-tritana",
-  "cantina-zaccagnini",
-  "cantine-ciampoli",
-  "cantine-frontenac",
-  "cantine-mucci",
-  "cantine-nae",
-  "cantine-san-nicola",
-  "cantine-spinelli",
-  "caprera",
-  "casa-catelli",
-  "casa-vinicola-caldirola",
-  "cataldi-madonna",
-  "chiusa-grande",
-  "ciavolich",
-  "cioti",
-  "citra-vini",
-  "colle-corviano",
-  "contesa",
-  "dalesio-vini",
-  "de-antoniis-vini",
-  "di-camillo-vini",
-  "di-carlo-vini",
-  "donvitantonio-vini",
-  "duchi-di-castelluccio",
-  "emidio-pepe",
-  "faraone",
-  "fattoria-bruno-nicodemi",
-  "fattoria-giuseppe-savini",
-  "fontefico",
-  "guardiani-farchione",
-  "il-feuduccio",
-  "illuminati-vini",
-  "italgusto-wine",
-  "abbazia-di-novacella",
-  "angergut",
-  "ansitz-rynnhof",
-  "ansitz-villa-rasslhof",
-  "ansitz-waldgries",
-  "arunda",
-  "az-vitivinicola-obermoser",
-  "azienda-agricola-haderburg",
-  "azienda-agricola-maso-thaler",
-  "azienda-agricola-stroblhof",
-  "azienda-vinicola-falkenstein",
-  "azienda-vinicola-fliederhof",
-  "azienda-vinicola-lieselehof",
-  "azienda-vinicola-radoarhof",
-  "azienda-vinicola-t-pichler",
-  "azienda-vinicola-von-elzenbaum-wiesenheim-peter",
-  "azienda-agricola-kreithof",
-  "baron-longo",
-  "befehlhof-schuster-magdalena",
-  "bessererhof",
-  "boutique-winery",
-  "cantina-alois-warasin",
-  "cantina-andriano",
-  "cantina-bozen",
-  "cantina-colterenzio",
-  "cantina-convento-muri-gries",
-  "cantina-girlan",
-  "cantina-kaltern",
-  "cantina-kurtatsch",
-  "cantina-kossler",
-  "cantina-merano",
-  "cantina-produttori-san-michele-appiano",
-  "cantina-sankt-pauls",
-  "cantina-spumanti-lorenz-martini-comitissa",
-  "cantina-terlano",
-  "cantina-tiefenbrunner-schlosskellerei-turmhof",
-  "cantina-tramin",
-  "cantina-valle-isarco",
-  "cantina-vini-e-spumanti-braunbach",
-  "castel-annenberg",
-  "castelfeder",
-  "cora",
-  "dipoli-peter",
-  "dominikus",
-  "egger-ramer",
-  "elena-walch",
-  "engadiner-wines",
-  "ferruccio-carlotto",
-  "franz-gojer-glogglhof",
-  "grawu",
-  "glassierhof",
-  "grottnerhof",
-  "gruberhof",
-  "h-lun",
-  "happacherhof",
-  "hoandlhof",
-  "hof-am-keller",
-  "huber-andreas-pacher-hof",
-  "hannsl-am-ort",
-  "hauslerhof",
-  "innerleiterhof",
-  "j-hofstatter",
-  "josef-brigl",
-  "josef-weger",
-  "josmoar-des-sebastian-tonner",
-  "k-martini-sohn",
-  "kandlerhof",
-  "katharina-martini-tenuta-sonnleiten",
-  "kettmeir",
-  "kuenhof",
-  "kofererhof",
-  "lehengut",
-  "malojer-gummerhof",
-  "manuel-taddei-manifattura-vini",
-  "marinushof",
-  "maso-hillepranter",
-  "mauslocher",
-  "mayr-josef-maso-unterganzner",
-  "nals-margreid",
-  "niedrist",
-  "noafer",
-  "oberrauch-luis",
-  "peter-zemmer",
-  "pfannenstielhof",
-  "pfitscher",
-  "pitsch-am-bach",
-  "pitzner-winery-suites",
-  "popphof",
-  "prader-rosmarie",
-  "praeclarus-cantina-sankt-pauls",
-  "pratenberg",
-  "punterhof",
-  "putzenhof-di-schweigkofler-anna",
-  "rebhof",
-  "resmairhof",
-  "riedingerhof",
-  "ritterhof-weingut-tenuta",
-  "runsthof",
-  "rock",
-  "rosslhof",
-  "schloss-plars",
-  "schlosskellerei-fritz-dellago",
-  "seeperle",
-  "stachlburg",
-  "steflhof",
-  "steidlerhof",
-  "steinhaus",
-  "tenuta-abraham",
-  "tenuta-alois-lageder",
-  "tenuta-ansitz-dornach",
-  "tenuta-brunnenhof",
-  "tenuta-castel-rametz",
-  "tenuta-castel-sallegg",
-  "tenuta-daniel-sigmund",
-  "tenuta-eberlehof",
-  "tenuta-ebner",
-  "tenuta-eichenstein",
-  "tenuta-gottardi",
-  "tenuta-griesbauerhof",
-  "tenuta-griesserhof",
-  "tenuta-h-lentsch",
-  "tenuta-hans-rottensteiner",
-  "tenuta-hochegg",
-  "tenuta-hochklaus",
-  "tenuta-kiemberger",
-  "tenuta-klaus-lentsch",
-  "tenuta-klosterhof",
-  "tenuta-kobler",
-  "tenuta-kornell",
-  "tenuta-kranzelhof",
-  "tenuta-larcherhof",
-  "tenuta-morandell",
-  "tenuta-niklas",
-  "tenuta-oberpreyhof",
-  "tenuta-peter-solva",
-  "tenuta-pfostl",
-  "tenuta-ploner",
-  "tenuta-romen",
-  "tenuta-roll",
-  "tenuta-schmid-oberrautner",
-  "tenuta-spiegelhof",
-  "tenuta-st-peter",
-  "tenuta-strasserhof-hannes-baumgartner",
-  "tenuta-thurner",
-  "tenuta-vitivinicola-haidenhof",
-  "tenuta-von-payr",
-  "tenuta-waldthaler",
-  "tenuta-weinewolf",
-  "tenuta-weitgruber-raffeis",
-  "tenuta-wildmonn",
-  "thomas-niedermayr",
-  "tropfltalhof",
-  "untermoserhof",
-  "villscheiderhof",
-  "weingut-michael-puff",
-  "weingut-sebastian-praxmarer",
-  "wilhelm-walch-1869",
-  "azienda-vitivinicola-weingut-seppi",
-  "reyter-di-christoph-unterhofer"
+  "lungarotti",
+  "terre-margaritelli",
+  "soc-agr-de-luca",
+  "librandi-antonio-e-nicodemo",
+  "fax-0962-88252-348-2260328",
+  "fax-39-0962-1905781",
+  "romano-adamo",
+  "fax-39-0962-379152",
+  "cell-39-380-3679780",
+  "fax-39-0962-31107",
+  "feudo-liguori-azienda-agricola-giuseppe-liguori",
+  "cantina-campana-di-cosentino-maria",
+  "l-garbin"
  ],
- "gia_in_guida": 3,
- "esatti": 135,
+ "gia_in_guida": 5,
+ "esatti": 348,
  "token": [
   [
    15,
@@ -240,6 +48,14 @@
    "Azienda Agricola Luciani Giuseppe",
    [
     "luciani"
+   ]
+  ],
+  [
+   15,
+   "abruzzo",
+   "Camillo Cieri",
+   [
+    "di-camillo-vini"
    ]
   ],
   [
@@ -256,7 +72,8 @@
    "I Vini di Ferruccio",
    [
     "ferruccio-sgubin",
-    "bosco-ferruccio"
+    "bosco-ferruccio",
+    "ferruccio-carlotto"
    ]
   ],
   [
@@ -371,6 +188,22 @@
   [
    46,
    "alto-adige",
+   "Max Thurner - Perlhof",
+   [
+    "tenuta-thurner"
+   ]
+  ],
+  [
+   46,
+   "alto-adige",
+   "Nicolussi Leck - Kreithof",
+   [
+    "azienda-agricola-kreithof"
+   ]
+  ],
+  [
+   46,
+   "alto-adige",
    "Roverè della Luna - Kellerei Aichholz",
    [
     "rovere-della-luna"
@@ -382,6 +215,14 @@
    "Tenuta Loacker",
    [
     "corte-pavone-loacker-wine-estates"
+   ]
+  ],
+  [
+   46,
+   "alto-adige",
+   "Turmhof",
+   [
+    "cantina-tiefenbrunner-schlosskellerei-turmhof"
    ]
   ],
   [
@@ -511,6 +352,14 @@
   [
    85,
    "salerno",
+   "Azienda Agricola Cuomo Camillo",
+   [
+    "di-camillo-vini"
+   ]
+  ],
+  [
+   85,
+   "salerno",
    "Azienda Agricola Grimaldi Gianmaria",
    [
     "fratelli-grimaldi"
@@ -620,8 +469,158 @@
    [
     "viglione-antonio-e-figli"
    ]
+  ],
+  [
+   19,
+   "ciro-melissa",
+   "Azienda Vinicola F.lli Dell’Aquila",
+   [
+    "poggio-dellaquila"
+   ]
+  ],
+  [
+   19,
+   "ciro-melissa",
+   "Cantine ENOTRIA AZ. VITIVINICOLA",
+   [
+    "enotria-tellus"
+   ]
+  ],
+  [
+   19,
+   "ciro-melissa",
+   "Azienda agricola LA PIZZUTA DEL PRINCIPE di Ranieri Clara",
+   [
+    "podere-ranieri"
+   ]
+  ],
+  [
+   19,
+   "ciro-melissa",
+   "“Tenuta Santoro” di Giuseppe Santoro",
+   [
+    "s-s-a-san-teodoro-di-santoro-giuseppe"
+   ]
+  ],
+  [
+   19,
+   "ciro-melissa",
+   "Cantine BRUNI",
+   [
+    "bruni",
+    "tenute-bruni"
+   ]
+  ],
+  [
+   77,
+   "alghero",
+   "Cantina Santa Maria la Palma Alghero Soc. Coop. Agr. Per azioni",
+   [
+    "tenuta-santa-maria",
+    "fattoria-santa-maria-montescudaio"
+   ]
+  ],
+  [
+   77,
+   "alghero",
+   "Carboni Riccardo",
+   [
+    "riccardo"
+   ]
+  ],
+  [
+   83,
+   "trasimeno",
+   "Il Poggio",
+   [
+    "del-poggio",
+    "fattoria-il-poggio"
+   ]
+  ],
+  [
+   83,
+   "trasimeno",
+   "Poggio Santa Maria",
+   [
+    "tenuta-santa-maria",
+    "fattoria-santa-maria-montescudaio"
+   ]
+  ],
+  [
+   109,
+   "monferrato-casalese",
+   "Azienda Agricola Crosio",
+   [
+    "cantine-crosio"
+   ]
+  ],
+  [
+   109,
+   "monferrato-casalese",
+   "Cantina Sociale Di San Giorgio Scral",
+   [
+    "san-giorgio",
+    "vini-san-giorgio",
+    "tenuta-san-giorgio"
+   ]
+  ],
+  [
+   109,
+   "monferrato-casalese",
+   "CASALONE VINI",
+   [
+    "fattoria-il-casalone"
+   ]
+  ],
+  [
+   109,
+   "monferrato-casalese",
+   "Cascina Montecchio",
+   [
+    "fattoria-montecchio"
+   ]
+  ],
+  [
+   109,
+   "monferrato-casalese",
+   "Coppo Riccardo",
+   [
+    "riccardo"
+   ]
+  ],
+  [
+   109,
+   "monferrato-casalese",
+   "Il Consorzio",
+   [
+    "consorzio-agrario-di-siena-soc-coop"
+   ]
+  ],
+  [
+   119,
+   "reggio-calabria",
+   "Azienda Agricola Brancatisano Beatrice",
+   [
+    "azienda-agricola-s-beatrice"
+   ]
+  ],
+  [
+   119,
+   "reggio-calabria",
+   "Azienda Agricola di Lombardo Antonella",
+   [
+    "lombardo"
+   ]
+  ],
+  [
+   119,
+   "reggio-calabria",
+   "Cinque Talenti – Società Cooperativa a r.l.",
+   [
+    "talenti"
+   ]
   ]
  ],
- "wip": 488,
+ "wip": 683,
  "stat": {}
 }

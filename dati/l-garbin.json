@@ -1,0 +1,40 @@
+{
+ "nome": "'L Garbin",
+ "slug": "l-garbin",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "località Signou, 10050 Chiomonte (TO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 333 5965510 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "aziendagarbin@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.garbin.info|garbin.info}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela e la Valorizzazione dei vini D.O.C. Valsusa [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela e la Valorizzazione dei vini D.O.C. Valsusa, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "http://www.consorziovalsusadoc.com/cantine.html",
+   "etichetta": "consorziovalsusadoc.com"
+  }
+ ]
+}

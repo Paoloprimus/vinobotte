@@ -1,0 +1,50 @@
+{
+ "nome": "Terre Margaritelli",
+ "slug": "terre-margaritelli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Terre Margaritelli S.r.l [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00643910540 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via IV Novembre n. 46, 05010 San Venanzo (TR) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@terremargaritelli.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.terremargaritelli.com/home-4-1.html|terremargaritelli.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela dei vini di Torgiano [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.terremargaritelli.com/home-4-1.html",
+   "etichetta": "terremargaritelli.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di tutela dei vini di Torgiano, consultato il 2 novembre 2026.",
+   "url": "https://consorziotutelavinitorgiano.it/cantine/",
+   "etichetta": "consorziotutelavinitorgiano.it"
+  }
+ ]
+}

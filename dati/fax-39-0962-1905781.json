@@ -1,0 +1,46 @@
+{
+ "nome": "Fax (+39) 0962 1905781",
+ "slug": "fax-39-0962-1905781",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Russo & Longo Snc [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Serpito, 2 · 88816 Strongoli (KR), 88816 Strongoli (KR) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "commerciale@russoelongo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.russoelongo.it|russoelongo.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.russoelongo.it",
+   "etichetta": "russoelongo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa, consultato il 2 novembre 2026.",
+   "url": "https://www.consorzioviniciroemelissa.it/aziende/",
+   "etichetta": "consorzioviniciroemelissa.it"
+  }
+ ]
+}

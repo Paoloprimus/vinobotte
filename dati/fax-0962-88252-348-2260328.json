@@ -1,0 +1,42 @@
+{
+ "nome": "Fax 0962-88252 – 348 2260328",
+ "slug": "fax-0962-88252-348-2260328",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "C.da Pizzuta, 88816 Strongoli (KR) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "amministrazione@lapizzutadelprincipe.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lapizzutadelprincipe.it|lapizzutadelprincipe.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.lapizzutadelprincipe.it",
+   "etichetta": "lapizzutadelprincipe.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa, consultato il 2 novembre 2026.",
+   "url": "https://www.consorzioviniciroemelissa.it/aziende/",
+   "etichetta": "consorzioviniciroemelissa.it"
+  }
+ ]
+}

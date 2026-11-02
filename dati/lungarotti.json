@@ -1,0 +1,50 @@
+{
+ "nome": "Lungarotti",
+ "slug": "lungarotti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Lungarotti Società Agricola a. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Viale Giorgio Lungarotti 2, 06089 Torgiano (PG) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 075 9886649 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "enoteca@lungarotti.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.lungarotti.it/ita|lungarotti.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela dei vini di Torgiano [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.lungarotti.it/ita",
+   "etichetta": "lungarotti.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di tutela dei vini di Torgiano, consultato il 2 novembre 2026.",
+   "url": "https://consorziotutelavinitorgiano.it/cantine/",
+   "etichetta": "consorziotutelavinitorgiano.it"
+  }
+ ]
+}

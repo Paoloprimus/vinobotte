@@ -1,0 +1,42 @@
+{
+ "nome": "Fax (+39) 0962 31107",
+ "slug": "fax-39-0962-31107",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00343110797 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Tirone, 132, 88811 Ciró Marina (KR) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ippolito1845.it|ippolito1845.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.ippolito1845.it",
+   "etichetta": "ippolito1845.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa, consultato il 2 novembre 2026.",
+   "url": "https://www.consorzioviniciroemelissa.it/aziende/",
+   "etichetta": "consorzioviniciroemelissa.it"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "nome": "FEUDO LIGUORI – Azienda Agricola Giuseppe Liguori",
+ "slug": "feudo-liguori-azienda-agricola-giuseppe-liguori",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01375540786 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "C.da S. Giorgio, snc, 87060 Terravecchia (CS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 379.1149395 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@feudoliguori.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.feudoliguori.it|feudoliguori.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.feudoliguori.it",
+   "etichetta": "feudoliguori.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorzioviniciroemelissa.it/aziende/",
+   "etichetta": "consorzioviniciroemelissa.it"
+  }
+ ]
+}
