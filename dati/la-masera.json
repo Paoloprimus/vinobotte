@@ -1,0 +1,54 @@
+{
+ "nome": "la Masera",
+ "slug": "la-masera",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "La Masera Società Agricola SRL [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "12963590018 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada San Pietro, 32, 10010 Piverone (TO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 .331.8016881 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lamasera.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.lamasera.it|lamasera.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Erbaluce di Caluso e Carema [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.lamasera.it",
+   "etichetta": "lamasera.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Erbaluce di Caluso e Carema, consultato il 2 novembre 2026.",
+   "url": "https://www.erbalucecarema.it/cantine/la-masera/",
+   "etichetta": "erbalucecarema.it"
+  }
+ ]
+}

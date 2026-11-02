@@ -1,0 +1,46 @@
+{
+ "nome": "Cantine Lizzano",
+ "slug": "cantine-lizzano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00090470733 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Corso Europa 37/39, 74020 Lizzano (TA) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "segreteria@cantinelizzano.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinelizzano.it/|cantinelizzano.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cantinelizzano.it/",
+   "etichetta": "cantinelizzano.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Primitivo di Manduria DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/cantine-lizzano/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

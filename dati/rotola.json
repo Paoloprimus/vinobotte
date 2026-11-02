@@ -1,0 +1,46 @@
+{
+ "nome": "Rotola",
+ "slug": "rotola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01441980628 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Rotola, 9, 82014 Ceppaloni (BN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0824 554 11 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.shop.rotola.it|shop.rotola.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.shop.rotola.it",
+   "etichetta": "shop.rotola.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Sannio Consorzio Tutela Vini, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.sannio.wine/consorziati/",
+   "etichetta": "sannio.wine"
+  }
+ ]
+}

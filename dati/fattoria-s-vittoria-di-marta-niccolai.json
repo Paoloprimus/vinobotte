@@ -1,0 +1,40 @@
+{
+ "nome": "Fattoria S. Vittoria di Marta Niccolai",
+ "slug": "fattoria-s-vittoria-di-marta-niccolai",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Piana, 43, 52045 Foiano della Chiana (AR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0575 66807 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fattoriasantavittoria.net [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fattoriasantavittoria.net|fattoriasantavittoria.net}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valdichiana Toscana [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini Valdichiana Toscana, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinivaldichianatoscana.it/it/aziende.html",
+   "etichetta": "vinivaldichianatoscana.it"
+  }
+ ]
+}

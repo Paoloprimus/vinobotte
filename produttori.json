@@ -14883,6 +14883,9 @@
 ],
 "colli-senesi": [
 "Chianti Colli Senesi"
+],
+"valdichiana": [
+"Valdichiana Toscana"
 ]
 },
 "membri": [
@@ -51323,6 +51326,9 @@
 "tipi": {
 "gavi": [
 "Gavi"
+],
+"ovada": [
+"Ovada"
 ]
 },
 "membri": [
@@ -51353,6 +51359,9 @@
 "tipi": {
 "gavi": [
 "Gavi"
+],
+"ovada": [
+"Ovada"
 ]
 },
 "membri": [
@@ -51488,6 +51497,9 @@
 "tipi": {
 "gavi": [
 "Gavi"
+],
+"ovada": [
+"Ovada"
 ]
 },
 "membri": [
@@ -54209,6 +54221,9 @@
 "tipi": {
 "venezie": [
 "delle Venezie"
+],
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
 ]
 },
 "membri": [
@@ -54260,5 +54275,2060 @@
 "sede-operativa-via-dante-alighieri-13"
 ],
 "primario": "sede-operativa-via-dante-alighieri-13"
+},
+{
+"slug": "agricola-olivia",
+"nome": "Agricola Olivia",
+"regione": "Abruzzo",
+"comune": "Casalbordino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"agricola-olivia"
+],
+"primario": "agricola-olivia"
+},
+{
+"slug": "agricosimo",
+"nome": "Agricosimo",
+"regione": "Abruzzo",
+"comune": "Villamagna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"agricosimo"
+],
+"primario": "agricosimo"
+},
+{
+"slug": "agriverde",
+"nome": "Agriverde",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"agriverde"
+],
+"primario": "agriverde"
+},
+{
+"slug": "anfra",
+"nome": "Anfra",
+"regione": "Abruzzo",
+"comune": "Pineto",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"anfra"
+],
+"primario": "anfra"
+},
+{
+"slug": "ausonia",
+"nome": "Ausonia",
+"regione": "Abruzzo",
+"comune": "Atri",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"ausonia"
+],
+"primario": "ausonia"
+},
+{
+"slug": "azienda-nicola-di-sipio",
+"nome": "Azienda Nicola Di Sipio",
+"regione": "Abruzzo",
+"comune": "Ripa Teatina",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"azienda-nicola-di-sipio"
+],
+"primario": "azienda-nicola-di-sipio"
+},
+{
+"slug": "azienda-tilli",
+"nome": "Azienda Tilli",
+"regione": "Abruzzo",
+"comune": "Casoli",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"azienda-tilli"
+],
+"primario": "azienda-tilli"
+},
+{
+"slug": "azienda-vitivinicola-del-casale-sergio",
+"nome": "Azienda Vitivinicola Del Casale Sergio",
+"regione": "Abruzzo",
+"comune": "Vasto",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"azienda-vitivinicola-del-casale-sergio"
+],
+"primario": "azienda-vitivinicola-del-casale-sergio"
+},
+{
+"slug": "barba",
+"nome": "Barba",
+"regione": "Abruzzo",
+"comune": "Roseto degli Abruzzi",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"barba"
+],
+"primario": "barba"
+},
+{
+"slug": "barone-cornacchia",
+"nome": "Barone Cornacchia",
+"regione": "Abruzzo",
+"comune": "Torano Nuovo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"barone-cornacchia"
+],
+"primario": "barone-cornacchia"
+},
+{
+"slug": "bio-cantina-orsogna",
+"nome": "Bio Cantina Orsogna",
+"regione": "Abruzzo",
+"comune": "Orsogna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"bio-cantina-orsogna"
+],
+"primario": "bio-cantina-orsogna"
+},
+{
+"slug": "bosco-nestore",
+"nome": "Bosco Nestore",
+"regione": "Abruzzo",
+"comune": "Nocciano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"bosco-nestore"
+],
+"primario": "bosco-nestore"
+},
+{
+"slug": "azienda-agricola-buccelletti",
+"nome": "Azienda Agricola Buccelletti",
+"regione": "Toscana",
+"comune": "Castiglion Fiorentino",
+"tipi": {
+"valdichiana": [
+"Valdichiana Toscana"
+]
+},
+"membri": [
+"azienda-agricola-buccelletti"
+],
+"primario": "azienda-agricola-buccelletti"
+},
+{
+"slug": "az-agricola-carlo-tanganelli-di-tanganelli-marco",
+"nome": "Az. Agricola Carlo Tanganelli di Tanganelli Marco",
+"regione": "Toscana",
+"comune": "Castiglion Fiorentino",
+"tipi": {
+"valdichiana": [
+"Valdichiana Toscana"
+]
+},
+"membri": [
+"az-agricola-carlo-tanganelli-di-tanganelli-marco"
+],
+"primario": "az-agricola-carlo-tanganelli-di-tanganelli-marco"
+},
+{
+"slug": "fattoria-s-vittoria-di-marta-niccolai",
+"nome": "Fattoria S. Vittoria di Marta Niccolai",
+"regione": "Toscana",
+"comune": "Foiano della Chiana",
+"tipi": {
+"valdichiana": [
+"Valdichiana Toscana"
+]
+},
+"membri": [
+"fattoria-s-vittoria-di-marta-niccolai"
+],
+"primario": "fattoria-s-vittoria-di-marta-niccolai"
+},
+{
+"slug": "az-agricola-il-cipresso-di-marcelli-alberto",
+"nome": "Az. Agricola Il Cipresso di Marcelli Alberto",
+"regione": "Toscana",
+"comune": "Arezzo",
+"tipi": {
+"valdichiana": [
+"Valdichiana Toscana"
+]
+},
+"membri": [
+"az-agricola-il-cipresso-di-marcelli-alberto"
+],
+"primario": "az-agricola-il-cipresso-di-marcelli-alberto"
+},
+{
+"slug": "aia-dei-colombi",
+"nome": "Aia dei Colombi",
+"regione": "Campania",
+"comune": "Guardia Sanframondi",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"aia-dei-colombi"
+],
+"primario": "aia-dei-colombi"
+},
+{
+"slug": "antica-masseria-a-cancllera",
+"nome": "Antica Masseria A Canc’llera",
+"regione": "Campania",
+"comune": "San Lorenzello",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"antica-masseria-a-cancllera"
+],
+"primario": "antica-masseria-a-cancllera"
+},
+{
+"slug": "antica-masseria-venditti",
+"nome": "Antica Masseria Venditti",
+"regione": "Campania",
+"comune": "Castelvenere",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"antica-masseria-venditti"
+],
+"primario": "antica-masseria-venditti"
+},
+{
+"slug": "azienda-votino",
+"nome": "Azienda Votino",
+"regione": "Campania",
+"comune": "Bonea",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"azienda-votino"
+],
+"primario": "azienda-votino"
+},
+{
+"slug": "bicu-de-fremundi",
+"nome": "Bicu De Fremundi",
+"regione": "Campania",
+"comune": "Guardia Sanframondi",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"bicu-de-fremundi"
+],
+"primario": "bicu-de-fremundi"
+},
+{
+"slug": "cantina-del-taburno",
+"nome": "Cantina del Taburno",
+"regione": "Campania",
+"comune": "Foglianise",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"cantina-del-taburno"
+],
+"primario": "cantina-del-taburno"
+},
+{
+"slug": "cantina-di-solopaca",
+"nome": "Cantina di Solopaca",
+"regione": "Campania",
+"comune": "Solopaca",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"cantina-di-solopaca"
+],
+"primario": "cantina-di-solopaca"
+},
+{
+"slug": "cantina-tizzano",
+"nome": "Cantina Tizzano",
+"regione": "Campania",
+"comune": "S. Giorgio A Cremano",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"cantina-tizzano"
+],
+"primario": "cantina-tizzano"
+},
+{
+"slug": "cantine-iannella",
+"nome": "Cantine Iannella",
+"regione": "Campania",
+"comune": "Torrecuso",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"cantine-iannella"
+],
+"primario": "cantine-iannella"
+},
+{
+"slug": "cantine-iorio",
+"nome": "Cantine Iorio",
+"regione": "Campania",
+"comune": "Torrecuso",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"cantine-iorio"
+],
+"primario": "cantine-iorio"
+},
+{
+"slug": "cantine-sole-di-pietrefitte",
+"nome": "Cantine Sole di Pietrefitte",
+"regione": "Campania",
+"comune": "Torrecuso",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"cantine-sole-di-pietrefitte"
+],
+"primario": "cantine-sole-di-pietrefitte"
+},
+{
+"slug": "capolino-perlingieri",
+"nome": "Capolino Perlingieri",
+"regione": "Campania",
+"comune": "Castelvenere",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"capolino-perlingieri"
+],
+"primario": "capolino-perlingieri"
+},
+{
+"slug": "castelle",
+"nome": "Cast’elle",
+"regione": "Campania",
+"comune": "Castelvenere",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"castelle"
+],
+"primario": "castelle"
+},
+{
+"slug": "cautiero-di-immacolata-cropano",
+"nome": "Cautiero di Immacolata Cropano",
+"regione": "Campania",
+"comune": "Frasso Telesino",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"cautiero-di-immacolata-cropano"
+],
+"primario": "cautiero-di-immacolata-cropano"
+},
+{
+"slug": "elena-catalano",
+"nome": "Elena Catalano",
+"regione": "Campania",
+"comune": "Benevento",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"elena-catalano"
+],
+"primario": "elena-catalano"
+},
+{
+"slug": "enodelta",
+"nome": "Enodelta",
+"regione": "Campania",
+"comune": "Lapio",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"enodelta"
+],
+"primario": "enodelta"
+},
+{
+"slug": "fattoria-la-rivolta",
+"nome": "Fattoria La Rivolta",
+"regione": "Campania",
+"comune": "Torrecuso",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"fattoria-la-rivolta"
+],
+"primario": "fattoria-la-rivolta"
+},
+{
+"slug": "fontanavecchia",
+"nome": "Fontanavecchia",
+"regione": "Campania",
+"comune": "Torrecuso",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"fontanavecchia"
+],
+"primario": "fontanavecchia"
+},
+{
+"slug": "foresta-vini-visaf",
+"nome": "Foresta Vini – Visaf",
+"regione": "Campania",
+"comune": "Castelvenere",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"foresta-vini-visaf"
+],
+"primario": "foresta-vini-visaf"
+},
+{
+"slug": "i-colli-del-sannio",
+"nome": "I Colli del Sannio",
+"regione": "Campania",
+"comune": "Torrecuso",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"i-colli-del-sannio"
+],
+"primario": "i-colli-del-sannio"
+},
+{
+"slug": "il-foro-greco",
+"nome": "Il Foro Greco",
+"regione": "Campania",
+"comune": "Campoli del Monte Taburno",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"il-foro-greco"
+],
+"primario": "il-foro-greco"
+},
+{
+"slug": "la-dormiente",
+"nome": "La Dormiente",
+"regione": "Campania",
+"comune": "Torrecuso",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"la-dormiente"
+],
+"primario": "la-dormiente"
+},
+{
+"slug": "la-guardiense",
+"nome": "La Guardiense",
+"regione": "Campania",
+"comune": "Guardia Sanframondi",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"la-guardiense"
+],
+"primario": "la-guardiense"
+},
+{
+"slug": "masseria-di-maria",
+"nome": "Masseria di Maria",
+"regione": "Campania",
+"comune": "Cautano",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"masseria-di-maria"
+],
+"primario": "masseria-di-maria"
+},
+{
+"slug": "masseria-frattasi",
+"nome": "Masseria Frattasi",
+"regione": "Campania",
+"comune": "Montesarchio",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"masseria-frattasi"
+],
+"primario": "masseria-frattasi"
+},
+{
+"slug": "masseria-vigne-vecchie",
+"nome": "Masseria Vigne Vecchie",
+"regione": "Campania",
+"comune": "Solopaca",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"masseria-vigne-vecchie"
+],
+"primario": "masseria-vigne-vecchie"
+},
+{
+"slug": "mustilli",
+"nome": "Mustilli",
+"regione": "Campania",
+"comune": "Sant’Agata dei Goti",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"mustilli"
+],
+"primario": "mustilli"
+},
+{
+"slug": "nifo-sarrapocchiello-lorenzo",
+"nome": "Nifo Sarrapocchiello Lorenzo",
+"regione": "Campania",
+"comune": "Ponte",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"nifo-sarrapocchiello-lorenzo"
+],
+"primario": "nifo-sarrapocchiello-lorenzo"
+},
+{
+"slug": "piscina-mirabile",
+"nome": "Piscina Mirabile",
+"regione": "Campania",
+"comune": "Bacoli",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"piscina-mirabile"
+],
+"primario": "piscina-mirabile"
+},
+{
+"slug": "rossovermiglio",
+"nome": "Rossovermiglio",
+"regione": "Campania",
+"comune": "Paduli",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"rossovermiglio"
+],
+"primario": "rossovermiglio"
+},
+{
+"slug": "rotola",
+"nome": "Rotola",
+"regione": "Campania",
+"comune": "Ceppaloni",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"rotola"
+],
+"primario": "rotola"
+},
+{
+"slug": "scompiglio-di-simone-valente",
+"nome": "Scompiglio di Simone Valente",
+"regione": "Campania",
+"comune": "Castelvenere",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"scompiglio-di-simone-valente"
+],
+"primario": "scompiglio-di-simone-valente"
+},
+{
+"slug": "serra-degli-ilici",
+"nome": "Serra degli Ilici",
+"regione": "Campania",
+"comune": "Vitulano",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"serra-degli-ilici"
+],
+"primario": "serra-degli-ilici"
+},
+{
+"slug": "simone-giacomo",
+"nome": "Simone Giacomo",
+"regione": "Campania",
+"comune": "Castelvenere",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"simone-giacomo"
+],
+"primario": "simone-giacomo"
+},
+{
+"slug": "taffuri-marisa",
+"nome": "Taffuri Marisa",
+"regione": "Campania",
+"comune": "San Lorenzello",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"taffuri-marisa"
+],
+"primario": "taffuri-marisa"
+},
+{
+"slug": "tenuta-cavalier-pepe",
+"nome": "Tenuta Cavalier Pepe",
+"regione": "Campania",
+"comune": "Luogosano",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"tenuta-cavalier-pepe"
+],
+"primario": "tenuta-cavalier-pepe"
+},
+{
+"slug": "terra-di-briganti",
+"nome": "Terra di Briganti",
+"regione": "Campania",
+"comune": "Casalduni",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"terra-di-briganti"
+],
+"primario": "terra-di-briganti"
+},
+{
+"slug": "terrantiqua",
+"nome": "Terrantiqua",
+"regione": "Campania",
+"comune": "Casalduni",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"terrantiqua"
+],
+"primario": "terrantiqua"
+},
+{
+"slug": "terre-caudium",
+"nome": "Terre Caudium",
+"regione": "Campania",
+"comune": "Cautano",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"terre-caudium"
+],
+"primario": "terre-caudium"
+},
+{
+"slug": "terre-daglianico",
+"nome": "Terre D’aglianico",
+"regione": "Campania",
+"comune": "Torrecuso",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"terre-daglianico"
+],
+"primario": "terre-daglianico"
+},
+{
+"slug": "terre-stregate",
+"nome": "Terre Stregate",
+"regione": "Campania",
+"comune": "Guardia Sanframondi",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"terre-stregate"
+],
+"primario": "terre-stregate"
+},
+{
+"slug": "torre-a-oriente",
+"nome": "Torre A Oriente",
+"regione": "Campania",
+"comune": "Torrecuso",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"torre-a-oriente"
+],
+"primario": "torre-a-oriente"
+},
+{
+"slug": "torre-dei-chiusi",
+"nome": "Torre dei Chiusi",
+"regione": "Campania",
+"comune": "Torrecuso",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"torre-dei-chiusi"
+],
+"primario": "torre-dei-chiusi"
+},
+{
+"slug": "torre-del-pagus",
+"nome": "Torre del Pagus",
+"regione": "Campania",
+"comune": "Paupisi",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"torre-del-pagus"
+],
+"primario": "torre-del-pagus"
+},
+{
+"slug": "torre-varano",
+"nome": "Torre Varano",
+"regione": "Campania",
+"comune": "Torrecuso",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"torre-varano"
+],
+"primario": "torre-varano"
+},
+{
+"slug": "torre-venere",
+"nome": "Torre Venere",
+"regione": "Campania",
+"comune": "Castelvenere",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"torre-venere"
+],
+"primario": "torre-venere"
+},
+{
+"slug": "vigne-di-malies",
+"nome": "Vigne di Malies",
+"regione": "Campania",
+"comune": "Guardia Sanframondi",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"vigne-di-malies"
+],
+"primario": "vigne-di-malies"
+},
+{
+"slug": "vinicola-del-sannio",
+"nome": "Vinicola del Sannio",
+"regione": "Campania",
+"comune": "Castelvenere",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"vinicola-del-sannio"
+],
+"primario": "vinicola-del-sannio"
+},
+{
+"slug": "vinicola-fior-di-vino",
+"nome": "Vinicola Fior di Vino",
+"regione": "Campania",
+"comune": "Melito di Napoli",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"vinicola-fior-di-vino"
+],
+"primario": "vinicola-fior-di-vino"
+},
+{
+"slug": "alberand",
+"nome": "Alberand",
+"regione": "Piemonte",
+"comune": "Salassa",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"alberand"
+],
+"primario": "alberand"
+},
+{
+"slug": "azienda-agricola-donnalia",
+"nome": "Azienda Agricola Donnalia",
+"regione": "Piemonte",
+"comune": "Salussola",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"azienda-agricola-donnalia"
+],
+"primario": "azienda-agricola-donnalia"
+},
+{
+"slug": "buemi-vini-azienda-agricola",
+"nome": "Buemi Vini Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Piverone",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"buemi-vini-azienda-agricola"
+],
+"primario": "buemi-vini-azienda-agricola"
+},
+{
+"slug": "cantina-dei-produttori-nebbiolo-di-carema",
+"nome": "Cantina dei Produttori Nebbiolo di Carema",
+"regione": "Piemonte",
+"comune": "Carema",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"cantina-dei-produttori-nebbiolo-di-carema"
+],
+"primario": "cantina-dei-produttori-nebbiolo-di-carema"
+},
+{
+"slug": "cantina-della-serra",
+"nome": "Cantina della Serra",
+"regione": "Piemonte",
+"comune": "Piverone",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"cantina-della-serra"
+],
+"primario": "cantina-della-serra"
+},
+{
+"slug": "cantine-crosio",
+"nome": "Cantine Crosio",
+"regione": "Piemonte",
+"comune": "Candia Canavese",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"cantine-crosio"
+],
+"primario": "cantine-crosio"
+},
+{
+"slug": "caretto-loris-livio-azienda-agricola",
+"nome": "Caretto Loris Livio Azienda Agricola",
+"regione": "Piemonte",
+"comune": "San Giorgio C.Se",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"caretto-loris-livio-azienda-agricola"
+],
+"primario": "caretto-loris-livio-azienda-agricola"
+},
+{
+"slug": "cellagrande",
+"nome": "CellaGrande",
+"regione": "Piemonte",
+"comune": "Viverone",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"cellagrande"
+],
+"primario": "cellagrande"
+},
+{
+"slug": "cieck-azienda-agricola",
+"nome": "Cieck Azienda Agricola",
+"regione": "Piemonte",
+"comune": "San Giorgio Canavese",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"cieck-azienda-agricola"
+],
+"primario": "cieck-azienda-agricola"
+},
+{
+"slug": "cooperativa-produttori-erbaluce-di-caluso",
+"nome": "Cooperativa Produttori Erbaluce di Caluso",
+"regione": "Piemonte",
+"comune": "Caluso",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"cooperativa-produttori-erbaluce-di-caluso"
+],
+"primario": "cooperativa-produttori-erbaluce-di-caluso"
+},
+{
+"slug": "ferrando-azienda-vitivinicola",
+"nome": "Ferrando Azienda Vitivinicola",
+"regione": "Piemonte",
+"comune": "Ivrea",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"ferrando-azienda-vitivinicola"
+],
+"primario": "ferrando-azienda-vitivinicola"
+},
+{
+"slug": "fontecuore-azienda-agricola",
+"nome": "Fontecuore Azienda Agricola",
+"regione": "Piemonte",
+"comune": "San Giorgio Canavese",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"fontecuore-azienda-agricola"
+],
+"primario": "fontecuore-azienda-agricola"
+},
+{
+"slug": "fratelli-picco-societa-semplice-agricola",
+"nome": "Fratelli Picco Società Semplice Agricola",
+"regione": "Piemonte",
+"comune": "Caluso",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"fratelli-picco-societa-semplice-agricola"
+],
+"primario": "fratelli-picco-societa-semplice-agricola"
+},
+{
+"slug": "lerm-di-aimino-jyothi",
+"nome": "L’erm di Aimino Jyothi",
+"regione": "Piemonte",
+"comune": "Borgomasino",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"lerm-di-aimino-jyothi"
+],
+"primario": "lerm-di-aimino-jyothi"
+},
+{
+"slug": "la-masera",
+"nome": "la Masera",
+"regione": "Piemonte",
+"comune": "Piverone",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"la-masera"
+],
+"primario": "la-masera"
+},
+{
+"slug": "le-masche",
+"nome": "Le Masche",
+"regione": "Piemonte",
+"comune": "Levone",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"le-masche"
+],
+"primario": "le-masche"
+},
+{
+"slug": "longo-antonio",
+"nome": "Longo Antonio",
+"regione": "Piemonte",
+"comune": "Rivarolo Canavese",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"longo-antonio"
+],
+"primario": "longo-antonio"
+},
+{
+"slug": "pozzo-azienda-agricola",
+"nome": "Pozzo Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Viverone",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"pozzo-azienda-agricola"
+],
+"primario": "pozzo-azienda-agricola"
+},
+{
+"slug": "rostagno",
+"nome": "Rostagno",
+"regione": "Piemonte",
+"comune": "Forno Canavese",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"rostagno"
+],
+"primario": "rostagno"
+},
+{
+"slug": "tappero-merlo",
+"nome": "Tappero Merlo",
+"regione": "Piemonte",
+"comune": "Loranzè",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"tappero-merlo"
+],
+"primario": "tappero-merlo"
+},
+{
+"slug": "tenuta-roletto",
+"nome": "Tenuta Roletto",
+"regione": "Piemonte",
+"comune": "Cuceglio",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"tenuta-roletto"
+],
+"primario": "tenuta-roletto"
+},
+{
+"slug": "azienda-agricola-biologica-le-vigne-di-raito-di-patrizia-malanga",
+"nome": "Azienda Agricola Biologica Le Vigne Di Raito Di Patrizia Malanga",
+"regione": "Campania",
+"comune": "Vietri sul Mare",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"azienda-agricola-biologica-le-vigne-di-raito-di-patrizia-malanga"
+],
+"primario": "azienda-agricola-biologica-le-vigne-di-raito-di-patrizia-malanga"
+},
+{
+"slug": "azienda-agricola-borgo-giulia",
+"nome": "Azienda Agricola Borgo Giulia",
+"regione": "Campania",
+"comune": "Corbara",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"azienda-agricola-borgo-giulia"
+],
+"primario": "azienda-agricola-borgo-giulia"
+},
+{
+"slug": "azienda-agricola-salvatore-magnoni",
+"nome": "Azienda Agricola Salvatore Magnoni",
+"regione": "Campania",
+"comune": "Rutino",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"azienda-agricola-salvatore-magnoni"
+],
+"primario": "azienda-agricola-salvatore-magnoni"
+},
+{
+"slug": "azienda-agricola-tagliafierro-raffaele",
+"nome": "Azienda Agricola Tagliafierro Raffaele",
+"regione": "Campania",
+"comune": "Tramonti",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"azienda-agricola-tagliafierro-raffaele"
+],
+"primario": "azienda-agricola-tagliafierro-raffaele"
+},
+{
+"slug": "azienda-agricola-vit-barone",
+"nome": "Azienda Agricola Vit. Barone",
+"regione": "Campania",
+"comune": "Rutino",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"azienda-agricola-vit-barone"
+],
+"primario": "azienda-agricola-vit-barone"
+},
+{
+"slug": "azienda-agricola-fratelli-coralluzzo",
+"nome": "Azienda Agricola. Fratelli Coralluzzo",
+"regione": "Campania",
+"comune": "Montecorvino Pugliano",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"azienda-agricola-fratelli-coralluzzo"
+],
+"primario": "azienda-agricola-fratelli-coralluzzo"
+},
+{
+"slug": "azienda-vitivinicola-russo-carmine",
+"nome": "Azienda Vitivinicola Russo Carmine",
+"regione": "Campania",
+"comune": "Magliano Vetere",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"azienda-vitivinicola-russo-carmine"
+],
+"primario": "azienda-vitivinicola-russo-carmine"
+},
+{
+"slug": "lenza-viticoltori",
+"nome": "Lenza Viticoltori",
+"regione": "Campania",
+"comune": "Pontecagnano Faiano",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"lenza-viticoltori"
+],
+"primario": "lenza-viticoltori"
+},
+{
+"slug": "tenuta-macellaro",
+"nome": "Tenuta Macellaro",
+"regione": "Campania",
+"comune": "Postiglione",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"tenuta-macellaro"
+],
+"primario": "tenuta-macellaro"
+},
+{
+"slug": "tenute-del-fasanella",
+"nome": "Tenute Del Fasanella",
+"regione": "Campania",
+"comune": "Sant’Angelo A Fasanella",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"tenute-del-fasanella"
+],
+"primario": "tenute-del-fasanella"
+},
+{
+"slug": "viticoltori-de-conciliis",
+"nome": "Viticoltori De Conciliis",
+"regione": "Campania",
+"comune": "Prignano Cilento",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"viticoltori-de-conciliis"
+],
+"primario": "viticoltori-de-conciliis"
+},
+{
+"slug": "agricola-fabiana",
+"nome": "Agricola Fabiana",
+"regione": "Puglia",
+"comune": "San Giorgio Ionico",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"agricola-fabiana"
+],
+"primario": "agricola-fabiana"
+},
+{
+"slug": "apollonio-1870",
+"nome": "Apollonio 1870",
+"regione": "Puglia",
+"comune": "Monteroni di Lecce",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"apollonio-1870"
+],
+"primario": "apollonio-1870"
+},
+{
+"slug": "cantina-cooperativa-madonna-delle-grazie-di-torricella",
+"nome": "Cantina Cooperativa Madonna Delle Grazie Di Torricella",
+"regione": "Puglia",
+"comune": "Torricella",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"cantina-cooperativa-madonna-delle-grazie-di-torricella"
+],
+"primario": "cantina-cooperativa-madonna-delle-grazie-di-torricella"
+},
+{
+"slug": "cantine-due-palme",
+"nome": "Cantine Due Palme",
+"regione": "Puglia",
+"comune": "Cellino San Marco",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"cantine-due-palme"
+],
+"primario": "cantine-due-palme"
+},
+{
+"slug": "cantine-lizzano",
+"nome": "Cantine Lizzano",
+"regione": "Puglia",
+"comune": "Lizzano",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"cantine-lizzano"
+],
+"primario": "cantine-lizzano"
+},
+{
+"slug": "cantine-paolo-leo",
+"nome": "Cantine Paolo Leo",
+"regione": "Puglia",
+"comune": "San Donaci",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"cantine-paolo-leo"
+],
+"primario": "cantine-paolo-leo"
+},
+{
+"slug": "cantine-san-marzano",
+"nome": "Cantine San Marzano",
+"regione": "Puglia",
+"comune": "San Marzano di San Giuseppe",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"cantine-san-marzano"
+],
+"primario": "cantine-san-marzano"
+},
+{
+"slug": "cantine-soloperto",
+"nome": "Cantine Soloperto",
+"regione": "Puglia",
+"comune": "Manduria",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"cantine-soloperto"
+],
+"primario": "cantine-soloperto"
+},
+{
+"slug": "cantolio-manduria",
+"nome": "Cantolio Manduria",
+"regione": "Puglia",
+"comune": "Manduria",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"cantolio-manduria"
+],
+"primario": "cantolio-manduria"
+},
+{
+"slug": "cantore-di-castelforte",
+"nome": "Cantore Di Castelforte",
+"regione": "Puglia",
+"comune": "Manduria",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"cantore-di-castelforte"
+],
+"primario": "cantore-di-castelforte"
+},
+{
+"slug": "erminio-campa-viticoltore",
+"nome": "Erminio Campa Viticoltore",
+"regione": "Puglia",
+"comune": "Torricella",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"erminio-campa-viticoltore"
+],
+"primario": "erminio-campa-viticoltore"
+},
+{
+"slug": "leone-de-castris",
+"nome": "Leone De Castris",
+"regione": "Puglia",
+"comune": "Salice Salentino",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"leone-de-castris"
+],
+"primario": "leone-de-castris"
+},
+{
+"slug": "masca-del-tacco",
+"nome": "Masca Del Tacco",
+"regione": "Puglia",
+"comune": "Erchie",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"masca-del-tacco"
+],
+"primario": "masca-del-tacco"
+},
+{
+"slug": "masseria-altemura",
+"nome": "Masseria Altemura",
+"regione": "Puglia",
+"comune": "Torre Santa Susanna",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"masseria-altemura"
+],
+"primario": "masseria-altemura"
+},
+{
+"slug": "masseria-borgo-dei-trulli",
+"nome": "Masseria Borgo Dei Trulli",
+"regione": "Puglia",
+"comune": "Maruggio",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"masseria-borgo-dei-trulli"
+],
+"primario": "masseria-borgo-dei-trulli"
+},
+{
+"slug": "masseria-capoforte",
+"nome": "Masseria Capoforte",
+"regione": "Veneto",
+"comune": "San Pietro di Feletto",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"masseria-capoforte"
+],
+"primario": "masseria-capoforte"
+},
+{
+"slug": "masseria-cicella",
+"nome": "Masseria Cicella",
+"regione": "Puglia",
+"comune": "Torricella",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"masseria-cicella"
+],
+"primario": "masseria-cicella"
+},
+{
+"slug": "masseria-cuturi",
+"nome": "Masseria Cuturi",
+"regione": "Puglia",
+"comune": "Manduria",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"masseria-cuturi"
+],
+"primario": "masseria-cuturi"
+},
+{
+"slug": "mottura-vini-del-salento",
+"nome": "Mottura Vini Del Salento",
+"regione": "Puglia",
+"comune": "Tuglie",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"mottura-vini-del-salento"
+],
+"primario": "mottura-vini-del-salento"
+},
+{
+"slug": "produttori-di-manduria",
+"nome": "Produttori Di Manduria",
+"regione": "Puglia",
+"comune": "Manduria",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"produttori-di-manduria"
+],
+"primario": "produttori-di-manduria"
+},
+{
+"slug": "tenute-bellamarina",
+"nome": "Tenute Bellamarina",
+"regione": "Puglia",
+"comune": "Torre Santa Susanna",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"tenute-bellamarina"
+],
+"primario": "tenute-bellamarina"
+},
+{
+"slug": "tenute-emera-di-claudio-quarta-vignaiolo",
+"nome": "Tenute Eméra Di Claudio Quarta Vignaiolo",
+"regione": "Puglia",
+"comune": "Lizzano",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"tenute-emera-di-claudio-quarta-vignaiolo"
+],
+"primario": "tenute-emera-di-claudio-quarta-vignaiolo"
+},
+{
+"slug": "trullo-di-pezza",
+"nome": "Trullo Di Pezza",
+"regione": "Puglia",
+"comune": "Torricella",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"trullo-di-pezza"
+],
+"primario": "trullo-di-pezza"
+},
+{
+"slug": "varvaglione-1921",
+"nome": "Varvaglione 1921",
+"regione": "Puglia",
+"comune": "Leporano",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"varvaglione-1921"
+],
+"primario": "varvaglione-1921"
+},
+{
+"slug": "vigneti-reale",
+"nome": "Vigneti Reale",
+"regione": "Puglia",
+"comune": "Cellino San Marco",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"vigneti-reale"
+],
+"primario": "vigneti-reale"
+},
+{
+"slug": "ca-bensi",
+"nome": "Ca-Bensi",
+"regione": "Piemonte",
+"comune": "Tagliolo Monferrato",
+"tipi": {
+"ovada": [
+"Ovada"
+]
+},
+"membri": [
+"ca-bensi"
+],
+"primario": "ca-bensi"
+},
+{
+"slug": "ca-mimia",
+"nome": "Cà Mimia",
+"regione": "Piemonte",
+"comune": "Grossi",
+"tipi": {
+"ovada": [
+"Ovada"
+]
+},
+"membri": [
+"ca-mimia"
+],
+"primario": "ca-mimia"
+},
+{
+"slug": "cantine-alma",
+"nome": "Cantine Alma",
+"regione": "Piemonte",
+"comune": "Cassinelle",
+"tipi": {
+"ovada": [
+"Ovada"
+]
+},
+"membri": [
+"cantine-alma"
+],
+"primario": "cantine-alma"
+},
+{
+"slug": "casa-wallace",
+"nome": "Casa Wallace",
+"regione": "Piemonte",
+"comune": "Cremolino",
+"tipi": {
+"ovada": [
+"Ovada"
+]
+},
+"membri": [
+"casa-wallace"
+],
+"primario": "casa-wallace"
+},
+{
+"slug": "cascina-bisceto",
+"nome": "Cascina Bisceto",
+"regione": "Piemonte",
+"comune": "Carpeneto",
+"tipi": {
+"ovada": [
+"Ovada"
+]
+},
+"membri": [
+"cascina-bisceto"
+],
+"primario": "cascina-bisceto"
+},
+{
+"slug": "cascina-boccaccio",
+"nome": "Cascina Boccaccio",
+"regione": "Piemonte",
+"comune": "Tagliolo Monferrato",
+"tipi": {
+"ovada": [
+"Ovada"
+]
+},
+"membri": [
+"cascina-boccaccio"
+],
+"primario": "cascina-boccaccio"
+},
+{
+"slug": "cavanna-vini",
+"nome": "Cavanna Vini",
+"regione": "Piemonte",
+"comune": "Cremolino",
+"tipi": {
+"ovada": [
+"Ovada"
+]
+},
+"membri": [
+"cavanna-vini"
+],
+"primario": "cavanna-vini"
+},
+{
+"slug": "davide-cavelli",
+"nome": "Davide Cavelli",
+"regione": "Piemonte",
+"comune": "Prasco",
+"tipi": {
+"ovada": [
+"Ovada"
+]
+},
+"membri": [
+"davide-cavelli"
+],
+"primario": "davide-cavelli"
+},
+{
+"slug": "molare-s",
+"nome": "Molare's",
+"regione": "Piemonte",
+"comune": "Cremolino",
+"tipi": {
+"ovada": [
+"Ovada"
+]
+},
+"membri": [
+"molare-s"
+],
+"primario": "molare-s"
+},
+{
+"slug": "paschetta",
+"nome": "Paschetta",
+"regione": "Piemonte",
+"comune": "Carpeneto",
+"tipi": {
+"ovada": [
+"Ovada"
+]
+},
+"membri": [
+"paschetta"
+],
+"primario": "paschetta"
+},
+{
+"slug": "rocca-rondinaria",
+"nome": "Rocca Rondinaria",
+"regione": "Piemonte",
+"comune": "Rocca Grimalda",
+"tipi": {
+"ovada": [
+"Ovada"
+]
+},
+"membri": [
+"rocca-rondinaria"
+],
+"primario": "rocca-rondinaria"
+},
+{
+"slug": "tenuta-gaggino",
+"nome": "Tenuta Gaggino",
+"regione": "Piemonte",
+"comune": "Ovada",
+"tipi": {
+"ovada": [
+"Ovada"
+]
+},
+"membri": [
+"tenuta-gaggino"
+],
+"primario": "tenuta-gaggino"
+},
+{
+"slug": "tenute-chiaromonte",
+"nome": "Tenute Chiaromonte",
+"regione": "Puglia",
+"comune": "Acquaviva delle Fonti",
+"tipi": {
+"gioia-del-colle": [
+"Gioia del Colle"
+]
+},
+"membri": [
+"tenute-chiaromonte"
+],
+"primario": "tenute-chiaromonte"
+},
+{
+"slug": "patruno-perniola",
+"nome": "Patruno Perniola",
+"regione": "Puglia",
+"comune": "Gioia del Colle",
+"tipi": {
+"gioia-del-colle": [
+"Gioia del Colle"
+]
+},
+"membri": [
+"patruno-perniola"
+],
+"primario": "patruno-perniola"
+},
+{
+"slug": "cantine-polvanera",
+"nome": "Cantine Polvanera",
+"regione": "Puglia",
+"comune": "Gioia del Colle",
+"tipi": {
+"gioia-del-colle": [
+"Gioia del Colle"
+]
+},
+"membri": [
+"cantine-polvanera"
+],
+"primario": "cantine-polvanera"
 }
 ]

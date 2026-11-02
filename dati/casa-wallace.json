@@ -1,0 +1,50 @@
+{
+ "nome": "Casa Wallace",
+ "slug": "casa-wallace",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01495410068 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Piazze, 3-15-25, 15010 Cremolino (AL) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0143 87 95 02 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "reservations@hemanaire.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.casawallace.com|hemanaire.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Ovada DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.casawallace.com",
+   "etichetta": "hemanaire.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Ovada DOCG, consultato il 2 novembre 2026.",
+   "url": "https://ovada.eu/2019/index.php/it/i-produttori",
+   "etichetta": "ovada.eu"
+  }
+ ]
+}

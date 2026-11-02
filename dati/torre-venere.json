@@ -1,0 +1,36 @@
+{
+ "nome": "Torre Venere",
+ "slug": "torre-venere",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Sannitica, 157, 82037 Castelvenere (BN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0824 940 695 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.torrevenere.it|torrevenere.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Sannio Consorzio Tutela Vini, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.sannio.wine/consorziati/",
+   "etichetta": "sannio.wine"
+  }
+ ]
+}

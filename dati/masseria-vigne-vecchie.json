@@ -1,0 +1,36 @@
+{
+ "nome": "Masseria Vigne Vecchie",
+ "slug": "masseria-vigne-vecchie",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Procusi, 90, 82036 Solopaca (BN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0824 902 056 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.masseriavignevecchie.com|masseriavignevecchie.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Sannio Consorzio Tutela Vini, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.sannio.wine/consorziati/",
+   "etichetta": "sannio.wine"
+  }
+ ]
+}

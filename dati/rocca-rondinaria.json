@@ -1,0 +1,46 @@
+{
+ "nome": "Rocca Rondinaria",
+ "slug": "rocca-rondinaria",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Piazza Borgatta 2, 15078 Rocca Grimalda (AL) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0143 873223 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "roccarondinaria@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.roccarondinaria.com|roccarondinaria.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Ovada DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.roccarondinaria.com",
+   "etichetta": "roccarondinaria.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Ovada DOCG, consultato il 2 novembre 2026.",
+   "url": "https://ovada.eu/2019/index.php/it/i-produttori",
+   "etichetta": "ovada.eu"
+  }
+ ]
+}

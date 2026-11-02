@@ -1,0 +1,46 @@
+{
+ "nome": "Azienda Agricola Salvatore Magnoni",
+ "slug": "azienda-agricola-salvatore-magnoni",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03893410658 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fratelli Magnoni, 11, 84070 Rutino (SA) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@primalaterra.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.primalaterra.it|primalaterra.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vita Salernum Vites [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.primalaterra.it",
+   "etichetta": "primalaterra.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vita Salernum Vites, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinisalerno.it/cvs/aziende/",
+   "etichetta": "consorziovinisalerno.it"
+  }
+ ]
+}

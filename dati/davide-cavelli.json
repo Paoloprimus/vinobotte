@@ -1,0 +1,46 @@
+{
+ "nome": "Davide Cavelli",
+ "slug": "davide-cavelli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02220810069 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Provinciale, 77, 15010 Prasco (AL) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cavellivini.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cavellivini.com|cavellivini.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Ovada DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cavellivini.com",
+   "etichetta": "cavellivini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Ovada DOCG, consultato il 2 novembre 2026.",
+   "url": "https://ovada.eu/2019/index.php/it/i-produttori",
+   "etichetta": "ovada.eu"
+  }
+ ]
+}

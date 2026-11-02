@@ -2922,5 +2922,52 @@
     "url": "https://dellevenezie.it/cantine/"
    }
   ]
+ },
+ {
+  "key": "valdichiana",
+  "consorzio": "Consorzio Vini Valdichiana Toscana",
+  "sito": "vinivaldichianatoscana.it",
+  "data": "2 novembre 2026",
+  "den": "Valdichiana Toscana",
+  "schede": [
+   {
+    "slug": "vecchia-cantina-di-montepulciano",
+    "url": "https://www.vinivaldichianatoscana.it/it/aziende.html"
+   }
+  ]
+ },
+ {
+  "key": "primitivo-di-manduria",
+  "consorzio": "Consorzio Primitivo di Manduria DOC",
+  "sito": "consorziotutelaprimitivo.com",
+  "data": "2 novembre 2026",
+  "den": "Primitivo di Manduria",
+  "schede": [
+   {
+    "slug": "tommasi-family-estates",
+    "url": "https://www.consorziotutelaprimitivo.com/soci/tommasi-family-estates/"
+   }
+  ]
+ },
+ {
+  "key": "ovada",
+  "consorzio": "Consorzio Tutela Ovada DOCG",
+  "sito": "ovada.eu",
+  "data": "2 novembre 2026",
+  "den": "Ovada",
+  "schede": [
+   {
+    "slug": "alvio-pestarino",
+    "url": "https://ovada.eu/2019/index.php/it/i-produttori"
+   },
+   {
+    "slug": "ghio-roberto-vigneti-piemontemare",
+    "url": "https://ovada.eu/2019/index.php/it/i-produttori"
+   },
+   {
+    "slug": "le-marne-di-carraro-federica",
+    "url": "https://ovada.eu/2019/index.php/it/i-produttori"
+   }
+  ]
  }
 ]

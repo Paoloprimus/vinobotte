@@ -1,0 +1,42 @@
+{
+ "nome": "Masca Del Tacco",
+ "slug": "masca-del-tacco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "08491921006 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Tripoli, 7, 72020 Erchie (BR) [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.mascadeltacco.com/it/|iviticoltori.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.mascadeltacco.com/it/",
+   "etichetta": "iviticoltori.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/masca-del-tacco/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

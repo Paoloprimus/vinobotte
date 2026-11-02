@@ -1,0 +1,50 @@
+{
+ "nome": "Masseria Cicella",
+ "slug": "masseria-cicella",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Vinicola Cicella f.lli Schifone Srl [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02674560731 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via On. Franzoso, s.n., 74020 Torricella (TA) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 099 9573761 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.masseriacicella.it|vinicolacicella.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.masseriacicella.it",
+   "etichetta": "vinicolacicella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Primitivo di Manduria DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/masseria-cicella/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

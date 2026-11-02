@@ -1,0 +1,46 @@
+{
+ "nome": "Tenute Del Fasanella",
+ "slug": "tenute-del-fasanella",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04069810655 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Viale Primavera, 25, 84027 Sant’Angelo A Fasanella (SA) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutedelfasanella.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutedelfasanella.it|tenutedelfasanella.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vita Salernum Vites [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.tenutedelfasanella.it",
+   "etichetta": "tenutedelfasanella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vita Salernum Vites, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinisalerno.it/cvs/aziende/",
+   "etichetta": "consorziovinisalerno.it"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "nome": "Masseria Capoforte",
+ "slug": "masseria-capoforte",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03781020262 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Colle, 32/A, 31020 San Pietro di Feletto (TV) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@capoforte.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.capoforte.it|capoforte.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.capoforte.it",
+   "etichetta": "capoforte.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Primitivo di Manduria DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/masseria-capoforte/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "nome": "CellaGrande",
+ "slug": "cellagrande",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "10574140017 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cascine di Ponente, 21, 13886 Viverone (BI) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0161 189 2213 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "booking@cellagrande.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cellagrande.it/|cellagrande.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Erbaluce di Caluso e Carema [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cellagrande.it/",
+   "etichetta": "cellagrande.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Erbaluce di Caluso e Carema, consultato il 2 novembre 2026.",
+   "url": "https://www.erbalucecarema.it/cantine/cellagrande/",
+   "etichetta": "erbalucecarema.it"
+  }
+ ]
+}

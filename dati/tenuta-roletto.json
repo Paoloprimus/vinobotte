@@ -1,0 +1,50 @@
+{
+ "nome": "Tenuta Roletto",
+ "slug": "tenuta-roletto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "11059710019 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Porta Pia, 69, 10090 Cuceglio (TO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0124 492293 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutaroletto.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutaroletto.it/|tenutaroletto.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Erbaluce di Caluso e Carema [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.tenutaroletto.it/",
+   "etichetta": "tenutaroletto.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Erbaluce di Caluso e Carema, consultato il 2 novembre 2026.",
+   "url": "https://www.erbalucecarema.it/cantine/tenuta-roletto/",
+   "etichetta": "erbalucecarema.it"
+  }
+ ]
+}

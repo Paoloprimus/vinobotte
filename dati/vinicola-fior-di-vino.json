@@ -1,0 +1,46 @@
+{
+ "nome": "Vinicola Fior di Vino",
+ "slug": "vinicola-fior-di-vino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02345678410 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Circumvallazione Esterna, 59, 80017 Melito di Napoli (NA) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 081 701 3034 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinideliso.it|vinideliso.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.vinideliso.it",
+   "etichetta": "vinideliso.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Sannio Consorzio Tutela Vini, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.sannio.wine/consorziati/",
+   "etichetta": "sannio.wine"
+  }
+ ]
+}

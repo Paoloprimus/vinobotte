@@ -1,0 +1,42 @@
+{
+ "nome": "Masseria Borgo Dei Trulli",
+ "slug": "masseria-borgo-dei-trulli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03042980734 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Roselle sn – SP130, 74020 Maruggio (TA) [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.masseriaborgodeitrulli.com|masseriaborgodeitrulli.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.masseriaborgodeitrulli.com",
+   "etichetta": "masseriaborgodeitrulli.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/masseria-borgo-dei-trulli/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

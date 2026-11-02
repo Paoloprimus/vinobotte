@@ -1,0 +1,46 @@
+{
+ "nome": "Cantine Polvanera",
+ "slug": "cantine-polvanera",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "06340640728 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Vicinale Lamie Marchesana, 601, 70023 Gioia del Colle (BA) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinepolvanera.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinepolvanera.it|cantinepolvanera.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio dei Vini Gioia del Colle DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cantinepolvanera.it",
+   "etichetta": "cantinepolvanera.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio dei Vini Gioia del Colle DOC, consultato il 2 novembre 2026.",
+   "url": "http://consorziovinigioiadelcolle.it/index.php/le-aziende-del-consorzio-vini-gioia-del-colle",
+   "etichetta": "consorziovinigioiadelcolle.it"
+  }
+ ]
+}

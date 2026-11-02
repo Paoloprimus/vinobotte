@@ -1,0 +1,36 @@
+{
+ "nome": "Antica Masseria Venditti",
+ "slug": "antica-masseria-venditti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Sannitica, 120, 82037 Castelvenere (BN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0824 940 306 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.venditti.it|venditti.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Sannio Consorzio Tutela Vini, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.sannio.wine/consorziati/",
+   "etichetta": "sannio.wine"
+  }
+ ]
+}

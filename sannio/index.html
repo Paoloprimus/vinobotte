@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Sannio — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Sannio</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Sannio</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Aia dei Colombi","s":"aia-dei-colombi","c":"Guardia Sanframondi","d":["Sannio"]},{"n":"Antica Masseria A Canc’llera","s":"antica-masseria-a-cancllera","c":"San Lorenzello","d":["Sannio"]},{"n":"Antica Masseria Venditti","s":"antica-masseria-venditti","c":"Castelvenere","d":["Sannio"]},{"n":"Azienda Votino","s":"azienda-votino","c":"Bonea","d":["Sannio"]},{"n":"Bicu De Fremundi","s":"bicu-de-fremundi","c":"Guardia Sanframondi","d":["Sannio"]},{"n":"Cantina del Taburno","s":"cantina-del-taburno","c":"Foglianise","d":["Sannio"]},{"n":"Cantina di Solopaca","s":"cantina-di-solopaca","c":"Solopaca","d":["Sannio"]},{"n":"Cantina Tizzano","s":"cantina-tizzano","c":"S. Giorgio A Cremano","d":["Sannio"]},{"n":"Cantine Iannella","s":"cantine-iannella","c":"Torrecuso","d":["Sannio"]},{"n":"Cantine Iorio","s":"cantine-iorio","c":"Torrecuso","d":["Sannio"]},{"n":"Cantine Sole di Pietrefitte","s":"cantine-sole-di-pietrefitte","c":"Torrecuso","d":["Sannio"]},{"n":"Capolino Perlingieri","s":"capolino-perlingieri","c":"Castelvenere","d":["Sannio"]},{"n":"Cast’elle","s":"castelle","c":"Castelvenere","d":["Sannio"]},{"n":"Cautiero di Immacolata Cropano","s":"cautiero-di-immacolata-cropano","c":"Frasso Telesino","d":["Sannio"]},{"n":"Elena Catalano","s":"elena-catalano","c":"Benevento","d":["Sannio"]},{"n":"Enodelta","s":"enodelta","c":"Lapio","d":["Sannio"]},{"n":"Fattoria La Rivolta","s":"fattoria-la-rivolta","c":"Torrecuso","d":["Sannio"]},{"n":"Fontanavecchia","s":"fontanavecchia","c":"Torrecuso","d":["Sannio"]},{"n":"Foresta Vini – Visaf","s":"foresta-vini-visaf","c":"Castelvenere","d":["Sannio"]},{"n":"I Colli del Sannio","s":"i-colli-del-sannio","c":"Torrecuso","d":["Sannio"]},{"n":"Il Foro Greco","s":"il-foro-greco","c":"Campoli del Monte Taburno","d":["Sannio"]},{"n":"La Dormiente","s":"la-dormiente","c":"Torrecuso","d":["Sannio"]},{"n":"La Guardiense","s":"la-guardiense","c":"Guardia Sanframondi","d":["Sannio"]},{"n":"Masseria di Maria","s":"masseria-di-maria","c":"Cautano","d":["Sannio"]},{"n":"Masseria Frattasi","s":"masseria-frattasi","c":"Montesarchio","d":["Sannio"]},{"n":"Masseria Vigne Vecchie","s":"masseria-vigne-vecchie","c":"Solopaca","d":["Sannio"]},{"n":"Mustilli","s":"mustilli","c":"Sant’Agata dei Goti","d":["Sannio"]},{"n":"Nifo Sarrapocchiello Lorenzo","s":"nifo-sarrapocchiello-lorenzo","c":"Ponte","d":["Sannio"]},{"n":"Piscina Mirabile","s":"piscina-mirabile","c":"Bacoli","d":["Sannio"]},{"n":"Rossovermiglio","s":"rossovermiglio","c":"Paduli","d":["Sannio"]},{"n":"Rotola","s":"rotola","c":"Ceppaloni","d":["Sannio"]},{"n":"Scompiglio di Simone Valente","s":"scompiglio-di-simone-valente","c":"Castelvenere","d":["Sannio"]},{"n":"Serra degli Ilici","s":"serra-degli-ilici","c":"Vitulano","d":["Sannio"]},{"n":"Simone Giacomo","s":"simone-giacomo","c":"Castelvenere","d":["Sannio"]},{"n":"Taffuri Marisa","s":"taffuri-marisa","c":"San Lorenzello","d":["Sannio"]},{"n":"Tenuta Cavalier Pepe","s":"tenuta-cavalier-pepe","c":"Luogosano","d":["Sannio"]},{"n":"Terra di Briganti","s":"terra-di-briganti","c":"Casalduni","d":["Sannio"]},{"n":"Terrantiqua","s":"terrantiqua","c":"Casalduni","d":["Sannio"]},{"n":"Terre Caudium","s":"terre-caudium","c":"Cautano","d":["Sannio"]},{"n":"Terre D’aglianico","s":"terre-daglianico","c":"Torrecuso","d":["Sannio"]},{"n":"Terre Stregate","s":"terre-stregate","c":"Guardia Sanframondi","d":["Sannio"]},{"n":"Torre A Oriente","s":"torre-a-oriente","c":"Torrecuso","d":["Sannio"]},{"n":"Torre dei Chiusi","s":"torre-dei-chiusi","c":"Torrecuso","d":["Sannio"]},{"n":"Torre del Pagus","s":"torre-del-pagus","c":"Paupisi","d":["Sannio"]},{"n":"Torre Varano","s":"torre-varano","c":"Torrecuso","d":["Sannio"]},{"n":"Torre Venere","s":"torre-venere","c":"Castelvenere","d":["Sannio"]},{"n":"Vigne di Malies","s":"vigne-di-malies","c":"Guardia Sanframondi","d":["Sannio"]},{"n":"Vinicola del Sannio","s":"vinicola-del-sannio","c":"Castelvenere","d":["Sannio"]},{"n":"Vinicola Fior di Vino","s":"vinicola-fior-di-vino","c":"Melito di Napoli","d":["Sannio"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    

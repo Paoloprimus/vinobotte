@@ -1,0 +1,46 @@
+{
+ "nome": "Enodelta",
+ "slug": "enodelta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Enodelta Cantine SRL Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Appia Antica, IV tratto, 83030 Lapio (AV) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@enodelta.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.enodelta.com|enodelta.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.enodelta.com",
+   "etichetta": "enodelta.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Sannio Consorzio Tutela Vini, consultato il 2 novembre 2026.",
+   "url": "https://www.sannio.wine/consorziati/",
+   "etichetta": "sannio.wine"
+  }
+ ]
+}

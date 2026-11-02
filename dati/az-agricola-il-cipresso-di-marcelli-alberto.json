@@ -1,0 +1,54 @@
+{
+ "nome": "Az. Agricola Il Cipresso di Marcelli Alberto",
+ "slug": "az-agricola-il-cipresso-di-marcelli-alberto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Fattoria Il Cipresso Srl [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01929520516 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Caselle di Rigutino, 1, 52100 Arezzo (AR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0575 979 256 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ilcipresso.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ilcipresso.com|ilcipresso.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valdichiana Toscana [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.ilcipresso.com",
+   "etichetta": "ilcipresso.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini Valdichiana Toscana, consultato il 2 novembre 2026.",
+   "url": "https://www.vinivaldichianatoscana.it/it/aziende.html",
+   "etichetta": "vinivaldichianatoscana.it"
+  }
+ ]
+}

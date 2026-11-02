@@ -1,0 +1,50 @@
+{
+ "nome": "Barba",
+ "slug": "barba",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00283640670 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Patini, 7, 64026 Roseto degli Abruzzi (TE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 085 8990104 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantina@fratellibarba.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.fratellibarba.it|fratellibarba.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.fratellibarba.it",
+   "etichetta": "fratellibarba.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

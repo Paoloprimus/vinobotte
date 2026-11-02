@@ -22,8 +22,8 @@
      "valore": "{{https://www.tommasi.com/|tommasi.com}} [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela DOC Delle Venezie [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela DOC Delle Venezie [[1]]\nConsorzio Primitivo di Manduria DOC [[2]]"
     }
    ]
   }
@@ -35,6 +35,12 @@
    "testo": "Elenco delle aziende del Consorzio Tutela DOC Delle Venezie, scheda dell’azienda consultata il 2 novembre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Primitivo di Manduria DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/tommasi-family-estates/",
+   "etichetta": "consorziotutelaprimitivo.com"
   }
  ]
 }

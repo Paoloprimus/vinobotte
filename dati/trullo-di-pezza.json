@@ -1,0 +1,42 @@
+{
+ "nome": "Trullo Di Pezza",
+ "slug": "trullo-di-pezza",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02329170738 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Trullo di Pezza SN, 74020 Torricella (TA) [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.trullodipezza.com\n|trullodipezza.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.trullodipezza.com\n",
+   "etichetta": "trullodipezza.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/trullo-di-pezza/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "nome": "Rostagno",
+ "slug": "rostagno",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "11573620017 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Frazione Macchia 47, 10084 Forno Canavese (TO) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@rostagnovini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://rostagnovini.it/|rostagnovini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Erbaluce di Caluso e Carema [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://rostagnovini.it/",
+   "etichetta": "rostagnovini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Erbaluce di Caluso e Carema, consultato il 2 novembre 2026.",
+   "url": "https://www.erbalucecarema.it/cantine/rostagno/",
+   "etichetta": "erbalucecarema.it"
+  }
+ ]
+}

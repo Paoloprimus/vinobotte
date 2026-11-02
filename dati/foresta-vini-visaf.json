@@ -1,0 +1,46 @@
+{
+ "nome": "Foresta Vini – Visaf",
+ "slug": "foresta-vini-visaf",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01844380624 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Nazionale Sannitica, 31, 82037 Castelvenere (BN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 377 094 0369 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.forestavini.it|forestavini.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.forestavini.it",
+   "etichetta": "forestavini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Sannio Consorzio Tutela Vini, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.sannio.wine/consorziati/",
+   "etichetta": "sannio.wine"
+  }
+ ]
+}

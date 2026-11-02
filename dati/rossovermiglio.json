@@ -1,0 +1,46 @@
+{
+ "nome": "Rossovermiglio",
+ "slug": "rossovermiglio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00866380629 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Paduli Buonalbergo, 53, 82020 Paduli (BN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0824 927 278 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.rossovermiglio.com|rossovermiglio.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.rossovermiglio.com",
+   "etichetta": "rossovermiglio.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Sannio Consorzio Tutela Vini, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.sannio.wine/consorziati/",
+   "etichetta": "sannio.wine"
+  }
+ ]
+}

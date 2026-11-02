@@ -1,0 +1,42 @@
+{
+ "nome": "Cantine San Marzano",
+ "slug": "cantine-san-marzano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03017840731 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Monsignor A. Bello 9, 74020 San Marzano di San Giuseppe (TA) [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.sanmarzanowines.com|sanmarzano.wine}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.sanmarzanowines.com",
+   "etichetta": "sanmarzano.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/cantine-san-marzano/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

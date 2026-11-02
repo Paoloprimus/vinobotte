@@ -1,0 +1,42 @@
+{
+ "nome": "Cantolio Manduria",
+ "slug": "cantolio-manduria",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00093810737 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via per Lecce km 2,5, 74020 Manduria (TA) [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantolio.it|cantolio.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.cantolio.it",
+   "etichetta": "cantolio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/cantolio-manduria-sca/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

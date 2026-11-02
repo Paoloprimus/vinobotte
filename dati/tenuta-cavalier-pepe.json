@@ -1,0 +1,46 @@
+{
+ "nome": "Tenuta Cavalier Pepe",
+ "slug": "tenuta-cavalier-pepe",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02595130648 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Roma. 42, 83040 Luogosano (AV) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 349 317 2480 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutapepe.it|tenutapepe.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.tenutapepe.it",
+   "etichetta": "tenutapepe.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Sannio Consorzio Tutela Vini, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.sannio.wine/consorziati/",
+   "etichetta": "sannio.wine"
+  }
+ ]
+}

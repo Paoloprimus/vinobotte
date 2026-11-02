@@ -22,8 +22,8 @@
      "valore": "{{https://www.lemarne.net/|lemarne.net}} [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela del Gavi [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela del Gavi [[1]]\nConsorzio Tutela Ovada DOCG [[2]]"
     }
    ]
   }
@@ -35,6 +35,12 @@
    "testo": "Elenco delle aziende del Consorzio Tutela del Gavi, scheda dell’azienda consultata il 2 novembre 2026.",
    "url": "https://www.consorziogavi.com/produttori/",
    "etichetta": "consorziogavi.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Ovada DOCG, consultato il 2 novembre 2026.",
+   "url": "https://ovada.eu/2019/index.php/it/i-produttori",
+   "etichetta": "ovada.eu"
   }
  ]
 }

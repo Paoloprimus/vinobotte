@@ -1,0 +1,50 @@
+{
+ "nome": "Ferrando Azienda Vitivinicola",
+ "slug": "ferrando-azienda-vitivinicola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "12907140011 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Torino, 599/a, 10015 Ivrea (TO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0125 633550 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ferrandovini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.ferrandovini.it/|ferrandovini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Erbaluce di Caluso e Carema [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.ferrandovini.it/",
+   "etichetta": "ferrandovini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Erbaluce di Caluso e Carema, consultato il 2 novembre 2026.",
+   "url": "https://www.erbalucecarema.it/cantine/ferrando-azienda-vitivinicola/",
+   "etichetta": "erbalucecarema.it"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "nome": "Nifo Sarrapocchiello Lorenzo",
+ "slug": "nifo-sarrapocchiello-lorenzo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01185920624 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "C.Da Piana, 62, 82030 Ponte (BN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0824 876 450 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.nifo.eu|nifo.eu}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.nifo.eu",
+   "etichetta": "nifo.eu"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Sannio Consorzio Tutela Vini, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.sannio.wine/consorziati/",
+   "etichetta": "sannio.wine"
+  }
+ ]
+}

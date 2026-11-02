@@ -1,0 +1,42 @@
+{
+ "nome": "Erminio Campa Viticoltore",
+ "slug": "erminio-campa-viticoltore",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02759320738 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "S.P.129 Torricella-Monacizzo, 74020 Torricella (TA) [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.erminiocampa.it|erminiocampa.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.erminiocampa.it",
+   "etichetta": "erminiocampa.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/erminio-campa-viticoltore/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

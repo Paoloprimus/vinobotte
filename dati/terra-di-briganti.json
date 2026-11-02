@@ -1,0 +1,46 @@
+{
+ "nome": "Terra di Briganti",
+ "slug": "terra-di-briganti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01576590622 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "C.da Tacceto, 6, 82027 Casalduni (BN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 347 125 7684 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.terradibriganti.it|terradibriganti.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.terradibriganti.it",
+   "etichetta": "terradibriganti.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Sannio Consorzio Tutela Vini, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.sannio.wine/consorziati/",
+   "etichetta": "sannio.wine"
+  }
+ ]
+}

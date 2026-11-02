@@ -1,0 +1,46 @@
+{
+ "nome": "Longo Antonio",
+ "slug": "longo-antonio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "06357760013 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Leonardo Da Vinci 43, 10086 Rivarolo Canavese (TO) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@caseificiolongo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.caseificiolongo.it/|caseificiolongo.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Erbaluce di Caluso e Carema [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.caseificiolongo.it/",
+   "etichetta": "caseificiolongo.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Erbaluce di Caluso e Carema, consultato il 2 novembre 2026.",
+   "url": "https://www.erbalucecarema.it/cantine/longo-antonio/",
+   "etichetta": "erbalucecarema.it"
+  }
+ ]
+}

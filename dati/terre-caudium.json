@@ -1,0 +1,46 @@
+{
+ "nome": "Terre Caudium",
+ "slug": "terre-caudium",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01823780620 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Sala, 25, 82030 Cautano (BN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 347 609 2312 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.terrecaudium.com|terrecaudium.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.terrecaudium.com",
+   "etichetta": "terrecaudium.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Sannio Consorzio Tutela Vini, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.sannio.wine/consorziati/",
+   "etichetta": "sannio.wine"
+  }
+ ]
+}

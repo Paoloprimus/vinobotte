@@ -1,0 +1,42 @@
+{
+ "nome": "Apollonio 1870",
+ "slug": "apollonio-1870",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02938790751 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Pietro in Lama, 7, 73047 Monteroni di Lecce (LE) [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.apolloniovini.it|apolloniovini.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.apolloniovini.it",
+   "etichetta": "apolloniovini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/apollonio-1870/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

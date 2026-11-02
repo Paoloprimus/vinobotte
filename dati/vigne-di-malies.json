@@ -1,0 +1,46 @@
+{
+ "nome": "Vigne di Malies",
+ "slug": "vigne-di-malies",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01163950627 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Viale Della Vittoria, 58, 82034 Guardia Sanframondi (BN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0824 864 165 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vignedimalies.it|vignedimalies.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.vignedimalies.it",
+   "etichetta": "vignedimalies.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Sannio Consorzio Tutela Vini, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.sannio.wine/consorziati/",
+   "etichetta": "sannio.wine"
+  }
+ ]
+}

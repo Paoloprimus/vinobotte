@@ -1,0 +1,42 @@
+{
+ "nome": "Leone De Castris",
+ "slug": "leone-de-castris",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00142830751 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Senatore de Castris, 26, 73015 Salice Salentino (LE) [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.leonedecastris.com|leonedecastris.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.leonedecastris.com",
+   "etichetta": "leonedecastris.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/leone-de-castris/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

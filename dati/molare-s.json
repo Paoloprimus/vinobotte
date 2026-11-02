@@ -1,0 +1,42 @@
+{
+ "nome": "Molare's",
+ "slug": "molare-s",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Crosio, 49, 15010 Cremolino (AL) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@molares.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.molares.it|molares.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Ovada DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.molares.it",
+   "etichetta": "molares.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Ovada DOCG, consultato il 2 novembre 2026.",
+   "url": "https://ovada.eu/2019/index.php/it/i-produttori",
+   "etichetta": "ovada.eu"
+  }
+ ]
+}

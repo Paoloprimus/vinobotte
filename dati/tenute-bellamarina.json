@@ -1,0 +1,42 @@
+{
+ "nome": "Tenute Bellamarina",
+ "slug": "tenute-bellamarina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01496650746 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "C.da Bellamarina, snc, 72028 Torre Santa Susanna (BR) [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.tenutebellamarina.com|tenutebellamarina.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.tenutebellamarina.com",
+   "etichetta": "tenutebellamarina.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/tenute-bellamarina-1322/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

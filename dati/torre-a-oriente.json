@@ -1,0 +1,46 @@
+{
+ "nome": "Torre A Oriente",
+ "slug": "torre-a-oriente",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01251570626 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Mercuri 1, 82030 Torrecuso (BN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0824 874 274 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.torreaoriente.com|torreaoriente.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.torreaoriente.com",
+   "etichetta": "torreaoriente.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Sannio Consorzio Tutela Vini, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.sannio.wine/consorziati/",
+   "etichetta": "sannio.wine"
+  }
+ ]
+}

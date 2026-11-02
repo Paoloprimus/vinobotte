@@ -1,0 +1,50 @@
+{
+ "nome": "Buemi Vini Azienda Agricola",
+ "slug": "buemi-vini-azienda-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02029880024 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada per ZIMONE, 95, 10010 Piverone (TO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 347 2465942 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@buemivini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.buemivini.com/|buemivini.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Erbaluce di Caluso e Carema [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.buemivini.com/",
+   "etichetta": "buemivini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Erbaluce di Caluso e Carema, consultato il 2 novembre 2026.",
+   "url": "https://www.erbalucecarema.it/cantine/buemi-vini-azienda-agricola/",
+   "etichetta": "erbalucecarema.it"
+  }
+ ]
+}

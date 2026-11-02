@@ -1,0 +1,46 @@
+{
+ "nome": "Patruno Perniola",
+ "slug": "patruno-perniola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "06810090727 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Marzagaglia 2603, 70023 Gioia del Colle (BA) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutapatrunoperniola.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutapatrunoperniola.it|tenutapatrunoperniola.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio dei Vini Gioia del Colle DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.tenutapatrunoperniola.it",
+   "etichetta": "tenutapatrunoperniola.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio dei Vini Gioia del Colle DOC, consultato il 2 novembre 2026.",
+   "url": "http://consorziovinigioiadelcolle.it/index.php/le-aziende-del-consorzio-vini-gioia-del-colle",
+   "etichetta": "consorziovinigioiadelcolle.it"
+  }
+ ]
+}

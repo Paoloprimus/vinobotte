@@ -1,0 +1,46 @@
+{
+ "nome": "Alberand",
+ "slug": "alberand",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "11713070016 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via 4 Novembre, 35, 10080 Salassa (TO) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "a.alberand@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://alberandvini.it/|alberandvini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Erbaluce di Caluso e Carema [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://alberandvini.it/",
+   "etichetta": "alberandvini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Erbaluce di Caluso e Carema, consultato il 2 novembre 2026.",
+   "url": "https://www.erbalucecarema.it/cantine/alberand/",
+   "etichetta": "erbalucecarema.it"
+  }
+ ]
+}

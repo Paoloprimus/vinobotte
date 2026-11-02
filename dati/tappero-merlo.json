@@ -1,0 +1,46 @@
+{
+ "nome": "Tappero Merlo",
+ "slug": "tappero-merlo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "FLOWER di Tappero Merlo Domenico & C. S.a.s [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "08782260015 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Provinciale, 25, 10010 Loranzè (TO) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.tapperomerlo.it|tapperomerlo.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Erbaluce di Caluso e Carema [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.tapperomerlo.it",
+   "etichetta": "tapperomerlo.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Erbaluce di Caluso e Carema, consultato il 2 novembre 2026.",
+   "url": "https://www.erbalucecarema.it/cantine/tappero-merlo/",
+   "etichetta": "erbalucecarema.it"
+  }
+ ]
+}

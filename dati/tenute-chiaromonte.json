@@ -1,0 +1,42 @@
+{
+ "nome": "Tenute Chiaromonte",
+ "slug": "tenute-chiaromonte",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Scappagrano, 70021 Acquaviva delle Fonti (BA) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutechiaromonte.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutechiaromonte.com|tenutechiaromonte.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio dei Vini Gioia del Colle DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.tenutechiaromonte.com",
+   "etichetta": "tenutechiaromonte.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio dei Vini Gioia del Colle DOC, consultato il 2 novembre 2026.",
+   "url": "http://consorziovinigioiadelcolle.it/index.php/le-aziende-del-consorzio-vini-gioia-del-colle",
+   "etichetta": "consorziovinigioiadelcolle.it"
+  }
+ ]
+}

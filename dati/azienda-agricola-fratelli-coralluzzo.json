@@ -1,0 +1,42 @@
+{
+ "nome": "Azienda Agricola. Fratelli Coralluzzo",
+ "slug": "azienda-agricola-fratelli-coralluzzo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Vitivinicola Fratelli Coralluzzo S.a.s [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Matteo, 80, 84090 Montecorvino Pugliano (SA) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinicoralluzzo.it|vinicoralluzzo.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vita Salernum Vites [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.vinicoralluzzo.it",
+   "etichetta": "vinicoralluzzo.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vita Salernum Vites, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinisalerno.it/cvs/aziende/",
+   "etichetta": "consorziovinisalerno.it"
+  }
+ ]
+}

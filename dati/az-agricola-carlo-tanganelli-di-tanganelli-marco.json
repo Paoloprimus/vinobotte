@@ -1,0 +1,40 @@
+{
+ "nome": "Az. Agricola Carlo Tanganelli di Tanganelli Marco",
+ "slug": "az-agricola-carlo-tanganelli-di-tanganelli-marco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Santa Lucia 126, 52043 Castiglion Fiorentino (AR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0575 651182 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "tanga@aruba.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.carlotanganelli.it|carlotanganelli.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valdichiana Toscana [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini Valdichiana Toscana, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinivaldichianatoscana.it/it/aziende.html",
+   "etichetta": "vinivaldichianatoscana.it"
+  }
+ ]
+}

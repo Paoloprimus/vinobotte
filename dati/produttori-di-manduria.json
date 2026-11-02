@@ -1,0 +1,42 @@
+{
+ "nome": "Produttori Di Manduria",
+ "slug": "produttori-di-manduria",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00092380732 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fabio Massimo, 19, 74024 Manduria (TA) [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.produttoridimanduria.it/|produttoridimanduria.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.produttoridimanduria.it/",
+   "etichetta": "produttoridimanduria.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/produttori-di-manduria/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio del Vino Nobile di Montepulciano [[1]]\nConsorzio Chianti Colli Senesi [[4]]"
+     "valore": "Compare nell’elenco delle aziende associate a Consorzio del Vino Nobile di Montepulciano [[1]]\nConsorzio Vini Valdichiana Toscana [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Chianti Colli Senesi [[5]]"
     }
    ]
   },
@@ -79,7 +83,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=15512217845673549430|Mappa}} — valutazione 4,4 su 5 (168 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=15512217845673549430|Mappa}} — valutazione 4,4 su 5 (168 recensioni) [[6]]"
     }
    ]
   }
@@ -106,12 +110,18 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Vini Valdichiana Toscana, consultato il 2 novembre 2026.",
+   "url": "https://www.vinivaldichianatoscana.it/it/aziende.html",
+   "etichetta": "vinivaldichianatoscana.it"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Chianti Colli Senesi, elenco delle aziende e dei produttori, consultato il 26 ottobre 2026.",
    "url": "https://www.consorziochianticollisenesi.it/aziende-e-produttori/",
    "etichetta": "consorziochianticollisenesi.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Vecchia Cantina di Montepulciano» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=15512217845673549430",
    "etichetta": "maps.google.com"
