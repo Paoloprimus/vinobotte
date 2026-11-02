@@ -27,26 +27,20 @@
   106,
   107,
   109,
+  110,
   116,
   119,
   123,
   135
  ],
  "promosse": [
-  "candido",
-  "cantina-cooperativa-salice-salentino",
-  "cantina-petrelli",
-  "cantina-sandonaci",
-  "cantine-de-falco",
-  "cantine-sanpancrazio",
-  "conti-zecca",
-  "vinicola-mediterranea",
-  "abbazia-santa-anastasia",
-  "agrimed-scopello-ass-impresa",
-  "alcesti"
+  "azienda-agricola-poggio-alla-meta",
+  "cantina-cominium",
+  "tenuta-cervelli",
+  "tenuta-petra-potens"
  ],
  "gia_in_guida": 19,
- "esatti": 488,
+ "esatti": 499,
  "token": [
   [
    15,
@@ -2210,9 +2204,17 @@
    [
     "mura-mura-azienda-agricola"
    ]
+  ],
+  [
+   110,
+   "atina",
+   "MARTINI E ROSSI",
+   [
+    "martini-rossi"
+   ]
   ]
  ],
- "wip": 1443,
+ "wip": 1450,
  "stat": {
   "scartata": 1
  }

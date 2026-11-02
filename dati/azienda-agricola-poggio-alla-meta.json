@@ -1,0 +1,50 @@
+{
+ "nome": "Azienda Agricola Poggio alla Meta",
+ "slug": "azienda-agricola-poggio-alla-meta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "POGGIO ALLA META S.r.l [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Valloni, snc, 03034 Casalvieri (FR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 335 686 1317 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "poggioallameta@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.poggioallameta.com/|poggioallameta.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela Atina DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.poggioallameta.com/",
+   "etichetta": "poggioallameta.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di tutela Atina DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.atinadoc.it/",
+   "etichetta": "atinadoc.it"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "nome": "Cantina Cominium",
+ "slug": "cantina-cominium",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02236040602 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Ritinto, s.n.c., 03041 Alvito (FR) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "mapinto@alice.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://cantinacominium.com/|cantinacominium.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela Atina DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://cantinacominium.com/",
+   "etichetta": "cantinacominium.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di tutela Atina DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.atinadoc.it/",
+   "etichetta": "atinadoc.it"
+  }
+ ]
+}

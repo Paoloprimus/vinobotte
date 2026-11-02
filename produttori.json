@@ -62120,5 +62120,65 @@
 "alcesti"
 ],
 "primario": "alcesti"
+},
+{
+"slug": "azienda-agricola-poggio-alla-meta",
+"nome": "Azienda Agricola Poggio alla Meta",
+"regione": "Lazio",
+"comune": "Casalvieri",
+"tipi": {
+"atina": [
+"Atina"
+]
+},
+"membri": [
+"azienda-agricola-poggio-alla-meta"
+],
+"primario": "azienda-agricola-poggio-alla-meta"
+},
+{
+"slug": "cantina-cominium",
+"nome": "Cantina Cominium",
+"regione": "Lazio",
+"comune": "Alvito",
+"tipi": {
+"atina": [
+"Atina"
+]
+},
+"membri": [
+"cantina-cominium"
+],
+"primario": "cantina-cominium"
+},
+{
+"slug": "tenuta-cervelli",
+"nome": "Tenuta Cervelli",
+"regione": "Lazio",
+"comune": "Broccostella",
+"tipi": {
+"atina": [
+"Atina"
+]
+},
+"membri": [
+"tenuta-cervelli"
+],
+"primario": "tenuta-cervelli"
+},
+{
+"slug": "tenuta-petra-potens",
+"nome": "Tenuta Petra Potens",
+"regione": "Lazio",
+"comune": "Alvito",
+"tipi": {
+"atina": [
+"Atina"
+]
+},
+"membri": [
+"tenuta-petra-potens"
+],
+"primario": "tenuta-petra-potens"
 }
 ]

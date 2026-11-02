@@ -144,3 +144,5 @@ Cinquantaseiesimo passo (2 novembre, secondo lotto, parte C: 8 consorzi con elen
 Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e Monferrato, Langhe): Barbera d'Asti e Vini del Monferrato: 445 cantine lette dalle 23 pagine dell'elenco (sede, telefono, email, sito); promosse 143 nuove, 16 già in guida riconosciute da sito o partita IVA, le altre in lista provvisoria. Langhe (Barolo, Barbaresco, Dogliani): elenco di 597 soci con solo nome e comune (34 vinificatori letti dalla prima schermata): da riprendere. Guida: 3.844 schede.
 
 58. Lotto 6 (Salice Salentino, IMT Marche, Sicilia, Colli Tortonesi, Vermentino di Gallura, Pinerolese): 11 nuove cantine in guida (Puglia 8, Sicilia 3), 19 già presenti (aggiunta riga Consorzio), 1443 in wip (elenchi con soli nomi, sito non trovato). Guida: 3.855 produttori.
+
+59. Lotto 7 (Atina DOC): 4 nuove cantine nel Lazio, 7 già presenti con riga Consorzio. Verificati e scartati come fonte: Aglianico del Vulture, Casorzo, Ente Vini Bresciani, Tullum, Irpinia, Val di Noto (nessun elenco soci pubblico); Valtènesi e Pantelleria (elenco solo in mappa interattiva). Guida: 3.859 produttori.
