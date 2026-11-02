@@ -1,0 +1,49 @@
+{
+ "nome": "Cascina Delle Rocche Di Moncucco Di Del Piazzo Clara",
+ "slug": "cascina-delle-rocche-di-moncucco-di-del-piazzo-clara",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Moncucco, 50, 12058 Santo Stefano Belbo (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "335 5901675 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@beppescavino.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.beppescavino.it/|beppescavino.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Moscato d'Asti DOCG [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}

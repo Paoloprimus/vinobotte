@@ -1,0 +1,59 @@
+{
+ "nome": "Azienda Agricola Tenuta Il Falchetto Dei F.Lli Forno Società Agricola Semplice",
+ "slug": "azienda-agricola-tenuta-il-falchetto-dei-f-lli-forno-societa-agricola-semplice",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02107850048 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Valle Tinella, Frazione Ciombi 16, 12058 Santo Stefano Belbo (CN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0141 840344 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "tenuta@ilfalchetto.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ilfalchetto.com/|ilfalchetto.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Moscato d'Asti DOCG; Canelli DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.ilfalchetto.com/",
+   "etichetta": "ilfalchetto.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "nome": "Bongioanni Wine Di Bongioanni Federico",
+ "slug": "bongioanni-wine-di-bongioanni-federico",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Provinciale, 5, 12050 Neviglie (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "342 3882339 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bongioanni.wine [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://bongioanni.wine/|bongioanni.wine}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Moscato d'Asti DOCG [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}

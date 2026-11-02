@@ -1,0 +1,45 @@
+{
+ "nome": "Martini & Rossi",
+ "slug": "martini-rossi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Piazza Luigi Rossi, 2, 10023 Pessione – Chieri (TO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "01119272500 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.martini.com/|martini.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Asti Spumante DOCG [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}

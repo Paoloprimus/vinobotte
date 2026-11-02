@@ -1,0 +1,59 @@
+{
+ "nome": "Enrico Serafino",
+ "slug": "enrico-serafino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03548600042 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Corso Asti, 5, 12045 Canale d’Alba (CN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0173 970488 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cristiana.barbero@enricoserafino.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.enricoserafino.it/|enricoserafino.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Moscato d'Asti DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.enricoserafino.it/",
+   "etichetta": "enricoserafino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}

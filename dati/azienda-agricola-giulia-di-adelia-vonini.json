@@ -1,0 +1,59 @@
+{
+ "nome": "Azienda Agricola Giulia Di Adelia Vonini",
+ "slug": "azienda-agricola-giulia-di-adelia-vonini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01364690055 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Regione Sessania, 16, 14058 Monastero Bormida (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0144 889007 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@sessanea.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.sessanea.com/it/|sessanea.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Moscato d'Asti DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.sessanea.com/it/",
+   "etichetta": "sessanea.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}

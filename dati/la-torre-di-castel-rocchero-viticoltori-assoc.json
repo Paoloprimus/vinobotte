@@ -1,0 +1,59 @@
+{
+ "nome": "La Torre Di Castel Rocchero-Viticoltori Assoc.",
+ "slug": "la-torre-di-castel-rocchero-viticoltori-assoc",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00072040058 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Str. Acqui, 7, 14044 Castel Rocchero (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0141 760139 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinalatorre.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinalatorre.com/|cantinalatorre.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Asti Spumante DOCG; Moscato d'Asti DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cantinalatorre.com/",
+   "etichetta": "cantinalatorre.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}

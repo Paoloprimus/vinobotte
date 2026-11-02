@@ -1,0 +1,59 @@
+{
+ "nome": "Casa e di Mirafiore E Fontanafredda",
+ "slug": "casa-e-di-mirafiore-e-fontanafredda",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01197120528 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Alba, 15, 12050 Serralunga d’Alba (CN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0173 626111 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fontanafredda.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fontanafredda.it/|fontanafredda.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Asti Spumante DOCG; Moscato d'Asti DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.fontanafredda.it/",
+   "etichetta": "fontanafredda.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}

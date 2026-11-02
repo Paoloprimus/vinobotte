@@ -1,0 +1,59 @@
+{
+ "nome": "Bava Azienda Vitivinicola",
+ "slug": "bava-azienda-vitivinicola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00148220056 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Str. Monferrato, 2, 14023 Cocconato (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0141 907083 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "bava@bava.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bava.com/|bava.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Asti Spumante DOCG; Moscato d'Asti DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.bava.com/",
+   "etichetta": "bava.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "nome": "Bocchino Giuseppe Az. Agr. di Bocchino Annalisa",
+ "slug": "bocchino-giuseppe-az-agr-di-bocchino-annalisa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Regione Santa Libera, 43, 14053 Canelli (AT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0141 831144 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinibocchino.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://vinibocchino.it/|vinibocchino.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Canelli DOCG [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}

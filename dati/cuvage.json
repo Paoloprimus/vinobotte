@@ -1,0 +1,59 @@
+{
+ "nome": "Cuvage",
+ "slug": "cuvage",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02120150400 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Stradale Alessandria, 90, 15011 Acqui Terme (AL) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0144 371600 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cuvage.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cuvage.com/|cuvage.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Asti Spumante DOCG; Moscato d'Asti DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cuvage.com/",
+   "etichetta": "cuvage.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}

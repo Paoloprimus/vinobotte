@@ -1,0 +1,59 @@
+{
+ "nome": "Cascina Barisel Az. Agr. Di Penna Franco",
+ "slug": "cascina-barisel-az-agr-di-penna-franco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01281780054 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Regione San Giovanni, 30, 14053 Canelli (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "339 4165913 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cascinabarisel@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.barisel.it/|barisel.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Canelli DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.barisel.it/",
+   "etichetta": "barisel.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}

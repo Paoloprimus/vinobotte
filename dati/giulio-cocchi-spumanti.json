@@ -1,0 +1,59 @@
+{
+ "nome": "Giulio Cocchi Spumanti",
+ "slug": "giulio-cocchi-spumanti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00203300058 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Liprandi 21,, 14023 Cocconato (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0141 907083 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cocchi@cocchi.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cocchi.it/|cocchi.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Asti Spumante DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cocchi.it/",
+   "etichetta": "cocchi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "nome": "Sartirano Figli Cantine E Vigneti",
+ "slug": "sartirano-figli-cantine-e-vigneti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Str. Com. dei Bovi, Cascina Arnulfo, 12065 Monforte d’Alba (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0173 731136 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@sartirano.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.sartirano.com/|sartirano.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Asti Spumante DOCG; Moscato d'Asti DOCG [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}

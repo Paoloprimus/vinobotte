@@ -1,0 +1,49 @@
+{
+ "nome": "Cascina Ciuché di Dogliotti Enrico",
+ "slug": "cascina-ciuche-di-dogliotti-enrico",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Fornace, 22, 14055 Costigliole d’Asti (AT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0141 966617 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "dogliotti@cascinaciuche.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cascinaciuche.it/it/|cascinaciuche.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la Tutela dell’Asti [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Moscato d'Asti DOCG [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://astidocg.it/io-produco-asti-docg/",
+   "etichetta": "astidocg.it"
+  }
+ ]
+}
