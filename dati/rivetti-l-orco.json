@@ -1,0 +1,32 @@
+{
+ "nome": "Rivetti & L'Orco",
+ "slug": "rivetti-l-orco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "via Nazionale, 121, 23030 Villa di (SO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 335 6688743 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela dei vini di Valtellina [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di tutela dei vini di Valtellina, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidivaltellina.it/produttori/lista-produttori/",
+   "etichetta": "vinidivaltellina.it"
+  }
+ ]
+}

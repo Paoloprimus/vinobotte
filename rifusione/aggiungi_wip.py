@@ -18,7 +18,7 @@ for x in N:
     ana.append({'etichetta':'Sede','valore':x['sede']+(' [[2]]' if x.get('fonte_sede') else ' '+a)})
     if x['tel']: ana.append({'etichetta':'Telefono','valore':x['tel']+' '+a})
     if x['email']: ana.append({'etichetta':'Email','valore':x['email']+' '+a})
-    ana.append({'etichetta':'Sito ufficiale','valore':'{{'+x['sito']+'|'+x['dom']+'}} '+a})
+    if x['sito']: ana.append({'etichetta':'Sito ufficiale','valore':'{{'+x['sito']+'|'+x['dom']+'}} '+a})
     if cons: ana.append({'etichetta':'Consorzio','valore':x.get('consorzio_nome','Consorzio di tutela DOP Suvereto e Val di Cornia Wine')+' [[1]]'})
     if x.get('elenco_consorzio'): ana.append({'etichetta':'Consorzio','valore':x['consorzio_nome']+' [[2]]'})  # socio del consorzio: solo dall'elenco soci (contatti e dati dal sito)
     sez=[{'titolo':'Anagrafica','righe':ana}]

@@ -1,0 +1,32 @@
+{
+ "nome": "Sandro Fay",
+ "slug": "sandro-fay",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "via Pila Caselli, 1, 23036 S. Giacomo di (SO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0342 786071 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela dei vini di Valtellina [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di tutela dei vini di Valtellina, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vinidivaltellina.it/produttori/lista-produttori/",
+   "etichetta": "vinidivaltellina.it"
+  }
+ ]
+}

@@ -6,6 +6,7 @@
   19,
   26,
   27,
+  34,
   36,
   37,
   41,
@@ -34,7 +35,51 @@
   123,
   135
  ],
- "promosse": [],
+ "promosse": [
+  "agrilu",
+  "andreoli",
+  "arpepe",
+  "ascesa",
+  "assoviuno",
+  "balgera-vini",
+  "bastiancuntrari",
+  "f-lli-bettini",
+  "fratelli-cerasa-le-case-dei-baff",
+  "contadi-gasparotti",
+  "conti-sertoli-salis",
+  "coop-agricola-triasso-e-sassella",
+  "dirupi",
+  "luca-faccinelli",
+  "sandro-fay",
+  "marco-ferrari",
+  "folini",
+  "fondazione-fojanini",
+  "involt-agnelot",
+  "marino-lanzini",
+  "bruno-leusciatti",
+  "alessio-magi",
+  "alberto-marsetti",
+  "walter-menegola",
+  "renato-motalli",
+  "alfio-mozzi",
+  "i-muretti",
+  "nino-negri",
+  "nicola-nobili",
+  "pizzo-coca",
+  "plozza",
+  "mamete-prevostini-convento-san-lorenzo",
+  "aldo-rainoldi",
+  "radis",
+  "retica-vini",
+  "cantina-riter",
+  "rivetti-l-orco",
+  "sesterzio",
+  "le-strie",
+  "tenuta-scersce",
+  "la-trama",
+  "vita-nova",
+  "marcel-zanolari"
+ ],
  "gia_in_guida": 20,
  "esatti": 700,
  "token": [
@@ -3086,9 +3131,27 @@
    [
     "cantina-di-montalcino"
    ]
+  ],
+  [
+   34,
+   "valtellina",
+   "Il Gabbiano",
+   [
+    "castello-di-gabbiano"
+   ]
+  ],
+  [
+   34,
+   "valtellina",
+   "Triacca",
+   [
+    "triacca-tenuta-santavenere",
+    "triacca-la-madonnina",
+    "cavitria-casa-vinicola-triacca"
+   ]
   ]
  ],
- "wip": 1803,
+ "wip": 1812,
  "stat": {
   "scartata": 2
  }

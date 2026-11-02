@@ -62189,5 +62189,650 @@
 "tenuta-petra-potens"
 ],
 "primario": "tenuta-petra-potens"
+},
+{
+"slug": "agrilu",
+"nome": "Agrilu",
+"regione": "Lombardia",
+"comune": "Poggiridenti",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"agrilu"
+],
+"primario": "agrilu"
+},
+{
+"slug": "andreoli",
+"nome": "Andreoli",
+"regione": "Lombardia",
+"comune": "Berbenno di Valtellina",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"andreoli"
+],
+"primario": "andreoli"
+},
+{
+"slug": "arpepe",
+"nome": "Arpepe",
+"regione": "Lombardia",
+"comune": "Sondrio",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"arpepe"
+],
+"primario": "arpepe"
+},
+{
+"slug": "ascesa",
+"nome": "Ascesa",
+"regione": "Lombardia",
+"comune": "Tresivio",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"ascesa"
+],
+"primario": "ascesa"
+},
+{
+"slug": "assoviuno",
+"nome": "Assoviuno",
+"regione": "Lombardia",
+"comune": "Berbenno",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"assoviuno"
+],
+"primario": "assoviuno"
+},
+{
+"slug": "balgera-vini",
+"nome": "Balgera Vini",
+"regione": "Lombardia",
+"comune": "Chiuro",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"balgera-vini"
+],
+"primario": "balgera-vini"
+},
+{
+"slug": "bastiancuntrari",
+"nome": "BastiànCuntràri",
+"regione": "Lombardia",
+"comune": "Albosaggia",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"bastiancuntrari"
+],
+"primario": "bastiancuntrari"
+},
+{
+"slug": "f-lli-bettini",
+"nome": "F.lli Bettini",
+"regione": "Lombardia",
+"comune": "S. Giacomo di",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"f-lli-bettini"
+],
+"primario": "f-lli-bettini"
+},
+{
+"slug": "fratelli-cerasa-le-case-dei-baff",
+"nome": "Fratelli Cerasa - Le Case dei Baff",
+"regione": "Lombardia",
+"comune": "Ardenno",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"fratelli-cerasa-le-case-dei-baff"
+],
+"primario": "fratelli-cerasa-le-case-dei-baff"
+},
+{
+"slug": "contadi-gasparotti",
+"nome": "Contadi Gasparotti",
+"regione": "Lombardia",
+"comune": "Tirano",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"contadi-gasparotti"
+],
+"primario": "contadi-gasparotti"
+},
+{
+"slug": "conti-sertoli-salis",
+"nome": "Conti Sertoli Salis",
+"regione": "Lombardia",
+"comune": "Tirano",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"conti-sertoli-salis"
+],
+"primario": "conti-sertoli-salis"
+},
+{
+"slug": "coop-agricola-triasso-e-sassella",
+"nome": "Coop. Agricola Triasso e Sassella",
+"regione": "Lombardia",
+"comune": "Sondrio",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"coop-agricola-triasso-e-sassella"
+],
+"primario": "coop-agricola-triasso-e-sassella"
+},
+{
+"slug": "dirupi",
+"nome": "Dirupi",
+"regione": "Lombardia",
+"comune": "Ponte in Valtellina",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"dirupi"
+],
+"primario": "dirupi"
+},
+{
+"slug": "luca-faccinelli",
+"nome": "Luca Faccinelli",
+"regione": "Lombardia",
+"comune": "Chiuro",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"luca-faccinelli"
+],
+"primario": "luca-faccinelli"
+},
+{
+"slug": "sandro-fay",
+"nome": "Sandro Fay",
+"regione": "Lombardia",
+"comune": "S. Giacomo di",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"sandro-fay"
+],
+"primario": "sandro-fay"
+},
+{
+"slug": "marco-ferrari",
+"nome": "Marco Ferrari",
+"regione": "Lombardia",
+"comune": "Montagna in Valtellina",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"marco-ferrari"
+],
+"primario": "marco-ferrari"
+},
+{
+"slug": "folini",
+"nome": "Folini",
+"regione": "Lombardia",
+"comune": "Chiuro",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"folini"
+],
+"primario": "folini"
+},
+{
+"slug": "fondazione-fojanini",
+"nome": "Fondazione Fojanini",
+"regione": "Lombardia",
+"comune": "Sondrio",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"fondazione-fojanini"
+],
+"primario": "fondazione-fojanini"
+},
+{
+"slug": "involt-agnelot",
+"nome": "Involt Agnelot",
+"regione": "Lombardia",
+"comune": "Villa di",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"involt-agnelot"
+],
+"primario": "involt-agnelot"
+},
+{
+"slug": "marino-lanzini",
+"nome": "Marino Lanzini",
+"regione": "Lombardia",
+"comune": "Ponte in Valtellina",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"marino-lanzini"
+],
+"primario": "marino-lanzini"
+},
+{
+"slug": "bruno-leusciatti",
+"nome": "Bruno Leusciatti",
+"regione": "Lombardia",
+"comune": "Sondrio",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"bruno-leusciatti"
+],
+"primario": "bruno-leusciatti"
+},
+{
+"slug": "alessio-magi",
+"nome": "Alessio Magi",
+"regione": "Lombardia",
+"comune": "Teglio",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"alessio-magi"
+],
+"primario": "alessio-magi"
+},
+{
+"slug": "alberto-marsetti",
+"nome": "Alberto Marsetti",
+"regione": "Lombardia",
+"comune": "Sondrio",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"alberto-marsetti"
+],
+"primario": "alberto-marsetti"
+},
+{
+"slug": "walter-menegola",
+"nome": "Walter Menegola",
+"regione": "Lombardia",
+"comune": "Castione Andevenno",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"walter-menegola"
+],
+"primario": "walter-menegola"
+},
+{
+"slug": "renato-motalli",
+"nome": "Renato Motalli",
+"regione": "Lombardia",
+"comune": "S. Giacomo di",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"renato-motalli"
+],
+"primario": "renato-motalli"
+},
+{
+"slug": "alfio-mozzi",
+"nome": "Alfio Mozzi",
+"regione": "Lombardia",
+"comune": "Castione Andevenno",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"alfio-mozzi"
+],
+"primario": "alfio-mozzi"
+},
+{
+"slug": "i-muretti",
+"nome": "I Muretti",
+"regione": "Lombardia",
+"comune": "Rovagnate",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"i-muretti"
+],
+"primario": "i-muretti"
+},
+{
+"slug": "nino-negri",
+"nome": "Nino Negri",
+"regione": "Lombardia",
+"comune": "Chiuro",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"nino-negri"
+],
+"primario": "nino-negri"
+},
+{
+"slug": "nicola-nobili",
+"nome": "Nicola Nobili",
+"regione": "Lombardia",
+"comune": "Poggiridenti",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"nicola-nobili"
+],
+"primario": "nicola-nobili"
+},
+{
+"slug": "pizzo-coca",
+"nome": "Pizzo Coca",
+"regione": "Lombardia",
+"comune": "Ponte in Valtellina",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"pizzo-coca"
+],
+"primario": "pizzo-coca"
+},
+{
+"slug": "plozza",
+"nome": "Plozza",
+"regione": "Lombardia",
+"comune": "Tirano",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"plozza"
+],
+"primario": "plozza"
+},
+{
+"slug": "mamete-prevostini-convento-san-lorenzo",
+"nome": "Mamete Prevostini / Convento San Lorenzo",
+"regione": "Lombardia",
+"comune": "Mese",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"mamete-prevostini-convento-san-lorenzo"
+],
+"primario": "mamete-prevostini-convento-san-lorenzo"
+},
+{
+"slug": "aldo-rainoldi",
+"nome": "Aldo Rainoldi",
+"regione": "Lombardia",
+"comune": "Chiuro",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"aldo-rainoldi"
+],
+"primario": "aldo-rainoldi"
+},
+{
+"slug": "radis",
+"nome": "Radìs",
+"regione": "Lombardia",
+"comune": "Tirano",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"radis"
+],
+"primario": "radis"
+},
+{
+"slug": "retica-vini",
+"nome": "Retica Vini",
+"regione": "Lombardia",
+"comune": "Sondrio",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"retica-vini"
+],
+"primario": "retica-vini"
+},
+{
+"slug": "cantina-riter",
+"nome": "Cantina Riter",
+"regione": "Lombardia",
+"comune": "Poggiridenti",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"cantina-riter"
+],
+"primario": "cantina-riter"
+},
+{
+"slug": "rivetti-l-orco",
+"nome": "Rivetti & L'Orco",
+"regione": "Lombardia",
+"comune": "Villa di",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"rivetti-l-orco"
+],
+"primario": "rivetti-l-orco"
+},
+{
+"slug": "sesterzio",
+"nome": "Sesterzio",
+"regione": "Lombardia",
+"comune": "Berbenno di Valtellina",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"sesterzio"
+],
+"primario": "sesterzio"
+},
+{
+"slug": "le-strie",
+"nome": "Le Strie",
+"regione": "Lombardia",
+"comune": "Ponte in Valtellina",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"le-strie"
+],
+"primario": "le-strie"
+},
+{
+"slug": "tenuta-scersce",
+"nome": "Tenuta Scerscé",
+"regione": "Lombardia",
+"comune": "Tirano",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"tenuta-scersce"
+],
+"primario": "tenuta-scersce"
+},
+{
+"slug": "la-trama",
+"nome": "La Trama",
+"regione": "Lombardia",
+"comune": "Tresivio",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"la-trama"
+],
+"primario": "la-trama"
+},
+{
+"slug": "vita-nova",
+"nome": "Vita Nova",
+"regione": "Lombardia",
+"comune": "Berbenno di Valtellina",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"vita-nova"
+],
+"primario": "vita-nova"
+},
+{
+"slug": "marcel-zanolari",
+"nome": "Marcel Zanolari",
+"regione": "Lombardia",
+"comune": "Bianzone",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"marcel-zanolari"
+],
+"primario": "marcel-zanolari"
 }
 ]
