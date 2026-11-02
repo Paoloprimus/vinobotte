@@ -1,0 +1,42 @@
+{
+ "nome": "Battaglio Mario",
+ "slug": "battaglio-mario",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03286780048 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Salerio,15, 12040 Vezza d’Alba (CN) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://battaglio.com/|battaglio.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://battaglio.com/",
+   "etichetta": "battaglio.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/battaglio-mario/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

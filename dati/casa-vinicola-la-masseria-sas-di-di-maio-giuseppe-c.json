@@ -1,0 +1,46 @@
+{
+ "nome": "Casa Vinicola La Masseria Sas di di Maio Giuseppe & C.",
+ "slug": "casa-vinicola-la-masseria-sas-di-di-maio-giuseppe-c",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Foresta, 36 81020 San Marco Evangelista CE, 81020 San Marco Evangelista (CE) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3333931703 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lammasseriavini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lamasseriavini.it/|lamasseriavini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.lamasseriavini.it/",
+   "etichetta": "lamasseriavini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, consultato il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/casa-vinicola-la-masseria-sas-di-di-maio-giuseppe-c.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

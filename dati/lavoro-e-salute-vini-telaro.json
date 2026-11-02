@@ -1,0 +1,50 @@
+{
+ "nome": "Lavoro e Salute Vini Telaro",
+ "slug": "lavoro-e-salute-vini-telaro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03196260610 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cinque Pietre, 2, 81044 Galluccio (CE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0823.925841 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinitelaro.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://cantinetelaro.it/|cantinetelaro.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://cantinetelaro.it/",
+   "etichetta": "cantinetelaro.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/lavoro-e-salute-vini-telaro-s-c-a-r-l.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

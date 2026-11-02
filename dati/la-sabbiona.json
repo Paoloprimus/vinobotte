@@ -1,0 +1,46 @@
+{
+ "nome": "La Sabbiona",
+ "slug": "la-sabbiona",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02118370390 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via di Oriolo, 10 48018 Faenza (RA), 48018 Faenza (RA) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lasabbiona.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lasabbiona.it/|lasabbiona.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.lasabbiona.it/",
+   "etichetta": "lasabbiona.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/la-sabbiona/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "nome": "Prophecy Wines",
+ "slug": "prophecy-wines",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01573540224 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via del Teroldego 1E, 38016 Mezzocorona (TN) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@mezzacorona.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.mezzacorona.it/it/|mezzacorona.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela DOC Delle Venezie [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.mezzacorona.it/it/",
+   "etichetta": "mezzacorona.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela DOC Delle Venezie, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  }
+ ]
+}

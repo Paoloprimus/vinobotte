@@ -1,0 +1,46 @@
+{
+ "nome": "La Masserie",
+ "slug": "la-masserie",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03457330615 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Masseria Vecchia, 81041 Bellona (CE) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lamasserie.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://lamasserie.it/|lamasserie.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://lamasserie.it/",
+   "etichetta": "lamasserie.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, consultato il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/la-masserie.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

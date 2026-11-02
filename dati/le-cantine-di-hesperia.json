@@ -1,0 +1,42 @@
+{
+ "nome": "Le Cantine di Hesperia",
+ "slug": "le-cantine-di-hesperia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Roma 17, 81010 Castel Campagnano (CE) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "hesperiawine@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.hesperiawine.com/|hesperiawine.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.hesperiawine.com/",
+   "etichetta": "hesperiawine.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, consultato il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/le-cantine-di-hesperia.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

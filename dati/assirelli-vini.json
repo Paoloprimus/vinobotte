@@ -1,0 +1,42 @@
+{
+ "nome": "Assirelli Vini",
+ "slug": "assirelli-vini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Assirelli Vittorio e C. S.A.S. Soc. Agr [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Monte del Re, 31/P, 40060 Dozza (BO) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinadavittorio.com|cantinadavittorio.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cantinadavittorio.com",
+   "etichetta": "cantinadavittorio.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/assirelli-vini/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

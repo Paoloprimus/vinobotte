@@ -1,0 +1,50 @@
+{
+ "nome": "Soc. Agr. Magliulo",
+ "slug": "soc-agr-magliulo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03719260618 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Generoso Manna, n° 29, 81030 Frignano (CE) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 081-8900928 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "vini.magliulo@libero.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinimagliulo.com/|vinimagliulo.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.vinimagliulo.com/",
+   "etichetta": "vinimagliulo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, consultato il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/soc-agr-magliulo-srl.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

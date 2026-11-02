@@ -1,0 +1,50 @@
+{
+ "nome": "Ca' di sopra",
+ "slug": "ca-di-sopra",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Ca' di Sopra Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02146210394 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Feligara 15, 48013 Marzeno di Brisighella (RA) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cadisopra.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://cadisopra.com/|cadisopra.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://cadisopra.com/",
+   "etichetta": "cadisopra.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/ca-di-sopra/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

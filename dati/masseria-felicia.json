@@ -1,0 +1,36 @@
+{
+ "nome": "Masseria Felicia",
+ "slug": "masseria-felicia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Provinciale 104 - Loc. S. TE RENZANO, 81037 CARANO DI SESSA AURUNCA (CE) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 03269920611 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.masseriafelicia.it/|masseriafelicia.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/masseria-felicia.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

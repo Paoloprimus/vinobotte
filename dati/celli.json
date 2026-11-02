@@ -1,0 +1,54 @@
+{
+ "nome": "Celli",
+ "slug": "celli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Celli Srl [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00756170403 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Viale Carducci, 5, 47032 Bertinoro (FC) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 .0543.445183 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "celli@celli-vini.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.celli-vini.com/|celli-vini.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.celli-vini.com/",
+   "etichetta": "celli-vini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/celli/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

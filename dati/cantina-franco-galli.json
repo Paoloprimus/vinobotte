@@ -1,0 +1,50 @@
+{
+ "nome": "Cantina Franco Galli",
+ "slug": "cantina-franco-galli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03422410401 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Pianventena 681 47842, San Giovanni in Marignano (RN), 47842 San Giovanni in Marignano (RN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0541 955195 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinafrancogalli.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinafrancogalli.it/|cantinafrancogalli.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cantinafrancogalli.it/",
+   "etichetta": "cantinafrancogalli.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/cantina-franco-galli/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

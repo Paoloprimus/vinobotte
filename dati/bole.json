@@ -1,0 +1,46 @@
+{
+ "nome": "Bolé",
+ "slug": "bole",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Bolé S.r.l [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02595950391 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Convertite, 12, 48018 Faenza - (RA) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bolewine.com/it|bolewine.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.bolewine.com/it",
+   "etichetta": "bolewine.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/bole/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

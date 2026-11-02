@@ -1,0 +1,46 @@
+{
+ "nome": "Alpi Dell’Adamello Edolo",
+ "slug": "alpi-delladamello-edolo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Piazza Tassara, 3, 25043 Breno (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0364/324019 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "uff.agricoltura@cmvallecamonica.bs.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://saporidivallecamonica.it/|saporidivallecamonica.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio IGT Valcamonica [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://saporidivallecamonica.it/",
+   "etichetta": "saporidivallecamonica.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio IGT Valcamonica, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinivallecamonica.it/cantine/alpi-delladamello/",
+   "etichetta": "consorziovinivallecamonica.it"
+  }
+ ]
+}

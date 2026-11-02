@@ -1,0 +1,46 @@
+{
+ "nome": "Giovanni Almondo",
+ "slug": "giovanni-almondo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03799690049 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Rocco, 26, 12046 Montà (CN) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "almondo@giovannialmondo.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://giovannialmondo.com/|giovannialmondo.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://giovannialmondo.com/",
+   "etichetta": "giovannialmondo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/almondo/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

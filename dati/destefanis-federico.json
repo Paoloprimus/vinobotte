@@ -1,0 +1,42 @@
+{
+ "nome": "Destefanis Federico",
+ "slug": "destefanis-federico",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Corso Valpone 104, 12043 Canale (CN) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinadestefanis.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinadestefanis.com|cantinadestefanis.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cantinadestefanis.com",
+   "etichetta": "cantinadestefanis.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/destefanis-federico/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "nome": "De Záhony",
+ "slug": "de-zahony",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Piazza Pirano, 12 - Monastero di Aquileia, 33051 Aquileia (UD) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 043191037 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ritterdezahony.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ritterdezahony.it/|ritterdezahony.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Friuli Aquileia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.ritterdezahony.it/",
+   "etichetta": "ritterdezahony.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini DOC Friuli Aquileia, consultato il 2 novembre 2026.",
+   "url": "https://www.viniaquileia.it/i-soci/",
+   "etichetta": "viniaquileia.it"
+  }
+ ]
+}

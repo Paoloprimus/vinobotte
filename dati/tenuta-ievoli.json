@@ -1,0 +1,42 @@
+{
+ "nome": "Tenuta Ievoli",
+ "slug": "tenuta-ievoli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Monticelli, 19, 81010 Squille (CE) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutaievoli.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutaievoli.it/|tenutaievoli.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.tenutaievoli.it/",
+   "etichetta": "tenutaievoli.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, consultato il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/tenuta-ievoli.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

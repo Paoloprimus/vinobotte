@@ -1,0 +1,42 @@
+{
+ "nome": "Valle delle lepri",
+ "slug": "valle-delle-lepri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cà Righetti, 17, 47853 Coriano (RN) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@valledellelepri.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.valledellelepri.it/|valledellelepri.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.valledellelepri.it/",
+   "etichetta": "valledellelepri.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/valle-delle-lepri/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

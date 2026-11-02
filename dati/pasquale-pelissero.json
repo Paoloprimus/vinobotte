@@ -1,0 +1,46 @@
+{
+ "nome": "Pasquale Pelissero",
+ "slug": "pasquale-pelissero",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02924190040 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Cascina Crosa, 2, 12052 Neive (CN) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@pasqualepelissero.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://pasqualepelissero.com/|pasqualepelissero.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Alta Langa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://pasqualepelissero.com/",
+   "etichetta": "pasqualepelissero.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Alta Langa, consultato il 2 novembre 2026.",
+   "url": "https://www.altalangadocg.com/cantine/pasquale-pelissero/",
+   "etichetta": "altalangadocg.com"
+  }
+ ]
+}

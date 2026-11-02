@@ -1,0 +1,50 @@
+{
+ "nome": "Tenuta La Pergola",
+ "slug": "tenuta-la-pergola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01780170054 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località San Matteo, 14010 Cisterna d’Asti (AT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 .014.1979.260 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "infotenutalapergola@pec.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://tenutalapergola.it/|tenutalapergola.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://tenutalapergola.it/",
+   "etichetta": "tenutalapergola.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/tenuta-la-pergola/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

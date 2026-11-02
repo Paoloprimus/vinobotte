@@ -1,0 +1,50 @@
+{
+ "nome": "Tenuta Casali",
+ "slug": "tenuta-casali",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01530310406 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via della Liberazione 32, 47025 Mercato Saraceno (FC) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0547 690334 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutacasali.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://tenutacasali.it/|tenutacasali.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://tenutacasali.it/",
+   "etichetta": "tenutacasali.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/tenuta-casali/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

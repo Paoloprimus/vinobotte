@@ -1,0 +1,46 @@
+{
+ "nome": "Valle del Vento",
+ "slug": "valle-del-vento",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Strada San Colombano Dogheria 182, 47014 Meldola (FC) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 389 346 9795 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@valledelvento.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.valledelvento.it/|valledelvento.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.valledelvento.it/",
+   "etichetta": "valledelvento.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/valle-del-vento/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

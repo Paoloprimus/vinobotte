@@ -1,0 +1,46 @@
+{
+ "nome": "Porto di Mola",
+ "slug": "porto-di-mola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02845920616 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Risiera, snc, 81044 Galluccio (CE) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@portodimola.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://portodimola.it/|portodimola.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://portodimola.it/",
+   "etichetta": "portodimola.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, consultato il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/porto-di-mola.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

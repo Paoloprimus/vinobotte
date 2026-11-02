@@ -1,0 +1,40 @@
+{
+ "nome": "Tenuta Santa Monica di Matano Mario",
+ "slug": "tenuta-santa-monica-di-matano-mario",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Caiazzo 32, 81010 Castel Campagnano (CE) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 04357820614 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "mariomatano@libero.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutasantamonica.it/|tenutasantamonica.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/tenuta-santa-monica-di-matano-mario.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

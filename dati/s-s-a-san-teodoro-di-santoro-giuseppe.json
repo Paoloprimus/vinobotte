@@ -1,0 +1,42 @@
+{
+ "nome": "S.S.A. San Teodoro di Santoro Giuseppe",
+ "slug": "s-s-a-san-teodoro-di-santoro-giuseppe",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cavacone, 37-39-41 81054 – San Prisco (CE), 81054 San Prisco (CE) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "commerciale@agricolasanteodoro.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://agricolasanteodoro.it/|agricolasanteodoro.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://agricolasanteodoro.it/",
+   "etichetta": "agricolasanteodoro.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, consultato il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/s-s-a-san-teodoro-di-santoro-giuseppe.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "nome": "Tenuta Carretta",
+ "slug": "tenuta-carretta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03026490049 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Carretta, 2, 12040 Piobesi d'Alba (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 .0173.619119 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@terremiroglio.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutacarretta.it/|tenutacarretta.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Alta Langa [[2]]\nConsorzio di Tutela Roero [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.tenutacarretta.it/",
+   "etichetta": "tenutacarretta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Alta Langa, consultato il 2 novembre 2026.",
+   "url": "https://www.altalangadocg.com/cantine/tenuta-carretta/",
+   "etichetta": "altalangadocg.com"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/tenuta-carretta/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "nome": "I Borboni",
+ "slug": "i-borboni",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02300560618 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via E. de Nicola 7, 81030 Lusciano (CE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 02300560618 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@iborboni.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.iborboni.it/|iborboni.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.iborboni.it/",
+   "etichetta": "iborboni.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/i-borboni-srl.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

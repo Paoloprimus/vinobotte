@@ -1,0 +1,50 @@
+{
+ "nome": "Le Pignole",
+ "slug": "le-pignole",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03001640238 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Meucci, 87, 36040 Brendola (VI) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0444 212891 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "acquisti@lepignole.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://lepignole.it/it_it/|lepignole.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Colli Berici e Vicenza [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://lepignole.it/it_it/",
+   "etichetta": "lepignole.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Colli Berici e Vicenza, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  }
+ ]
+}

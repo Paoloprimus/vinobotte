@@ -1,0 +1,50 @@
+{
+ "nome": "Vigne Chigi",
+ "slug": "vigne-chigi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02470810611 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Corte Rosa, s.n.c, 81040 Pontelatone (CE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 338 6534128 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vignechigi.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vignechigi.com/it/|vignechigi.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.vignechigi.com/it/",
+   "etichetta": "vignechigi.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/az-ag-vigne-chigi-di-giuseppe-chillemi.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

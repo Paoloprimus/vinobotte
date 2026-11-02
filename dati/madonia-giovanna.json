@@ -1,0 +1,50 @@
+{
+ "nome": "Madonia Giovanna",
+ "slug": "madonia-giovanna",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04357080409 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via De’ Cappuccini 130, 47032 Bertinoro (FC) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0543 444361 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "giovanna@giovannamadonia.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://giovannamadonia.it/|giovannamadonia.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://giovannamadonia.it/",
+   "etichetta": "giovannamadonia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/madonia-giovanna/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

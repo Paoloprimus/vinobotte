@@ -1,0 +1,46 @@
+{
+ "nome": "Enio Ottaviani",
+ "slug": "enio-ottaviani",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Pian di Vaglia 17 - S. Andrea in Casale, 47832 San Clemente (RN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0541 952608 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "enio@enioottaviani.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.enioottaviani.it/en/|enioottaviani.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.enioottaviani.it/en/",
+   "etichetta": "enioottaviani.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/enio-ottaviani-soc-agr/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

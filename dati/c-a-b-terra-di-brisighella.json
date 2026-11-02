@@ -1,0 +1,50 @@
+{
+ "nome": "C.A.B. - Terra di Brisighella",
+ "slug": "c-a-b-terra-di-brisighella",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00082670399 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Strada 2, 48013 Brisighella (RA) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0546/81103 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "commerciale@brisighello.net [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.terradibrisighella.it/|terradibrisighella.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.terradibrisighella.it/",
+   "etichetta": "terradibrisighella.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/c-a-b-terra-di-brisighella/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

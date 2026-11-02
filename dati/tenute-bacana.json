@@ -1,0 +1,46 @@
+{
+ "nome": "Tenute Bacana",
+ "slug": "tenute-bacana",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02114630391 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Trieste, 100, 48013 Villa Vezzano (RA) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 339 598 8464 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://bacanawines.com/|bacanawines.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://bacanawines.com/",
+   "etichetta": "bacanawines.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/tenute-bacana/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

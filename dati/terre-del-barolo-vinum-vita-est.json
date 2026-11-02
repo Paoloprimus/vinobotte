@@ -1,0 +1,50 @@
+{
+ "nome": "Terre del Barolo – Vinum Vita Est",
+ "slug": "terre-del-barolo-vinum-vita-est",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00186030045 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Alba – Barolo n.8, 12060 Castiglione Falletto (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0173 262053 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "shop@terredelbarolo.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://terredelbarolo.com/|terredelbarolo.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Alta Langa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://terredelbarolo.com/",
+   "etichetta": "terredelbarolo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Alta Langa, consultato il 2 novembre 2026.",
+   "url": "https://www.altalangadocg.com/cantine/cantina-terre-del-barolo/",
+   "etichetta": "altalangadocg.com"
+  }
+ ]
+}

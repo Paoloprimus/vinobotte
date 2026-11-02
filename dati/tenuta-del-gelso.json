@@ -1,0 +1,46 @@
+{
+ "nome": "Tenuta del Gelso",
+ "slug": "tenuta-del-gelso",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta del Gelso Soc. Agr. S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04425570407 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Sodi di Bracciano, 821, 47032 Bertinoro (FC) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutadelgelso.it/|tenutadelgelso.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.tenutadelgelso.it/",
+   "etichetta": "tenutadelgelso.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/tenuta-del-gelso/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "nome": "Muraro 952",
+ "slug": "muraro-952",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02735690246 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Crosaron, 8, 36023 Longare (VI) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0444 555461 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@muraro-952.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.muraro-952.it/|muraro-952.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Colli Berici e Vicenza [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.muraro-952.it/",
+   "etichetta": "muraro-952.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Colli Berici e Vicenza, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  }
+ ]
+}

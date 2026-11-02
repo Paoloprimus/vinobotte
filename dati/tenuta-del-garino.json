@@ -1,0 +1,40 @@
+{
+ "nome": "Tenuta del Garino",
+ "slug": "tenuta-del-garino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Garino, 12060 Clavesana (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3283512804 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "tenutagarino@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutagarino.it/|tenutagarino.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Alta Langa [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Alta Langa, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.altalangadocg.com/cantine/tenuta-del-garino/",
+   "etichetta": "altalangadocg.com"
+  }
+ ]
+}

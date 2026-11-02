@@ -1,0 +1,50 @@
+{
+ "nome": "CENETAE Az.Agr. dell'Ist. Diocesano per il Sost.nto del Clero",
+ "slug": "cenetae-az-agr-dell-ist-diocesano-per-il-sost-nto-del-clero",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02142390265 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Jacopo Stella, 34, 31029 Vittorio Veneto (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0438 552043 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cenetae.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cenetae.it/|cenetae.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cenetae.it/",
+   "etichetta": "cenetae.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/cenetae/",
+   "etichetta": "prosecco.it"
+  }
+ ]
+}

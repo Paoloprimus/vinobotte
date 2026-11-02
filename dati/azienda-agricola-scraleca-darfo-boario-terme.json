@@ -1,0 +1,50 @@
+{
+ "nome": "Azienda Agricola Scraleca Darfo Boario Terme",
+ "slug": "azienda-agricola-scraleca-darfo-boario-terme",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Scalvinoni Romano e C. Snc [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03183160989 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Scraleca, 25040 Angolo Terme (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 338/82.62.085 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.scraleca.it|scraleca.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio IGT Valcamonica [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.scraleca.it",
+   "etichetta": "scraleca.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio IGT Valcamonica, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinivallecamonica.it/cantine/azienda-agricola-scraleca/",
+   "etichetta": "consorziovinivallecamonica.it"
+  }
+ ]
+}

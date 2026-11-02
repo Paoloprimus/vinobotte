@@ -1,0 +1,46 @@
+{
+ "nome": "Parol Vini",
+ "slug": "parol-vini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02437780246 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Casona,7, 36056 Tezze sul Brenta (VI) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@parolvini.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://parolvini.com/it|parolvini.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Volontario per la Tutela dei Vini Gambellara [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://parolvini.com/it",
+   "etichetta": "parolvini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Volontario per la Tutela dei Vini Gambellara, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/",
+   "etichetta": "consorziogambellara.com"
+  }
+ ]
+}

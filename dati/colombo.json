@@ -1,0 +1,50 @@
+{
+ "nome": "Colombo",
+ "slug": "colombo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01317970059 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Cascina Pastori Soc. agricola semplice Reg. Cafra 172/B, 14051 Bubbio (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39.0144.852807 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@colombovino.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://colombovino.it/|colombovino.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Alta Langa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://colombovino.it/",
+   "etichetta": "colombovino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Alta Langa, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.altalangadocg.com/cantine/colombo/",
+   "etichetta": "altalangadocg.com"
+  }
+ ]
+}

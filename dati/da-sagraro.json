@@ -1,0 +1,50 @@
+{
+ "nome": "da Sagraro",
+ "slug": "da-sagraro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03970540963 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Olivari, 1, 36024 Barbarano Mossano (VI) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 347/2907072 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "sagraro@inwind.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.libero.it/|libero.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Colli Berici e Vicenza [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.libero.it/",
+   "etichetta": "libero.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Colli Berici e Vicenza, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  }
+ ]
+}

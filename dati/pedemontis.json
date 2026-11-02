@@ -1,0 +1,42 @@
+{
+ "nome": "Pedemontis",
+ "slug": "pedemontis",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03683440048 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Riccardo Terzolo, 19, 12051 Alba (CN) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.pedemontis.it|pedemontis.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.pedemontis.it",
+   "etichetta": "pedemontis.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/pedemontis/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

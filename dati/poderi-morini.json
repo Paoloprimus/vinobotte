@@ -1,0 +1,46 @@
+{
+ "nome": "Poderi Morini",
+ "slug": "poderi-morini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Poderi Morini Soc. Agr. S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04468330404 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Viale Bologna, 412, 47122 Villanova di Forlì (FC) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.poderimorini.com/|poderimorini.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.poderimorini.com/",
+   "etichetta": "poderimorini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/morini-alessandro-azienda-agricola/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

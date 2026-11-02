@@ -1,0 +1,50 @@
+{
+ "nome": "Antica Cascina dei Conti di Roero",
+ "slug": "antica-cascina-dei-conti-di-roero",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03465530040 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Val Rubiagno, 2, 12040 Vezza d'Alba (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0173 65459 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@anticacascinacontidiroero.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://anticacascinacontidiroero.it|anticacascinacontidiroero.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://anticacascinacontidiroero.it",
+   "etichetta": "anticacascinacontidiroero.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/antica-cascina-dei-conti-di-roero/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

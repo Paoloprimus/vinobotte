@@ -1,0 +1,42 @@
+{
+ "nome": "Villa Sorbo",
+ "slug": "villa-sorbo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cinque Pietre, snc, 81044 Galluccio (CE) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@villasorbo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.villasorbo.it/|villasorbo.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.villasorbo.it/",
+   "etichetta": "villasorbo.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, consultato il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/villa-sorbo-di-sorbo-salvatore.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

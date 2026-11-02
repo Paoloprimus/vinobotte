@@ -1,0 +1,46 @@
+{
+ "nome": "Drei Donà - Tenuta la Palazza",
+ "slug": "drei-dona-tenuta-la-palazza",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03776820403 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via del Tesoro, 23 Massa di Vecchiazzano 47121 Forlì (FC), 47121 Forlì (FC) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "palazza@dreidona.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://dreidona.it/?v=cd32106bcb6d|dreidona.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://dreidona.it/?v=cd32106bcb6d",
+   "etichetta": "dreidona.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/drei-dona/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

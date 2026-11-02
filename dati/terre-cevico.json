@@ -1,0 +1,50 @@
+{
+ "nome": "Terre Cevico",
+ "slug": "terre-cevico",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00072240393 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fiumazzo 72, 48022 Lugo (RA) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0545 284711 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cevico@legalmail.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.terrecevico.com/|terrecevico.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.terrecevico.com/",
+   "etichetta": "terrecevico.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/ce-vi-co-soc-coop-agr/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

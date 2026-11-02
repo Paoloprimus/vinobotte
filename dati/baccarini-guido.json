@@ -1,0 +1,46 @@
+{
+ "nome": "Baccarini Guido",
+ "slug": "baccarini-guido",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Tebano 71, 48026 Faenza (RA) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3357191947 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@agricolabaccarini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://agricolabaccarini.it/|agricolabaccarini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://agricolabaccarini.it/",
+   "etichetta": "agricolabaccarini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/agricola-baccarini/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

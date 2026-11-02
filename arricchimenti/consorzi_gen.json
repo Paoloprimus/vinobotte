@@ -1,0 +1,2926 @@
+[
+ {
+  "key": "soave",
+  "consorzio": "Consorzio Tutela Vini Soave e Recioto di Soave",
+  "sito": "ilsoave.com",
+  "data": "2 novembre 2026",
+  "den": "Soave",
+  "schede": [
+   {
+    "slug": "alba",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/alba-2/"
+   },
+   {
+    "slug": "antica-corte",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/antica-corte-2/"
+   },
+   {
+    "slug": "avogaro",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/avogaro-2/"
+   },
+   {
+    "slug": "balestri-valda",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/balestri-valda/"
+   },
+   {
+    "slug": "benini-alessandro",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/benini-alessandro-2/"
+   },
+   {
+    "slug": "bernard",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/bernard-2/"
+   },
+   {
+    "slug": "bettili",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/bettili-2/"
+   },
+   {
+    "slug": "bolla",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/bolla/"
+   },
+   {
+    "slug": "bruno-tasoniero",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/bruno-tasoniero-2/"
+   },
+   {
+    "slug": "ca-frigo",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/ca-frigo-2/"
+   },
+   {
+    "slug": "ca-prearo",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/ca-prearo-2/"
+   },
+   {
+    "slug": "ca-rugate",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/ca-rugate-2/"
+   },
+   {
+    "slug": "cambrago-casa-vinicola",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/cambrago-casa-vinicola-2/"
+   },
+   {
+    "slug": "canoso",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/canoso/"
+   },
+   {
+    "slug": "cantina-danese",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/cantina-danese-2/"
+   },
+   {
+    "slug": "cantina-di-colognola-ai-colli",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/cantina-di-colognola-ai-colli-2/"
+   },
+   {
+    "slug": "cantina-di-gambellara",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/cantina-di-gambellara-2/"
+   },
+   {
+    "slug": "cantina-marti",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/cantina-marti-2/"
+   },
+   {
+    "slug": "cantina-martinelli",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/cantina-martinelli-2/"
+   },
+   {
+    "slug": "casa-vinicola-bennati",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/casa-vinicola-bennati-2/"
+   },
+   {
+    "slug": "casarotto",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/casarotto-2/"
+   },
+   {
+    "slug": "cavaggioni-lino",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/cavaggioni-lino-2/"
+   },
+   {
+    "slug": "coffele",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/coffele-2/"
+   },
+   {
+    "slug": "collis-veneto-wine-group",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/collis-veneto-wine-group-2/"
+   },
+   {
+    "slug": "corte-adami",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/corte-adami-2/"
+   },
+   {
+    "slug": "corte-canella",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/corte-canella-2/"
+   },
+   {
+    "slug": "corte-mainente",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/corte-mainente-2/"
+   },
+   {
+    "slug": "corte-moschina",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/corte-moschina-2/"
+   },
+   {
+    "slug": "el-vegro",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/el-vegro-2/"
+   },
+   {
+    "slug": "enoitalia",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/enoitalia-2/"
+   },
+   {
+    "slug": "equipe",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/equipe-2/"
+   },
+   {
+    "slug": "fasoli-gino",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/fasoli-gino-2/"
+   },
+   {
+    "slug": "fattori",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/fattori-2/"
+   },
+   {
+    "slug": "filippi-wines",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/filippi-wines-2/"
+   },
+   {
+    "slug": "fornaro",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/fornaro-2/"
+   },
+   {
+    "slug": "franchetto",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/franchetto-2/"
+   },
+   {
+    "slug": "fratelli-giuliari-vini",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/fratelli-giuliari-vini-2/"
+   },
+   {
+    "slug": "giannitessari",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/giannitessari/"
+   },
+   {
+    "slug": "graziano-pra",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/graziano-pra-2/"
+   },
+   {
+    "slug": "i-stefanini",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/i-stefanini-2/"
+   },
+   {
+    "slug": "inama",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/inama/"
+   },
+   {
+    "slug": "la-cappuccina",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/la-capuccina-2/"
+   },
+   {
+    "slug": "la-formica",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/la-formica-2/"
+   },
+   {
+    "slug": "lamberti",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/lamberti/"
+   },
+   {
+    "slug": "le-albare",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/le-albare-2/"
+   },
+   {
+    "slug": "le-battistelle",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/le-battistelle-2/"
+   },
+   {
+    "slug": "le-chiarelle",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/le-chiarelle-2/"
+   },
+   {
+    "slug": "le-mandolare",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/le-mandolare-2/"
+   },
+   {
+    "slug": "marcato-family",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/marcato-family-2/"
+   },
+   {
+    "slug": "marco-mosconi",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/marco-mosconi-2/"
+   },
+   {
+    "slug": "martinelli-gabriele",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/martinelli-gabriele-2/"
+   },
+   {
+    "slug": "mondello-wines",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/mondello-wines-2/"
+   },
+   {
+    "slug": "monte-tondo",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/montetondo-2/"
+   },
+   {
+    "slug": "montezan",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/montezan-2/"
+   },
+   {
+    "slug": "nardello",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/nardello-2/"
+   },
+   {
+    "slug": "pagani",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/pagani-2/"
+   },
+   {
+    "slug": "pelosato-alberto",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/pelosato-alberto-2/"
+   },
+   {
+    "slug": "pieropan",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/pieropan-2/"
+   },
+   {
+    "slug": "poia",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/poia-2/"
+   },
+   {
+    "slug": "portinari",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/portinari-2/"
+   },
+   {
+    "slug": "posenato-carlo-alberto",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/posenato-carlo-alberto-2/"
+   },
+   {
+    "slug": "quargentan",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/quargentan-2/"
+   },
+   {
+    "slug": "quargentan-david",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/quargentan-david-2/"
+   },
+   {
+    "slug": "rizzotto-spumanti",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/rizzotto-spumanti-2/"
+   },
+   {
+    "slug": "roccolo-grassi",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/roccolo-grassi-2/"
+   },
+   {
+    "slug": "roncolato-antonio",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/roncolato-antonio-2/"
+   },
+   {
+    "slug": "sandro-de-bruno",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/sandro-de-bruno-2/"
+   },
+   {
+    "slug": "santi",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/santi/"
+   },
+   {
+    "slug": "strele",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/strele-2/"
+   },
+   {
+    "slug": "suavia",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/suavia-2/"
+   },
+   {
+    "slug": "tamellini",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/tamellini-2/"
+   },
+   {
+    "slug": "tenuta-solar",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/tenuta-solar-2/"
+   },
+   {
+    "slug": "tessari",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/tessari-2/"
+   },
+   {
+    "slug": "tirapelle",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/tirapelle-2/"
+   },
+   {
+    "slug": "villa-canestrari",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/villa-canestrari-2/"
+   },
+   {
+    "slug": "villa-erbice",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/villa-erbice-2/"
+   },
+   {
+    "slug": "villa-mattielli",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/villa-mattielli/"
+   },
+   {
+    "slug": "vini-scic",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/vini-scic-2/"
+   },
+   {
+    "slug": "zambon-claudio",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/zambon-claudio-2/"
+   },
+   {
+    "slug": "antiche-terre-venete",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/antiche-terre-venete-2/"
+   },
+   {
+    "slug": "bianchi",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/bianchi-2/"
+   },
+   {
+    "slug": "biscardo-vini",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/biscardo-vini-2/"
+   },
+   {
+    "slug": "botter",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/botter-2/"
+   },
+   {
+    "slug": "brigaldara",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/brigaldara-2/"
+   },
+   {
+    "slug": "cantine-delibori",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/cantine-delibori-2/"
+   },
+   {
+    "slug": "cantine-lenotti",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/cantine-lenotti-2/"
+   },
+   {
+    "slug": "cantine-riondo",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/cantine-riondo-2/"
+   },
+   {
+    "slug": "casa-girelli",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/casa-girelli-2/"
+   },
+   {
+    "slug": "cesari",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/cesari-2/"
+   },
+   {
+    "slug": "cielo-e-terra",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/cielo-e-terra-2/"
+   },
+   {
+    "slug": "contri-spumanti",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/contri-spumanti-2/"
+   },
+   {
+    "slug": "corte-aleardi",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/corte-aleardi-2/"
+   },
+   {
+    "slug": "corte-allodola",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/corte-allodola-2/"
+   },
+   {
+    "slug": "cottini-1925",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/cottini-1925-2/"
+   },
+   {
+    "slug": "domus-vini",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/domus-vini-2/"
+   },
+   {
+    "slug": "guerrieri-rizzardi",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/guerrieri-rizzardi-2/"
+   },
+   {
+    "slug": "i-campi",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/i-campi-2/"
+   },
+   {
+    "slug": "icaro",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/icaro-2/"
+   },
+   {
+    "slug": "masi",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/masi-2/"
+   },
+   {
+    "slug": "massimago",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/massimago-2/"
+   },
+   {
+    "slug": "monte-del-fra",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/monte-del-fra-2/"
+   },
+   {
+    "slug": "montecrocetta",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/montecrocetta-2/"
+   },
+   {
+    "slug": "poggi-giorgio",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/poggi-giorgio-2/"
+   },
+   {
+    "slug": "santa-sofia",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/santa-sofia-2/"
+   },
+   {
+    "slug": "sartori",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/sartori-2/"
+   },
+   {
+    "slug": "schenk-italia",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/schenk-italia-2/"
+   },
+   {
+    "slug": "tenute-piccini",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/tenute-piccini-2/"
+   },
+   {
+    "slug": "tinazzi",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/tinazzi-2/"
+   },
+   {
+    "slug": "tommasi-viticoltori",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/tommasi-viticoltori/"
+   },
+   {
+    "slug": "zenato",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/zenato-2/"
+   },
+   {
+    "slug": "zonin",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/zonin-2/"
+   },
+   {
+    "slug": "gini",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/gini-viticoltori-2/"
+   },
+   {
+    "slug": "ilatium-morini",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/latium-2/"
+   },
+   {
+    "slug": "barbi",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/caldirola-2/"
+   },
+   {
+    "slug": "montresor",
+    "url": "https://www.ilsoave.com/produttori-soave/listing/montresor-heritage-2/"
+   }
+  ]
+ },
+ {
+  "key": "trentino",
+  "consorzio": "Consorzio Tutela Vini del Trentino",
+  "sito": "vinideltrentino.com",
+  "data": "2 novembre 2026",
+  "den": "Trentino",
+  "schede": [
+   {
+    "slug": "cantina-sociale-di-ala",
+    "url": "https://www.winetrentino.it/azienda/cantina-sociale-di-ala/"
+   },
+   {
+    "slug": "cavit",
+    "url": "https://www.winetrentino.it/azienda/cavit/"
+   },
+   {
+    "slug": "nosio",
+    "url": "https://www.winetrentino.it/azienda/nosio/"
+   },
+   {
+    "slug": "santa-margherita",
+    "url": "https://www.winetrentino.it/azienda/santa-margherita/"
+   }
+  ]
+ },
+ {
+  "key": "conegliano",
+  "consorzio": "Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG",
+  "sito": "prosecco.it",
+  "data": "2 novembre 2026",
+  "den": "Conegliano Valdobbiadene Prosecco Superiore",
+  "schede": [
+   {
+    "slug": "adami",
+    "url": "https://www.prosecco.it/it/scheda-cantina/adami/"
+   },
+   {
+    "slug": "adamo-canel",
+    "url": "https://www.prosecco.it/it/scheda-cantina/adamo-canel/"
+   },
+   {
+    "slug": "ai-rore",
+    "url": "https://www.prosecco.it/it/scheda-cantina/ai-rore/"
+   },
+   {
+    "slug": "andrea-da-ponte",
+    "url": "https://www.prosecco.it/it/scheda-cantina/andrea-da-ponte/"
+   },
+   {
+    "slug": "azienda-agricola-gallina-sergio",
+    "url": "https://www.prosecco.it/it/scheda-cantina/azienda-agricola-gallina-sergio/"
+   },
+   {
+    "slug": "azienda-agricola-simoni-diego",
+    "url": "https://www.prosecco.it/it/scheda-cantina/azienda-agricola-simoni-diego/"
+   },
+   {
+    "slug": "azienda-vinicola-collodel-paola",
+    "url": "https://www.prosecco.it/it/scheda-cantina/azienda-vinicola-collodel-paola/"
+   },
+   {
+    "slug": "baldi",
+    "url": "https://www.prosecco.it/it/scheda-cantina/baldi-2/"
+   },
+   {
+    "slug": "ballianei-az-agr",
+    "url": "https://www.prosecco.it/it/scheda-cantina/ballianei-az-agr/"
+   },
+   {
+    "slug": "bellenda",
+    "url": "https://www.prosecco.it/it/scheda-cantina/bellenda/"
+   },
+   {
+    "slug": "biancavigna",
+    "url": "https://www.prosecco.it/it/scheda-cantina/biancavigna/"
+   },
+   {
+    "slug": "bisol-1542",
+    "url": "https://www.prosecco.it/it/scheda-cantina/bisol/"
+   },
+   {
+    "slug": "borgo-antico",
+    "url": "https://www.prosecco.it/it/scheda-cantina/borgo-antico/"
+   },
+   {
+    "slug": "borgo-col-vini",
+    "url": "https://www.prosecco.it/it/scheda-cantina/borgo-col-vini/"
+   },
+   {
+    "slug": "borgoluce",
+    "url": "https://www.prosecco.it/it/scheda-cantina/borgoluce/"
+   },
+   {
+    "slug": "bortolin-angelo-spumanti",
+    "url": "https://www.prosecco.it/it/scheda-cantina/bortolin-angelo-spumanti/"
+   },
+   {
+    "slug": "bortolin-f-lli",
+    "url": "https://www.prosecco.it/it/scheda-cantina/bortolin-f-lli/"
+   },
+   {
+    "slug": "bortoluz-pierina",
+    "url": "https://www.prosecco.it/it/scheda-cantina/bortoluz-pierina/"
+   },
+   {
+    "slug": "ca-dal-molin",
+    "url": "https://www.prosecco.it/it/scheda-cantina/ca-dal-molin-2/"
+   },
+   {
+    "slug": "ca-di-rajo",
+    "url": "https://www.prosecco.it/it/scheda-cantina/ca-di-rajo/"
+   },
+   {
+    "slug": "ca-salina",
+    "url": "https://www.prosecco.it/it/scheda-cantina/ca-salina/"
+   },
+   {
+    "slug": "ca-vittoria",
+    "url": "https://www.prosecco.it/it/scheda-cantina/ca-vittoria/"
+   },
+   {
+    "slug": "canevel-spumanti",
+    "url": "https://www.prosecco.it/it/scheda-cantina/canevel-spumanti/"
+   },
+   {
+    "slug": "cantina-bernardi",
+    "url": "https://www.prosecco.it/it/scheda-cantina/cantina-bernardi/"
+   },
+   {
+    "slug": "cantina-colli-del-soligo",
+    "url": "https://www.prosecco.it/it/scheda-cantina/cantina-colli-del-soligo/"
+   },
+   {
+    "slug": "cantina-pietrovecchio",
+    "url": "https://www.prosecco.it/it/scheda-cantina/cantina-pietrovecchio/"
+   },
+   {
+    "slug": "cantina-ponte-vecchio",
+    "url": "https://www.prosecco.it/it/scheda-cantina/cantina-ponte-vecchio/"
+   },
+   {
+    "slug": "cantine-maschio",
+    "url": "https://www.prosecco.it/it/scheda-cantina/cantine-maschio/"
+   },
+   {
+    "slug": "carmina",
+    "url": "https://www.prosecco.it/it/scheda-cantina/carmina/"
+   },
+   {
+    "slug": "casa-terriera",
+    "url": "https://www.prosecco.it/it/scheda-cantina/casa-terriera/"
+   },
+   {
+    "slug": "ceotto-vini",
+    "url": "https://www.prosecco.it/it/scheda-cantina/ceotto-vini/"
+   },
+   {
+    "slug": "col-del-lupo",
+    "url": "https://www.prosecco.it/it/scheda-cantina/col-del-lupo/"
+   },
+   {
+    "slug": "col-miotin",
+    "url": "https://www.prosecco.it/it/scheda-cantina/col-miotin/"
+   },
+   {
+    "slug": "col-sandago",
+    "url": "https://www.prosecco.it/it/scheda-cantina/col-sandago/"
+   },
+   {
+    "slug": "colesel",
+    "url": "https://www.prosecco.it/it/scheda-cantina/colesel/"
+   },
+   {
+    "slug": "colvendra",
+    "url": "https://www.prosecco.it/it/scheda-cantina/colvendra/"
+   },
+   {
+    "slug": "conte-collalto",
+    "url": "https://www.prosecco.it/it/scheda-cantina/conte-collalto/"
+   },
+   {
+    "slug": "conte-loredan-gasparini",
+    "url": "https://www.prosecco.it/it/scheda-cantina/conte-loredan-gasparini/"
+   },
+   {
+    "slug": "corazzin",
+    "url": "https://www.prosecco.it/it/scheda-cantina/corazzin/"
+   },
+   {
+    "slug": "de-faveri-spumanti",
+    "url": "https://www.prosecco.it/it/scheda-cantina/de-faveri-spumanti/"
+   },
+   {
+    "slug": "dea-rivalta",
+    "url": "https://www.prosecco.it/it/scheda-cantina/dea-rivalta/"
+   },
+   {
+    "slug": "domus-picta",
+    "url": "https://www.prosecco.it/it/scheda-cantina/domus-picta/"
+   },
+   {
+    "slug": "duca-di-dolle",
+    "url": "https://www.prosecco.it/it/scheda-cantina/duca-di-dolle/"
+   },
+   {
+    "slug": "foss-marai",
+    "url": "https://www.prosecco.it/it/scheda-cantina/foss-marai/"
+   },
+   {
+    "slug": "fratelli-gatto-cavalier",
+    "url": "https://www.prosecco.it/it/scheda-cantina/fratelli-gatto-cavalier/"
+   },
+   {
+    "slug": "furlan",
+    "url": "https://www.prosecco.it/it/scheda-cantina/furlan/"
+   },
+   {
+    "slug": "gabe-tenute",
+    "url": "https://www.prosecco.it/it/scheda-cantina/gabe-tenute/"
+   },
+   {
+    "slug": "gallina-claudio",
+    "url": "https://www.prosecco.it/it/scheda-cantina/gallina-claudio/"
+   },
+   {
+    "slug": "gallina-loris-az-agr",
+    "url": "https://www.prosecco.it/it/scheda-cantina/gallina-loris-az-agr/"
+   },
+   {
+    "slug": "guia",
+    "url": "https://www.prosecco.it/it/scheda-cantina/guia/"
+   },
+   {
+    "slug": "il-follo",
+    "url": "https://www.prosecco.it/it/scheda-cantina/il-follo/"
+   },
+   {
+    "slug": "la-casa-vecchia",
+    "url": "https://www.prosecco.it/it/scheda-cantina/la-casa-vecchia/"
+   },
+   {
+    "slug": "la-farra",
+    "url": "https://www.prosecco.it/it/scheda-cantina/la-farra/"
+   },
+   {
+    "slug": "la-gioiosa",
+    "url": "https://www.prosecco.it/it/scheda-cantina/la-gioiosa/"
+   },
+   {
+    "slug": "riva-dei-frati",
+    "url": "https://www.prosecco.it/it/scheda-cantina/la-riva-dei-frati/"
+   },
+   {
+    "slug": "la-vigna-di-sarah",
+    "url": "https://www.prosecco.it/it/scheda-cantina/la-vigna-di-sarah/"
+   },
+   {
+    "slug": "l-antica-quercia",
+    "url": "https://www.prosecco.it/it/scheda-cantina/lantica-quercia/"
+   },
+   {
+    "slug": "le-contesse",
+    "url": "https://www.prosecco.it/it/scheda-cantina/le-contesse/"
+   },
+   {
+    "slug": "le-manzane",
+    "url": "https://www.prosecco.it/it/scheda-cantina/le-manzane/"
+   },
+   {
+    "slug": "le-vigne-di-alice",
+    "url": "https://www.prosecco.it/it/scheda-cantina/le-vigne-di-alice/"
+   },
+   {
+    "slug": "maccari",
+    "url": "https://www.prosecco.it/it/scheda-cantina/maccari/"
+   },
+   {
+    "slug": "malibran",
+    "url": "https://www.prosecco.it/it/scheda-cantina/malibran/"
+   },
+   {
+    "slug": "mani-sagge",
+    "url": "https://www.prosecco.it/it/scheda-cantina/mani-sagge/"
+   },
+   {
+    "slug": "marchiori",
+    "url": "https://www.prosecco.it/it/scheda-cantina/marchiori/"
+   },
+   {
+    "slug": "marsuret",
+    "url": "https://www.prosecco.it/it/scheda-cantina/marsuret/"
+   },
+   {
+    "slug": "masottina",
+    "url": "https://www.prosecco.it/it/scheda-cantina/masottina/"
+   },
+   {
+    "slug": "mass-bianchet",
+    "url": "https://www.prosecco.it/it/scheda-cantina/mass-bianchet/"
+   },
+   {
+    "slug": "mionetto",
+    "url": "https://www.prosecco.it/it/scheda-cantina/mionetto/"
+   },
+   {
+    "slug": "mongarda",
+    "url": "https://www.prosecco.it/it/scheda-cantina/mongarda/"
+   },
+   {
+    "slug": "moret-vini",
+    "url": "https://www.prosecco.it/it/scheda-cantina/moret-vini/"
+   },
+   {
+    "slug": "nani-martin",
+    "url": "https://www.prosecco.it/it/scheda-cantina/nani-martin/"
+   },
+   {
+    "slug": "nani-rizzi",
+    "url": "https://www.prosecco.it/it/scheda-cantina/nani-rizzi/"
+   },
+   {
+    "slug": "perlage",
+    "url": "https://www.prosecco.it/it/scheda-cantina/perlage/"
+   },
+   {
+    "slug": "piccolin-fabio",
+    "url": "https://www.prosecco.it/it/scheda-cantina/piccolin-fabio/"
+   },
+   {
+    "slug": "cantina-progettidivini",
+    "url": "https://www.prosecco.it/it/scheda-cantina/progettidivini/"
+   },
+   {
+    "slug": "rebuli-renzo",
+    "url": "https://www.prosecco.it/it/scheda-cantina/rebuli-renzo/"
+   },
+   {
+    "slug": "reggia-leone",
+    "url": "https://www.prosecco.it/it/scheda-cantina/reggia-leone/"
+   },
+   {
+    "slug": "rive-della-chiesa",
+    "url": "https://www.prosecco.it/it/scheda-cantina/rive-della-chiesa/"
+   },
+   {
+    "slug": "ronfini-leonardo",
+    "url": "https://www.prosecco.it/it/scheda-cantina/ronfini-leonardo/"
+   },
+   {
+    "slug": "ruge",
+    "url": "https://www.prosecco.it/it/scheda-cantina/ruge/"
+   },
+   {
+    "slug": "ruggeri",
+    "url": "https://www.prosecco.it/it/scheda-cantina/ruggeri/"
+   },
+   {
+    "slug": "salatin",
+    "url": "https://www.prosecco.it/it/scheda-cantina/salatin-vini/"
+   },
+   {
+    "slug": "sandrin",
+    "url": "https://www.prosecco.it/it/scheda-cantina/sandrin-az-agr/"
+   },
+   {
+    "slug": "santa-eurosia",
+    "url": "https://www.prosecco.it/it/scheda-cantina/santa-eurosia/"
+   },
+   {
+    "slug": "santa-margherita",
+    "url": "https://www.prosecco.it/it/scheda-cantina/santa-margherita/"
+   },
+   {
+    "slug": "santantoni",
+    "url": "https://www.prosecco.it/it/scheda-cantina/santantoni/"
+   },
+   {
+    "slug": "scuola-enologica-g-b-cerletti",
+    "url": "https://www.prosecco.it/it/scheda-cantina/scuola-enologica/"
+   },
+   {
+    "slug": "serena-wines-1881",
+    "url": "https://www.prosecco.it/it/scheda-cantina/vinicola-serena/"
+   },
+   {
+    "slug": "societa-agricola-diotisalvi",
+    "url": "https://www.prosecco.it/it/scheda-cantina/societa-agricola-diotisalvi/"
+   },
+   {
+    "slug": "sorelle-bronca",
+    "url": "https://www.prosecco.it/it/scheda-cantina/sorelle-bronca/"
+   },
+   {
+    "slug": "stramare-mario",
+    "url": "https://www.prosecco.it/it/scheda-cantina/stramare-mario/"
+   },
+   {
+    "slug": "sui-nui-spumanti",
+    "url": "https://www.prosecco.it/it/scheda-cantina/sui-nui-spumanti-srl/"
+   },
+   {
+    "slug": "tanore",
+    "url": "https://www.prosecco.it/it/scheda-cantina/tanore/"
+   },
+   {
+    "slug": "tenuta-degli-ultimi",
+    "url": "https://www.prosecco.it/it/scheda-cantina/tenuta-degli-ultimi/"
+   },
+   {
+    "slug": "tenuta-guardian",
+    "url": "https://www.prosecco.it/it/scheda-cantina/tenuta-guardian/"
+   },
+   {
+    "slug": "tenuta-ninemore",
+    "url": "https://www.prosecco.it/it/scheda-cantina/tenuta-ninemore/"
+   },
+   {
+    "slug": "tenuta-zago-gasparini",
+    "url": "https://www.prosecco.it/it/scheda-cantina/tenuta-zago-gasparini/"
+   },
+   {
+    "slug": "terre-boscaratto",
+    "url": "https://www.prosecco.it/it/scheda-cantina/terre-boscaratto/"
+   },
+   {
+    "slug": "terre-del-cima",
+    "url": "https://www.prosecco.it/it/scheda-cantina/terre-del-cima/"
+   },
+   {
+    "slug": "terre-di-san-venanzio",
+    "url": "https://www.prosecco.it/it/scheda-cantina/terre-di-san-venanzio/"
+   },
+   {
+    "slug": "uve-vettoretti",
+    "url": "https://www.prosecco.it/it/scheda-cantina/uve-vettoretti/"
+   },
+   {
+    "slug": "val-de-cune",
+    "url": "https://www.prosecco.it/it/scheda-cantina/val-de-cune/"
+   },
+   {
+    "slug": "val-d-oca",
+    "url": "https://www.prosecco.it/it/scheda-cantina/val-doca/"
+   },
+   {
+    "slug": "valandre",
+    "url": "https://www.prosecco.it/it/scheda-cantina/valandre/"
+   },
+   {
+    "slug": "valter-agostinetto",
+    "url": "https://www.prosecco.it/it/scheda-cantina/valter-agostinetto/"
+   },
+   {
+    "slug": "valternette",
+    "url": "https://www.prosecco.it/it/scheda-cantina/valternette/"
+   },
+   {
+    "slug": "vigne-savie",
+    "url": "https://www.prosecco.it/it/scheda-cantina/vigne-savie/"
+   },
+   {
+    "slug": "villa-clementina",
+    "url": "https://www.prosecco.it/it/scheda-cantina/villa-clementina/"
+   },
+   {
+    "slug": "villa-sandi",
+    "url": "https://www.prosecco.it/it/scheda-cantina/villa-sandi/"
+   },
+   {
+    "slug": "la-marca",
+    "url": "https://www.prosecco.it/it/scheda-cantina/la-marca/"
+   },
+   {
+    "slug": "teruz",
+    "url": "https://www.prosecco.it/it/scheda-cantina/teruz/"
+   }
+  ]
+ },
+ {
+  "key": "alta-langa",
+  "consorzio": "Consorzio Alta Langa",
+  "sito": "altalangadocg.com",
+  "data": "2 novembre 2026",
+  "den": "Alta Langa",
+  "schede": [
+   {
+    "slug": "beppe-marino",
+    "url": "https://www.altalangadocg.com/cantine/beppe-marino/"
+   },
+   {
+    "slug": "bosca",
+    "url": "https://www.altalangadocg.com/cantine/bosca/"
+   },
+   {
+    "slug": "coppo",
+    "url": "https://www.altalangadocg.com/cantine/coppo/"
+   },
+   {
+    "slug": "cuvage",
+    "url": "https://www.altalangadocg.com/cantine/cuvage/"
+   },
+   {
+    "slug": "enrico-serafino",
+    "url": "https://www.altalangadocg.com/cantine/enrico-serafino/"
+   },
+   {
+    "slug": "fratelli-grimaldi",
+    "url": "https://www.altalangadocg.com/cantine/ca-du-sindic/"
+   },
+   {
+    "slug": "pianbello",
+    "url": "https://www.altalangadocg.com/cantine/pianbello/"
+   },
+   {
+    "slug": "tosti1820",
+    "url": "https://www.altalangadocg.com/cantine/tosti/"
+   },
+   {
+    "slug": "vallebelbo",
+    "url": "https://www.altalangadocg.com/cantine/vallebelbo/"
+   },
+   {
+    "slug": "vite-colte",
+    "url": "https://www.altalangadocg.com/cantine/vite-colte/"
+   },
+   {
+    "slug": "araldica-vini-boutinot-international",
+    "url": "https://www.altalangadocg.com/cantine/araldica/"
+   },
+   {
+    "slug": "bera-di-bera-valter-az-agricola",
+    "url": "https://www.altalangadocg.com/cantine/bera-valter/"
+   },
+   {
+    "slug": "giulio-cocchi-spumanti",
+    "url": "https://www.altalangadocg.com/cantine/giulio-cocchi/"
+   },
+   {
+    "slug": "lhv-s-r-l-ag",
+    "url": "https://www.altalangadocg.com/cantine/avezza-paolo/"
+   }
+  ]
+ },
+ {
+  "key": "roero",
+  "consorzio": "Consorzio di Tutela Roero",
+  "sito": "consorziodelroero.it",
+  "data": "2 novembre 2026",
+  "den": "Roero",
+  "schede": [
+   {
+    "slug": "bersano-vini",
+    "url": "https://www.consorziodelroero.it/produttori/bersano-vini/"
+   },
+   {
+    "slug": "bosio-family-estates",
+    "url": "https://www.consorziodelroero.it/produttori/bosio-family-estates/"
+   },
+   {
+    "slug": "enrico-serafino",
+    "url": "https://www.consorziodelroero.it/produttori/enrico-serafino/"
+   },
+   {
+    "slug": "vite-colte",
+    "url": "https://www.consorziodelroero.it/produttori/vite-colte/"
+   },
+   {
+    "slug": "cuvage",
+    "url": "https://www.consorziodelroero.it/produttori/ricossa/"
+   },
+   {
+    "slug": "araldica-vini-boutinot-international",
+    "url": "https://www.consorziodelroero.it/produttori/araldica-castelvero/"
+   },
+   {
+    "slug": "matteo-correggia",
+    "url": "https://www.consorziodelroero.it/produttori/matteo-correggia/"
+   },
+   {
+    "slug": "tenuta-carretta",
+    "url": "https://www.consorziodelroero.it/produttori/tenuta-carretta/"
+   }
+  ]
+ },
+ {
+  "key": "friuli-grave",
+  "consorzio": "Consorzio Tutela Vini DOC Friuli Grave",
+  "sito": "docfriuligrave.com",
+  "data": "2 novembre 2026",
+  "den": "Friuli Grave",
+  "schede": [
+   {
+    "slug": "albino-armani",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_ALBINO%20ARMANI.html"
+   },
+   {
+    "slug": "arcania",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_CASTELLO%20DI%20ARCANO.html"
+   },
+   {
+    "slug": "azzano",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_AZZANO.html"
+   },
+   {
+    "slug": "bianchi",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_BIANCHI.html"
+   },
+   {
+    "slug": "bollacasa-screm",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_BOLLACASA.html"
+   },
+   {
+    "slug": "borgo-veritas",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_BORGOVERITAS.html"
+   },
+   {
+    "slug": "bosco-albano",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_TENUTA%20ALBANO.html"
+   },
+   {
+    "slug": "botter",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_BOTTER.html"
+   },
+   {
+    "slug": "ca-de-mocenigo",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_CA%20DE%20MOCENIGO.html"
+   },
+   {
+    "slug": "cantina-rauscedo",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_RAUSCEDO.html"
+   },
+   {
+    "slug": "casula",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_CASULA.html"
+   },
+   {
+    "slug": "del-poggio",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_POGGIO.html"
+   },
+   {
+    "slug": "driutti",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_DRIUTTI.html"
+   },
+   {
+    "slug": "ferrin",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_FERRIN.html"
+   },
+   {
+    "slug": "fossa-mala",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_FOSSA%20MALA.html"
+   },
+   {
+    "slug": "gelisi",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_GELISI.html"
+   },
+   {
+    "slug": "i-magredi",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_I%20MAGREDI.html"
+   },
+   {
+    "slug": "le-due-torri",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_LE%20DUE%20TORRI.html"
+   },
+   {
+    "slug": "pighin",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_PIGHIN.html"
+   },
+   {
+    "slug": "pitars",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_PITARS.html"
+   },
+   {
+    "slug": "quinta-della-luna",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_QUINTA%20DELLA%20LUNA.html"
+   },
+   {
+    "slug": "rapais",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_RAPAIS.html"
+   },
+   {
+    "slug": "san-simone",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_SAN%20SIMONE.html"
+   },
+   {
+    "slug": "sbaiz",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_SBAIZ.html"
+   },
+   {
+    "slug": "stocco",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_STOCCO.html"
+   },
+   {
+    "slug": "tenuta-fernanda-cappello",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_FERNANDA%20CAPPELLO.html"
+   },
+   {
+    "slug": "terre-rosse",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_TERRE%20ROSSE.html"
+   },
+   {
+    "slug": "vendrame-vignis-del-doge",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_VENDRAME.html"
+   },
+   {
+    "slug": "vignaioli-veneto-friulani",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_VIGNAIOLI.html"
+   },
+   {
+    "slug": "cabert",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_CABERT.html"
+   },
+   {
+    "slug": "arcadia",
+    "url": "https://www.docfriuligrave.com/cantine/cantina_VIGNETI%20LE%20MONDE.html"
+   }
+  ]
+ },
+ {
+  "key": "friuli-doc",
+  "consorzio": "Consorzio Tutela Vini Friuli Venezia Giulia",
+  "sito": "docfriuli.eu",
+  "data": "2 novembre 2026",
+  "den": "Friuli",
+  "schede": [
+   {
+    "slug": "albino-armani",
+    "url": "https://www.docfriuli.eu/aziende/albino-armani/"
+   },
+   {
+    "slug": "antonutti",
+    "url": "https://www.docfriuli.eu/aziende/antonutti/"
+   },
+   {
+    "slug": "attems",
+    "url": "https://www.docfriuli.eu/aziende/attems/"
+   },
+   {
+    "slug": "baccichetto-vittorino",
+    "url": "https://www.docfriuli.eu/aziende/baccichetto-vittorino/"
+   },
+   {
+    "slug": "bagnarol-franco",
+    "url": "https://www.docfriuli.eu/aziende/bagnarol-franco/"
+   },
+   {
+    "slug": "bernava",
+    "url": "https://www.docfriuli.eu/aziende/bernava/"
+   },
+   {
+    "slug": "bollacasa-screm",
+    "url": "https://www.docfriuli.eu/aziende/bollacasa-screm/"
+   },
+   {
+    "slug": "bosco-albano",
+    "url": "https://www.docfriuli.eu/aziende/bosco-albano/"
+   },
+   {
+    "slug": "bosco-del-merlo",
+    "url": "https://www.docfriuli.eu/aziende/bosco-del-merlo/"
+   },
+   {
+    "slug": "buffon-1976",
+    "url": "https://www.docfriuli.eu/aziende/buffon-1976/"
+   },
+   {
+    "slug": "ca-bolani",
+    "url": "https://www.docfriuli.eu/aziende/ca-bolani/"
+   },
+   {
+    "slug": "ca-di-volpe",
+    "url": "https://www.docfriuli.eu/aziende/ca-di-volpe/"
+   },
+   {
+    "slug": "ca-selva",
+    "url": "https://www.docfriuli.eu/aziende/ca-selva/"
+   },
+   {
+    "slug": "cabert",
+    "url": "https://www.docfriuli.eu/aziende/cabert/"
+   },
+   {
+    "slug": "cantina-produttori-cormons",
+    "url": "https://www.docfriuli.eu/aziende/cantina-produttori-cormons/"
+   },
+   {
+    "slug": "cantina-produttori-di-ramuscello-e-san-vito",
+    "url": "https://www.docfriuli.eu/aziende/cantina-produttori-di-ramuscello-e-san-vito/"
+   },
+   {
+    "slug": "cantina-rauscedo",
+    "url": "https://www.docfriuli.eu/aziende/cantina-rauscedo/"
+   },
+   {
+    "slug": "casali-aurelia",
+    "url": "https://www.docfriuli.eu/aziende/casali-aurelia/"
+   },
+   {
+    "slug": "bertoia-cesare",
+    "url": "https://www.docfriuli.eu/aziende/bertoia-cesare/"
+   },
+   {
+    "slug": "cason",
+    "url": "https://www.docfriuli.eu/aziende/cason/"
+   },
+   {
+    "slug": "cescon-italo",
+    "url": "https://www.docfriuli.eu/aziende/cescon-italo/"
+   },
+   {
+    "slug": "colutta-giorgio",
+    "url": "https://www.docfriuli.eu/aziende/colutta-giorgio/"
+   },
+   {
+    "slug": "de-lorenzi",
+    "url": "https://www.docfriuli.eu/aziende/de-lorenzi/"
+   },
+   {
+    "slug": "de-munari",
+    "url": "https://www.docfriuli.eu/aziende/de-munari/"
+   },
+   {
+    "slug": "de-puppi",
+    "url": "https://www.docfriuli.eu/aziende/de-puppi/"
+   },
+   {
+    "slug": "del-poggio",
+    "url": "https://www.docfriuli.eu/aziende/del-poggio/"
+   },
+   {
+    "slug": "della-valentina",
+    "url": "https://www.docfriuli.eu/aziende/della-valentina/"
+   },
+   {
+    "slug": "di-lenardo",
+    "url": "https://www.docfriuli.eu/aziende/di-lenardo/"
+   },
+   {
+    "slug": "eliso",
+    "url": "https://www.docfriuli.eu/aziende/eliso/"
+   },
+   {
+    "slug": "esedra",
+    "url": "https://www.docfriuli.eu/aziende/esedra/"
+   },
+   {
+    "slug": "eudora",
+    "url": "https://www.docfriuli.eu/aziende/eudora/"
+   },
+   {
+    "slug": "fantinel",
+    "url": "https://www.docfriuli.eu/aziende/fantinel/"
+   },
+   {
+    "slug": "forchir",
+    "url": "https://www.docfriuli.eu/aziende/forchir/"
+   },
+   {
+    "slug": "giavedoni-stroili",
+    "url": "https://www.docfriuli.eu/aziende/giavedoni-stroili/"
+   },
+   {
+    "slug": "gigante",
+    "url": "https://www.docfriuli.eu/aziende/gigante/"
+   },
+   {
+    "slug": "grossutti",
+    "url": "https://www.docfriuli.eu/aziende/grossutti/"
+   },
+   {
+    "slug": "i-magredi",
+    "url": "https://www.docfriuli.eu/aziende/i-magredi/"
+   },
+   {
+    "slug": "isola-augusta",
+    "url": "https://www.docfriuli.eu/aziende/isola-augusta/"
+   },
+   {
+    "slug": "jermann",
+    "url": "https://www.docfriuli.eu/aziende/jermann/"
+   },
+   {
+    "slug": "kurtin",
+    "url": "https://www.docfriuli.eu/aziende/kurtin/"
+   },
+   {
+    "slug": "la-fervida",
+    "url": "https://www.docfriuli.eu/aziende/la-fervida/"
+   },
+   {
+    "slug": "la-noiosa",
+    "url": "https://www.docfriuli.eu/aziende/la-noiosa/"
+   },
+   {
+    "slug": "la-sclusa",
+    "url": "https://www.docfriuli.eu/aziende/la-sclusa/"
+   },
+   {
+    "slug": "la-selce",
+    "url": "https://www.docfriuli.eu/aziende/la-selce/"
+   },
+   {
+    "slug": "le-tenute-del-leone-alato",
+    "url": "https://www.docfriuli.eu/aziende/le-tenute-del-leone-alato/"
+   },
+   {
+    "slug": "lea",
+    "url": "https://www.docfriuli.eu/aziende/lea/"
+   },
+   {
+    "slug": "levorato",
+    "url": "https://www.docfriuli.eu/aziende/levorato/"
+   },
+   {
+    "slug": "lorenzonetto",
+    "url": "https://www.docfriuli.eu/aziende/lorenzonetto/"
+   },
+   {
+    "slug": "marina",
+    "url": "https://www.docfriuli.eu/aziende/marina/"
+   },
+   {
+    "slug": "martellozzo",
+    "url": "https://www.docfriuli.eu/aziende/martellozzo/"
+   },
+   {
+    "slug": "miss-bio",
+    "url": "https://www.docfriuli.eu/aziende/miss-bio/"
+   },
+   {
+    "slug": "mister-bio",
+    "url": "https://www.docfriuli.eu/aziende/mister-bio/"
+   },
+   {
+    "slug": "mulino-delle-tolle",
+    "url": "https://www.docfriuli.eu/aziende/mulino-delle-tolle/"
+   },
+   {
+    "slug": "obiz",
+    "url": "https://www.docfriuli.eu/aziende/obiz/"
+   },
+   {
+    "slug": "opitergium",
+    "url": "https://www.docfriuli.eu/aziende/opitergium/"
+   },
+   {
+    "slug": "pecol-boin",
+    "url": "https://www.docfriuli.eu/aziende/pecol-boin/"
+   },
+   {
+    "slug": "pighin",
+    "url": "https://www.docfriuli.eu/aziende/pighin/"
+   },
+   {
+    "slug": "pitars",
+    "url": "https://www.docfriuli.eu/aziende/pitars/"
+   },
+   {
+    "slug": "pizzuto-gianpaolo",
+    "url": "https://www.docfriuli.eu/aziende/pizzuto-gianpaolo/"
+   },
+   {
+    "slug": "pradio",
+    "url": "https://www.docfriuli.eu/aziende/pradio/"
+   },
+   {
+    "slug": "principi-di-porcia",
+    "url": "https://www.docfriuli.eu/aziende/principi-di-porcia/"
+   },
+   {
+    "slug": "puiatti",
+    "url": "https://www.docfriuli.eu/aziende/puiatti/"
+   },
+   {
+    "slug": "reguta",
+    "url": "https://www.docfriuli.eu/aziende/reguta/"
+   },
+   {
+    "slug": "rosselli-verbi-rain",
+    "url": "https://www.docfriuli.eu/aziende/rosselli-verbi-rain/"
+   },
+   {
+    "slug": "salvador-luca",
+    "url": "https://www.docfriuli.eu/aziende/salvador-luca/"
+   },
+   {
+    "slug": "san-bartolomeo",
+    "url": "https://www.docfriuli.eu/aziende/san-bartolomeo/"
+   },
+   {
+    "slug": "sassonia",
+    "url": "https://www.docfriuli.eu/aziende/sassonia/"
+   },
+   {
+    "slug": "tenimenti-civa",
+    "url": "https://www.docfriuli.eu/aziende/tenimenti-civa/"
+   },
+   {
+    "slug": "tenuta-pribus",
+    "url": "https://www.docfriuli.eu/aziende/tenuta-pribus/"
+   },
+   {
+    "slug": "tenute-tomasella",
+    "url": "https://www.docfriuli.eu/aziende/tenute-tomasella/"
+   },
+   {
+    "slug": "terre-dei-vignaj",
+    "url": "https://www.docfriuli.eu/aziende/terre-dei-vignaj/"
+   },
+   {
+    "slug": "terre-di-ger",
+    "url": "https://www.docfriuli.eu/aziende/terre-di-ger/"
+   },
+   {
+    "slug": "valle",
+    "url": "https://www.docfriuli.eu/aziende/valle/"
+   },
+   {
+    "slug": "vendrame-vignis-del-doge",
+    "url": "https://www.docfriuli.eu/aziende/vendrame-vignis-del-doge/"
+   },
+   {
+    "slug": "vignai-da-duline",
+    "url": "https://www.docfriuli.eu/aziende/vignai-da-duline/"
+   },
+   {
+    "slug": "vignaioli-veneto-friulani",
+    "url": "https://www.docfriuli.eu/aziende/vignaioli-veneto-friulani/"
+   },
+   {
+    "slug": "vigne-alsa",
+    "url": "https://www.docfriuli.eu/aziende/vigne-alsa/"
+   },
+   {
+    "slug": "vigneti-durandi",
+    "url": "https://www.docfriuli.eu/aziende/vigneti-durandi/"
+   },
+   {
+    "slug": "villa-sandi",
+    "url": "https://www.docfriuli.eu/aziende/villa-sandi/"
+   },
+   {
+    "slug": "vini-san-giorgio",
+    "url": "https://www.docfriuli.eu/aziende/vini-san-giorgio/"
+   },
+   {
+    "slug": "weldan",
+    "url": "https://www.docfriuli.eu/aziende/weldan/"
+   },
+   {
+    "slug": "zaglia-giorgio",
+    "url": "https://www.docfriuli.eu/aziende/zaglia-giorgio/"
+   },
+   {
+    "slug": "zamparo-renato",
+    "url": "https://www.docfriuli.eu/aziende/zamparo-renato/"
+   },
+   {
+    "slug": "zonin",
+    "url": "https://www.docfriuli.eu/aziende/zonin/"
+   },
+   {
+    "slug": "zorzettig",
+    "url": "https://www.docfriuli.eu/aziende/zorzettig/"
+   },
+   {
+    "slug": "arcadia",
+    "url": "https://www.docfriuli.eu/aziende/le-monde/"
+   }
+  ]
+ },
+ {
+  "key": "garda",
+  "consorzio": "Consorzio Garda DOC",
+  "sito": "gardadocvino.it",
+  "data": "2 novembre 2026",
+  "den": "Garda",
+  "schede": [
+   {
+    "slug": "cantina-di-custoza",
+    "url": "https://www.gardadocvino.it/portfolio/cantina-di-custoza"
+   },
+   {
+    "slug": "perla-del-garda",
+    "url": "https://www.gardadocvino.it/portfolio/perla-del-garda/"
+   },
+   {
+    "slug": "santa-sofia",
+    "url": "https://www.gardadocvino.it/portfolio/santa-sofia/"
+   },
+   {
+    "slug": "seiterre",
+    "url": "https://www.gardadocvino.it/portfolio/sei-terre"
+   },
+   {
+    "slug": "zenato",
+    "url": "https://www.gardadocvino.it/portfolio/zenato/"
+   },
+   {
+    "slug": "monteci",
+    "url": "https://www.gardadocvino.it/portfolio/monteci/"
+   }
+  ]
+ },
+ {
+  "key": "bardolino",
+  "consorzio": "Consorzio Tutela Vino Bardolino DOC",
+  "sito": "consorziobardolino.it",
+  "data": "2 novembre 2026",
+  "den": "Bardolino",
+  "schede": [
+   {
+    "slug": "carlo-zenegaglia",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "la-bacheta",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "le-morette",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "cantina-casetto",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "le-vigne-di-san-pietro",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "poggio-delle-grazie",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "tenuta-la-presa",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "bolla",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "bigagnoli",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "ca-zerbetto",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "montecroce",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "raval",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "cantina-ca-fiosse",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "tommasi-viticoltori",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "villa-merighi",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "benazzoli",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "casaretti",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "san-zeno",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "lamberti",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "zenato",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "villa-calicantus",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "le-muraglie",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "faccioli-enzo",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "azienda-agricola-le-tende-di-fortuna-e-lucillini-s-s",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "enoitalia",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "dante-righetti",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "villa-medici",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "cristini-giuseppe",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "pezzini-albino",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "oasi-del-pigno",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "corte-mamaor",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "corte-gioliare",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "roeno",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "ca-ceru",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "tinazzi",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "fasoli-gino",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "azienda-agricola-costadoro-di-lonardi-valentino",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "tabarini",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "boschetti-anacleto",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "guerrieri-rizzardi",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "cantina-vinicio-bronzo",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "cantina-di-custoza",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "corte-gardoni",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "lonardi",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "villa-la-bagatta",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "aldo-adami",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "monte-oliveto",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "campostrini-marco",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "tamburino-sardo",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "giuseppe-campagnola",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "ca-dei-colli",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "morando-lorenzo",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "giarola",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "corte-sant-arcadio",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "fructus-vinea",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "vigneti-villabella",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "cantina-gentili",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "poggi-giorgio",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "cadis-1898",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "marchesini-family-winery",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "cantina-la-pesenata",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "la-ca",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "corradini-renato",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "le-fraghe-di-matilde-poggi",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "monteci",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "giovanna-tantini",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "bergamini-vini",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "cascina-mondator",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "meneghello",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "le-ginestre",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "tre-colline",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "corte-fornello",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "santi",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "marchesini-fratelli-societa-agricola",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "monte-dei-roari",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "azienda-agricola-ca-bottura",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "cantina-caorsa",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "colle-dei-cipressi",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "menegotti",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "canella",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "il-pignetto",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "roccolo-del-lago",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "perantoni",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "valbusa",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "le-caldane",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "albino-piona",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "corte-campara",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "girardi-giuseppe-e-giampietro",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "pigno",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "righetti-enzo",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "bellora-tenuta-di-naiano",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "frezza",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "gorgo",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "zeni-1870",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "gasparini",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "le-vai",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "tenuta-eugenio-girardelli",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "garda-natura",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "tenuta-bardali-cantine-giubertoni",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "cantina-di-valpantena",
+    "url": "https://consorziobardolino.it/produttori"
+   },
+   {
+    "slug": "ronca",
+    "url": "https://consorziobardolino.it/produttori"
+   }
+  ]
+ },
+ {
+  "key": "durello",
+  "consorzio": "Consorzio per la Tutela del Vino Lessini Durello DOC",
+  "sito": "montilessini.com",
+  "data": "2 novembre 2026",
+  "den": "Lessini Durello",
+  "schede": [
+   {
+    "slug": "bellaguardia",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "casa-cecchin",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "cantina-danese",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "cadis-1898",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "cantina-marti",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "casarotto",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "cavazza",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "corte-moschina",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "dal-maso",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "fattori",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "fongaro",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "family-of-wine",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "franchetto",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "giannitessari",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "maltraversi",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "masari",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "marcazzan-fabio",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "montecrocetta",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "monte-zovo",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "sacramundi",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "sandro-de-bruno",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "tamaduoli",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "tonello",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "vitevis",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   },
+   {
+    "slug": "cantine-dei-colli-berici",
+    "url": "https://www.montilessini.com/produttori-vino-durello/"
+   }
+  ]
+ },
+ {
+  "key": "prosecco",
+  "consorzio": "Consorzio di Tutela della DOC Prosecco",
+  "sito": "prosecco.wine",
+  "data": "2 novembre 2026",
+  "den": "Prosecco DOC",
+  "schede": [
+   {
+    "slug": "astoria-vini",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "benotto-luigino",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "castello-di-roncade",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "de-stefani",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "le-celline",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "lorenzonetto",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "maccari-spumanti",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "masottina",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "modeano",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "pra-della-luna",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "serena-wines-1881",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "tenuta-santome",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "vignarosa",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "vignato-davide",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "la-jara",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "albino-armani",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "botter",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "la-marca",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "cabert",
+    "url": "https://www.prosecco.wine/produttori/"
+   },
+   {
+    "slug": "fidora",
+    "url": "https://www.prosecco.wine/produttori/"
+   }
+  ]
+ },
+ {
+  "key": "colli-berici",
+  "consorzio": "Consorzio Tutela Vini Colli Berici e Vicenza",
+  "sito": "bevidoc.it",
+  "data": "2 novembre 2026",
+  "den": "Colli Berici",
+  "schede": [
+   {
+    "slug": "cantina-mattiello",
+    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "corte-moschina",
+    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "cavazza",
+    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "cielo-e-terra",
+    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "dal-maso",
+    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "giannitessari",
+    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "inama",
+    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "pegoraro",
+    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "puntozero",
+    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "family-of-wine",
+    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "cadis-1898",
+    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "ca-duso",
+    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "cantine-dei-colli-berici",
+    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "tenuta-maule",
+    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/"
+   }
+  ]
+ },
+ {
+  "key": "gambellara",
+  "consorzio": "Consorzio Volontario per la Tutela dei Vini Gambellara",
+  "sito": "consorziogambellara.com",
+  "data": "2 novembre 2026",
+  "den": "Gambellara",
+  "schede": [
+   {
+    "slug": "cavazza",
+    "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "cielo-e-terra",
+    "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "dal-maso",
+    "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "tenuta-natalina-grandi",
+    "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "tenuta-maule",
+    "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "bianchi",
+    "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/"
+   },
+   {
+    "slug": "toser-vini",
+    "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/"
+   }
+  ]
+ },
+ {
+  "key": "asolo",
+  "consorzio": "Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani",
+  "sito": "asolomontello.it",
+  "data": "2 novembre 2026",
+  "den": "Asolo Prosecco",
+  "schede": [
+   {
+    "slug": "ager-patris",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "agnoletti-ida",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "al-pioggio",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "altea",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "andreola",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "astoria-vini",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "barchessa-loredan",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "bele-casel",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "bianchin",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "bogana-vini",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "botter",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "bresolin-bio",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "ca-del-bole",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "ca-zen",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "cavaliere-damiano",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "cirotto",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "commendator-pozzobon",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "domus-vini",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "elis",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "fiorotto-1934",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "giusti-wine",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "i-5inque",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "la-tordera",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "le-risere",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "martignago-vignaioli",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "montelvini",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "oasi-dei-frati",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "pari-wine",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "perlage",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "progress-country-wine",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "rive-della-chiesa",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "san-simone",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "san-vettor",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "sandrin",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "sorelle-ghirardello",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "tenuta-amadio",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "tenuta-baron-winery",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "tenuta-costeselle",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "tenuta-dalla-francesca",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "tenuta-la-carpena",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "tenute-balzan",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "val-d-oca",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "verdi-terre-di-ciane",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "vigna-rampante",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "vigna-sinque-majo",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "vigneti-mazzarolo",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "villa-di-maser",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "villa-giustiniani",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "villa-luisa-francesca",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "villa-sandi",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "vini-costa",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "vini-leterre",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "vini-meridiana",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   },
+   {
+    "slug": "dal-bello-antonio",
+    "url": "https://www.asolomontello.it/i-soci-produttori/"
+   }
+  ]
+ },
+ {
+  "key": "aquileia",
+  "consorzio": "Consorzio Tutela Vini DOC Friuli Aquileia",
+  "sito": "viniaquileia.it",
+  "data": "2 novembre 2026",
+  "den": "Friuli Aquileia",
+  "schede": [
+   {
+    "slug": "tenuta-pribus",
+    "url": "https://www.viniaquileia.it/i-soci/"
+   },
+   {
+    "slug": "ca-bolani",
+    "url": "https://www.viniaquileia.it/i-soci/"
+   },
+   {
+    "slug": "valpanera",
+    "url": "https://www.viniaquileia.it/i-soci/"
+   }
+  ]
+ },
+ {
+  "key": "venezie",
+  "consorzio": "Consorzio Tutela DOC Delle Venezie",
+  "sito": "dellevenezie.it",
+  "data": "2 novembre 2026",
+  "den": "delle Venezie",
+  "schede": [
+   {
+    "slug": "recchia",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "mezzacorona",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cantina-sociale-di-ala",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cantina-sociale-di-premaore",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "domus-vini",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "araldica-vini-boutinot-international",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cantine-dei-colli-berici",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "borgoluce",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "contri-spumanti",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "vitevis",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "roeno",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cavit",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cantine-riondo",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "tinazzi",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cantina-di-conegliano-e-vittorio-veneto",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "azienda-agricola-cesare-bertoia",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "47-anno-domini",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "fratelli-martini-secondo-luigi",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "international-wine-group",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "la-marca",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "bosco-del-merlo",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cantina-del-terraglio",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "modeano",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "pasqua",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "franz-haas",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cantina-di-custoza",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cantina-di-avio",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "ai-galli",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "kris-winery",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "corte-moschina",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "montemagrino-azienda-agricola",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "casa-girelli",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cantina-di-cona",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "pighin",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "beato-bartolomeo-breganze",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "valdadige",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "tamburino-sardo",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "tombacco-vinicola",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "corte-giara-allegrini",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "villa-sandi",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "faccioli-enzo",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cabert",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "la-vis-e-valle-di-cembra-lavis",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "la-cantina-dei-feudi",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "montelvini",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "villa-mattielli",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "i-magredi",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "marocchesa",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "terre-di-rai",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "nosio",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "vi-v-o-cantine",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "ermacora",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "decordi-del-borgo-imperiale-vinicola-cortesole-spa",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "salvaterra",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "sartori",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "viticoltori-ponte",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cantine-ermes",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cantina-di-ormelle",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "marco-felluga",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cantine-borga",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "monte-dei-roari",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "rovere-della-luna",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "trevisana-agricola",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "vendrame-vignis-del-doge",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "bidoli",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "lechthaler-gaierhof-torre-di-luna",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "anna-spinato",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "conselve-vigneti-e-cantine",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "casa-mondin",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "schenk-italia",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "enotria-tellus",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "dominio-di-bagnoli",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "monteci",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "monte-tondo",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "mori-colli-zugna",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "bortoluzzi-borgo-tintor",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "faccioli-vini",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "collis-veneto-wine-group",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "vignaioli-veneto-friulani",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "ruffoni",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "zaglia-giorgio",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "savoian-societa-agricola",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "tenuta-grimani",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "enoitalia",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "le-vigne-del-dogado-cantina-cona",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "le-rive",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "albino-armani",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "scriani",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "ca-di-rajo",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "jacko-wine",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "pitars",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "ca-duso",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cantine-sgarzi-luigi",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "dal-cero-family",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "botter",
+    "url": "https://dellevenezie.it/cantine/"
+   },
+   {
+    "slug": "cadis-1898",
+    "url": "https://dellevenezie.it/cantine/"
+   }
+  ]
+ }
+]

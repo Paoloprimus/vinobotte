@@ -1,0 +1,36 @@
+{
+ "nome": "Cantine San Marco",
+ "slug": "cantine-san-marco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Mola Cavona 26/28, 00044 Frascati (RM) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@sanmarcofrascati.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.sanmarcofrascati.it/|sanmarcofrascati.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Roma DOC [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Roma DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://consorzioromadoc.it/cantine-associate",
+   "etichetta": "consorzioromadoc.it"
+  }
+ ]
+}

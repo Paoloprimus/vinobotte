@@ -1,0 +1,50 @@
+{
+ "nome": "Menti Vini Società Agricola",
+ "slug": "menti-vini-societa-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03019280241 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Selva, 2, 36054 Montebello Vicentino (VI) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0444/440117 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@mentivini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.mentivini.it/|mentivini.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Volontario per la Tutela dei Vini Gambellara [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.mentivini.it/",
+   "etichetta": "mentivini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Volontario per la Tutela dei Vini Gambellara, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/",
+   "etichetta": "consorziogambellara.com"
+  }
+ ]
+}

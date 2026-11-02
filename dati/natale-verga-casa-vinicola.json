@@ -1,0 +1,40 @@
+{
+ "nome": "Natale Verga Casa Vinicola",
+ "slug": "natale-verga-casa-vinicola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "via Matteotti, 51 -, 22071 Cermenate (CO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 031 771143 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@verga.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.verga.it/|verga.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela DOC Delle Venezie [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela DOC Delle Venezie, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  }
+ ]
+}

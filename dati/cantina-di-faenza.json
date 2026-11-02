@@ -1,0 +1,50 @@
+{
+ "nome": "Cantina di Faenza",
+ "slug": "cantina-di-faenza",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina di Faenza Società Agricola Cooperativa [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00082430398 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Soldata, 2, 48018 Faenza (RA) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinafaenza.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinafaenza.it|cantinafaenza.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.cantinafaenza.it",
+   "etichetta": "cantinafaenza.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/cantina-sociale-di-faenza/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

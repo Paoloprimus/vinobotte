@@ -1,0 +1,46 @@
+{
+ "nome": "Casata Mergé",
+ "slug": "casata-merge",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "07329061001 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fontana Candida 381, 00132 Roma (RM) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "amministrazione@almavini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://casatamerge.it/|casatamerge.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Roma DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://casatamerge.it/",
+   "etichetta": "casatamerge.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Roma DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://consorzioromadoc.it/cantine-associate",
+   "etichetta": "consorzioromadoc.it"
+  }
+ ]
+}

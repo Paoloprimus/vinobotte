@@ -1,0 +1,46 @@
+{
+ "nome": "Rocca le Caminate",
+ "slug": "rocca-le-caminate",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Rocca delle Caminate n.15, 47014 Meldola (FC) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0543.493482 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@roccalecaminate.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.roccalecaminate.it/|roccalecaminate.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.roccalecaminate.it/",
+   "etichetta": "roccalecaminate.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/rocca-le-caminate/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

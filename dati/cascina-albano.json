@@ -1,0 +1,46 @@
+{
+ "nome": "Cascina Albano",
+ "slug": "cascina-albano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03720050040 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Ovello, 38, 12050 Barbaresco (CN) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cascina-albano.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cascina-albano.com|cascina-albano.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cascina-albano.com",
+   "etichetta": "cascina-albano.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/cascina-albano/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

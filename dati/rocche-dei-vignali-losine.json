@@ -1,0 +1,50 @@
+{
+ "nome": "Rocche dei Vignali Losine",
+ "slug": "rocche-dei-vignali-losine",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02463480984 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Sant, 25040 Losine (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 339.3698953 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@rocchedeivignali.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.rocchedeivignali.it/|rocchedeivignali.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio IGT Valcamonica [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.rocchedeivignali.it/",
+   "etichetta": "rocchedeivignali.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio IGT Valcamonica, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinivallecamonica.it/cantine/rocche-dei-vignali/",
+   "etichetta": "consorziovinivallecamonica.it"
+  }
+ ]
+}

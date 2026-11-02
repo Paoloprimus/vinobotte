@@ -1,0 +1,46 @@
+{
+ "nome": "Cornarea",
+ "slug": "cornarea",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02538920048 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Valentino, 150, 12043 Canale (CN) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cornarea.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://cornarea.com/|cornarea.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://cornarea.com/",
+   "etichetta": "cornarea.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/cornarea/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

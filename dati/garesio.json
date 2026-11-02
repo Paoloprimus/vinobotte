@@ -1,0 +1,50 @@
+{
+ "nome": "Garesio",
+ "slug": "garesio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "10314640011 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Sordo, 1, 12050 Serralunga D'alba (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 366 707 6775 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "incoming@garesiovini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.garesiovini.it/|garesiovini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Alta Langa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.garesiovini.it/",
+   "etichetta": "garesiovini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Alta Langa, consultato il 2 novembre 2026.",
+   "url": "https://www.altalangadocg.com/cantine/garesio/",
+   "etichetta": "altalangadocg.com"
+  }
+ ]
+}

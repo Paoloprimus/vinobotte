@@ -1,0 +1,50 @@
+{
+ "nome": "Valdinera",
+ "slug": "valdinera",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03830130047 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cavour, 1, 12040 Corneliano d’Alba (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0173 61 98 81 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@valdinera.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://valdinera.it/|valdinera.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://valdinera.it/",
+   "etichetta": "valdinera.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/valdinera/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

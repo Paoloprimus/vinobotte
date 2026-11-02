@@ -1,0 +1,50 @@
+{
+ "nome": "Moio Michele Fu Luigi",
+ "slug": "moio-michele-fu-luigi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01504700616 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Viale Regina Margherita, 8 &ndash;, 81034 Mondragone (CE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 04357820614 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinemoio.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinemoio.it/|cantinemoio.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cantinemoio.it/",
+   "etichetta": "cantinemoio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/moio-michele-fu-luigi-s-r-l.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

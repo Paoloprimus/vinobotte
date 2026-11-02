@@ -1,0 +1,56 @@
+{
+ "nome": "Matteo Correggia",
+ "slug": "matteo-correggia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04048690046 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Santo Stefano Roero, 124, 12043 Canale d'Alba (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0173 978009 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantina@matteocorreggia.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.matteocorreggia.com/|matteocorreggia.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Alta Langa [[2]]\nConsorzio di Tutela Roero [[3]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.matteocorreggia.com/",
+   "etichetta": "matteocorreggia.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Alta Langa, consultato il 2 novembre 2026.",
+   "url": "https://www.altalangadocg.com/cantine/matteo-correggia/",
+   "etichetta": "altalangadocg.com"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/matteo-correggia/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

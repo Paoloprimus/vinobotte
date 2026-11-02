@@ -1,0 +1,50 @@
+{
+ "nome": "Cà Basso",
+ "slug": "ca-basso",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03807400241 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Casoni, 1, 36023 Longare (VI) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0444/555366 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bassovini.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://bassovini.com/it/|bassovini.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Colli Berici e Vicenza [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://bassovini.com/it/",
+   "etichetta": "bassovini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Colli Berici e Vicenza, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  }
+ ]
+}

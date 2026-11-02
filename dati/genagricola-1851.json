@@ -1,0 +1,50 @@
+{
+ "nome": "Genagricola 1851",
+ "slug": "genagricola-1851",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Genagricola 1851 S.p.A [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01376540322 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Trento, 8, 34132 Trieste (TS) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "genagricola1851@pec.generaligroup.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.genagricola1851.net/it|genagricola1851.net}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.genagricola1851.net/it",
+   "etichetta": "genagricola1851.net"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/genagricola/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

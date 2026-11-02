@@ -1,0 +1,50 @@
+{
+ "nome": "Pialli Vini",
+ "slug": "pialli-vini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03059660245 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via R. Fabiani, 22, 36021 Barbarano Vicentino (VI) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0444/886788 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinipialli.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinipialli.it/|vinipialli.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Colli Berici e Vicenza [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.vinipialli.it/",
+   "etichetta": "vinipialli.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Colli Berici e Vicenza, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  }
+ ]
+}

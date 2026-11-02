@@ -1,0 +1,46 @@
+{
+ "nome": "Garbarino Roberto",
+ "slug": "garbarino-roberto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03917200044 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Ronconuovo 10, 12050 Neviglie (CN) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@robertogarbarino.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.robertogarbarino.it/|robertogarbarino.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Alta Langa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.robertogarbarino.it/",
+   "etichetta": "robertogarbarino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Alta Langa, consultato il 2 novembre 2026.",
+   "url": "https://www.altalangadocg.com/cantine/roberto-garbarino/",
+   "etichetta": "altalangadocg.com"
+  }
+ ]
+}

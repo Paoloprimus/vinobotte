@@ -1,0 +1,46 @@
+{
+ "nome": "S.I.V.Ag.",
+ "slug": "s-i-v-ag",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "ECOTHEA Srl [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Piazza Libertà, 7 (Villa Brandolini), 31053 Solighetto di Pieve di Soligo (TV) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@antoniocarraro.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://lifeatena.com/it/|lifeatena.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://lifeatena.com/it/",
+   "etichetta": "lifeatena.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/sivag/",
+   "etichetta": "prosecco.it"
+  }
+ ]
+}

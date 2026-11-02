@@ -1,0 +1,46 @@
+{
+ "nome": "Dogliotti 1870",
+ "slug": "dogliotti-1870",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01521520054 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fratelli Vicari, 70, 14054 Castagnole Lanze (AT) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@dogliotti1870.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.dogliotti1870.com|dogliotti1870.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.dogliotti1870.com",
+   "etichetta": "dogliotti1870.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/dogliotti-1870/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

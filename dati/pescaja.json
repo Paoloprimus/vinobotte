@@ -1,0 +1,50 @@
+{
+ "nome": "Pescaja",
+ "slug": "pescaja",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01703260057 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Frazione San Matteo, Via Cima 59, 14010 Cisterna D’Asti (AT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0141 979711 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@pescaja.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.pescaja.com|pescaja.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.pescaja.com",
+   "etichetta": "pescaja.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/pescaja/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

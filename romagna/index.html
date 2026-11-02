@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Romagna — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Romagna</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Romagna</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Agrintesa","s":"agrintesa","c":"Faenza","d":["Romagna"]},{"n":"Assirelli Vini","s":"assirelli-vini","c":"Dozza","d":["Romagna"]},{"n":"Baccarini Guido","s":"baccarini-guido","c":"Faenza","d":["Romagna"]},{"n":"Balducci Ivan","s":"balducci-ivan","c":"Forlì","d":["Romagna"]},{"n":"Balìa di Zola","s":"balia-di-zola","c":"Modigliana","d":["Romagna"]},{"n":"Battistini casa vinicola","s":"battistini-casa-vinicola","c":"Santarcangelo Di Romagna","d":["Romagna"]},{"n":"Bissoni","s":"bissoni","c":"Bertinoro","d":["Romagna"]},{"n":"Bolé","s":"bole","c":"Faenza -","d":["Romagna"]},{"n":"C.A.B. - Terra di Brisighella","s":"c-a-b-terra-di-brisighella","c":"Brisighella","d":["Romagna"]},{"n":"Ca' di Camilla","s":"ca-di-camilla","c":"Valbiano","d":["Romagna"]},{"n":"Ca' di sopra","s":"ca-di-sopra","c":"Marzeno Di Brisighella","d":["Romagna"]},{"n":"Calonga","s":"calonga","c":"Forlì","d":["Romagna"]},{"n":"Cantina dei colli romagnoli","s":"cantina-dei-colli-romagnoli","c":"Faenza","d":["Romagna"]},{"n":"Cantina di Faenza","s":"cantina-di-faenza","c":"Faenza","d":["Romagna"]},{"n":"Cantina Fiammetta","s":"cantina-fiammetta","c":"Croce Di Montecolombo","d":["Romagna"]},{"n":"Cantina Franco Galli","s":"cantina-franco-galli","c":"San Giovanni In Marignano","d":["Romagna"]},{"n":"Cantina sociale di Cesena - Tenuta Amalia","s":"cantina-sociale-di-cesena-tenuta-amalia","c":"Cesena","d":["Romagna"]},{"n":"Cantine Zuffa","s":"cantine-zuffa","c":"Imola","d":["Romagna"]},{"n":"Celli","s":"celli","c":"Bertinoro","d":["Romagna"]},{"n":"Condé","s":"conde","c":"Fiumana Di Predappio","d":["Romagna"]},{"n":"Conti Guarini Matteucci","s":"conti-guarini-matteucci","c":"Forlì","d":["Romagna"]},{"n":"Domini Glicine","s":"domini-glicine","c":"Cesena","d":["Romagna"]},{"n":"Drei Donà - Tenuta la Palazza","s":"drei-dona-tenuta-la-palazza","c":"Forlì","d":["Romagna"]},{"n":"Enio Ottaviani","s":"enio-ottaviani","c":"San Clemente","d":["Romagna"]},{"n":"Fattoria Nicolucci","s":"fattoria-nicolucci","c":"Predappio Alta","d":["Romagna"]},{"n":"Fattoria Zerbina","s":"fattoria-zerbina","c":"Faenza","d":["Romagna"]},{"n":"Fondo Cà Vecja","s":"fondo-ca-vecja","c":"Ponticelli","d":["Romagna"]},{"n":"Giovannini Giorgio e Jacopo","s":"giovannini-giorgio-e-jacopo","c":"Imola","d":["Romagna"]},{"n":"La Sabbiona","s":"la-sabbiona","c":"Faenza","d":["Romagna"]},{"n":"Leone Conti","s":"leone-conti","c":"Faenza","d":["Romagna"]},{"n":"Longanesi Daniele","s":"longanesi-daniele","c":"Bagnacavallo","d":["Romagna"]},{"n":"Lu.Va.","s":"lu-va","c":"Modigliana","d":["Romagna"]},{"n":"Madonia Giovanna","s":"madonia-giovanna","c":"Bertinoro","d":["Romagna"]},{"n":"Marta Valpiani","s":"marta-valpiani","c":"Castrocaro Terme","d":["Romagna"]},{"n":"Podere dell'Angelo","s":"podere-dell-angelo","c":"Rimini","d":["Romagna"]},{"n":"Podere Vecciano","s":"podere-vecciano","c":"Coriano","d":["Romagna"]},{"n":"Poderi Morini","s":"poderi-morini","c":"Villanova Di Forlì","d":["Romagna"]},{"n":"Rocca le Caminate","s":"rocca-le-caminate","c":"Meldola","d":["Romagna"]},{"n":"San Valentino","s":"san-valentino","c":"Rimini","d":["Romagna"]},{"n":"Tenuta Casali","s":"tenuta-casali","c":"Mercato Saraceno","d":["Romagna"]},{"n":"Tenuta del Gelso","s":"tenuta-del-gelso","c":"Bertinoro","d":["Romagna"]},{"n":"Tenuta del Monsignore","s":"tenuta-del-monsignore","c":"San Giovanni In Marignano","d":["Romagna"]},{"n":"Tenuta Dè Stefenelli","s":"tenuta-de-stefenelli","c":"Fratta Terme Di Bertinoro","d":["Romagna"]},{"n":"Tenuta La Franzona","s":"tenuta-la-franzona","c":"Imola","d":["Romagna"]},{"n":"Tenuta Pennita","s":"tenuta-pennita","c":"Terra Del Sole","d":["Romagna"]},{"n":"Tenuta Uccellina","s":"tenuta-uccellina","c":"Russi","d":["Romagna"]},{"n":"Tenute Bacana","s":"tenute-bacana","c":"Villa Vezzano","d":["Romagna"]},{"n":"Terre Cevico","s":"terre-cevico","c":"Lugo","d":["Romagna"]},{"n":"Tre Monti","s":"tre-monti","c":"Imola","d":["Romagna"]},{"n":"Trerè","s":"trere","c":"Faenza","d":["Romagna"]},{"n":"Umberto Cesari","s":"umberto-cesari","c":"Castel San Pietro Terme","d":["Romagna"]},{"n":"Valle del Vento","s":"valle-del-vento","c":"Meldola","d":["Romagna"]},{"n":"Valle delle lepri","s":"valle-delle-lepri","c":"Coriano","d":["Romagna"]},{"n":"Zavalloni","s":"zavalloni","c":"Cesena","d":["Romagna"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    

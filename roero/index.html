@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Roero — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Roero</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Roero</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Antica Cascina dei Conti di Roero","s":"antica-cascina-dei-conti-di-roero","c":"Vezza D'Alba","d":["Roero"]},{"n":"Araldica Vini – Boutinot International","s":"araldica-vini-boutinot-international","c":"Castel Boglione","d":["Roero"]},{"n":"Bajaj","s":"bajaj","c":"Monteu Roero","d":["Roero"]},{"n":"Battaglio Mario","s":"battaglio-mario","c":"Vezza D’Alba","d":["Roero"]},{"n":"Bersano Vini","s":"bersano-vini","c":"Nizza Monferrato","d":["Roero"]},{"n":"Bosco Ferruccio","s":"bosco-ferruccio","c":"Priocca","d":["Roero"]},{"n":"Bosco Giovanna","s":"bosco-giovanna","c":"Priocca","d":["Roero"]},{"n":"Bosio Family Estates","s":"bosio-family-estates","c":"Santo Stefano Belbo","d":["Roero"]},{"n":"Bric Castelvej","s":"bric-castelvej","c":"Canale","d":["Roero"]},{"n":"Cascina Albano","s":"cascina-albano","c":"Barbaresco","d":["Roero"]},{"n":"Cascina Ca’ Rossa","s":"cascina-ca-rossa","c":"Canale D’Alba","d":["Roero"]},{"n":"Cascina Chicco","s":"cascina-chicco","c":"Canale","d":["Roero"]},{"n":"Cascina Ciapat","s":"cascina-ciapat","c":"Montaldo Roero","d":["Roero"]},{"n":"Cascina Fiorenza","s":"cascina-fiorenza","c":"Canale","d":["Roero"]},{"n":"Cascina Lanzarotti","s":"cascina-lanzarotti","c":"Monteu Roero","d":["Roero"]},{"n":"Cornarea","s":"cornarea","c":"Canale","d":["Roero"]},{"n":"Cuvage","s":"cuvage","c":"Acqui Terme","d":["Roero"]},{"n":"Destefanis Federico","s":"destefanis-federico","c":"Canale","d":["Roero"]},{"n":"Dogliotti 1870","s":"dogliotti-1870","c":"Castagnole Lanze","d":["Roero"]},{"n":"Dosio","s":"dosio","c":"La Morra","d":["Roero"]},{"n":"Enrico Serafino","s":"enrico-serafino","c":"Canale d’Alba","d":["Roero"]},{"n":"Giacomo Vico","s":"giacomo-vico","c":"Canale","d":["Roero"]},{"n":"Giovanni Almondo","s":"giovanni-almondo","c":"Montà","d":["Roero"]},{"n":"Giuseppe Roagna","s":"giuseppe-roagna","c":"Priocca D'Alba","d":["Roero"]},{"n":"Le More Bianche","s":"le-more-bianche","c":"Magliano Alfieri","d":["Roero"]},{"n":"Malabaila di Canale","s":"malabaila-di-canale","c":"Canale","d":["Roero"]},{"n":"Malvirà","s":"malvira","c":"Canale","d":["Roero"]},{"n":"Marsaglia","s":"marsaglia","c":"Castellinaldo D'Alba","d":["Roero"]},{"n":"Massucco","s":"massucco","c":"Castagnito","d":["Roero"]},{"n":"Matteo Correggia","s":"matteo-correggia","c":"Canale D'Alba","d":["Roero"]},{"n":"Michele Viano","s":"michele-viano","c":"Vezza D'Alba","d":["Roero"]},{"n":"Morra Stefanino","s":"morra-stefanino","c":"Castellinaldo D’Alba","d":["Roero"]},{"n":"Nota Giuliano","s":"nota-giuliano","c":"Monticello D'Alba","d":["Roero"]},{"n":"Pace","s":"pace","c":"Canale","d":["Roero"]},{"n":"Paitin","s":"paitin","c":"Neive","d":["Roero"]},{"n":"Paolo Sandri","s":"paolo-sandri","c":"Castagnito","d":["Roero"]},{"n":"Patrunét","s":"patrunet","c":"Vezza D’Alba Cn, 12040 Vezza D’Alba","d":["Roero"]},{"n":"Pedemontis","s":"pedemontis","c":"Alba","d":["Roero"]},{"n":"Pelassa","s":"pelassa","c":"Montà","d":["Roero"]},{"n":"Pescaja","s":"pescaja","c":"Cisterna D’Asti","d":["Roero"]},{"n":"Pinsoglio Fabrizio","s":"pinsoglio-fabrizio","c":"Canale","d":["Roero"]},{"n":"Poderi Moretti","s":"poderi-moretti","c":"Monteu Roero","d":["Roero"]},{"n":"pQlin","s":"pqlin","c":"Castagnito","d":["Roero"]},{"n":"Produttori di Govone","s":"produttori-di-govone","c":"Govone","d":["Roero"]},{"n":"Rabino Luigi","s":"rabino-luigi","c":"Canale","d":["Roero"]},{"n":"Rosoretto","s":"rosoretto","c":"Castiglione Falletto","d":["Roero"]},{"n":"Tenuta Carretta","s":"tenuta-carretta","c":"Piobesi D'Alba","d":["Roero"]},{"n":"Tenuta La Pergola","s":"tenuta-la-pergola","c":"Cisterna D’Asti","d":["Roero"]},{"n":"Valdinera","s":"valdinera","c":"Corneliano D’Alba","d":["Roero"]},{"n":"Viglione Antonio e Figli","s":"viglione-antonio-e-figli","c":"Sant'Anna - Monteu Roero","d":["Roero"]},{"n":"Vite Colte","s":"vite-colte","c":"Barolo","d":["Roero"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    

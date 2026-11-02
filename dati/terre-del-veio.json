@@ -1,0 +1,46 @@
+{
+ "nome": "Terre del Veio",
+ "slug": "terre-del-veio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "06344461006 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Formellese 173/D, 00123 Roma (RM) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@terredelveio.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://terredelveio.it/|terredelveio.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Roma DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://terredelveio.it/",
+   "etichetta": "terredelveio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Roma DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://consorzioromadoc.it/cantine-associate",
+   "etichetta": "consorzioromadoc.it"
+  }
+ ]
+}

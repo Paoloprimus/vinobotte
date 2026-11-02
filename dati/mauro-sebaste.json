@@ -1,0 +1,40 @@
+{
+ "nome": "Mauro Sebaste",
+ "slug": "mauro-sebaste",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Garibaldi, 222 bis, Fraz. Gallo, 12051 Alba (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39.0173.262148 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@maurosebaste.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://maurosebaste.it|maurosebaste.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Alta Langa [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Alta Langa, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.altalangadocg.com/cantine/mauro-sebaste/",
+   "etichetta": "altalangadocg.com"
+  }
+ ]
+}

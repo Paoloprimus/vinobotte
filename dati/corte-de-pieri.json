@@ -1,0 +1,50 @@
+{
+ "nome": "Corte De Pieri",
+ "slug": "corte-de-pieri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02004600249 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Ranare, 15, 36045 Lonigo (VI) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 348/2242238 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cortedepieri.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cortedepieri.it/|cortedepieri.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Colli Berici e Vicenza [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cortedepieri.it/",
+   "etichetta": "cortedepieri.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Colli Berici e Vicenza, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  }
+ ]
+}

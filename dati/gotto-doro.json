@@ -1,0 +1,46 @@
+{
+ "nome": "Gotto d’Oro",
+ "slug": "gotto-doro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00899081004 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via del Divino Amore 347, 00047 Marino (RM) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@gottodoro.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.gottodoro.it/|gottodoro.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Roma DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.gottodoro.it/",
+   "etichetta": "gottodoro.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Roma DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://consorzioromadoc.it/cantine-associate",
+   "etichetta": "consorzioromadoc.it"
+  }
+ ]
+}

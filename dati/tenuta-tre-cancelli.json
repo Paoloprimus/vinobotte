@@ -1,0 +1,46 @@
+{
+ "nome": "Tenuta Tre Cancelli",
+ "slug": "tenuta-tre-cancelli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "11951441002 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via della Piscina 3, 00052 Cerveteri (RM) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "direzione@tenutatrecancelli.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutatrecancelli.com/|tenutatrecancelli.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Roma DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.tenutatrecancelli.com/",
+   "etichetta": "tenutatrecancelli.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Roma DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://consorzioromadoc.it/cantine-associate",
+   "etichetta": "consorzioromadoc.it"
+  }
+ ]
+}

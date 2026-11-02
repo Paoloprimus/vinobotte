@@ -1,0 +1,50 @@
+{
+ "nome": "Bajaj",
+ "slug": "bajaj",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03984630040 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via del Forno 4, 12040 Monteu Roero (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 .338.8164016 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bajaj.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bajaj.it|bajaj.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.bajaj.it",
+   "etichetta": "bajaj.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/bajaj/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

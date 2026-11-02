@@ -1,0 +1,46 @@
+{
+ "nome": "Paolo Sandri",
+ "slug": "paolo-sandri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02930180043 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Roncheiso, 13, 12050 CASTAGNITO (CN) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@aziendaagricolasandripaolo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://aziendaagricolasandripaolo.it|aziendaagricolasandripaolo.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://aziendaagricolasandripaolo.it",
+   "etichetta": "aziendaagricolasandripaolo.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/paolo-sandri/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

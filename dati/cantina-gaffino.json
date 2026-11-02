@@ -1,0 +1,46 @@
+{
+ "nome": "Cantina Gaffino",
+ "slug": "cantina-gaffino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "06190461001 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Ardeatina km 24.650, 00040 Ardea (RM) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinagaffino.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://cantinagaffino.it/|cantinagaffino.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Roma DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://cantinagaffino.it/",
+   "etichetta": "cantinagaffino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Roma DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://consorzioromadoc.it/cantine-associate",
+   "etichetta": "consorzioromadoc.it"
+  }
+ ]
+}

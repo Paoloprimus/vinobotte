@@ -1,0 +1,46 @@
+{
+ "nome": "Cascina Fonda",
+ "slug": "cascina-fonda",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02492640046 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Spessa, 27, 12052 Neive (CN) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "fonda@cascinafonda.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cascinafonda.com/|cascinafonda.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Alta Langa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cascinafonda.com/",
+   "etichetta": "cascinafonda.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Alta Langa, consultato il 2 novembre 2026.",
+   "url": "https://www.altalangadocg.com/cantine/cascina-fonda/",
+   "etichetta": "altalangadocg.com"
+  }
+ ]
+}

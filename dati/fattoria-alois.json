@@ -1,0 +1,36 @@
+{
+ "nome": "Fattoria Alois",
+ "slug": "fattoria-alois",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Ragazzano Localit&agrave;, Audelino, 81040 Pontelatone (CE) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinialois.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinialois.it/|vinialois.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini DOC Asprinio d’Aversa, Galluccio e Falerno, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.vitica.it/associati/fattoria-alois-s-r-l.html",
+   "etichetta": "vitica.it"
+  }
+ ]
+}

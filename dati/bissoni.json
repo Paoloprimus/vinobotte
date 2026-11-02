@@ -1,0 +1,46 @@
+{
+ "nome": "Bissoni",
+ "slug": "bissoni",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01917680405 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Colecchio, 280, 47032 Bertinoro (FC) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 .347.4566893 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://vinibissoni.com/|vinibissoni.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://vinibissoni.com/",
+   "etichetta": "vinibissoni.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/bissoni/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

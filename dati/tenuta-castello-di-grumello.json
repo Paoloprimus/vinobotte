@@ -1,0 +1,50 @@
+{
+ "nome": "Tenuta Castello di Grumello",
+ "slug": "tenuta-castello-di-grumello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "TENUTA CASTELLO DI GRUMELLO S.r.l [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04611690167 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fosse, 11, 24064 Grumello del Monte (BG) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "visit@castellodigrumello.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.castellodigrumello.it/pages/contatti|castellodigrumello.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Valcalepio [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.castellodigrumello.it/pages/contatti",
+   "etichetta": "castellodigrumello.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Valcalepio, consultato il 2 novembre 2026.",
+   "url": "https://www.valcalepio.org/cantine/tenuta-castello-di-grumello-srl/",
+   "etichetta": "valcalepio.org"
+  }
+ ]
+}

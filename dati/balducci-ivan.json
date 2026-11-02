@@ -1,0 +1,46 @@
+{
+ "nome": "Balducci Ivan",
+ "slug": "balducci-ivan",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04809870407 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fiscalla, 5, 47121 Forlì (FC) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@balduccivini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.balduccivini.it/|balduccivini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.balduccivini.it/",
+   "etichetta": "balduccivini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/balducci/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

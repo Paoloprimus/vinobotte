@@ -1,0 +1,46 @@
+{
+ "nome": "Podere dell'Angelo",
+ "slug": "podere-dell-angelo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03767360401 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Rodella, 38 47921 Rimini (RN), 47921 Rimini (RN) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinidellangelo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://vinidellangelo.it/|vinidellangelo.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://vinidellangelo.it/",
+   "etichetta": "vinidellangelo.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/podere-dellangelo-soc-agr-ss/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

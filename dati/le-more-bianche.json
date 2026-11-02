@@ -1,0 +1,46 @@
+{
+ "nome": "Le More Bianche",
+ "slug": "le-more-bianche",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03650600046 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Adele Alfieri 35, 12050 Magliano Alfieri (CN) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lemorebianche.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://lemorebianche.com|lemorebianche.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://lemorebianche.com",
+   "etichetta": "lemorebianche.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/le-more-bianche/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

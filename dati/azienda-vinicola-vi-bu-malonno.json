@@ -1,0 +1,50 @@
+{
+ "nome": "Azienda Vinicola Vi’ Bu Malonno",
+ "slug": "azienda-vinicola-vi-bu-malonno",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03254440989 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Nazionale 58, 25044 Capo di Ponte (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 334 1417064 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vi-bu.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vi-bu.it/|vi-bu.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio IGT Valcamonica [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.vi-bu.it/",
+   "etichetta": "vi-bu.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio IGT Valcamonica, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziovinivallecamonica.it/cantine/vibu/",
+   "etichetta": "consorziovinivallecamonica.it"
+  }
+ ]
+}

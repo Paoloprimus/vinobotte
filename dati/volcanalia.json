@@ -1,0 +1,40 @@
+{
+ "nome": "Volcanalia",
+ "slug": "volcanalia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Corso G. Mazzini, 6, 36071 Arzignano (VI) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 342/7563375 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@volcanalia.wine [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.volcanalia.wine/|volcanalia.wine}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Volontario per la Tutela dei Vini Gambellara [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Volontario per la Tutela dei Vini Gambellara, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/",
+   "etichetta": "consorziogambellara.com"
+  }
+ ]
+}

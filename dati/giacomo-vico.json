@@ -1,0 +1,42 @@
+{
+ "nome": "Giacomo Vico",
+ "slug": "giacomo-vico",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Torino 80, 12043 Canale (CN) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "commerciale@giacomovico.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.giacomovico.com/|giacomovico.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.giacomovico.com/",
+   "etichetta": "giacomovico.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/giacomo-vico/",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}
