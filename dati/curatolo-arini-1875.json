@@ -1,0 +1,50 @@
+{
+ "nome": "Curatolo Arini 1875",
+ "slug": "curatolo-arini-1875",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00063150817 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Vito Curatolo Arini, 5, 91025 Marsala (TP) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0923 989400 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "visit@curatoloarini.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.curatoloarini.com|curatoloarini.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Marsala [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.curatoloarini.com",
+   "etichetta": "curatoloarini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vino Marsala, consultato il 2 novembre 2026.",
+   "url": "https://www.golosaria.it/it/consorzio-per-la-tutela-del-vino-marsala",
+   "etichetta": "consorziovinomarsala.it"
+  }
+ ]
+}

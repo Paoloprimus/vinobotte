@@ -1,0 +1,38 @@
+{
+ "nome": "Vinci Vini",
+ "slug": "vinci-vini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Santa Venera, 7, 91025 Marsala (TP) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinevinci.it|cantinevinci.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Marsala [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cantinevinci.it",
+   "etichetta": "cantinevinci.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vino Marsala, consultato il 2 novembre 2026.",
+   "url": "https://www.golosaria.it/it/consorzio-per-la-tutela-del-vino-marsala",
+   "etichetta": "consorziovinomarsala.it"
+  }
+ ]
+}

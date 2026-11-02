@@ -62834,5 +62834,125 @@
 "marcel-zanolari"
 ],
 "primario": "marcel-zanolari"
+},
+{
+"slug": "cantine-pellegrino",
+"nome": "Cantine Pellegrino",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"cantine-pellegrino"
+],
+"primario": "cantine-pellegrino"
+},
+{
+"slug": "cantine-florio",
+"nome": "Cantine Florio",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"cantine-florio"
+],
+"primario": "cantine-florio"
+},
+{
+"slug": "curatolo-arini-1875",
+"nome": "Curatolo Arini 1875",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"curatolo-arini-1875"
+],
+"primario": "curatolo-arini-1875"
+},
+{
+"slug": "martinez",
+"nome": "Martinez",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"martinez"
+],
+"primario": "martinez"
+},
+{
+"slug": "casano",
+"nome": "Casano",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"casano"
+],
+"primario": "casano"
+},
+{
+"slug": "vinci-vini",
+"nome": "Vinci Vini",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"vinci-vini"
+],
+"primario": "vinci-vini"
+},
+{
+"slug": "colomba-bianca",
+"nome": "Colomba Bianca",
+"regione": "Sicilia",
+"comune": "Mazara del Vallo",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"colomba-bianca"
+],
+"primario": "colomba-bianca"
+},
+{
+"slug": "cantine-paolini",
+"nome": "Cantine Paolini",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"cantine-paolini"
+],
+"primario": "cantine-paolini"
 }
 ]

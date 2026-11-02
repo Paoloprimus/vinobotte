@@ -1,0 +1,50 @@
+{
+ "nome": "Cantine Florio",
+ "slug": "cantine-florio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Duca di Salaparuta S.p.A [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01432970810 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Vincenzo Florio, 1, 91025 Marsala (TP) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantineflorio.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantineflorio.it|cantineflorio.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vino Marsala [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cantineflorio.it",
+   "etichetta": "cantineflorio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vino Marsala, consultato il 2 novembre 2026.",
+   "url": "https://www.golosaria.it/it/consorzio-per-la-tutela-del-vino-marsala",
+   "etichetta": "consorziovinomarsala.it"
+  }
+ ]
+}

@@ -33,55 +33,21 @@
   116,
   119,
   123,
+  128,
   135
  ],
  "promosse": [
-  "agrilu",
-  "andreoli",
-  "arpepe",
-  "ascesa",
-  "assoviuno",
-  "balgera-vini",
-  "bastiancuntrari",
-  "f-lli-bettini",
-  "fratelli-cerasa-le-case-dei-baff",
-  "contadi-gasparotti",
-  "conti-sertoli-salis",
-  "coop-agricola-triasso-e-sassella",
-  "dirupi",
-  "luca-faccinelli",
-  "sandro-fay",
-  "marco-ferrari",
-  "folini",
-  "fondazione-fojanini",
-  "involt-agnelot",
-  "marino-lanzini",
-  "bruno-leusciatti",
-  "alessio-magi",
-  "alberto-marsetti",
-  "walter-menegola",
-  "renato-motalli",
-  "alfio-mozzi",
-  "i-muretti",
-  "nino-negri",
-  "nicola-nobili",
-  "pizzo-coca",
-  "plozza",
-  "mamete-prevostini-convento-san-lorenzo",
-  "aldo-rainoldi",
-  "radis",
-  "retica-vini",
-  "cantina-riter",
-  "rivetti-l-orco",
-  "sesterzio",
-  "le-strie",
-  "tenuta-scersce",
-  "la-trama",
-  "vita-nova",
-  "marcel-zanolari"
+  "cantine-pellegrino",
+  "cantine-florio",
+  "curatolo-arini-1875",
+  "martinez",
+  "casano",
+  "vinci-vini",
+  "colomba-bianca",
+  "cantine-paolini"
  ],
  "gia_in_guida": 20,
- "esatti": 700,
+ "esatti": 743,
  "token": [
   [
    15,
@@ -2828,6 +2794,14 @@
   [
    63,
    "marche",
+   "AZIENDA AGRAR. RISTE & ANDREOLI",
+   [
+    "andreoli"
+   ]
+  ],
+  [
+   63,
+   "marche",
    "FATTORIA SERRA SAN MARTINO DI WEYDEMANN ROHL KIRSTEN",
    [
     "san-martino-vini",
@@ -3057,7 +3031,8 @@
    "colli-tortonesi",
    "Tenuta San Lorenzo",
    [
-    "cazzulo-luigi-e-g-b-tenuta-san-lorenzo"
+    "cazzulo-luigi-e-g-b-tenuta-san-lorenzo",
+    "mamete-prevostini-convento-san-lorenzo"
    ]
   ],
   [
@@ -3149,9 +3124,18 @@
     "triacca-la-madonnina",
     "cavitria-casa-vinicola-triacca"
    ]
+  ],
+  [
+   128,
+   "marsala",
+   "Cantine Lombardo",
+   [
+    "lombardo",
+    "giordano-lombardo"
+   ]
   ]
  ],
- "wip": 1812,
+ "wip": 1819,
  "stat": {
   "scartata": 2
  }
