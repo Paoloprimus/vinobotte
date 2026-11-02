@@ -1,0 +1,50 @@
+{
+ "nome": "La Ghibellina di Marina Galli Ghibellini",
+ "slug": "la-ghibellina-di-marina-galli-ghibellini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01883680066 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Frazione Monterotondo 61, 15066 Gavi (AL) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0143 686257 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@laghibellina.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.laghibellina.it/|laghibellina.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela del Gavi [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.laghibellina.it/",
+   "etichetta": "laghibellina.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela del Gavi, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziogavi.com/produttori/",
+   "etichetta": "consorziogavi.com"
+  }
+ ]
+}

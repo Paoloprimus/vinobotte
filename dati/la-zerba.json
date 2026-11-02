@@ -1,0 +1,50 @@
+{
+ "nome": "La Zerba",
+ "slug": "la-zerba",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02671990063 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Str. Francavilla Località Zerba, 15060 Tassarolo (AL) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 340 4501602 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@la-zerba.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.la-zerba.it/|la-zerba.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela del Gavi [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.la-zerba.it/",
+   "etichetta": "la-zerba.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela del Gavi, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziogavi.com/produttori/",
+   "etichetta": "consorziogavi.com"
+  }
+ ]
+}

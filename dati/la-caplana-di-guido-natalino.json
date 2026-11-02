@@ -1,0 +1,40 @@
+{
+ "nome": "La Caplana di Guido Natalino",
+ "slug": "la-caplana-di-guido-natalino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Circonvallazione 4, 15060 Bosio (AL) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0143 684182 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "lacaplana@email.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lacaplana.it/|lacaplana.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela del Gavi [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela del Gavi, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziogavi.com/produttori/",
+   "etichetta": "consorziogavi.com"
+  }
+ ]
+}

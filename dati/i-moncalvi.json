@@ -1,0 +1,50 @@
+{
+ "nome": "I Moncalvi",
+ "slug": "i-moncalvi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01771640065 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Moncalvi 82 Rovereto, 15066 Gavi (AL) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0143 682112 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantine@imoncalvi.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://imoncalvi.com/|imoncalvi.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela del Gavi [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://imoncalvi.com/",
+   "etichetta": "imoncalvi.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela del Gavi, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziogavi.com/produttori/",
+   "etichetta": "consorziogavi.com"
+  }
+ ]
+}

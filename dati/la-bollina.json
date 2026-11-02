@@ -1,0 +1,50 @@
+{
+ "nome": "La Bollina",
+ "slug": "la-bollina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02252950064 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Novi 39, 15069 Serravalle Scrivia (AL) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0143 61984 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@labollina.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://labollina.it/|labollina.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela del Gavi [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://labollina.it/",
+   "etichetta": "labollina.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela del Gavi, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziogavi.com/produttori/",
+   "etichetta": "consorziogavi.com"
+  }
+ ]
+}

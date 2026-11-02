@@ -5165,6 +5165,9 @@
 ],
 "acqui": [
 "Vini d’Acqui"
+],
+"gavi": [
+"Gavi"
 ]
 },
 "membri": [
@@ -50455,5 +50458,620 @@
 "bragagnolo-vini-passiti-di-silvio-bragagnolo"
 ],
 "primario": "bragagnolo-vini-passiti-di-silvio-bragagnolo"
+},
+{
+"slug": "valditerra-vini-di-valditerra-francesco",
+"nome": "Valditerra Vini di Valditerra Francesco",
+"regione": "Piemonte",
+"comune": "Novi Ligure",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"valditerra-vini-di-valditerra-francesco"
+],
+"primario": "valditerra-vini-di-valditerra-francesco"
+},
+{
+"slug": "villa-sparina-di-massimo-moccagatta",
+"nome": "Villa Sparina di Massimo Moccagatta",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"villa-sparina-di-massimo-moccagatta"
+],
+"primario": "villa-sparina-di-massimo-moccagatta"
+},
+{
+"slug": "magda-pedrini",
+"nome": "Magda Pedrini",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"magda-pedrini"
+],
+"primario": "magda-pedrini"
+},
+{
+"slug": "marchese-luca-spinola",
+"nome": "Marchese Luca Spinola",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"marchese-luca-spinola"
+],
+"primario": "marchese-luca-spinola"
+},
+{
+"slug": "massone-stefano",
+"nome": "Massone Stefano",
+"regione": "Piemonte",
+"comune": "Capriata D’Orba",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"massone-stefano"
+],
+"primario": "massone-stefano"
+},
+{
+"slug": "mignanego-francesco-figli",
+"nome": "Mignanego Francesco & Figli",
+"regione": "Piemonte",
+"comune": "Francavilla Bisio",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"mignanego-francesco-figli"
+],
+"primario": "mignanego-francesco-figli"
+},
+{
+"slug": "mine-wine",
+"nome": "Mine Wine",
+"regione": "Piemonte",
+"comune": "Tassarolo",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"mine-wine"
+],
+"primario": "mine-wine"
+},
+{
+"slug": "molinetto-di-diego-carrea",
+"nome": "Molinetto di Diego Carrea",
+"regione": "Piemonte",
+"comune": "Francavilla Bisio",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"molinetto-di-diego-carrea"
+],
+"primario": "molinetto-di-diego-carrea"
+},
+{
+"slug": "ottosoldi",
+"nome": "Ottosoldi",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"ottosoldi"
+],
+"primario": "ottosoldi"
+},
+{
+"slug": "produttori-del-gavi",
+"nome": "Produttori del Gavi",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"produttori-del-gavi"
+],
+"primario": "produttori-del-gavi"
+},
+{
+"slug": "roberto-sarotto",
+"nome": "Roberto Sarotto",
+"regione": "Piemonte",
+"comune": "San Cristoforo",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"roberto-sarotto"
+],
+"primario": "roberto-sarotto"
+},
+{
+"slug": "fontanassa",
+"nome": "Fontanassa",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"fontanassa"
+],
+"primario": "fontanassa"
+},
+{
+"slug": "san-bernardo-di-guglielmi-paolo",
+"nome": "San Bernardo di Guglielmi Paolo",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"san-bernardo-di-guglielmi-paolo"
+],
+"primario": "san-bernardo-di-guglielmi-paolo"
+},
+{
+"slug": "san-matteo-di-diotti-massimo",
+"nome": "San Matteo di Diotti Massimo",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"san-matteo-di-diotti-massimo"
+],
+"primario": "san-matteo-di-diotti-massimo"
+},
+{
+"slug": "tenuta-la-giustiniana",
+"nome": "Tenuta La Giustiniana",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"tenuta-la-giustiniana"
+],
+"primario": "tenuta-la-giustiniana"
+},
+{
+"slug": "tenuta-la-marchesa",
+"nome": "Tenuta La Marchesa",
+"regione": "Piemonte",
+"comune": "Novi Ligure",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"tenuta-la-marchesa"
+],
+"primario": "tenuta-la-marchesa"
+},
+{
+"slug": "giordano-lombardo",
+"nome": "Giordano Lombardo",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"giordano-lombardo"
+],
+"primario": "giordano-lombardo"
+},
+{
+"slug": "il-poggio-di-francesca-federica-poggio",
+"nome": "Il Poggio di Francesca Federica Poggio",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"il-poggio-di-francesca-federica-poggio"
+],
+"primario": "il-poggio-di-francesca-federica-poggio"
+},
+{
+"slug": "il-rocchin",
+"nome": "Il Rocchin",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"il-rocchin"
+],
+"primario": "il-rocchin"
+},
+{
+"slug": "la-bollina",
+"nome": "La Bollina",
+"regione": "Piemonte",
+"comune": "Serravalle Scrivia",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"la-bollina"
+],
+"primario": "la-bollina"
+},
+{
+"slug": "la-cedraia",
+"nome": "La Cedraia",
+"regione": "Piemonte",
+"comune": "Novi Ligure",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"la-cedraia"
+],
+"primario": "la-cedraia"
+},
+{
+"slug": "la-chiara-di-bergaglio-dario-e-simona",
+"nome": "La Chiara di Bergaglio Dario e Simona",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"la-chiara-di-bergaglio-dario-e-simona"
+],
+"primario": "la-chiara-di-bergaglio-dario-e-simona"
+},
+{
+"slug": "la-ghibellina-di-marina-galli-ghibellini",
+"nome": "La Ghibellina di Marina Galli Ghibellini",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"la-ghibellina-di-marina-galli-ghibellini"
+],
+"primario": "la-ghibellina-di-marina-galli-ghibellini"
+},
+{
+"slug": "la-mesma",
+"nome": "La Mesma",
+"regione": "Piemonte",
+"comune": "Novi Ligure",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"la-mesma"
+],
+"primario": "la-mesma"
+},
+{
+"slug": "la-raia",
+"nome": "La Raia",
+"regione": "Piemonte",
+"comune": "Novi Ligure",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"la-raia"
+],
+"primario": "la-raia"
+},
+{
+"slug": "la-scolca",
+"nome": "La Scolca",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"la-scolca"
+],
+"primario": "la-scolca"
+},
+{
+"slug": "la-toledana",
+"nome": "La Toledana",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"la-toledana"
+],
+"primario": "la-toledana"
+},
+{
+"slug": "la-zerba",
+"nome": "La Zerba",
+"regione": "Piemonte",
+"comune": "Tassarolo",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"la-zerba"
+],
+"primario": "la-zerba"
+},
+{
+"slug": "le-marne-di-carraro-federica",
+"nome": "Le Marne di Carraro Federica",
+"regione": "Piemonte",
+"comune": "Parodi Ligure",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"le-marne-di-carraro-federica"
+],
+"primario": "le-marne-di-carraro-federica"
+},
+{
+"slug": "le-selere-di-camera-stefano",
+"nome": "Le Selere di Camera Stefano",
+"regione": "Piemonte",
+"comune": "Bosio",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"le-selere-di-camera-stefano"
+],
+"primario": "le-selere-di-camera-stefano"
+},
+{
+"slug": "alvio-pestarino",
+"nome": "Alvio Pestarino",
+"regione": "Piemonte",
+"comune": "Capriata D’Orba",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"alvio-pestarino"
+],
+"primario": "alvio-pestarino"
+},
+{
+"slug": "bergaglio-cinzia-di-gemme-mattia",
+"nome": "Bergaglio Cinzia di Gemme Mattia",
+"regione": "Piemonte",
+"comune": "Tassarolo",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"bergaglio-cinzia-di-gemme-mattia"
+],
+"primario": "bergaglio-cinzia-di-gemme-mattia"
+},
+{
+"slug": "bine",
+"nome": "Binè",
+"regione": "Piemonte",
+"comune": "Novi Ligure",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"bine"
+],
+"primario": "bine"
+},
+{
+"slug": "broglia",
+"nome": "Broglia",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"broglia"
+],
+"primario": "broglia"
+},
+{
+"slug": "cascina-la-doria",
+"nome": "Cascina La Doria",
+"regione": "Piemonte",
+"comune": "San Cristoforo",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"cascina-la-doria"
+],
+"primario": "cascina-la-doria"
+},
+{
+"slug": "castellari-bergaglio",
+"nome": "Castellari Bergaglio",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"castellari-bergaglio"
+],
+"primario": "castellari-bergaglio"
+},
+{
+"slug": "castello-di-tassarolo",
+"nome": "Castello di Tassarolo",
+"regione": "Piemonte",
+"comune": "Tassarolo",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"castello-di-tassarolo"
+],
+"primario": "castello-di-tassarolo"
+},
+{
+"slug": "cazzulo-luigi-e-g-b-tenuta-san-lorenzo",
+"nome": "Cazzulo Luigi e G.B. Tenuta San Lorenzo",
+"regione": "Piemonte",
+"comune": "Novi Ligure",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"cazzulo-luigi-e-g-b-tenuta-san-lorenzo"
+],
+"primario": "cazzulo-luigi-e-g-b-tenuta-san-lorenzo"
+},
+{
+"slug": "la-caplana-di-guido-natalino",
+"nome": "La Caplana di Guido Natalino",
+"regione": "Piemonte",
+"comune": "Bosio",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"la-caplana-di-guido-natalino"
+],
+"primario": "la-caplana-di-guido-natalino"
+},
+{
+"slug": "ghio-roberto-vigneti-piemontemare",
+"nome": "Ghio Roberto Vigneti Piemontemare",
+"regione": "Piemonte",
+"comune": "Bosio",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"ghio-roberto-vigneti-piemontemare"
+],
+"primario": "ghio-roberto-vigneti-piemontemare"
+},
+{
+"slug": "i-moncalvi",
+"nome": "I Moncalvi",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"i-moncalvi"
+],
+"primario": "i-moncalvi"
 }
 ]

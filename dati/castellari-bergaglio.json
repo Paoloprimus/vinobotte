@@ -1,0 +1,50 @@
+{
+ "nome": "Castellari Bergaglio",
+ "slug": "castellari-bergaglio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02652490067 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Frazione Rovereto 136R, 15066 Gavi (AL) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0143 644000 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "gavi@castellaribergaglio.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://castellaribergaglio.it/|castellaribergaglio.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela del Gavi [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://castellaribergaglio.it/",
+   "etichetta": "castellaribergaglio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela del Gavi, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziogavi.com/produttori/",
+   "etichetta": "consorziogavi.com"
+  }
+ ]
+}

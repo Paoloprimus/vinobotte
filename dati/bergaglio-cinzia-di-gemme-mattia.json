@@ -1,0 +1,50 @@
+{
+ "nome": "Bergaglio Cinzia di Gemme Mattia",
+ "slug": "bergaglio-cinzia-di-gemme-mattia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02749860066 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Gavi 29, 15060 Tassarolo (AL) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3484032968 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cinziabergagliovini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cinziabergagliovini.it/|cinziabergagliovini.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela del Gavi [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cinziabergagliovini.it/",
+   "etichetta": "cinziabergagliovini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela del Gavi, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziogavi.com/produttori/",
+   "etichetta": "consorziogavi.com"
+  }
+ ]
+}

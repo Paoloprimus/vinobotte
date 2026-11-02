@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Gavi — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Gavi</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Gavi</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Alvio Pestarino","s":"alvio-pestarino","c":"Capriata D’Orba","d":["Gavi"]},{"n":"Bergaglio Cinzia di Gemme Mattia","s":"bergaglio-cinzia-di-gemme-mattia","c":"Tassarolo","d":["Gavi"]},{"n":"Binè","s":"bine","c":"Novi Ligure","d":["Gavi"]},{"n":"Broglia","s":"broglia","c":"Gavi","d":["Gavi"]},{"n":"Cascina La Doria","s":"cascina-la-doria","c":"San Cristoforo","d":["Gavi"]},{"n":"Castellari Bergaglio","s":"castellari-bergaglio","c":"Gavi","d":["Gavi"]},{"n":"Castello di Tassarolo","s":"castello-di-tassarolo","c":"Tassarolo","d":["Gavi"]},{"n":"Cazzulo Luigi e G.B. Tenuta San Lorenzo","s":"cazzulo-luigi-e-g-b-tenuta-san-lorenzo","c":"Novi Ligure","d":["Gavi"]},{"n":"Fontanassa","s":"fontanassa","c":"Gavi","d":["Gavi"]},{"n":"Ghio Roberto Vigneti Piemontemare","s":"ghio-roberto-vigneti-piemontemare","c":"Bosio","d":["Gavi"]},{"n":"Giordano Lombardo","s":"giordano-lombardo","c":"Gavi","d":["Gavi"]},{"n":"I Moncalvi","s":"i-moncalvi","c":"Gavi","d":["Gavi"]},{"n":"Il Poggio di Francesca Federica Poggio","s":"il-poggio-di-francesca-federica-poggio","c":"Gavi","d":["Gavi"]},{"n":"Il Rocchin","s":"il-rocchin","c":"Gavi","d":["Gavi"]},{"n":"La Bollina","s":"la-bollina","c":"Serravalle Scrivia","d":["Gavi"]},{"n":"La Caplana di Guido Natalino","s":"la-caplana-di-guido-natalino","c":"Bosio","d":["Gavi"]},{"n":"La Cedraia","s":"la-cedraia","c":"Novi Ligure","d":["Gavi"]},{"n":"La Chiara di Bergaglio Dario e Simona","s":"la-chiara-di-bergaglio-dario-e-simona","c":"Gavi","d":["Gavi"]},{"n":"La Ghibellina di Marina Galli Ghibellini","s":"la-ghibellina-di-marina-galli-ghibellini","c":"Gavi","d":["Gavi"]},{"n":"La Mesma","s":"la-mesma","c":"Novi Ligure","d":["Gavi"]},{"n":"La Raia","s":"la-raia","c":"Novi Ligure","d":["Gavi"]},{"n":"La Scolca","s":"la-scolca","c":"Gavi","d":["Gavi"]},{"n":"La Toledana","s":"la-toledana","c":"Gavi","d":["Gavi"]},{"n":"La Zerba","s":"la-zerba","c":"Tassarolo","d":["Gavi"]},{"n":"Le Marne di Carraro Federica","s":"le-marne-di-carraro-federica","c":"Parodi Ligure","d":["Gavi"]},{"n":"Le Selere di Camera Stefano","s":"le-selere-di-camera-stefano","c":"Bosio","d":["Gavi"]},{"n":"Magda Pedrini","s":"magda-pedrini","c":"Gavi","d":["Gavi"]},{"n":"Marchese Luca Spinola","s":"marchese-luca-spinola","c":"Gavi","d":["Gavi"]},{"n":"Massone Stefano","s":"massone-stefano","c":"Capriata D’Orba","d":["Gavi"]},{"n":"Mignanego Francesco & Figli","s":"mignanego-francesco-figli","c":"Francavilla Bisio","d":["Gavi"]},{"n":"Mine Wine","s":"mine-wine","c":"Tassarolo","d":["Gavi"]},{"n":"Molinetto di Diego Carrea","s":"molinetto-di-diego-carrea","c":"Francavilla Bisio","d":["Gavi"]},{"n":"Ottosoldi","s":"ottosoldi","c":"Gavi","d":["Gavi"]},{"n":"Produttori del Gavi","s":"produttori-del-gavi","c":"Gavi","d":["Gavi"]},{"n":"Roberto Sarotto","s":"roberto-sarotto","c":"San Cristoforo","d":["Gavi"]},{"n":"San Bernardo di Guglielmi Paolo","s":"san-bernardo-di-guglielmi-paolo","c":"Gavi","d":["Gavi"]},{"n":"San Matteo di Diotti Massimo","s":"san-matteo-di-diotti-massimo","c":"Gavi","d":["Gavi"]},{"n":"Tenuta La Giustiniana","s":"tenuta-la-giustiniana","c":"Gavi","d":["Gavi"]},{"n":"Tenuta La Marchesa","s":"tenuta-la-marchesa","c":"Novi Ligure","d":["Gavi"]},{"n":"Valditerra Vini di Valditerra Francesco","s":"valditerra-vini-di-valditerra-francesco","c":"Novi Ligure","d":["Gavi"]},{"n":"Villa Sparina di Massimo Moccagatta","s":"villa-sparina-di-massimo-moccagatta","c":"Gavi","d":["Gavi"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    

@@ -1,0 +1,50 @@
+{
+ "nome": "Mine Wine",
+ "slug": "mine-wine",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02602040061 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Vicolo Levante 6, 15060 Tassarolo (AL) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 335 7785931 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@minewine.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.minewine.it/|minewine.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela del Gavi [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.minewine.it/",
+   "etichetta": "minewine.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela del Gavi, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziogavi.com/produttori/",
+   "etichetta": "consorziogavi.com"
+  }
+ ]
+}

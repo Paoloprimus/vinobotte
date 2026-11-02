@@ -1,0 +1,40 @@
+{
+ "nome": "Ghio Roberto Vigneti Piemontemare",
+ "slug": "ghio-roberto-vigneti-piemontemare",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Circonvallazione 3, 15060 Bosio (AL) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 347 7789371 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ghiovini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ghiovini.it/|ghiovini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela del Gavi [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela del Gavi, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorziogavi.com/produttori/",
+   "etichetta": "consorziogavi.com"
+  }
+ ]
+}
