@@ -1,0 +1,50 @@
+{
+ "nome": "Az. Agr. Accornero Giulio e Figli",
+ "slug": "az-agr-accornero-giulio-e-figli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Accornero & Figli S.S Soc Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01659820060 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Ca’Cima, 1, 15049 Vignale Monferrato (AL) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@accornerovini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.accornerovini.it|accornerovini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.accornerovini.it",
+   "etichetta": "accornerovini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio tutela Barbera d’Asti e Vini del Monferrato, consultato il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

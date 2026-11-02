@@ -1,0 +1,40 @@
+{
+ "nome": "Azienda Vitivinicola Oddone Prati",
+ "slug": "azienda-vitivinicola-oddone-prati",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Commenda, 10, 15073 Castellazzo Bormida (AL) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0144363376 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantina@oddoneprati.net [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.oddoneprati.com|oddoneprati.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

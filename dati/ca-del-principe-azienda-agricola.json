@@ -1,0 +1,46 @@
+{
+ "nome": "Ca' del Principe Azienda Agricola",
+ "slug": "ca-del-principe-azienda-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02809890045 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Nicrosi, 3, 12058 S. Stefano Belbo (CN) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cadelprincipe.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cadelprincipe.com|cadelprincipe.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cadelprincipe.com",
+   "etichetta": "cadelprincipe.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio tutela Barbera d’Asti e Vini del Monferrato, consultato il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

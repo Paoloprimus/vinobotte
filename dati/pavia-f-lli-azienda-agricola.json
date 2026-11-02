@@ -1,0 +1,46 @@
+{
+ "nome": "Pavia F.Lli Azienda Agricola",
+ "slug": "pavia-f-lli-azienda-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00624190054 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Fornaci Stazione, 33, 14041 Agliano Terme (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3471528480 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fratellipavia.it|fratellipavia.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.fratellipavia.it",
+   "etichetta": "fratellipavia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

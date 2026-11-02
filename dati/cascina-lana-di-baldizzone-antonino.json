@@ -1,0 +1,50 @@
+{
+ "nome": "Cascina Lana di Baldizzone Antonino",
+ "slug": "cascina-lana-di-baldizzone-antonino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00678250051 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Acqui, 187, 14049 Nizza Monferrto (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0141726734 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cascinalanavini@alice.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cascinalana.com|cascinalana.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cascinalana.com",
+   "etichetta": "cascinalana.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

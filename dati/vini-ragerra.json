@@ -1,0 +1,40 @@
+{
+ "nome": "Vini Ragerra",
+ "slug": "vini-ragerra",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Regione Bologna, 7, 14041 Agliano Terme (AT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 00447704953134 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "gigi@viniragerra.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.viniragerra.com|viniragerra.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

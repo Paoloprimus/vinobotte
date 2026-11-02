@@ -1,0 +1,50 @@
+{
+ "nome": "Montalbera Società Agricola",
+ "slug": "montalbera-societa-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00633260054 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Montalbera, 1, 14030 Castagnole Monferrato (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0119433311 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "montalbera@montalbera.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.montalbera.it|montalbera.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.montalbera.it",
+   "etichetta": "montalbera.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

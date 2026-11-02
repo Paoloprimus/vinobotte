@@ -362,5 +362,13 @@
  "valsusa": [
   "Produttori vini Valsusa",
   "<option>Valsusa</option>"
+ ],
+ "langhe": [
+  "Produttori vini Barolo, Barbaresco e Langhe",
+  "<option>Barolo, Barbaresco e Langhe</option>"
+ ],
+ "barbera-asti-monferrato": [
+  "Produttori vini Barbera d’Asti e Monferrato",
+  "<option>Barbera d’Asti e Monferrato</option>"
  ]
 }

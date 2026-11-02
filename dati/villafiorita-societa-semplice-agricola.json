@@ -1,0 +1,40 @@
+{
+ "nome": "Villafiorita Società Semplice Agricola",
+ "slug": "villafiorita-societa-semplice-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Case Sparse, 2, 14034 Castello di Annone (AT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0141401738 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@villafiorita.net [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.villafiorita.net|villafiorita.net}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

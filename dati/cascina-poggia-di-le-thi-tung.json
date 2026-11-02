@@ -1,0 +1,40 @@
+{
+ "nome": "Cascina Poggia di Le Thi Tung",
+ "slug": "cascina-poggia-di-le-thi-tung",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Brovardi, 36, 14100 Asti (AT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3314879931 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cascinapoggia@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://cascinapoggia.blogspot.com|cascinapoggia.blogspot.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

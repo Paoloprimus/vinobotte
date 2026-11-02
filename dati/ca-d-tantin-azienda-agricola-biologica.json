@@ -1,0 +1,40 @@
+{
+ "nome": "Ca' D Tantin Azienda Agricola Biologica",
+ "slug": "ca-d-tantin-azienda-agricola-biologica",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Moasca, 6, 14052 Calosso (AT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3387087871 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cadtantin.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cadtantin.it|cadtantin.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

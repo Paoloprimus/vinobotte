@@ -1,0 +1,50 @@
+{
+ "nome": "Agostino Pavia & Figli di Giuseppe e Mauro Pavia",
+ "slug": "agostino-pavia-figli-di-giuseppe-e-mauro-pavia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01467100051 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Frazione Bologna, 15, 14041 Agliano Terme (AT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0141 954125 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "agostinopavia@agostinopavia.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.agostinopavia.it|agostinopavia.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.agostinopavia.it",
+   "etichetta": "agostinopavia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio tutela Barbera d’Asti e Vini del Monferrato, consultato il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

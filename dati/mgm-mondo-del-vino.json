@@ -1,0 +1,40 @@
+{
+ "nome": "Mgm Mondo del Vino",
+ "slug": "mgm-mondo-del-vino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Seganti, 73/F, 47121 Forlì (FC) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0543789911 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@mondodelvino.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.mondodelvino.com|mondodelvino.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

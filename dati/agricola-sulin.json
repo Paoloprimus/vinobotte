@@ -1,0 +1,50 @@
+{
+ "nome": "Agricola Sulin",
+ "slug": "agricola-sulin",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01247560053 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Viale Pininfarina, 14, 14035 Grazzano Badoglio (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0141925136 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@sulin.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.sulin.it|sulin.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.sulin.it",
+   "etichetta": "sulin.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

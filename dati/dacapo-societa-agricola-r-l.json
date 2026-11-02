@@ -1,0 +1,50 @@
+{
+ "nome": "Dacapo Società Agricola R.L.",
+ "slug": "dacapo-societa-agricola-r-l",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03686510045 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Asti-Mare, 4, 14041 Agliano Terme (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3357091570 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "renata.bonacina@dacapo.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.dacapo.it|dacapovini.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.dacapo.it",
+   "etichetta": "dacapovini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "nome": "Poderi dei Bricchi Astigiani Società Agricola",
+ "slug": "poderi-dei-bricchi-astigiani-societa-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Ritane, 7, 14057 Isola D'Asti (AT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0141958974 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bricchiastigiani.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bricchiastigiani.it|bricchiastigiani.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

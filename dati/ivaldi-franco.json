@@ -1,0 +1,50 @@
+{
+ "nome": "Ivaldi Franco",
+ "slug": "ivaldi-franco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01959110063 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Caranzano, 211, 15016 Cassine (AL) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3487492231 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "franco_ivaldi@libero.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.francoivaldivini.com|francoivaldivini.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.francoivaldivini.com",
+   "etichetta": "francoivaldivini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

@@ -4158,6 +4158,9 @@
 ],
 "roero": [
 "Roero"
+],
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
 ]
 },
 "membri": [
@@ -7899,6 +7902,9 @@
 "tipi": {
 "euganei": [
 "Colli Euganei"
+],
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
 ]
 },
 "membri": [
@@ -49121,6 +49127,9 @@
 "asti": [
 "Asti Spumante DOCG",
 "Moscato d'Asti DOCG"
+],
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
 ]
 },
 "membri": [
@@ -49367,6 +49376,9 @@
 "Asti Spumante DOCG",
 "Moscato d'Asti DOCG",
 "Canelli DOCG"
+],
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
 ]
 },
 "membri": [
@@ -49403,6 +49415,9 @@
 ],
 "acqui": [
 "Vini d’Acqui"
+],
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
 ]
 },
 "membri": [
@@ -49555,6 +49570,9 @@
 "tipi": {
 "asti": [
 "Moscato d'Asti DOCG"
+],
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
 ]
 },
 "membri": [
@@ -50125,6 +50143,9 @@
 ],
 "alta-langa": [
 "Alta Langa"
+],
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
 ]
 },
 "membri": [
@@ -50251,6 +50272,9 @@
 "tipi": {
 "asti": [
 "Moscato d'Asti DOCG"
+],
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
 ]
 },
 "membri": [
@@ -50554,6 +50578,9 @@
 "tipi": {
 "asti": [
 "Moscato d'Asti DOCG"
+],
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
 ]
 },
 "membri": [
@@ -50753,6 +50780,9 @@
 ],
 "roero": [
 "Roero"
+],
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
 ]
 },
 "membri": [
@@ -50858,6 +50888,9 @@
 "tipi": {
 "acqui": [
 "Vini d’Acqui"
+],
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
 ]
 },
 "membri": [
@@ -52625,6 +52658,9 @@
 "tipi": {
 "alta-langa": [
 "Alta Langa"
+],
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
 ]
 },
 "membri": [
@@ -59732,5 +59768,2150 @@
 "l-garbin"
 ],
 "primario": "l-garbin"
+},
+{
+"slug": "agostino-pavia-figli-di-giuseppe-e-mauro-pavia",
+"nome": "Agostino Pavia & Figli di Giuseppe e Mauro Pavia",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"agostino-pavia-figli-di-giuseppe-e-mauro-pavia"
+],
+"primario": "agostino-pavia-figli-di-giuseppe-e-mauro-pavia"
+},
+{
+"slug": "agricola-sulin",
+"nome": "Agricola Sulin",
+"regione": "Piemonte",
+"comune": "Grazzano Badoglio",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"agricola-sulin"
+],
+"primario": "agricola-sulin"
+},
+{
+"slug": "alciati-giancarlo-azienda-agricola",
+"nome": "Alciati Giancarlo Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"alciati-giancarlo-azienda-agricola"
+],
+"primario": "alciati-giancarlo-azienda-agricola"
+},
+{
+"slug": "alemat-azienda-agricola-di-ambrosione-elisabetta",
+"nome": "Alemat Azienda Agricola di Ambrosione Elisabetta",
+"regione": "Piemonte",
+"comune": "Ponzano Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"alemat-azienda-agricola-di-ambrosione-elisabetta"
+],
+"primario": "alemat-azienda-agricola-di-ambrosione-elisabetta"
+},
+{
+"slug": "alibrianza",
+"nome": "Alibrianza",
+"regione": "Piemonte",
+"comune": "Moasca",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"alibrianza"
+],
+"primario": "alibrianza"
+},
+{
+"slug": "amerio-luca",
+"nome": "Amerio Luca",
+"regione": "Piemonte",
+"comune": "Moasca",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"amerio-luca"
+],
+"primario": "amerio-luca"
+},
+{
+"slug": "amista",
+"nome": "Amistà",
+"regione": "Piemonte",
+"comune": "Nizza Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"amista"
+],
+"primario": "amista"
+},
+{
+"slug": "antica-casa-vinicola-scarpa",
+"nome": "Antica Casa Vinicola Scarpa",
+"regione": "Piemonte",
+"comune": "Nizza Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"antica-casa-vinicola-scarpa"
+],
+"primario": "antica-casa-vinicola-scarpa"
+},
+{
+"slug": "az-agr-accornero-giulio-e-figli",
+"nome": "Az. Agr. Accornero Giulio e Figli",
+"regione": "Piemonte",
+"comune": "Vignale Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"az-agr-accornero-giulio-e-figli"
+],
+"primario": "az-agr-accornero-giulio-e-figli"
+},
+{
+"slug": "az-agr-delinquent",
+"nome": "Az. Agr. Delinquent",
+"regione": "Piemonte",
+"comune": "Castagnole delle Lanze",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"az-agr-delinquent"
+],
+"primario": "az-agr-delinquent"
+},
+{
+"slug": "azienda-vitivinicola-oddone-prati",
+"nome": "Azienda Vitivinicola Oddone Prati",
+"regione": "Piemonte",
+"comune": "Castellazzo Bormida",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"azienda-vitivinicola-oddone-prati"
+],
+"primario": "azienda-vitivinicola-oddone-prati"
+},
+{
+"slug": "baldi-pierfranco-azienda-agricola",
+"nome": "Baldi Pierfranco Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Costigliole D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"baldi-pierfranco-azienda-agricola"
+],
+"primario": "baldi-pierfranco-azienda-agricola"
+},
+{
+"slug": "balliano-azienda-agricola-di-agalliu-adriatik",
+"nome": "Balliano Azienda Agricola di Agalliu Adriatik",
+"regione": "Piemonte",
+"comune": "Grana",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"balliano-azienda-agricola-di-agalliu-adriatik"
+],
+"primario": "balliano-azienda-agricola-di-agalliu-adriatik"
+},
+{
+"slug": "bianco-roberto-azienda-vitivinicola-tenuta-la-graziosa-di-pia-giovanna",
+"nome": "Bianco Roberto Azienda Vitivinicola Tenuta \"La Graziosa\" di Pia Giovanna",
+"regione": "Piemonte",
+"comune": "Montegrosso D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"bianco-roberto-azienda-vitivinicola-tenuta-la-graziosa-di-pia-giovanna"
+],
+"primario": "bianco-roberto-azienda-vitivinicola-tenuta-la-graziosa-di-pia-giovanna"
+},
+{
+"slug": "biodinamica-maciot",
+"nome": "Biodinamica Maciot",
+"regione": "Piemonte",
+"comune": "Cocconato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"biodinamica-maciot"
+],
+"primario": "biodinamica-maciot"
+},
+{
+"slug": "blengio-azienda-vitivinicola",
+"nome": "Blengio Azienda Vitivinicola",
+"regione": "Piemonte",
+"comune": "Calosso",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"blengio-azienda-vitivinicola"
+],
+"primario": "blengio-azienda-vitivinicola"
+},
+{
+"slug": "bluadmin",
+"nome": "Bluadmin",
+"regione": "Piemonte",
+"comune": "Calosso",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"bluadmin"
+],
+"primario": "bluadmin"
+},
+{
+"slug": "boeri-alfonso",
+"nome": "Boeri Alfonso",
+"regione": "Piemonte",
+"comune": "Costigliole D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"boeri-alfonso"
+],
+"primario": "boeri-alfonso"
+},
+{
+"slug": "brevi-pendii",
+"nome": "Brevi Pendii",
+"regione": "Piemonte",
+"comune": "Vinchio",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"brevi-pendii"
+],
+"primario": "brevi-pendii"
+},
+{
+"slug": "bricco-falchet",
+"nome": "Bricco Falchet",
+"regione": "Piemonte",
+"comune": "Mombercelli",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"bricco-falchet"
+],
+"primario": "bricco-falchet"
+},
+{
+"slug": "bussi-piero",
+"nome": "Bussi Piero",
+"regione": "Piemonte",
+"comune": "Calosso",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"bussi-piero"
+],
+"primario": "bussi-piero"
+},
+{
+"slug": "ca-richeta-az-agricola-di-orlando-enrico",
+"nome": "Cà Richeta Az. Agricola di Orlando Enrico",
+"regione": "Piemonte",
+"comune": "Castiglione Tinella",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"ca-richeta-az-agricola-di-orlando-enrico"
+],
+"primario": "ca-richeta-az-agricola-di-orlando-enrico"
+},
+{
+"slug": "ca-d-tantin-azienda-agricola-biologica",
+"nome": "Ca' D Tantin Azienda Agricola Biologica",
+"regione": "Piemonte",
+"comune": "Calosso",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"ca-d-tantin-azienda-agricola-biologica"
+],
+"primario": "ca-d-tantin-azienda-agricola-biologica"
+},
+{
+"slug": "ca-del-prete-azienda-agricola-vitivinicola-a-coltivazione-biologica",
+"nome": "Ca' del Prete Azienda Agricola Vitivinicola A Coltivazione Biologica",
+"regione": "Piemonte",
+"comune": "Pino D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"ca-del-prete-azienda-agricola-vitivinicola-a-coltivazione-biologica"
+],
+"primario": "ca-del-prete-azienda-agricola-vitivinicola-a-coltivazione-biologica"
+},
+{
+"slug": "ca-del-principe-azienda-agricola",
+"nome": "Ca' del Principe Azienda Agricola",
+"regione": "Piemonte",
+"comune": "S. Stefano Belbo",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"ca-del-principe-azienda-agricola"
+],
+"primario": "ca-del-principe-azienda-agricola"
+},
+{
+"slug": "calcagni-maurizio",
+"nome": "Calcagni Maurizio",
+"regione": "Piemonte",
+"comune": "Albugnano",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"calcagni-maurizio"
+],
+"primario": "calcagni-maurizio"
+},
+{
+"slug": "caldera-fabrizia-vini",
+"nome": "Caldera Fabrizia Vini",
+"regione": "Piemonte",
+"comune": "Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"caldera-fabrizia-vini"
+],
+"primario": "caldera-fabrizia-vini"
+},
+{
+"slug": "cantamessa-azienda-vitivinicola",
+"nome": "Cantamessa Azienda Vitivinicola",
+"regione": "Piemonte",
+"comune": "Costigliole D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cantamessa-azienda-vitivinicola"
+],
+"primario": "cantamessa-azienda-vitivinicola"
+},
+{
+"slug": "cantina-sociale-di-casorzo",
+"nome": "Cantina Sociale di Casorzo",
+"regione": "Piemonte",
+"comune": "Casorzo",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cantina-sociale-di-casorzo"
+],
+"primario": "cantina-sociale-di-casorzo"
+},
+{
+"slug": "cantine-carel",
+"nome": "Cantine Carel",
+"regione": "Piemonte",
+"comune": "Costigliole D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cantine-carel"
+],
+"primario": "cantine-carel"
+},
+{
+"slug": "cantine-e-vigneti-anziano-di-anziano-felice-di-merlino-viviana",
+"nome": "Cantine e Vigneti Anziano di Anziano Felice di Merlino Viviana",
+"regione": "Piemonte",
+"comune": "Costigliole D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cantine-e-vigneti-anziano-di-anziano-felice-di-merlino-viviana"
+],
+"primario": "cantine-e-vigneti-anziano-di-anziano-felice-di-merlino-viviana"
+},
+{
+"slug": "cantine-macri",
+"nome": "Cantine Macri'",
+"regione": "Piemonte",
+"comune": "Calamandrana",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cantine-macri"
+],
+"primario": "cantine-macri"
+},
+{
+"slug": "cascina-boschetto",
+"nome": "Cascina Boschetto",
+"regione": "Piemonte",
+"comune": "Monesiglio",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-boschetto"
+],
+"primario": "cascina-boschetto"
+},
+{
+"slug": "cascina-bricco-ottavio-di-longo-federico",
+"nome": "Cascina Bricco Ottavio di Longo Federico",
+"regione": "Piemonte",
+"comune": "Buttigliera D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-bricco-ottavio-di-longo-federico"
+],
+"primario": "cascina-bricco-ottavio-di-longo-federico"
+},
+{
+"slug": "cascina-del-rosone",
+"nome": "Cascina del Rosone",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-del-rosone"
+],
+"primario": "cascina-del-rosone"
+},
+{
+"slug": "cascina-galarin-di-carosso-giovanni",
+"nome": "Cascina Galarin di Carosso Giovanni",
+"regione": "Piemonte",
+"comune": "Castagnole delle Lanze",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-galarin-di-carosso-giovanni"
+],
+"primario": "cascina-galarin-di-carosso-giovanni"
+},
+{
+"slug": "cascina-garitina-azienda-agricola",
+"nome": "Cascina Garitina Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Castel Boglione",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-garitina-azienda-agricola"
+],
+"primario": "cascina-garitina-azienda-agricola"
+},
+{
+"slug": "cascina-la-patareina",
+"nome": "Cascina La Patareina",
+"regione": "Piemonte",
+"comune": "Castel Boglione",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-la-patareina"
+],
+"primario": "cascina-la-patareina"
+},
+{
+"slug": "cascina-lana-di-baldizzone-antonino",
+"nome": "Cascina Lana di Baldizzone Antonino",
+"regione": "Piemonte",
+"comune": "Nizza Monferrto",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-lana-di-baldizzone-antonino"
+],
+"primario": "cascina-lana-di-baldizzone-antonino"
+},
+{
+"slug": "cascina-perfumo-di-perfumo-marco",
+"nome": "Cascina Perfumo di Perfumo Marco",
+"regione": "Piemonte",
+"comune": "Nizza Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-perfumo-di-perfumo-marco"
+],
+"primario": "cascina-perfumo-di-perfumo-marco"
+},
+{
+"slug": "cascina-poggia-di-le-thi-tung",
+"nome": "Cascina Poggia di Le Thi Tung",
+"regione": "Piemonte",
+"comune": "Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-poggia-di-le-thi-tung"
+],
+"primario": "cascina-poggia-di-le-thi-tung"
+},
+{
+"slug": "cascina-rainero",
+"nome": "Cascina Rainero",
+"regione": "Piemonte",
+"comune": "Mongardino",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-rainero"
+],
+"primario": "cascina-rainero"
+},
+{
+"slug": "cascina-rey",
+"nome": "Cascina Rey",
+"regione": "Piemonte",
+"comune": "Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-rey"
+],
+"primario": "cascina-rey"
+},
+{
+"slug": "cascina-saria",
+"nome": "Cascina Sarìa",
+"regione": "Piemonte",
+"comune": "Neive",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-saria"
+],
+"primario": "cascina-saria"
+},
+{
+"slug": "cascina-terra-felice-azienda-agricola",
+"nome": "Cascina Terra Felice Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Castagnole Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-terra-felice-azienda-agricola"
+],
+"primario": "cascina-terra-felice-azienda-agricola"
+},
+{
+"slug": "cascina-valeggia-di-bollito-alan",
+"nome": "Cascina Valeggia di Bollito Alan",
+"regione": "Piemonte",
+"comune": "Moncalvo",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-valeggia-di-bollito-alan"
+],
+"primario": "cascina-valeggia-di-bollito-alan"
+},
+{
+"slug": "cascina-vengore",
+"nome": "Cascina Vengore",
+"regione": "Piemonte",
+"comune": "San Martino Alfieri",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-vengore"
+],
+"primario": "cascina-vengore"
+},
+{
+"slug": "castello-di-gabiano",
+"nome": "Castello di Gabiano",
+"regione": "Piemonte",
+"comune": "Gabiano",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"castello-di-gabiano"
+],
+"primario": "castello-di-gabiano"
+},
+{
+"slug": "castello-di-neive-azienda-agricola",
+"nome": "Castello di Neive Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Neive",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"castello-di-neive-azienda-agricola"
+],
+"primario": "castello-di-neive-azienda-agricola"
+},
+{
+"slug": "ceretti-michele-e-figlio",
+"nome": "Ceretti Michele e Figlio",
+"regione": "Piemonte",
+"comune": "Incisa Scapaccino",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"ceretti-michele-e-figlio"
+],
+"primario": "ceretti-michele-e-figlio"
+},
+{
+"slug": "cocito-dario",
+"nome": "Cocito Dario",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cocito-dario"
+],
+"primario": "cocito-dario"
+},
+{
+"slug": "colle-manora-s-s-di-g-schon",
+"nome": "Colle Manora S.S. di G. Schon",
+"regione": "Piemonte",
+"comune": "Quargnento",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"colle-manora-s-s-di-g-schon"
+],
+"primario": "colle-manora-s-s-di-g-schon"
+},
+{
+"slug": "conti-nuvoli-di-grinzane-azienda-agricola",
+"nome": "Conti Nuvoli di Grinzane Azienda Agricola",
+"regione": "Piemonte",
+"comune": "San Damiano D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"conti-nuvoli-di-grinzane-azienda-agricola"
+],
+"primario": "conti-nuvoli-di-grinzane-azienda-agricola"
+},
+{
+"slug": "cordara-claudia",
+"nome": "Cordara Claudia",
+"regione": "Piemonte",
+"comune": "Castel Boglione",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cordara-claudia"
+],
+"primario": "cordara-claudia"
+},
+{
+"slug": "dacapo-societa-agricola-r-l",
+"nome": "Dacapo Società Agricola R.L.",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"dacapo-societa-agricola-r-l"
+],
+"primario": "dacapo-societa-agricola-r-l"
+},
+{
+"slug": "dacasto-duilio-azienda-agricola",
+"nome": "Dacasto Duilio Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"dacasto-duilio-azienda-agricola"
+],
+"primario": "dacasto-duilio-azienda-agricola"
+},
+{
+"slug": "durio-adriano",
+"nome": "Durio Adriano",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"durio-adriano"
+],
+"primario": "durio-adriano"
+},
+{
+"slug": "emilio-vada-azienda-agricola",
+"nome": "Emilio Vada Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Coazzolo",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"emilio-vada-azienda-agricola"
+],
+"primario": "emilio-vada-azienda-agricola"
+},
+{
+"slug": "f-lli-durando-azienda-agricola",
+"nome": "F.Lli Durando Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Portacomaro D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"f-lli-durando-azienda-agricola"
+],
+"primario": "f-lli-durando-azienda-agricola"
+},
+{
+"slug": "f-lli-rovera",
+"nome": "F.Lli Rovera",
+"regione": "Piemonte",
+"comune": "Spigno Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"f-lli-rovera"
+],
+"primario": "f-lli-rovera"
+},
+{
+"slug": "ferro-carlo-azienda-agricola",
+"nome": "Ferro Carlo Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"ferro-carlo-azienda-agricola"
+],
+"primario": "ferro-carlo-azienda-agricola"
+},
+{
+"slug": "francomondo-di-mondo-valerio",
+"nome": "Francomondo di Mondo Valerio",
+"regione": "Piemonte",
+"comune": "San Marzano Oliveto",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"francomondo-di-mondo-valerio"
+],
+"primario": "francomondo-di-mondo-valerio"
+},
+{
+"slug": "fratelli-aresca",
+"nome": "Fratelli Aresca",
+"regione": "Piemonte",
+"comune": "Mombercelli",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"fratelli-aresca"
+],
+"primario": "fratelli-aresca"
+},
+{
+"slug": "gambino-emanuele-azienda-agricola",
+"nome": "Gambino Emanuele Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Costigliole D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"gambino-emanuele-azienda-agricola"
+],
+"primario": "gambino-emanuele-azienda-agricola"
+},
+{
+"slug": "garrone-evasio-figlio-azienda-agricola",
+"nome": "Garrone Evasio & Figlio Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Grana",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"garrone-evasio-figlio-azienda-agricola"
+],
+"primario": "garrone-evasio-figlio-azienda-agricola"
+},
+{
+"slug": "gianni-doglia-azienda-vitivinicola",
+"nome": "Gianni Doglia Azienda Vitivinicola",
+"regione": "Piemonte",
+"comune": "Castagnole Lanze",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"gianni-doglia-azienda-vitivinicola"
+],
+"primario": "gianni-doglia-azienda-vitivinicola"
+},
+{
+"slug": "giovanni-piacenza",
+"nome": "Giovanni Piacenza",
+"regione": "Piemonte",
+"comune": "Nizza Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"giovanni-piacenza"
+],
+"primario": "giovanni-piacenza"
+},
+{
+"slug": "goggiano-c-s-n-c",
+"nome": "Goggiano & C. S.N.C.",
+"regione": "Piemonte",
+"comune": "Refrancore",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"goggiano-c-s-n-c"
+],
+"primario": "goggiano-c-s-n-c"
+},
+{
+"slug": "gozzelino-sergio-azienda-agricola",
+"nome": "Gozzelino Sergio Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Costigliole D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"gozzelino-sergio-azienda-agricola"
+],
+"primario": "gozzelino-sergio-azienda-agricola"
+},
+{
+"slug": "idivini",
+"nome": "Idivini",
+"regione": "Piemonte",
+"comune": "Isola D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"idivini"
+],
+"primario": "idivini"
+},
+{
+"slug": "il-botolo-s-r-l-azienda-agricola",
+"nome": "Il Botolo S.R.L. Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Nizza Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"il-botolo-s-r-l-azienda-agricola"
+],
+"primario": "il-botolo-s-r-l-azienda-agricola"
+},
+{
+"slug": "isabella-azienda-agricola-di-calvo-gabriele",
+"nome": "Isabella Azienda Agricola di Calvo Gabriele",
+"regione": "Piemonte",
+"comune": "Murisengo",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"isabella-azienda-agricola-di-calvo-gabriele"
+],
+"primario": "isabella-azienda-agricola-di-calvo-gabriele"
+},
+{
+"slug": "ivaldi-franco",
+"nome": "Ivaldi Franco",
+"regione": "Piemonte",
+"comune": "Cassine",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"ivaldi-franco"
+],
+"primario": "ivaldi-franco"
+},
+{
+"slug": "l-alegra-s-s-agricola",
+"nome": "L'Alegra S.S. Agricola",
+"regione": "Piemonte",
+"comune": "Settime",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"l-alegra-s-s-agricola"
+],
+"primario": "l-alegra-s-s-agricola"
+},
+{
+"slug": "la-baretta-s-s-azienda-agricola",
+"nome": "La Baretta S.S. Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Fontanile",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"la-baretta-s-s-azienda-agricola"
+],
+"primario": "la-baretta-s-s-azienda-agricola"
+},
+{
+"slug": "la-giribaldina-s-s-a-azienda-agricola",
+"nome": "La Giribaldina S.S.A. Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Calamandrana",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"la-giribaldina-s-s-a-azienda-agricola"
+],
+"primario": "la-giribaldina-s-s-a-azienda-agricola"
+},
+{
+"slug": "la-gironda-di-galandrino-a-e-c-s-s-azienda-agricola",
+"nome": "La Gironda di Galandrino A. e C. S.S. Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Nizza Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"la-gironda-di-galandrino-a-e-c-s-s-azienda-agricola"
+],
+"primario": "la-gironda-di-galandrino-a-e-c-s-s-azienda-agricola"
+},
+{
+"slug": "la-mondianese-d-vine-s-s-agricola",
+"nome": "La Mondianese - D&Vine S.S. Agricola",
+"regione": "Piemonte",
+"comune": "Montemagno",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"la-mondianese-d-vine-s-s-agricola"
+],
+"primario": "la-mondianese-d-vine-s-s-agricola"
+},
+{
+"slug": "la-montagnetta-azienda-agricola-di-domenico-capello",
+"nome": "La Montagnetta Azienda Agricola di Domenico Capello",
+"regione": "Piemonte",
+"comune": "Roatto",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"la-montagnetta-azienda-agricola-di-domenico-capello"
+],
+"primario": "la-montagnetta-azienda-agricola-di-domenico-capello"
+},
+{
+"slug": "la-mosca-bianca-societa-agricola",
+"nome": "La Mosca Bianca Società Agricola",
+"regione": "Piemonte",
+"comune": "Nizza Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"la-mosca-bianca-societa-agricola"
+],
+"primario": "la-mosca-bianca-societa-agricola"
+},
+{
+"slug": "la-ribota-azienda-agricola-di-barberis-giuliano",
+"nome": "La Ribota Azienda Agricola di Barberis Giuliano",
+"regione": "Piemonte",
+"comune": "San Damiano D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"la-ribota-azienda-agricola-di-barberis-giuliano"
+],
+"primario": "la-ribota-azienda-agricola-di-barberis-giuliano"
+},
+{
+"slug": "la-tanarella-azienda-agricola",
+"nome": "La Tanarella Azienda Agricola",
+"regione": "Piemonte",
+"comune": "San Martino Alfieri",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"la-tanarella-azienda-agricola"
+],
+"primario": "la-tanarella-azienda-agricola"
+},
+{
+"slug": "laiolo-davide-azienda-agricola",
+"nome": "Laiolo Davide Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Vinchio",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"laiolo-davide-azienda-agricola"
+],
+"primario": "laiolo-davide-azienda-agricola"
+},
+{
+"slug": "marchesi-alfieri",
+"nome": "Marchesi Alfieri",
+"regione": "Piemonte",
+"comune": "San Martino Alfieri",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"marchesi-alfieri"
+],
+"primario": "marchesi-alfieri"
+},
+{
+"slug": "marenco-azienda-agricola-s-s-societa-agricola",
+"nome": "Marenco Azienda Agricola S.S. Società Agricola",
+"regione": "Piemonte",
+"comune": "Strevi",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"marenco-azienda-agricola-s-s-societa-agricola"
+],
+"primario": "marenco-azienda-agricola-s-s-societa-agricola"
+},
+{
+"slug": "marengo-massimo-az-agricola",
+"nome": "Marengo Massimo Az. Agricola",
+"regione": "Piemonte",
+"comune": "Castagnole Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"marengo-massimo-az-agricola"
+],
+"primario": "marengo-massimo-az-agricola"
+},
+{
+"slug": "marove-adriano-cavallito",
+"nome": "Marove' Adriano Cavallito",
+"regione": "Piemonte",
+"comune": "Cocconato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"marove-adriano-cavallito"
+],
+"primario": "marove-adriano-cavallito"
+},
+{
+"slug": "mgm-mondo-del-vino",
+"nome": "Mgm Mondo del Vino",
+"regione": "Emilia-Romagna",
+"comune": "Forlì",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"mgm-mondo-del-vino"
+],
+"primario": "mgm-mondo-del-vino"
+},
+{
+"slug": "molino-mauro-azienda-agricola",
+"nome": "Molino Mauro Azienda Agricola",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"molino-mauro-azienda-agricola"
+],
+"primario": "molino-mauro-azienda-agricola"
+},
+{
+"slug": "montalbera-societa-agricola",
+"nome": "Montalbera Società Agricola",
+"regione": "Piemonte",
+"comune": "Castagnole Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"montalbera-societa-agricola"
+],
+"primario": "montalbera-societa-agricola"
+},
+{
+"slug": "montariolo-societa-agricola",
+"nome": "Montariolo Società Agricola",
+"regione": "Piemonte",
+"comune": "Alfiano Natta",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"montariolo-societa-agricola"
+],
+"primario": "montariolo-societa-agricola"
+},
+{
+"slug": "mosso-mario-azienda-agricola",
+"nome": "Mosso Mario Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Moncucco Torinese",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"mosso-mario-azienda-agricola"
+],
+"primario": "mosso-mario-azienda-agricola"
+},
+{
+"slug": "mura-mura-azienda-agricola",
+"nome": "Mura Mura Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Costigliole D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"mura-mura-azienda-agricola"
+],
+"primario": "mura-mura-azienda-agricola"
+},
+{
+"slug": "nicola-federico-azienda-agricola",
+"nome": "Nicola Federico Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Cocconato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"nicola-federico-azienda-agricola"
+],
+"primario": "nicola-federico-azienda-agricola"
+},
+{
+"slug": "novara-azienda-agricola",
+"nome": "Novara Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Cisterna D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"novara-azienda-agricola"
+],
+"primario": "novara-azienda-agricola"
+},
+{
+"slug": "paolo-berutti-azienda-agricola",
+"nome": "Paolo Berutti Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Santo Stefano Belbo",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"paolo-berutti-azienda-agricola"
+],
+"primario": "paolo-berutti-azienda-agricola"
+},
+{
+"slug": "pavia-f-lli-azienda-agricola",
+"nome": "Pavia F.Lli Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"pavia-f-lli-azienda-agricola"
+],
+"primario": "pavia-f-lli-azienda-agricola"
+},
+{
+"slug": "piancanelli-azienda-vitivinicola-di-silvio-laiolo",
+"nome": "Piancanelli Azienda Vitivinicola di Silvio Laiolo",
+"regione": "Piemonte",
+"comune": "Loazzolo",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"piancanelli-azienda-vitivinicola-di-silvio-laiolo"
+],
+"primario": "piancanelli-azienda-vitivinicola-di-silvio-laiolo"
+},
+{
+"slug": "poderi-dei-bricchi-astigiani-societa-agricola",
+"nome": "Poderi dei Bricchi Astigiani Società Agricola",
+"regione": "Piemonte",
+"comune": "Isola D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"poderi-dei-bricchi-astigiani-societa-agricola"
+],
+"primario": "poderi-dei-bricchi-astigiani-societa-agricola"
+},
+{
+"slug": "poderi-rosso-giovanni-di-rosso-lionello",
+"nome": "Poderi Rosso Giovanni di Rosso Lionello",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"poderi-rosso-giovanni-di-rosso-lionello"
+],
+"primario": "poderi-rosso-giovanni-di-rosso-lionello"
+},
+{
+"slug": "poggio-di-poggio-matteo",
+"nome": "Poggio di Poggio Matteo",
+"regione": "Piemonte",
+"comune": "Castel Boglione",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"poggio-di-poggio-matteo"
+],
+"primario": "poggio-di-poggio-matteo"
+},
+{
+"slug": "poggio-ridente",
+"nome": "Poggio Ridente",
+"regione": "Piemonte",
+"comune": "Cocconato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"poggio-ridente"
+],
+"primario": "poggio-ridente"
+},
+{
+"slug": "prasso-piero-azienda-agricola",
+"nome": "Prasso Piero Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Mongardino",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"prasso-piero-azienda-agricola"
+],
+"primario": "prasso-piero-azienda-agricola"
+},
+{
+"slug": "prediomagno-winery",
+"nome": "Prediomagno Winery",
+"regione": "Piemonte",
+"comune": "Grana",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"prediomagno-winery"
+],
+"primario": "prediomagno-winery"
+},
+{
+"slug": "qimisola-di-zhang-qi-azienda-agricola",
+"nome": "Qimisola di Zhang Qi Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Costigliole D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"qimisola-di-zhang-qi-azienda-agricola"
+],
+"primario": "qimisola-di-zhang-qi-azienda-agricola"
+},
+{
+"slug": "quila-azienda-agricola",
+"nome": "Quila Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Neive",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"quila-azienda-agricola"
+],
+"primario": "quila-azienda-agricola"
+},
+{
+"slug": "rabino-marco-azienda-agricola",
+"nome": "Rabino Marco Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Montaldo Scarampi",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"rabino-marco-azienda-agricola"
+],
+"primario": "rabino-marco-azienda-agricola"
+},
+{
+"slug": "reggio-marco-giuseppe",
+"nome": "Reggio Marco Giuseppe",
+"regione": "Piemonte",
+"comune": "Castelnuovo Calcea",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"reggio-marco-giuseppe"
+],
+"primario": "reggio-marco-giuseppe"
+},
+{
+"slug": "sant-anna-dei-bricchetti-azienda-agricola",
+"nome": "Sant'Anna dei Bricchetti Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Costigliole D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"sant-anna-dei-bricchetti-azienda-agricola"
+],
+"primario": "sant-anna-dei-bricchetti-azienda-agricola"
+},
+{
+"slug": "scarzella-azienda-agricola",
+"nome": "Scarzella Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Rocchetta Tanaro",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"scarzella-azienda-agricola"
+],
+"primario": "scarzella-azienda-agricola"
+},
+{
+"slug": "sette-colli",
+"nome": "Sette Colli",
+"regione": "Piemonte",
+"comune": "Moncalvo",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"sette-colli"
+],
+"primario": "sette-colli"
+},
+{
+"slug": "soc-agr-tenuta-sussambrino-soc-semplice",
+"nome": "Soc. Agr. Tenuta Sussambrino Soc. Semplice",
+"regione": "Piemonte",
+"comune": "Castelnuovo Don Bosco",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"soc-agr-tenuta-sussambrino-soc-semplice"
+],
+"primario": "soc-agr-tenuta-sussambrino-soc-semplice"
+},
+{
+"slug": "tamburnin-societa-semplice-agricola",
+"nome": "Tamburnin Società Semplice Agricola",
+"regione": "Piemonte",
+"comune": "Castelnuovo Don Bosco",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"tamburnin-societa-semplice-agricola"
+],
+"primario": "tamburnin-societa-semplice-agricola"
+},
+{
+"slug": "tartaglino-ezio-azienda-vitivinicola",
+"nome": "Tartaglino Ezio Azienda Vitivinicola",
+"regione": "Piemonte",
+"comune": "Vigliano D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"tartaglino-ezio-azienda-vitivinicola"
+],
+"primario": "tartaglino-ezio-azienda-vitivinicola"
+},
+{
+"slug": "taverna-roberto-azienda-agricola",
+"nome": "Taverna Roberto Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Neive",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"taverna-roberto-azienda-agricola"
+],
+"primario": "taverna-roberto-azienda-agricola"
+},
+{
+"slug": "tenuta-carlin-de-paolo-azienda-agricola-di-ponte-davide-e-c",
+"nome": "Tenuta Carlin De Paolo Azienda Agricola di Ponte Davide e C.",
+"regione": "Piemonte",
+"comune": "San Damiano D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"tenuta-carlin-de-paolo-azienda-agricola-di-ponte-davide-e-c"
+],
+"primario": "tenuta-carlin-de-paolo-azienda-agricola-di-ponte-davide-e-c"
+},
+{
+"slug": "tenuta-castello-di-razzano-s-s-agr",
+"nome": "Tenuta Castello di Razzano S.S. Agr.",
+"regione": "Piemonte",
+"comune": "Alfiano Natta",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"tenuta-castello-di-razzano-s-s-agr"
+],
+"primario": "tenuta-castello-di-razzano-s-s-agr"
+},
+{
+"slug": "tenuta-dei-re-azienda-agricola",
+"nome": "Tenuta dei Re Azienda Agricola",
+"regione": "Piemonte",
+"comune": "Castagnole Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"tenuta-dei-re-azienda-agricola"
+],
+"primario": "tenuta-dei-re-azienda-agricola"
+},
+{
+"slug": "tenuta-la-fiammenga",
+"nome": "Tenuta La Fiammenga",
+"regione": "Piemonte",
+"comune": "Penango",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"tenuta-la-fiammenga"
+],
+"primario": "tenuta-la-fiammenga"
+},
+{
+"slug": "tenuta-la-tenaglia",
+"nome": "Tenuta La Tenaglia",
+"regione": "Piemonte",
+"comune": "Serralunga di Crea",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"tenuta-la-tenaglia"
+],
+"primario": "tenuta-la-tenaglia"
+},
+{
+"slug": "tenuta-montemagno",
+"nome": "Tenuta Montemagno",
+"regione": "Piemonte",
+"comune": "Montemagno",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"tenuta-montemagno"
+],
+"primario": "tenuta-montemagno"
+},
+{
+"slug": "tenuta-nerca",
+"nome": "Tenuta Nerca",
+"regione": "Piemonte",
+"comune": "Mongardino",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"tenuta-nerca"
+],
+"primario": "tenuta-nerca"
+},
+{
+"slug": "tenuta-ronzano-di-ronzano-marco",
+"nome": "Tenuta Ronzano di Ronzano Marco",
+"regione": "Piemonte",
+"comune": "Costigliole D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"tenuta-ronzano-di-ronzano-marco"
+],
+"primario": "tenuta-ronzano-di-ronzano-marco"
+},
+{
+"slug": "tenuta-san-mauro-di-bianco-mauro",
+"nome": "Tenuta San Mauro di Bianco Mauro",
+"regione": "Piemonte",
+"comune": "Castagnole delle Lanze",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"tenuta-san-mauro-di-bianco-mauro"
+],
+"primario": "tenuta-san-mauro-di-bianco-mauro"
+},
+{
+"slug": "tenuta-santa-caterina",
+"nome": "Tenuta Santa Caterina",
+"regione": "Piemonte",
+"comune": "Grazzano Badoglio",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"tenuta-santa-caterina"
+],
+"primario": "tenuta-santa-caterina"
+},
+{
+"slug": "terre-dei-santi",
+"nome": "Terre dei Santi",
+"regione": "Piemonte",
+"comune": "Castelnuovo Don Bosco",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"terre-dei-santi"
+],
+"primario": "terre-dei-santi"
+},
+{
+"slug": "tre-acini-azienda-vitivinicola-di-elia-defilippi",
+"nome": "Tre Acini Azienda Vitivinicola di Elia Defilippi",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"tre-acini-azienda-vitivinicola-di-elia-defilippi"
+],
+"primario": "tre-acini-azienda-vitivinicola-di-elia-defilippi"
+},
+{
+"slug": "ugo-balocco-azienda-agricola",
+"nome": "Ugo Balocco Azienda Agricola",
+"regione": "Piemonte",
+"comune": "San Marzano Oliveto",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"ugo-balocco-azienda-agricola"
+],
+"primario": "ugo-balocco-azienda-agricola"
+},
+{
+"slug": "venturino-eugenio",
+"nome": "Venturino Eugenio",
+"regione": "Piemonte",
+"comune": "Vaglio Serra",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"venturino-eugenio"
+],
+"primario": "venturino-eugenio"
+},
+{
+"slug": "vergnano-giovanni-cascina-gilli",
+"nome": "Vergnano Giovanni Cascina Gilli",
+"regione": "Piemonte",
+"comune": "Castelnuovo Don Bosco",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"vergnano-giovanni-cascina-gilli"
+],
+"primario": "vergnano-giovanni-cascina-gilli"
+},
+{
+"slug": "vida-azienda-agricola-di-tirrito-elio",
+"nome": "Vida Azienda Agricola di Tirrito Elio",
+"regione": "Piemonte",
+"comune": "Mongardino",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"vida-azienda-agricola-di-tirrito-elio"
+],
+"primario": "vida-azienda-agricola-di-tirrito-elio"
+},
+{
+"slug": "vignaiole-prever-societa-semplice-agricola",
+"nome": "Vignaiole Prever Società Semplice Agricola",
+"regione": "Piemonte",
+"comune": "Villarbasse",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"vignaiole-prever-societa-semplice-agricola"
+],
+"primario": "vignaiole-prever-societa-semplice-agricola"
+},
+{
+"slug": "vignaioli-del-tortonese",
+"nome": "Vignaioli del Tortonese",
+"regione": "Piemonte",
+"comune": "Tortona",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"vignaioli-del-tortonese"
+],
+"primario": "vignaioli-del-tortonese"
+},
+{
+"slug": "vignaioli-piemontesi",
+"nome": "Vignaioli Piemontesi",
+"regione": "Piemonte",
+"comune": "Castagnito",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"vignaioli-piemontesi"
+],
+"primario": "vignaioli-piemontesi"
+},
+{
+"slug": "vigne-dei-mastri-s-a-r-l",
+"nome": "Vigne dei Mastri S. A R.L.",
+"regione": "Piemonte",
+"comune": "Costigliole D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"vigne-dei-mastri-s-a-r-l"
+],
+"primario": "vigne-dei-mastri-s-a-r-l"
+},
+{
+"slug": "villa-felice",
+"nome": "Villa Felice",
+"regione": "Piemonte",
+"comune": "Cassine",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"villa-felice"
+],
+"primario": "villa-felice"
+},
+{
+"slug": "villa-giada-s-a",
+"nome": "Villa Giada S.A.",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"villa-giada-s-a"
+],
+"primario": "villa-giada-s-a"
+},
+{
+"slug": "villafiorita-societa-semplice-agricola",
+"nome": "Villafiorita Società Semplice Agricola",
+"regione": "Piemonte",
+"comune": "Castello di Annone",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"villafiorita-societa-semplice-agricola"
+],
+"primario": "villafiorita-societa-semplice-agricola"
+},
+{
+"slug": "vincenzo-bossotti-vignaiolo-societa-agricola",
+"nome": "Vincenzo Bossotti Vignaiolo Società Agricola",
+"regione": "Piemonte",
+"comune": "Cisterna D'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"vincenzo-bossotti-vignaiolo-societa-agricola"
+],
+"primario": "vincenzo-bossotti-vignaiolo-societa-agricola"
+},
+{
+"slug": "vini-ragerra",
+"nome": "Vini Ragerra",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"vini-ragerra"
+],
+"primario": "vini-ragerra"
+},
+{
+"slug": "vinicola-arno-s-r-l-societa-agricola",
+"nome": "Vinicola Arno S.R.L. Società Agricola",
+"regione": "Piemonte",
+"comune": "Mombercelli",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"vinicola-arno-s-r-l-societa-agricola"
+],
+"primario": "vinicola-arno-s-r-l-societa-agricola"
+},
+{
+"slug": "vinimaccagno",
+"nome": "Vinimaccagno",
+"regione": "Piemonte",
+"comune": "Ferrere",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"vinimaccagno"
+],
+"primario": "vinimaccagno"
+},
+{
+"slug": "viotti-vini-societa-agricola",
+"nome": "Viotti Vini Società Agricola",
+"regione": "Piemonte",
+"comune": "Castel Rocchero",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"viotti-vini-societa-agricola"
+],
+"primario": "viotti-vini-societa-agricola"
 }
 ]

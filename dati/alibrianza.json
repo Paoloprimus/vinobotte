@@ -1,0 +1,50 @@
+{
+ "nome": "Alibrianza",
+ "slug": "alibrianza",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02334810138 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Cascina Radice, Regione Radice 1, 14050 Moasca (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0399202121 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "federica@alibrianza.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.alibrianza.it|camavin.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.alibrianza.it",
+   "etichetta": "camavin.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

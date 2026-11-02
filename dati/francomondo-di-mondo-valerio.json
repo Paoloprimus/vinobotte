@@ -1,0 +1,50 @@
+{
+ "nome": "Francomondo di Mondo Valerio",
+ "slug": "francomondo-di-mondo-valerio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Sito web realizzato e posizionato da PRISMI S.p.A [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01734440058 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Umberto I’, 11, 14050 San Marzano Oliveto (AT) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@francomondo.net [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.francomondo.net|francomondo.net}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.francomondo.net",
+   "etichetta": "francomondo.net"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio tutela Barbera d’Asti e Vini del Monferrato, consultato il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "nome": "Tenuta San Mauro di Bianco Mauro",
+ "slug": "tenuta-san-mauro-di-bianco-mauro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01143240057 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località San Mauro, 2, 14054 Castagnole delle Lanze (AT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 333 8759382 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutasanmauro.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutasanmauro.com|tenutasanmauro.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.tenutasanmauro.com",
+   "etichetta": "tenutasanmauro.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio tutela Barbera d’Asti e Vini del Monferrato, consultato il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

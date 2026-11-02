@@ -1,0 +1,50 @@
+{
+ "nome": "Reggio Marco Giuseppe",
+ "slug": "reggio-marco-giuseppe",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01153570054 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Momparone, 2/B, 14040 Castelnuovo Calcea (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3271763569 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "reggio.gr@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cascinareggio.it|cascinareggio.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cascinareggio.it",
+   "etichetta": "cascinareggio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

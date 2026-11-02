@@ -22,8 +22,8 @@
      "valore": "{{https://maurosebaste.it|maurosebaste.it}} [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Alta Langa [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Alta Langa [[1]]\nConsorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
     }
    ]
   }
@@ -35,6 +35,12 @@
    "testo": "Elenco delle aziende del Consorzio Alta Langa, scheda dell’azienda consultata il 2 novembre 2026.",
    "url": "https://www.altalangadocg.com/cantine/mauro-sebaste/",
    "etichetta": "altalangadocg.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori del Consorzio tutela Barbera d’Asti e Vini del Monferrato, consultato il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
   }
  ]
 }

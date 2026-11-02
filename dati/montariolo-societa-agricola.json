@@ -1,0 +1,40 @@
+{
+ "nome": "Montariolo Società Agricola",
+ "slug": "montariolo-societa-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cascina Montariolo, 15021 Alfiano Natta (AL) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3478737144 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@montariolo.it; patrizia.pirola@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.montariolo.it|montariolo.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

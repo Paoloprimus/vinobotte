@@ -1,0 +1,40 @@
+{
+ "nome": "Novara Azienda Agricola",
+ "slug": "novara-azienda-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Frazione S. Matteo Fondo, 1, 14010 Cisterna D'Asti (AT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3381761226 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinafratellinovara.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinafratellinovara.it|cantinafratellinovara.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

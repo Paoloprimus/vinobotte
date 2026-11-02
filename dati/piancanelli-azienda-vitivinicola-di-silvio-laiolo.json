@@ -1,0 +1,50 @@
+{
+ "nome": "Piancanelli Azienda Vitivinicola di Silvio Laiolo",
+ "slug": "piancanelli-azienda-vitivinicola-di-silvio-laiolo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01341530051 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada per Canelli, 22, 14051 Loazzolo (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 014487287 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@piancanelli.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.piancanelli.it|piancanelli.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.piancanelli.it",
+   "etichetta": "piancanelli.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

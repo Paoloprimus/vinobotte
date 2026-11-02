@@ -4,6 +4,8 @@
   15,
   18,
   19,
+  26,
+  27,
   36,
   37,
   41,
@@ -25,22 +27,152 @@
   135
  ],
  "promosse": [
-  "lungarotti",
-  "terre-margaritelli",
-  "soc-agr-de-luca",
-  "librandi-antonio-e-nicodemo",
-  "fax-0962-88252-348-2260328",
-  "fax-39-0962-1905781",
-  "romano-adamo",
-  "fax-39-0962-379152",
-  "cell-39-380-3679780",
-  "fax-39-0962-31107",
-  "feudo-liguori-azienda-agricola-giuseppe-liguori",
-  "cantina-campana-di-cosentino-maria",
-  "l-garbin"
+  "agostino-pavia-figli-di-giuseppe-e-mauro-pavia",
+  "agricola-sulin",
+  "alciati-giancarlo-azienda-agricola",
+  "alemat-azienda-agricola-di-ambrosione-elisabetta",
+  "alibrianza",
+  "amerio-luca",
+  "amista",
+  "antica-casa-vinicola-scarpa",
+  "az-agr-accornero-giulio-e-figli",
+  "az-agr-delinquent",
+  "azienda-vitivinicola-oddone-prati",
+  "baldi-pierfranco-azienda-agricola",
+  "balliano-azienda-agricola-di-agalliu-adriatik",
+  "bianco-roberto-azienda-vitivinicola-tenuta-la-graziosa-di-pia-giovanna",
+  "biodinamica-maciot",
+  "blengio-azienda-vitivinicola",
+  "bluadmin",
+  "boeri-alfonso",
+  "brevi-pendii",
+  "bricco-falchet",
+  "bussi-piero",
+  "ca-richeta-az-agricola-di-orlando-enrico",
+  "ca-d-tantin-azienda-agricola-biologica",
+  "ca-del-prete-azienda-agricola-vitivinicola-a-coltivazione-biologica",
+  "ca-del-principe-azienda-agricola",
+  "calcagni-maurizio",
+  "caldera-fabrizia-vini",
+  "cantamessa-azienda-vitivinicola",
+  "cantina-sociale-di-casorzo",
+  "cantine-carel",
+  "cantine-e-vigneti-anziano-di-anziano-felice-di-merlino-viviana",
+  "cantine-macri",
+  "cascina-boschetto",
+  "cascina-bricco-ottavio-di-longo-federico",
+  "cascina-del-rosone",
+  "cascina-galarin-di-carosso-giovanni",
+  "cascina-garitina-azienda-agricola",
+  "cascina-la-patareina",
+  "cascina-lana-di-baldizzone-antonino",
+  "cascina-perfumo-di-perfumo-marco",
+  "cascina-poggia-di-le-thi-tung",
+  "cascina-rainero",
+  "cascina-rey",
+  "cascina-saria",
+  "cascina-terra-felice-azienda-agricola",
+  "cascina-valeggia-di-bollito-alan",
+  "cascina-vengore",
+  "castello-di-gabiano",
+  "castello-di-neive-azienda-agricola",
+  "ceretti-michele-e-figlio",
+  "cocito-dario",
+  "colle-manora-s-s-di-g-schon",
+  "conti-nuvoli-di-grinzane-azienda-agricola",
+  "cordara-claudia",
+  "dacapo-societa-agricola-r-l",
+  "dacasto-duilio-azienda-agricola",
+  "durio-adriano",
+  "emilio-vada-azienda-agricola",
+  "f-lli-durando-azienda-agricola",
+  "f-lli-rovera",
+  "ferro-carlo-azienda-agricola",
+  "francomondo-di-mondo-valerio",
+  "fratelli-aresca",
+  "gambino-emanuele-azienda-agricola",
+  "garrone-evasio-figlio-azienda-agricola",
+  "gianni-doglia-azienda-vitivinicola",
+  "giovanni-piacenza",
+  "goggiano-c-s-n-c",
+  "gozzelino-sergio-azienda-agricola",
+  "idivini",
+  "il-botolo-s-r-l-azienda-agricola",
+  "isabella-azienda-agricola-di-calvo-gabriele",
+  "ivaldi-franco",
+  "l-alegra-s-s-agricola",
+  "la-baretta-s-s-azienda-agricola",
+  "la-giribaldina-s-s-a-azienda-agricola",
+  "la-gironda-di-galandrino-a-e-c-s-s-azienda-agricola",
+  "la-mondianese-d-vine-s-s-agricola",
+  "la-montagnetta-azienda-agricola-di-domenico-capello",
+  "la-mosca-bianca-societa-agricola",
+  "la-ribota-azienda-agricola-di-barberis-giuliano",
+  "la-tanarella-azienda-agricola",
+  "laiolo-davide-azienda-agricola",
+  "marchesi-alfieri",
+  "marenco-azienda-agricola-s-s-societa-agricola",
+  "marengo-massimo-az-agricola",
+  "marove-adriano-cavallito",
+  "mgm-mondo-del-vino",
+  "molino-mauro-azienda-agricola",
+  "montalbera-societa-agricola",
+  "montariolo-societa-agricola",
+  "mosso-mario-azienda-agricola",
+  "mura-mura-azienda-agricola",
+  "nicola-federico-azienda-agricola",
+  "novara-azienda-agricola",
+  "paolo-berutti-azienda-agricola",
+  "pavia-f-lli-azienda-agricola",
+  "piancanelli-azienda-vitivinicola-di-silvio-laiolo",
+  "poderi-dei-bricchi-astigiani-societa-agricola",
+  "poderi-rosso-giovanni-di-rosso-lionello",
+  "poggio-di-poggio-matteo",
+  "poggio-ridente",
+  "prasso-piero-azienda-agricola",
+  "prediomagno-winery",
+  "qimisola-di-zhang-qi-azienda-agricola",
+  "quila-azienda-agricola",
+  "rabino-marco-azienda-agricola",
+  "reggio-marco-giuseppe",
+  "sant-anna-dei-bricchetti-azienda-agricola",
+  "scarzella-azienda-agricola",
+  "sette-colli",
+  "soc-agr-tenuta-sussambrino-soc-semplice",
+  "tamburnin-societa-semplice-agricola",
+  "tartaglino-ezio-azienda-vitivinicola",
+  "taverna-roberto-azienda-agricola",
+  "tenuta-carlin-de-paolo-azienda-agricola-di-ponte-davide-e-c",
+  "tenuta-castello-di-razzano-s-s-agr",
+  "tenuta-dei-re-azienda-agricola",
+  "tenuta-la-fiammenga",
+  "tenuta-la-tenaglia",
+  "tenuta-montemagno",
+  "tenuta-nerca",
+  "tenuta-ronzano-di-ronzano-marco",
+  "tenuta-san-mauro-di-bianco-mauro",
+  "tenuta-santa-caterina",
+  "terre-dei-santi",
+  "tre-acini-azienda-vitivinicola-di-elia-defilippi",
+  "ugo-balocco-azienda-agricola",
+  "venturino-eugenio",
+  "vergnano-giovanni-cascina-gilli",
+  "vida-azienda-agricola-di-tirrito-elio",
+  "vignaiole-prever-societa-semplice-agricola",
+  "vignaioli-del-tortonese",
+  "vignaioli-piemontesi",
+  "vigne-dei-mastri-s-a-r-l",
+  "villa-felice",
+  "villa-giada-s-a",
+  "villafiorita-societa-semplice-agricola",
+  "vincenzo-bossotti-vignaiolo-societa-agricola",
+  "vini-ragerra",
+  "vinicola-arno-s-r-l-societa-agricola",
+  "vinimaccagno",
+  "viotti-vini-societa-agricola"
  ],
- "gia_in_guida": 5,
- "esatti": 348,
+ "gia_in_guida": 16,
+ "esatti": 361,
  "token": [
   [
    15,
@@ -167,6 +299,14 @@
    "Moretti Omero",
    [
     "poderi-moretti"
+   ]
+  ],
+  [
+   41,
+   "montefalco",
+   "Tenuta Brancalupo – Lungarotti",
+   [
+    "lungarotti"
    ]
   ],
   [
@@ -473,6 +613,14 @@
   [
    19,
    "ciro-melissa",
+   "SOC. AGR. DE LUCA SRL",
+   [
+    "soc-agr-de-luca"
+   ]
+  ],
+  [
+   19,
+   "ciro-melissa",
    "Azienda Vinicola F.lli Dell’Aquila",
    [
     "poggio-dellaquila"
@@ -484,6 +632,14 @@
    "Cantine ENOTRIA AZ. VITIVINICOLA",
    [
     "enotria-tellus"
+   ]
+  ],
+  [
+   19,
+   "ciro-melissa",
+   "Librandi Antonio e Nicodemo SpA",
+   [
+    "librandi-antonio-e-nicodemo"
    ]
   ],
   [
@@ -597,6 +753,14 @@
    ]
   ],
   [
+   116,
+   "bivongi",
+   "Cantine De Luca",
+   [
+    "soc-agr-de-luca"
+   ]
+  ],
+  [
    119,
    "reggio-calabria",
    "Azienda Agricola Brancatisano Beatrice",
@@ -619,8 +783,812 @@
    [
     "talenti"
    ]
+  ],
+  [
+   26,
+   "langhe",
+   "ABRIGO FRATELLI Az. Agr.",
+   [
+    "abrigo-fratelli"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "ABRIGO ORLANDO Az. Agr.",
+   [
+    "azienda-agricola-orlando-abrigo-di-abrigo-giovanni"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "ADRIANO F.LLI OSVALDO e ROMOLO",
+   [
+    "cantina-s-osvaldo"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Alessandro Azienda Agricola",
+   [
+    "benini-alessandro",
+    "piazzola-alessandro",
+    "boni-alessandro",
+    "monte-chiaro-di-griccioli-alessandro",
+    "furlan-alessandro",
+    "pascolo-alessandro",
+    "azienda-agricola-bortolin-alessandro",
+    "cazzaro-alessandro",
+    "roncari-alessandro",
+    "aisna-alessandro-rossi",
+    "azienda-agricola-alessandro-motta"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Alessandro Motta Azienda Agricola",
+   [
+    "azienda-agricola-alessandro-motta"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Alle Tre Colline Azienda Agricola",
+   [
+    "tre-colline"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Antica Cantina Di Calosso S.C.A.",
+   [
+    "antica-cantina-di-calosso"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Arione S.P.A.",
+   [
+    "arione"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Az. Agr. Cascina San Michele Sas",
+   [
+    "fattoria-san-michele-a-torri",
+    "cantina-produttori-san-michele-appiano"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Azienda Agricola Cavallero Soc. Semplice Agricola",
+   [
+    "cavallero-lorenzo-az-agr"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Banfi S.R.L.",
+   [
+    "banfi"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Barbanera Vini S.R.L.",
+   [
+    "barbanera"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Beppe Marino S.R.L.",
+   [
+    "beppe-marino"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Bera Attilio Az. Agricola - Cascina Palazzo",
+   [
+    "palazzo"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Bera Di Bera Valter",
+   [
+    "bera-di-bera-valter-az-agricola"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Bersano Vini S.R.L",
+   [
+    "bersano-cav-dario-di-bersano-roberto-c",
+    "bersano-vini"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Bertolino Azienda Agricola",
+   [
+    "tenuta-olim-bauda-di-bertolino-dino"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Bianco Marco Azienda Agricola",
+   [
+    "dal-bianco-marco"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Bocchino Giuseppe Azienda Agricola",
+   [
+    "bocchino-giuseppe-az-agr-di-bocchino-annalisa"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Borgo Isolabella Azienda Agricola S.S.",
+   [
+    "borgo-isolabella"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Borgo Maragliano Azienda Agricola",
+   [
+    "borgo-maragliano"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Bosio Family Estates S.R.L.",
+   [
+    "bosio-family-estates"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Bric D'Er Faul Azienda Agricola Di Ferrero Cristiano",
+   [
+    "ferrero"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cantina Alice Bel Colle S.C.A.",
+   [
+    "cantina-alice-bel-colle"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cantina Sant'Evasio Di Lacqua Pier Franco & C. S.A.S.",
+   [
+    "cantina-santevasio-di-lacqua-pier-franco-c"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cantina Sociale Barbera Dei Sei Castelli S.C.A.",
+   [
+    "cantina-sociale-barbera-dei-sei-castelli"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cantina Sociale Di Fontanile S.C.A.",
+   [
+    "cantina-sociale-di-fontanile"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cantina Sociale Di Mombercelli E P.L. S.C.A.",
+   [
+    "cantina-sociale-di-mombercelli"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cantina Sociale Di Rivalta Bormida S.C.A.",
+   [
+    "cantina-sociale-di-rivalta-bormida"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cantina Sociale Di Vinchio Vaglio Serra S.C.A.",
+   [
+    "cantina-sociale-vinchio-vaglio-serra"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cantine Daffara & Grasso S.N.C.",
+   [
+    "daffara-grasso-cantine"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cantine Sant'Agata S.N.C.",
+   [
+    "tenuta-sant-agata"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Carussin Azienda Agricola",
+   [
+    "ca-d-carussin-di-ferro-bruna-az-agr"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Casa Vinicola Caldirola S.P.A.",
+   [
+    "casa-vinicola-caldirola"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Casa Vinicola Morando - Ca.Vi.M. S.R.L.",
+   [
+    "casa-vinicola-morando"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cascina Barisel Azienda Agricola",
+   [
+    "cascina-barisel-az-agr-di-penna-franco"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cascina Bretta Rossa Di Ravasini Giuseppe",
+   [
+    "cascina-bretta-rossa"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cascina Castlet Di Maria Borio",
+   [
+    "cascina-castlet-di-borio-maria"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cascina Collina S.S.",
+   [
+    "la-collina-dei-lecci",
+    "la-collina",
+    "la-collina-dei-ciliegi",
+    "collina-del-sole",
+    "la-casa-in-collina-di-amerio-giancarlo"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cascina Delle Rocche Di Moncucco Di D.C.",
+   [
+    "cascina-delle-rocche-di-moncucco-di-del-piazzo-clara"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cascina San Pietro Società Agricola",
+   [
+    "cantina-san-pietro-in-cariano",
+    "le-vigne-di-san-pietro",
+    "cascina-san-pietro"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Castello Del Poggio S.A.R.L.",
+   [
+    "del-poggio",
+    "fattoria-il-poggio"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Castino S.A.S.",
+   [
+    "castino-s-a-s-di-castino-samuele-e-c"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Caudrina Di Romano Dogliotti Azienda Agricola",
+   [
+    "caudrina-di-romano-dogliotti-az-agr"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cerruti Pierpaolo Azienda Agricola",
+   [
+    "cerruti-pierpaolo-stefano"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cerutti Azienda Agricola Di Enrico Cerutti",
+   [
+    "azienda-agricola-cerutti-di-enrico-cerutti"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Coppo S.R.L.",
+   [
+    "coppo"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Corte San Pietro",
+   [
+    "cascina-san-pietro"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cossetti Clemente & Figli",
+   [
+    "cossetti-clemente-f"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Criolin Azienda Agricola Di Canavero Claudio",
+   [
+    "azienda-agricola-criolin-di-claudio-canavero"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Cusmano Vini S.R.L.",
+   [
+    "poderi-cusmano"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Dezzani S.R.L.",
+   [
+    "dezzani"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Dogliotti 1870 S.N.C.",
+   [
+    "dogliotti-1870"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Esse Erre Agricola Di Giulia Montina S.S.",
+   [
+    "montina"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "F.Lli Martini Secondo Luigi S.P.A.",
+   [
+    "fratelli-martini-secondo-luigi"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "F.Lli Ponte Vini S.A.S.",
+   [
+    "il-ponte"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Ferrero Ettore Azienda Agricola",
+   [
+    "ferrero"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Forteto Della Luja Azienda Agricola",
+   [
+    "forteto-della-luja-s-s-az-agr"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Fratelli Barbero Azienda Agricola",
+   [
+    "azienda-agricola-cascina-pian-dor-di-barbero-valter"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Fratelli Grimaldi Ssa",
+   [
+    "fratelli-grimaldi"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Gaggino Società Agricola S.R.L.",
+   [
+    "tenuta-gaggino"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Garesio S.S.A.",
+   [
+    "garesio"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Giordano Vini S.P.A.",
+   [
+    "nardi-giordano",
+    "giordano-lombardo"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Gruppo Italiano Vini S.P.A. - Tenimenti Ca' Bianca",
+   [
+    "ca-bianca"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Guasti Clemente & Figli S.P.A.",
+   [
+    "guasti-clemente-figli"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Icardi S.S.A. Azienda Agricola",
+   [
+    "icardi"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Ivaldi Dario Di Ivaldi Andrea",
+   [
+    "ivaldi-dario-az-agricola-di-ivaldi-en-andrea"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "La Badia Azienda Agricola Bussi Aldo Di Bussi Giuseppe",
+   [
+    "la-badia-az-agr-bussi-aldo-di-bussi-giuseppe"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "La Chiara Di Bergaglio Dario E Simona Società Semplice Agricola",
+   [
+    "la-chiara-di-bergaglio-dario-e-simona"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "La Marinella S.R.L. Società Agricola",
+   [
+    "camerani"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "La Morandina Di Morando Giulio E Paolo S.S.A Azienda Agricola",
+   [
+    "az-agricola-la-morandina-di-morando-giulio-e-paolo",
+    "casa-vinicola-morando"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "La Torre Di Castel Rocchero S.C.A.",
+   [
+    "la-torre-di-castel-rocchero-viticoltori-assoc"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Manfredi A. & C. S.R.L. Cantine Castelvecchio Patrizi",
+   [
+    "castelvecchio-terricciola",
+    "castelvecchio-san-casciano",
+    "tenuta-castelvecchio-carmignano"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Marchesi Di Barolo S.P.A",
+   [
+    "cantine-dei-marchesi-di-barolo"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Marco Bonfante S.R.L.",
+   [
+    "marco-bonfante"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Michele Chiarlo S.R.L.",
+   [
+    "michele-chiarlo-s-r-l-azienda-vitivin"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Monterosso Azienda Agraria Di Bottazzi Carlo Lorenzo",
+   [
+    "cantine-monterosso"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Moretti Adimari Società Agricola",
+   [
+    "poderi-moretti"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Pescaja Azienda Agricola",
+   [
+    "pescaja"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Piano S.S. Azienda Vitivinicola",
+   [
+    "fattoria-il-piano"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Prunotto S.R.L.",
+   [
+    "prunotto"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Roberto Sarotto Azienda Agricola",
+   [
+    "sarotto",
+    "roberto-sarotto"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "San Bartolomeo Azienda Agricola S.R.L. Di Bo Giuseppe & C.",
+   [
+    "san-bartolomeo"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Sartirano Figli Cantine E Vigneti S.R.L.",
+   [
+    "sartirano-figli-cantine-e-vigneti"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Scagliola Flavio Giacomo E Figlio Azienda Agricola",
+   [
+    "scagliola-giacomo-e-figlio-az-agr",
+    "scagliola-ss-az-agr"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Soc. Arg. Az. Agr. Scagliola S.S.",
+   [
+    "scagliola-ss-az-agr"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Tenuta Il Falchetto Dei F.Lli Forno",
+   [
+    "azienda-agricola-tenuta-il-falchetto-dei-f-lli-forno-societa-agricola-semplice"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Tenuta La Meridiana S.S.A.",
+   [
+    "vini-meridiana"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Tenuta La Pergola Di Bodda Alessandra",
+   [
+    "tenuta-la-pergola"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Tenute Cisa Asinari Dei Marchesi Di Gresy S.S.A.",
+   [
+    "tenute-cisa-asinari-dei-marchesi-di-gresy"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Tenute Neirano Te.Ne. S.P.A.",
+   [
+    "tenute-neirano-te-ne"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Torelli Mario Azienda Agricola",
+   [
+    "azienda-agricola-mario-torelli-di-gianfranco-torelli"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Tre Secoli Viticoltori In Piemonte Dal 1887 S.C.A.",
+   [
+    "tre-secoli"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Valentin Azienda Agricola Di Magliano Valentina",
+   [
+    "della-valentina",
+    "fattoria-di-magliano"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Valsa Nuova Perlino S.P.A.",
+   [
+    "perlino"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Vecchia Cantina Sociale Di Alice Bel Colle E Sessame D'Asti S.C.A.",
+   [
+    "la-casa-vecchia",
+    "cantina-alice-bel-colle"
+   ]
+  ],
+  [
+   27,
+   "barbera-asti-monferrato",
+   "Vinicola Decordi Del Borgo Imperiale Cortesole S.P.A.",
+   [
+    "imperiale",
+    "decordi-del-borgo-imperiale-vinicola-cortesole-spa"
+   ]
   ]
  ],
- "wip": 683,
+ "wip": 890,
  "stat": {}
 }

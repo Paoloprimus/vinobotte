@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio per la Tutela dell’Asti [[2]]\nConsorzio Tutela Vini d’Acqui [[3]]\nConsorzio Alta Langa [[4]]\nConsorzio di Tutela Roero [[5]]"
+     "valore": "Consorzio per la Tutela dell’Asti [[2]]\nConsorzio Tutela Vini d’Acqui [[3]]\nConsorzio Alta Langa [[4]]\nConsorzio di Tutela Roero [[5]]\nConsorzio tutela Barbera d’Asti e Vini del Monferrato [[6]]"
     }
    ]
   },
@@ -72,6 +72,12 @@
    "testo": "Elenco dei produttori del Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
    "url": "https://www.consorziodelroero.it/produttori/vite-colte/",
    "etichetta": "consorziodelroero.it"
+  },
+  {
+   "n": 6,
+   "testo": "Elenco dei produttori del Consorzio tutela Barbera d’Asti e Vini del Monferrato, consultato il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
   }
  ]
 }

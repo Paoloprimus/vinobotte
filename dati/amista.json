@@ -1,0 +1,50 @@
+{
+ "nome": "Amistà",
+ "slug": "amista",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "12186930017 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Colombaro, 7, 14049 Nizza Monferrato (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3480807085 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "amministrazione@amistapiedmontwine.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.amistapiedmontwine.com|amistapiedmontwine.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.amistapiedmontwine.com",
+   "etichetta": "amistapiedmontwine.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

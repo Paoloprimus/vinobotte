@@ -1,0 +1,50 @@
+{
+ "nome": "Cà Richeta Az. Agricola di Orlando Enrico",
+ "slug": "ca-richeta-az-agricola-di-orlando-enrico",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02519010041 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Lazzaro, 3, 12053 Castiglione Tinella (CN) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3336894199 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "caricheta@protonmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.caricheta.com|caricheta.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.caricheta.com",
+   "etichetta": "caricheta.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

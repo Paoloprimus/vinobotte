@@ -1,0 +1,50 @@
+{
+ "nome": "Cordara Claudia",
+ "slug": "cordara-claudia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01195030059 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Gianola, 23, 14040 Castel Boglione (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0141762176 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cordaravini.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cordaravini.com|cordaravini.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cordaravini.com",
+   "etichetta": "cordaravini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

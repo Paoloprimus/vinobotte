@@ -1,0 +1,50 @@
+{
+ "nome": "Tenuta Santa Caterina",
+ "slug": "tenuta-santa-caterina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01551860057 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Marconi, 17, 14035 Grazzano Badoglio (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0141925108 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "comunicazione@tenuta-santa-caterina.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenuta-santa-caterina.it|tenuta-santa-caterina.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.tenuta-santa-caterina.it",
+   "etichetta": "tenuta-santa-caterina.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

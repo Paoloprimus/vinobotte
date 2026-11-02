@@ -1,0 +1,50 @@
+{
+ "nome": "La Ribota Azienda Agricola di Barberis Giuliano",
+ "slug": "la-ribota-azienda-agricola-di-barberis-giuliano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00963270053 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Frazione Valdoisa, 3, 14015 San Damiano D'Asti (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3332325847 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@laribotavini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.laribotavini.it|laribotavini.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.laribotavini.it",
+   "etichetta": "laribotavini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

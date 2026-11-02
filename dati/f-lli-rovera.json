@@ -1,0 +1,50 @@
+{
+ "nome": "F.Lli Rovera",
+ "slug": "f-lli-rovera",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02680360068 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località La Cucca, 4/A, 15018 Spigno Monferrato (AL) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3496845876 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@traversa1816.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.traversa1816.it|traversa1816.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.traversa1816.it",
+   "etichetta": "traversa1816.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

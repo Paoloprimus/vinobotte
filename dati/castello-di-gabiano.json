@@ -1,0 +1,50 @@
+{
+ "nome": "Castello di Gabiano",
+ "slug": "castello-di-gabiano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02461360063 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via S. Defendente, 2, 15020 Gabiano (AL) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0142945004 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@castellodigabiano.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.castellodigabiano.com|castellodigabiano.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.castellodigabiano.com",
+   "etichetta": "castellodigabiano.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

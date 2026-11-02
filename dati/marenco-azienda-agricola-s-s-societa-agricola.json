@@ -1,0 +1,40 @@
+{
+ "nome": "Marenco Azienda Agricola S.S. Società Agricola",
+ "slug": "marenco-azienda-agricola-s-s-societa-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Piazza Vittorio Emanuele II, 18, 15019 Strevi (AL) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0144363133 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@marencovini.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.marencovini.com|marencovini.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

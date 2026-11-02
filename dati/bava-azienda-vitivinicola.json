@@ -26,8 +26,8 @@
      "valore": "{{https://www.bava.com/|bava.com}} [[2]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio per la Tutela dell’Asti [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Consorzio per la Tutela dell’Asti [[2]]\nConsorzio tutela Barbera d’Asti e Vini del Monferrato [[3]]"
     }
    ]
   },
@@ -54,6 +54,12 @@
    "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
    "url": "https://astidocg.it/io-produco-asti-docg/",
    "etichetta": "astidocg.it"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio tutela Barbera d’Asti e Vini del Monferrato, consultato il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
   }
  ]
 }

@@ -1,0 +1,46 @@
+{
+ "nome": "La Montagnetta Azienda Agricola di Domenico Capello",
+ "slug": "la-montagnetta-azienda-agricola-di-domenico-capello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01155640053 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Frazione Bricco Capello, 4, 14018 Roatto (AT) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lamontagnetta.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lamontagnetta.com|lamontagnetta.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.lamontagnetta.com",
+   "etichetta": "lamontagnetta.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio tutela Barbera d’Asti e Vini del Monferrato, consultato il 2 novembre 2026.",
+   "url": "https://www.viniastimonferrato.it/le-cantine/",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}
