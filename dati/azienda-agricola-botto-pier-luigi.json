@@ -1,0 +1,36 @@
+{
+ "nome": "Azienda Agricola Botto Pier Luigi",
+ "slug": "azienda-agricola-botto-pier-luigi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Rocco, 23, 15010 Ricaldone (AL) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0144 74462 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bottovini.com/|bottovini.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Acqui [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Acqui, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://vinidacqui.it/az-agr-botto-pier-luigi/",
+   "etichetta": "vinidacqui.it"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "nome": "Azienda Agricola Alessandro Motta",
+ "slug": "azienda-agricola-alessandro-motta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01453650051 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Costa, 6, 14044 Castel Rocchero (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0141 760191 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://mottaalessandro.com/|mottaalessandro.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Acqui [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://mottaalessandro.com/",
+   "etichetta": "mottaalessandro.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Acqui, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://vinidacqui.it/az-agr-alessandro-motta/",
+   "etichetta": "vinidacqui.it"
+  }
+ ]
+}

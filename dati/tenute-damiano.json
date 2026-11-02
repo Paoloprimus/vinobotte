@@ -1,0 +1,36 @@
+{
+ "nome": "Tenute Damiano – Castello di Mombaruzzo",
+ "slug": "tenute-damiano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Grosso, 34, 14046 Mombaruzzo (AT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0141 77001 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutedamiano.it/|tenutedamiano.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Acqui [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Acqui, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://vinidacqui.it/tenuta-vitivinicola-castello-di-mombaruzzzo-te-vi-ca/",
+   "etichetta": "vinidacqui.it"
+  }
+ ]
+}

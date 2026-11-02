@@ -1,0 +1,36 @@
+{
+ "nome": "Azienda Agricola Ca’ di Cicul di Salina Carla Cristina",
+ "slug": "azienda-agricola-ca-di-cicul-di-salina-carla-cristina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Reg. Cavannore, 19, 15019 Strevi (AL) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0144 363653 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.ciculvini.it/it/|ciculvini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Acqui [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Acqui, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://vinidacqui.it/az-agr-cascina-bastieri-di-marchetti-silvano-2/",
+   "etichetta": "vinidacqui.it"
+  }
+ ]
+}

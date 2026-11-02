@@ -22,8 +22,8 @@
      "valore": "{{https://www.arione.it/|arione.it}} [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio per la Tutela dell’Asti [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Consorzio per la Tutela dell’Asti [[1]]\nConsorzio Tutela Vini d’Acqui [[2]]"
     }
    ]
   },
@@ -44,6 +44,12 @@
    "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
    "url": "https://astidocg.it/io-produco-asti-docg/",
    "etichetta": "astidocg.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Acqui, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://vinidacqui.it/arione-s-p-a/",
+   "etichetta": "vinidacqui.it"
   }
  ]
 }

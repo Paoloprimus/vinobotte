@@ -22,8 +22,8 @@
      "valore": "{{http://araldicavini.com|araldicavini.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio Tutela Vini d’Acqui [[2]]"
     }
    ]
   },
@@ -52,7 +52,7 @@
    "righe": [
     {
      "etichetta": "Punteggi",
-     "valore": "Wine Enthusiast: 90 punti al Barbaresco Corsini 2022 [[2]]"
+     "valore": "Wine Enthusiast: 90 punti al Barbaresco Corsini 2022 [[3]]"
     }
    ]
   },
@@ -61,7 +61,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/araldicavini|araldicavini}}\nInstagram {{https://www.instagram.com/araldicavini/|@araldicavini}}\nYouTube {{https://www.youtube.com/@araldica1954|@araldica1954}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/araldicavini|araldicavini}}\nInstagram {{https://www.instagram.com/araldicavini/|@araldicavini}}\nYouTube {{https://www.youtube.com/@araldica1954|@araldica1954}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -69,7 +69,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=14655210226358702627|Mappa}} — valutazione 4,6 su 5 (105 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=14655210226358702627|Mappa}} — valutazione 4,6 su 5 (105 recensioni) [[4]]"
     }
    ]
   }
@@ -84,12 +84,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Acqui, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://vinidacqui.it/araldica-castelvero/",
+   "etichetta": "vinidacqui.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://araldicavini.com",
    "etichetta": "araldicavini.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Enoteca Araldica - Punto Vendita / Wine Shop» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=14655210226358702627",
    "etichetta": "maps.google.com"

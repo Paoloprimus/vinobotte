@@ -28,6 +28,7 @@ python3 -I rifusione/applica_consorzio_montescudaio.py
 python3 -I rifusione/applica_consorzio_val_di_cornia.py
 python3 -I rifusione/applica_consorzio_lugana.py
 python3 -I rifusione/applica_consorzio_merlara.py
+python3 -I rifusione/applica_consorzio_acqui.py
 python3 -I rifusione/dividi_fornacelle.py
 python3 -I rifusione/completa_bolgheri.py
 python3 -I rifusione/unisci_doppioni.py

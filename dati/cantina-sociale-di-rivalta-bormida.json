@@ -1,0 +1,46 @@
+{
+ "nome": "Cantina Sociale di Rivalta Bormida",
+ "slug": "cantina-sociale-di-rivalta-bormida",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00169990066 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Oberdan, 37, 15010 Rivalta Bormida (AL) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0144 372149 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://cantinarivalta.it/|cantinarivalta.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Acqui [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://cantinarivalta.it/",
+   "etichetta": "cantinarivalta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Acqui, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://vinidacqui.it/cantina-sociale-di-rivalta-bormida/",
+   "etichetta": "vinidacqui.it"
+  }
+ ]
+}

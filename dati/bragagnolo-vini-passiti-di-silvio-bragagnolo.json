@@ -1,0 +1,46 @@
+{
+ "nome": "Bragagnolo Vini Passiti di Silvio Bragagnolo",
+ "slug": "bragagnolo-vini-passiti-di-silvio-bragagnolo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02256700069 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Regione Bagnario, 33, 15019 Strevi (AL) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 339 4100056 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bragagnolovinipassiti.com/|bragagnolovinipassiti.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Acqui [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.bragagnolovinipassiti.com/",
+   "etichetta": "bragagnolovinipassiti.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Acqui, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://vinidacqui.it/bragagnolo-vini-passiti-di-silvio-bragagnolo/",
+   "etichetta": "vinidacqui.it"
+  }
+ ]
+}

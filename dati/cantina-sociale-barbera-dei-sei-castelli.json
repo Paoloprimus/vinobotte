@@ -1,0 +1,46 @@
+{
+ "nome": "Cantina Sociale Barbera dei Sei Castelli",
+ "slug": "cantina-sociale-barbera-dei-sei-castelli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00072150055 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Reg. Salere, 6, 14041 Agliano Terme (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0141 964004 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.barberaseicastelli.it/|barberaseicastelli.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Acqui [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.barberaseicastelli.it/",
+   "etichetta": "barberaseicastelli.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Acqui, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://vinidacqui.it/cantina-sociale-barbera-dei-sei-castelli/",
+   "etichetta": "vinidacqui.it"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "nome": "Cantina Sociale di Mombercelli",
+ "slug": "cantina-sociale-di-mombercelli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00071360051 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Marconi, 18, 14047 Mombercelli (AT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0141 959155 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.terreastesane.it/pub/it/pag/home.html|terreastesane.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Acqui [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.terreastesane.it/pub/it/pag/home.html",
+   "etichetta": "terreastesane.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Acqui, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://vinidacqui.it/cantina-sociale-di-mombercelli/",
+   "etichetta": "vinidacqui.it"
+  }
+ ]
+}

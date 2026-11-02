@@ -16,7 +16,7 @@ def scrivi(sez,titolo,opzioni):
             dj=json.load(open('dati/'+v['s']+'.json',encoding='utf-8'))
             vv=sorted({(x['nome']+' '+x['denominazione']) for sz in dj['sezioni'] for x in sz.get('vini',[])})
         except Exception: vv=[]
-        ALL.append([v['n'],v['s'],v['c'] or '',titolo.replace('Produttori vini ',''),' · '.join(v['d']),'; '.join(vv)[:300],'Friuli Venezia Giulia' if sez in ('prosecco-fvg','collio','colli-orientali','friuli-grave','friuli-doc') else {'asti':'Piemonte','lugana':'Lombardia','gutturnio':'Emilia-Romagna','brunello':'Toscana','chianti-classico':'Toscana','bolgheri':'Toscana','nobile':'Toscana','maremma':'Toscana','colli-senesi':'Toscana','valdarno':'Toscana'}.get(sez,'Veneto')])
+        ALL.append([v['n'],v['s'],v['c'] or '',titolo.replace('Produttori vini ',''),' · '.join(v['d']),'; '.join(vv)[:300],'Friuli Venezia Giulia' if sez in ('prosecco-fvg','collio','colli-orientali','friuli-grave','friuli-doc') else {'asti':'Piemonte','acqui':'Piemonte','lugana':'Lombardia','gutturnio':'Emilia-Romagna','brunello':'Toscana','chianti-classico':'Toscana','bolgheri':'Toscana','nobile':'Toscana','maremma':'Toscana','colli-senesi':'Toscana','valdarno':'Toscana'}.get(sez,'Veneto')])
     dati=json.dumps(voci,ensure_ascii=False,separators=(',',':'))
     html='''<!doctype html>
     <html lang="it">
