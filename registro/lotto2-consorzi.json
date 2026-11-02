@@ -33,14 +33,9 @@
   123,
   135
  ],
- "promosse": [
-  "azienda-agricola-poggio-alla-meta",
-  "cantina-cominium",
-  "tenuta-cervelli",
-  "tenuta-petra-potens"
- ],
+ "promosse": [],
  "gia_in_guida": 19,
- "esatti": 499,
+ "esatti": 505,
  "token": [
   [
    15,
@@ -698,6 +693,852 @@
    "ANTICA CASA VINICOLA SCARPA Società Agricola Srl Unipersonale",
    [
     "antica-casa-vinicola-scarpa"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "BATASIOLO S.p.A.",
+   [
+    "batasiolo"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "BENI DI BATASIOLO S.p.A.",
+   [
+    "batasiolo"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "BEPPE MARINO Srl Az. Vin.",
+   [
+    "beppe-marino"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "BERA AZ. AGR. di BERA VALTER",
+   [
+    "bera-di-bera-valter-az-agricola"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "BERSANO VINI Srl",
+   [
+    "bersano-cav-dario-di-bersano-roberto-c",
+    "bersano-vini"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "BOSCO Società Semplice Agricola",
+   [
+    "bosco"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "BOSIO FAMILY ESTATES SRL",
+   [
+    "bosio-family-estates"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CANTINA CLAVESANA Società Cooperativa Agricola",
+   [
+    "cantina-clavesana"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CANTINA DEL NEBBIOLO S.C.A.",
+   [
+    "cantina-dei-produttori-nebbiolo-di-carema"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CANTINA TERRE DEL BAROLO SOC.COOP.AGR.",
+   [
+    "terre-del-barolo-vinum-vita-est"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CANTINE DEI MARCHESI DI BAROLO S.P.A.",
+   [
+    "cantine-dei-marchesi-di-barolo"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CASCINA ALBANO AZ. AGR. s.s.a.",
+   [
+    "cascina-albano"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CASCINA CA' ROSSA s.s.a",
+   [
+    "cascina-ca-rossa"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CASCINA CHICCO Soc.Agr.Semplice",
+   [
+    "cascina-chicco"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CASCINA DEL POZZO s.s.a",
+   [
+    "pozzo-azienda-agricola"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CASCINA DELLE ROSE s.s.a",
+   [
+    "casa-delle-rose"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CASCINA FONTANA di Fontana Mario Az.Agr.",
+   [
+    "fontana"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CASCINA MASSARA Az. Agr. e Vitivinicola di Burlotto Sergio Giuseppe",
+   [
+    "fattoria-fratelli-massara"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CASCINA RABAGLIO di Rigo Salatin s.s.a.",
+   [
+    "salatin"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CASCINA SASSI SAN CRISTOFORO di Davide Alfredo Carniel",
+   [
+    "podere-san-cristoforo",
+    "san-cristoforo"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CERRINO AZ. Agr. s.s.a.",
+   [
+    "azienda-agricola-cerrino-societa-semplice-agricola"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CERRUTI SIMONE Az. Agr.",
+   [
+    "azienda-agricola-simone-cerruti"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CONZIA AZ. VITV. di Fabrizio Fabiani",
+   [
+    "fabiani"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "COPPO S.r.l.",
+   [
+    "coppo"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CORDERO LORENZO Az. Agr.",
+   [
+    "cordero"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CORNAREA Az. Agr. s.s.",
+   [
+    "cornarea"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CORREGGIA MATTEO Az. Agr. Società Agricola Semplice",
+   [
+    "matteo-correggia"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "CORTESE BEATRICE Az. Agr.",
+   [
+    "azienda-agricola-s-beatrice"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "COSSETTI CLEMENTE E FIGLI srl.",
+   [
+    "cossetti-clemente-f"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "DOGLIOTTI 1870 Snc",
+   [
+    "dogliotti-1870"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "DOSIO VIGNETI SRL SOC.AGR.",
+   [
+    "dosio"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "EMANUELE GAMBINO Az. Agr.",
+   [
+    "gambino-emanuele-azienda-agricola"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "ENRICO SERAFINO Srl",
+   [
+    "enrico-serafino"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "ETTORE GERMANO s.s.a.",
+   [
+    "germano-ettore"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "FERRERO BARTOLOMEO AZ.AGR.",
+   [
+    "ferrero"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "FERRERO F.LLI Az. Agr. di Ferrero Renato",
+   [
+    "ferrero"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "FILIPPI SIMONE AZ. AGR.",
+   [
+    "filippi-wines"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "FONTANA WALTER Az. Agr.",
+   [
+    "fontana"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "FONTANAFREDDA s.r.l.",
+   [
+    "casa-e-di-mirafiore-e-fontanafredda"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "FRATELLI MARTINI SECONDO LUIGI S.p.A",
+   [
+    "fratelli-martini-secondo-luigi"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "GARESIO S.S.A",
+   [
+    "garesio"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "GIAN LUCA COLOMBO - SEGNI DI LANGA Az. Agr.",
+   [
+    "colombo"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "GIOVANNI ALMONDO Az. Agr. Società Agricola Semplice",
+   [
+    "giovanni-almondo"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "GRIMALDI BRUNA Az. Agr. s.s.",
+   [
+    "fratelli-grimaldi"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "GRIMALDI GIACOMO Az.Agr. di Grimaldi Ferruccio s.s.a",
+   [
+    "fratelli-grimaldi"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "ICARDI Az. Agr. S.S.A.",
+   [
+    "icardi"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "LA COLLINA PODERI Az. Agr. di Marengo Piergiorgio",
+   [
+    "la-collina"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "LA PERGOLA Az. Agr. di Taricco Marco",
+   [
+    "tenuta-la-pergola"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "LE GINESTRE S.S. AZ.AGR.",
+   [
+    "le-ginestre",
+    "le-ginestre-di-riolfatto-maurizio",
+    "tenuta-pian-delle-ginestre"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "LUCA MARENCO AZ. AGR.",
+   [
+    "marenco-azienda-agricola-s-s-societa-agricola"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MALABAILA DI CANALE Az. Agr. s.s.",
+   [
+    "malabaila-di-canale"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MALVIRA' Az.Agr. dei F.lli Damonte Società Agricola Semplice",
+   [
+    "malvira"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MANERA F.LLI LUCIANO E FRANCO s.s.",
+   [
+    "manera-f-lli-luciano-e-franco"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MANFREDI ALDO & C. Srl",
+   [
+    "manfredi-aldo-azienda-vinicola"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MARCO CAPRA AZ.AGR.",
+   [
+    "marco-capra-azienda-agricola"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MARENCO ALDO Az. Agr. di Claudio Marenco",
+   [
+    "marenco-azienda-agricola-s-s-societa-agricola"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MARENCO Azienda Vinicola di Marenco Angelo & C. sas",
+   [
+    "marenco-azienda-agricola-s-s-societa-agricola"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MASSERIA s.s.a.",
+   [
+    "casa-vinicola-la-masseria-sas-di-di-maio-giuseppe-c",
+    "la-masseria-di-sessa",
+    "masseria-campito-societa-agricola-delle-cugine-di-martino",
+    "masseria-felicia",
+    "antica-masseria-a-cancllera",
+    "antica-masseria-venditti",
+    "masseria-di-maria",
+    "masseria-frattasi",
+    "masseria-vigne-vecchie",
+    "masseria-altemura",
+    "masseria-borgo-dei-trulli",
+    "masseria-capoforte",
+    "masseria-cicella",
+    "masseria-cuturi"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MASSUCCO FRATELLI Az. Agr.",
+   [
+    "massucco"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MAURO MOLINO Az. Agr. ssa",
+   [
+    "molino-mauro-azienda-agricola"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MAURO SEBASTE Az. Agr. SYLLA s.s.",
+   [
+    "mauro-sebaste"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MGM MONDO DEL VINO SRL",
+   [
+    "mgm-mondo-del-vino"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MICHELE CHIARLO Az. Vitivinicola srl",
+   [
+    "michele-chiarlo-s-r-l-azienda-vitivin"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MOCCAGATTA s.s.a.",
+   [
+    "villa-sparina-di-massimo-moccagatta"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MOLINO Az. Agr. S.S.",
+   [
+    "agricola-molino"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MONFALLETTO Az. Agr. S.S. di G. e E. Cordero di M.",
+   [
+    "cordero"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "MONSIGNORE s.s.a.",
+   [
+    "tenuta-del-monsignore",
+    "monsignore"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "OSVALDO BARBERIS Az. Agr.",
+   [
+    "cantina-s-osvaldo"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "PELASSA DANIELE Az.Agr.",
+   [
+    "pelassa"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "PELISSERO PASQUALE di PELISSERO ORNELLA",
+   [
+    "pasquale-pelissero"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "PIAZZO Comm. ARMANDO di Piazzo Marina",
+   [
+    "piazzo-comm-armando-di-piazzo-marina-az-vitiv"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "PODERE GAGLIASSI Monforte d'Alba s.s.a",
+   [
+    "podere-gagliassi"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "PODERE RUGGERI CORSINI s.s.a",
+   [
+    "ruggeri"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "PODERI MARCARINI di Bava Luisa e C.s.s.",
+   [
+    "poderi-marcarini-di-bava-luisa-ss-az-agr"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "PRODUTTORI DI GOVONE Sca",
+   [
+    "produttori-di-govone"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "PRUNOTTO Srl",
+   [
+    "prunotto"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "RAPALINO F.LLI di Rapalino Claudio",
+   [
+    "rapalino-f-lli-di-rapalino-claudio-az-agr"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "RIVETTI DANTE Az. Agr. s.s.a",
+   [
+    "rivetti-dante"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "RIVETTI MASSIMO s.s.a",
+   [
+    "massimo-rivetti"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "RIZZI Az. Vitiv. di Dellapiana Ernesto e Figli s.s.a",
+   [
+    "rizzi-azienda-vitivinicola-di-dellapiana-ernesto-e-figli-soc"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "ROCCA Az. Agr. s.s. di Sarotto Stefano e Negri Nora",
+   [
+    "sarotto"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "ROSORETTO Società Agricola Srl",
+   [
+    "rosoretto"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "SAN BIAGIO Az. Agr. di Roggero Giovanni",
+   [
+    "san-giovanni",
+    "tenuta-san-giovanni-semplice"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "SAN MICHELE Az. Agr. s.s.",
+   [
+    "fattoria-san-michele-a-torri",
+    "cantina-produttori-san-michele-appiano"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "SAROTTO SRL",
+   [
+    "sarotto",
+    "roberto-sarotto"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "SARTIRANO FIGLI CANTINE E VIGNETI SRL",
+   [
+    "sartirano-figli-cantine-e-vigneti"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "SAVIGLIANO F.LLI DARIO E GIUSEPPE di Marino e Stefano s.s.a",
+   [
+    "fratelli-savigliano"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "SAVIGLIANO MARIO Az. Vitiv.",
+   [
+    "fratelli-savigliano"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "TAVERNA ROBERTO AZ. AGR.",
+   [
+    "taverna-roberto-azienda-agricola"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "TENUTA CARRETTA AZ. AGR. s.s.",
+   [
+    "tenuta-carretta"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "TENUTA CECILIA MONTE s.s.a",
+   [
+    "cecilia"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "TENUTA IL FALCHETTO Az. Agr. dei Fratelli Forno s.s.a.",
+   [
+    "azienda-agricola-tenuta-il-falchetto-dei-f-lli-forno-societa-agricola-semplice"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "TENUTA LANGASCO Az. Vitiv. di Sacco Claudio",
+   [
+    "tenuta-langasco-di-sacco-claudio"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "TENUTA ROCCA Az. Agr. srl",
+   [
+    "la-rocca",
+    "la-rocca-bardolino"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "TENUTA ROLETTO s.c.a.",
+   [
+    "tenuta-roletto"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "TENUTA RONZANO di Ronzano Marco Az. Agr.",
+   [
+    "tenuta-ronzano-di-ronzano-marco"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "TENUTA SAN MAURO AZ. VIT. Di Bianco Mauro",
+   [
+    "tenuta-san-mauro-di-bianco-mauro"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "TENUTE CISA ASINARI dei MARCHESI GRESY S.S.A.",
+   [
+    "tenute-cisa-asinari-dei-marchesi-di-gresy"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "TERRENO FRANCA Az.Agr.",
+   [
+    "terreno"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "VICO LUIGI",
+   [
+    "azienda-agricola-luigi-vico"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "VIGNAIOLI PIEMONTESI S.C.A.",
+   [
+    "vignaioli-piemontesi"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "VILLA LANATA S.S. Az.Agr. \"LO ZOCCOLAIO\"",
+   [
+    "villa-lanata"
+   ]
+  ],
+  [
+   26,
+   "langhe",
+   "VITE COLTE S.P.A.",
+   [
+    "vite-colte"
    ]
   ],
   [
@@ -2214,8 +3055,8 @@
    ]
   ]
  ],
- "wip": 1450,
+ "wip": 1799,
  "stat": {
-  "scartata": 1
+  "scartata": 2
  }
 }

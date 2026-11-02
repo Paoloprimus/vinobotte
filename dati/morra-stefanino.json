@@ -22,8 +22,8 @@
      "valore": "{{https://www.morravini.it|morravini.it}} [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela Roero [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Consorzio di Tutela Roero [[2]]\nConsorzio di tutela Barolo Barbaresco Alba Langhe e Dogliani [[3]]"
     }
    ]
   }
@@ -41,6 +41,12 @@
    "testo": "Elenco dei produttori associati al Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
    "url": "https://www.consorziodelroero.it/produttori/morra-stefanino/",
    "etichetta": "consorziodelroero.it"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio di tutela Barolo Barbaresco Alba Langhe e Dogliani, consultato il 2 novembre 2026.",
+   "url": "https://www.langhevini.it/soci/",
+   "etichetta": "langhevini.it"
   }
  ]
 }

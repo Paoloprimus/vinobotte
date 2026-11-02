@@ -5144,5 +5144,47 @@
     "url": "https://www.consorziodocsicilia.it/"
    }
   ]
+ },
+ {
+  "key": "langhe",
+  "consorzio": "Consorzio di tutela Barolo Barbaresco Alba Langhe e Dogliani",
+  "sito": "langhevini.it",
+  "data": "2 novembre 2026",
+  "den": "Barolo, Barbaresco e Langhe",
+  "schede": [
+   {
+    "slug": "morra-stefanino",
+    "url": "https://www.langhevini.it/soci/"
+   },
+   {
+    "slug": "poderi-moretti",
+    "url": "https://www.langhevini.it/soci/"
+   }
+  ]
+ },
+ {
+  "key": "atina",
+  "consorzio": "Consorzio di tutela Atina DOC",
+  "sito": "atinadoc.it",
+  "data": "2 novembre 2026",
+  "den": "Atina",
+  "schede": [
+   {
+    "slug": "azienda-agricola-poggio-alla-meta",
+    "url": "https://www.atinadoc.it/"
+   },
+   {
+    "slug": "cantina-cominium",
+    "url": "https://www.atinadoc.it/"
+   },
+   {
+    "slug": "tenuta-cervelli",
+    "url": "https://www.atinadoc.it/"
+   },
+   {
+    "slug": "tenuta-petra-potens",
+    "url": "https://www.atinadoc.it/"
+   }
+  ]
  }
 ]

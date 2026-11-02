@@ -146,3 +146,5 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 58. Lotto 6 (Salice Salentino, IMT Marche, Sicilia, Colli Tortonesi, Vermentino di Gallura, Pinerolese): 11 nuove cantine in guida (Puglia 8, Sicilia 3), 19 già presenti (aggiunta riga Consorzio), 1443 in wip (elenchi con soli nomi, sito non trovato). Guida: 3.855 produttori.
 
 59. Lotto 7 (Atina DOC): 4 nuove cantine nel Lazio, 7 già presenti con riga Consorzio. Verificati e scartati come fonte: Aglianico del Vulture, Casorzo, Ente Vini Bresciani, Tullum, Irpinia, Val di Noto (nessun elenco soci pubblico); Valtènesi e Pantelleria (elenco solo in mappa interattiva). Guida: 3.859 produttori.
+
+60. Lotto 8 (Barolo, Barbaresco, Langhe e Dogliani): letti tutti i 15 blocchi dell'elenco soci (582 soci, 493 vinificatori). Solo nomi e comune, nessun sito: 349 in wip, 6 già in guida con riga Consorzio, 0 nuove in guida. Guida: 3.859.
