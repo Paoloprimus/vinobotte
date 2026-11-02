@@ -148,3 +148,5 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 59. Lotto 7 (Atina DOC): 4 nuove cantine nel Lazio, 7 già presenti con riga Consorzio. Verificati e scartati come fonte: Aglianico del Vulture, Casorzo, Ente Vini Bresciani, Tullum, Irpinia, Val di Noto (nessun elenco soci pubblico); Valtènesi e Pantelleria (elenco solo in mappa interattiva). Guida: 3.859 produttori.
 
 60. Lotto 8 (Barolo, Barbaresco, Langhe e Dogliani): letti tutti i 15 blocchi dell'elenco soci (582 soci, 493 vinificatori). Solo nomi e comune, nessun sito: 349 in wip, 6 già in guida con riga Consorzio, 0 nuove in guida. Guida: 3.859.
+
+61. Lotto 9 — verifica completezza Brunello di Montalcino (elenco ufficiale 212 cantine): 200 già in guida (esatte), 6 mancanti (Baccinetti, Chiusa Grossa, Gorelli, Sensi 1890, Voliero, Paradisone) senza sito verificabile → wip; 1 già presente con altro nome. Brunello chiuso. Consorzio Chianti Colli Senesi: 59 aziende, 15 esatte, 43 da confrontare (nomi simili), non ancora chiuso. Colli Euganei, Breganze, Etna, Valtènesi, Pantelleria, Venezia, Colli Piacentini, Custoza: elenco soci dentro mappe/JS, non leggibile in automatico.

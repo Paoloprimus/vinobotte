@@ -15,6 +15,7 @@
   61,
   62,
   63,
+  64,
   71,
   77,
   78,
@@ -34,8 +35,8 @@
   135
  ],
  "promosse": [],
- "gia_in_guida": 19,
- "esatti": 505,
+ "gia_in_guida": 20,
+ "esatti": 700,
  "token": [
   [
    15,
@@ -3053,9 +3054,41 @@
    [
     "martini-rossi"
    ]
+  ],
+  [
+   64,
+   "brunello",
+   "Bottega Spa",
+   [
+    "bottega"
+   ]
+  ],
+  [
+   64,
+   "brunello",
+   "Greppone Mazzi - Ruffino",
+   [
+    "ruffino"
+   ]
+  ],
+  [
+   64,
+   "brunello",
+   "Piccini 1882 – Villa al Cortile",
+   [
+    "tenute-piccini"
+   ]
+  ],
+  [
+   64,
+   "brunello",
+   "Red Montalcino",
+   [
+    "cantina-di-montalcino"
+   ]
   ]
  ],
- "wip": 1799,
+ "wip": 1803,
  "stat": {
   "scartata": 2
  }
