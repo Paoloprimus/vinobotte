@@ -1,0 +1,46 @@
+{
+ "nome": "Abbazia Santa Anastasia",
+ "slug": "abbazia-santa-anastasia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02682990821 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Santa Anastasia, snc, 90013 Castelbuono (PA) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "contact@email.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.abbaziasantanastasia.com/it/|abbaziasantanastasia.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela vini DOC Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.abbaziasantanastasia.com/it/",
+   "etichetta": "abbaziasantanastasia.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di tutela vini DOC Sicilia, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodocsicilia.it/",
+   "etichetta": "siciliadoc.wine"
+  }
+ ]
+}

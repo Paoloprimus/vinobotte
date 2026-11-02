@@ -1,0 +1,50 @@
+{
+ "nome": "Cantina Cooperativa Salice Salentino",
+ "slug": "cantina-cooperativa-salice-salentino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00151890753 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Pietro Nenni, n°12, 73015 Salice Salentino (LE) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0832 731138 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinasalicesalentino.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinasalicesalentino.it|cantinasalicesalentino.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela e valorizzazione del vino DOP Salice Salentino [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.cantinasalicesalentino.it",
+   "etichetta": "cantinasalicesalentino.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di tutela e valorizzazione del vino DOP Salice Salentino, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziosalicesalentino.it/cantine/cantina-cooperativa-salice-salentino/",
+   "etichetta": "consorziosalicesalentino.it"
+  }
+ ]
+}

@@ -30,8 +30,8 @@
      "valore": "{{https://www.vignetireale.it/|vignetireale.it}} [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Primitivo di Manduria DOC [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Primitivo di Manduria DOC [[2]]\nConsorzio di tutela e valorizzazione del vino DOP Salice Salentino [[3]]"
     }
    ]
   }
@@ -49,6 +49,12 @@
    "testo": "Elenco dei produttori associati al Consorzio Primitivo di Manduria DOC, consultato il 2 novembre 2026.",
    "url": "https://www.consorziotutelaprimitivo.com/soci/vigneti-reale/",
    "etichetta": "consorziotutelaprimitivo.com"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio di tutela e valorizzazione del vino DOP Salice Salentino, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziosalicesalentino.it/cantine/vigneti-reale/",
+   "etichetta": "consorziosalicesalentino.it"
   }
  ]
 }

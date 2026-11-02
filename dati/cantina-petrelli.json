@@ -1,0 +1,42 @@
+{
+ "nome": "Cantina Petrelli",
+ "slug": "cantina-petrelli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Villa Convento, km 2, 73041 Carmiano (LE) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinapetrelli.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinapetrelli.com|cantinapetrelli.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela e valorizzazione del vino DOP Salice Salentino [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.cantinapetrelli.com",
+   "etichetta": "cantinapetrelli.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di tutela e valorizzazione del vino DOP Salice Salentino, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziosalicesalentino.it/cantine/cantina-petrelli/",
+   "etichetta": "consorziosalicesalentino.it"
+  }
+ ]
+}

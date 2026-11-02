@@ -26,8 +26,8 @@
      "valore": "{{http://www.stefanofarinavini.it|stefanofarinavini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Vino Chianti Classico [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende associate a Consorzio Vino Chianti Classico [[2]]\nConsorzio di tutela e valorizzazione del vino DOP Salice Salentino [[3]]"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Barbaresco DOCG; Barbera d’Alba DOC; Barolo DOCG; Chianti Classico DOCG; Chianti DOCG; Dolcetto d’Alba DOC [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Barbaresco DOCG; Barbera d’Alba DOC; Barolo DOCG; Chianti Classico DOCG; Chianti DOCG; Dolcetto d’Alba DOC [[4]]"
     }
    ]
   },
@@ -63,7 +63,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "YouTube {{https://www.youtube.com/@tenutestefanofarina|@tenutestefanofarina}}\nLinkedIn {{https://www.linkedin.com/company/tenute-stefano-farina-s.r.l.-societa-agricola|tenute-stefano-farina-s.r.l.-societa-agricola}} [[4]]"
+     "valore": "YouTube {{https://www.youtube.com/@tenutestefanofarina|@tenutestefanofarina}}\nLinkedIn {{https://www.linkedin.com/company/tenute-stefano-farina-s.r.l.-societa-agricola|tenute-stefano-farina-s.r.l.-societa-agricola}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -71,7 +71,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=74578369809025995|Mappa}} — valutazione 4,5 su 5 (4 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=74578369809025995|Mappa}} — valutazione 4,5 su 5 (4 recensioni) [[6]]"
     }
    ]
   }
@@ -92,18 +92,24 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio di tutela e valorizzazione del vino DOP Salice Salentino, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziosalicesalentino.it/cantine/stefano-farina/",
+   "etichetta": "consorziosalicesalentino.it"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.stefanofarinavini.it",
    "etichetta": "stefanofarinavini.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.stefanofarinavini.it",
    "etichetta": "stefanofarinavini.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Fattoria Le Bocce» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=74578369809025995",
    "etichetta": "maps.google.com"

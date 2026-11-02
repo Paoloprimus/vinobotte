@@ -4161,6 +4161,9 @@
 ],
 "barbera-asti-monferrato": [
 "Barbera d’Asti e Monferrato"
+],
+"sicilia": [
+"Sicilia"
 ]
 },
 "membri": [
@@ -18121,6 +18124,9 @@
 "tipi": {
 "chianti-classico": [
 "Chianti Classico"
+],
+"salice-salentino": [
+"Salice Salentino"
 ]
 },
 "membri": [
@@ -49997,6 +50003,9 @@
 "tipi": {
 "asti": [
 "Moscato d'Asti DOCG"
+],
+"colli-tortonesi": [
+"Colli Tortonesi"
 ]
 },
 "membri": [
@@ -50783,6 +50792,9 @@
 ],
 "barbera-asti-monferrato": [
 "Barbera d’Asti e Monferrato"
+],
+"colli-tortonesi": [
+"Colli Tortonesi"
 ]
 },
 "membri": [
@@ -51296,6 +51308,9 @@
 "tipi": {
 "gavi": [
 "Gavi"
+],
+"colli-tortonesi": [
+"Colli Tortonesi"
 ]
 },
 "membri": [
@@ -51407,6 +51422,9 @@
 ],
 "ovada": [
 "Ovada"
+],
+"colli-tortonesi": [
+"Colli Tortonesi"
 ]
 },
 "membri": [
@@ -51452,6 +51470,9 @@
 "tipi": {
 "gavi": [
 "Gavi"
+],
+"colli-tortonesi": [
+"Colli Tortonesi"
 ]
 },
 "membri": [
@@ -52736,6 +52757,9 @@
 "tipi": {
 "alta-langa": [
 "Alta Langa"
+],
+"colli-tortonesi": [
+"Colli Tortonesi"
 ]
 },
 "membri": [
@@ -55862,6 +55886,9 @@
 "tipi": {
 "primitivo-di-manduria": [
 "Primitivo di Manduria"
+],
+"salice-salentino": [
+"Salice Salentino"
 ]
 },
 "membri": [
@@ -55952,6 +55979,9 @@
 "tipi": {
 "primitivo-di-manduria": [
 "Primitivo di Manduria"
+],
+"salice-salentino": [
+"Salice Salentino"
 ]
 },
 "membri": [
@@ -56147,6 +56177,9 @@
 "tipi": {
 "primitivo-di-manduria": [
 "Primitivo di Manduria"
+],
+"salice-salentino": [
+"Salice Salentino"
 ]
 },
 "membri": [
@@ -61022,6 +61055,9 @@
 "tipi": {
 "barbera-asti-monferrato": [
 "Barbera d’Asti e Monferrato"
+],
+"colli-tortonesi": [
+"Colli Tortonesi"
 ]
 },
 "membri": [
@@ -61652,6 +61688,9 @@
 "tipi": {
 "barbera-asti-monferrato": [
 "Barbera d’Asti e Monferrato"
+],
+"freisa-di-chieri": [
+"Freisa di Chieri"
 ]
 },
 "membri": [
@@ -61772,6 +61811,9 @@
 "tipi": {
 "barbera-asti-monferrato": [
 "Barbera d’Asti e Monferrato"
+],
+"pinerolese": [
+"Pinerolese"
 ]
 },
 "membri": [
@@ -61913,5 +61955,170 @@
 "viotti-vini-societa-agricola"
 ],
 "primario": "viotti-vini-societa-agricola"
+},
+{
+"slug": "candido",
+"nome": "Candido",
+"regione": "Puglia",
+"comune": "San Donaci",
+"tipi": {
+"salice-salentino": [
+"Salice Salentino"
+]
+},
+"membri": [
+"candido"
+],
+"primario": "candido"
+},
+{
+"slug": "cantina-cooperativa-salice-salentino",
+"nome": "Cantina Cooperativa Salice Salentino",
+"regione": "Puglia",
+"comune": "Salice Salentino",
+"tipi": {
+"salice-salentino": [
+"Salice Salentino"
+]
+},
+"membri": [
+"cantina-cooperativa-salice-salentino"
+],
+"primario": "cantina-cooperativa-salice-salentino"
+},
+{
+"slug": "cantina-petrelli",
+"nome": "Cantina Petrelli",
+"regione": "Puglia",
+"comune": "Carmiano",
+"tipi": {
+"salice-salentino": [
+"Salice Salentino"
+]
+},
+"membri": [
+"cantina-petrelli"
+],
+"primario": "cantina-petrelli"
+},
+{
+"slug": "cantina-sandonaci",
+"nome": "Cantina Sandonaci",
+"regione": "Puglia",
+"comune": "San Donaci",
+"tipi": {
+"salice-salentino": [
+"Salice Salentino"
+]
+},
+"membri": [
+"cantina-sandonaci"
+],
+"primario": "cantina-sandonaci"
+},
+{
+"slug": "cantine-de-falco",
+"nome": "Cantine De Falco",
+"regione": "Puglia",
+"comune": "Novoli",
+"tipi": {
+"salice-salentino": [
+"Salice Salentino"
+]
+},
+"membri": [
+"cantine-de-falco"
+],
+"primario": "cantine-de-falco"
+},
+{
+"slug": "cantine-sanpancrazio",
+"nome": "Cantine Sanpancrazio",
+"regione": "Puglia",
+"comune": "San Pancrazio Salentino",
+"tipi": {
+"salice-salentino": [
+"Salice Salentino"
+]
+},
+"membri": [
+"cantine-sanpancrazio"
+],
+"primario": "cantine-sanpancrazio"
+},
+{
+"slug": "conti-zecca",
+"nome": "Conti Zecca",
+"regione": "Puglia",
+"comune": "Leverano",
+"tipi": {
+"salice-salentino": [
+"Salice Salentino"
+]
+},
+"membri": [
+"conti-zecca"
+],
+"primario": "conti-zecca"
+},
+{
+"slug": "vinicola-mediterranea",
+"nome": "Vinicola Mediterranea",
+"regione": "Puglia",
+"comune": "S. Pietro Vernotico",
+"tipi": {
+"salice-salentino": [
+"Salice Salentino"
+]
+},
+"membri": [
+"vinicola-mediterranea"
+],
+"primario": "vinicola-mediterranea"
+},
+{
+"slug": "abbazia-santa-anastasia",
+"nome": "Abbazia Santa Anastasia",
+"regione": "Sicilia",
+"comune": "Castelbuono",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"abbazia-santa-anastasia"
+],
+"primario": "abbazia-santa-anastasia"
+},
+{
+"slug": "agrimed-scopello-ass-impresa",
+"nome": "Agrimed Scopello Ass. Impresa",
+"regione": "Sicilia",
+"comune": "Castellammare del Golfo",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"agrimed-scopello-ass-impresa"
+],
+"primario": "agrimed-scopello-ass-impresa"
+},
+{
+"slug": "alcesti",
+"nome": "Alcesti",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"alcesti"
+],
+"primario": "alcesti"
 }
 ]

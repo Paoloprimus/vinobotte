@@ -23,7 +23,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela del Gavi [[1]]\nConsorzio Tutela Ovada DOCG [[2]]"
+     "valore": "Consorzio Tutela del Gavi [[1]]\nConsorzio Tutela Ovada DOCG [[2]]\nConsorzio Colli Tortonesi [[3]]"
     }
    ]
   }
@@ -41,6 +41,12 @@
    "testo": "Elenco dei produttori del Consorzio Tutela Ovada DOCG, consultato il 2 novembre 2026.",
    "url": "https://ovada.eu/2019/index.php/it/i-produttori",
    "etichetta": "ovada.eu"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Colli Tortonesi, consultato il 2 novembre 2026.",
+   "url": "https://collitortonesi.com/il-consorzio/soci/",
+   "etichetta": "collitortonesi.com"
   }
  ]
 }

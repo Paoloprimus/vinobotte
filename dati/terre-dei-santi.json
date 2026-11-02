@@ -26,8 +26,8 @@
      "valore": "{{https://www.terredeisanti.it|terredeisanti.it}} [[2]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]\nConsorzio di tutela e valorizzazione delle DOC Freisa di Chieri e Collina Torinese [[3]]"
     }
    ]
   }
@@ -45,6 +45,12 @@
    "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
    "url": "https://www.viniastimonferrato.it/le-cantine/",
    "etichetta": "viniastimonferrato.it"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio di tutela e valorizzazione delle DOC Freisa di Chieri e Collina Torinese, consultato il 2 novembre 2026.",
+   "url": "https://www.freisadichieri.com/soci-freisa/",
+   "etichetta": "freisadichieri.com"
   }
  ]
 }

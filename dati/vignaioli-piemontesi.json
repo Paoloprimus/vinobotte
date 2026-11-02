@@ -26,8 +26,8 @@
      "valore": "{{https://www.vignaioli.it|vignaioli.it}} [[2]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[2]]\nConsorzio per la tutela e valorizzazione dei vini DOC Pinerolese [[3]]"
     }
    ]
   }
@@ -45,6 +45,12 @@
    "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 2 novembre 2026.",
    "url": "https://www.viniastimonferrato.it/le-cantine/",
    "etichetta": "viniastimonferrato.it"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio per la tutela e valorizzazione dei vini DOC Pinerolese, consultato il 2 novembre 2026.",
+   "url": "https://consorziodocpinerolese.it/cantine/vignaioli-piemontesi/",
+   "etichetta": "consorziodocpinerolese.it"
   }
  ]
 }

@@ -1,0 +1,38 @@
+{
+ "nome": "Cantine De Falco",
+ "slug": "cantine-de-falco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Milano, 25, 73051 Novoli (LE) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinedefalco.it|cantinedefalco.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela e valorizzazione del vino DOP Salice Salentino [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "http://www.cantinedefalco.it",
+   "etichetta": "cantinedefalco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di tutela e valorizzazione del vino DOP Salice Salentino, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziosalicesalentino.it/cantine/cantine-de-falco/",
+   "etichetta": "consorziosalicesalentino.it"
+  }
+ ]
+}

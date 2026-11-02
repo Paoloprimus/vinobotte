@@ -1,0 +1,50 @@
+{
+ "nome": "Agrimed Scopello Ass. Impresa",
+ "slug": "agrimed-scopello-ass-impresa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04752050825 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Scopello, 3 · 91014 Castellammare del Golfo (TP), 91014 Castellammare del Golfo (TP) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 38.06589 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@plaiavini.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.agriturismotenuteplaia.it/|agriturismotenuteplaia.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela vini DOC Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.agriturismotenuteplaia.it/",
+   "etichetta": "agriturismotenuteplaia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di tutela vini DOC Sicilia, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodocsicilia.it/",
+   "etichetta": "siciliadoc.wine"
+  }
+ ]
+}

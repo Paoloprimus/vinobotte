@@ -37026,5 +37026,335 @@
   "data_consorzio": "2 novembre 2026",
   "consorzio": "barbera-asti-monferrato",
   "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "candido",
+  "nome": "Candido",
+  "regione": "Puglia",
+  "comune": "San Donaci",
+  "tipi": {
+   "salice-salentino": [
+    "Salice Salentino"
+   ]
+  },
+  "rag": "",
+  "piva": "00236930749",
+  "sede": "Via Armando Diaz 46, 72025 San Donaci (BR)",
+  "tel": "+39 0831 63 56 74",
+  "email": "candido@candidowines.it",
+  "sito": "http://www.candidowines.it",
+  "dom": "candidowines.it",
+  "den": "",
+  "wip": "Candido",
+  "url_consorzio": "https://www.consorziosalicesalentino.it/cantine/candido/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio di tutela e valorizzazione del vino DOP Salice Salentino",
+  "dom_consorzio": "consorziosalicesalentino.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "salice-salentino",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "cantina-cooperativa-salice-salentino",
+  "nome": "Cantina Cooperativa Salice Salentino",
+  "regione": "Puglia",
+  "comune": "Salice Salentino",
+  "tipi": {
+   "salice-salentino": [
+    "Salice Salentino"
+   ]
+  },
+  "rag": "",
+  "piva": "00151890753",
+  "sede": "Via Pietro Nenni, n°12, 73015 Salice Salentino (LE)",
+  "tel": "+39 0832 731138",
+  "email": "info@cantinasalicesalentino.it",
+  "sito": "http://www.cantinasalicesalentino.it",
+  "dom": "cantinasalicesalentino.it",
+  "den": "",
+  "wip": "Cantina Cooperativa Salice Salentino",
+  "url_consorzio": "https://www.consorziosalicesalentino.it/cantine/cantina-cooperativa-salice-salentino/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio di tutela e valorizzazione del vino DOP Salice Salentino",
+  "dom_consorzio": "consorziosalicesalentino.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "salice-salentino",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "cantina-petrelli",
+  "nome": "Cantina Petrelli",
+  "regione": "Puglia",
+  "comune": "Carmiano",
+  "tipi": {
+   "salice-salentino": [
+    "Salice Salentino"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Villa Convento, km 2, 73041 Carmiano (LE)",
+  "tel": "",
+  "email": "info@cantinapetrelli.com",
+  "sito": "http://www.cantinapetrelli.com",
+  "dom": "cantinapetrelli.com",
+  "den": "",
+  "wip": "Cantina Petrelli",
+  "url_consorzio": "https://www.consorziosalicesalentino.it/cantine/cantina-petrelli/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio di tutela e valorizzazione del vino DOP Salice Salentino",
+  "dom_consorzio": "consorziosalicesalentino.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "salice-salentino",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "cantina-sandonaci",
+  "nome": "Cantina Sandonaci",
+  "regione": "Puglia",
+  "comune": "San Donaci",
+  "tipi": {
+   "salice-salentino": [
+    "Salice Salentino"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Mesagne, 62, 72025 San Donaci (BR)",
+  "tel": "+39 0831681085",
+  "email": "ecommerce@cantinasandonaci.eu",
+  "sito": "http://www.cantinasandonaci.eu",
+  "dom": "cantinasandonaci.eu",
+  "den": "",
+  "wip": "Cantina Sandonaci",
+  "url_consorzio": "https://www.consorziosalicesalentino.it/cantine/cantina-sandonaci/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio di tutela e valorizzazione del vino DOP Salice Salentino",
+  "dom_consorzio": "consorziosalicesalentino.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "salice-salentino",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "cantine-de-falco",
+  "nome": "Cantine De Falco",
+  "regione": "Puglia",
+  "comune": "Novoli",
+  "tipi": {
+   "salice-salentino": [
+    "Salice Salentino"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Milano, 25, 73051 Novoli (LE)",
+  "tel": "",
+  "email": "",
+  "sito": "http://www.cantinedefalco.it",
+  "dom": "cantinedefalco.it",
+  "den": "",
+  "wip": "Cantine De Falco",
+  "url_consorzio": "https://www.consorziosalicesalentino.it/cantine/cantine-de-falco/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio di tutela e valorizzazione del vino DOP Salice Salentino",
+  "dom_consorzio": "consorziosalicesalentino.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "salice-salentino",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "cantine-sanpancrazio",
+  "nome": "Cantine Sanpancrazio",
+  "regione": "Puglia",
+  "comune": "San Pancrazio Salentino",
+  "tipi": {
+   "salice-salentino": [
+    "Salice Salentino"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via del Mare, s.n., 72026 San Pancrazio Salentino (BR)",
+  "tel": "+39 0831 666064",
+  "email": "info@cantinesanpancrazio.it",
+  "sito": "http://www.cantinasanpancrazio.it",
+  "dom": "cantinesanpancrazio.it",
+  "den": "",
+  "wip": "Cantine Sanpancrazio",
+  "url_consorzio": "https://www.consorziosalicesalentino.it/cantine/cantine-sanpancrazio/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio di tutela e valorizzazione del vino DOP Salice Salentino",
+  "dom_consorzio": "consorziosalicesalentino.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "salice-salentino",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "conti-zecca",
+  "nome": "Conti Zecca",
+  "regione": "Puglia",
+  "comune": "Leverano",
+  "tipi": {
+   "salice-salentino": [
+    "Salice Salentino"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Cesarea sn, 73045 Leverano (LE)",
+  "tel": "+39 0832 925613",
+  "email": "info@contizecca.it",
+  "sito": "http://www.contizecca.it",
+  "dom": "contizecca.it",
+  "den": "",
+  "wip": "Conti Zecca",
+  "url_consorzio": "https://www.consorziosalicesalentino.it/cantine/conti-zecca/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio di tutela e valorizzazione del vino DOP Salice Salentino",
+  "dom_consorzio": "consorziosalicesalentino.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "salice-salentino",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "vinicola-mediterranea",
+  "nome": "Vinicola Mediterranea",
+  "regione": "Puglia",
+  "comune": "S. Pietro Vernotico",
+  "tipi": {
+   "salice-salentino": [
+    "Salice Salentino"
+   ]
+  },
+  "rag": "Vinicola Mediterranea S.r.l",
+  "piva": "01749310742",
+  "sede": "Via Maternità e Infanzia, 22, 72027 S. Pietro Vernotico (BR)",
+  "tel": "",
+  "email": "info@vinicolamediterranea.it",
+  "sito": "http://www.vinicolamediterranea.it",
+  "dom": "vinicolamediterranea.com",
+  "den": "",
+  "wip": "Vinicola Mediterranea",
+  "url_consorzio": "https://www.consorziosalicesalentino.it/cantine/vinicola-mediterranea/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio di tutela e valorizzazione del vino DOP Salice Salentino",
+  "dom_consorzio": "consorziosalicesalentino.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "salice-salentino",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "abbazia-santa-anastasia",
+  "nome": "Abbazia Santa Anastasia",
+  "regione": "Sicilia",
+  "comune": "Castelbuono",
+  "tipi": {
+   "sicilia": [
+    "Sicilia"
+   ]
+  },
+  "rag": "",
+  "piva": "02682990821",
+  "sede": "Contrada Santa Anastasia, snc, 90013 Castelbuono (PA)",
+  "tel": "",
+  "email": "contact@email.com",
+  "sito": "https://www.abbaziasantanastasia.com/it/",
+  "dom": "abbaziasantanastasia.com",
+  "den": "",
+  "wip": "Abbazia Santa Anastasia",
+  "url_consorzio": "https://www.consorziodocsicilia.it/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio di tutela vini DOC Sicilia",
+  "dom_consorzio": "siciliadoc.wine",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "sicilia",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "agrimed-scopello-ass-impresa",
+  "nome": "Agrimed Scopello Ass. Impresa",
+  "regione": "Sicilia",
+  "comune": "Castellammare del Golfo",
+  "tipi": {
+   "sicilia": [
+    "Sicilia"
+   ]
+  },
+  "rag": "",
+  "piva": "04752050825",
+  "sede": "Contrada Scopello, 3 · 91014 Castellammare del Golfo (TP), 91014 Castellammare del Golfo (TP)",
+  "tel": "+39 38.06589",
+  "email": "info@plaiavini.com",
+  "sito": "https://www.agriturismotenuteplaia.it/",
+  "dom": "agriturismotenuteplaia.it",
+  "den": "",
+  "wip": "Agrimed Scopello Ass. Impresa",
+  "url_consorzio": "https://www.consorziodocsicilia.it/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio di tutela vini DOC Sicilia",
+  "dom_consorzio": "siciliadoc.wine",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "sicilia",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "alcesti",
+  "nome": "Alcesti",
+  "regione": "Sicilia",
+  "comune": "Marsala",
+  "tipi": {
+   "sicilia": [
+    "Sicilia"
+   ]
+  },
+  "rag": "",
+  "piva": "02080320811",
+  "sede": "C.da Terrenove 268 B, 91025 Marsala (TP)",
+  "tel": "+39 0923 997283",
+  "email": "info@alcesti.it",
+  "sito": "http://www.alcesti.it/",
+  "dom": "alcesti.it",
+  "den": "",
+  "wip": "Alcesti",
+  "url_consorzio": "https://www.consorziodocsicilia.it/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio di tutela vini DOC Sicilia",
+  "dom_consorzio": "siciliadoc.wine",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "sicilia",
+  "data_consultazione": "2 novembre 2026"
  }
 ]
