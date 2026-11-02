@@ -26,8 +26,8 @@
      "valore": "{{http://www.bortolin.com|www.bortolin.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
     }
    ]
   },
@@ -36,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Dal 1950 gli eredi di Valeriano attrezzano la cantina per spumanti col metodo Martinotti. [[2]]"
+     "valore": "Dal 1950 gli eredi di Valeriano attrezzano la cantina per spumanti col metodo Martinotti. [[3]]"
     }
    ]
   },
@@ -75,7 +75,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Vinitaly 5StarWines 2026\nFalstaff 2025 e 2023\nCorona Vini Buoni d’Italia 2024\nMedaglia d’oro alla Mostra San Pietro di Barbozza 2025 [[2]]"
+     "valore": "Vinitaly 5StarWines 2026\nFalstaff 2025 e 2023\nCorona Vini Buoni d’Italia 2024\nMedaglia d’oro alla Mostra San Pietro di Barbozza 2025 [[3]]"
     }
    ]
   },
@@ -84,7 +84,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/bortolinspumanti|bortolinspumanti}}\nInstagram {{https://www.instagram.com/bortolinf.lli/|@bortolinf.lli}}\nYouTube {{https://www.youtube.com/channel/UC4hGa3JgQIRndisdaF2yW1w|canale UC4hGa3JgQIRndisdaF2yW1w}}\nX {{https://x.com/bortolinvini|@bortolinvini}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/bortolinspumanti|bortolinspumanti}}\nInstagram {{https://www.instagram.com/bortolinf.lli/|@bortolinf.lli}}\nYouTube {{https://www.youtube.com/channel/UC4hGa3JgQIRndisdaF2yW1w|canale UC4hGa3JgQIRndisdaF2yW1w}}\nX {{https://x.com/bortolinvini|@bortolinvini}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -92,7 +92,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=885624126699300364|Mappa}} — valutazione 4,5 su 5 (24 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=885624126699300364|Mappa}} — valutazione 4,5 su 5 (24 recensioni) [[4]]"
     }
    ]
   }
@@ -107,12 +107,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/bortolin-f-lli/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.bortolin.com",
    "etichetta": "bortolin.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Bortolin F.lli» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=885624126699300364",
    "etichetta": "maps.google.com"

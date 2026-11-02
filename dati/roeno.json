@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vino Bardolino D.O.C. [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vino Bardolino DOC [[3]]\nConsorzio Tutela DOC Delle Venezie [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[5]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -63,7 +67,7 @@
    "righe": [
     {
      "etichetta": "Punteggi",
-     "valore": "James Suckling: 93 punti all’Enantio Terradeiforti 2018, 92 al Riesling [[4]]"
+     "valore": "James Suckling: 93 punti all’Enantio Terradeiforti 2018, 92 al Riesling [[6]]"
     }
    ]
   },
@@ -72,11 +76,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/cantinaroeno|cantinaroeno}}\nInstagram {{https://www.instagram.com/cantina_roeno/|@cantina_roeno}}\nYouTube {{https://www.youtube.com/channel/UCWDSOxWjFb45fha0blwjiNw|canale UCWDSOxWjFb45fha0blwjiNw}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/cantinaroeno|cantinaroeno}}\nInstagram {{https://www.instagram.com/cantina_roeno/|@cantina_roeno}}\nYouTube {{https://www.youtube.com/channel/UCWDSOxWjFb45fha0blwjiNw|canale UCWDSOxWjFb45fha0blwjiNw}} [[6]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.cantinaroeno.com/en/shop|cantinaroeno.com/en/shop}} [[4]]"
+     "valore": "{{https://www.cantinaroeno.com/en/shop|cantinaroeno.com/en/shop}} [[6]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -84,11 +88,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=7651161597525811902|Mappa}} — valutazione 4,5 su 5 (674 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=7651161597525811902|Mappa}} — valutazione 4,5 su 5 (674 recensioni) [[7]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[8]]"
     }
    ]
   }
@@ -109,24 +113,36 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 4,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.cantinaroeno.com",
    "etichetta": "cantinaroeno.com"
   },
   {
-   "n": 5,
+   "n": 7,
    "testo": "Scheda «Cantina Roeno - Wine Shop» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=7651161597525811902",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 8,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

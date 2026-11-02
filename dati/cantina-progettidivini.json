@@ -35,7 +35,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[2]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[2]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -84,7 +88,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/cantinaprogettidivini|cantinaprogettidivini}}\nInstagram {{https://www.instagram.com/cantinaprogettidivini/|@cantinaprogettidivini}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/cantinaprogettidivini|cantinaprogettidivini}}\nInstagram {{https://www.instagram.com/cantinaprogettidivini/|@cantinaprogettidivini}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -92,7 +96,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=6212500608871947930|Mappa}} — valutazione 4,9 su 5 (17 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=6212500608871947930|Mappa}} — valutazione 4,9 su 5 (17 recensioni) [[6]]"
     }
    ]
   }
@@ -119,12 +123,18 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/progettidivini/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.progettidivini.it/",
    "etichetta": "progettidivini.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Cantina ProgettiDivini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=6212500608871947930",
    "etichetta": "maps.google.com"

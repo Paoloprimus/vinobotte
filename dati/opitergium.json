@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[2]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[3]]"
     }
    ]
   },
@@ -45,7 +49,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Conegliano Valdobbiadene Prosecco Superiore DOCG; Cartizze DOCG; Venezia DOC [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Conegliano Valdobbiadene Prosecco Superiore DOCG; Cartizze DOCG; Venezia DOC [[4]]"
     }
    ]
   },
@@ -67,7 +71,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=3363776089305502151|Mappa}} — valutazione 4,6 su 5 (81 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=3363776089305502151|Mappa}} — valutazione 4,6 su 5 (81 recensioni) [[5]]"
     }
    ]
   }
@@ -82,24 +86,30 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/opitergium/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.cantinaoderzo.it",
    "etichetta": "cantinaoderzo.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Opitergium Vendita Vini Soc.Coop. Agr.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=3363776089305502151",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

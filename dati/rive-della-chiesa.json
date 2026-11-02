@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Vini Asolo Montello [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Vini Asolo Montello [[4]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[5]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[6]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Asolo Montello",
@@ -75,7 +79,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=17823582114212015796|Mappa}} — valutazione 4,6 su 5 (19 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=17823582114212015796|Mappa}} — valutazione 4,6 su 5 (19 recensioni) [[7]]"
     }
    ]
   }
@@ -108,12 +112,24 @@
   },
   {
    "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/rive-della-chiesa/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 6,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 7,
    "testo": "Scheda «Rive della Chiesa» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=17823582114212015796",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 8,
    "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
    "url": "https://www.bereilvino.it/cantina/rive-della-chiesa/",
    "etichetta": "bereilvino.it"

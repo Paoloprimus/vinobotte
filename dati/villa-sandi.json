@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[4]]\nConsorzio Vini Venezia [[5]]\nConsorzio Vini Asolo Montello [[6]]\nConsorzio Tutela Vini DOC Delle Venezie [[7]]\nConsorzio DOC Friuli [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[4]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[5]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[6]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[7]]\nConsorzio Tutela DOC Delle Venezie [[8]]\nConsorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Vini Venezia [[9]]\nConsorzio Vini Asolo Montello [[10]]\nConsorzio Tutela Vini DOC Delle Venezie [[11]]\nConsorzio DOC Friuli [[3]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -35,7 +35,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
-     "valore": "31035 Crocetta del Montello; info@villasandi.it; denominazioni: Venezia [[5]]"
+     "valore": "31035 Crocetta del Montello; info@villasandi.it; denominazioni: Venezia [[9]]"
     }
    ]
   },
@@ -68,7 +68,7 @@
     {
      "nome": "Pinot Grigio",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[7]]"
+     "annata": "— [[11]]"
     }
    ],
    "tipo": "vini"
@@ -120,11 +120,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=1623554136230595645|Mappa}} — valutazione 4,6 su 5 (476 recensioni) [[8]]"
+     "valore": "{{https://maps.google.com/?cid=1623554136230595645|Mappa}} — valutazione 4,6 su 5 (476 recensioni) [[12]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[9]]"
+     "valore": "Presente come produttore [[13]]"
     }
    ]
   }
@@ -157,34 +157,58 @@
   },
   {
    "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/villa-sandi/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 6,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/villa-sandi/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 7,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 8,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 9,
    "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://www.consorziovinivenezia.it/cantine-associate/",
    "etichetta": "consorziovinivenezia.it"
   },
   {
-   "n": 6,
+   "n": 10,
    "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.asolomontello.it/i-soci-produttori/",
    "etichetta": "asolomontello.it"
   },
   {
-   "n": 7,
+   "n": 11,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 8,
+   "n": 12,
    "testo": "Scheda «Villa Sandi Spa» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=1623554136230595645",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 9,
+   "n": 13,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 10,
+   "n": 14,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

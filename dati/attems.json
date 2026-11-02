@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Collio [[2]]\nConsorzio DOC Friuli [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Collio [[2]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio DOC Friuli [[5]]"
     }
    ]
   },
@@ -52,12 +56,12 @@
      "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[2]]"
     }
    ],
-   "nota": "Elenco dei vini nella scheda del Consorzio, senza denominazione: la scheda indica soltanto il nome del vino, per tipo (bianco, rosso) in base alle icone. L’elenco è lo stesso formato per tutti i soci; la denominazione di ciascun vino va verificata sul sito della cantina [[4]]",
+   "nota": "Elenco dei vini nella scheda del Consorzio, senza denominazione: la scheda indica soltanto il nome del vino, per tipo (bianco, rosso) in base alle icone. L’elenco è lo stesso formato per tutti i soci; la denominazione di ciascun vino va verificata sul sito della cantina [[5]]",
    "vini": [
     {
      "nome": "Pinot grigio",
      "denominazione": "denominazione non indicata nella scheda",
-     "annata": "— [[4]]"
+     "annata": "— [[5]]"
     }
    ],
    "tipo": "vini"
@@ -84,11 +88,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=16002504550570362123|Mappa}} — valutazione 4,6 su 5 (15 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=16002504550570362123|Mappa}} — valutazione 4,6 su 5 (15 recensioni) [[6]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[7]]"
     }
    ]
   }
@@ -115,22 +119,28 @@
   },
   {
    "n": 4,
-   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
    "url": "https://www.docfriuli.eu/aziende/attems/",
    "etichetta": "docfriuli.eu"
   },
   {
    "n": 5,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/attems/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 6,
    "testo": "Scheda «Attems-Marchesi Frescobaldi» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=16002504550570362123",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

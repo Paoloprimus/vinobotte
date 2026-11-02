@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vini Collio [[4]]"
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela DOC Delle Venezie [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Collio [[5]]"
     }
    ]
   },
@@ -62,7 +66,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini Collio",
-     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[4]]"
+     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[5]]"
     }
    ]
   },
@@ -92,7 +96,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=15555323477990269653|Mappa}} — valutazione 4,6 su 5 (28 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=15555323477990269653|Mappa}} — valutazione 4,6 su 5 (28 recensioni) [[6]]"
     }
    ]
   }
@@ -119,12 +123,18 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Tutela Vini Collio, scheda della cantina nell’elenco dei produttori, consultata il 25 ottobre 2026.",
    "url": "https://www.collio.it/cantina/bortoluzzi/",
    "etichetta": "collio.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Soc.Agr. Borgo Tintor Di Giovanni Bortoluzzi & C. s.s.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=15555323477990269653",
    "etichetta": "maps.google.com"

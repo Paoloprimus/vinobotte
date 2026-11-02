@@ -26,8 +26,8 @@
      "valore": "{{http://www.weldan.it|weldan.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio DOC Friuli [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]"
     }
    ]
   },
@@ -63,7 +63,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "YouTube {{https://www.youtube.com/@weldanfamily|@weldanfamily}} [[2]]"
+     "valore": "YouTube {{https://www.youtube.com/@weldanfamily|@weldanfamily}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -71,7 +71,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=5643194962882489285|Mappa}} — valutazione 4,8 su 5 (47 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=5643194962882489285|Mappa}} — valutazione 4,8 su 5 (47 recensioni) [[4]]"
     }
    ]
   }
@@ -86,12 +86,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/weldan/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.weldan.it",
    "etichetta": "weldan.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «WELDAN VINAIOLI IN FRIULI DI BAGNAROL ELIA E FIGLI S. S. AGRICOLA» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=5643194962882489285",
    "etichetta": "maps.google.com"

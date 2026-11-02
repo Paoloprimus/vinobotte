@@ -22,8 +22,8 @@
      "valore": "{{http://www.bianchieredi.com|bianchieredi.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini DOC Friuli Grave [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Friuli Grave [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[2]]\nConsorzio Volontario per la Tutela dei Vini Gambellara [[3]]"
     }
    ]
   },
@@ -71,6 +71,18 @@
    "testo": "Sito ufficiale della cantina, pagina «docfriuligrave.com/cantine.html», consultata il 24 ottobre 2026.",
    "url": "https://www.docfriuligrave.com/cantine.html",
    "etichetta": "docfriuligrave.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/bianchi-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Volontario per la Tutela dei Vini Gambellara, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/",
+   "etichetta": "consorziogambellara.com"
   }
  ]
 }

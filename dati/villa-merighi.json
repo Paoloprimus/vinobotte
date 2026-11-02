@@ -19,7 +19,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vino Custoza DOC [[2]]\nConsorzio Tutela Vino Bardolino D.O.C. [[3]]"
+     "valore": "Compare nell’elenco dei soci del Consorzio Tutela Vino Custoza DOC [[2]]\nConsorzio Tutela Vino Bardolino DOC [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[4]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Custoza",
@@ -63,7 +67,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=14204883461563488820|Mappa}} — valutazione 4,4 su 5 (14 recensioni) — Google la segnala come chiusa definitivamente [[4]]"
+     "valore": "{{https://maps.google.com/?cid=14204883461563488820|Mappa}} — valutazione 4,4 su 5 (14 recensioni) — Google la segnala come chiusa definitivamente [[5]]"
     }
    ]
   }
@@ -84,12 +88,18 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Societa' Agricola Villa Merighi Srl» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=14204883461563488820",
    "etichetta": "maps.google.com"

@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio Tutela Vino Lessini Durello DOC [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[3]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
     }
    ]
   },
@@ -36,7 +40,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Società agricola Sandro De Bruno: vino da tre generazioni a 600 metri sui suoli vulcanici del Monte Calvarina; anno di fondazione non indicato [[4]]"
+     "valore": "Società agricola Sandro De Bruno: vino da tre generazioni a 600 metri sui suoli vulcanici del Monte Calvarina; anno di fondazione non indicato [[5]]"
     }
    ]
   },
@@ -45,7 +49,7 @@
    "righe": [
     {
      "etichetta": "Visite e degustazioni",
-     "valore": "Visite guidate su prenotazione e giornate «Cantina Aperta» [[5]]"
+     "valore": "Visite guidate su prenotazione e giornate «Cantina Aperta» [[6]]"
     }
    ]
   },
@@ -57,18 +61,18 @@
     {
      "nome": "Lessini Durello Riserva 60 mesi",
      "denominazione": "Lessini Durello DOC Metodo Classico Riserva",
-     "annata": "— [[6]]"
+     "annata": "— [[7]]"
     },
     {
      "nome": "Riserva 100 mesi",
      "denominazione": "Monti Lessini DOC Metodo Classico Riserva",
-     "annata": "— [[7]]"
+     "annata": "— [[8]]"
     }
    ],
    "righe": [
     {
      "etichetta": "Elenco vini Soave",
-     "valore": "Nessun vino Soave nella pagina letta (in evidenza Pinot Grigio delle Venezie, Lessini Durello, Monti Lessini, un Pinot Nero IGT); il sito cita Soave solo come zona di produzione [[8]]"
+     "valore": "Nessun vino Soave nella pagina letta (in evidenza Pinot Grigio delle Venezie, Lessini Durello, Monti Lessini, un Pinot Nero IGT); il sito cita Soave solo come zona di produzione [[9]]"
     }
    ]
   },
@@ -94,11 +98,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=11394904488846351704|Mappa}} — valutazione 4,9 su 5 (114 recensioni) [[9]]"
+     "valore": "{{https://maps.google.com/?cid=11394904488846351704|Mappa}} — valutazione 4,9 su 5 (114 recensioni) [[10]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[10]]"
+     "valore": "Presente come produttore [[11]]"
     }
    ]
   }
@@ -125,46 +129,52 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina «sandrodebruno.it/it/azienda», consultata il 24 ottobre 2026.",
    "url": "https://sandrodebruno.it/it/azienda",
    "etichetta": "sandrodebruno.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina «sandrodebruno.it/it/ospitalita», consultata il 24 ottobre 2026.",
    "url": "https://sandrodebruno.it/it/ospitalita",
    "etichetta": "sandrodebruno.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «sandrodebruno.it/it/i-vini/lessini-durello-doc-metodo-classico-riserva-60-mesi-143», consultata il 24 ottobre 2026.",
    "url": "https://sandrodebruno.it/it/i-vini/lessini-durello-doc-metodo-classico-riserva-60-mesi-143",
    "etichetta": "sandrodebruno.it"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina «sandrodebruno.it/it/i-vini/monti-lessini-doc-metodo-classico-riserva-100-mesi-161», consultata il 24 ottobre 2026.",
    "url": "https://sandrodebruno.it/it/i-vini/monti-lessini-doc-metodo-classico-riserva-100-mesi-161",
    "etichetta": "sandrodebruno.it"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina «sandrodebruno.it/it/i-nostri-vini», consultata il 24 ottobre 2026.",
    "url": "https://sandrodebruno.it/it/i-nostri-vini",
    "etichetta": "sandrodebruno.it"
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Scheda «Sandro De Bruno» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=11394904488846351704",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 10,
+   "n": 11,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 11,
+   "n": 12,
    "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.ilsoave.com/produttori-soave/",
    "etichetta": "ilsoave.com"

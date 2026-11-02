@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vino Custoza DOC [[2]]\nConsorzio Tutela Vino Bardolino D.O.C. [[3]]"
+     "valore": "Compare nell’elenco dei soci del Consorzio Tutela Vino Custoza DOC [[2]]\nConsorzio Tutela Vino Bardolino DOC [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[4]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Custoza",
@@ -49,7 +53,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Custoza Riserva DOC; Bardolino Superiore DOCG; Bardolino DOC; Bardolino Chiaretto DOC [[4]]"
+     "valore": "Denominazioni DOC e DOCG: Custoza Riserva DOC; Bardolino Superiore DOCG; Bardolino DOC; Bardolino Chiaretto DOC [[5]]"
     },
     {
      "etichetta": "Denominazioni Bardolino dichiarate",
@@ -72,7 +76,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/bergaminiaziendaagricola|bergaminiaziendaagricola}}\nYouTube {{https://www.youtube.com/channel/UCrIQXRfM5Bjt8YMQGWRne4w/about|canale UCrIQXRfM5Bjt8YMQGWRne4w}} [[5]]"
+     "valore": "Facebook {{https://www.facebook.com/bergaminiaziendaagricola|bergaminiaziendaagricola}}\nYouTube {{https://www.youtube.com/channel/UCrIQXRfM5Bjt8YMQGWRne4w/about|canale UCrIQXRfM5Bjt8YMQGWRne4w}} [[6]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -97,18 +101,24 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.bergaminivini.it/",
    "etichetta": "bergaminivini.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.bergaminivini.it/",
    "etichetta": "bergaminivini.it"

@@ -19,7 +19,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio Tutela Vino Lessini Durello DOC [[2]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Lessini Durello DOC [[3]]"
     }
    ]
   },
@@ -70,12 +74,18 @@
   },
   {
    "n": 2,
-   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
    "url": "https://www.montilessini.com/produttori-vino-durello/",
    "etichetta": "montilessini.com"
   },
   {
    "n": 3,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.ilsoave.com/produttori-soave/",
    "etichetta": "ilsoave.com"

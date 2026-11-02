@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[4]]\nConsorzio Tutela DOC Delle Venezie [[5]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -79,7 +83,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -112,6 +116,12 @@
   },
   {
    "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 6,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

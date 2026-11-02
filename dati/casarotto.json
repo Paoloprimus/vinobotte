@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio Tutela Vino Lessini Durello DOC [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[3]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
     }
    ]
   },
@@ -36,49 +40,49 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Vinificazione delle proprie uve dal 1945, quando fu fondata la cantina dal bisnonno dell’attuale generazione; gestita da Celeste Casarotto e famiglia, terza generazione; ragione sociale Società Agricola Casarotto Celeste e Baldo Rosalia [[4]]"
+     "valore": "Vinificazione delle proprie uve dal 1945, quando fu fondata la cantina dal bisnonno dell’attuale generazione; gestita da Celeste Casarotto e famiglia, terza generazione; ragione sociale Società Agricola Casarotto Celeste e Baldo Rosalia [[5]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate. Solo i vini a denominazione Soave e Recioto di Soave; la cantina produce anche Lessini Durello, vini IGT e spumanti. Il sito non riporta le annate. [[5]]",
+   "nota": "Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate. Solo i vini a denominazione Soave e Recioto di Soave; la cantina produce anche Lessini Durello, vini IGT e spumanti. Il sito non riporta le annate. [[6]]",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Le Origini",
      "denominazione": "Lessini Durello Spumante D.O.C.",
-     "annata": "— [[5]]"
+     "annata": "— [[6]]"
     },
     {
      "nome": "(senza nome di fantasia)",
      "denominazione": "Lessini Durello Spumante D.O.C.",
-     "annata": "— [[5]]"
+     "annata": "— [[6]]"
     },
     {
      "nome": "(senza nome di fantasia)",
      "denominazione": "Durello Spumante Riserva 36 mesi (denominazione non indicata)",
-     "annata": "— [[5]]"
+     "annata": "— [[6]]"
     },
     {
      "nome": "(senza nome di fantasia)",
      "denominazione": "Monti Lessini Spumante Riserva 60",
-     "annata": "— [[5]]"
+     "annata": "— [[6]]"
     },
     {
      "nome": "Monte Kleta",
      "denominazione": "Soave DOC",
-     "annata": "— [[5]]"
+     "annata": "— [[6]]"
     },
     {
      "nome": "Fittà",
      "denominazione": "Soave Classico DOC",
-     "annata": "— [[5]]"
+     "annata": "— [[6]]"
     },
     {
      "nome": "Divino",
      "denominazione": "Recioto di Soave Classico DOCG",
-     "annata": "— [[5]]"
+     "annata": "— [[6]]"
     }
    ]
   },
@@ -104,7 +108,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=9632498451312202817|Mappa}} — valutazione 4,6 su 5 (17 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=9632498451312202817|Mappa}} — valutazione 4,6 su 5 (17 recensioni) [[7]]"
     }
    ]
   }
@@ -131,24 +135,30 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina «vinicasarotto.com», consultata il 24 ottobre 2026.",
    "url": "http://www.vinicasarotto.com",
    "etichetta": "vinicasarotto.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina «vinicasarotto.com/it/vini», consultata il 24 ottobre 2026.",
    "url": "https://www.vinicasarotto.com/it/vini",
    "etichetta": "vinicasarotto.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «VINI CASAROTTO» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=9632498451312202817",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.ilsoave.com/produttori-soave/",
    "etichetta": "ilsoave.com"

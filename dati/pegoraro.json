@@ -32,6 +32,10 @@
     {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.cantinapegoraro.it|cantinapegoraro.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Colli Berici e Vicenza [[4]]"
     }
    ]
   },
@@ -80,7 +84,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/cantina.pegoraro|cantina.pegoraro}}\nInstagram {{https://www.instagram.com/cantinapegoraro/|@cantinapegoraro}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/cantina.pegoraro|cantina.pegoraro}}\nInstagram {{https://www.instagram.com/cantinapegoraro/|@cantinapegoraro}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -88,7 +92,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=8844024276995505433|Mappa}} — valutazione 4,8 su 5 (153 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=8844024276995505433|Mappa}} — valutazione 4,8 su 5 (153 recensioni) [[6]]"
     }
    ]
   }
@@ -115,12 +119,18 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Colli Berici e Vicenza, consultato il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.cantinapegoraro.it",
    "etichetta": "cantinapegoraro.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Cantina Pegoraro» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=8844024276995505433",
    "etichetta": "maps.google.com"

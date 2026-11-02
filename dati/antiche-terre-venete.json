@@ -30,8 +30,8 @@
      "valore": "{{https://www.anticheterrevenete.it/|www.anticheterrevenete.it}} — raggiungibile al controllo del 29 ottobre 2026"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[4]]"
     }
    ]
   },
@@ -40,7 +40,7 @@
    "righe": [
     {
      "etichetta": "Famiglia",
-     "valore": "Progetto nato dall’incontro e dall’amicizia di Luciano e Riccardo, «due famiglie» [[4]] [[3]]"
+     "valore": "Progetto nato dall’incontro e dall’amicizia di Luciano e Riccardo, «due famiglie» [[5]] [[3]]"
     },
     {
      "etichetta": "Luogo",
@@ -53,7 +53,7 @@
    "righe": [
     {
      "etichetta": "Cantina e fruttaio",
-     "valore": "Cantina integrata nel territorio, con bottaia e cunicoli che ospitano sculture [[5]] [[6]]"
+     "valore": "Cantina integrata nel territorio, con bottaia e cunicoli che ospitano sculture [[6]] [[7]]"
     }
    ]
   },
@@ -62,13 +62,13 @@
    "righe": [
     {
      "etichetta": "Denominazioni",
-     "valore": "Amarone, Recioto, Ripasso, Valpolicella e Valpolicella Superiore (anche biologici); bianchi (Garganega, Lugana, Soave, Pinot Grigio, Garda), bollicine (Lessini Durello, Prosecco) e rosato [[7]] [[8]]"
+     "valore": "Amarone, Recioto, Ripasso, Valpolicella e Valpolicella Superiore (anche biologici); bianchi (Garganega, Lugana, Soave, Pinot Grigio, Garda), bollicine (Lessini Durello, Prosecco) e rosato [[8]] [[9]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Etichette come indicate sul sito della cantina, che non riporta le annate in vendita. [[7]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "nota": "Etichette come indicate sul sito della cantina, che non riporta le annate in vendita. [[8]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
    "tipo": "vini",
    "vini": [
     {
@@ -157,11 +157,11 @@
    "righe": [
     {
      "etichetta": "Visite",
-     "valore": "Visita della cantina e della bottaia con degustazioni guidate [[6]]"
+     "valore": "Visita della cantina e della bottaia con degustazioni guidate [[7]]"
     },
     {
      "etichetta": "Prenotazione",
-     "valore": "Pulsante «Book now» sul sito; orari e prezzi non indicati [[5]]"
+     "valore": "Pulsante «Book now» sul sito; orari e prezzi non indicati [[6]]"
     }
    ]
   },
@@ -170,11 +170,11 @@
    "righe": [
     {
      "etichetta": "Sito",
-     "valore": "anticheterrevenete.it, in italiano, inglese e cinese tradizionale, con una pagina per vino e schede scaricabili [[4]]"
+     "valore": "anticheterrevenete.it, in italiano, inglese e cinese tradizionale, con una pagina per vino e schede scaricabili [[5]]"
     },
     {
      "etichetta": "Vendita online",
-     "valore": "Il sito non mostra un negozio online [[4]]"
+     "valore": "Il sito non mostra un negozio online [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -182,11 +182,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=7739433905669445928|Mappa}} — valutazione 4,6 su 5 (13 recensioni) [[9]]"
+     "valore": "{{https://maps.google.com/?cid=7739433905669445928|Mappa}} — valutazione 4,6 su 5 (13 recensioni) [[10]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[10]]"
+     "valore": "Presente come produttore [[11]]"
     }
    ]
   }
@@ -213,42 +213,48 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/antiche-terre-venete-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale.",
    "url": "https://www.anticheterrevenete.it/",
    "etichetta": "anticheterrevenete.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina «la-cantina».",
    "url": "https://www.anticheterrevenete.it/la-cantina/",
    "etichetta": "anticheterrevenete.it/la-cantina"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «ospitalita».",
    "url": "https://www.anticheterrevenete.it/ospitalita/",
    "etichetta": "anticheterrevenete.it/ospitalita"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina «valpolicella».",
    "url": "https://www.anticheterrevenete.it/valpolicella/",
    "etichetta": "anticheterrevenete.it/valpolicella"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina «vini-bianchi».",
    "url": "https://www.anticheterrevenete.it/vini-bianchi/",
    "etichetta": "anticheterrevenete.it/vini-bianchi"
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Scheda «Antiche Terre Venete» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=7739433905669445928",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 10,
+   "n": 11,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

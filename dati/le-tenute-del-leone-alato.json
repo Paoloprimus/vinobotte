@@ -35,7 +35,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[2]]\nConsorzio Vini Venezia [[1]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[2]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Venezia [[1]]"
     }
    ]
   },
@@ -75,7 +79,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=6470643059003538257|Mappa}} — valutazione 5 su 5 (2 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=6470643059003538257|Mappa}} — valutazione 5 su 5 (2 recensioni) [[5]]"
     }
    ]
   }
@@ -102,12 +106,18 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/le-tenute-del-leone-alato/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 5,
    "testo": "Scheda «Le tenute del leone alato» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=6470643059003538257",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

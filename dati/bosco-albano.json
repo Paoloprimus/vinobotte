@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini DOC Friuli Grave [[2]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Friuli Grave [[3]]"
     }
    ]
   },
@@ -45,7 +49,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Prosecco DOC; Friuli DOC; Friuli Grave DOC [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Prosecco DOC; Friuli DOC; Friuli Grave DOC [[4]]"
     }
    ]
   },
@@ -67,11 +71,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=5080812766546960494|Mappa}} — valutazione 4,8 su 5 (18 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=5080812766546960494|Mappa}} — valutazione 4,8 su 5 (18 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -86,28 +90,34 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/bosco-albano/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
    "testo": "Consorzio Tutela Vini DOC Friuli Grave, elenco delle cantine e schede delle singole cantine, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuligrave.com/cantine.html",
    "etichetta": "docfriuligrave.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.boscoalbano.com",
    "etichetta": "boscoalbano.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Bosco Albano» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=5080812766546960494",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

@@ -23,7 +23,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vino Bardolino D.O.C. [[3]]\nConsorzio Tutela Vino Custoza DOC [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vino Bardolino DOC [[3]]\nConsorzio Tutela DOC Delle Venezie [[4]]\nConsorzio Tutela Vino Bardolino D.O.C. [[5]]\nConsorzio Tutela Vino Custoza DOC [[6]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -31,7 +31,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Custoza",
-     "valore": "Valeggio sul Mincio (VR); tel. 339 78 25 418; montedeiroari.com [[4]]"
+     "valore": "Valeggio sul Mincio (VR); tel. 339 78 25 418; montedeiroari.com [[6]]"
     }
    ]
   },
@@ -88,12 +88,24 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 4,
+   "n": 6,
    "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026.",
    "url": "https://www.vinocustoza.it/",
    "etichetta": "vinocustoza.it"

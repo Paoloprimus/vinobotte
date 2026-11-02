@@ -26,8 +26,8 @@
      "valore": "{{http://www.forchir.it|forchir.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio DOC Friuli [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[2]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[3]]"
     }
    ]
   },
@@ -36,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Fondata dalla famiglia nobile di origine austriaca Forchir, trasferitasi in Friuli alla fine dell’Ottocento. [[3]]"
+     "valore": "Fondata dalla famiglia nobile di origine austriaca Forchir, trasferitasi in Friuli alla fine dell’Ottocento. [[4]]"
     }
    ]
   },
@@ -63,11 +63,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/Forchir.Viticoltori.In.Friuli|Forchir.Viticoltori.In.Friuli}}\nInstagram {{https://www.instagram.com/forchirvini/|@forchirvini}}\nYouTube {{https://www.youtube.com/channel/UCc493tcntX3lKWTE92yo8LA|canale UCc493tcntX3lKWTE92yo8LA}} [[3]]"
+     "valore": "Facebook {{https://www.facebook.com/Forchir.Viticoltori.In.Friuli|Forchir.Viticoltori.In.Friuli}}\nInstagram {{https://www.instagram.com/forchirvini/|@forchirvini}}\nYouTube {{https://www.youtube.com/channel/UCc493tcntX3lKWTE92yo8LA|canale UCc493tcntX3lKWTE92yo8LA}} [[4]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://forchir.wineshopwine.it/negozio/|forchir.wineshopwine.it/negozio}} [[3]]"
+     "valore": "{{https://forchir.wineshopwine.it/negozio/|forchir.wineshopwine.it/negozio}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -75,11 +75,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=15524685878107923252|Mappa}} — valutazione 4,8 su 5 (61 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=15524685878107923252|Mappa}} — valutazione 4,8 su 5 (61 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -100,18 +100,24 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/forchir/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.forchir.it",
    "etichetta": "forchir.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «FORCHIR - Viticoltori in Friuli» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=15524685878107923252",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

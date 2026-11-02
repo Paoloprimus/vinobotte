@@ -30,8 +30,8 @@
      "valore": "{{https://www.corteallodola.it/|www.corteallodola.it}} — raggiungibile al controllo del 29 ottobre 2026"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[3]]"
     }
    ]
   },
@@ -84,7 +84,7 @@
    "righe": [
     {
      "etichetta": "Sito",
-     "valore": "corteallodola.it, sito di una pagina in italiano e inglese [[3]]"
+     "valore": "corteallodola.it, sito di una pagina in italiano e inglese [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -92,7 +92,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=13592621506314888057|Mappa}} — valutazione 5 su 5 (1 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=13592621506314888057|Mappa}} — valutazione 5 su 5 (1 recensioni) [[5]]"
     }
    ]
   }
@@ -113,12 +113,18 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/corte-allodola-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina «index-en.php».",
    "url": "https://www.corteallodola.it/index-en.php",
    "etichetta": "corteallodola.it/index-en.php"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Società Agricola Corte Allodola S.S.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=13592621506314888057",
    "etichetta": "maps.google.com"

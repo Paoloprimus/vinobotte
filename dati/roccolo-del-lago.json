@@ -31,7 +31,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vino Custoza DOC [[4]]\nConsorzio Tutela Vino Bardolino D.O.C. [[5]]"
+     "valore": "Compare nell’elenco dei soci del Consorzio Tutela Vino Custoza DOC [[4]]\nConsorzio Tutela Vino Bardolino DOC [[5]]\nConsorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vino Bardolino D.O.C. [[6]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Custoza",
@@ -57,10 +57,10 @@
     },
     {
      "etichetta": "Denominazioni Bardolino dichiarate",
-     "valore": "Bardolino Classico DOC; Chiaretto di Bardolino DOC [[5]]"
+     "valore": "Bardolino Classico DOC; Chiaretto di Bardolino DOC [[6]]"
     }
    ],
-   "nota": "Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[5]]"
+   "nota": "Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[6]]"
   },
   {
    "titolo": "Riconoscimenti",
@@ -88,11 +88,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=18386046934926030867|Mappa}} — valutazione 4,8 su 5 (325 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=18386046934926030867|Mappa}} — valutazione 4,8 su 5 (325 recensioni) [[7]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[7]]"
+     "valore": "Presente come produttore [[8]]"
     }
    ]
   }
@@ -125,22 +125,28 @@
   },
   {
    "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 6,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/roccolo-del-lago/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «Roccolo del Lago» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=18386046934926030867",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"

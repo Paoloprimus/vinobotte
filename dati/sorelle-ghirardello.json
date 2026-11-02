@@ -26,8 +26,8 @@
      "valore": "{{http://www.sorelleghirardello.com|www.sorelleghirardello.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Vini Asolo Montello [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei soci produttori del Consorzio Vini Asolo Montello [[1]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[2]]"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Recantina DOC; Asolo Prosecco Superiore DOCG; Montello Colli Asolani DOC [[2]]"
+     "valore": "Denominazioni DOC e DOCG: Recantina DOC; Asolo Prosecco Superiore DOCG; Montello Colli Asolani DOC [[3]]"
     }
    ]
   },
@@ -63,11 +63,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/Sorelle-Ghirardello-104995854828116|Sorelle-Ghirardello-104995854828116}}\nInstagram {{https://www.instagram.com/sorelleghirardello/|@sorelleghirardello}}\nYouTube {{https://www.youtube.com/channel/UCZEMCgWYptfL3EZ5u2qE8Zg|canale UCZEMCgWYptfL3EZ5u2qE8Zg}}\nX {{https://x.com/SorelleGhirard1|@SorelleGhirard1}} [[3]]"
+     "valore": "Facebook {{https://www.facebook.com/Sorelle-Ghirardello-104995854828116|Sorelle-Ghirardello-104995854828116}}\nInstagram {{https://www.instagram.com/sorelleghirardello/|@sorelleghirardello}}\nYouTube {{https://www.youtube.com/channel/UCZEMCgWYptfL3EZ5u2qE8Zg|canale UCZEMCgWYptfL3EZ5u2qE8Zg}}\nX {{https://x.com/SorelleGhirard1|@SorelleGhirard1}} [[4]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.sorelleghirardello.com/negozio/|sorelleghirardello.com/negozio}} [[3]]"
+     "valore": "{{https://www.sorelleghirardello.com/negozio/|sorelleghirardello.com/negozio}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -75,7 +75,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=7027637807249579747|Mappa}} — valutazione 5 su 5 (10 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=7027637807249579747|Mappa}} — valutazione 5 su 5 (10 recensioni) [[5]]"
     }
    ]
   }
@@ -90,18 +90,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.sorelleghirardello.com",
    "etichetta": "sorelleghirardello.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.sorelleghirardello.com",
    "etichetta": "sorelleghirardello.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Sorelle Ghirardello» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=7027637807249579747",
    "etichetta": "maps.google.com"

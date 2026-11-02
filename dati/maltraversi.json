@@ -26,8 +26,8 @@
      "valore": "{{http://www.maltraversi.it|maltraversi.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vino Lessini Durello DOC [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[2]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[3]]"
     }
    ]
   },
@@ -42,33 +42,33 @@
   },
   {
    "titolo": "Vini",
-   "nota": "Cinque vini a base Durella; la denominazione non è indicata nelle pagine prodotto lette. [[3]]",
+   "nota": "Cinque vini a base Durella; la denominazione non è indicata nelle pagine prodotto lette. [[4]]",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Conte Uberto",
      "denominazione": "Durello Brut Millesimato, spumante metodo Charmat (denominazione non indicata)",
-     "annata": "— [[4]]"
+     "annata": "— [[5]]"
     },
     {
      "nome": "Niccolò Vescovo",
      "denominazione": "Denominazione non indicata",
-     "annata": "— [[3]]"
+     "annata": "— [[4]]"
     },
     {
      "nome": "Alboino Re",
      "denominazione": "Denominazione non indicata",
-     "annata": "— [[3]]"
+     "annata": "— [[4]]"
     },
     {
      "nome": "Ingherfredo il Longobardo",
      "denominazione": "Denominazione non indicata",
-     "annata": "— [[3]]"
+     "annata": "— [[4]]"
     },
     {
      "nome": "Beato Bernardo",
      "denominazione": "Denominazione non indicata",
-     "annata": "— [[3]]"
+     "annata": "— [[4]]"
     }
    ]
   },
@@ -90,7 +90,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=9168310036290876180|Mappa}} — valutazione 4 su 5 (4 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=9168310036290876180|Mappa}} — valutazione 4 su 5 (4 recensioni) [[6]]"
     }
    ]
   }
@@ -111,18 +111,24 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina «maltraversi.it/prodotti», consultata il 24 ottobre 2026.",
    "url": "https://www.maltraversi.it/prodotti",
    "etichetta": "maltraversi.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina «maltraversi.it/prodotti/conte-uberto», consultata il 24 ottobre 2026.",
    "url": "https://www.maltraversi.it/prodotti/conte-uberto",
    "etichetta": "maltraversi.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Cantina Maltraversi» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=9168310036290876180",
    "etichetta": "maps.google.com"

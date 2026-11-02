@@ -26,8 +26,8 @@
      "valore": "{{http://www.fratelligattocavalier.it/|www.fratelligattocavalier.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
     }
    ]
   },
@@ -84,7 +84,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/fratelligattocavalier|fratelligattocavalier}}\nInstagram {{https://www.instagram.com/fratelligattocavalier/|@fratelligattocavalier}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/fratelligattocavalier|fratelligattocavalier}}\nInstagram {{https://www.instagram.com/fratelligattocavalier/|@fratelligattocavalier}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -92,7 +92,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=4652398398577736386|Mappa}} — valutazione 4,9 su 5 (91 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=4652398398577736386|Mappa}} — valutazione 4,9 su 5 (91 recensioni) [[4]]"
     }
    ]
   }
@@ -107,12 +107,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/fratelli-gatto-cavalier/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.fratelligattocavalier.it/",
    "etichetta": "fratelligattocavalier.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Cantina CAVALIER - Cartizze e Prosecco Superiore di Valdobbiadene D.o.c.g. - Wine Shop & Degustazioni» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=4652398398577736386",
    "etichetta": "maps.google.com"

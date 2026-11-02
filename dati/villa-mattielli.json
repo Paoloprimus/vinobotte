@@ -19,7 +19,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela DOC Delle Venezie [[3]]\nConsorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[4]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -66,7 +66,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=2847365339233901389|Mappa}} — valutazione 4,6 su 5 (30 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=2847365339233901389|Mappa}} — valutazione 4,6 su 5 (30 recensioni) [[5]]"
     }
    ]
   }
@@ -87,12 +87,18 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.ilsoave.com/produttori-soave/",
    "etichetta": "ilsoave.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Famiglia Roncolato - Villa Mattielli» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=2847365339233901389",
    "etichetta": "maps.google.com"

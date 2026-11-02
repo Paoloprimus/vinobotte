@@ -35,7 +35,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[2]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]\nConsorzio Tutela Vini DOC Friuli Grave [[5]]\nConsorzio DOC Friuli [[6]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Tutela DOC Delle Venezie [[4]]\nConsorzio di Tutela della DOC Prosecco [[2]]\nConsorzio Tutela Vini DOC Delle Venezie [[5]]\nConsorzio Tutela Vini DOC Friuli Grave [[6]]\nConsorzio DOC Friuli [[7]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -43,7 +43,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
-     "valore": "Via del Campardo, 3, 31029 Vittorio Veneto TV; tel. 0438 500209; info@cantinavittorio.it; cantinavittorio.it [[4]]"
+     "valore": "Via del Campardo, 3, 31029 Vittorio Veneto TV; tel. 0438 500209; info@cantinavittorio.it; cantinavittorio.it [[5]]"
     }
    ]
   },
@@ -52,7 +52,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Cantina cooperativa; nel 1964 costruisce gli uffici amministrativi e il laboratorio analisi, nel 1978 toglie «mandamento» dalla ragione sociale perché molti soci risiedevano fuori dal Vittoriese. [[7]]"
+     "valore": "Cantina cooperativa; nel 1964 costruisce gli uffici amministrativi e il laboratorio analisi, nel 1978 toglie «mandamento» dalla ragione sociale perché molti soci risiedevano fuori dal Vittoriese. [[8]]"
     }
    ]
   },
@@ -102,7 +102,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=1419454454153252465|Mappa}} — valutazione 4,4 su 5 (36 recensioni) [[8]]"
+     "valore": "{{https://maps.google.com/?cid=1419454454153252465|Mappa}} — valutazione 4,4 su 5 (36 recensioni) [[9]]"
     }
    ]
   }
@@ -129,36 +129,42 @@
   },
   {
    "n": 4,
-   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
    "n": 5,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 6,
    "testo": "Consorzio Tutela Vini DOC Friuli Grave, elenco delle cantine e schede delle singole cantine, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuligrave.com/cantine.html",
    "etichetta": "docfriuligrave.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/cantina-di-conegliano-vittorio-veneto-e-casarsa/",
    "etichetta": "docfriuli.eu"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://cantinadiconeglianoevittorioveneto.it",
    "etichetta": "cantinadiconeglianoevittorioveneto.it"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Scheda «Cantina di Vittorio Veneto» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=1419454454153252465",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

@@ -6,8 +6,8 @@
    "titolo": "Anagrafica",
    "righe": [
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vino Lessini Durello DOC [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[1]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[2]]"
     }
    ]
   },
@@ -47,7 +47,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -62,6 +62,12 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 3,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

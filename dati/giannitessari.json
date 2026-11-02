@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio Tutela Vino Lessini Durello DOC [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[3]]\nConsorzio Tutela Vini Colli Berici e Vicenza [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Lessini Durello DOC [[5]]"
     }
    ]
   },
@@ -36,44 +40,44 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Cantina Giannitessari avviata nel 2013 da Gianni Tessari e famiglia a Roncà (Valle d’Alpone); operatore indicato nel piè di pagina: E.I.B. Enology International Business srl [[4]]"
+     "valore": "Cantina Giannitessari avviata nel 2013 da Gianni Tessari e famiglia a Roncà (Valle d’Alpone); operatore indicato nel piè di pagina: E.I.B. Enology International Business srl [[6]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Solo i vini a denominazione Soave; il sito non riporta le annate. [[4]] Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate.",
+   "nota": "Solo i vini a denominazione Soave; il sito non riporta le annate. [[6]] Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate.",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Soave",
      "denominazione": "Soave DOC",
-     "annata": "— [[5]]"
+     "annata": "— [[7]]"
     },
     {
      "nome": "Scalette",
      "denominazione": "Soave Classico DOC",
-     "annata": "— [[6]]"
+     "annata": "— [[8]]"
     },
     {
      "nome": "Perinato",
      "denominazione": "Soave Classico DOC",
-     "annata": "— [[7]]"
+     "annata": "— [[9]]"
     },
     {
      "nome": "Lessini Durello Brut (36 mesi)",
      "denominazione": "Lessini Durello",
-     "annata": "— [[8]]"
+     "annata": "— [[10]]"
     },
     {
      "nome": "Lessini Durello Extra Brut (60 mesi)",
      "denominazione": "Lessini Durello",
-     "annata": "— [[9]]"
+     "annata": "— [[11]]"
     },
     {
      "nome": "Lessini Durello Dosaggio Zero (120 mesi)",
      "denominazione": "Lessini Durello",
-     "annata": "— [[10]]"
+     "annata": "— [[12]]"
     }
    ]
   },
@@ -82,7 +86,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Premi internazionali vinti, senza indicare quali; la pagina dei riconoscimenti non è stata letta [[4]]"
+     "valore": "Premi internazionali vinti, senza indicare quali; la pagina dei riconoscimenti non è stata letta [[6]]"
     }
    ]
   },
@@ -99,7 +103,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=13430409295512619298|Mappa}} — valutazione 4,8 su 5 (57 recensioni) [[11]]"
+     "valore": "{{https://maps.google.com/?cid=13430409295512619298|Mappa}} — valutazione 4,8 su 5 (57 recensioni) [[13]]"
     }
    ]
   }
@@ -120,60 +124,72 @@
   },
   {
    "n": 3,
-   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
    "url": "https://www.montilessini.com/produttori-vino-durello/",
    "etichetta": "montilessini.com"
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Colli Berici e Vicenza, consultato il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  },
+  {
+   "n": 5,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina «giannitessari.wine», consultata il 24 ottobre 2026.",
    "url": "http://giannitessari.wine",
    "etichetta": "giannitessari.wine"
   },
   {
-   "n": 5,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «giannitessari.wine/i-vini/soave-doc», consultata il 24 ottobre 2026.",
    "url": "https://giannitessari.wine/i-vini/soave-doc/",
    "etichetta": "giannitessari.wine"
   },
   {
-   "n": 6,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina «giannitessari.wine/i-vini/monte-tenda-soave-classico-doc», consultata il 24 ottobre 2026.",
    "url": "https://giannitessari.wine/i-vini/monte-tenda-soave-classico-doc/",
    "etichetta": "giannitessari.wine"
   },
   {
-   "n": 7,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina «giannitessari.wine/i-vini/pigno-soave-classico-doc», consultata il 24 ottobre 2026.",
    "url": "https://giannitessari.wine/i-vini/pigno-soave-classico-doc/",
    "etichetta": "giannitessari.wine"
   },
   {
-   "n": 8,
+   "n": 10,
    "testo": "Sito ufficiale della cantina, pagina «giannitessari.wine/i-vini/lessini-durello-36-mesi», consultata il 24 ottobre 2026.",
    "url": "https://giannitessari.wine/i-vini/lessini-durello-36-mesi/",
    "etichetta": "giannitessari.wine"
   },
   {
-   "n": 9,
+   "n": 11,
    "testo": "Sito ufficiale della cantina, pagina «giannitessari.wine/i-vini/lessini-durello-60-mesi», consultata il 24 ottobre 2026.",
    "url": "https://giannitessari.wine/i-vini/lessini-durello-60-mesi/",
    "etichetta": "giannitessari.wine"
   },
   {
-   "n": 10,
+   "n": 12,
    "testo": "Sito ufficiale della cantina, pagina «giannitessari.wine/i-vini/lessini-durello-120-mesi», consultata il 24 ottobre 2026.",
    "url": "https://giannitessari.wine/i-vini/lessini-durello-120-mesi/",
    "etichetta": "giannitessari.wine"
   },
   {
-   "n": 11,
+   "n": 13,
    "testo": "Scheda «Giannitessari» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=13430409295512619298",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 12,
+   "n": 14,
    "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.ilsoave.com/produttori-soave/",
    "etichetta": "ilsoave.com"

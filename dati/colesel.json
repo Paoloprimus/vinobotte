@@ -26,8 +26,8 @@
      "valore": "{{http://www.colesel.com|www.colesel.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
     }
    ]
   },
@@ -88,7 +88,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Instagram {{https://www.instagram.com/colesel_spumanti/|@colesel_spumanti}} [[2]]"
+     "valore": "Instagram {{https://www.instagram.com/colesel_spumanti/|@colesel_spumanti}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -96,7 +96,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=1889292065300441441|Mappa}} — valutazione 4,6 su 5 (119 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=1889292065300441441|Mappa}} — valutazione 4,6 su 5 (119 recensioni) [[4]]"
     }
    ]
   }
@@ -111,12 +111,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/colesel/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.colesel.com",
    "etichetta": "colesel.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Colesel» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=1889292065300441441",
    "etichetta": "maps.google.com"

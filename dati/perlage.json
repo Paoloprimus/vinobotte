@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Vini Asolo Montello [[4]]\nConsorzio Tutela Vini DOC Delle Venezie [[5]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[4]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[5]]\nConsorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Vini Asolo Montello [[6]]\nConsorzio Tutela Vini DOC Delle Venezie [[7]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -35,7 +35,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Asolo Montello",
-     "valore": "Via Cal del Muner, 16, 31010 Farra di Soligo (TV); tel. 0438 900203; 0438 900195; info@perlagewines.com; perlagewines.com [[4]]"
+     "valore": "Via Cal del Muner, 16, 31010 Farra di Soligo (TV); tel. 0438 900203; 0438 900195; info@perlagewines.com; perlagewines.com [[6]]"
     }
    ]
   },
@@ -64,7 +64,7 @@
     {
      "nome": "Pinot Grigio",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[5]]"
+     "annata": "— [[7]]"
     }
    ],
    "tipo": "vini"
@@ -108,11 +108,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=3725083839633588175|Mappa}} — valutazione 4,8 su 5 (138 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=3725083839633588175|Mappa}} — valutazione 4,8 su 5 (138 recensioni) [[8]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[7]]"
+     "valore": "Presente come produttore [[9]]"
     }
    ]
   }
@@ -139,24 +139,36 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/perlage/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 5,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 6,
    "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.asolomontello.it/i-soci-produttori/",
    "etichetta": "asolomontello.it"
   },
   {
-   "n": 5,
+   "n": 7,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 6,
+   "n": 8,
    "testo": "Scheda «Perlage Winery» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=3725083839633588175",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
+   "n": 9,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

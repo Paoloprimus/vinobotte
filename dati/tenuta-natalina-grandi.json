@@ -26,8 +26,8 @@
      "valore": "{{http://www.cantinagrandi.com|cantinagrandi.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vino Lessini Durello DOC [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[2]]\nConsorzio Volontario per la Tutela dei Vini Gambellara [[3]]"
     }
    ]
   },
@@ -48,12 +48,12 @@
     {
      "nome": "Durello (Brut, Charmat)",
      "denominazione": "Gambellara DOC (come indicato nella pagina prodotto; elencato come «Lessini DOC» nel catalogo)",
-     "annata": "— [[3]]"
+     "annata": "— [[4]]"
     },
     {
      "nome": "Durello Spumante Extra Brut",
      "denominazione": "Gambellara DOC (come indicato nella pagina prodotto; elencato come «Lessini DOC» nel catalogo) – Metodo Classico",
-     "annata": "— [[4]]"
+     "annata": "— [[5]]"
     }
    ]
   },
@@ -71,7 +71,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://it-it.facebook.com/cantinagrandi|cantinagrandi}} [[5]]"
+     "valore": "Facebook {{https://it-it.facebook.com/cantinagrandi|cantinagrandi}} [[6]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -79,7 +79,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=15938818634639784263|Mappa}} — valutazione 4,9 su 5 (71 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=15938818634639784263|Mappa}} — valutazione 4,9 su 5 (71 recensioni) [[7]]"
     }
    ]
   }
@@ -100,24 +100,30 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Volontario per la Tutela dei Vini Gambellara, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/",
+   "etichetta": "consorziogambellara.com"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina «cantinagrandi.com/product-page/durello-spumante-brut-metodo-charmat-lessini-gambellara-vulcanico», consultata il 24 ottobre 2026.",
    "url": "https://www.cantinagrandi.com/product-page/durello-spumante-brut-metodo-charmat-lessini-gambellara-vulcanico",
    "etichetta": "cantinagrandi.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina «cantinagrandi.com/product-page/durello-spumante-extra-brut-metodo-classico-lessini-gambellara-vulcanico», consultata il 24 ottobre 2026.",
    "url": "https://www.cantinagrandi.com/product-page/durello-spumante-extra-brut-metodo-classico-lessini-gambellara-vulcanico",
    "etichetta": "cantinagrandi.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.cantinagrandi.com",
    "etichetta": "cantinagrandi.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «Tenuta Natalina Grandi-Tradizione Vulcanica» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=15938818634639784263",
    "etichetta": "maps.google.com"

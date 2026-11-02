@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio per la Tutela dell’Asti [[2]]\nConsorzio Tutela Vini d’Acqui [[3]]"
+     "valore": "Consorzio per la Tutela dell’Asti [[2]]\nConsorzio Tutela Vini d’Acqui [[3]]\nConsorzio Alta Langa [[4]]"
     }
    ]
   },
@@ -60,6 +60,12 @@
    "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Acqui, scheda dell’azienda consultata il 2 novembre 2026.",
    "url": "https://vinidacqui.it/az-agr-il-cartino-di-baccalario-giuseppe/",
    "etichetta": "vinidacqui.it"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Alta Langa, consultato il 2 novembre 2026.",
+   "url": "https://www.altalangadocg.com/cantine/ca-du-sindic/",
+   "etichetta": "altalangadocg.com"
   }
  ]
 }

@@ -30,8 +30,8 @@
      "valore": "{{http://www.bervini.it|bervini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio DOC Friuli [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[2]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[3]]"
     }
    ]
   },
@@ -49,7 +49,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Prosecco DOC [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Prosecco DOC [[4]]"
     }
    ]
   },
@@ -58,7 +58,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Gilbert & Gaillard: premio d’oro allo spumante Nature\nGambero Rosso: 2 bicchieri a più vini [[4]]"
+     "valore": "Gilbert & Gaillard: premio d’oro allo spumante Nature\nGambero Rosso: 2 bicchieri a più vini [[5]]"
     }
    ]
   },
@@ -67,7 +67,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/bervini1955|bervini1955}}\nInstagram {{https://www.instagram.com/bervini1955/|@bervini1955}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/bervini1955|bervini1955}}\nInstagram {{https://www.instagram.com/bervini1955/|@bervini1955}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -92,12 +92,18 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/ca-selva/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.bervini.it",
    "etichetta": "bervini.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.bervini.it",
    "etichetta": "bervini.it"

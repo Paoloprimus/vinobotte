@@ -31,7 +31,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vino Bardolino D.O.C. [[6]]\nConsorzio Tutela Lugana DOC [[7]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vino Bardolino DOC [[6]]\nConsorzio Tutela Vino Bardolino D.O.C. [[7]]\nConsorzio Tutela Lugana DOC [[8]]"
     }
    ]
   },
@@ -40,34 +40,34 @@
    "righe": [
     {
      "etichetta": "Storia",
-     "valore": "Cantina “ZENI1870”; Nino Zeni crea il Museo del Vino nel 1991; la cantina di Fumane viene aperta per i vini più strutturati [[2]] [[8]]"
+     "valore": "Cantina “ZENI1870”; Nino Zeni crea il Museo del Vino nel 1991; la cantina di Fumane viene aperta per i vini più strutturati [[2]] [[9]]"
     },
     {
      "etichetta": "Certificazioni",
-     "valore": "ISO 9001:2015 [[9]]"
+     "valore": "ISO 9001:2015 [[10]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche Bardolino, Lugana, Custoza, Soave, spumanti e un IGT. Il sito non riporta le annate. [[10]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[6]]",
+   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche Bardolino, Lugana, Custoza, Soave, spumanti e un IGT. Il sito non riporta le annate. [[11]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[7]]",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Nino Zeni",
      "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
-     "annata": "— [[11]]"
+     "annata": "— [[12]]"
     },
     {
      "nome": "Marogne",
      "denominazione": "Valpolicella DOC Superiore Ripasso",
-     "annata": "— [[12]]"
+     "annata": "— [[13]]"
     }
    ],
    "righe": [
     {
      "etichetta": "Denominazioni Bardolino dichiarate",
-     "valore": "Bardolino Classico DOC; Bardolino Classico Superiore DOCG; Chiaretto di Bardolino spumante DOC; Chiaretto di Bardolino Classico DOC [[6]]"
+     "valore": "Bardolino Classico DOC; Bardolino Classico Superiore DOCG; Chiaretto di Bardolino spumante DOC; Chiaretto di Bardolino Classico DOC [[7]]"
     }
    ]
   },
@@ -80,7 +80,7 @@
     },
     {
      "etichetta": "Esperienze",
-     "valore": "Galleria Olfattiva (percorso e degustazione € 28; con tagliere € 48); Museo; tour ed eventi “L’Ora – Vento diVino” [[13]] [[14]]"
+     "valore": "Galleria Olfattiva (percorso e degustazione € 28; con tagliere € 48); Museo; tour ed eventi “L’Ora – Vento diVino” [[14]] [[15]]"
     }
    ]
   },
@@ -89,7 +89,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Premi per annata, in gran parte per Bardolino e Lugana; non attribuiti ai vini Valpolicella [[15]]"
+     "valore": "Premi per annata, in gran parte per Bardolino e Lugana; non attribuiti ai vini Valpolicella [[16]]"
     }
    ]
   },
@@ -102,7 +102,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=16109374828576516941|Mappa}} — valutazione 4,6 su 5 (862 recensioni) [[16]]"
+     "valore": "{{https://maps.google.com/?cid=16109374828576516941|Mappa}} — valutazione 4,6 su 5 (862 recensioni) [[17]]"
     }
    ]
   }
@@ -141,72 +141,78 @@
   },
   {
    "n": 6,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 7,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/zeni-1870/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 31 ottobre 2026.",
    "url": "https://www.consorziolugana.it/elenco-aziende/zeni",
    "etichetta": "consorziolugana.it"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina «it/cantina/testimonianza.html».",
    "url": "https://www.zeni.it/it/cantina/testimonianza.html",
    "etichetta": "zeni.it/it/cantina/testimonianza.html"
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Sito ufficiale della cantina, pagina «it/cantina/certificazioni.html».",
    "url": "https://www.zeni.it/it/cantina/certificazioni.html",
    "etichetta": "zeni.it/it/cantina/certificazioni.html"
   },
   {
-   "n": 10,
+   "n": 11,
    "testo": "Sito ufficiale della cantina, pagina «it/vini.html».",
    "url": "https://www.zeni.it/it/vini.html",
    "etichetta": "zeni.it/it/vini.html"
   },
   {
-   "n": 11,
+   "n": 12,
    "testo": "Sito ufficiale della cantina, pagina «it/vini/amarone-della-valpolicella-docg-classico-nino-zeni.html».",
    "url": "https://www.zeni.it/it/vini/amarone-della-valpolicella-docg-classico-nino-zeni.html",
    "etichetta": "zeni.it/it/vini/amarone-della-valpolicella-docg-classico-nino-zeni.html"
   },
   {
-   "n": 12,
+   "n": 13,
    "testo": "Sito ufficiale della cantina, pagina «it/vini/valpolicella-doc-superiore-ripasso-marogne.html».",
    "url": "https://www.zeni.it/it/vini/valpolicella-doc-superiore-ripasso-marogne.html",
    "etichetta": "zeni.it/it/vini/valpolicella-doc-superiore-ripasso-marogne.html"
   },
   {
-   "n": 13,
+   "n": 14,
    "testo": "Sito ufficiale della cantina, pagina «it/visite/go-galleria-olfattiva.html».",
    "url": "https://www.zeni.it/it/visite/go-galleria-olfattiva.html",
    "etichetta": "zeni.it/it/visite/go-galleria-olfattiva.html"
   },
   {
-   "n": 14,
+   "n": 15,
    "testo": "Sito ufficiale della cantina, pagina «it/visite/lora-vento-divino-tours-ed-eventi.html».",
    "url": "https://www.zeni.it/it/visite/lora-vento-divino-tours-ed-eventi.html",
    "etichetta": "zeni.it/it/visite/lora-vento-divino-tours-ed-eventi.html"
   },
   {
-   "n": 15,
+   "n": 16,
    "testo": "Sito ufficiale della cantina, pagina «it/vini/premi-e-riconoscimenti.html».",
    "url": "https://www.zeni.it/it/vini/premi-e-riconoscimenti.html",
    "etichetta": "zeni.it/it/vini/premi-e-riconoscimenti.html"
   },
   {
-   "n": 16,
+   "n": 17,
    "testo": "Scheda «Cantina F.lli Zeni» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=16109374828576516941",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 17,
+   "n": 18,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"

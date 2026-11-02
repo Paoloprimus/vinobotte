@@ -26,8 +26,8 @@
      "valore": "{{http://www.domus-picta.com/|www.domus-picta.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
     }
    ]
   },
@@ -75,7 +75,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Medaglie d’argento a Sparkling Wines of the World, Wine Pleasures e IWSC 2020–2022 [[2]]"
+     "valore": "Medaglie d’argento a Sparkling Wines of the World, Wine Pleasures e IWSC 2020–2022 [[3]]"
     }
    ]
   },
@@ -84,7 +84,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/domuspictavaldobbiadene|domuspictavaldobbiadene}}\nX {{https://x.com/Domus_pictA|@Domus_pictA}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/domuspictavaldobbiadene|domuspictavaldobbiadene}}\nX {{https://x.com/Domus_pictA|@Domus_pictA}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -92,11 +92,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=7344478377495878025|Mappa}} — valutazione 4,8 su 5 (33 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=7344478377495878025|Mappa}} — valutazione 4,8 su 5 (33 recensioni) [[4]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[4]]"
+     "valore": "Presente come produttore [[5]]"
     }
    ]
   }
@@ -111,18 +111,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/domus-picta/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.domus-picta.com/",
    "etichetta": "domus-picta.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Domus-pictA» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=7344478377495878025",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

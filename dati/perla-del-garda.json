@@ -30,8 +30,8 @@
      "valore": "{{https://www.perladelgarda.it/|perladelgarda.it}} [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Lugana DOC [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Tutela Lugana DOC [[2]]\nConsorzio Garda DOC [[3]]"
     }
    ]
   },
@@ -58,6 +58,12 @@
    "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, consultato il 31 ottobre 2026.",
    "url": "https://www.consorziolugana.it/elenco-aziende/perla-del-garda",
    "etichetta": "consorziolugana.it"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Garda DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.gardadocvino.it/portfolio/perla-del-garda/",
+   "etichetta": "gardadocvino.it"
   }
  ]
 }

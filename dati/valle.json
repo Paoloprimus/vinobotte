@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]"
     }
    ]
   },
@@ -71,11 +75,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=16273773451683490603|Mappa}} — valutazione 4,8 su 5 (20 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=16273773451683490603|Mappa}} — valutazione 4,8 su 5 (20 recensioni) [[4]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[4]]"
+     "valore": "Presente come produttore [[5]]"
     }
    ]
   }
@@ -96,12 +100,18 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/valle/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 4,
    "testo": "Scheda «Valle Aziende Vitivinicole» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=16273773451683490603",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

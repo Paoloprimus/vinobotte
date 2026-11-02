@@ -30,8 +30,8 @@
      "valore": "{{http://www.pecolboin.it|pecolboin.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio DOC Friuli [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[2]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[3]]"
     }
    ]
   },
@@ -49,7 +49,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Friuli Grave DOC; Prosecco DOC [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Friuli Grave DOC; Prosecco DOC [[4]]"
     }
    ]
   },
@@ -71,7 +71,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=16114970509132865676|Mappa}} — valutazione 4,6 su 5 (66 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=16114970509132865676|Mappa}} — valutazione 4,6 su 5 (66 recensioni) [[5]]"
     }
    ]
   }
@@ -92,12 +92,18 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/pecol-boin/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.pecolboin.it",
    "etichetta": "pecolboin.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Azienda Agricola Pecol Boin di Tormena Aldo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=16114970509132865676",
    "etichetta": "maps.google.com"

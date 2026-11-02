@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[4]]\nConsorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[5]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -35,7 +35,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
-     "valore": "tel. 043 82011; info@serenawines.it; serenawines.it/ [[4]]"
+     "valore": "tel. 043 82011; info@serenawines.it; serenawines.it/ [[5]]"
     }
    ]
   },
@@ -64,7 +64,7 @@
     {
      "nome": "Pinot Grigio",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[4]]"
+     "annata": "— [[5]]"
     }
    ],
    "tipo": "vini"
@@ -104,7 +104,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=16851722748617236819|Mappa}} — valutazione 4,2 su 5 (112 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=16851722748617236819|Mappa}} — valutazione 4,2 su 5 (112 recensioni) [[6]]"
     }
    ]
   }
@@ -131,12 +131,18 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/vinicola-serena/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Serena Wines 1881» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=16851722748617236819",
    "etichetta": "maps.google.com"

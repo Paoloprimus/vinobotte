@@ -22,8 +22,8 @@
      "valore": "{{https://cantinesgarzi.com/|cantinesgarzi.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela DOC Delle Venezie [[3]]"
     }
    ]
   },
@@ -52,7 +52,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Mundus Vini: oro 2011–2014\nBerliner Wein Trophy 2012 [[3]]"
+     "valore": "Mundus Vini: oro 2011–2014\nBerliner Wein Trophy 2012 [[4]]"
     }
    ]
   },
@@ -61,7 +61,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/CantineSgarziLuigi|CantineSgarziLuigi}}\nInstagram {{https://www.instagram.com/cantinesgarziluigi/|@cantinesgarziluigi}}\nYouTube {{https://www.youtube.com/channel/UC75lp4ncgVLaQIleDZV-Rig|canale UC75lp4ncgVLaQIleDZV-Rig}}\nLinkedIn {{https://www.linkedin.com/company/cantine-sgarzi-luigi-srl|cantine-sgarzi-luigi-srl}} [[3]]"
+     "valore": "Facebook {{https://www.facebook.com/CantineSgarziLuigi|CantineSgarziLuigi}}\nInstagram {{https://www.instagram.com/cantinesgarziluigi/|@cantinesgarziluigi}}\nYouTube {{https://www.youtube.com/channel/UC75lp4ncgVLaQIleDZV-Rig|canale UC75lp4ncgVLaQIleDZV-Rig}}\nLinkedIn {{https://www.linkedin.com/company/cantine-sgarzi-luigi-srl|cantine-sgarzi-luigi-srl}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -69,7 +69,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=8421072291397987535|Mappa}} — valutazione 4,4 su 5 (119 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=8421072291397987535|Mappa}} — valutazione 4,4 su 5 (119 recensioni) [[5]]"
     }
    ]
   }
@@ -90,12 +90,18 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://cantinesgarzi.com/",
    "etichetta": "cantinesgarzi.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Cantine Sgarzi Luigi srl» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=8421072291397987535",
    "etichetta": "maps.google.com"

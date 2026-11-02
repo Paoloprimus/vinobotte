@@ -32,6 +32,10 @@
     {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.maccarivini.it|maccarivini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[4]]"
     }
    ]
   },
@@ -40,7 +44,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Il sito indica «vignaioli dal 1898». [[4]]"
+     "valore": "Il sito indica «vignaioli dal 1898». [[5]]"
     }
    ]
   },
@@ -90,11 +94,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/MaccariSrl|MaccariSrl}}\nInstagram {{https://www.instagram.com/maccarivini/|@maccarivini}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/MaccariSrl|MaccariSrl}}\nInstagram {{https://www.instagram.com/maccarivini/|@maccarivini}} [[5]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://maccarivini.it/shop/|maccarivini.it/shop}} [[4]]"
+     "valore": "{{https://maccarivini.it/shop/|maccarivini.it/shop}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -102,11 +106,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=9847990544093643699|Mappa}} — valutazione 4,7 su 5 (20 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=9847990544093643699|Mappa}} — valutazione 4,7 su 5 (20 recensioni) [[6]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[7]]"
     }
    ]
   }
@@ -133,18 +137,24 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/maccari/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.maccarivini.it",
    "etichetta": "maccarivini.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Maccari S.R.L.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=9847990544093643699",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

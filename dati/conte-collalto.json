@@ -31,7 +31,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[2]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Vini Venezia [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[4]]\nConsorzio di Tutela della DOC Prosecco [[2]]\nConsorzio Vini Venezia [[5]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -39,7 +39,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
-     "valore": "31058 Susegana; comunicazione@cantine-collalto.it; denominazioni: Piave, Venezia [[4]]"
+     "valore": "31058 Susegana; comunicazione@cantine-collalto.it; denominazioni: Piave, Venezia [[5]]"
     }
    ]
   },
@@ -108,11 +108,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/Conte.Collalto|Conte.Collalto}}\nInstagram {{https://www.instagram.com/contecollalto/|@contecollalto}}\nYouTube {{https://www.youtube.com/user/ConteCollalto|ConteCollalto}} [[5]]"
+     "valore": "Facebook {{https://www.facebook.com/Conte.Collalto|Conte.Collalto}}\nInstagram {{https://www.instagram.com/contecollalto/|@contecollalto}}\nYouTube {{https://www.youtube.com/user/ConteCollalto|ConteCollalto}} [[6]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://shop.cantine-collalto.it/|shop.cantine-collalto.it}} [[5]]"
+     "valore": "{{https://shop.cantine-collalto.it/|shop.cantine-collalto.it}} [[6]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -120,11 +120,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=9156472979659914887|Mappa}} — valutazione 4,7 su 5 (308 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=9156472979659914887|Mappa}} — valutazione 4,7 su 5 (308 recensioni) [[7]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[7]]"
+     "valore": "Presente come produttore [[8]]"
     }
    ]
   }
@@ -151,24 +151,30 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/conte-collalto/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://www.consorziovinivenezia.it/cantine-associate/",
    "etichetta": "consorziovinivenezia.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.cantine-collalto.it/",
    "etichetta": "cantine-collalto.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «Azienda Agricola Conte Collalto» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=9156472979659914887",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

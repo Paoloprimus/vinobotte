@@ -35,11 +35,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[3]]\nConsorzio Tutela Vino Lessini Durello DOC [[4]]\nConsorzio Tutela Vini DOC Delle Venezie [[5]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela DOC Delle Venezie [[3]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[4]]\nConsorzio Tutela Vino Lessini Durello DOC [[5]]\nConsorzio Tutela Vini DOC Delle Venezie [[6]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
-     "valore": "Via Moschina, 11, 37030 Roncà, Verona, Italia; tel. 045 7460110; info@dalcerofamily.it; dalcerofamily.it [[5]]"
+     "valore": "Via Moschina, 11, 37030 Roncà, Verona, Italia; tel. 045 7460110; info@dalcerofamily.it; dalcerofamily.it [[6]]"
     }
    ]
   },
@@ -48,88 +48,88 @@
    "righe": [
     {
      "etichetta": "Storia",
-     "valore": "Dal 1934, quando Augusto Dal Cero acquista terreni a Roncà tra i vulcani spenti Crocetta e Calvarina; i figli Dario e Giuseppe estendono l’azienda e dagli anni ’80 aggiungono la Toscana a Cortona; la terza generazione avvia il progetto in Valpolicella [[6]] [[7]]"
+     "valore": "Dal 1934, quando Augusto Dal Cero acquista terreni a Roncà tra i vulcani spenti Crocetta e Calvarina; i figli Dario e Giuseppe estendono l’azienda e dagli anni ’80 aggiungono la Toscana a Cortona; la terza generazione avvia il progetto in Valpolicella [[7]] [[8]]"
     },
     {
      "etichetta": "Tenute",
-     "valore": "Corte Giacobbe (Roncà), Montecchiesi (Cortona), Dal Cero in Valpolicella [[8]]"
+     "valore": "Corte Giacobbe (Roncà), Montecchiesi (Cortona), Dal Cero in Valpolicella [[9]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Etichette del sito, divise per tenuta; il sito non indica le annate nell’elenco. [[9]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate. Solo i vini a denominazione Soave, prodotti dalla Tenuta Corte Giacobbe a Roncà (zona Monte Calvarina); la cantina produce anche vini Valpolicella e altri. Il sito non riporta le annate. [[10]]",
+   "nota": "Etichette del sito, divise per tenuta; il sito non indica le annate nell’elenco. [[10]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate. Solo i vini a denominazione Soave, prodotti dalla Tenuta Corte Giacobbe a Roncà (zona Monte Calvarina); la cantina produce anche vini Valpolicella e altri. Il sito non riporta le annate. [[11]]",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Amarone",
      "denominazione": "Amarone della Valpolicella DOCG",
-     "annata": "— [[11]]"
+     "annata": "— [[12]]"
     },
     {
      "nome": "Amarone Riserva",
      "denominazione": "Amarone della Valpolicella Riserva DOCG",
-     "annata": "— [[12]]"
+     "annata": "— [[13]]"
     },
     {
      "nome": "Ripasso",
      "denominazione": "Valpolicella Ripasso Superiore DOC",
-     "annata": "— [[13]]"
+     "annata": "— [[14]]"
     },
     {
      "nome": "Valpolicella",
      "denominazione": "Valpolicella DOC",
-     "annata": "— [[14]]"
+     "annata": "— [[15]]"
     },
     {
      "nome": "Runcata",
      "denominazione": "Soave Superiore DOCG",
-     "annata": "— [[15]]"
+     "annata": "— [[16]]"
     },
     {
      "nome": "Soave",
      "denominazione": "Soave DOC",
-     "annata": "— [[10]]"
+     "annata": "— [[11]]"
     },
     {
      "nome": "Pinot Grigio",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[16]]"
+     "annata": "— [[17]]"
     },
     {
      "nome": "Pinot Grigio Ramato",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[17]]"
+     "annata": "— [[18]]"
     },
     {
      "nome": "Cuvée Augusto",
      "denominazione": "Metodo Classico Lessini Durello DOC Riserva",
-     "annata": "— [[18]]"
+     "annata": "— [[19]]"
     },
     {
      "nome": "Klanis",
      "denominazione": "Cortona DOC Syrah",
-     "annata": "— [[19]]"
+     "annata": "— [[20]]"
     },
     {
      "nome": "Selverello",
      "denominazione": "Cortona DOC Syrah",
-     "annata": "— [[20]]"
+     "annata": "— [[21]]"
     },
     {
      "nome": "Cuvée Augusto",
      "denominazione": "Metodo Classico Lessini Durello DOC Riserva «dosaggio zero»",
-     "annata": "— [[18]]"
+     "annata": "— [[19]]"
     },
     {
      "nome": "Corte Giacobbe Soave",
      "denominazione": "Soave DOC Roncà – Monte Calvarina",
-     "annata": "— [[10]]"
+     "annata": "— [[11]]"
     },
     {
      "nome": "Runcata",
      "denominazione": "Soave Superiore DOCG Roncà – Monte Calvarina",
-     "annata": "— [[15]]"
+     "annata": "— [[16]]"
     }
    ]
   },
@@ -147,11 +147,11 @@
    "righe": [
     {
      "etichetta": "Wine shop",
-     "valore": "Lunedì–venerdì 10:00–12:30 e 15:00–18:00; sabato 10:00–12:30, pomeriggio su prenotazione [[21]]"
+     "valore": "Lunedì–venerdì 10:00–12:30 e 15:00–18:00; sabato 10:00–12:30, pomeriggio su prenotazione [[22]]"
     },
     {
      "etichetta": "Degustazioni",
-     "valore": "Wine Tasting Experience su appuntamento: Classic (60 min, 25 € a persona), Vini d’Eccellenza (60 min, 40 €), Bollicine che Passione (50 min, 35 €); minimo 2 persone [[21]]"
+     "valore": "Wine Tasting Experience su appuntamento: Classic (60 min, 25 € a persona), Vini d’Eccellenza (60 min, 40 €), Bollicine che Passione (50 min, 35 €); minimo 2 persone [[22]]"
     }
    ]
   },
@@ -160,7 +160,7 @@
    "righe": [
     {
      "etichetta": "Sito",
-     "valore": "dalcerofamily.it, in italiano e inglese [[22]]"
+     "valore": "dalcerofamily.it, in italiano e inglese [[23]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -168,7 +168,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=8269982609347787068|Mappa}} — valutazione 4,8 su 5 (15 recensioni) [[23]]"
+     "valore": "{{https://maps.google.com/?cid=8269982609347787068|Mappa}} — valutazione 4,8 su 5 (15 recensioni) [[24]]"
     }
    ]
   }
@@ -189,126 +189,132 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.ilsoave.com/produttori-soave/",
    "etichetta": "ilsoave.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.montilessini.com/produttori-vino-durello/",
    "etichetta": "montilessini.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
    "url": "https://dalcerofamily.it/chi-siamo",
    "etichetta": "dalcerofamily.it/chi-siamo"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina «tenute/dal-cero-in-valpolicella».",
    "url": "https://dalcerofamily.it/tenute/dal-cero-in-valpolicella",
    "etichetta": "dalcerofamily.it/tenute/dal-cero-in-valpolicella"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina «tenute».",
    "url": "https://dalcerofamily.it/tenute",
    "etichetta": "dalcerofamily.it/tenute"
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Sito ufficiale della cantina, pagina «vini».",
    "url": "https://dalcerofamily.it/vini",
    "etichetta": "dalcerofamily.it/vini"
   },
   {
-   "n": 10,
+   "n": 11,
    "testo": "Sito ufficiale della cantina, pagina «vini/soave».",
    "url": "https://dalcerofamily.it/vini/soave",
    "etichetta": "dalcerofamily.it/vini/soave"
   },
   {
-   "n": 11,
+   "n": 12,
    "testo": "Sito ufficiale della cantina, pagina «vini/amarone».",
    "url": "https://dalcerofamily.it/vini/amarone",
    "etichetta": "dalcerofamily.it/vini/amarone"
   },
   {
-   "n": 12,
+   "n": 13,
    "testo": "Sito ufficiale della cantina, pagina «vini/amarone-della-valpolicella-riserva».",
    "url": "https://dalcerofamily.it/vini/amarone-della-valpolicella-riserva",
    "etichetta": "dalcerofamily.it/vini/amarone-della-valpolicella-riserva"
   },
   {
-   "n": 13,
+   "n": 14,
    "testo": "Sito ufficiale della cantina, pagina «vini/ripasso».",
    "url": "https://dalcerofamily.it/vini/ripasso",
    "etichetta": "dalcerofamily.it/vini/ripasso"
   },
   {
-   "n": 14,
+   "n": 15,
    "testo": "Sito ufficiale della cantina, pagina «vini/valpolicella-doc».",
    "url": "https://dalcerofamily.it/vini/valpolicella-doc",
    "etichetta": "dalcerofamily.it/vini/valpolicella-doc"
   },
   {
-   "n": 15,
+   "n": 16,
    "testo": "Sito ufficiale della cantina, pagina «vini/runcata».",
    "url": "https://dalcerofamily.it/vini/runcata",
    "etichetta": "dalcerofamily.it/vini/runcata"
   },
   {
-   "n": 16,
+   "n": 17,
    "testo": "Sito ufficiale della cantina, pagina «vini/pinot-grigio».",
    "url": "https://dalcerofamily.it/vini/pinot-grigio",
    "etichetta": "dalcerofamily.it/vini/pinot-grigio"
   },
   {
-   "n": 17,
+   "n": 18,
    "testo": "Sito ufficiale della cantina, pagina «vini/pinot-grigio-ramato».",
    "url": "https://dalcerofamily.it/vini/pinot-grigio-ramato",
    "etichetta": "dalcerofamily.it/vini/pinot-grigio-ramato"
   },
   {
-   "n": 18,
+   "n": 19,
    "testo": "Sito ufficiale della cantina, pagina «vini/cuvee-augusto».",
    "url": "https://dalcerofamily.it/vini/cuvee-augusto",
    "etichetta": "dalcerofamily.it/vini/cuvee-augusto"
   },
   {
-   "n": 19,
+   "n": 20,
    "testo": "Sito ufficiale della cantina, pagina «vini/klanis».",
    "url": "https://dalcerofamily.it/vini/klanis",
    "etichetta": "dalcerofamily.it/vini/klanis"
   },
   {
-   "n": 20,
+   "n": 21,
    "testo": "Sito ufficiale della cantina, pagina «vini/selverello».",
    "url": "https://dalcerofamily.it/vini/selverello",
    "etichetta": "dalcerofamily.it/vini/selverello"
   },
   {
-   "n": 21,
+   "n": 22,
    "testo": "Sito ufficiale della cantina, pagina «visite-e-degustazioni».",
    "url": "https://dalcerofamily.it/visite-e-degustazioni",
    "etichetta": "dalcerofamily.it/visite-e-degustazioni"
   },
   {
-   "n": 22,
+   "n": 23,
    "testo": "Sito ufficiale della cantina, pagina iniziale.",
    "url": "https://dalcerofamily.it/",
    "etichetta": "dalcerofamily.it"
   },
   {
-   "n": 23,
+   "n": 24,
    "testo": "Scheda «Dal Cero - Tenuta Corte Giacobbe Wine Shop» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=8269982609347787068",
    "etichetta": "maps.google.com"

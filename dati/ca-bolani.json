@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio di Tutela della DOC Prosecco [[2]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]\nConsorzio Tutela Vini DOC Friuli Aquileia [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[4]]"
     }
    ]
   },
@@ -67,11 +71,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=1990227007567547356|Mappa}} — valutazione 4,7 su 5 (97 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=1990227007567547356|Mappa}} — valutazione 4,7 su 5 (97 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[4]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -86,22 +90,34 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/ca-bolani/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini DOC Friuli Aquileia, consultato il 2 novembre 2026.",
+   "url": "https://www.viniaquileia.it/i-soci/",
+   "etichetta": "viniaquileia.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
    "url": "https://www.prosecco.wine/produttori/",
    "etichetta": "prosecco.wine"
   },
   {
-   "n": 3,
+   "n": 5,
    "testo": "Scheda «CA' BOLANI Wine Bar» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=1990227007567547356",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 4,
+   "n": 6,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 5,
+   "n": 7,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

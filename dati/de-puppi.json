@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]"
     }
    ]
   },
@@ -40,7 +44,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Il sito fa risalire la famiglia a un ramo fiorentino stabilitosi in Friuli nel 1200; «azienda vinicola da 10 generazioni». [[3]]"
+     "valore": "Il sito fa risalire la famiglia a un ramo fiorentino stabilitosi in Friuli nel 1200; «azienda vinicola da 10 generazioni». [[4]]"
     }
    ]
   },
@@ -81,7 +85,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/dePuppiWines|dePuppiWines}}\nInstagram {{https://www.instagram.com/villadepuppi/|@villadepuppi}} [[3]]"
+     "valore": "Facebook {{https://www.facebook.com/dePuppiWines|dePuppiWines}}\nInstagram {{https://www.instagram.com/villadepuppi/|@villadepuppi}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -89,7 +93,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=12521585125830954379|Mappa}} — valutazione 4,9 su 5 (27 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=12521585125830954379|Mappa}} — valutazione 4,9 su 5 (27 recensioni) [[5]]"
     }
    ]
   }
@@ -110,18 +114,24 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/de-puppi/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.depuppi.it",
    "etichetta": "depuppi.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Villa De Puppi» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=12521585125830954379",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

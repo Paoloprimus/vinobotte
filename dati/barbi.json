@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini della Maremma Toscana [[2]]\nConsorzio del Vino Brunello di Montalcino [[3]]"
+     "valore": "Compare nell’elenco delle aziende associate a Consorzio Tutela Vini della Maremma Toscana [[2]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Brunello di Montalcino [[4]]"
     }
    ]
   },
@@ -40,7 +44,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Il sito colloca la famiglia nella nobiltà senese nel 1200 e il primo arrivo a Montalcino nel 1352 (castello di Poggio alle Mura). [[4]]"
+     "valore": "Il sito colloca la famiglia nella nobiltà senese nel 1200 e il primo arrivo a Montalcino nel 1352 (castello di Poggio alle Mura). [[5]]"
     }
    ]
   },
@@ -49,11 +53,11 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Brunello di Montalcino DOCG; Brunello di Montalcino Riserva DOCG; Rosso di Montalcino DOC; Morellino di Scansano DOCG [[5]]"
+     "valore": "Denominazioni DOC e DOCG: Brunello di Montalcino DOCG; Brunello di Montalcino Riserva DOCG; Rosso di Montalcino DOC; Morellino di Scansano DOCG [[6]]"
     },
     {
      "etichetta": "Denominazioni dichiarate",
-     "valore": "Brunello di Montalcino; Rosso di Montalcino [[3]]"
+     "valore": "Brunello di Montalcino; Rosso di Montalcino [[4]]"
     }
    ]
   },
@@ -62,7 +66,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Bibenda: 5 Grappoli al Brunello Vigna del Fiore 2021 (settembre 2026) [[4]]"
+     "valore": "Bibenda: 5 Grappoli al Brunello Vigna del Fiore 2021 (settembre 2026) [[5]]"
     }
    ]
   },
@@ -71,7 +75,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/FattoriadeiBarbi|FattoriadeiBarbi}}\nInstagram {{https://www.instagram.com/fattoriadeibarbi/|@fattoriadeibarbi}}\nYouTube {{https://www.youtube.com/channel/UCRaGGbUwb094EoWyWvlez-Q|canale UCRaGGbUwb094EoWyWvlez-Q}}\nX {{https://x.com/FattoriaBarbi|@FattoriaBarbi}}\nLinkedIn {{https://www.linkedin.com/company/fattoria-dei-barbi-srl/about|fattoria-dei-barbi-srl}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/FattoriadeiBarbi|FattoriadeiBarbi}}\nInstagram {{https://www.instagram.com/fattoriadeibarbi/|@fattoriadeibarbi}}\nYouTube {{https://www.youtube.com/channel/UCRaGGbUwb094EoWyWvlez-Q|canale UCRaGGbUwb094EoWyWvlez-Q}}\nX {{https://x.com/FattoriaBarbi|@FattoriaBarbi}}\nLinkedIn {{https://www.linkedin.com/company/fattoria-dei-barbi-srl/about|fattoria-dei-barbi-srl}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -79,11 +83,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=18312808284411125495|Mappa}} [[6]]"
+     "valore": "{{https://maps.google.com/?cid=18312808284411125495|Mappa}} [[7]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[7]]"
+     "valore": "Presente come produttore [[8]]"
     }
    ]
   }
@@ -104,30 +108,36 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/caldirola-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio del Vino Brunello di Montalcino, scheda della cantina nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
    "url": "https://www.consorziobrunellodimontalcino.it/it/1398/barbi",
    "etichetta": "consorziobrunellodimontalcino.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.fattoriadeibarbi.it",
    "etichetta": "fattoriadeibarbi.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.fattoriadeibarbi.it",
    "etichetta": "fattoriadeibarbi.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «Vivaio dei Barbi» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=18312808284411125495",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

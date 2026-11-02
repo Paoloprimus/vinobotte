@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -96,7 +100,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/cantinalemanzane/|cantinalemanzane}}\nInstagram {{https://www.instagram.com/le_manzane/|@le_manzane}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/cantinalemanzane/|cantinalemanzane}}\nInstagram {{https://www.instagram.com/le_manzane/|@le_manzane}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -104,7 +108,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=16567471773480951284|Mappa}} — valutazione 4,9 su 5 (248 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=16567471773480951284|Mappa}} — valutazione 4,9 su 5 (248 recensioni) [[6]]"
     }
    ]
   }
@@ -131,12 +135,18 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/le-manzane/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 5,
    "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
    "url": "https://www.bereilvino.it/cantina/le-manzane/",
    "etichetta": "bereilvino.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Società Agricola Le Manzane S. S.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=16567471773480951284",
    "etichetta": "maps.google.com"

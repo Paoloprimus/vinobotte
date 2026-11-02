@@ -36,6 +36,10 @@
     {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.puntozerowine.it|puntozerowine.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Colli Berici e Vicenza [[4]]"
     }
    ]
   },
@@ -103,7 +107,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=722627620835448042|Mappa}} — valutazione 5 su 5 (9 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=722627620835448042|Mappa}} — valutazione 5 su 5 (9 recensioni) [[5]]"
     }
    ]
   }
@@ -130,6 +134,12 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Colli Berici e Vicenza, consultato il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  },
+  {
+   "n": 5,
    "testo": "Scheda «Azienda Agricola Punto Zero s.s.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=722627620835448042",
    "etichetta": "maps.google.com"

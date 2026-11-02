@@ -35,7 +35,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Vini Venezia [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[4]]\nConsorzio Tutela DOC Delle Venezie [[5]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Venezia [[1]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -91,7 +95,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=4404269172210313550|Mappa}} — valutazione 4,9 su 5 (141 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=4404269172210313550|Mappa}} — valutazione 4,9 su 5 (141 recensioni) [[6]]"
     }
    ]
   }
@@ -124,6 +128,12 @@
   },
   {
    "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 6,
    "testo": "Scheda «Cantine Borga» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=4404269172210313550",
    "etichetta": "maps.google.com"

@@ -26,8 +26,8 @@
      "valore": "{{http://www.cantinemaschio.com|www.cantinemaschio.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
     }
    ]
   },
@@ -75,11 +75,11 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Concorso internazionale Città del Vino 2026 (oro) e altri [[2]]"
+     "valore": "Concorso internazionale Città del Vino 2026 (oro) e altri [[3]]"
     },
     {
      "etichetta": "Punteggi",
-     "valore": "Luca Maroni (fino a 94/100) [[2]]"
+     "valore": "Luca Maroni (fino a 94/100) [[3]]"
     }
    ]
   },
@@ -88,7 +88,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/cantinemaschio|cantinemaschio}}\nInstagram {{https://www.instagram.com/cantine_maschio/|@cantine_maschio}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/cantinemaschio|cantinemaschio}}\nInstagram {{https://www.instagram.com/cantine_maschio/|@cantine_maschio}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -96,7 +96,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=9774263322733163017|Mappa}} — valutazione 4,4 su 5 (153 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=9774263322733163017|Mappa}} — valutazione 4,4 su 5 (153 recensioni) [[4]]"
     }
    ]
   }
@@ -111,12 +111,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/cantine-maschio/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.cantinemaschio.com",
    "etichetta": "cantinemaschio.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Cantine Maschio - Cantine Riunite & CIV» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=9774263322733163017",
    "etichetta": "maps.google.com"

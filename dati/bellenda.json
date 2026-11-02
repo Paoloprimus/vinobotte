@@ -26,8 +26,8 @@
      "valore": "{{http://www.bellenda.it/|www.bellenda.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
     }
    ]
   },
@@ -88,11 +88,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/Bellenda1986|Bellenda1986}}\nInstagram {{https://www.instagram.com/bellenda1986/|@bellenda1986}}\nYouTube {{https://www.youtube.com/user/bellenda1986|bellenda1986}}\nX {{https://x.com/bellenda1986|@bellenda1986}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/Bellenda1986|Bellenda1986}}\nInstagram {{https://www.instagram.com/bellenda1986/|@bellenda1986}}\nYouTube {{https://www.youtube.com/user/bellenda1986|bellenda1986}}\nX {{https://x.com/bellenda1986|@bellenda1986}} [[3]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.shop.bellenda.it/|shop.bellenda.it}} [[2]]"
+     "valore": "{{https://www.shop.bellenda.it/|shop.bellenda.it}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -100,7 +100,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=17896441498809371414|Mappa}} — valutazione 4,6 su 5 (86 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=17896441498809371414|Mappa}} — valutazione 4,6 su 5 (86 recensioni) [[4]]"
     }
    ]
   }
@@ -115,12 +115,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/bellenda/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.bellenda.it/",
    "etichetta": "bellenda.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Bellenda» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=17896441498809371414",
    "etichetta": "maps.google.com"

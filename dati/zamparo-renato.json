@@ -10,8 +10,8 @@
      "valore": "Via Cormons, 18, 33040 Premariacco (UD) [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio DOC Friuli [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]"
     }
    ]
   },
@@ -57,6 +57,12 @@
   {
    "n": 1,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/zamparo-renato/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
    "url": "https://www.docfriuli.eu/aziende/zamparo-renato/",
    "etichetta": "docfriuli.eu"
   }

@@ -26,8 +26,8 @@
      "valore": "{{http://www.cesconitalo.it|cesconitalo.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio DOC Friuli [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]"
     }
    ]
   },
@@ -71,7 +71,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/italocesconvini|italocesconvini}}\nInstagram {{https://www.instagram.com/italocesconvino/|@italocesconvino}}\nLinkedIn {{https://www.linkedin.com/company/italo-cescon|italo-cescon}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/italocesconvini|italocesconvini}}\nInstagram {{https://www.instagram.com/italocesconvino/|@italocesconvino}}\nLinkedIn {{https://www.linkedin.com/company/italo-cescon|italo-cescon}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -79,7 +79,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=3972043663131773338|Mappa}} — valutazione 4,8 su 5 (61 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=3972043663131773338|Mappa}} — valutazione 4,8 su 5 (61 recensioni) [[4]]"
     }
    ]
   }
@@ -94,12 +94,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/cescon-italo/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.cesconitalo.it",
    "etichetta": "cesconitalo.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Cescon Italo Storia e Vini Srl - Fraz.Roncadelle» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=3972043663131773338",
    "etichetta": "maps.google.com"

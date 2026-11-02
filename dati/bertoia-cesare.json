@@ -26,8 +26,8 @@
      "valore": "{{http://www.casatobertoia.it|casatobertoia.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio DOC Friuli [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]"
     }
    ]
   },
@@ -63,11 +63,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/aziendaagricolabertoia|aziendaagricolabertoia}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/aziendaagricolabertoia|aziendaagricolabertoia}} [[3]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://casatobertoia.it/negozio/|casatobertoia.it/negozio}} [[2]]"
+     "valore": "{{https://casatobertoia.it/negozio/|casatobertoia.it/negozio}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -75,7 +75,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=13705201380333058172|Mappa}} — valutazione 4,8 su 5 (43 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=13705201380333058172|Mappa}} — valutazione 4,8 su 5 (43 recensioni) [[4]]"
     }
    ]
   }
@@ -90,12 +90,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/bertoia-cesare/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.casatobertoia.it",
    "etichetta": "casatobertoia.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Casato Bertoia» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=13705201380333058172",
    "etichetta": "maps.google.com"

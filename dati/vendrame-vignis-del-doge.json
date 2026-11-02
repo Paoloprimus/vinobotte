@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini DOC Friuli Grave [[3]]\nConsorzio Tutela Vini DOC Delle Venezie [[2]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[3]]\nConsorzio Tutela DOC Delle Venezie [[4]]\nConsorzio Tutela Vini DOC Friuli Grave [[5]]\nConsorzio Tutela Vini DOC Delle Venezie [[2]]"
     }
    ]
   },
@@ -117,7 +117,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/vendramevini|vendramevini}}\nInstagram {{https://www.instagram.com/vendramevini/|@vendramevini}}\nYouTube {{https://www.youtube.com/user/crodi5|crodi5}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/vendramevini|vendramevini}}\nInstagram {{https://www.instagram.com/vendramevini/|@vendramevini}}\nYouTube {{https://www.youtube.com/user/crodi5|crodi5}} [[6]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -125,7 +125,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=10486465323348114065|Mappa}} — valutazione 4,9 su 5 (46 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=10486465323348114065|Mappa}} — valutazione 4,9 su 5 (46 recensioni) [[7]]"
     }
    ]
   }
@@ -146,24 +146,36 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/vendrame-vignis-del-doge/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Tutela Vini DOC Friuli Grave, elenco delle cantine e schede delle singole cantine, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuligrave.com/cantine.html",
    "etichetta": "docfriuligrave.com"
   },
   {
-   "n": 4,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.vendramevini.it",
    "etichetta": "vendramevini.it"
   },
   {
-   "n": 5,
+   "n": 7,
    "testo": "Scheda «Vendrame Vignis del Doge Cantina» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=10486465323348114065",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 8,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

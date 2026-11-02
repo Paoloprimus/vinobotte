@@ -23,7 +23,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio Tutela Lugana DOC [[2]]"
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio Tutela DOC Delle Venezie [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[3]]"
     }
    ]
   },
@@ -61,7 +65,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://it-it.facebook.com/vinicoladecordispa|vinicoladecordispa}}\nInstagram {{https://www.instagram.com/vinicoladecordi/|@vinicoladecordi}}\nLinkedIn {{https://www.linkedin.com/company/vinicola-decordi-s-p-a-|vinicola-decordi-s-p-a-}} [[3]]"
+     "valore": "Facebook {{https://it-it.facebook.com/vinicoladecordispa|vinicoladecordispa}}\nInstagram {{https://www.instagram.com/vinicoladecordi/|@vinicoladecordi}}\nLinkedIn {{https://www.linkedin.com/company/vinicola-decordi-s-p-a-|vinicola-decordi-s-p-a-}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -69,7 +73,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=13805642722258775531|Mappa}} — valutazione 4,3 su 5 (111 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=13805642722258775531|Mappa}} — valutazione 4,3 su 5 (111 recensioni) [[5]]"
     }
    ]
   }
@@ -84,18 +88,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 3,
    "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 31 ottobre 2026.",
    "url": "https://www.consorziolugana.it/elenco-aziende/decordi",
    "etichetta": "consorziolugana.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://decordi.it",
    "etichetta": "decordi.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Vinicola Decordi del Borgo Imperiale Cortesole S.p.a.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=13805642722258775531",
    "etichetta": "maps.google.com"

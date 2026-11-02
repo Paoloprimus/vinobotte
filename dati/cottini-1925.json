@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vino Custoza DOC [[3]]"
+     "valore": "Compare nell’elenco dei soci del Consorzio Tutela Vino Custoza DOC [[3]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
     }
    ]
   },
@@ -40,19 +44,19 @@
    "righe": [
     {
      "etichetta": "Storia",
-     "valore": "Dal 1925 a Fumane con Carlo Cottini; negli anni ’50 il figlio Raffaello costruisce la prima cantina; negli anni ’80 espansione nel Garda orientale con Diego Cottini e avvio dell’export; quattro generazioni [[4]]"
+     "valore": "Dal 1925 a Fumane con Carlo Cottini; negli anni ’50 il figlio Raffaello costruisce la prima cantina; negli anni ’80 espansione nel Garda orientale con Diego Cottini e avvio dell’export; quattro generazioni [[5]]"
     },
     {
      "etichetta": "Territori",
-     "valore": "Valpolicella, Bardolino, Lugana e Garda [[4]]"
+     "valore": "Valpolicella, Bardolino, Lugana e Garda [[5]]"
     },
     {
      "etichetta": "Marchi",
-     "valore": "Annaberta, La Sogara e Stile Naturale (linea biologica) [[5]]"
+     "valore": "Annaberta, La Sogara e Stile Naturale (linea biologica) [[6]]"
     },
     {
      "etichetta": "Certificazioni",
-     "valore": "Standard IFS Food; certificazione Equalitas [[4]] [[6]]"
+     "valore": "Standard IFS Food; certificazione Equalitas [[5]] [[7]]"
     }
    ]
   },
@@ -82,7 +86,7 @@
    "righe": [
     {
      "etichetta": "Sito",
-     "valore": "cottinivini.com, in italiano e inglese, con area stampa e Trade Area per distributori [[7]]"
+     "valore": "cottinivini.com, in italiano e inglese, con area stampa e Trade Area per distributori [[8]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -90,7 +94,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=2144841986662013154|Mappa}} — valutazione 4,2 su 5 (9 recensioni) [[8]]"
+     "valore": "{{https://maps.google.com/?cid=2144841986662013154|Mappa}} — valutazione 4,2 su 5 (9 recensioni) [[9]]"
     }
    ]
   }
@@ -117,30 +121,36 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/cottini-1925-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
    "url": "https://www.cottinivini.com/chi-siamo/",
    "etichetta": "cottinivini.com/chi-siamo"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina «i-nostri-marchi».",
    "url": "https://www.cottinivini.com/i-nostri-marchi/",
    "etichetta": "cottinivini.com/i-nostri-marchi"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «sostenibilita».",
    "url": "https://www.cottinivini.com/sostenibilita/",
    "etichetta": "cottinivini.com/sostenibilita"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina «trade-area».",
    "url": "https://www.cottinivini.com/trade-area/",
    "etichetta": "cottinivini.com/trade-area"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Scheda «Cottini (sede amm., cantina, deposito e negozio)» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=2144841986662013154",
    "etichetta": "maps.google.com"

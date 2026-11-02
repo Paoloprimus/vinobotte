@@ -31,7 +31,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[3]]\nConsorzio Vini Venezia [[2]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[3]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]\nConsorzio Vini Venezia [[2]]"
     }
    ]
   },
@@ -106,7 +106,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Instagram {{https://www.instagram.com/principidiporcia/|@principidiporcia}}\nYouTube {{https://www.youtube.com/user/ViniPrincipidiPorcia|ViniPrincipidiPorcia}} [[4]]"
+     "valore": "Instagram {{https://www.instagram.com/principidiporcia/|@principidiporcia}}\nYouTube {{https://www.youtube.com/user/ViniPrincipidiPorcia|ViniPrincipidiPorcia}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -131,18 +131,24 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/principi-di-porcia/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.porcia.com",
    "etichetta": "porcia.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

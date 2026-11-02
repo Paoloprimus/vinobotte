@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio Tutela Vino Lessini Durello DOC [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[4]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[5]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
     }
    ]
   },
@@ -40,44 +44,44 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Descritta come lavoro artigianale e familiare di Antonio Franchetto; il sito non riporta anno di fondazione [[5]]"
+     "valore": "Descritta come lavoro artigianale e familiare di Antonio Franchetto; il sito non riporta anno di fondazione [[6]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate. Solo i vini a denominazione Soave; la cantina produce anche spumanti e altri vini. Il sito non riporta le annate. [[5]]",
+   "nota": "Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate. Solo i vini a denominazione Soave; la cantina produce anche spumanti e altri vini. Il sito non riporta le annate. [[6]]",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Borgoletto",
      "denominazione": "Lessini Durello DOC",
-     "annata": "— [[6]]"
+     "annata": "— [[7]]"
     },
     {
      "nome": "Metodo Classico",
      "denominazione": "Lessini Durello DOC",
-     "annata": "— [[6]]"
+     "annata": "— [[7]]"
     },
     {
      "nome": "Riserva",
      "denominazione": "Lessini Durello DOC",
-     "annata": "— [[6]]"
+     "annata": "— [[7]]"
     },
     {
      "nome": "Riserva 10 Anni",
      "denominazione": "Lessini Durello DOC",
-     "annata": "— [[6]]"
+     "annata": "— [[7]]"
     },
     {
      "nome": "La Capelina",
      "denominazione": "Soave DOC",
-     "annata": "— [[5]]"
+     "annata": "— [[6]]"
     },
     {
      "nome": "Recorbian",
      "denominazione": "Soave Superiore DOCG",
-     "annata": "— [[5]]"
+     "annata": "— [[6]]"
     }
    ]
   },
@@ -103,7 +107,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=13438256173869500282|Mappa}} — valutazione 4,6 su 5 (18 recensioni) [[7]]"
+     "valore": "{{https://maps.google.com/?cid=13438256173869500282|Mappa}} — valutazione 4,6 su 5 (18 recensioni) [[8]]"
     }
    ]
   }
@@ -136,24 +140,30 @@
   },
   {
    "n": 5,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina «cantinafranchetto.com/vini-bianchi», consultata il 24 ottobre 2026.",
    "url": "https://cantinafranchetto.com/vini-bianchi/",
    "etichetta": "cantinafranchetto.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «cantinafranchetto.com/vini-spumanti», consultata il 24 ottobre 2026.",
    "url": "https://cantinafranchetto.com/vini-spumanti/",
    "etichetta": "cantinafranchetto.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Scheda «Azienda Agricola Franchetto» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=13438256173869500282",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.ilsoave.com/produttori-soave/",
    "etichetta": "ilsoave.com"

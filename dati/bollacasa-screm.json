@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini DOC Friuli Grave [[2]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Friuli Grave [[2]]"
     }
    ]
   },
@@ -82,7 +86,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Instagram {{https://www.instagram.com/tenutabelcorvo/|@tenutabelcorvo}}\nYouTube {{https://www.youtube.com/channel/UCgLIBY0B_clirycDy7sCQ2A|canale UCgLIBY0B_clirycDy7sCQ2A}} [[3]]"
+     "valore": "Instagram {{https://www.instagram.com/tenutabelcorvo/|@tenutabelcorvo}}\nYouTube {{https://www.youtube.com/channel/UCgLIBY0B_clirycDy7sCQ2A|canale UCgLIBY0B_clirycDy7sCQ2A}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -90,7 +94,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=17473254821304529111|Mappa}} [[4]]"
+     "valore": "{{https://maps.google.com/?cid=17473254821304529111|Mappa}} [[5]]"
     }
    ]
   }
@@ -111,18 +115,24 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/bollacasa-screm/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.bollacasascrem.it",
    "etichetta": "bollacasascrem.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Tenuta Bollacasa Screm» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=17473254821304529111",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

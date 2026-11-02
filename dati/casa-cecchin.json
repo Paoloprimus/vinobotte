@@ -26,8 +26,8 @@
      "valore": "{{http://www.casacecchin.it|casacecchin.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vino Lessini Durello DOC [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[2]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[3]]"
     }
    ]
   },
@@ -57,7 +57,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Slow Wine Treviso, 9ª edizione [[3]]"
+     "valore": "Slow Wine Treviso, 9ª edizione [[4]]"
     }
    ]
   },
@@ -66,7 +66,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/casa.cecchin|casa.cecchin}}\nInstagram {{https://www.instagram.com/casacecchin_winery/|@casacecchin_winery}} [[3]]"
+     "valore": "Facebook {{https://www.facebook.com/casa.cecchin|casa.cecchin}}\nInstagram {{https://www.instagram.com/casacecchin_winery/|@casacecchin_winery}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -74,7 +74,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=9097116316533254239|Mappa}} — valutazione 5 su 5 (46 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=9097116316533254239|Mappa}} — valutazione 5 su 5 (46 recensioni) [[5]]"
     }
    ]
   }
@@ -95,12 +95,18 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.casacecchin.it",
    "etichetta": "casacecchin.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Casa Cecchin» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=9097116316533254239",
    "etichetta": "maps.google.com"

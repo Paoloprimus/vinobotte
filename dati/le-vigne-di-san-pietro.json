@@ -26,8 +26,8 @@
      "valore": "{{https://www.levignedisanpietro.it|levignedisanpietro.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Bardolino D.O.C. [[2]]\nConsorzio Tutela Vino Bardolino DOC [[3]]"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Custoza DOC; Bardolino Superiore DOCG; Bardolino DOC [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Custoza DOC; Bardolino Superiore DOCG; Bardolino DOC [[4]]"
     },
     {
      "etichetta": "Denominazioni Bardolino dichiarate",
@@ -72,11 +72,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=9128186245513988375|Mappa}} — valutazione 4,8 su 5 (78 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=9128186245513988375|Mappa}} — valutazione 4,8 su 5 (78 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -97,18 +97,24 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "https://www.levignedisanpietro.it",
    "etichetta": "levignedisanpietro.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Le Vigne Di San Pietro» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=9128186245513988375",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

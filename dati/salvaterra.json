@@ -23,15 +23,15 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio di Tutela della DOC Prosecco [[3]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela DOC Delle Venezie [[3]]\nConsorzio di Tutela della DOC Prosecco [[4]]\nConsorzio Tutela Vini DOC Delle Venezie [[5]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
-     "valore": "via Cengia, 85 - 37029 San Pietro in Cariano (VR); tel. 045 6859025; info@tenutesalvaterra.it; tenutesalvaterra.it [[4]]"
+     "valore": "via Cengia, 85 - 37029 San Pietro in Cariano (VR); tel. 045 6859025; info@tenutesalvaterra.it; tenutesalvaterra.it [[5]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Prosecco DOC",
-     "valore": "Via Cengia 85, 37029, San Pietro In Cariano (Vr); tel. 045 6859025; info@tenutesalvaterra.it [[3]]"
+     "valore": "Via Cengia 85, 37029, San Pietro In Cariano (Vr); tel. 045 6859025; info@tenutesalvaterra.it [[4]]"
     }
    ]
   },
@@ -40,34 +40,34 @@
    "righe": [
     {
      "etichetta": "Sede storica",
-     "valore": "Villa Giona, dimora veneta del tardo ’400 a Cengia [[5]]"
+     "valore": "Villa Giona, dimora veneta del tardo ’400 a Cengia [[6]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche Lugana, Pinot Grigio, Prosecco e Corvina spumante. [[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche Lugana, Pinot Grigio, Prosecco e Corvina spumante. [[7]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Amarone Classico",
      "denominazione": "Amarone della Valpolicella Classico DOCG",
-     "annata": "2019 [[7]]"
+     "annata": "2019 [[8]]"
     },
     {
      "nome": "Amarone Classico Riserva",
      "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
-     "annata": "2015 [[8]]"
+     "annata": "2015 [[9]]"
     },
     {
      "nome": "Ripasso",
      "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
-     "annata": "2020 [[9]]"
+     "annata": "2020 [[10]]"
     },
     {
      "nome": "Valpolicella Classico",
      "denominazione": "Valpolicella Classico DOC",
-     "annata": "2022 [[10]]"
+     "annata": "2022 [[11]]"
     }
    ],
    "righe": []
@@ -81,7 +81,7 @@
     },
     {
      "etichetta": "Visite e degustazioni",
-     "valore": "Visite e degustazioni in tenuta [[6]]"
+     "valore": "Visite e degustazioni in tenuta [[7]]"
     }
    ]
   },
@@ -99,7 +99,7 @@
    "righe": [
     {
      "etichetta": "Negozio online",
-     "valore": "Presente [[6]]"
+     "valore": "Presente [[7]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -107,11 +107,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=18282389089483819372|Mappa}} — valutazione 4,8 su 5 (108 recensioni) [[11]]"
+     "valore": "{{https://maps.google.com/?cid=18282389089483819372|Mappa}} — valutazione 4,8 su 5 (108 recensioni) [[12]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[12]]"
+     "valore": "Presente come produttore [[13]]"
     }
    ]
   }
@@ -132,60 +132,66 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
    "url": "https://www.prosecco.wine/produttori/",
    "etichetta": "prosecco.wine"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina «azienda».",
    "url": "https://www.tenutesalvaterra.it/azienda",
    "etichetta": "tenutesalvaterra.it/azienda"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini».",
    "url": "https://www.tenutesalvaterra.it/i-nostri-vini",
    "etichetta": "tenutesalvaterra.it/i-nostri-vini"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini/amarone-della-valpolicella-docg-classico».",
    "url": "https://www.tenutesalvaterra.it/i-nostri-vini/amarone-della-valpolicella-docg-classico",
    "etichetta": "tenutesalvaterra.it/i-nostri-vini/amarone-della-valpolicella-docg-classico"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini/amarone-della-valpolicella-docg-classico-riserva».",
    "url": "https://www.tenutesalvaterra.it/i-nostri-vini/amarone-della-valpolicella-docg-classico-riserva",
    "etichetta": "tenutesalvaterra.it/i-nostri-vini/amarone-della-valpolicella-docg-classico-riserva"
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini/valpolicella-ripasso-doc-classico-superiore».",
    "url": "https://www.tenutesalvaterra.it/i-nostri-vini/valpolicella-ripasso-doc-classico-superiore",
    "etichetta": "tenutesalvaterra.it/i-nostri-vini/valpolicella-ripasso-doc-classico-superiore"
   },
   {
-   "n": 10,
+   "n": 11,
    "testo": "Sito ufficiale della cantina, pagina «i-nostri-vini/valpolicella-doc-classico».",
    "url": "https://www.tenutesalvaterra.it/i-nostri-vini/valpolicella-doc-classico",
    "etichetta": "tenutesalvaterra.it/i-nostri-vini/valpolicella-doc-classico"
   },
   {
-   "n": 11,
+   "n": 12,
    "testo": "Scheda «Tenute SalvaTerra» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=18282389089483819372",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 12,
+   "n": 13,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

@@ -26,8 +26,8 @@
      "valore": "{{http://www.cantinabernardi.it|www.cantinabernardi.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
     }
    ]
   },
@@ -36,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Produttori di vini e spumanti dal 1960. [[2]]"
+     "valore": "Produttori di vini e spumanti dal 1960. [[3]]"
     }
    ]
   },
@@ -88,11 +88,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{http://www.facebook.com/cantinabernardi|cantinabernardi}}\nInstagram {{https://www.instagram.com/cantinabernardi/|@cantinabernardi}}\nX {{https://x.com/cantinabernardi|@cantinabernardi}} [[2]]"
+     "valore": "Facebook {{http://www.facebook.com/cantinabernardi|cantinabernardi}}\nInstagram {{https://www.instagram.com/cantinabernardi/|@cantinabernardi}}\nX {{https://x.com/cantinabernardi|@cantinabernardi}} [[3]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.cantinabernardi.it/it/shop/|cantinabernardi.it/it/shop}} [[2]]"
+     "valore": "{{https://www.cantinabernardi.it/it/shop/|cantinabernardi.it/it/shop}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -100,11 +100,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=9459621234099461167|Mappa}} — valutazione 4,8 su 5 (78 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=9459621234099461167|Mappa}} — valutazione 4,8 su 5 (78 recensioni) [[4]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[4]]"
+     "valore": "Presente come produttore [[5]]"
     }
    ]
   }
@@ -119,18 +119,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/cantina-bernardi/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.cantinabernardi.it",
    "etichetta": "cantinabernardi.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Cantina Bernardi» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=9459621234099461167",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

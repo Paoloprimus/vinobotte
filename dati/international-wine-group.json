@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vini Valpolicella [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela DOC Delle Venezie [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[4]]"
     }
    ]
   },
@@ -36,7 +40,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Fondata nel 2015 da Fabrizio Fichera; imbottigliamento e fornitura di vini per il mercato italiano ed estero (“Imbottigliamo i vostri sogni”) [[4]]"
+     "valore": "Fondata nel 2015 da Fabrizio Fichera; imbottigliamento e fornitura di vini per il mercato italiano ed estero (“Imbottigliamo i vostri sogni”) [[5]]"
     }
    ]
   },
@@ -52,15 +56,15 @@
     {
      "nome": "IWG Valpolicella",
      "denominazione": "Valpolicella DOC (70% Corvina e Corvinone, 30% Rondinella)",
-     "annata": "— [[5]]"
+     "annata": "— [[6]]"
     },
     {
      "nome": "IWG Valpolicella Ripasso Superiore",
      "denominazione": "Valpolicella Ripasso Superiore DOC (80% Corvina e Corvinone, 20% Rondinella)",
-     "annata": "— [[6]]"
+     "annata": "— [[7]]"
     }
    ],
-   "nota": "Catalogo per gradazione; il sito non riporta annate. [[5]]"
+   "nota": "Catalogo per gradazione; il sito non riporta annate. [[6]]"
   },
   {
    "titolo": "Riconoscimenti",
@@ -76,7 +80,7 @@
    "righe": [
     {
      "etichetta": "Sito",
-     "valore": "iwgsrl.com, in italiano e inglese, con catalogo [[4]]"
+     "valore": "iwgsrl.com, in italiano e inglese, con catalogo [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -84,7 +88,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=18237289927008712138|Mappa}} — valutazione 5 su 5 (1 recensioni) [[7]]"
+     "valore": "{{https://maps.google.com/?cid=18237289927008712138|Mappa}} — valutazione 5 su 5 (1 recensioni) [[8]]"
     }
    ]
   }
@@ -105,30 +109,36 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
    "url": "https://www.consorziovalpolicella.it/",
    "etichetta": "consorziovalpolicella.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina «about».",
    "url": "http://iwgsrl.com/about/",
    "etichetta": "iwgsrl.com/about"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina «portfolio_category/125-vol».",
    "url": "http://iwgsrl.com/portfolio_category/125-vol/",
    "etichetta": "iwgsrl.com/portfolio_category/125-vol"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «portfolio_category/135-en».",
    "url": "http://iwgsrl.com/portfolio_category/135-en/",
    "etichetta": "iwgsrl.com/portfolio_category/135-en"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Scheda «IWG Srl» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=18237289927008712138",
    "etichetta": "maps.google.com"

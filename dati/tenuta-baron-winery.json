@@ -26,8 +26,8 @@
      "valore": "{{http://www.tenutabaron.it|www.tenutabaron.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Vini Asolo Montello [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei soci produttori del Consorzio Vini Asolo Montello [[1]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[2]]"
     }
    ]
   },
@@ -36,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Dieci ettari governati da Villa Persicini, costruzione di fine ’600. [[2]]"
+     "valore": "Dieci ettari governati da Villa Persicini, costruzione di fine ’600. [[3]]"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Asolo Prosecco Superiore DOCG [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Asolo Prosecco Superiore DOCG [[4]]"
     }
    ]
   },
@@ -63,7 +63,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/tenutabaronwinery|tenutabaronwinery}}\nInstagram {{https://www.instagram.com/tenutabaronwinery/|@tenutabaronwinery}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/tenutabaronwinery|tenutabaronwinery}}\nInstagram {{https://www.instagram.com/tenutabaronwinery/|@tenutabaronwinery}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -71,7 +71,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=7527894393932859226|Mappa}} — valutazione 4,6 su 5 (64 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=7527894393932859226|Mappa}} — valutazione 4,6 su 5 (64 recensioni) [[5]]"
     }
    ]
   }
@@ -86,18 +86,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.tenutabaron.it",
    "etichetta": "tenutabaron.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.tenutabaron.it",
    "etichetta": "tenutabaron.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Tenuta Baron Winery» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=7527894393932859226",
    "etichetta": "maps.google.com"

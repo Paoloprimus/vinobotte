@@ -26,8 +26,8 @@
      "valore": "{{http://www.cavazzawine.com|cavazzawine.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vino Lessini Durello DOC [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[2]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[3]]\nConsorzio Tutela Vini Colli Berici e Vicenza [[4]]\nConsorzio Volontario per la Tutela dei Vini Gambellara [[5]]"
     }
    ]
   },
@@ -42,13 +42,13 @@
   },
   {
    "titolo": "Vini",
-   "nota": "Il sito elenca 18 vini; il Durello è nella linea Classici. [[3]]",
+   "nota": "Il sito elenca 18 vini; il Durello è nella linea Classici. [[6]]",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Durello Spumante",
      "denominazione": "Lessini Durello DOC Brut Millesimato (metodo Charmat)",
-     "annata": "— [[4]]"
+     "annata": "— [[7]]"
     }
    ]
   },
@@ -70,11 +70,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=9952672319334192526|Mappa}} — valutazione 4,7 su 5 (51 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=9952672319334192526|Mappa}} — valutazione 4,7 su 5 (51 recensioni) [[8]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[9]]"
     }
    ]
   }
@@ -95,24 +95,42 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Colli Berici e Vicenza, consultato il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  },
+  {
+   "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Volontario per la Tutela dei Vini Gambellara, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/",
+   "etichetta": "consorziogambellara.com"
+  },
+  {
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina «cavazzawine.com/i-nostri-vini», consultata il 24 ottobre 2026.",
    "url": "https://cavazzawine.com/i-nostri-vini/",
    "etichetta": "cavazzawine.com"
   },
   {
-   "n": 4,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «cavazzawine.com/vini/durello», consultata il 24 ottobre 2026.",
    "url": "https://cavazzawine.com/vini/durello/",
    "etichetta": "cavazzawine.com"
   },
   {
-   "n": 5,
+   "n": 8,
    "testo": "Scheda «Azienda Agricola Cavazza» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=9952672319334192526",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 9,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

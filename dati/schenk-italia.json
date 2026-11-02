@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[3]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[4]]\nConsorzio Tutela DOC Delle Venezie [[5]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
     }
    ]
   },
@@ -40,7 +44,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Gruppo vitivinicolo dal 1952 con tenute in Alto Adige (Cantine di Ora), Veneto (Bacio della Luna, Vidor), Toscana (Lunadoro) e Puglia (Masso Antico) [[4]]"
+     "valore": "Gruppo vitivinicolo dal 1952 con tenute in Alto Adige (Cantine di Ora), Veneto (Bacio della Luna, Vidor), Toscana (Lunadoro) e Puglia (Masso Antico) [[6]]"
     }
    ]
   },
@@ -72,7 +76,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Sul sito non compaiono vini a denominazione Valpolicella; il catalogo comprende vini dell’Alto Adige, della Puglia e di altre regioni [[5]]"
+     "valore": "Sul sito non compaiono vini a denominazione Valpolicella; il catalogo comprende vini dell’Alto Adige, della Puglia e di altre regioni [[7]]"
     }
    ]
   },
@@ -81,7 +85,7 @@
    "righe": [
     {
      "etichetta": "Punteggi",
-     "valore": "Punteggi per vini non Valpolicella (Chardonnay, Lagrein, Pinot Grigio Alto Adige) [[5]]"
+     "valore": "Punteggi per vini non Valpolicella (Chardonnay, Lagrein, Pinot Grigio Alto Adige) [[7]]"
     }
    ]
   },
@@ -90,11 +94,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/SchenkFamilyItalia|SchenkFamilyItalia}}\nInstagram {{https://www.instagram.com/schenkfamily_italia/|@schenkfamily_italia}}\nYouTube {{https://www.youtube.com/@schenkfamilyitalia|@schenkfamilyitalia}}\nLinkedIn {{https://www.linkedin.com/company/schenk-italia-spa|schenk-italia-spa}} [[6]]"
+     "valore": "Facebook {{https://www.facebook.com/SchenkFamilyItalia|SchenkFamilyItalia}}\nInstagram {{https://www.instagram.com/schenkfamily_italia/|@schenkfamily_italia}}\nYouTube {{https://www.youtube.com/@schenkfamilyitalia|@schenkfamilyitalia}}\nLinkedIn {{https://www.linkedin.com/company/schenk-italia-spa|schenk-italia-spa}} [[8]]"
     },
     {
      "etichetta": "Marketplace",
-     "valore": "E-shop Vineria43 [[4]]"
+     "valore": "E-shop Vineria43 [[6]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -102,7 +106,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=3027316002739810865|Mappa}} — valutazione 4,3 su 5 (97 recensioni) [[7]]"
+     "valore": "{{https://maps.google.com/?cid=3027316002739810865|Mappa}} — valutazione 4,3 su 5 (97 recensioni) [[9]]"
     }
    ]
   }
@@ -129,24 +133,36 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/schenk-italia-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina iniziale.",
    "url": "https://www.schenkitalia.it/",
    "etichetta": "schenkitalia.it"
   },
   {
-   "n": 5,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «it/vini».",
    "url": "https://www.schenkitalia.it/it/vini/",
    "etichetta": "schenkitalia.it/it/vini"
   },
   {
-   "n": 6,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.schenkitalia.it/",
    "etichetta": "schenkitalia.it"
   },
   {
-   "n": 7,
+   "n": 9,
    "testo": "Scheda «Schenk Italia SpA» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=3027316002739810865",
    "etichetta": "maps.google.com"

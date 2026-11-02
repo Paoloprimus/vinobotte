@@ -37,7 +37,10 @@
 "Ripasso",
 "Valpolicella"
 ],
-"bardolino": []
+"bardolino": [],
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "cesari",
@@ -329,6 +332,9 @@
 ],
 "lugana": [
 "Lugana"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -494,6 +500,9 @@
 "valpolicella": [],
 "lugana": [
 "Lugana"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -1136,7 +1145,9 @@
 "regione": "Veneto",
 "comune": "Tarzo",
 "tipi": {
-"conegliano": []
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+]
 },
 "membri": [
 "andrea-da-ponte-conegliano"
@@ -1310,7 +1321,9 @@
 "regione": "Veneto",
 "comune": "Verona",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "cantina-martinelli-soave"
@@ -1678,7 +1691,9 @@
 "prosecco": [
 "Prosecco DOC"
 ],
-"conegliano": []
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+]
 },
 "membri": [
 "cantina-progettidivini-conegliano",
@@ -2038,6 +2053,9 @@
 ],
 "lugana": [
 "Lugana"
+],
+"garda": [
+"Garda"
 ]
 },
 "membri": [
@@ -2495,7 +2513,9 @@
 "comune": "Lavagno",
 "tipi": {
 "valpolicella": [],
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "benini-alessandro",
@@ -2661,7 +2681,9 @@
 "durello": [
 "Lessini Durello"
 ],
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "sandro-de-bruno-durello",
@@ -2947,6 +2969,9 @@
 "valpolicella": [],
 "custoza": [
 "Custoza"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -3053,6 +3078,9 @@
 "conegliano": [
 "Conegliano Valdobbiadene Prosecco Superiore",
 "Valdobbiadene Superiore di Cartizze"
+],
+"trentino": [
+"Trentino"
 ]
 },
 "membri": [
@@ -3156,6 +3184,9 @@
 ],
 "lugana": [
 "Lugana"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -3189,6 +3220,9 @@
 "valpolicella": [
 "Amarone",
 "Ripasso"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -3302,7 +3336,9 @@
 "regione": "Veneto",
 "comune": "",
 "tipi": {
-"durello": []
+"durello": [
+"Lessini Durello"
+]
 },
 "membri": [
 "masari-durello"
@@ -3395,7 +3431,9 @@
 "regione": "Veneto",
 "comune": "Colognola ai Colli",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "avogaro-soave"
@@ -3596,6 +3634,9 @@
 ],
 "venezie": [
 "Delle Venezie"
+],
+"gambellara": [
+"Gambellara"
 ]
 },
 "membri": [
@@ -3822,7 +3863,9 @@
 "regione": "Veneto",
 "comune": "",
 "tipi": {
-"durello": []
+"durello": [
+"Lessini Durello"
+]
 },
 "membri": [
 "marcazzan-fabio-durello"
@@ -4109,6 +4152,12 @@
 ],
 "acqui": [
 "Vini d’Acqui"
+],
+"alta-langa": [
+"Alta Langa"
+],
+"roero": [
+"Roero"
 ]
 },
 "membri": [
@@ -4509,6 +4558,9 @@
 "Recioto di Soave",
 "Soave",
 "Soave Superiore"
+],
+"colli-berici": [
+"Colli Berici"
 ]
 },
 "membri": [
@@ -4882,6 +4934,9 @@
 "bardolino": [
 "Bardolino",
 "Chiaretto di Bardolino"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -4912,7 +4967,9 @@
 "regione": "Veneto",
 "comune": "Sona",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "bernard-soave"
@@ -5189,6 +5246,9 @@
 ],
 "prosecco": [
 "Prosecco DOC"
+],
+"aquileia": [
+"Friuli Aquileia"
 ]
 },
 "membri": [
@@ -5249,7 +5309,9 @@
 "regione": "Veneto",
 "comune": "",
 "tipi": {
-"durello": []
+"durello": [
+"Lessini Durello"
+]
 },
 "membri": [
 "tonello-durello"
@@ -5386,6 +5448,15 @@
 ],
 "venezie": [
 "Delle Venezie"
+],
+"soave": [
+"Soave"
+],
+"colli-berici": [
+"Colli Berici"
+],
+"gambellara": [
+"Gambellara"
 ]
 },
 "membri": [
@@ -5501,6 +5572,9 @@
 ],
 "bardolino": [
 "Chiaretto di Bardolino"
+],
+"colli-berici": [
+"Colli Berici"
 ]
 },
 "membri": [
@@ -5537,7 +5611,9 @@
 "venezie": [
 "Delle Venezie"
 ],
-"bardolino": []
+"bardolino": [
+"Bardolino"
+]
 },
 "membri": [
 "faccioli-enzo-bardolino",
@@ -5585,7 +5661,9 @@
 "regione": "Veneto",
 "comune": "Bussolengo",
 "tipi": {
-"bardolino": []
+"bardolino": [
+"Bardolino"
+]
 },
 "membri": [
 "montecroce-bardolino"
@@ -5681,6 +5759,9 @@
 "bardolino": [
 "Bardolino",
 "Chiaretto di Bardolino"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -5938,6 +6019,9 @@
 "Amarone",
 "Ripasso",
 "Valpolicella"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -6761,7 +6845,9 @@
 "regione": "Veneto",
 "comune": "Valdobbiadene",
 "tipi": {
-"conegliano": [],
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+],
 "asolo": [
 "Asolo Montello"
 ]
@@ -6829,7 +6915,9 @@
 "regione": "Veneto",
 "comune": "Roncà",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "marcato-family-soave"
@@ -6885,7 +6973,9 @@
 "regione": "Veneto",
 "comune": "Soave",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "strele-soave"
@@ -7040,7 +7130,9 @@
 "regione": "Veneto",
 "comune": "Volpago del Montello",
 "tipi": {
-"conegliano": [],
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+],
 "asolo": [
 "Asolo Montello"
 ]
@@ -7112,7 +7204,9 @@
 "regione": "Veneto",
 "comune": "",
 "tipi": {
-"conegliano": []
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+]
 },
 "membri": [
 "borgo-col-vini-conegliano"
@@ -7359,7 +7453,9 @@
 "regione": "Veneto",
 "comune": "Cazzano di Tramigna",
 "tipi": {
-"soave": [],
+"soave": [
+"Soave"
+],
 "durello": [
 "Lessini Durello"
 ],
@@ -7784,7 +7880,9 @@
 "Delle Venezie"
 ],
 "valpolicella": [],
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "villa-mattielli",
@@ -8134,7 +8232,9 @@
 "regione": "Veneto",
 "comune": "Roncà",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "bruno-tasoniero-soave"
@@ -8290,7 +8390,9 @@
 "regione": "Veneto",
 "comune": "Monteforte d'Alpone",
 "tipi": {
-"soave": [],
+"soave": [
+"Soave"
+],
 "valpolicella": [],
 "venezie": [
 "Delle Venezie"
@@ -8314,7 +8416,9 @@
 "regione": "Veneto",
 "comune": "Gambellara",
 "tipi": {
-"durello": []
+"durello": [
+"Lessini Durello"
+]
 },
 "membri": [
 "tamaduoli-durello"
@@ -8515,6 +8619,9 @@
 ],
 "venezia": [
 "Venezia"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -8638,7 +8745,9 @@
 "comune": "Roncà",
 "tipi": {
 "durello": [],
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "tirapelle-nicola-durello",
@@ -8758,7 +8867,9 @@
 "regione": "Veneto",
 "comune": "Lazise",
 "tipi": {
-"bardolino": []
+"bardolino": [
+"Bardolino"
+]
 },
 "membri": [
 "villa-la-bagatta-bardolino"
@@ -9382,7 +9493,9 @@
 "regione": "Veneto",
 "comune": "Gambellara",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "cantina-di-gambellara-soave"
@@ -9580,7 +9693,9 @@
 "regione": "Veneto",
 "comune": "Montebello Vicentino",
 "tipi": {
-"durello": []
+"durello": [
+"Lessini Durello"
+]
 },
 "membri": [
 "casa-cecchin-durello"
@@ -9668,6 +9783,9 @@
 "tipi": {
 "venezie": [
 "Delle Venezie"
+],
+"colli-berici": [
+"Colli Berici"
 ]
 },
 "membri": [
@@ -9777,7 +9895,9 @@
 "regione": "Veneto",
 "comune": "Sona",
 "tipi": {
-"bardolino": []
+"bardolino": [
+"Bardolino"
+]
 },
 "membri": [
 "fructus-vinea-bardolino"
@@ -9792,6 +9912,9 @@
 "tipi": {
 "valpolicella": [
 "Amarone"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -9999,6 +10122,9 @@
 ],
 "maremma": [
 "Maremma Toscana"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -10289,6 +10415,9 @@
 "Malanotte",
 "Piave",
 "Venezia"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -11113,7 +11242,9 @@
 "asolo": [
 "Asolo Montello"
 ],
-"conegliano": [],
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+],
 "prosecco": [
 "Prosecco DOC"
 ]
@@ -11371,6 +11502,9 @@
 ],
 "venezie": [
 "Delle Venezie"
+],
+"garda": [
+"Garda"
 ]
 },
 "membri": [
@@ -12052,7 +12186,9 @@
 "regione": "Veneto",
 "comune": "",
 "tipi": {
-"conegliano": []
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+]
 },
 "membri": [
 "l-antica-quercia-conegliano"
@@ -12243,6 +12379,9 @@
 ],
 "lugana": [
 "Lugana"
+],
+"garda": [
+"Garda"
 ]
 },
 "membri": [
@@ -12292,7 +12431,9 @@
 "regione": "Veneto",
 "comune": "Soave",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "equipe-soave"
@@ -13041,6 +13182,12 @@
 "tipi": {
 "venezie": [
 "Delle Venezie"
+],
+"durello": [
+"Lessini Durello"
+],
+"colli-berici": [
+"Colli Berici"
 ]
 },
 "membri": [
@@ -13360,6 +13507,9 @@
 "Amarone",
 "Ripasso",
 "Valpolicella"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -13567,6 +13717,9 @@
 ],
 "lugana": [
 "Lugana"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -13799,7 +13952,9 @@
 "regione": "Veneto",
 "comune": "Roncà",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "quargentan-david-soave"
@@ -14190,7 +14345,9 @@
 "regione": "Veneto",
 "comune": "Soave",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "corte-mainente-soave"
@@ -14234,7 +14391,9 @@
 "regione": "Veneto",
 "comune": "Roncà",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "tirapelle-soave"
@@ -14347,6 +14506,12 @@
 "durello": [],
 "prosecco": [
 "Prosecco DOC"
+],
+"colli-berici": [
+"Colli Berici"
+],
+"gambellara": [
+"Gambellara"
 ]
 },
 "membri": [
@@ -14732,7 +14897,9 @@
 "regione": "Veneto",
 "comune": "Sona",
 "tipi": {
-"bardolino": [],
+"bardolino": [
+"Bardolino"
+],
 "custoza": [
 "Custoza"
 ]
@@ -14770,6 +14937,9 @@
 "brunello": [
 "Brunello di Montalcino",
 "Rosso di Montalcino"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -14899,6 +15069,12 @@
 "Recioto",
 "Ripasso",
 "Valpolicella"
+],
+"soave": [
+"Soave"
+],
+"garda": [
+"Garda"
 ]
 },
 "membri": [
@@ -15017,6 +15193,9 @@
 "tipi": {
 "asolo": [
 "Asolo Montello"
+],
+"venezie": [
+"delle Venezie"
 ]
 },
 "membri": [
@@ -15092,7 +15271,9 @@
 "regione": "Veneto",
 "comune": "Colognola ai Colli",
 "tipi": {
-"soave": [],
+"soave": [
+"Soave"
+],
 "valpolicella": [
 "Amarone",
 "Recioto",
@@ -15659,6 +15840,9 @@
 "tipi": {
 "friuli-doc": [
 "Friuli DOC"
+],
+"aquileia": [
+"Friuli Aquileia"
 ]
 },
 "membri": [
@@ -16143,7 +16327,9 @@
 "venezia": [
 "Venezia"
 ],
-"conegliano": []
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+]
 },
 "membri": [
 "salatin-conegliano",
@@ -16510,6 +16696,9 @@
 ],
 "durello": [
 "Lessini Durello"
+],
+"colli-berici": [
+"Colli Berici"
 ]
 },
 "membri": [
@@ -16540,7 +16729,9 @@
 "comune": "Illasi",
 "tipi": {
 "valpolicella": [],
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "marco-mosconi",
@@ -16601,7 +16792,9 @@
 "regione": "Veneto",
 "comune": "San Martino Buon Albergo",
 "tipi": {
-"soave": [],
+"soave": [
+"Soave"
+],
 "durello": [],
 "venezie": [
 "Delle Venezie"
@@ -16723,7 +16916,9 @@
 "regione": "Veneto",
 "comune": "Valdobbiadene",
 "tipi": {
-"conegliano": []
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+]
 },
 "membri": [
 "rebuli-renzo-conegliano"
@@ -16849,7 +17044,9 @@
 "regione": "Veneto",
 "comune": "Cazzano di Tramigna",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "pagani-soave"
@@ -17326,7 +17523,10 @@
 "venezie": [
 "Delle Venezie"
 ],
-"valpolicella": []
+"valpolicella": [],
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "schenk-italia",
@@ -17713,6 +17913,9 @@
 "tipi": {
 "venezie": [
 "Delle Venezie"
+],
+"trentino": [
+"Trentino"
 ]
 },
 "membri": [
@@ -18003,6 +18206,9 @@
 "bardolino": [
 "Bardolino",
 "Chiaretto di Bardolino"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -18270,7 +18476,9 @@
 "regione": "Veneto",
 "comune": "Valdobbiadene",
 "tipi": {
-"conegliano": []
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+]
 },
 "membri": [
 "stramare-mario-conegliano"
@@ -18734,6 +18942,9 @@
 "tipi": {
 "venezie": [
 "Delle Venezie"
+],
+"trentino": [
+"Trentino"
 ]
 },
 "membri": [
@@ -19274,7 +19485,9 @@
 "regione": "Veneto",
 "comune": "Soave",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "tamellini-soave"
@@ -19711,6 +19924,9 @@
 "tipi": {
 "venezie": [
 "Delle Venezie"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -19809,7 +20025,9 @@
 "regione": "Veneto",
 "comune": "Sommacampagna",
 "tipi": {
-"bardolino": []
+"bardolino": [
+"Bardolino"
+]
 },
 "membri": [
 "la-bacheta-bardolino"
@@ -20143,7 +20361,9 @@
 "custoza": [
 "Custoza"
 ],
-"bardolino": [],
+"bardolino": [
+"Bardolino"
+],
 "venezie": [
 "Delle Venezie"
 ]
@@ -20397,6 +20617,9 @@
 "Recioto",
 "Ripasso",
 "Valpolicella"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -20855,7 +21078,9 @@
 "regione": "Veneto",
 "comune": "Soave",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "filippi-wines-soave"
@@ -21531,7 +21756,9 @@
 "regione": "Veneto",
 "comune": "Illasi",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "fratelli-giuliari-vini-soave"
@@ -22179,7 +22406,10 @@
 "venezie": [
 "Delle Venezie"
 ],
-"durello": []
+"durello": [],
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "cantine-riondo-delle-venezie",
@@ -22284,6 +22514,9 @@
 ],
 "custoza": [
 "Custoza"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -22674,7 +22907,15 @@
 "regione": "Veneto",
 "comune": "",
 "tipi": {
-"durello": []
+"durello": [
+"Lessini Durello"
+],
+"colli-berici": [
+"Colli Berici"
+],
+"gambellara": [
+"Gambellara"
+]
 },
 "membri": [
 "dal-maso-durello"
@@ -22985,6 +23226,9 @@
 "Recioto",
 "Ripasso",
 "Valpolicella"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -24113,6 +24357,9 @@
 "tipi": {
 "soave": [
 "Soave"
+],
+"colli-berici": [
+"Colli Berici"
 ]
 },
 "membri": [
@@ -24143,7 +24390,9 @@
 "regione": "Veneto",
 "comune": "Monteforte d'Alpone",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "ca-prearo-soave"
@@ -24277,7 +24526,9 @@
 "regione": "Veneto",
 "comune": "Soave",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "bettili-soave"
@@ -24758,8 +25009,12 @@
 "regione": "Veneto",
 "comune": "Montecchia di Crosara",
 "tipi": {
-"durello": [],
-"soave": []
+"durello": [
+"Lessini Durello"
+],
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "cantina-marti-durello",
@@ -24864,7 +25119,9 @@
 "regione": "Veneto",
 "comune": "Bardolino",
 "tipi": {
-"bardolino": []
+"bardolino": [
+"Bardolino"
+]
 },
 "membri": [
 "colle-dei-cipressi-bardolino"
@@ -25269,7 +25526,9 @@
 "regione": "Veneto",
 "comune": "Roncà",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "cavaggioni-lino-soave"
@@ -25317,6 +25576,12 @@
 "tipi": {
 "durello": [
 "Lessini Durello"
+],
+"colli-berici": [
+"Colli Berici"
+],
+"gambellara": [
+"Gambellara"
 ]
 },
 "membri": [
@@ -25553,7 +25818,9 @@
 "regione": "Veneto",
 "comune": "Montecchia di Crosara",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "poia-soave"
@@ -26758,7 +27025,9 @@
 "Bardolino",
 "Chiaretto di Bardolino"
 ],
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "fasoli-gino",
@@ -26871,6 +27140,12 @@
 "tipi": {
 "friuli-grave": [
 "Friuli Grave"
+],
+"soave": [
+"Soave"
+],
+"gambellara": [
+"Gambellara"
 ]
 },
 "membri": [
@@ -27010,7 +27285,9 @@
 "regione": "Veneto",
 "comune": "",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "zambon-claudio-soave"
@@ -27313,6 +27590,7 @@
 "Friuli Grave"
 ],
 "friuli-doc": [
+"Friuli",
 "Friuli DOC"
 ]
 },
@@ -27590,7 +27868,12 @@
 "regione": "Veneto",
 "comune": "",
 "tipi": {
-"durello": []
+"durello": [
+"Lessini Durello"
+],
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "montecrocetta-durello"
@@ -27654,7 +27937,9 @@
 "regione": "Veneto",
 "comune": "",
 "tipi": {
-"conegliano": []
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+]
 },
 "membri": [
 "scuola-enologica-g-b-cerletti-conegliano"
@@ -27712,7 +27997,9 @@
 "regione": "Veneto",
 "comune": "Roncà",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "quargentan-soave"
@@ -28181,7 +28468,9 @@
 "regione": "Veneto",
 "comune": "Soave",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "rizzotto-spumanti-soave"
@@ -28194,7 +28483,9 @@
 "regione": "Veneto",
 "comune": "Pastrengo",
 "tipi": {
-"bardolino": []
+"bardolino": [
+"Bardolino"
+]
 },
 "membri": [
 "perantoni-bardolino"
@@ -28799,7 +29090,9 @@
 "regione": "Veneto",
 "comune": "Valdobbiadene",
 "tipi": {
-"conegliano": []
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+]
 },
 "membri": [
 "valter-agostinetto-conegliano"
@@ -29149,7 +29442,9 @@
 "regione": "Veneto",
 "comune": "Valeggio sul Mincio",
 "tipi": {
-"bardolino": []
+"bardolino": [
+"Bardolino"
+]
 },
 "membri": [
 "pezzini-albino-bardolino"
@@ -29322,7 +29617,9 @@
 "regione": "Veneto",
 "comune": "Soave",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "fornaro-soave"
@@ -29709,7 +30006,9 @@
 "regione": "Veneto",
 "comune": "Valdobbiadene",
 "tipi": {
-"conegliano": []
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+]
 },
 "membri": [
 "gallina-loris-az-agr-conegliano"
@@ -30689,6 +30988,9 @@
 "tipi": {
 "durello": [
 "Lessini Durello"
+],
+"gambellara": [
+"Gambellara"
 ]
 },
 "membri": [
@@ -30717,7 +31019,10 @@
 "regione": "Veneto",
 "comune": "Colognola ai Colli",
 "tipi": {
-"valpolicella": []
+"valpolicella": [],
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "icaro"
@@ -30825,7 +31130,12 @@
 "regione": "Veneto",
 "comune": "Roncà",
 "tipi": {
-"durello": []
+"durello": [
+"Lessini Durello"
+],
+"colli-berici": [
+"Colli Berici"
+]
 },
 "membri": [
 "family-of-wine-durello"
@@ -31523,7 +31833,9 @@
 "regione": "Veneto",
 "comune": "Roncà",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "montezan-soave"
@@ -31911,6 +32223,9 @@
 "tipi": {
 "friuli-doc": [
 "Friuli DOC"
+],
+"aquileia": [
+"Friuli Aquileia"
 ]
 },
 "membri": [
@@ -32076,7 +32391,9 @@
 "regione": "Veneto",
 "comune": "Bardolino",
 "tipi": {
-"bardolino": []
+"bardolino": [
+"Bardolino"
+]
 },
 "membri": [
 "raval-bardolino"
@@ -32121,7 +32438,9 @@
 "regione": "Veneto",
 "comune": "Pastrengo",
 "tipi": {
-"bardolino": []
+"bardolino": [
+"Bardolino"
+]
 },
 "membri": [
 "boschetti-anacleto-bardolino"
@@ -32179,7 +32498,9 @@
 "regione": "Veneto",
 "comune": "Rivoli Veronese",
 "tipi": {
-"bardolino": []
+"bardolino": [
+"Bardolino"
+]
 },
 "membri": [
 "ca-ceru-bardolino"
@@ -32304,7 +32625,9 @@
 "regione": "Veneto",
 "comune": "Monteforte d'Alpone",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "le-chiarelle-soave"
@@ -32624,7 +32947,9 @@
 "regione": "Veneto",
 "comune": "Cavaion Veronese",
 "tipi": {
-"bardolino": []
+"bardolino": [
+"Bardolino"
+]
 },
 "membri": [
 "canella-bardolino"
@@ -33002,7 +33327,9 @@
 "regione": "Veneto",
 "comune": "Monteforte d'Alpone",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "martinelli-gabriele-soave"
@@ -33191,7 +33518,9 @@
 "regione": "Veneto",
 "comune": "Montecchia di Crosara",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "posenato-carlo-alberto-soave"
@@ -33489,7 +33818,9 @@
 "regione": "Veneto",
 "comune": "Valdobbiadene",
 "tipi": {
-"conegliano": []
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+]
 },
 "membri": [
 "bortoluz-pierina-conegliano"
@@ -33656,7 +33987,9 @@
 "regione": "Veneto",
 "comune": "Dolcè",
 "tipi": {
-"bardolino": []
+"bardolino": [
+"Bardolino"
+]
 },
 "membri": [
 "cristini-giuseppe-bardolino"
@@ -34223,7 +34556,9 @@
 "regione": "Veneto",
 "comune": "Soave",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "roncolato-antonio-soave"
@@ -34298,6 +34633,9 @@
 "tipi": {
 "venezie": [
 "Delle Venezie"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -34357,7 +34695,9 @@
 "regione": "Veneto",
 "comune": "",
 "tipi": {
-"durello": []
+"durello": [
+"Lessini Durello"
+]
 },
 "membri": [
 "fongaro-durello"
@@ -34704,7 +35044,9 @@
 "regione": "Veneto",
 "comune": "San Bonifacio",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "mondello-wines-soave"
@@ -35465,7 +35807,9 @@
 "regione": "Veneto",
 "comune": "Colognola ai Colli",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "cambrago-casa-vinicola-soave"
@@ -35906,7 +36250,9 @@
 "regione": "Veneto",
 "comune": "Lazise",
 "tipi": {
-"bardolino": []
+"bardolino": [
+"Bardolino"
+]
 },
 "membri": [
 "oasi-del-pigno-bardolino"
@@ -36141,6 +36487,9 @@
 "Recioto",
 "Ripasso",
 "Valpolicella"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -36485,7 +36834,9 @@
 "regione": "Veneto",
 "comune": "Monteforte d'Alpone",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "pelosato-alberto-soave"
@@ -36749,6 +37100,9 @@
 "Bardolino",
 "Bardolino Superiore",
 "Chiaretto di Bardolino"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -36796,6 +37150,9 @@
 "tipi": {
 "venezie": [
 "Delle Venezie"
+],
+"trentino": [
+"Trentino"
 ]
 },
 "membri": [
@@ -37092,6 +37449,12 @@
 ],
 "lugana": [
 "Lugana"
+],
+"soave": [
+"Soave"
+],
+"garda": [
+"Garda"
 ]
 },
 "membri": [
@@ -37198,7 +37561,9 @@
 "regione": "Veneto",
 "comune": "",
 "tipi": {
-"durello": []
+"durello": [
+"Lessini Durello"
+]
 },
 "membri": [
 "sacramundi-durello"
@@ -37349,7 +37714,9 @@
 "regione": "Veneto",
 "comune": "Colognola ai Colli",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "cantina-di-colognola-ai-colli-soave"
@@ -37453,6 +37820,9 @@
 "tipi": {
 "venezie": [
 "Delle Venezie"
+],
+"soave": [
+"Soave"
 ]
 },
 "membri": [
@@ -37801,7 +38171,9 @@
 "regione": "Veneto",
 "comune": "Monteforte d'Alpone",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "ca-frigo-soave"
@@ -38037,7 +38409,9 @@
 "regione": "Veneto",
 "comune": "Soave",
 "tipi": {
-"soave": []
+"soave": [
+"Soave"
+]
 },
 "membri": [
 "alba-soave"
@@ -38761,7 +39135,9 @@
 "regione": "Veneto",
 "comune": "Montecchio Maggiore",
 "tipi": {
-"durello": []
+"durello": [
+"Lessini Durello"
+]
 },
 "membri": [
 "bellaguardia-durello"
@@ -48170,6 +48546,9 @@
 "tipi": {
 "lugana": [
 "Lugana"
+],
+"garda": [
+"Garda"
 ]
 },
 "membri": [
@@ -48744,6 +49123,9 @@
 "Asti Spumante DOCG",
 "Moscato d'Asti DOCG",
 "Canelli DOCG"
+],
+"alta-langa": [
+"Alta Langa"
 ]
 },
 "membri": [
@@ -48763,6 +49145,9 @@
 ],
 "acqui": [
 "Vini d’Acqui"
+],
+"alta-langa": [
+"Alta Langa"
 ]
 },
 "membri": [
@@ -48796,6 +49181,9 @@
 ],
 "acqui": [
 "Vini d’Acqui"
+],
+"roero": [
+"Roero"
 ]
 },
 "membri": [
@@ -48861,6 +49249,9 @@
 "asti": [
 "Asti Spumante DOCG",
 "Moscato d'Asti DOCG"
+],
+"alta-langa": [
+"Alta Langa"
 ]
 },
 "membri": [
@@ -48878,6 +49269,9 @@
 "Asti Spumante DOCG",
 "Asti Rosé DOCG",
 "Moscato d'Asti DOCG"
+],
+"roero": [
+"Roero"
 ]
 },
 "membri": [
@@ -49241,6 +49635,9 @@
 "asti": [
 "Moscato d'Asti DOCG",
 "Canelli DOCG"
+],
+"alta-langa": [
+"Alta Langa"
 ]
 },
 "membri": [
@@ -49295,6 +49692,12 @@
 ],
 "acqui": [
 "Vini d’Acqui"
+],
+"alta-langa": [
+"Alta Langa"
+],
+"roero": [
+"Roero"
 ]
 },
 "membri": [
@@ -49377,6 +49780,12 @@
 "tipi": {
 "asti": [
 "Moscato d'Asti DOCG"
+],
+"alta-langa": [
+"Alta Langa"
+],
+"roero": [
+"Roero"
 ]
 },
 "membri": [
@@ -49430,6 +49839,9 @@
 ],
 "acqui": [
 "Vini d’Acqui"
+],
+"alta-langa": [
+"Alta Langa"
 ]
 },
 "membri": [
@@ -49450,6 +49862,9 @@
 ],
 "acqui": [
 "Vini d’Acqui"
+],
+"venezie": [
+"delle Venezie"
 ]
 },
 "membri": [
@@ -49531,6 +49946,9 @@
 ],
 "acqui": [
 "Vini d’Acqui"
+],
+"alta-langa": [
+"Alta Langa"
 ]
 },
 "membri": [
@@ -49689,6 +50107,9 @@
 "asti": [
 "Moscato d'Asti DOCG",
 "Canelli DOCG"
+],
+"alta-langa": [
+"Alta Langa"
 ]
 },
 "membri": [
@@ -49845,6 +50266,9 @@
 "tipi": {
 "asti": [
 "Canelli DOCG"
+],
+"alta-langa": [
+"Alta Langa"
 ]
 },
 "membri": [
@@ -50230,6 +50654,9 @@
 ],
 "acqui": [
 "Vini d’Acqui"
+],
+"alta-langa": [
+"Alta Langa"
 ]
 },
 "membri": [
@@ -50268,6 +50695,9 @@
 "Asti Spumante DOCG Metodo Classico",
 "Moscato d'Asti DOCG",
 "Canelli DOCG"
+],
+"alta-langa": [
+"Alta Langa"
 ]
 },
 "membri": [
@@ -50302,6 +50732,12 @@
 ],
 "acqui": [
 "Vini d’Acqui"
+],
+"alta-langa": [
+"Alta Langa"
+],
+"roero": [
+"Roero"
 ]
 },
 "membri": [
@@ -51073,5 +51509,2756 @@
 "i-moncalvi"
 ],
 "primario": "i-moncalvi"
+},
+{
+"slug": "torboli",
+"nome": "Torboli",
+"regione": "Veneto",
+"comune": "Soave",
+"tipi": {
+"soave": [
+"Soave"
+]
+},
+"membri": [
+"torboli"
+],
+"primario": "torboli"
+},
+{
+"slug": "agrintesa",
+"nome": "Agrintesa",
+"regione": "Emilia-Romagna",
+"comune": "Faenza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"agrintesa"
+],
+"primario": "agrintesa"
+},
+{
+"slug": "assirelli-vini",
+"nome": "Assirelli Vini",
+"regione": "Emilia-Romagna",
+"comune": "Dozza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"assirelli-vini"
+],
+"primario": "assirelli-vini"
+},
+{
+"slug": "baccarini-guido",
+"nome": "Baccarini Guido",
+"regione": "Emilia-Romagna",
+"comune": "Faenza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"baccarini-guido"
+],
+"primario": "baccarini-guido"
+},
+{
+"slug": "balducci-ivan",
+"nome": "Balducci Ivan",
+"regione": "Emilia-Romagna",
+"comune": "Forlì",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"balducci-ivan"
+],
+"primario": "balducci-ivan"
+},
+{
+"slug": "balia-di-zola",
+"nome": "Balìa di Zola",
+"regione": "Emilia-Romagna",
+"comune": "Modigliana",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"balia-di-zola"
+],
+"primario": "balia-di-zola"
+},
+{
+"slug": "battistini-casa-vinicola",
+"nome": "Battistini casa vinicola",
+"regione": "Emilia-Romagna",
+"comune": "Santarcangelo Di Romagna",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"battistini-casa-vinicola"
+],
+"primario": "battistini-casa-vinicola"
+},
+{
+"slug": "bissoni",
+"nome": "Bissoni",
+"regione": "Emilia-Romagna",
+"comune": "Bertinoro",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"bissoni"
+],
+"primario": "bissoni"
+},
+{
+"slug": "bole",
+"nome": "Bolé",
+"regione": "Emilia-Romagna",
+"comune": "Faenza -",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"bole"
+],
+"primario": "bole"
+},
+{
+"slug": "c-a-b-terra-di-brisighella",
+"nome": "C.A.B. - Terra di Brisighella",
+"regione": "Emilia-Romagna",
+"comune": "Brisighella",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"c-a-b-terra-di-brisighella"
+],
+"primario": "c-a-b-terra-di-brisighella"
+},
+{
+"slug": "ca-di-camilla",
+"nome": "Ca' di Camilla",
+"regione": "Emilia-Romagna",
+"comune": "Valbiano",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"ca-di-camilla"
+],
+"primario": "ca-di-camilla"
+},
+{
+"slug": "ca-di-sopra",
+"nome": "Ca' di sopra",
+"regione": "Emilia-Romagna",
+"comune": "Marzeno Di Brisighella",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"ca-di-sopra"
+],
+"primario": "ca-di-sopra"
+},
+{
+"slug": "calonga",
+"nome": "Calonga",
+"regione": "Emilia-Romagna",
+"comune": "Forlì",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"calonga"
+],
+"primario": "calonga"
+},
+{
+"slug": "cantina-dei-colli-romagnoli",
+"nome": "Cantina dei colli romagnoli",
+"regione": "Emilia-Romagna",
+"comune": "Faenza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"cantina-dei-colli-romagnoli"
+],
+"primario": "cantina-dei-colli-romagnoli"
+},
+{
+"slug": "cantina-di-faenza",
+"nome": "Cantina di Faenza",
+"regione": "Emilia-Romagna",
+"comune": "Faenza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"cantina-di-faenza"
+],
+"primario": "cantina-di-faenza"
+},
+{
+"slug": "cantina-fiammetta",
+"nome": "Cantina Fiammetta",
+"regione": "Emilia-Romagna",
+"comune": "Croce Di Montecolombo",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"cantina-fiammetta"
+],
+"primario": "cantina-fiammetta"
+},
+{
+"slug": "cantina-franco-galli",
+"nome": "Cantina Franco Galli",
+"regione": "Emilia-Romagna",
+"comune": "San Giovanni In Marignano",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"cantina-franco-galli"
+],
+"primario": "cantina-franco-galli"
+},
+{
+"slug": "cantina-sociale-di-cesena-tenuta-amalia",
+"nome": "Cantina sociale di Cesena - Tenuta Amalia",
+"regione": "Emilia-Romagna",
+"comune": "Cesena",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"cantina-sociale-di-cesena-tenuta-amalia"
+],
+"primario": "cantina-sociale-di-cesena-tenuta-amalia"
+},
+{
+"slug": "cantine-zuffa",
+"nome": "Cantine Zuffa",
+"regione": "Emilia-Romagna",
+"comune": "Imola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"cantine-zuffa"
+],
+"primario": "cantine-zuffa"
+},
+{
+"slug": "celli",
+"nome": "Celli",
+"regione": "Emilia-Romagna",
+"comune": "Bertinoro",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"celli"
+],
+"primario": "celli"
+},
+{
+"slug": "conde",
+"nome": "Condé",
+"regione": "Emilia-Romagna",
+"comune": "Fiumana Di Predappio",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"conde"
+],
+"primario": "conde"
+},
+{
+"slug": "conti-guarini-matteucci",
+"nome": "Conti Guarini Matteucci",
+"regione": "Emilia-Romagna",
+"comune": "Forlì",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"conti-guarini-matteucci"
+],
+"primario": "conti-guarini-matteucci"
+},
+{
+"slug": "domini-glicine",
+"nome": "Domini Glicine",
+"regione": "Emilia-Romagna",
+"comune": "Cesena",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"domini-glicine"
+],
+"primario": "domini-glicine"
+},
+{
+"slug": "drei-dona-tenuta-la-palazza",
+"nome": "Drei Donà - Tenuta la Palazza",
+"regione": "Emilia-Romagna",
+"comune": "Forlì",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"drei-dona-tenuta-la-palazza"
+],
+"primario": "drei-dona-tenuta-la-palazza"
+},
+{
+"slug": "enio-ottaviani",
+"nome": "Enio Ottaviani",
+"regione": "Emilia-Romagna",
+"comune": "San Clemente",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"enio-ottaviani"
+],
+"primario": "enio-ottaviani"
+},
+{
+"slug": "fattoria-nicolucci",
+"nome": "Fattoria Nicolucci",
+"regione": "Emilia-Romagna",
+"comune": "Predappio Alta",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"fattoria-nicolucci"
+],
+"primario": "fattoria-nicolucci"
+},
+{
+"slug": "fattoria-zerbina",
+"nome": "Fattoria Zerbina",
+"regione": "Emilia-Romagna",
+"comune": "Faenza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"fattoria-zerbina"
+],
+"primario": "fattoria-zerbina"
+},
+{
+"slug": "fondo-ca-vecja",
+"nome": "Fondo Cà Vecja",
+"regione": "Emilia-Romagna",
+"comune": "Ponticelli",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"fondo-ca-vecja"
+],
+"primario": "fondo-ca-vecja"
+},
+{
+"slug": "genagricola-1851",
+"nome": "Genagricola 1851",
+"regione": "Friuli Venezia Giulia",
+"comune": "Trieste",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"genagricola-1851"
+],
+"primario": "genagricola-1851"
+},
+{
+"slug": "giovannini-giorgio-e-jacopo",
+"nome": "Giovannini Giorgio e Jacopo",
+"regione": "Emilia-Romagna",
+"comune": "Imola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"giovannini-giorgio-e-jacopo"
+],
+"primario": "giovannini-giorgio-e-jacopo"
+},
+{
+"slug": "la-sabbiona",
+"nome": "La Sabbiona",
+"regione": "Emilia-Romagna",
+"comune": "Faenza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"la-sabbiona"
+],
+"primario": "la-sabbiona"
+},
+{
+"slug": "leone-conti",
+"nome": "Leone Conti",
+"regione": "Emilia-Romagna",
+"comune": "Faenza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"leone-conti"
+],
+"primario": "leone-conti"
+},
+{
+"slug": "longanesi-daniele",
+"nome": "Longanesi Daniele",
+"regione": "Emilia-Romagna",
+"comune": "Bagnacavallo",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"longanesi-daniele"
+],
+"primario": "longanesi-daniele"
+},
+{
+"slug": "lu-va",
+"nome": "Lu.Va.",
+"regione": "Emilia-Romagna",
+"comune": "Modigliana",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"lu-va"
+],
+"primario": "lu-va"
+},
+{
+"slug": "madonia-giovanna",
+"nome": "Madonia Giovanna",
+"regione": "Emilia-Romagna",
+"comune": "Bertinoro",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"madonia-giovanna"
+],
+"primario": "madonia-giovanna"
+},
+{
+"slug": "marta-valpiani",
+"nome": "Marta Valpiani",
+"regione": "Emilia-Romagna",
+"comune": "Castrocaro Terme",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"marta-valpiani"
+],
+"primario": "marta-valpiani"
+},
+{
+"slug": "podere-dell-angelo",
+"nome": "Podere dell'Angelo",
+"regione": "Emilia-Romagna",
+"comune": "Rimini",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"podere-dell-angelo"
+],
+"primario": "podere-dell-angelo"
+},
+{
+"slug": "podere-vecciano",
+"nome": "Podere Vecciano",
+"regione": "Emilia-Romagna",
+"comune": "Coriano",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"podere-vecciano"
+],
+"primario": "podere-vecciano"
+},
+{
+"slug": "poderi-dal-nespoli",
+"nome": "Poderi dal Nespoli",
+"regione": "Lombardia",
+"comune": "Milano",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"poderi-dal-nespoli"
+],
+"primario": "poderi-dal-nespoli"
+},
+{
+"slug": "poderi-morini",
+"nome": "Poderi Morini",
+"regione": "Emilia-Romagna",
+"comune": "Villanova Di Forlì",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"poderi-morini"
+],
+"primario": "poderi-morini"
+},
+{
+"slug": "rocca-le-caminate",
+"nome": "Rocca le Caminate",
+"regione": "Emilia-Romagna",
+"comune": "Meldola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"rocca-le-caminate"
+],
+"primario": "rocca-le-caminate"
+},
+{
+"slug": "san-valentino",
+"nome": "San Valentino",
+"regione": "Emilia-Romagna",
+"comune": "Rimini",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"san-valentino"
+],
+"primario": "san-valentino"
+},
+{
+"slug": "tenuta-casali",
+"nome": "Tenuta Casali",
+"regione": "Emilia-Romagna",
+"comune": "Mercato Saraceno",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-casali"
+],
+"primario": "tenuta-casali"
+},
+{
+"slug": "tenuta-de-stefenelli",
+"nome": "Tenuta Dè Stefenelli",
+"regione": "Emilia-Romagna",
+"comune": "Fratta Terme Di Bertinoro",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-de-stefenelli"
+],
+"primario": "tenuta-de-stefenelli"
+},
+{
+"slug": "tenuta-del-gelso",
+"nome": "Tenuta del Gelso",
+"regione": "Emilia-Romagna",
+"comune": "Bertinoro",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-del-gelso"
+],
+"primario": "tenuta-del-gelso"
+},
+{
+"slug": "tenuta-del-monsignore",
+"nome": "Tenuta del Monsignore",
+"regione": "Emilia-Romagna",
+"comune": "San Giovanni In Marignano",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-del-monsignore"
+],
+"primario": "tenuta-del-monsignore"
+},
+{
+"slug": "tenuta-la-franzona",
+"nome": "Tenuta La Franzona",
+"regione": "Emilia-Romagna",
+"comune": "Imola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-la-franzona"
+],
+"primario": "tenuta-la-franzona"
+},
+{
+"slug": "tenuta-pennita",
+"nome": "Tenuta Pennita",
+"regione": "Emilia-Romagna",
+"comune": "Terra Del Sole",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-pennita"
+],
+"primario": "tenuta-pennita"
+},
+{
+"slug": "tenuta-uccellina",
+"nome": "Tenuta Uccellina",
+"regione": "Emilia-Romagna",
+"comune": "Russi",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-uccellina"
+],
+"primario": "tenuta-uccellina"
+},
+{
+"slug": "tenute-bacana",
+"nome": "Tenute Bacana",
+"regione": "Emilia-Romagna",
+"comune": "Villa Vezzano",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenute-bacana"
+],
+"primario": "tenute-bacana"
+},
+{
+"slug": "terre-cevico",
+"nome": "Terre Cevico",
+"regione": "Emilia-Romagna",
+"comune": "Lugo",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"terre-cevico"
+],
+"primario": "terre-cevico"
+},
+{
+"slug": "tre-monti",
+"nome": "Tre Monti",
+"regione": "Emilia-Romagna",
+"comune": "Imola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tre-monti"
+],
+"primario": "tre-monti"
+},
+{
+"slug": "trere",
+"nome": "Trerè",
+"regione": "Emilia-Romagna",
+"comune": "Faenza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"trere"
+],
+"primario": "trere"
+},
+{
+"slug": "umberto-cesari",
+"nome": "Umberto Cesari",
+"regione": "Emilia-Romagna",
+"comune": "Castel San Pietro Terme",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"umberto-cesari"
+],
+"primario": "umberto-cesari"
+},
+{
+"slug": "valle-del-vento",
+"nome": "Valle del Vento",
+"regione": "Emilia-Romagna",
+"comune": "Meldola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"valle-del-vento"
+],
+"primario": "valle-del-vento"
+},
+{
+"slug": "valle-delle-lepri",
+"nome": "Valle delle lepri",
+"regione": "Emilia-Romagna",
+"comune": "Coriano",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"valle-delle-lepri"
+],
+"primario": "valle-delle-lepri"
+},
+{
+"slug": "zavalloni",
+"nome": "Zavalloni",
+"regione": "Emilia-Romagna",
+"comune": "Cesena",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"zavalloni"
+],
+"primario": "zavalloni"
+},
+{
+"slug": "cenetae-az-agr-dell-ist-diocesano-per-il-sost-nto-del-clero",
+"nome": "CENETAE Az.Agr. dell'Ist. Diocesano per il Sost.nto del Clero",
+"regione": "Veneto",
+"comune": "Vittorio Veneto",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+]
+},
+"membri": [
+"cenetae-az-agr-dell-ist-diocesano-per-il-sost-nto-del-clero"
+],
+"primario": "cenetae-az-agr-dell-ist-diocesano-per-il-sost-nto-del-clero"
+},
+{
+"slug": "s-i-v-ag",
+"nome": "S.I.V.Ag.",
+"regione": "Veneto",
+"comune": "Solighetto Di Pieve Di Soligo",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene Prosecco Superiore"
+]
+},
+"membri": [
+"s-i-v-ag"
+],
+"primario": "s-i-v-ag"
+},
+{
+"slug": "abrigo-fratelli",
+"nome": "Abrigo Fratelli",
+"regione": "Piemonte",
+"comune": "Diano D’Alba",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"abrigo-fratelli"
+],
+"primario": "abrigo-fratelli"
+},
+{
+"slug": "borgo-maragliano",
+"nome": "Borgo Maragliano",
+"regione": "Piemonte",
+"comune": "Loazzolo -",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"borgo-maragliano"
+],
+"primario": "borgo-maragliano"
+},
+{
+"slug": "cantina-clavesana",
+"nome": "Cantina Clavesana",
+"regione": "Piemonte",
+"comune": "Clavesana",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"cantina-clavesana"
+],
+"primario": "cantina-clavesana"
+},
+{
+"slug": "cascina-bretta-rossa",
+"nome": "Cascina Bretta Rossa",
+"regione": "Piemonte",
+"comune": "Tagliolo Monferrato",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"cascina-bretta-rossa"
+],
+"primario": "cascina-bretta-rossa"
+},
+{
+"slug": "cascina-fonda",
+"nome": "Cascina Fonda",
+"regione": "Piemonte",
+"comune": "Neive",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"cascina-fonda"
+],
+"primario": "cascina-fonda"
+},
+{
+"slug": "colombo",
+"nome": "Colombo",
+"regione": "Piemonte",
+"comune": "Bubbio",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"colombo"
+],
+"primario": "colombo"
+},
+{
+"slug": "garbarino-roberto",
+"nome": "Garbarino Roberto",
+"regione": "Piemonte",
+"comune": "Neviglie",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"garbarino-roberto"
+],
+"primario": "garbarino-roberto"
+},
+{
+"slug": "garesio",
+"nome": "Garesio",
+"regione": "Piemonte",
+"comune": "Serralunga D'Alba",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"garesio"
+],
+"primario": "garesio"
+},
+{
+"slug": "germano-ettore",
+"nome": "Germano Ettore",
+"regione": "Piemonte",
+"comune": "Serralunga D'Alba",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"germano-ettore"
+],
+"primario": "germano-ettore"
+},
+{
+"slug": "la-fusina",
+"nome": "La Fusina",
+"regione": "Piemonte",
+"comune": "Dogliani",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"la-fusina"
+],
+"primario": "la-fusina"
+},
+{
+"slug": "marcalberto",
+"nome": "Marcalberto",
+"regione": "Piemonte",
+"comune": "S. Stefano Belbo",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"marcalberto"
+],
+"primario": "marcalberto"
+},
+{
+"slug": "massimo-rivetti",
+"nome": "Massimo Rivetti",
+"regione": "Piemonte",
+"comune": "Neive",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"massimo-rivetti"
+],
+"primario": "massimo-rivetti"
+},
+{
+"slug": "matteo-correggia",
+"nome": "Matteo Correggia",
+"regione": "Piemonte",
+"comune": "Canale D'Alba",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+],
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"matteo-correggia"
+],
+"primario": "matteo-correggia"
+},
+{
+"slug": "mauro-sebaste",
+"nome": "Mauro Sebaste",
+"regione": "Piemonte",
+"comune": "Alba",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"mauro-sebaste"
+],
+"primario": "mauro-sebaste"
+},
+{
+"slug": "monsignore",
+"nome": "Monsignore",
+"regione": "Piemonte",
+"comune": "Vicoforte",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"monsignore"
+],
+"primario": "monsignore"
+},
+{
+"slug": "oriolo",
+"nome": "Oriolo",
+"regione": "Piemonte",
+"comune": "Montelupo Albese",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"oriolo"
+],
+"primario": "oriolo"
+},
+{
+"slug": "pasquale-pelissero",
+"nome": "Pasquale Pelissero",
+"regione": "Piemonte",
+"comune": "Neive",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"pasquale-pelissero"
+],
+"primario": "pasquale-pelissero"
+},
+{
+"slug": "podere-gagliassi",
+"nome": "Podere Gagliassi",
+"regione": "Piemonte",
+"comune": "Monforte D Alba",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"podere-gagliassi"
+],
+"primario": "podere-gagliassi"
+},
+{
+"slug": "poderi-cusmano",
+"nome": "Poderi Cusmano",
+"regione": "Piemonte",
+"comune": "San Marzano Oliveto",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"poderi-cusmano"
+],
+"primario": "poderi-cusmano"
+},
+{
+"slug": "san-silvestro",
+"nome": "San Silvestro",
+"regione": "Piemonte",
+"comune": "Novello",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"san-silvestro"
+],
+"primario": "san-silvestro"
+},
+{
+"slug": "tenuta-carretta",
+"nome": "Tenuta Carretta",
+"regione": "Piemonte",
+"comune": "Piobesi D'Alba",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+],
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"tenuta-carretta"
+],
+"primario": "tenuta-carretta"
+},
+{
+"slug": "tenuta-del-garino",
+"nome": "Tenuta del Garino",
+"regione": "Piemonte",
+"comune": "Clavesana",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"tenuta-del-garino"
+],
+"primario": "tenuta-del-garino"
+},
+{
+"slug": "terre-del-barolo-vinum-vita-est",
+"nome": "Terre del Barolo – Vinum Vita Est",
+"regione": "Piemonte",
+"comune": "Castiglione Falletto",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"terre-del-barolo-vinum-vita-est"
+],
+"primario": "terre-del-barolo-vinum-vita-est"
+},
+{
+"slug": "antica-cascina-dei-conti-di-roero",
+"nome": "Antica Cascina dei Conti di Roero",
+"regione": "Piemonte",
+"comune": "Vezza D'Alba",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"antica-cascina-dei-conti-di-roero"
+],
+"primario": "antica-cascina-dei-conti-di-roero"
+},
+{
+"slug": "bajaj",
+"nome": "Bajaj",
+"regione": "Piemonte",
+"comune": "Monteu Roero",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"bajaj"
+],
+"primario": "bajaj"
+},
+{
+"slug": "battaglio-mario",
+"nome": "Battaglio Mario",
+"regione": "Piemonte",
+"comune": "Vezza D’Alba",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"battaglio-mario"
+],
+"primario": "battaglio-mario"
+},
+{
+"slug": "bosco-ferruccio",
+"nome": "Bosco Ferruccio",
+"regione": "Piemonte",
+"comune": "Priocca",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"bosco-ferruccio"
+],
+"primario": "bosco-ferruccio"
+},
+{
+"slug": "bosco-giovanna",
+"nome": "Bosco Giovanna",
+"regione": "Piemonte",
+"comune": "Priocca",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"bosco-giovanna"
+],
+"primario": "bosco-giovanna"
+},
+{
+"slug": "bric-castelvej",
+"nome": "Bric Castelvej",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"bric-castelvej"
+],
+"primario": "bric-castelvej"
+},
+{
+"slug": "cascina-albano",
+"nome": "Cascina Albano",
+"regione": "Piemonte",
+"comune": "Barbaresco",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"cascina-albano"
+],
+"primario": "cascina-albano"
+},
+{
+"slug": "cascina-ca-rossa",
+"nome": "Cascina Ca’ Rossa",
+"regione": "Piemonte",
+"comune": "Canale D’Alba",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"cascina-ca-rossa"
+],
+"primario": "cascina-ca-rossa"
+},
+{
+"slug": "cascina-chicco",
+"nome": "Cascina Chicco",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"cascina-chicco"
+],
+"primario": "cascina-chicco"
+},
+{
+"slug": "cascina-ciapat",
+"nome": "Cascina Ciapat",
+"regione": "Piemonte",
+"comune": "Montaldo Roero",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"cascina-ciapat"
+],
+"primario": "cascina-ciapat"
+},
+{
+"slug": "cascina-fiorenza",
+"nome": "Cascina Fiorenza",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"cascina-fiorenza"
+],
+"primario": "cascina-fiorenza"
+},
+{
+"slug": "cascina-lanzarotti",
+"nome": "Cascina Lanzarotti",
+"regione": "Piemonte",
+"comune": "Monteu Roero",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"cascina-lanzarotti"
+],
+"primario": "cascina-lanzarotti"
+},
+{
+"slug": "cornarea",
+"nome": "Cornarea",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"cornarea"
+],
+"primario": "cornarea"
+},
+{
+"slug": "destefanis-federico",
+"nome": "Destefanis Federico",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"destefanis-federico"
+],
+"primario": "destefanis-federico"
+},
+{
+"slug": "dogliotti-1870",
+"nome": "Dogliotti 1870",
+"regione": "Piemonte",
+"comune": "Castagnole Lanze",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"dogliotti-1870"
+],
+"primario": "dogliotti-1870"
+},
+{
+"slug": "dosio",
+"nome": "Dosio",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"dosio"
+],
+"primario": "dosio"
+},
+{
+"slug": "giacomo-vico",
+"nome": "Giacomo Vico",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"giacomo-vico"
+],
+"primario": "giacomo-vico"
+},
+{
+"slug": "giovanni-almondo",
+"nome": "Giovanni Almondo",
+"regione": "Piemonte",
+"comune": "Montà",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"giovanni-almondo"
+],
+"primario": "giovanni-almondo"
+},
+{
+"slug": "giuseppe-roagna",
+"nome": "Giuseppe Roagna",
+"regione": "Piemonte",
+"comune": "Priocca D'Alba",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"giuseppe-roagna"
+],
+"primario": "giuseppe-roagna"
+},
+{
+"slug": "le-more-bianche",
+"nome": "Le More Bianche",
+"regione": "Piemonte",
+"comune": "Magliano Alfieri",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"le-more-bianche"
+],
+"primario": "le-more-bianche"
+},
+{
+"slug": "malabaila-di-canale",
+"nome": "Malabaila di Canale",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"malabaila-di-canale"
+],
+"primario": "malabaila-di-canale"
+},
+{
+"slug": "malvira",
+"nome": "Malvirà",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"malvira"
+],
+"primario": "malvira"
+},
+{
+"slug": "marsaglia",
+"nome": "Marsaglia",
+"regione": "Piemonte",
+"comune": "Castellinaldo D'Alba",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"marsaglia"
+],
+"primario": "marsaglia"
+},
+{
+"slug": "massucco",
+"nome": "Massucco",
+"regione": "Piemonte",
+"comune": "Castagnito",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"massucco"
+],
+"primario": "massucco"
+},
+{
+"slug": "michele-viano",
+"nome": "Michele Viano",
+"regione": "Piemonte",
+"comune": "Vezza D'Alba",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"michele-viano"
+],
+"primario": "michele-viano"
+},
+{
+"slug": "morra-stefanino",
+"nome": "Morra Stefanino",
+"regione": "Piemonte",
+"comune": "Castellinaldo D’Alba",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"morra-stefanino"
+],
+"primario": "morra-stefanino"
+},
+{
+"slug": "nota-giuliano",
+"nome": "Nota Giuliano",
+"regione": "Piemonte",
+"comune": "Monticello D'Alba",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"nota-giuliano"
+],
+"primario": "nota-giuliano"
+},
+{
+"slug": "pace",
+"nome": "Pace",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"pace"
+],
+"primario": "pace"
+},
+{
+"slug": "paitin",
+"nome": "Paitin",
+"regione": "Piemonte",
+"comune": "Neive",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"paitin"
+],
+"primario": "paitin"
+},
+{
+"slug": "paolo-sandri",
+"nome": "Paolo Sandri",
+"regione": "Piemonte",
+"comune": "Castagnito",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"paolo-sandri"
+],
+"primario": "paolo-sandri"
+},
+{
+"slug": "patrunet",
+"nome": "Patrunét",
+"regione": "Piemonte",
+"comune": "Vezza D’Alba Cn, 12040 Vezza D’Alba",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"patrunet"
+],
+"primario": "patrunet"
+},
+{
+"slug": "pedemontis",
+"nome": "Pedemontis",
+"regione": "Piemonte",
+"comune": "Alba",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"pedemontis"
+],
+"primario": "pedemontis"
+},
+{
+"slug": "pelassa",
+"nome": "Pelassa",
+"regione": "Piemonte",
+"comune": "Montà",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"pelassa"
+],
+"primario": "pelassa"
+},
+{
+"slug": "pescaja",
+"nome": "Pescaja",
+"regione": "Piemonte",
+"comune": "Cisterna D’Asti",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"pescaja"
+],
+"primario": "pescaja"
+},
+{
+"slug": "pinsoglio-fabrizio",
+"nome": "Pinsoglio Fabrizio",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"pinsoglio-fabrizio"
+],
+"primario": "pinsoglio-fabrizio"
+},
+{
+"slug": "poderi-moretti",
+"nome": "Poderi Moretti",
+"regione": "Piemonte",
+"comune": "Monteu Roero",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"poderi-moretti"
+],
+"primario": "poderi-moretti"
+},
+{
+"slug": "pqlin",
+"nome": "pQlin",
+"regione": "Piemonte",
+"comune": "Castagnito",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"pqlin"
+],
+"primario": "pqlin"
+},
+{
+"slug": "produttori-di-govone",
+"nome": "Produttori di Govone",
+"regione": "Piemonte",
+"comune": "Govone",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"produttori-di-govone"
+],
+"primario": "produttori-di-govone"
+},
+{
+"slug": "rabino-luigi",
+"nome": "Rabino Luigi",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"rabino-luigi"
+],
+"primario": "rabino-luigi"
+},
+{
+"slug": "rosoretto",
+"nome": "Rosoretto",
+"regione": "Piemonte",
+"comune": "Castiglione Falletto",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"rosoretto"
+],
+"primario": "rosoretto"
+},
+{
+"slug": "tenuta-la-pergola",
+"nome": "Tenuta La Pergola",
+"regione": "Piemonte",
+"comune": "Cisterna D’Asti",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"tenuta-la-pergola"
+],
+"primario": "tenuta-la-pergola"
+},
+{
+"slug": "valdinera",
+"nome": "Valdinera",
+"regione": "Piemonte",
+"comune": "Corneliano D’Alba",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"valdinera"
+],
+"primario": "valdinera"
+},
+{
+"slug": "viglione-antonio-e-figli",
+"nome": "Viglione Antonio e Figli",
+"regione": "Piemonte",
+"comune": "Sant'Anna - Monteu Roero",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"viglione-antonio-e-figli"
+],
+"primario": "viglione-antonio-e-figli"
+},
+{
+"slug": "a-life-agricola-societa-agricola",
+"nome": "A Life Agricola Societa' Agricola",
+"regione": "Campania",
+"comune": "Piedimonte Matese",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"a-life-agricola-societa-agricola"
+],
+"primario": "a-life-agricola-societa-agricola"
+},
+{
+"slug": "caputo-1890",
+"nome": "Caputo 1890",
+"regione": "Campania",
+"comune": "Carinaro",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"caputo-1890"
+],
+"primario": "caputo-1890"
+},
+{
+"slug": "casa-vinicola-la-masseria-sas-di-di-maio-giuseppe-c",
+"nome": "Casa Vinicola La Masseria Sas di di Maio Giuseppe & C.",
+"regione": "Campania",
+"comune": "San Marco Evangelista Ce, 81020 San Marco Evangelista",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"casa-vinicola-la-masseria-sas-di-di-maio-giuseppe-c"
+],
+"primario": "casa-vinicola-la-masseria-sas-di-di-maio-giuseppe-c"
+},
+{
+"slug": "fattoria-alois",
+"nome": "Fattoria Alois",
+"regione": "Campania",
+"comune": "Pontelatone",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"fattoria-alois"
+],
+"primario": "fattoria-alois"
+},
+{
+"slug": "gennaro-papa",
+"nome": "Gennaro Papa",
+"regione": "Campania",
+"comune": "Falciano Del Massico",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"gennaro-papa"
+],
+"primario": "gennaro-papa"
+},
+{
+"slug": "i-borboni",
+"nome": "I Borboni",
+"regione": "Campania",
+"comune": "Lusciano",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"i-borboni"
+],
+"primario": "i-borboni"
+},
+{
+"slug": "il-casolare-divino",
+"nome": "Il Casolare Divino",
+"regione": "Campania",
+"comune": "Alvignano",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"il-casolare-divino"
+],
+"primario": "il-casolare-divino"
+},
+{
+"slug": "la-masseria-di-sessa",
+"nome": "La Masseria di Sessa",
+"regione": "Campania",
+"comune": "Sessa Aurunca",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"la-masseria-di-sessa"
+],
+"primario": "la-masseria-di-sessa"
+},
+{
+"slug": "la-masserie",
+"nome": "La Masserie",
+"regione": "Campania",
+"comune": "Bellona",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"la-masserie"
+],
+"primario": "la-masserie"
+},
+{
+"slug": "lavoro-e-salute-vini-telaro",
+"nome": "Lavoro e Salute Vini Telaro",
+"regione": "Campania",
+"comune": "Galluccio",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"lavoro-e-salute-vini-telaro"
+],
+"primario": "lavoro-e-salute-vini-telaro"
+},
+{
+"slug": "le-cantine-di-hesperia",
+"nome": "Le Cantine di Hesperia",
+"regione": "Campania",
+"comune": "Castel Campagnano",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"le-cantine-di-hesperia"
+],
+"primario": "le-cantine-di-hesperia"
+},
+{
+"slug": "masseria-campito-societa-agricola-delle-cugine-di-martino",
+"nome": "Masseria Campito Societa' Agricola delle Cugine di Martino",
+"regione": "Campania",
+"comune": "Gricignano Di Aversa",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"masseria-campito-societa-agricola-delle-cugine-di-martino"
+],
+"primario": "masseria-campito-societa-agricola-delle-cugine-di-martino"
+},
+{
+"slug": "masseria-felicia",
+"nome": "Masseria Felicia",
+"regione": "Campania",
+"comune": "Carano Di Sessa Aurunca",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"masseria-felicia"
+],
+"primario": "masseria-felicia"
+},
+{
+"slug": "migliozzi",
+"nome": "Migliozzi",
+"regione": "Campania",
+"comune": "Carinola",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"migliozzi"
+],
+"primario": "migliozzi"
+},
+{
+"slug": "moio-michele-fu-luigi",
+"nome": "Moio Michele Fu Luigi",
+"regione": "Campania",
+"comune": "Mondragone",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"moio-michele-fu-luigi"
+],
+"primario": "moio-michele-fu-luigi"
+},
+{
+"slug": "porto-di-mola",
+"nome": "Porto di Mola",
+"regione": "Campania",
+"comune": "Galluccio",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"porto-di-mola"
+],
+"primario": "porto-di-mola"
+},
+{
+"slug": "regina-viarum",
+"nome": "Regina Viarum",
+"regione": "Campania",
+"comune": "Falciano Del Massico",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"regina-viarum"
+],
+"primario": "regina-viarum"
+},
+{
+"slug": "s-s-a-san-teodoro-di-santoro-giuseppe",
+"nome": "S.S.A. San Teodoro di Santoro Giuseppe",
+"regione": "Campania",
+"comune": "– San Prisco",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"s-s-a-san-teodoro-di-santoro-giuseppe"
+],
+"primario": "s-s-a-san-teodoro-di-santoro-giuseppe"
+},
+{
+"slug": "sclavia",
+"nome": "Sclavia",
+"regione": "Campania",
+"comune": "Liberi",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"sclavia"
+],
+"primario": "sclavia"
+},
+{
+"slug": "soc-agr-magliulo",
+"nome": "Soc. Agr. Magliulo",
+"regione": "Campania",
+"comune": "Frignano",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"soc-agr-magliulo"
+],
+"primario": "soc-agr-magliulo"
+},
+{
+"slug": "tenuta-ievoli",
+"nome": "Tenuta Ievoli",
+"regione": "Campania",
+"comune": "Squille",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"tenuta-ievoli"
+],
+"primario": "tenuta-ievoli"
+},
+{
+"slug": "tenuta-santa-monica-di-matano-mario",
+"nome": "Tenuta Santa Monica di Matano Mario",
+"regione": "Campania",
+"comune": "Castel Campagnano",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"tenuta-santa-monica-di-matano-mario"
+],
+"primario": "tenuta-santa-monica-di-matano-mario"
+},
+{
+"slug": "vigne-chigi",
+"nome": "Vigne Chigi",
+"regione": "Campania",
+"comune": "Pontelatone",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"vigne-chigi"
+],
+"primario": "vigne-chigi"
+},
+{
+"slug": "villa-sorbo",
+"nome": "Villa Sorbo",
+"regione": "Campania",
+"comune": "Galluccio",
+"tipi": {
+"asprinio": [
+"Asprinio d’Aversa, Galluccio e Falerno"
+]
+},
+"membri": [
+"villa-sorbo"
+],
+"primario": "villa-sorbo"
+},
+{
+"slug": "concordia",
+"nome": "Concordia",
+"regione": "Lombardia",
+"comune": "Fino Mornasco",
+"tipi": {
+"terre-lariane": [
+"Terre Lariane"
+]
+},
+"membri": [
+"concordia"
+],
+"primario": "concordia"
+},
+{
+"slug": "azienda-agricola-rodella-sellero",
+"nome": "Azienda Agricola Rodella Sellero",
+"regione": "Lombardia",
+"comune": "Sellero",
+"tipi": {
+"valcamonica": [
+"Valcamonica"
+]
+},
+"membri": [
+"azienda-agricola-rodella-sellero"
+],
+"primario": "azienda-agricola-rodella-sellero"
+},
+{
+"slug": "azienda-agricola-scraleca-darfo-boario-terme",
+"nome": "Azienda Agricola Scraleca Darfo Boario Terme",
+"regione": "Lombardia",
+"comune": "Angolo Terme",
+"tipi": {
+"valcamonica": [
+"Valcamonica"
+]
+},
+"membri": [
+"azienda-agricola-scraleca-darfo-boario-terme"
+],
+"primario": "azienda-agricola-scraleca-darfo-boario-terme"
+},
+{
+"slug": "azienda-vinicola-vi-bu-malonno",
+"nome": "Azienda Vinicola Vi’ Bu Malonno",
+"regione": "Lombardia",
+"comune": "Capo Di Ponte",
+"tipi": {
+"valcamonica": [
+"Valcamonica"
+]
+},
+"membri": [
+"azienda-vinicola-vi-bu-malonno"
+],
+"primario": "azienda-vinicola-vi-bu-malonno"
+},
+{
+"slug": "rocche-dei-vignali-losine",
+"nome": "Rocche dei Vignali Losine",
+"regione": "Lombardia",
+"comune": "Losine",
+"tipi": {
+"valcamonica": [
+"Valcamonica"
+]
+},
+"membri": [
+"rocche-dei-vignali-losine"
+],
+"primario": "rocche-dei-vignali-losine"
+},
+{
+"slug": "alpi-delladamello-edolo",
+"nome": "Alpi Dell’Adamello Edolo",
+"regione": "Lombardia",
+"comune": "Breno",
+"tipi": {
+"valcamonica": [
+"Valcamonica"
+]
+},
+"membri": [
+"alpi-delladamello-edolo"
+],
+"primario": "alpi-delladamello-edolo"
+},
+{
+"slug": "tenuta-castello-di-grumello",
+"nome": "Tenuta Castello di Grumello",
+"regione": "Lombardia",
+"comune": "Grumello Del Monte",
+"tipi": {
+"valcalepio": [
+"Valcalepio"
+]
+},
+"membri": [
+"tenuta-castello-di-grumello"
+],
+"primario": "tenuta-castello-di-grumello"
+},
+{
+"slug": "ca-basso",
+"nome": "Cà Basso",
+"regione": "Veneto",
+"comune": "Longare",
+"tipi": {
+"colli-berici": [
+"Colli Berici"
+]
+},
+"membri": [
+"ca-basso"
+],
+"primario": "ca-basso"
+},
+{
+"slug": "corte-de-pieri",
+"nome": "Corte De Pieri",
+"regione": "Veneto",
+"comune": "Lonigo",
+"tipi": {
+"colli-berici": [
+"Colli Berici"
+]
+},
+"membri": [
+"corte-de-pieri"
+],
+"primario": "corte-de-pieri"
+},
+{
+"slug": "da-sagraro",
+"nome": "da Sagraro",
+"regione": "Veneto",
+"comune": "Barbarano Mossano",
+"tipi": {
+"colli-berici": [
+"Colli Berici"
+]
+},
+"membri": [
+"da-sagraro"
+],
+"primario": "da-sagraro"
+},
+{
+"slug": "piovene-porto-godi",
+"nome": "Piovene Porto Godi",
+"regione": "Veneto",
+"comune": "Toara Di Villaga",
+"tipi": {
+"colli-berici": [
+"Colli Berici"
+]
+},
+"membri": [
+"piovene-porto-godi"
+],
+"primario": "piovene-porto-godi"
+},
+{
+"slug": "tenuta-zai",
+"nome": "Tenuta Zai",
+"regione": "Veneto",
+"comune": "Alonte",
+"tipi": {
+"colli-berici": [
+"Colli Berici"
+]
+},
+"membri": [
+"tenuta-zai"
+],
+"primario": "tenuta-zai"
+},
+{
+"slug": "villa-montruglio",
+"nome": "Villa Montruglio",
+"regione": "Veneto",
+"comune": "Barbarano Mossano",
+"tipi": {
+"colli-berici": [
+"Colli Berici"
+]
+},
+"membri": [
+"villa-montruglio"
+],
+"primario": "villa-montruglio"
+},
+{
+"slug": "l-albara",
+"nome": "L'Albara",
+"regione": "Veneto",
+"comune": "Castegnero",
+"tipi": {
+"colli-berici": [
+"Colli Berici"
+]
+},
+"membri": [
+"l-albara"
+],
+"primario": "l-albara"
+},
+{
+"slug": "le-pignole",
+"nome": "Le Pignole",
+"regione": "Veneto",
+"comune": "Brendola",
+"tipi": {
+"colli-berici": [
+"Colli Berici"
+]
+},
+"membri": [
+"le-pignole"
+],
+"primario": "le-pignole"
+},
+{
+"slug": "muraro-952",
+"nome": "Muraro 952",
+"regione": "Veneto",
+"comune": "Longare",
+"tipi": {
+"colli-berici": [
+"Colli Berici"
+]
+},
+"membri": [
+"muraro-952"
+],
+"primario": "muraro-952"
+},
+{
+"slug": "pialli-vini",
+"nome": "Pialli Vini",
+"regione": "Veneto",
+"comune": "Barbarano Vicentino",
+"tipi": {
+"colli-berici": [
+"Colli Berici"
+]
+},
+"membri": [
+"pialli-vini"
+],
+"primario": "pialli-vini"
+},
+{
+"slug": "revini",
+"nome": "Revini",
+"regione": "Veneto",
+"comune": "Cervarese Santa Croce",
+"tipi": {
+"colli-berici": [
+"Colli Berici"
+]
+},
+"membri": [
+"revini"
+],
+"primario": "revini"
+},
+{
+"slug": "volcanalia",
+"nome": "Volcanalia",
+"regione": "Veneto",
+"comune": "Arzignano",
+"tipi": {
+"gambellara": [
+"Gambellara"
+]
+},
+"membri": [
+"volcanalia"
+],
+"primario": "volcanalia"
+},
+{
+"slug": "menti-vini-societa-agricola",
+"nome": "Menti Vini Società Agricola",
+"regione": "Veneto",
+"comune": "Montebello Vicentino",
+"tipi": {
+"gambellara": [
+"Gambellara"
+]
+},
+"membri": [
+"menti-vini-societa-agricola"
+],
+"primario": "menti-vini-societa-agricola"
+},
+{
+"slug": "parol-vini",
+"nome": "Parol Vini",
+"regione": "Veneto",
+"comune": "Tezze Sul Brenta",
+"tipi": {
+"gambellara": [
+"Gambellara"
+]
+},
+"membri": [
+"parol-vini"
+],
+"primario": "parol-vini"
+},
+{
+"slug": "la-rosta",
+"nome": "La Rosta",
+"regione": "Friuli Venezia Giulia",
+"comune": "Cervignano Del Friuli",
+"tipi": {
+"aquileia": [
+"Friuli Aquileia"
+]
+},
+"membri": [
+"la-rosta"
+],
+"primario": "la-rosta"
+},
+{
+"slug": "ballaminut-luca",
+"nome": "Ballaminut Luca",
+"regione": "Friuli Venezia Giulia",
+"comune": "Terzo D'Aquileia",
+"tipi": {
+"aquileia": [
+"Friuli Aquileia"
+]
+},
+"membri": [
+"ballaminut-luca"
+],
+"primario": "ballaminut-luca"
+},
+{
+"slug": "de-zahony",
+"nome": "De Záhony",
+"regione": "Friuli Venezia Giulia",
+"comune": "Aquileia",
+"tipi": {
+"aquileia": [
+"Friuli Aquileia"
+]
+},
+"membri": [
+"de-zahony"
+],
+"primario": "de-zahony"
+},
+{
+"slug": "casata-merge",
+"nome": "Casata Mergé",
+"regione": "Lazio",
+"comune": "Roma",
+"tipi": {
+"roma": [
+"Roma"
+]
+},
+"membri": [
+"casata-merge"
+],
+"primario": "casata-merge"
+},
+{
+"slug": "terre-del-veio",
+"nome": "Terre del Veio",
+"regione": "Lazio",
+"comune": "Roma",
+"tipi": {
+"roma": [
+"Roma"
+]
+},
+"membri": [
+"terre-del-veio"
+],
+"primario": "terre-del-veio"
+},
+{
+"slug": "gotto-doro",
+"nome": "Gotto d’Oro",
+"regione": "Lazio",
+"comune": "Marino",
+"tipi": {
+"roma": [
+"Roma"
+]
+},
+"membri": [
+"gotto-doro"
+],
+"primario": "gotto-doro"
+},
+{
+"slug": "cantine-san-marco",
+"nome": "Cantine San Marco",
+"regione": "Lazio",
+"comune": "Frascati",
+"tipi": {
+"roma": [
+"Roma"
+]
+},
+"membri": [
+"cantine-san-marco"
+],
+"primario": "cantine-san-marco"
+},
+{
+"slug": "tenuta-tre-cancelli",
+"nome": "Tenuta Tre Cancelli",
+"regione": "Lazio",
+"comune": "Cerveteri",
+"tipi": {
+"roma": [
+"Roma"
+]
+},
+"membri": [
+"tenuta-tre-cancelli"
+],
+"primario": "tenuta-tre-cancelli"
+},
+{
+"slug": "cantina-gaffino",
+"nome": "Cantina Gaffino",
+"regione": "Lazio",
+"comune": "Ardea",
+"tipi": {
+"roma": [
+"Roma"
+]
+},
+"membri": [
+"cantina-gaffino"
+],
+"primario": "cantina-gaffino"
+},
+{
+"slug": "tommasi-family-estates",
+"nome": "Tommasi Family Estates",
+"regione": "Veneto",
+"comune": "Pedemonte",
+"tipi": {
+"venezie": [
+"delle Venezie"
+]
+},
+"membri": [
+"tommasi-family-estates"
+],
+"primario": "tommasi-family-estates"
+},
+{
+"slug": "natale-verga-casa-vinicola",
+"nome": "Natale Verga Casa Vinicola",
+"regione": "Lombardia",
+"comune": "Cermenate",
+"tipi": {
+"venezie": [
+"delle Venezie"
+]
+},
+"membri": [
+"natale-verga-casa-vinicola"
+],
+"primario": "natale-verga-casa-vinicola"
+},
+{
+"slug": "prophecy-wines",
+"nome": "Prophecy Wines",
+"regione": "Trentino-Alto Adige",
+"comune": "Mezzocorona",
+"tipi": {
+"venezie": [
+"delle Venezie"
+]
+},
+"membri": [
+"prophecy-wines"
+],
+"primario": "prophecy-wines"
+},
+{
+"slug": "sede-operativa-via-dante-alighieri-13",
+"nome": "Sede Operativa: Via Dante Alighieri, 13",
+"regione": "Lombardia",
+"comune": "Bergamo",
+"tipi": {
+"moscato-di-scanzo": [
+"Moscato di Scanzo"
+]
+},
+"membri": [
+"sede-operativa-via-dante-alighieri-13"
+],
+"primario": "sede-operativa-via-dante-alighieri-13"
 }
 ]

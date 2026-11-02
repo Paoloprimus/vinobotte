@@ -11,11 +11,15 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vino Lessini Durello DOC [[2]]\nConsorzio di Tutela della DOC Prosecco [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[2]]\nConsorzio Tutela Vini Colli Berici e Vicenza [[3]]\nConsorzio Volontario per la Tutela dei Vini Gambellara [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[5]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Prosecco DOC",
-     "valore": "Montebello Vicentino, Via Contrada Selva, 10 36054 VI; tel. +393519580608; info@tenutamaule.com; https://www.tenutamaule.com [[3]]"
+     "valore": "Montebello Vicentino, Via Contrada Selva, 10 36054 VI; tel. +393519580608; info@tenutamaule.com; https://www.tenutamaule.com [[5]]"
     }
    ]
   },
@@ -55,11 +59,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=15095975370768200628|Mappa}} — valutazione 4,8 su 5 (102 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=15095975370768200628|Mappa}} — valutazione 4,8 su 5 (102 recensioni) [[6]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[7]]"
     }
    ]
   }
@@ -80,18 +84,30 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Colli Berici e Vicenza, consultato il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Volontario per la Tutela dei Vini Gambellara, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/",
+   "etichetta": "consorziogambellara.com"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
    "url": "https://www.prosecco.wine/produttori/",
    "etichetta": "prosecco.wine"
   },
   {
-   "n": 4,
+   "n": 6,
    "testo": "Scheda «Tenuta Maule» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=15095975370768200628",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 7,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

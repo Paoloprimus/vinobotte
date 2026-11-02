@@ -26,8 +26,8 @@
      "valore": "{{http://www.borgoanticovini.com|www.borgoanticovini.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
     }
    ]
   },
@@ -36,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Azienda familiare dal 1973; dal 1995 la guida Leonardo, enologo; 30 ettari, 160.000 bottiglie l’anno. [[2]]"
+     "valore": "Azienda familiare dal 1973; dal 1995 la guida Leonardo, enologo; 30 ettari, 160.000 bottiglie l’anno. [[3]]"
     }
    ]
   },
@@ -79,7 +79,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Premio Fascetta d’Oro 2024 al Verdiso IGT Colli Trevigiani [[2]]"
+     "valore": "Premio Fascetta d’Oro 2024 al Verdiso IGT Colli Trevigiani [[3]]"
     }
    ]
   },
@@ -88,7 +88,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/cantinaborgoantico|cantinaborgoantico}}\nInstagram {{https://www.instagram.com/borgoanticovini/|@borgoanticovini}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/cantinaborgoantico|cantinaborgoantico}}\nInstagram {{https://www.instagram.com/borgoanticovini/|@borgoanticovini}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -96,11 +96,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=626035712038813267|Mappa}} — valutazione 4,9 su 5 (87 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=626035712038813267|Mappa}} — valutazione 4,9 su 5 (87 recensioni) [[4]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[4]]"
+     "valore": "Presente come produttore [[5]]"
     }
    ]
   }
@@ -115,18 +115,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/borgo-antico/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.borgoanticovini.com",
    "etichetta": "borgoanticovini.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Azienda Agricola Borgo Antico» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=626035712038813267",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

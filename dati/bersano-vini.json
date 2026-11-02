@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio per la Tutela dell’Asti [[2]]\nConsorzio Tutela Vini d’Acqui [[3]]"
+     "valore": "Consorzio per la Tutela dell’Asti [[2]]\nConsorzio Tutela Vini d’Acqui [[3]]\nConsorzio di Tutela Roero [[4]]"
     }
    ]
   },
@@ -60,6 +60,12 @@
    "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Acqui, scheda dell’azienda consultata il 2 novembre 2026.",
    "url": "https://vinidacqui.it/bersano-vini/",
    "etichetta": "vinidacqui.it"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco dei produttori del Consorzio di Tutela Roero, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziodelroero.it/produttori/bersano-vini/",
+   "etichetta": "consorziodelroero.it"
   }
  ]
 }

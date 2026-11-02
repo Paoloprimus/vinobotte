@@ -35,7 +35,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]\nConsorzio Tutela Vini DOC Delle Venezie [[3]]"
+     "valore": "Compare nell’elenco delle aziende associate del Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]\nConsorzio Tutela DOC Delle Venezie [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[4]]"
     }
    ]
   },
@@ -53,7 +57,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Friuli Colli Orientali DOC [[4]]"
+     "valore": "Denominazioni DOC e DOCG: Friuli Colli Orientali DOC [[5]]"
     }
    ]
   },
@@ -71,7 +75,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/ermacora.winery|ermacora.winery}}\nInstagram {{https://www.instagram.com/ermacora_winery/|@ermacora_winery}} [[5]]"
+     "valore": "Facebook {{https://www.facebook.com/ermacora.winery|ermacora.winery}}\nInstagram {{https://www.instagram.com/ermacora_winery/|@ermacora_winery}} [[6]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -79,11 +83,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=15585055979106270841|Mappa}} — valutazione 5 su 5 (66 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=15585055979106270841|Mappa}} — valutazione 5 su 5 (66 recensioni) [[7]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[7]]"
+     "valore": "Presente come produttore [[8]]"
     }
    ]
   }
@@ -104,30 +108,36 @@
   },
   {
    "n": 3,
-   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
    "n": 4,
+   "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.ermacora.it",
    "etichetta": "ermacora.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.ermacora.it",
    "etichetta": "ermacora.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «Ermacora - cantina, visite e degustazioni» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=15585055979106270841",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

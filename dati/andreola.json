@@ -27,11 +27,15 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Vini Asolo Montello [[2]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Asolo Montello [[3]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Asolo Montello",
-     "valore": "Via Cavre, 19, 31010 Farra di Soligo (TV); tel. 0438 989379; info@andreola.eu; andreola.eu [[2]]"
+     "valore": "Via Cavre, 19, 31010 Farra di Soligo (TV); tel. 0438 989379; info@andreola.eu; andreola.eu [[3]]"
     }
    ]
   },
@@ -40,7 +44,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Dal 1984 azienda di famiglia a Valdobbiadene DOCG, guidata da due generazioni. [[3]]"
+     "valore": "Dal 1984 azienda di famiglia a Valdobbiadene DOCG, guidata da due generazioni. [[4]]"
     }
    ]
   },
@@ -92,11 +96,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/proseccoandreola|proseccoandreola}}\nInstagram {{https://www.instagram.com/andreola_valdobbiadenedocg/|@andreola_valdobbiadenedocg}} [[3]]"
+     "valore": "Facebook {{https://www.facebook.com/proseccoandreola|proseccoandreola}}\nInstagram {{https://www.instagram.com/andreola_valdobbiadenedocg/|@andreola_valdobbiadenedocg}} [[4]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.andreola.eu/e-shop|andreola.eu/e-shop}} [[3]]"
+     "valore": "{{https://www.andreola.eu/e-shop|andreola.eu/e-shop}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -104,11 +108,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=18418741718568082483|Mappa}} — valutazione 4,8 su 5 (226 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=18418741718568082483|Mappa}} — valutazione 4,8 su 5 (226 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -123,24 +127,30 @@
   },
   {
    "n": 2,
-   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
    "url": "https://www.asolomontello.it/i-soci-produttori/",
    "etichetta": "asolomontello.it"
   },
   {
    "n": 3,
+   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.andreola.eu",
    "etichetta": "andreola.eu"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Cantina Andreola - Eroico in Valdobbiadene» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=18418741718568082483",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

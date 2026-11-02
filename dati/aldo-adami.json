@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vino Custoza DOC [[2]]\nConsorzio Tutela Vino Bardolino D.O.C. [[3]]"
+     "valore": "Compare nell’elenco dei soci del Consorzio Tutela Vino Custoza DOC [[2]]\nConsorzio Tutela Vino Bardolino DOC [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[4]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Custoza",
@@ -49,7 +53,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Custoza DOC; Custoza Spumante DOC; Custoza Superiore DOC [[4]]"
+     "valore": "Denominazioni DOC e DOCG: Custoza DOC; Custoza Spumante DOC; Custoza Superiore DOC [[5]]"
     },
     {
      "etichetta": "Denominazioni Bardolino dichiarate",
@@ -72,7 +76,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/AziendaAgricolaAldoAdami|AziendaAgricolaAldoAdami}}\nInstagram {{https://www.instagram.com/aldoadami.cantina/|@aldoadami.cantina}} [[5]]"
+     "valore": "Facebook {{https://www.facebook.com/AziendaAgricolaAldoAdami|AziendaAgricolaAldoAdami}}\nInstagram {{https://www.instagram.com/aldoadami.cantina/|@aldoadami.cantina}} [[6]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -80,11 +84,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=12110022573370911664|Mappa}} — valutazione 4,8 su 5 (78 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=12110022573370911664|Mappa}} — valutazione 4,8 su 5 (78 recensioni) [[7]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[7]]"
+     "valore": "Presente come produttore [[8]]"
     }
    ]
   }
@@ -105,30 +109,36 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "https://www.cantinaaldoadami.com/it/",
    "etichetta": "cantinaaldoadami.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.cantinaaldoadami.com/it/",
    "etichetta": "cantinaaldoadami.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «Azienda Agricola Aldo Adami» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=12110022573370911664",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

@@ -26,8 +26,8 @@
      "valore": "{{http://www.bagnarol.it|bagnarol.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio DOC Friuli [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]"
     }
    ]
   },
@@ -54,7 +54,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Decanter World Wine Awards 2023: medaglia di bronzo\nConcorso Enologico Internazionale Città del Vino 2023: medaglia d’oro [[2]]"
+     "valore": "Decanter World Wine Awards 2023: medaglia di bronzo\nConcorso Enologico Internazionale Città del Vino 2023: medaglia d’oro [[3]]"
     }
    ]
   },
@@ -63,11 +63,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/cantina.bagnarol|cantina.bagnarol}}\nInstagram {{https://www.instagram.com/cantina.bagnarol/|@cantina.bagnarol}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/cantina.bagnarol|cantina.bagnarol}}\nInstagram {{https://www.instagram.com/cantina.bagnarol/|@cantina.bagnarol}} [[3]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.bagnarol.it/e-shop/p/terra-sancti-viti-refosco-dop-friuli|bagnarol.it/e-shop/p/terra-sancti-viti-refosco-dop-friuli}} [[2]]"
+     "valore": "{{https://www.bagnarol.it/e-shop/p/terra-sancti-viti-refosco-dop-friuli|bagnarol.it/e-shop/p/terra-sancti-viti-refosco-dop-friuli}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -75,7 +75,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=16489145461636631076|Mappa}} — valutazione 4,8 su 5 (88 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=16489145461636631076|Mappa}} — valutazione 4,8 su 5 (88 recensioni) [[4]]"
     }
    ]
   }
@@ -90,12 +90,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/bagnarol-franco/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.bagnarol.it",
    "etichetta": "bagnarol.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Az. Agricola Bagnarol Franco & C.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=16489145461636631076",
    "etichetta": "maps.google.com"

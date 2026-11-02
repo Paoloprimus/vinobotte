@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio DOC Friuli [[2]]"
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[3]]\nConsorzio Tutela DOC Delle Venezie [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio DOC Friuli [[2]]"
     }
    ]
   },
@@ -92,7 +96,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Concours Mondial du Sauvignon: Special Trophy 2011 e medaglie d’oro in più annate [[3]]"
+     "valore": "Concours Mondial du Sauvignon: Special Trophy 2011 e medaglie d’oro in più annate [[5]]"
     }
    ]
   },
@@ -101,11 +105,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/boscodelmerlo|boscodelmerlo}}\nInstagram {{https://www.instagram.com/boscodelmerlo/|@boscodelmerlo}} [[3]]"
+     "valore": "Facebook {{https://www.facebook.com/boscodelmerlo|boscodelmerlo}}\nInstagram {{https://www.instagram.com/boscodelmerlo/|@boscodelmerlo}} [[5]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.shop.casapaladin.it/it/sauvignon-blanc-doc-friuli-turranio-38|shop.casapaladin.it/it/sauvignon-blanc-doc-friuli-turranio-38}} [[3]]"
+     "valore": "{{https://www.shop.casapaladin.it/it/sauvignon-blanc-doc-friuli-turranio-38|shop.casapaladin.it/it/sauvignon-blanc-doc-friuli-turranio-38}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -113,11 +117,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=15546198649782283185|Mappa}} — valutazione 4,4 su 5 (45 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=15546198649782283185|Mappa}} — valutazione 4,4 su 5 (45 recensioni) [[6]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[7]]"
     }
    ]
   }
@@ -138,22 +142,34 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/bosco-del-merlo/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://boscodelmerlo.it",
    "etichetta": "boscodelmerlo.it"
   },
   {
-   "n": 4,
+   "n": 6,
    "testo": "Scheda «Bosco del Merlo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=15546198649782283185",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 7,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 6,
+   "n": 8,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

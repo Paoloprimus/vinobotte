@@ -39,7 +39,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[2]]\nConsorzio di Tutela della DOC Prosecco [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[2]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[4]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -132,7 +136,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/AdamiProsecco|AdamiProsecco}}\nInstagram {{https://www.instagram.com/adami_wines/|@adami_wines}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/AdamiProsecco|AdamiProsecco}}\nInstagram {{https://www.instagram.com/adami_wines/|@adami_wines}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -140,11 +144,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=8081745780091084359|Mappa}} — valutazione 4,9 su 5 (239 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=8081745780091084359|Mappa}} — valutazione 4,9 su 5 (239 recensioni) [[6]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[7]]"
     }
    ]
   }
@@ -165,28 +169,34 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/adami/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
    "url": "https://www.prosecco.wine/produttori/",
    "etichetta": "prosecco.wine"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.adamiprosecco.it/",
    "etichetta": "adamiprosecco.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Adami - Sorapiana Wine Tasting & Shop» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=8081745780091084359",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
    "url": "https://www.bereilvino.it/cantina/adami-spumanti/",
    "etichetta": "bereilvino.it"

@@ -22,8 +22,8 @@
      "valore": "{{http://cantinadiala.it|cantinadiala.it}} — non raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio Tutela Vini del Trentino [[2]]\nConsorzio Tutela DOC Delle Venezie [[3]]"
     }
    ]
   },
@@ -63,7 +63,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=4926998422005316681|Mappa}} — valutazione 3,2 su 5 (5 recensioni) [[2]]"
+     "valore": "{{https://maps.google.com/?cid=4926998422005316681|Mappa}} — valutazione 3,2 su 5 (5 recensioni) [[4]]"
     }
    ]
   }
@@ -78,6 +78,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini del Trentino, consultato il 2 novembre 2026.",
+   "url": "https://www.winetrentino.it/azienda/cantina-sociale-di-ala/",
+   "etichetta": "vinideltrentino.com"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
    "testo": "Scheda «Cantina Sociale Di Ala» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=4926998422005316681",
    "etichetta": "maps.google.com"

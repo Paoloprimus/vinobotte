@@ -26,8 +26,8 @@
      "valore": "{{http://www.terrediger.it|terrediger.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio DOC Friuli [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]"
     }
    ]
   },
@@ -75,11 +75,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=3112068653438262644|Mappa}} — valutazione 4,5 su 5 (14 recensioni) [[2]]"
+     "valore": "{{https://maps.google.com/?cid=3112068653438262644|Mappa}} — valutazione 4,5 su 5 (14 recensioni) [[3]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[3]]"
+     "valore": "Presente come produttore [[4]]"
     }
    ]
   }
@@ -94,12 +94,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/terre-di-ger/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
    "testo": "Scheda «Terre di Ger» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=3112068653438262644",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

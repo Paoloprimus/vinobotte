@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini DOC Friuli Grave [[2]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Friuli Grave [[3]]"
     }
    ]
   },
@@ -77,11 +81,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/tenute.tomasella|tenute.tomasella}}\nInstagram {{https://www.instagram.com/tenutetomasella/|@tenutetomasella}} [[3]]"
+     "valore": "Facebook {{https://www.facebook.com/tenute.tomasella|tenute.tomasella}}\nInstagram {{https://www.instagram.com/tenutetomasella/|@tenutetomasella}} [[4]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.tenutetomasella.it/shop/|tenutetomasella.it/shop}} [[3]]"
+     "valore": "{{https://www.tenutetomasella.it/shop/|tenutetomasella.it/shop}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -89,11 +93,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=5833662294478897456|Mappa}} — valutazione 4,8 su 5 (170 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=5833662294478897456|Mappa}} — valutazione 4,8 su 5 (170 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -108,28 +112,34 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/tenute-tomasella/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
    "testo": "Consorzio Tutela Vini DOC Friuli Grave, elenco delle cantine e schede delle singole cantine, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuligrave.com/cantine.html",
    "etichetta": "docfriuligrave.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.tenutetomasella.it",
    "etichetta": "tenutetomasella.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Tenute Tomasella» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=5833662294478897456",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

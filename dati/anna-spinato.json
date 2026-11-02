@@ -35,7 +35,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Vini Venezia [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[5]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[4]]\nConsorzio Tutela DOC Delle Venezie [[5]]\nConsorzio Vini Venezia [[1]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[6]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -43,7 +43,7 @@
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
-     "valore": "Via Roma, 106, 31047 Ponte di Piave (TV) [[5]]"
+     "valore": "Via Roma, 106, 31047 Ponte di Piave (TV) [[6]]"
     }
    ]
   },
@@ -91,7 +91,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=32640220843456203|Mappa}} — valutazione 4,5 su 5 (10 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=32640220843456203|Mappa}} — valutazione 4,5 su 5 (10 recensioni) [[7]]"
     }
    ]
   }
@@ -124,12 +124,18 @@
   },
   {
    "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 6,
    "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
    "url": "https://www.prosecco.it/it/scheda-cantina/spinato-anna/",
    "etichetta": "prosecco.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «Azienda Vinicola Anna Spinato» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=32640220843456203",
    "etichetta": "maps.google.com"

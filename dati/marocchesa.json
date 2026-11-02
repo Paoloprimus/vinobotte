@@ -22,8 +22,8 @@
      "valore": "{{http://vinimarocchesa.it|vinimarocchesa.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio Tutela DOC Delle Venezie [[2]]"
     }
    ]
   },
@@ -61,11 +61,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/vinimarocchesa|vinimarocchesa}}\nInstagram {{https://www.instagram.com/vini_marocchesa/|@vini_marocchesa}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/vinimarocchesa|vinimarocchesa}}\nInstagram {{https://www.instagram.com/vini_marocchesa/|@vini_marocchesa}} [[3]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.vinimarocchesa.it/negozio/|vinimarocchesa.it/negozio}} [[2]]"
+     "valore": "{{https://www.vinimarocchesa.it/negozio/|vinimarocchesa.it/negozio}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -73,7 +73,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=8002509416700124326|Mappa}} — valutazione 4,6 su 5 (18 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=8002509416700124326|Mappa}} — valutazione 4,6 su 5 (18 recensioni) [[4]]"
     }
    ]
   }
@@ -88,12 +88,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://vinimarocchesa.it",
    "etichetta": "vinimarocchesa.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Vini Marocchesa» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=8002509416700124326",
    "etichetta": "maps.google.com"

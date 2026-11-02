@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Vini Asolo Montello [[3]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Asolo Montello [[4]]"
     }
    ]
   },
@@ -40,33 +44,33 @@
    "righe": [
     {
      "etichetta": "Storia",
-     "valore": "Fondata nel 2002 da Ermenegildo Giusti; 130 ettari in 10 tenute nel Montello e sulla Destra Piave, comune di Nervesa della Battaglia [[4]]"
+     "valore": "Fondata nel 2002 da Ermenegildo Giusti; 130 ettari in 10 tenute nel Montello e sulla Destra Piave, comune di Nervesa della Battaglia [[5]]"
     },
     {
      "etichetta": "Territori",
-     "valore": "Montello e Asolo (Prosecco Superiore, Montello, Recantina), più una linea di vini della Valpolicella [[5]]"
+     "valore": "Montello e Asolo (Prosecco Superiore, Montello, Recantina), più una linea di vini della Valpolicella [[6]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Solo la linea Valpolicella dall’elenco del sito, che comprende anche spumanti e vini del Montello; annate non indicate. [[5]]",
+   "nota": "Solo la linea Valpolicella dall’elenco del sito, che comprende anche spumanti e vini del Montello; annate non indicate. [[6]]",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Amarone Classico",
      "denominazione": "Amarone della Valpolicella Classico DOCG",
-     "annata": "— [[6]]"
+     "annata": "— [[7]]"
     },
     {
      "nome": "Amarone Classico Riserva",
      "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
-     "annata": "— [[7]]"
+     "annata": "— [[8]]"
     },
     {
      "nome": "Ripasso Classico Superiore",
      "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
-     "annata": "— [[5]]"
+     "annata": "— [[6]]"
     }
    ],
    "righe": []
@@ -94,15 +98,15 @@
    "righe": [
     {
      "etichetta": "Sito",
-     "valore": "giustiwine.com con shop [[8]]"
+     "valore": "giustiwine.com con shop [[9]]"
     },
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/giustiwine|giustiwine}}\nInstagram {{https://www.instagram.com/giusti_wine/|@giusti_wine}}\nLinkedIn {{https://it.linkedin.com/company/giusti-wine|giusti-wine}} [[9]]"
+     "valore": "Facebook {{https://www.facebook.com/giustiwine|giustiwine}}\nInstagram {{https://www.instagram.com/giusti_wine/|@giusti_wine}}\nLinkedIn {{https://it.linkedin.com/company/giusti-wine|giusti-wine}} [[10]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://shop.giustiwine.com/|shop.giustiwine.com}} [[9]]"
+     "valore": "{{https://shop.giustiwine.com/|shop.giustiwine.com}} [[10]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -110,7 +114,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=13812257357656186887|Mappa}} — valutazione 4,9 su 5 (194 recensioni) [[10]]"
+     "valore": "{{https://maps.google.com/?cid=13812257357656186887|Mappa}} — valutazione 4,9 su 5 (194 recensioni) [[11]]"
     }
    ]
   }
@@ -131,48 +135,54 @@
   },
   {
    "n": 3,
-   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
    "url": "https://www.asolomontello.it/i-soci-produttori/",
    "etichetta": "asolomontello.it"
   },
   {
    "n": 4,
+   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina «about-us».",
    "url": "https://www.giustiwine.com/about-us/",
    "etichetta": "giustiwine.com/about-us"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina «collezione-giusti-wine».",
    "url": "https://www.giustiwine.com/collezione-giusti-wine/",
    "etichetta": "giustiwine.com/collezione-giusti-wine"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «prodotto/amarone-della-valpolicella».",
    "url": "https://www.giustiwine.com/prodotto/amarone-della-valpolicella/",
    "etichetta": "giustiwine.com/prodotto/amarone-della-valpolicella"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina «prodotto/amarone-della-valpolicella-riserva».",
    "url": "https://www.giustiwine.com/prodotto/amarone-della-valpolicella-riserva/",
    "etichetta": "giustiwine.com/prodotto/amarone-della-valpolicella-riserva"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina iniziale.",
    "url": "https://www.giustiwine.com/",
    "etichetta": "giustiwine.com"
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.giustiwine.com/",
    "etichetta": "giustiwine.com"
   },
   {
-   "n": 10,
+   "n": 11,
    "testo": "Scheda «Cantina Giusti Wine» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=13812257357656186887",
    "etichetta": "maps.google.com"

@@ -26,8 +26,8 @@
      "valore": "{{http://www.misterbiowine.com|misterbiowine.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio DOC Friuli [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]"
     }
    ]
   },
@@ -87,7 +87,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Mundus Vini 2025: nuovi riconoscimenti [[2]]"
+     "valore": "Mundus Vini 2025: nuovi riconoscimenti [[3]]"
     }
    ]
   },
@@ -96,11 +96,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/mrbiowine|mrbiowine}}\nInstagram {{https://www.instagram.com/mrbio_wine/|@mrbio_wine}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/mrbiowine|mrbiowine}}\nInstagram {{https://www.instagram.com/mrbio_wine/|@mrbio_wine}} [[3]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://shop.misterbiowine.com/|shop.misterbiowine.com}} [[2]]"
+     "valore": "{{https://shop.misterbiowine.com/|shop.misterbiowine.com}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -119,6 +119,12 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/mister-bio/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.misterbiowine.com",
    "etichetta": "misterbiowine.com"

@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Vini Asolo Montello [[3]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Vini Asolo Montello [[3]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[4]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[5]]\nConsorzio di Tutela della DOC Prosecco [[1]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[6]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Asolo Montello",
@@ -35,7 +35,7 @@
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
-     "valore": "La scheda del Consorzio non riporta dati di contatto [[4]]"
+     "valore": "La scheda del Consorzio non riporta dati di contatto [[6]]"
     }
    ]
   },
@@ -75,11 +75,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=3309345083446231219|Mappa}} — valutazione 4,6 su 5 (281 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=3309345083446231219|Mappa}} — valutazione 4,6 su 5 (281 recensioni) [[7]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[8]]"
     }
    ]
   }
@@ -106,18 +106,30 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/val-doca/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 5,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 6,
    "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
    "url": "https://www.prosecco.it/it/scheda-cantina/val-d-oca/",
    "etichetta": "prosecco.it"
   },
   {
-   "n": 5,
+   "n": 7,
    "testo": "Scheda «Val d'Oca Wine Center - Shop Vendita Prosecco» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=3309345083446231219",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 8,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

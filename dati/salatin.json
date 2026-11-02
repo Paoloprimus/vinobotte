@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Vini Venezia [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[4]]\nConsorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Vini Venezia [[5]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -35,7 +35,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
-     "valore": "31016 Mocenigo; info@salatinvini.com; denominazioni: Venezia [[4]]"
+     "valore": "31016 Mocenigo; info@salatinvini.com; denominazioni: Venezia [[5]]"
     }
    ]
   },
@@ -53,7 +53,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Valdobbiadene Prosecco Superiore DOCG; Colli di Conegliano Rosso Riserva DOCG [[5]]"
+     "valore": "Denominazioni DOC e DOCG: Valdobbiadene Prosecco Superiore DOCG; Colli di Conegliano Rosso Riserva DOCG [[6]]"
     }
    ]
   },
@@ -71,7 +71,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/salatinvini|salatinvini}}\nInstagram {{https://www.instagram.com/salatinvini/|@salatinvini}} [[6]]"
+     "valore": "Facebook {{https://www.facebook.com/salatinvini|salatinvini}}\nInstagram {{https://www.instagram.com/salatinvini/|@salatinvini}} [[7]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -79,7 +79,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=18065754866554142337|Mappa}} — valutazione 4,7 su 5 (79 recensioni) [[7]]"
+     "valore": "{{https://maps.google.com/?cid=18065754866554142337|Mappa}} — valutazione 4,7 su 5 (79 recensioni) [[8]]"
     }
    ]
   }
@@ -106,24 +106,30 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/salatin-vini/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://www.consorziovinivenezia.it/cantine-associate/",
    "etichetta": "consorziovinivenezia.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "https://www.salatinvini.com/",
    "etichetta": "salatinvini.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.salatinvini.com/",
    "etichetta": "salatinvini.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Scheda «Salatin» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=18065754866554142337",
    "etichetta": "maps.google.com"

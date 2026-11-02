@@ -26,8 +26,8 @@
      "valore": "{{https://pianbello.com/|pianbello.com}} [[2]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio per la Tutela dell’Asti [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Consorzio per la Tutela dell’Asti [[2]]\nConsorzio Alta Langa [[3]]"
     }
    ]
   },
@@ -54,6 +54,12 @@
    "testo": "Elenco delle aziende del Consorzio per la Tutela dell’Asti, scheda dell’azienda consultata il 2 novembre 2026.",
    "url": "https://astidocg.it/io-produco-asti-docg/",
    "etichetta": "astidocg.it"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Alta Langa, consultato il 2 novembre 2026.",
+   "url": "https://www.altalangadocg.com/cantine/pianbello/",
+   "etichetta": "altalangadocg.com"
   }
  ]
 }

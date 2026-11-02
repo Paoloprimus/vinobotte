@@ -35,11 +35,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[3]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]\nConsorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]\nConsorzio Tutela Vini DOC Friuli Grave [[5]]\nConsorzio DOC Friuli [[6]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[3]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[4]]\nConsorzio Tutela DOC Delle Venezie [[5]]\nConsorzio Tutela Vini DOC Delle Venezie [[6]]\nConsorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[2]]\nConsorzio Tutela Vini DOC Friuli Grave [[7]]\nConsorzio DOC Friuli [[8]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
-     "valore": "Via Madonna, 27, 33032 Bertiolo Udine; tel. 0432 917434; info@cabert.it; cabert.it [[4]]"
+     "valore": "Via Madonna, 27, 33032 Bertiolo Udine; tel. 0432 917434; info@cabert.it; cabert.it [[6]]"
     }
    ]
   },
@@ -54,7 +54,7 @@
   },
   {
    "titolo": "Vini",
-   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[1]] Elenco dei vini nella scheda del Consorzio, senza denominazione: la scheda indica soltanto il nome del vino, per tipo (bianco, rosso) in base alle icone. L’elenco è lo stesso formato per tutti i soci; la denominazione di ciascun vino va verificata sul sito della cantina [[6]]",
+   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[1]] Elenco dei vini nella scheda del Consorzio, senza denominazione: la scheda indica soltanto il nome del vino, per tipo (bianco, rosso) in base alle icone. L’elenco è lo stesso formato per tutti i soci; la denominazione di ciascun vino va verificata sul sito della cantina [[8]]",
    "tipo": "vini",
    "vini": [
     {
@@ -185,7 +185,7 @@
     {
      "nome": "Pinot Grigio ramato",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[4]]"
+     "annata": "— [[6]]"
     }
    ],
    "righe": []
@@ -204,11 +204,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/vinicabert|vinicabert}}\nInstagram {{https://www.instagram.com/cabert_cantinadibertiolo/|@cabert_cantinadibertiolo}} [[7]]"
+     "valore": "Facebook {{https://www.facebook.com/vinicabert|vinicabert}}\nInstagram {{https://www.instagram.com/cabert_cantinadibertiolo/|@cabert_cantinadibertiolo}} [[9]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.cabert.it/shop/|cabert.it/shop}} [[7]]"
+     "valore": "{{https://www.cabert.it/shop/|cabert.it/shop}} [[9]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -216,7 +216,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=13637489590392947152|Mappa}} — valutazione 4,5 su 5 (73 recensioni) [[8]]"
+     "valore": "{{https://maps.google.com/?cid=13637489590392947152|Mappa}} — valutazione 4,5 su 5 (73 recensioni) [[10]]"
     }
    ]
   }
@@ -243,36 +243,48 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/cabert/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 6,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 5,
+   "n": 7,
    "testo": "Consorzio Tutela Vini DOC Friuli Grave, elenco delle cantine e schede delle singole cantine, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuligrave.com/cantine.html",
    "etichetta": "docfriuligrave.com"
   },
   {
-   "n": 6,
+   "n": 8,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/cabert/",
    "etichetta": "docfriuli.eu"
   },
   {
-   "n": 7,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.cabert.it/",
    "etichetta": "cabert.it"
   },
   {
-   "n": 8,
+   "n": 10,
    "testo": "Scheda «Cabert - Cantina di Bertiolo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=13637489590392947152",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 9,
+   "n": 11,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

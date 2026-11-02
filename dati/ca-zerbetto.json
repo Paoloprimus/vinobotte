@@ -22,8 +22,8 @@
      "valore": "{{https://agriturismocazerbetto.it/|agriturismocazerbetto.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Bardolino D.O.C. [[2]]\nConsorzio Tutela Vino Bardolino DOC [[3]]"
     }
    ]
   },
@@ -41,7 +41,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Bardolino Classico DOC; Chiaretto di Bardolino Classico DOC; Chiaretto di Bardolino Spumante DOC [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Bardolino Classico DOC; Chiaretto di Bardolino Classico DOC; Chiaretto di Bardolino Spumante DOC [[4]]"
     },
     {
      "etichetta": "Denominazioni Bardolino dichiarate",
@@ -85,6 +85,12 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "https://agriturismocazerbetto.it/",
    "etichetta": "agriturismocazerbetto.it"

@@ -6,8 +6,8 @@
    "titolo": "Anagrafica",
    "righe": [
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vino Lessini Durello DOC [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[1]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[2]]\nConsorzio Tutela Vini Colli Berici e Vicenza [[3]]\nConsorzio Volontario per la Tutela dei Vini Gambellara [[4]]"
     }
    ]
   },
@@ -55,6 +55,24 @@
    "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.montilessini.com/produttori-vino-durello/",
    "etichetta": "montilessini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Colli Berici e Vicenza, consultato il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Volontario per la Tutela dei Vini Gambellara, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/",
+   "etichetta": "consorziogambellara.com"
   }
  ]
 }

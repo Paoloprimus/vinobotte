@@ -26,8 +26,8 @@
      "valore": "{{http://www.villagiustiniani.it|www.villagiustiniani.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Vini Asolo Montello [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei soci produttori del Consorzio Vini Asolo Montello [[1]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[3]]"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Asolo Prosecco Superiore DOCG [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Asolo Prosecco Superiore DOCG [[4]]"
     }
    ]
   },
@@ -71,11 +71,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=12133097189836131427|Mappa}} — valutazione 4,9 su 5 (9 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=12133097189836131427|Mappa}} — valutazione 4,9 su 5 (9 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -96,18 +96,24 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.villagiustiniani.it",
    "etichetta": "villagiustiniani.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Villa Giustiniani - Terre dei Cavalieri» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=12133097189836131427",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

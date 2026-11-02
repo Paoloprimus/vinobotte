@@ -26,8 +26,8 @@
      "valore": "{{http://www.casaliaurelia.com|casaliaurelia.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio DOC Friuli [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[2]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[3]]"
     }
    ]
   },
@@ -122,6 +122,12 @@
   {
    "n": 2,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/casali-aurelia/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
    "url": "https://www.docfriuli.eu/aziende/casali-aurelia/",
    "etichetta": "docfriuli.eu"
   }

@@ -22,8 +22,8 @@
      "valore": "{{http://gruppomezzacorona.it|gruppomezzacorona.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio Tutela Vini del Trentino [[2]]\nConsorzio Tutela DOC Delle Venezie [[3]]"
     }
    ]
   },
@@ -63,7 +63,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[4]]"
     }
    ]
   }
@@ -78,6 +78,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini del Trentino, consultato il 2 novembre 2026.",
+   "url": "https://www.winetrentino.it/azienda/nosio/",
+   "etichetta": "vinideltrentino.com"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

@@ -26,8 +26,8 @@
      "valore": "{{https://www.cortealeardi.com/|www.cortealeardi.com}} — raggiungibile al controllo del 29 ottobre 2026"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[3]]"
     }
    ]
   },
@@ -36,44 +36,44 @@
    "righe": [
     {
      "etichetta": "Storia",
-     "valore": "Produce dal 1789 secondo il sito; titolare Carlo Ferrari [[3]]"
+     "valore": "Produce dal 1789 secondo il sito; titolare Carlo Ferrari [[4]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Il sito non riporta le annate nell’elenco. [[3]]",
+   "nota": "Il sito non riporta le annate nell’elenco. [[4]]",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Bure Alto",
      "denominazione": "Amarone della Valpolicella Classico DOCG Riserva",
-     "annata": "— [[3]]"
+     "annata": "— [[4]]"
     },
     {
      "nome": "Montepalà",
      "denominazione": "Amarone della Valpolicella Classico DOCG",
-     "annata": "— [[3]]"
+     "annata": "— [[4]]"
     },
     {
      "nome": "Valpolicella Ripasso",
      "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
-     "annata": "— [[3]]"
+     "annata": "— [[4]]"
     },
     {
      "nome": "Valpolicella Superiore Montepalà",
      "denominazione": "Valpolicella Classico Superiore DOC",
-     "annata": "— [[4]]"
+     "annata": "— [[5]]"
     },
     {
      "nome": "Valpolicella Classico",
      "denominazione": "Valpolicella Classico DOC",
-     "annata": "— [[3]]"
+     "annata": "— [[4]]"
     },
     {
      "nome": "Recioto",
      "denominazione": "Recioto della Valpolicella Classico DOC",
-     "annata": "— [[3]]"
+     "annata": "— [[4]]"
     }
    ]
   },
@@ -82,7 +82,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "World Wine Selections Canada 2020\nThe WineHunter Award 2020 e 2023\nWine Expo Poland 2019\nInternational Wine Challenge 2007\nLivelli non riportati sul sito [[5]]"
+     "valore": "World Wine Selections Canada 2020\nThe WineHunter Award 2020 e 2023\nWine Expo Poland 2019\nInternational Wine Challenge 2007\nLivelli non riportati sul sito [[6]]"
     }
    ]
   },
@@ -91,11 +91,11 @@
    "righe": [
     {
      "etichetta": "Degustazioni",
-     "valore": "Da 1 a 20 persone, con formaggi e salumi locali; Silver 25 € (4 vini) e Gold 33 € (4 vini riserva), con visita; prenotazione via email o telefono [[4]]"
+     "valore": "Da 1 a 20 persone, con formaggi e salumi locali; Silver 25 € (4 vini) e Gold 33 € (4 vini riserva), con visita; prenotazione via email o telefono [[5]]"
     },
     {
      "etichetta": "Altri prodotti",
-     "valore": "Olio extravergine di oliva [[6]]"
+     "valore": "Olio extravergine di oliva [[7]]"
     }
    ]
   },
@@ -112,11 +112,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=12770438853645353252|Mappa}} — valutazione 4,8 su 5 (30 recensioni) [[7]]"
+     "valore": "{{https://maps.google.com/?cid=12770438853645353252|Mappa}} — valutazione 4,8 su 5 (30 recensioni) [[8]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[8]]"
+     "valore": "Presente come produttore [[9]]"
     }
    ]
   }
@@ -137,36 +137,42 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/corte-aleardi-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina «amarone-wine/wines.php».",
    "url": "https://www.cortealeardi.com/amarone-wine/wines.php",
    "etichetta": "cortealeardi.com/amarone-wine/wines.php"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina «amarone-wine/wine-tastings.php».",
    "url": "https://www.cortealeardi.com/amarone-wine/wine-tastings.php",
    "etichetta": "cortealeardi.com/amarone-wine/wine-tastings.php"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina «amarone-wine/news.php?s=awards».",
    "url": "https://www.cortealeardi.com/amarone-wine/news.php?s=awards",
    "etichetta": "cortealeardi.com/amarone-wine/news.php?s=awards"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «amarone-wine/extra-virgin-olive-oil.php».",
    "url": "https://www.cortealeardi.com/amarone-wine/extra-virgin-olive-oil.php",
    "etichetta": "cortealeardi.com/amarone-wine/extra-virgin-olive-oil.php"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Scheda «Azienda Agricola CORTE ALEARDI di Ferrari Carlo e F.lli soc. agr.s.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=12770438853645353252",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

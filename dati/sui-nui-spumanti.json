@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[2]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[2]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -40,7 +44,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Famiglia di viticoltori da quattro generazioni; nel 2015 acquista i vigneti di San Vito di Valdobbiadene (nuova sede) e di Pederobba. [[3]]"
+     "valore": "Famiglia di viticoltori da quattro generazioni; nel 2015 acquista i vigneti di San Vito di Valdobbiadene (nuova sede) e di Pederobba. [[4]]"
     }
    ]
   },
@@ -80,11 +84,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://it-it.facebook.com/suinuiwines|suinuiwines}}\nInstagram {{https://www.instagram.com/suinuiwines/|@suinuiwines}} [[3]]"
+     "valore": "Facebook {{https://it-it.facebook.com/suinuiwines|suinuiwines}}\nInstagram {{https://www.instagram.com/suinuiwines/|@suinuiwines}} [[4]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.suinuispumanti.it/shop|suinuispumanti.it/shop}} [[3]]"
+     "valore": "{{https://www.suinuispumanti.it/shop|suinuispumanti.it/shop}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -92,7 +96,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=119879874090008155|Mappa}} — valutazione 4,2 su 5 (5 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=119879874090008155|Mappa}} — valutazione 4,2 su 5 (5 recensioni) [[5]]"
     }
    ]
   }
@@ -113,12 +117,18 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/sui-nui-spumanti-srl/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.suinuispumanti.it/",
    "etichetta": "suinuispumanti.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Sui Nui Spumanti Società Agricola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=119879874090008155",
    "etichetta": "maps.google.com"

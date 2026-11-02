@@ -22,8 +22,8 @@
      "valore": "{{http://bidolivini.com|bidolivini.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio Tutela DOC Delle Venezie [[2]]"
     }
    ]
   },
@@ -32,7 +32,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Tradizione di vinificazione che il sito fa risalire al 1924, con il cavalier Alessandro Bidoli. [[2]]"
+     "valore": "Tradizione di vinificazione che il sito fa risalire al 1924, con il cavalier Alessandro Bidoli. [[3]]"
     }
    ]
   },
@@ -57,7 +57,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Gambero Rosso: 2 Bicchieri a più vini (annata 2024) [[2]]"
+     "valore": "Gambero Rosso: 2 Bicchieri a più vini (annata 2024) [[3]]"
     }
    ]
   },
@@ -66,11 +66,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/vinibidoli|vinibidoli}}\nInstagram {{https://www.instagram.com/bidolivini/|@bidolivini}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/vinibidoli|vinibidoli}}\nInstagram {{https://www.instagram.com/bidolivini/|@bidolivini}} [[3]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.bidolivini.com/store/_it/|bidolivini.com/store/_it}} [[2]]"
+     "valore": "{{https://www.bidolivini.com/store/_it/|bidolivini.com/store/_it}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -78,11 +78,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=1865443580960949451|Mappa}} — valutazione 4,8 su 5 (48 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=1865443580960949451|Mappa}} — valutazione 4,8 su 5 (48 recensioni) [[4]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[4]]"
+     "valore": "Presente come produttore [[5]]"
     }
    ]
   }
@@ -97,18 +97,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://bidolivini.com",
    "etichetta": "bidolivini.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Bidoli Vini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=1865443580960949451",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

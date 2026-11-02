@@ -26,8 +26,8 @@
      "valore": "{{https://www.vinicanella.com/|www.vinicanella.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[3]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Bardolino D.O.C. [[3]]\nConsorzio Tutela Vino Bardolino DOC [[4]]"
     }
    ]
   },
@@ -75,11 +75,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=4809523585223967097|Mappa}} — valutazione 4,9 su 5 (88 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=4809523585223967097|Mappa}} — valutazione 4,9 su 5 (88 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -106,12 +106,18 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 5,
    "testo": "Scheda «Azienda Agricola Vini Canella» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=4809523585223967097",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

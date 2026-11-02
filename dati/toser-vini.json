@@ -24,6 +24,10 @@
     {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.toservini.com|toservini.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Volontario per la Tutela dei Vini Gambellara [[3]]"
     }
    ]
   },
@@ -147,7 +151,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/ToserVini|ToserVini}}\nInstagram {{https://www.instagram.com/toservini/|@toservini}}\nLinkedIn {{https://www.linkedin.com/company/toser-vini|toser-vini}} [[3]]"
+     "valore": "Facebook {{https://www.facebook.com/ToserVini|ToserVini}}\nInstagram {{https://www.instagram.com/toservini/|@toservini}}\nLinkedIn {{https://www.linkedin.com/company/toser-vini|toser-vini}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -155,7 +159,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=5966927386960428751|Mappa}} — valutazione 4 su 5 (28 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=5966927386960428751|Mappa}} — valutazione 4 su 5 (28 recensioni) [[5]]"
     }
    ]
   }
@@ -176,12 +180,18 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Volontario per la Tutela dei Vini Gambellara, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/",
+   "etichetta": "consorziogambellara.com"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.toservini.com",
    "etichetta": "toservini.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Toser Vini» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=5966927386960428751",
    "etichetta": "maps.google.com"

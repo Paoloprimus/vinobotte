@@ -31,7 +31,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vini Valpolicella [[3]]\nConsorzio Tutela Vino Bardolino D.O.C. [[4]]\nConsorzio Tutela Lugana DOC [[5]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[3]]\nConsorzio Tutela Vino Bardolino DOC [[4]]\nConsorzio Tutela DOC Delle Venezie [[5]]\nConsorzio Tutela Vini Valpolicella [[6]]\nConsorzio Tutela Vino Bardolino D.O.C. [[7]]\nConsorzio Tutela Lugana DOC [[8]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -44,7 +44,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Fondata nel 1968 a Cavaion Veronese (Tinazzi Eugenio & Figli); dal 2014 Poderi Campopian a Sant’Ambrogio di Valpolicella, con cantina di pigiatura; altre sedi in Puglia e Toscana [[6]]"
+     "valore": "Fondata nel 1968 a Cavaion Veronese (Tinazzi Eugenio & Figli); dal 2014 Poderi Campopian a Sant’Ambrogio di Valpolicella, con cantina di pigiatura; altre sedi in Puglia e Toscana [[9]]"
     }
    ]
   },
@@ -53,7 +53,7 @@
    "righe": [
     {
      "etichetta": "Ospitalità",
-     "valore": "Agriturismo sul Garda, in Valpolicella e in Chianti, masseria in Puglia [[7]]"
+     "valore": "Agriturismo sul Garda, in Valpolicella e in Chianti, masseria in Puglia [[10]]"
     }
    ]
   },
@@ -80,14 +80,14 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Il sito del sito non contiene le schede dei vini della Valpolicella; contiene quelle di Puglia (Feudo Croce, Cantine San Giorgio) [[8]]"
+     "valore": "Il sito del sito non contiene le schede dei vini della Valpolicella; contiene quelle di Puglia (Feudo Croce, Cantine San Giorgio) [[11]]"
     },
     {
      "etichetta": "Denominazioni Bardolino dichiarate",
-     "valore": "Bardolino DOC; Chiaretto di Bardolino DOC [[4]]"
+     "valore": "Bardolino DOC; Chiaretto di Bardolino DOC [[7]]"
     }
    ],
-   "nota": "Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[4]]"
+   "nota": "Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[7]]"
   },
   {
    "titolo": "Riconoscimenti",
@@ -103,7 +103,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/CantineTinazzi|CantineTinazzi}}\nInstagram {{https://www.instagram.com/cantine.tinazzi/|@cantine.tinazzi}}\nYouTube {{https://www.youtube.com/channel/UChRN5Izkyk11UITcXuYanEA|canale UChRN5Izkyk11UITcXuYanEA}}\nX {{https://x.com/cantinetinazzi|@cantinetinazzi}}\nLinkedIn {{https://www.linkedin.com/company/casa-vitivinicola-tinazzi|casa-vitivinicola-tinazzi}} [[9]]"
+     "valore": "Facebook {{https://www.facebook.com/CantineTinazzi|CantineTinazzi}}\nInstagram {{https://www.instagram.com/cantine.tinazzi/|@cantine.tinazzi}}\nYouTube {{https://www.youtube.com/channel/UChRN5Izkyk11UITcXuYanEA|canale UChRN5Izkyk11UITcXuYanEA}}\nX {{https://x.com/cantinetinazzi|@cantinetinazzi}}\nLinkedIn {{https://www.linkedin.com/company/casa-vitivinicola-tinazzi|casa-vitivinicola-tinazzi}} [[12]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -111,11 +111,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=7182673590695020104|Mappa}} — valutazione 4,6 su 5 (85 recensioni) [[10]]"
+     "valore": "{{https://maps.google.com/?cid=7182673590695020104|Mappa}} — valutazione 4,6 su 5 (85 recensioni) [[13]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[11]]"
+     "valore": "Presente come produttore [[14]]"
     }
    ]
   }
@@ -136,58 +136,76 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/tinazzi-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 6,
    "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
    "url": "https://www.consorziovalpolicella.it/",
    "etichetta": "consorziovalpolicella.it"
   },
   {
-   "n": 4,
+   "n": 7,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/tinazzi/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 5,
+   "n": 8,
    "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 31 ottobre 2026.",
    "url": "https://www.consorziolugana.it/elenco-aziende/tinazzi",
    "etichetta": "consorziolugana.it"
   },
   {
-   "n": 6,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
    "url": "https://www.tinazzi.it/chi-siamo/",
    "etichetta": "tinazzi.it/chi-siamo"
   },
   {
-   "n": 7,
+   "n": 10,
    "testo": "Sito ufficiale della cantina, pagina «hospitality».",
    "url": "https://www.tinazzi.it/hospitality/",
    "etichetta": "tinazzi.it/hospitality"
   },
   {
-   "n": 8,
+   "n": 11,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/i-marchi-tinazzi».",
    "url": "https://www.tinazzi.it/prodotti/i-marchi-tinazzi/",
    "etichetta": "tinazzi.it/prodotti/i-marchi-tinazzi"
   },
   {
-   "n": 9,
+   "n": 12,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.tinazzi.it/",
    "etichetta": "tinazzi.it"
   },
   {
-   "n": 10,
+   "n": 13,
    "testo": "Scheda «Tinazzi srl» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=7182673590695020104",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 11,
+   "n": 14,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 12,
+   "n": 15,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"

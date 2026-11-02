@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[3]]\nConsorzio Vini Venezia [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[3]]\nConsorzio Tutela DOC Delle Venezie [[4]]\nConsorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Vini Venezia [[5]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -35,7 +35,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
-     "valore": "31040 Salgareda; info@vivocantine.it; denominazioni: Lison Pramaggiore, Piave, Venezia, Lison [[4]]"
+     "valore": "31040 Salgareda; info@vivocantine.it; denominazioni: Lison Pramaggiore, Piave, Venezia, Lison [[5]]"
     }
    ]
   },
@@ -75,7 +75,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=17199137554787639447|Mappa}} — valutazione 4,5 su 5 (4 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=17199137554787639447|Mappa}} — valutazione 4,5 su 5 (4 recensioni) [[6]]"
     }
    ]
   }
@@ -102,12 +102,18 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://www.consorziovinivenezia.it/cantine-associate/",
    "etichetta": "consorziovinivenezia.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Vi.v.o. Cantine» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=17199137554787639447",
    "etichetta": "maps.google.com"

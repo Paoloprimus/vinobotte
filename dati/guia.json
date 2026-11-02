@@ -26,8 +26,8 @@
      "valore": "{{http://www.guia.wine|www.guia.wine}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
     }
    ]
   },
@@ -36,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "L’azienda di Mario Buso nasce negli anni ’80; il sito parla di quattro generazioni a Valdobbiadene. [[2]]"
+     "valore": "L’azienda di Mario Buso nasce negli anni ’80; il sito parla di quattro generazioni a Valdobbiadene. [[3]]"
     }
    ]
   },
@@ -71,11 +71,11 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Decanter 2019 e 2020 [[2]]"
+     "valore": "Decanter 2019 e 2020 [[3]]"
     },
     {
      "etichetta": "Punteggi",
-     "valore": "IWSC: 95 punti all’Incipit 2022 [[2]]"
+     "valore": "IWSC: 95 punti all’Incipit 2022 [[3]]"
     }
    ]
   },
@@ -84,7 +84,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{http://www.facebook.com/guia.prosecco|guia.prosecco}}\nInstagram {{https://www.instagram.com/guia_valdobbiadene/|@guia_valdobbiadene}} [[2]]"
+     "valore": "Facebook {{http://www.facebook.com/guia.prosecco|guia.prosecco}}\nInstagram {{https://www.instagram.com/guia_valdobbiadene/|@guia_valdobbiadene}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -103,12 +103,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/guia/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.guia.wine",
    "etichetta": "guia.wine"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
    "url": "https://www.bereilvino.it/cantina/guia/",
    "etichetta": "bereilvino.it"

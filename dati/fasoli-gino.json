@@ -31,7 +31,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[4]]\nConsorzio Tutela Vino Bardolino D.O.C. [[5]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vino Bardolino DOC [[4]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[5]]\nConsorzio Tutela Vino Bardolino D.O.C. [[6]]"
     }
    ]
   },
@@ -54,7 +54,7 @@
   },
   {
    "titolo": "Vini",
-   "nota": "Etichette dello shop; il sito non riporta le annate. [[2]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[5]]",
+   "nota": "Etichette dello shop; il sito non riporta le annate. [[2]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[6]]",
    "tipo": "vini",
    "vini": [
     {
@@ -76,7 +76,7 @@
    "righe": [
     {
      "etichetta": "Denominazioni Bardolino dichiarate",
-     "valore": "Bardolino DOC; Chiaretto di Bardolino DOC [[5]]"
+     "valore": "Bardolino DOC; Chiaretto di Bardolino DOC [[6]]"
     }
    ]
   },
@@ -107,7 +107,7 @@
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://fasoligino.com/shop|fasoligino.com/shop}} [[6]]"
+     "valore": "{{https://fasoligino.com/shop|fasoligino.com/shop}} [[7]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -115,11 +115,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=4027355295045411302|Mappa}} — valutazione 4,8 su 5 (137 recensioni) [[7]]"
+     "valore": "{{https://maps.google.com/?cid=4027355295045411302|Mappa}} — valutazione 4,8 su 5 (137 recensioni) [[8]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[8]]"
+     "valore": "Presente come produttore [[9]]"
     }
    ]
   }
@@ -146,34 +146,40 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.ilsoave.com/produttori-soave/",
    "etichetta": "ilsoave.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/fasoli-gino/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.fasoligino.com/",
    "etichetta": "fasoligino.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Scheda «Az.Agr.Fasoli Gino» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=4027355295045411302",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"

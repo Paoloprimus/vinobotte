@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Collio [[2]]\nConsorzio Tutela Vini DOC Delle Venezie [[3]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]\nConsorzio Tutela Vini Collio [[3]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]"
     }
    ]
   },
@@ -36,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Cantina cooperativa nata nel 1968 per iniziativa di viticoltori cormonesi. [[4]]"
+     "valore": "Cantina cooperativa nata nel 1968 per iniziativa di viticoltori cormonesi. [[5]]"
     }
    ]
   },
@@ -109,7 +109,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini Collio",
-     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[2]]"
+     "valore": "Il Consorzio rinvia al sito della cantina per l’elenco dei vini; non ancora raccolto [[3]]"
     }
    ]
   },
@@ -118,7 +118,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Falstaff Trophy Friuli Venezia Giulia 2025: ottimi punteggi [[4]]"
+     "valore": "Falstaff Trophy Friuli Venezia Giulia 2025: ottimi punteggi [[5]]"
     }
    ]
   },
@@ -127,11 +127,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/cantina.cormons|cantina.cormons}}\nInstagram {{https://www.instagram.com/cantina_produttori_cormons/|@cantina_produttori_cormons}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/cantina.cormons|cantina.cormons}}\nInstagram {{https://www.instagram.com/cantina_produttori_cormons/|@cantina_produttori_cormons}} [[5]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://shop.cormons.com/|shop.cormons.com}} [[4]]"
+     "valore": "{{https://shop.cormons.com/|shop.cormons.com}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -139,7 +139,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=2886886002230541680|Mappa}} — valutazione 4,4 su 5 (272 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=2886886002230541680|Mappa}} — valutazione 4,4 su 5 (272 recensioni) [[6]]"
     }
    ]
   }
@@ -154,30 +154,36 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/cantina-produttori-cormons/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
    "testo": "Consorzio Tutela Vini Collio, scheda della cantina nell’elenco dei produttori, consultata il 25 ottobre 2026.",
    "url": "https://www.collio.it/cantina/cantina-produttori-cormons/",
    "etichetta": "collio.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.cormons.com",
    "etichetta": "cormons.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Cantina Produttori Cormòns» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=2886886002230541680",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

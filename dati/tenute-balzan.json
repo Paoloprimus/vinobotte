@@ -26,8 +26,8 @@
      "valore": "{{http://www.tenutebalzan.it|www.tenutebalzan.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Vini Asolo Montello [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei soci produttori del Consorzio Vini Asolo Montello [[1]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[2]]"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Asolo Prosecco Superiore DOCG [[2]]"
+     "valore": "Denominazioni DOC e DOCG: Asolo Prosecco Superiore DOCG [[3]]"
     }
    ]
   },
@@ -78,6 +78,12 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.tenutebalzan.it",
    "etichetta": "tenutebalzan.it"

@@ -22,8 +22,8 @@
      "valore": "{{http://www.puiatti.com|puiatti.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio DOC Friuli [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]"
     }
    ]
   },
@@ -32,7 +32,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Cantina attiva «dal 1967». [[2]]"
+     "valore": "Cantina attiva «dal 1967». [[3]]"
     }
    ]
   },
@@ -92,11 +92,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/puiattiwines|puiattiwines}}\nInstagram {{https://www.instagram.com/cantinapuiatti/|@cantinapuiatti}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/puiattiwines|puiattiwines}}\nInstagram {{https://www.instagram.com/cantinapuiatti/|@cantinapuiatti}} [[3]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://shop.puiatti.com/|shop.puiatti.com}} [[2]]"
+     "valore": "{{https://shop.puiatti.com/|shop.puiatti.com}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -104,11 +104,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=8626089295373242939|Mappa}} — valutazione 3,8 su 5 (10 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=8626089295373242939|Mappa}} — valutazione 3,8 su 5 (10 recensioni) [[4]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[4]]"
+     "valore": "Presente come produttore [[5]]"
     }
    ]
   }
@@ -123,18 +123,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/puiatti/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.puiatti.com",
    "etichetta": "puiatti.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Cantina Puiatti» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=8626089295373242939",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

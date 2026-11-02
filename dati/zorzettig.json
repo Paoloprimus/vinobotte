@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[2]]\nConsorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[3]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[2]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[3]]"
     }
    ]
   },
@@ -107,7 +111,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Tre Bicchieri del Gambero Rosso (edizione 2023), citati in rassegna stampa [[4]]"
+     "valore": "Tre Bicchieri del Gambero Rosso (edizione 2023), citati in rassegna stampa [[5]]"
     }
    ]
   },
@@ -116,7 +120,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/ZorzettigVini|ZorzettigVini}}\nInstagram {{https://www.instagram.com/zorzettigvini/|@zorzettigvini}}\nYouTube {{https://www.youtube.com/channel/UCddVBA9GOm3i_hlZSuqcC1Q/videos|canale UCddVBA9GOm3i_hlZSuqcC1Q}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/ZorzettigVini|ZorzettigVini}}\nInstagram {{https://www.instagram.com/zorzettigvini/|@zorzettigvini}}\nYouTube {{https://www.youtube.com/channel/UCddVBA9GOm3i_hlZSuqcC1Q/videos|canale UCddVBA9GOm3i_hlZSuqcC1Q}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -124,11 +128,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=13917688800072187974|Mappa}} — valutazione 4,9 su 5 (243 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=13917688800072187974|Mappa}} — valutazione 4,9 su 5 (243 recensioni) [[6]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[7]]"
     }
    ]
   }
@@ -155,22 +159,28 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/zorzettig/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.zorzettigvini.it",
    "etichetta": "zorzettigvini.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Zorzettig» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=13917688800072187974",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

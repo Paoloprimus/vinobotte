@@ -26,8 +26,8 @@
      "valore": "{{http://www.ilfollo.it/|www.ilfollo.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
     }
    ]
   },
@@ -36,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Follador da molte generazioni a Valdobbiadene; oggi Vittorio con i figli Luca, Maria e Marta. [[2]]"
+     "valore": "Follador da molte generazioni a Valdobbiadene; oggi Vittorio con i figli Luca, Maria e Marta. [[3]]"
     }
    ]
   },
@@ -88,7 +88,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/agriturismoilfollo|agriturismoilfollo}}\nInstagram {{https://www.instagram.com/agriturismoilfollo/|@agriturismoilfollo}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/agriturismoilfollo|agriturismoilfollo}}\nInstagram {{https://www.instagram.com/agriturismoilfollo/|@agriturismoilfollo}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -96,7 +96,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=826584289400323401|Mappa}} — valutazione 4,7 su 5 (44 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=826584289400323401|Mappa}} — valutazione 4,7 su 5 (44 recensioni) [[4]]"
     }
    ]
   }
@@ -111,18 +111,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/il-follo/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.ilfollo.it/",
    "etichetta": "ilfollo.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Il Follo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=826584289400323401",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
    "url": "https://www.bereilvino.it/cantina/il-follo/",
    "etichetta": "bereilvino.it"

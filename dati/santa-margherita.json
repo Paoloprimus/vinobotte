@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Vini Venezia [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Tutela Vini del Trentino [[4]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[5]]\nConsorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Vini Venezia [[6]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -35,7 +35,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
-     "valore": "30025 Fossalta di Portogruaro; santamargherita@santamargherita.com; denominazioni: Lison Pramaggiore, Venezia, Lison [[4]]"
+     "valore": "30025 Fossalta di Portogruaro; santamargherita@santamargherita.com; denominazioni: Lison Pramaggiore, Venezia, Lison [[6]]"
     }
    ]
   },
@@ -100,11 +100,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=11166953241598159892|Mappa}} — valutazione 4,6 su 5 (88 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=11166953241598159892|Mappa}} — valutazione 4,6 su 5 (88 recensioni) [[7]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[8]]"
     }
    ]
   }
@@ -131,18 +131,30 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini del Trentino, consultato il 2 novembre 2026.",
+   "url": "https://www.winetrentino.it/azienda/santa-margherita/",
+   "etichetta": "vinideltrentino.com"
+  },
+  {
+   "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/santa-margherita/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 6,
    "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://www.consorziovinivenezia.it/cantine-associate/",
    "etichetta": "consorziovinivenezia.it"
   },
   {
-   "n": 5,
+   "n": 7,
    "testo": "Scheda «Santa Margherita» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=11166953241598159892",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 8,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

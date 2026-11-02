@@ -27,11 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vino Lessini Durello DOC [[3]]\nConsorzio Tutela Vino Custoza DOC [[4]]\nConsorzio Tutela Vino Bardolino D.O.C. [[5]]\nConsorzio Tutela Lugana DOC [[6]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[3]]\nConsorzio Tutela Vino Lessini Durello DOC [[4]]\nConsorzio Tutela Vino Custoza DOC [[5]]\nConsorzio Tutela Vino Bardolino D.O.C. [[6]]\nConsorzio Tutela Lugana DOC [[7]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Custoza",
-     "valore": "Caprino Veronese (VR); tel. 045 728 1301; montezovo.com [[4]]"
+     "valore": "Caprino Veronese (VR); tel. 045 728 1301; montezovo.com [[5]]"
     }
    ]
   },
@@ -40,59 +40,59 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Famiglia al lavoro con il vino dal 1925 [[7]]"
+     "valore": "Famiglia al lavoro con il vino dal 1925 [[8]]"
     },
     {
      "etichetta": "Tenute",
-     "valore": "Tenuta dell’Anfiteatro, Tenuta Le Civaie, Tenuta Marnebianche (Amarone a 450 m, località Zovolo, Valpolicella orientale) [[7]] [[8]]"
+     "valore": "Tenuta dell’Anfiteatro, Tenuta Le Civaie, Tenuta Marnebianche (Amarone a 450 m, località Zovolo, Valpolicella orientale) [[8]] [[9]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche Bardolino, Lugana, Soave, Lessini Durello, Garda e altri. [[9]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[5]] Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate.",
+   "nota": "Solo i vini a denominazione Valpolicella; la cantina produce anche Bardolino, Lugana, Soave, Lessini Durello, Garda e altri. [[10]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[6]] Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate.",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Amarone della Valpolicella",
      "denominazione": "Amarone della Valpolicella DOCG",
-     "annata": "2020 [[10]]"
+     "annata": "2020 [[11]]"
     },
     {
      "nome": "Amarone Magnum",
      "denominazione": "Amarone della Valpolicella DOCG (1,5 l)",
-     "annata": "2018 [[11]]"
+     "annata": "2018 [[12]]"
     },
     {
      "nome": "Amarone Riserva",
      "denominazione": "Amarone della Valpolicella DOCG Riserva",
-     "annata": "2018 [[12]]"
+     "annata": "2018 [[13]]"
     },
     {
      "nome": "Ripasso Superiore",
      "denominazione": "Valpolicella Ripasso Superiore DOC",
-     "annata": "2023 [[13]]"
+     "annata": "2023 [[14]]"
     },
     {
      "nome": "Recioto",
      "denominazione": "Recioto della Valpolicella DOCG",
-     "annata": "2022 [[14]]"
+     "annata": "2022 [[15]]"
     },
     {
      "nome": "Lessini Durello 36 mesi",
      "denominazione": "Lessini Durello",
-     "annata": "— [[9]]"
+     "annata": "— [[10]]"
     },
     {
      "nome": "Lessini Durello 72 mesi",
      "denominazione": "Lessini Durello",
-     "annata": "— [[9]]"
+     "annata": "— [[10]]"
     }
    ],
    "righe": [
     {
      "etichetta": "Denominazioni Bardolino dichiarate",
-     "valore": "Chiaretto di Bardolino DOC; Chiaretto di Bardolino spumante DOC; Montebaldo Bardolino DOC; Sottozone di Bardolino [[5]]"
+     "valore": "Chiaretto di Bardolino DOC; Chiaretto di Bardolino spumante DOC; Montebaldo Bardolino DOC; Sottozone di Bardolino [[6]]"
     }
    ]
   },
@@ -101,11 +101,11 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Amarone 2020: Gambero Rosso 3 Bicchieri, AIS Vitae 4 Tralci, Civiltà del Bere medaglia d’oro [[10]]"
+     "valore": "Amarone 2020: Gambero Rosso 3 Bicchieri, AIS Vitae 4 Tralci, Civiltà del Bere medaglia d’oro [[11]]"
     },
     {
      "etichetta": "Punteggi",
-     "valore": "Amarone 2020: Doctor Wine 95, James Suckling 94, Falstaff 94, Luca Maroni 94 [[10]]"
+     "valore": "Amarone 2020: Doctor Wine 95, James Suckling 94, Falstaff 94, Luca Maroni 94 [[11]]"
     }
    ]
   },
@@ -114,7 +114,7 @@
    "righe": [
     {
      "etichetta": "Accoglienza",
-     "valore": "Wine shop (lun–sab 9:30–18:30), terrazza La Terrazza (giovedì–sabato), tour e degustazioni, eventi privati [[2]] [[15]]"
+     "valore": "Wine shop (lun–sab 9:30–18:30), terrazza La Terrazza (giovedì–sabato), tour e degustazioni, eventi privati [[2]] [[16]]"
     }
    ]
   },
@@ -123,27 +123,27 @@
    "righe": [
     {
      "etichetta": "Sito",
-     "valore": "montezovo.com con negozio online (spedizione gratuita sopra 70 €)\nInstagram e Facebook collegati [[9]]"
+     "valore": "montezovo.com con negozio online (spedizione gratuita sopra 70 €)\nInstagram e Facebook collegati [[10]]"
     },
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/MonteZovo|MonteZovo}}\nInstagram {{https://www.instagram.com/montezovowinery/|@montezovowinery}} [[16]]"
+     "valore": "Facebook {{https://www.facebook.com/MonteZovo|MonteZovo}}\nInstagram {{https://www.instagram.com/montezovowinery/|@montezovowinery}} [[17]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "Presente [[9]]"
+     "valore": "Presente [[10]]"
     },
     {
      "etichetta": "Piattaforme",
-     "valore": "Instagram\nFacebook [[7]]\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+     "valore": "Instagram\nFacebook [[8]]\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=8769539505036163543|Mappa}} — valutazione 4,8 su 5 (98 recensioni) [[17]]"
+     "valore": "{{https://maps.google.com/?cid=8769539505036163543|Mappa}} — valutazione 4,8 su 5 (98 recensioni) [[18]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[18]]"
+     "valore": "Presente come produttore [[19]]"
     }
    ]
   }
@@ -164,100 +164,106 @@
   },
   {
    "n": 3,
-   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
    "url": "https://www.montilessini.com/produttori-vino-durello/",
    "etichetta": "montilessini.com"
   },
   {
    "n": 4,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026.",
    "url": "https://www.vinocustoza.it/",
    "etichetta": "vinocustoza.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/az-agricola-montezovo/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 31 ottobre 2026.",
    "url": "https://www.consorziolugana.it/elenco-aziende/monte-zovo",
    "etichetta": "consorziolugana.it"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina iniziale.",
    "url": "https://www.montezovo.com/",
    "etichetta": "montezovo.com"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina «3-territori/tenuta-marnebianche».",
    "url": "https://www.montezovo.com/3-territori/tenuta-marnebianche/",
    "etichetta": "montezovo.com/3-territori/tenuta-marnebianche"
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Sito ufficiale della cantina, pagina «i-vini».",
    "url": "https://www.montezovo.com/i-vini/",
    "etichetta": "montezovo.com/i-vini"
   },
   {
-   "n": 10,
+   "n": 11,
    "testo": "Sito ufficiale della cantina, pagina «prodotto/amarone-della-valpolicella-2020».",
    "url": "https://www.montezovo.com/prodotto/amarone-della-valpolicella-2020/",
    "etichetta": "montezovo.com/prodotto/amarone-della-valpolicella-2020"
   },
   {
-   "n": 11,
+   "n": 12,
    "testo": "Sito ufficiale della cantina, pagina «prodotto/amarone-magnum-2019».",
    "url": "https://www.montezovo.com/prodotto/amarone-magnum-2019/",
    "etichetta": "montezovo.com/prodotto/amarone-magnum-2019"
   },
   {
-   "n": 12,
+   "n": 13,
    "testo": "Sito ufficiale della cantina, pagina «prodotto/amarone-riserva-2018».",
    "url": "https://www.montezovo.com/prodotto/amarone-riserva-2018/",
    "etichetta": "montezovo.com/prodotto/amarone-riserva-2018"
   },
   {
-   "n": 13,
+   "n": 14,
    "testo": "Sito ufficiale della cantina, pagina «prodotto/ripasso-superiore-2023».",
    "url": "https://www.montezovo.com/prodotto/ripasso-superiore-2023/",
    "etichetta": "montezovo.com/prodotto/ripasso-superiore-2023"
   },
   {
-   "n": 14,
+   "n": 15,
    "testo": "Sito ufficiale della cantina, pagina «prodotto/recioto-2022».",
    "url": "https://www.montezovo.com/prodotto/recioto-2022/",
    "etichetta": "montezovo.com/prodotto/recioto-2022"
   },
   {
-   "n": 15,
+   "n": 16,
    "testo": "Sito ufficiale della cantina, pagina «accoglienza/eventi-privati».",
    "url": "https://www.montezovo.com/accoglienza/eventi-privati/",
    "etichetta": "montezovo.com/accoglienza/eventi-privati"
   },
   {
-   "n": 16,
+   "n": 17,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.montezovo.com/",
    "etichetta": "montezovo.com"
   },
   {
-   "n": 17,
+   "n": 18,
    "testo": "Scheda «Azienda Agricola Monte Zovo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=8769539505036163543",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 18,
+   "n": 19,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 19,
+   "n": 20,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"

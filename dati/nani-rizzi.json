@@ -26,8 +26,8 @@
      "valore": "{{http://www.nanirizzi.it|www.nanirizzi.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
     }
    ]
   },
@@ -36,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "La storia inizia nel 1887 con Giovanni Spagnol, detto Nani Rizzi. [[2]]"
+     "valore": "La storia inizia nel 1887 con Giovanni Spagnol, detto Nani Rizzi. [[3]]"
     }
    ]
   },
@@ -79,7 +79,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "IWSC: medaglia d’argento a uno spumante Extra Brut DOCG [[2]]"
+     "valore": "IWSC: medaglia d’argento a uno spumante Extra Brut DOCG [[3]]"
     }
    ]
   },
@@ -88,7 +88,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/nani.rizzi.valdobbiadene|nani.rizzi.valdobbiadene}}\nInstagram {{https://www.instagram.com/nani_rizzi_valdobbiadene/|@nani_rizzi_valdobbiadene}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/nani.rizzi.valdobbiadene|nani.rizzi.valdobbiadene}}\nInstagram {{https://www.instagram.com/nani_rizzi_valdobbiadene/|@nani_rizzi_valdobbiadene}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -96,11 +96,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=5395142406702601410|Mappa}} — valutazione 4,9 su 5 (510 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=5395142406702601410|Mappa}} — valutazione 4,9 su 5 (510 recensioni) [[4]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[4]]"
+     "valore": "Presente come produttore [[5]]"
     }
    ]
   }
@@ -115,18 +115,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/nani-rizzi/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.nanirizzi.it",
    "etichetta": "nanirizzi.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Nani Rizzi Spumanti di Valdobbiadene» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=5395142406702601410",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vino Bardolino D.O.C. [[3]]\nConsorzio Tutela Vino Custoza DOC [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vino Bardolino DOC [[3]]\nConsorzio Tutela Vino Bardolino D.O.C. [[4]]\nConsorzio Tutela Vino Custoza DOC [[5]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -35,7 +35,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Custoza",
-     "valore": "Quinto (VR); tel. 045 550 032; cantinavalpantena.it [[4]]"
+     "valore": "Quinto (VR); tel. 045 550 032; cantinavalpantena.it [[5]]"
     }
    ]
   },
@@ -80,7 +80,7 @@
    "righe": [
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://shop.cantinediverona.it/|shop.cantinediverona.it}} [[5]]"
+     "valore": "{{https://shop.cantinediverona.it/|shop.cantinediverona.it}} [[6]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -88,7 +88,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[7]]"
     }
    ]
   }
@@ -109,24 +109,30 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026.",
    "url": "https://www.vinocustoza.it/",
    "etichetta": "vinocustoza.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.cantinediverona.it/it/cantine/cantina-valpantena",
    "etichetta": "cantinediverona.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

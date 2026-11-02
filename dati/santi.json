@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio Tutela Vino Bardolino D.O.C. [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio Tutela Vino Bardolino DOC [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[4]]"
     }
    ]
   },
@@ -36,25 +40,25 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Secondo il sito, Santi è attiva dal 1843 con fondazione a Illasi e fa parte del Gruppo Italiano Vini [[4]]"
+     "valore": "Secondo il sito, Santi è attiva dal 1843 con fondazione a Illasi e fa parte del Gruppo Italiano Vini [[5]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Solo il vino a denominazione Soave; la cantina produce anche Valpolicella, Amarone, Bardolino e altri vini. Il sito non riporta le annate. [[5]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[3]]",
+   "nota": "Solo il vino a denominazione Soave; la cantina produce anche Valpolicella, Amarone, Bardolino e altri vini. Il sito non riporta le annate. [[6]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[4]]",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Colforte",
      "denominazione": "Soave Classico DOC",
-     "annata": "— [[5]]"
+     "annata": "— [[6]]"
     }
    ],
    "righe": [
     {
      "etichetta": "Denominazioni Bardolino dichiarate",
-     "valore": "Bardolino DOC; Chiaretto di Bardolino DOC [[3]]"
+     "valore": "Bardolino DOC; Chiaretto di Bardolino DOC [[4]]"
     }
    ]
   },
@@ -63,7 +67,7 @@
    "righe": [
     {
      "etichetta": "Premi e punteggi",
-     "valore": "Non presenti per i vini Soave nelle pagine lette [[5]]"
+     "valore": "Non presenti per i vini Soave nelle pagine lette [[6]]"
     }
    ]
   },
@@ -72,7 +76,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Instagram {{https://www.instagram.com/gruppoitalianovini/|@gruppoitalianovini}}\nLinkedIn {{https://www.linkedin.com/company/gruppoitalianovini|gruppoitalianovini}} [[6]]"
+     "valore": "Instagram {{https://www.instagram.com/gruppoitalianovini/|@gruppoitalianovini}}\nLinkedIn {{https://www.linkedin.com/company/gruppoitalianovini|gruppoitalianovini}} [[7]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -80,11 +84,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=6111910190259737180|Mappa}} — valutazione 4,7 su 5 (44 recensioni) [[7]]"
+     "valore": "{{https://maps.google.com/?cid=6111910190259737180|Mappa}} — valutazione 4,7 su 5 (44 recensioni) [[8]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[8]]"
+     "valore": "Presente come produttore [[9]]"
     }
    ]
   }
@@ -105,46 +109,52 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/santi/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina «cantinasanti.it/it», consultata il 24 ottobre 2026.",
    "url": "https://www.cantinasanti.it/it",
    "etichetta": "cantinasanti.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina «cantinasanti.it/it/vini», consultata il 24 ottobre 2026.",
    "url": "https://www.cantinasanti.it/it/vini",
    "etichetta": "cantinasanti.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.gruppoitalianovini.it/index.cfm/it/brand/santi/",
    "etichetta": "gruppoitalianovini.it"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Scheda «Santi - Gruppo Italiano Vini S.P.A.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=6111910190259737180",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 10,
+   "n": 11,
    "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.ilsoave.com/produttori-soave/",
    "etichetta": "ilsoave.com"

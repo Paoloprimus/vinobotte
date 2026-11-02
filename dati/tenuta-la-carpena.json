@@ -26,8 +26,8 @@
      "valore": "{{http://www.tenutalacarpena.it|www.tenutalacarpena.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Vini Asolo Montello [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei soci produttori del Consorzio Vini Asolo Montello [[1]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[2]]"
     }
    ]
   },
@@ -36,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Nel 2015 definisce i punti di forza del terreno e mette a dimora le viti. [[2]]"
+     "valore": "Nel 2015 definisce i punti di forza del terreno e mette a dimora le viti. [[3]]"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Asolo Prosecco Superiore DOCG; Recantina Asolo Montello DOC [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Asolo Prosecco Superiore DOCG; Recantina Asolo Montello DOC [[4]]"
     }
    ]
   },
@@ -63,11 +63,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/tenutalacarpena-108276668063225|tenutalacarpena-108276668063225}}\nInstagram {{https://www.instagram.com/tenutalacarpena/|@tenutalacarpena}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/tenutalacarpena-108276668063225|tenutalacarpena-108276668063225}}\nInstagram {{https://www.instagram.com/tenutalacarpena/|@tenutalacarpena}} [[3]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.tenutalacarpena.it/en/shop/|tenutalacarpena.it/en/shop}} [[2]]"
+     "valore": "{{https://www.tenutalacarpena.it/en/shop/|tenutalacarpena.it/en/shop}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -75,7 +75,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=5490316739585763873|Mappa}} — valutazione 5 su 5 (7 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=5490316739585763873|Mappa}} — valutazione 5 su 5 (7 recensioni) [[5]]"
     }
    ]
   }
@@ -90,18 +90,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.tenutalacarpena.it",
    "etichetta": "tenutalacarpena.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.tenutalacarpena.it",
    "etichetta": "tenutalacarpena.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Tenuta La Carpena» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=5490316739585763873",
    "etichetta": "maps.google.com"

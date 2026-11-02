@@ -26,8 +26,8 @@
      "valore": "{{http://www.daponte.it/|www.daponte.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
     }
    ]
   },
@@ -36,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Il sito indica «dal 1892»: Andrea fonda la distilleria a Conegliano nel 1892. [[2]]"
+     "valore": "Il sito indica «dal 1892»: Andrea fonda la distilleria a Conegliano nel 1892. [[3]]"
     }
    ]
   },
@@ -80,11 +80,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://it-it.facebook.com/distilleria.andreadaponte|distilleria.andreadaponte}}\nInstagram {{https://www.instagram.com/distilleria.andreadaponte/|@distilleria.andreadaponte}}\nYouTube {{https://www.youtube.com/user/DistilleriaDaPonte|DistilleriaDaPonte}} [[2]]"
+     "valore": "Facebook {{https://it-it.facebook.com/distilleria.andreadaponte|distilleria.andreadaponte}}\nInstagram {{https://www.instagram.com/distilleria.andreadaponte/|@distilleria.andreadaponte}}\nYouTube {{https://www.youtube.com/user/DistilleriaDaPonte|DistilleriaDaPonte}} [[3]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://daponte.it/shop|daponte.it/shop}} [[2]]"
+     "valore": "{{https://daponte.it/shop|daponte.it/shop}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -92,7 +92,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[3]]"
+     "valore": "Presente come produttore [[4]]"
     }
    ]
   }
@@ -107,12 +107,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/andrea-da-ponte/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.daponte.it/",
    "etichetta": "daponte.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

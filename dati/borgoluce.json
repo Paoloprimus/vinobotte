@@ -35,7 +35,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[2]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[4]]\nConsorzio Tutela DOC Delle Venezie [[5]]\nConsorzio di Tutela della DOC Prosecco [[2]]\nConsorzio Tutela Vini DOC Delle Venezie [[6]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -43,7 +43,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
-     "valore": "Località Musile, 2 -Susegana (Treviso); tel. 0438 435287; info@borgoluce.it; borgoluce.it [[4]]"
+     "valore": "Località Musile, 2 -Susegana (Treviso); tel. 0438 435287; info@borgoluce.it; borgoluce.it [[6]]"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "nome": "Pinot Grigio",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[4]]"
+     "annata": "— [[6]]"
     }
    ],
    "tipo": "vini"
@@ -120,11 +120,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/borgoluce|borgoluce}}\nInstagram {{https://www.instagram.com/borgoluce/|@borgoluce}} [[5]]"
+     "valore": "Facebook {{https://www.facebook.com/borgoluce|borgoluce}}\nInstagram {{https://www.instagram.com/borgoluce/|@borgoluce}} [[7]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://borgoluce.it/en/shop/|borgoluce.it/en/shop}} [[5]]"
+     "valore": "{{https://borgoluce.it/en/shop/|borgoluce.it/en/shop}} [[7]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -132,11 +132,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=9357107302262283569|Mappa}} — valutazione 4,7 su 5 (170 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=9357107302262283569|Mappa}} — valutazione 4,7 su 5 (170 recensioni) [[8]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[7]]"
+     "valore": "Presente come produttore [[9]]"
     }
    ]
   }
@@ -163,24 +163,36 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/borgoluce/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 6,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 5,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.borgoluce.it",
    "etichetta": "borgoluce.it"
   },
   {
-   "n": 6,
+   "n": 8,
    "testo": "Scheda «Vineria Borgoluce» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=9357107302262283569",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
+   "n": 9,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

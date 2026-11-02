@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Decordi del Borgo Imperiale Vinicola – Cortesole Spa","s":"decordi-del-borgo-imperiale-vinicola-cortesole-spa","c":"Motta Baluffi","d":["Delle Venezie"]},{"n":"La Cantina dei Feudi","s":"la-cantina-dei-feudi","c":"Palazzago","d":["Delle Venezie"]}];
+    const D=[{"n":"Decordi del Borgo Imperiale Vinicola – Cortesole Spa","s":"decordi-del-borgo-imperiale-vinicola-cortesole-spa","c":"Motta Baluffi","d":["Delle Venezie"]},{"n":"La Cantina dei Feudi","s":"la-cantina-dei-feudi","c":"Palazzago","d":["Delle Venezie"]},{"n":"Natale Verga Casa Vinicola","s":"natale-verga-casa-vinicola","c":"Cermenate","d":["delle Venezie"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');

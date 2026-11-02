@@ -23,7 +23,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vino Custoza DOC [[2]]\nConsorzio Tutela Vino Bardolino D.O.C. [[3]]"
+     "valore": "Compare nell’elenco dei soci del Consorzio Tutela Vino Custoza DOC [[2]]\nConsorzio Tutela Vino Bardolino DOC [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[4]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Custoza",
@@ -68,11 +72,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/poggiodellegrazie|poggiodellegrazie}}\nInstagram {{https://www.instagram.com/poggiodellegrazie/|@poggiodellegrazie}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/poggiodellegrazie|poggiodellegrazie}}\nInstagram {{https://www.instagram.com/poggiodellegrazie/|@poggiodellegrazie}} [[5]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.poggiodellegrazie.it/wineshop/|poggiodellegrazie.it/wineshop}} [[4]]"
+     "valore": "{{https://www.poggiodellegrazie.it/wineshop/|poggiodellegrazie.it/wineshop}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -80,7 +84,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=15357068887175699241|Mappa}} — valutazione 4,8 su 5 (144 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=15357068887175699241|Mappa}} — valutazione 4,8 su 5 (144 recensioni) [[6]]"
     }
    ]
   }
@@ -101,18 +105,24 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.poggiodellegrazie.it",
    "etichetta": "poggiodellegrazie.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «POGGIO delle GRAZIE» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=15357068887175699241",
    "etichetta": "maps.google.com"

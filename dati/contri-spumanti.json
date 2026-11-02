@@ -22,8 +22,8 @@
      "valore": "{{http://contrispumanti.com|contrispumanti.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[2]]\nConsorzio Tutela DOC Delle Venezie [[3]]"
     }
    ]
   },
@@ -32,7 +32,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Legata al fondatore Luciano Contri, classe 1938, di Cazzano di Tramigna. [[2]]"
+     "valore": "Legata al fondatore Luciano Contri, classe 1938, di Cazzano di Tramigna. [[4]]"
     }
    ]
   },
@@ -50,7 +50,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Berliner Wine Trophy, China Wine & Spirits Awards, Decanter, Five Stars Wines, IWSC, IWC, Luca Maroni, Mundus Vini, Vinitaly e altri [[2]]"
+     "valore": "Berliner Wine Trophy, China Wine & Spirits Awards, Decanter, Five Stars Wines, IWSC, IWC, Luca Maroni, Mundus Vini, Vinitaly e altri [[4]]"
     }
    ]
   },
@@ -63,7 +63,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=11640545837769805511|Mappa}} — valutazione 4 su 5 (94 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=11640545837769805511|Mappa}} — valutazione 4 su 5 (94 recensioni) [[5]]"
     }
    ]
   }
@@ -78,12 +78,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/contri-spumanti-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://contrispumanti.com",
    "etichetta": "contrispumanti.com"
   },
   {
-   "n": 3,
+   "n": 5,
    "testo": "Scheda «Contri Spumanti Spa» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=11640545837769805511",
    "etichetta": "maps.google.com"

@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio di Tutela della DOC Prosecco [[2]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[3]]"
     }
    ]
   },
@@ -45,7 +49,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Prosecco DOC; Friuli DOC; Delle Venezie DOC [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Prosecco DOC; Friuli DOC; Delle Venezie DOC [[4]]"
     }
    ]
   },
@@ -63,11 +67,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://it-it.facebook.com/people/Lorenzonetto-cav-Guido-Vini-spumanti/100032849422268|Lorenzonetto-cav-Guido-Vini-spumanti}} [[4]]"
+     "valore": "Facebook {{https://it-it.facebook.com/people/Lorenzonetto-cav-Guido-Vini-spumanti/100032849422268|Lorenzonetto-cav-Guido-Vini-spumanti}} [[5]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.c-and-a.com/it/it/shop/vini-friuli-guida|c-and-a.com/it/it/shop/vini-friuli-guida}} [[4]]"
+     "valore": "{{https://www.c-and-a.com/it/it/shop/vini-friuli-guida|c-and-a.com/it/it/shop/vini-friuli-guida}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -75,7 +79,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=10978636384452751163|Mappa}} — valutazione 4,7 su 5 (390 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=10978636384452751163|Mappa}} — valutazione 4,7 su 5 (390 recensioni) [[6]]"
     }
    ]
   }
@@ -90,24 +94,30 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/lorenzonetto/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
    "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
    "url": "https://www.prosecco.wine/produttori/",
    "etichetta": "prosecco.wine"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.lorenzonetto.it",
    "etichetta": "lorenzonetto.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.lorenzonetto.it",
    "etichetta": "lorenzonetto.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Lorenzonetto Cav. Guido Azienda Vini &Spumanti» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=10978636384452751163",
    "etichetta": "maps.google.com"

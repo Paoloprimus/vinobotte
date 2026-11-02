@@ -31,7 +31,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[4]]\nConsorzio Tutela Vino Lessini Durello DOC [[5]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[4]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[5]]\nConsorzio Tutela Vino Lessini Durello DOC [[6]]"
     }
    ]
   },
@@ -40,113 +40,113 @@
    "righe": [
     {
      "etichetta": "Storia",
-     "valore": "Vigneti sulle colline di Terrossa dalla fine dell’800 con Antonio e il padre Daniele (1888); oggi la famiglia con Antonio Fattori [[6]]"
+     "valore": "Vigneti sulle colline di Terrossa dalla fine dell’800 con Antonio e il padre Daniele (1888); oggi la famiglia con Antonio Fattori [[7]]"
     },
     {
      "etichetta": "Vigneti",
-     "valore": "Amarone da vigneto di 16,5 ettari a Bastia (Montecchia di Crosara), a 450 m, coltivazione biologica [[7]]"
+     "valore": "Amarone da vigneto di 16,5 ettari a Bastia (Montecchia di Crosara), a 450 m, coltivazione biologica [[8]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Il sito non riporta le annate. [[8]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate. Solo i vini a denominazione Soave e Recioto di Soave; la cantina produce anche altri vini (Valpolicella, Lugana, Friuli). [[9]]",
+   "nota": "Il sito non riporta le annate. [[9]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate. Solo i vini a denominazione Soave e Recioto di Soave; la cantina produce anche altri vini (Valpolicella, Lugana, Friuli). [[10]]",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Amarone della Valpolicella",
      "denominazione": "Amarone della Valpolicella DOCG",
-     "annata": "— [[10]]"
+     "annata": "— [[11]]"
     },
     {
      "nome": "Fattori Riserva",
      "denominazione": "Amarone della Valpolicella DOCG",
-     "annata": "— [[8]]"
+     "annata": "— [[9]]"
     },
     {
      "nome": "Ripasso Superiore",
      "denominazione": "Valpolicella Ripasso Superiore DOC",
-     "annata": "— [[11]]"
+     "annata": "— [[12]]"
     },
     {
      "nome": "Valpolicella Superiore",
      "denominazione": "Valpolicella Superiore DOC",
-     "annata": "— [[12]]"
+     "annata": "— [[13]]"
     },
     {
      "nome": "Col de la Bastia",
      "denominazione": "Valpolicella DOC",
-     "annata": "— [[8]]"
+     "annata": "— [[9]]"
     },
     {
      "nome": "Motto Piane",
      "denominazione": "Recioto della Valpolicella DOCG",
-     "annata": "— [[13]]"
+     "annata": "— [[14]]"
     },
     {
      "nome": "Runcaris",
      "denominazione": "Soave Classico DOC",
-     "annata": "— [[14]]"
+     "annata": "— [[15]]"
     },
     {
      "nome": "Danieli",
      "denominazione": "Soave DOC",
-     "annata": "— [[15]]"
+     "annata": "— [[16]]"
     },
     {
      "nome": "Motto Piane",
      "denominazione": "Soave DOC",
-     "annata": "— [[16]]"
+     "annata": "— [[17]]"
     },
     {
      "nome": "Sarah’s",
      "denominazione": "Lugana DOC",
-     "annata": "— [[17]]"
+     "annata": "— [[18]]"
     },
     {
      "nome": "36 Brut",
      "denominazione": "Lessini Durello DOC",
-     "annata": "— [[18]]"
+     "annata": "— [[19]]"
     },
     {
      "nome": "60 Pas Dosé",
      "denominazione": "Lessini Durello DOC",
-     "annata": "— [[19]]"
+     "annata": "— [[20]]"
     },
     {
      "nome": "Brut",
      "denominazione": "Lessini Durello DOC",
-     "annata": "— [[20]]"
+     "annata": "— [[21]]"
     },
     {
      "nome": "36 Brut Durello",
      "denominazione": "Lessini Durello DOC",
-     "annata": "— [[18]]"
+     "annata": "— [[19]]"
     },
     {
      "nome": "60 Pas Dosé Durello",
      "denominazione": "Lessini Durello DOC",
-     "annata": "— [[19]]"
+     "annata": "— [[20]]"
     },
     {
      "nome": "Brut Durello",
      "denominazione": "Metodo Classico (denominazione non indicata)",
-     "annata": "— [[20]]"
+     "annata": "— [[21]]"
     },
     {
      "nome": "Danieli",
-     "denominazione": "Soave Roncà Monte Calvarina DOC",
-     "annata": "— [[15]]"
-    },
-    {
-     "nome": "Motto Piane",
      "denominazione": "Soave Roncà Monte Calvarina DOC",
      "annata": "— [[16]]"
     },
     {
      "nome": "Motto Piane",
+     "denominazione": "Soave Roncà Monte Calvarina DOC",
+     "annata": "— [[17]]"
+    },
+    {
+     "nome": "Motto Piane",
      "denominazione": "Recioto di Soave DOCG",
-     "annata": "— [[13]]"
+     "annata": "— [[14]]"
     }
    ]
   },
@@ -155,7 +155,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Amarone Riserva: 5 Grappoli Bibenda per la decima volta (news dell’11-09-2026) [[21]]"
+     "valore": "Amarone Riserva: 5 Grappoli Bibenda per la decima volta (news dell’11-09-2026) [[22]]"
     }
    ]
   },
@@ -164,7 +164,7 @@
    "righe": [
     {
      "etichetta": "Sito",
-     "valore": "fattoriwines.com con schede PDF dei vini e certificazione SQNPI [[14]]"
+     "valore": "fattoriwines.com con schede PDF dei vini e certificazione SQNPI [[15]]"
     },
     {
      "etichetta": "Social",
@@ -176,11 +176,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=11671121959214050555|Mappa}} — valutazione 4,8 su 5 (21 recensioni) [[22]]"
+     "valore": "{{https://maps.google.com/?cid=11671121959214050555|Mappa}} — valutazione 4,8 su 5 (21 recensioni) [[23]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[23]]"
+     "valore": "Presente come produttore [[24]]"
     }
    ]
   }
@@ -207,120 +207,126 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.ilsoave.com/produttori-soave/",
    "etichetta": "ilsoave.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.montilessini.com/produttori-vino-durello/",
    "etichetta": "montilessini.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «2».",
    "url": "https://fattoriwines.com/2",
    "etichetta": "fattoriwines.com/2"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/2/4/18».",
    "url": "https://fattoriwines.com/prodotti/2/4/18",
    "etichetta": "fattoriwines.com/prodotti/2/4/18"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/categoria/2/4».",
    "url": "https://fattoriwines.com/prodotti/categoria/2/4",
    "etichetta": "fattoriwines.com/prodotti/categoria/2/4"
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/categoria/2/3».",
    "url": "https://fattoriwines.com/prodotti/categoria/2/3",
    "etichetta": "fattoriwines.com/prodotti/categoria/2/3"
   },
   {
-   "n": 10,
+   "n": 11,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/2/4/7».",
    "url": "https://fattoriwines.com/prodotti/2/4/7",
    "etichetta": "fattoriwines.com/prodotti/2/4/7"
   },
   {
-   "n": 11,
+   "n": 12,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/2/4/10».",
    "url": "https://fattoriwines.com/prodotti/2/4/10",
    "etichetta": "fattoriwines.com/prodotti/2/4/10"
   },
   {
-   "n": 12,
+   "n": 13,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/2/4/16».",
    "url": "https://fattoriwines.com/prodotti/2/4/16",
    "etichetta": "fattoriwines.com/prodotti/2/4/16"
   },
   {
-   "n": 13,
+   "n": 14,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/2/3/24».",
    "url": "https://fattoriwines.com/prodotti/2/3/24",
    "etichetta": "fattoriwines.com/prodotti/2/3/24"
   },
   {
-   "n": 14,
+   "n": 15,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/2/3/12».",
    "url": "https://fattoriwines.com/prodotti/2/3/12",
    "etichetta": "fattoriwines.com/prodotti/2/3/12"
   },
   {
-   "n": 15,
+   "n": 16,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/2/3/20».",
    "url": "https://fattoriwines.com/prodotti/2/3/20",
    "etichetta": "fattoriwines.com/prodotti/2/3/20"
   },
   {
-   "n": 16,
+   "n": 17,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/2/3/25».",
    "url": "https://fattoriwines.com/prodotti/2/3/25",
    "etichetta": "fattoriwines.com/prodotti/2/3/25"
   },
   {
-   "n": 17,
+   "n": 18,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/2/3/9».",
    "url": "https://fattoriwines.com/prodotti/2/3/9",
    "etichetta": "fattoriwines.com/prodotti/2/3/9"
   },
   {
-   "n": 18,
+   "n": 19,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/2/7/14».",
    "url": "https://fattoriwines.com/prodotti/2/7/14",
    "etichetta": "fattoriwines.com/prodotti/2/7/14"
   },
   {
-   "n": 19,
+   "n": 20,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/2/7/8».",
    "url": "https://fattoriwines.com/prodotti/2/7/8",
    "etichetta": "fattoriwines.com/prodotti/2/7/8"
   },
   {
-   "n": 20,
+   "n": 21,
    "testo": "Sito ufficiale della cantina, pagina «prodotti/2/7/22».",
    "url": "https://fattoriwines.com/prodotti/2/7/22",
    "etichetta": "fattoriwines.com/prodotti/2/7/22"
   },
   {
-   "n": 21,
+   "n": 22,
    "testo": "Sito ufficiale della cantina, pagina «news/amarone-riserva-10-volte-5-grappoli-bibenda».",
    "url": "https://fattoriwines.com/news/amarone-riserva-10-volte-5-grappoli-bibenda",
    "etichetta": "fattoriwines.com/news/amarone-riserva-10-volte-5-grappoli-bibenda"
   },
   {
-   "n": 22,
+   "n": 23,
    "testo": "Scheda «Società Agricola Fattori s.s.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=11671121959214050555",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 23,
+   "n": 24,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

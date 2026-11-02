@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini DOC Friuli Grave [[3]]\nConsorzio di Tutela della DOC Prosecco [[4]]\nConsorzio Tutela Vini DOC Delle Venezie [[5]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[3]]\nConsorzio Tutela DOC Delle Venezie [[4]]\nConsorzio Tutela Vini DOC Friuli Grave [[5]]\nConsorzio di Tutela della DOC Prosecco [[6]]\nConsorzio Tutela Vini DOC Delle Venezie [[7]]"
     }
    ]
   },
@@ -130,7 +130,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=16216945162386955501|Mappa}} — valutazione 4,8 su 5 (319 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=16216945162386955501|Mappa}} — valutazione 4,8 su 5 (319 recensioni) [[8]]"
     }
    ]
   }
@@ -151,36 +151,48 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/pitars/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Tutela Vini DOC Friuli Grave, elenco delle cantine e schede delle singole cantine, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuligrave.com/cantine.html",
    "etichetta": "docfriuligrave.com"
   },
   {
-   "n": 4,
+   "n": 6,
    "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
    "url": "https://www.prosecco.wine/produttori/",
    "etichetta": "prosecco.wine"
   },
   {
-   "n": 5,
+   "n": 7,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 6,
+   "n": 8,
    "testo": "Scheda «Pitars» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=16216945162386955501",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
+   "n": 9,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"
   },
   {
-   "n": 8,
+   "n": 10,
    "testo": "Bere il Vino, scheda della cantina (sito di terzi, non della cantina), consultata il 25 ottobre 2026.",
    "url": "https://www.bereilvino.it/cantina/pitars/",
    "etichetta": "bereilvino.it"

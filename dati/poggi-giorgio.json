@@ -26,8 +26,8 @@
      "valore": "{{https://www.cantinepoggi.com|cantinepoggi.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[2]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Bardolino D.O.C. [[2]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[3]]\nConsorzio Tutela Vino Bardolino DOC [[4]]"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Amarone della Valpolicella Classico DOCG; Valpolicella Ripasso Classico Superiore DOC; Bardolino Superiore DOCG; Valpolicella Classico DOC; Bardolino Classico DOC; Chiaretto di Bardolino DOC [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Amarone della Valpolicella Classico DOCG; Valpolicella Ripasso Classico Superiore DOC; Bardolino Superiore DOCG; Valpolicella Classico DOC; Bardolino Classico DOC; Chiaretto di Bardolino DOC [[5]]"
     },
     {
      "etichetta": "Denominazioni Bardolino dichiarate",
@@ -72,7 +72,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=17286096455789465908|Mappa}} — valutazione 4,3 su 5 (18 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=17286096455789465908|Mappa}} — valutazione 4,3 su 5 (18 recensioni) [[6]]"
     }
    ]
   }
@@ -93,12 +93,24 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/poggi-giorgio-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "https://www.cantinepoggi.com",
    "etichetta": "cantinepoggi.com"
   },
   {
-   "n": 4,
+   "n": 6,
    "testo": "Scheda «Cantine Poggi» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=17286096455789465908",
    "etichetta": "maps.google.com"

@@ -22,8 +22,8 @@
      "valore": "{{http://ildominiodibagnoli.it|ildominiodibagnoli.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio Tutela DOC Delle Venezie [[2]]"
     }
    ]
   },
@@ -41,7 +41,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Friularo di Bagnoli DOCG; Friularo di Bagnoli Passito DOCG; Bagnoli DOC; Prosecco DOC [[2]]"
+     "valore": "Denominazioni DOC e DOCG: Friularo di Bagnoli DOCG; Friularo di Bagnoli Passito DOCG; Bagnoli DOC; Prosecco DOC [[3]]"
     }
    ]
   },
@@ -59,11 +59,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/dominiodibagnoli.it|dominiodibagnoli.it}}\nInstagram {{https://www.instagram.com/dominiodibagnoli/|@dominiodibagnoli}}\nYouTube {{https://youtu.be/-h10jaXjJYQ|-h10jaXjJYQ}} [[3]]"
+     "valore": "Facebook {{https://www.facebook.com/dominiodibagnoli.it|dominiodibagnoli.it}}\nInstagram {{https://www.instagram.com/dominiodibagnoli/|@dominiodibagnoli}}\nYouTube {{https://youtu.be/-h10jaXjJYQ|-h10jaXjJYQ}} [[4]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.ildominiodibagnoli.it/shop/|ildominiodibagnoli.it/shop}} [[3]]"
+     "valore": "{{https://www.ildominiodibagnoli.it/shop/|ildominiodibagnoli.it/shop}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -71,7 +71,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=8652248122010838324|Mappa}} — valutazione 4,6 su 5 (185 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=8652248122010838324|Mappa}} — valutazione 4,6 su 5 (185 recensioni) [[5]]"
     }
    ]
   }
@@ -86,18 +86,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://ildominiodibagnoli.it",
    "etichetta": "ildominiodibagnoli.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://ildominiodibagnoli.it",
    "etichetta": "ildominiodibagnoli.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Dominio di Bagnoli S.S. di Lorenzo Borletti e C.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=8652248122010838324",
    "etichetta": "maps.google.com"

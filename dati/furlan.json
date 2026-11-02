@@ -31,7 +31,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[2]]\nConsorzio di Tutela della DOC Prosecco [[3]]\nConsorzio Vini Venezia [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[2]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio di Tutela della DOC Prosecco [[4]]\nConsorzio Vini Venezia [[5]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -39,7 +39,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
-     "valore": "31020 San Vendemiano; info@furlanvini.com; denominazioni: Venezia [[4]]"
+     "valore": "31020 San Vendemiano; info@furlanvini.com; denominazioni: Venezia [[5]]"
     }
    ]
   },
@@ -104,7 +104,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/furlanvini.societaagricola|furlanvini.societaagricola}}\nInstagram {{https://www.instagram.com/furlan.vini/|@furlan.vini}} [[5]]"
+     "valore": "Facebook {{https://www.facebook.com/furlanvini.societaagricola|furlanvini.societaagricola}}\nInstagram {{https://www.instagram.com/furlan.vini/|@furlan.vini}} [[6]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -112,7 +112,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=14488315530495978306|Mappa}} — valutazione 4,8 su 5 (78 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=14488315530495978306|Mappa}} — valutazione 4,8 su 5 (78 recensioni) [[7]]"
     }
    ]
   }
@@ -133,24 +133,30 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/furlan/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
    "url": "https://www.prosecco.wine/produttori/",
    "etichetta": "prosecco.wine"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://www.consorziovinivenezia.it/cantine-associate/",
    "etichetta": "consorziovinivenezia.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.furlanvini.com/",
    "etichetta": "furlanvini.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «FURLAN VINI» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=14488315530495978306",
    "etichetta": "maps.google.com"

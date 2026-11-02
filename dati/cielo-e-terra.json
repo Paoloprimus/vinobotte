@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[2]]\nConsorzio Tutela Vini DOC Delle Venezie [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[2]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[3]]\nConsorzio Tutela Vini Colli Berici e Vicenza [[4]]\nConsorzio Volontario per la Tutela dei Vini Gambellara [[5]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[6]]"
     },
     {
      "etichetta": "Dati nella mappa del Consorzio Prosecco DOC",
@@ -39,7 +43,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
-     "valore": "Via IV Novembre, 39 - Montorso Vicentino; tel. 0444 686134; info@cieloeterravini.com; cieloeterravini.com [[3]]"
+     "valore": "Via IV Novembre, 39 - Montorso Vicentino; tel. 0444 686134; info@cieloeterravini.com; cieloeterravini.com [[6]]"
     }
    ]
   },
@@ -118,7 +122,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Instagram {{https://www.instagram.com/cielo_e_terra_vini/|@cielo_e_terra_vini}}\nLinkedIn {{https://it.linkedin.com/company/cielo-e-terra-s.p.a.|cielo-e-terra-s.p.a.}} [[4]]"
+     "valore": "Instagram {{https://www.instagram.com/cielo_e_terra_vini/|@cielo_e_terra_vini}}\nLinkedIn {{https://it.linkedin.com/company/cielo-e-terra-s.p.a.|cielo-e-terra-s.p.a.}} [[7]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -126,11 +130,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=14356420581671119654|Mappa}} — valutazione 4,4 su 5 (104 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=14356420581671119654|Mappa}} — valutazione 4,4 su 5 (104 recensioni) [[8]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[9]]"
     }
    ]
   }
@@ -151,24 +155,42 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/cielo-e-terra-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Colli Berici e Vicenza, consultato il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  },
+  {
+   "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Volontario per la Tutela dei Vini Gambellara, consultato il 2 novembre 2026.",
+   "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/",
+   "etichetta": "consorziogambellara.com"
+  },
+  {
+   "n": 6,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 4,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.cieloeterravini.com/",
    "etichetta": "cieloeterravini.com"
   },
   {
-   "n": 5,
+   "n": 8,
    "testo": "Scheda «Cielo e Terra S.p.A» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=14356420581671119654",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 9,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

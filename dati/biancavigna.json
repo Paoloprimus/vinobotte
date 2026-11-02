@@ -35,7 +35,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[2]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[4]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela della DOC Prosecco [[2]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -140,7 +144,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Tre Bicchieri, Gambero Rosso Vini d’Italia 2025: Conegliano Valdobbiadene Rive di Ogliano Extra Brut 2023 [[4]]"
+     "valore": "Tre Bicchieri, Gambero Rosso Vini d’Italia 2025: Conegliano Valdobbiadene Rive di Ogliano Extra Brut 2023 [[5]]"
     }
    ]
   },
@@ -149,7 +153,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/biancavignaprosecco|biancavignaprosecco}}\nInstagram {{https://www.instagram.com/biancavigna_prosecco/|@biancavigna_prosecco}}\nYouTube {{https://www.youtube.com/channel/UCS98adGBbgV26AvYN8D3DKQ|canale UCS98adGBbgV26AvYN8D3DKQ}} [[5]]"
+     "valore": "Facebook {{https://www.facebook.com/biancavignaprosecco|biancavignaprosecco}}\nInstagram {{https://www.instagram.com/biancavigna_prosecco/|@biancavigna_prosecco}}\nYouTube {{https://www.youtube.com/channel/UCS98adGBbgV26AvYN8D3DKQ|canale UCS98adGBbgV26AvYN8D3DKQ}} [[6]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -157,11 +161,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=14604063667801236401|Mappa}} — valutazione 5 su 5 (61 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=14604063667801236401|Mappa}} — valutazione 5 su 5 (61 recensioni) [[7]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[7]]"
+     "valore": "Presente come produttore [[8]]"
     }
    ]
   }
@@ -188,24 +192,30 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/biancavigna/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 5,
    "testo": "Gambero Rosso International, articolo «Prosecco Superiore: the 8 best selected by Gambero Rosso» (sito di terzi, non della cantina), consultato il 25 ottobre 2026.",
    "url": "https://www.gamberorossointernational.com/news/prosecco-superiore-the-8-best-selected-by-gambero-rosso/",
    "etichetta": "gamberorossointernational.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.biancavigna.it/",
    "etichetta": "biancavigna.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «BiancaVigna» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=14604063667801236401",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

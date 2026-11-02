@@ -31,15 +31,15 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[4]]\nConsorzio Tutela Vino Lessini Durello DOC [[5]]\nConsorzio Tutela Vino Custoza DOC [[6]]\nConsorzio Tutela Vini DOC Delle Venezie [[7]]\nConsorzio Tutela Vino Bardolino D.O.C. [[8]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[4]]\nConsorzio Tutela Vino Bardolino DOC [[5]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[6]]\nConsorzio Tutela Vini Colli Berici e Vicenza [[7]]\nConsorzio Tutela DOC Delle Venezie [[8]]\nConsorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vino Lessini Durello DOC [[9]]\nConsorzio Tutela Vino Custoza DOC [[10]]\nConsorzio Tutela Vini DOC Delle Venezie [[11]]\nConsorzio Tutela Vino Bardolino D.O.C. [[12]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Custoza",
-     "valore": "Soave (VR); tel. 045 613 98 11; cantinasoave.it [[6]]"
+     "valore": "Soave (VR); tel. 045 613 98 11; cantinasoave.it [[10]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
-     "valore": "Viale della Vittoria, 128 - 37038 Soave (VR); tel. 045 6139811; cantina@cantinasoave.it; cantinasoave.it [[7]]"
+     "valore": "Viale della Vittoria, 128 - 37038 Soave (VR); tel. 045 6139811; cantina@cantinasoave.it; cantinasoave.it [[11]]"
     }
    ]
   },
@@ -48,148 +48,148 @@
    "righe": [
     {
      "etichetta": "Natura",
-     "valore": "Gruppo vitivinicolo nato nel 1898, con cantine a Soave (1898), Illasi (1938), Montecchia di Crosara (1958), Borgo Rocca Sveva (2003) e Terre al Lago (2019) [[9]]"
+     "valore": "Gruppo vitivinicolo nato nel 1898, con cantine a Soave (1898), Illasi (1938), Montecchia di Crosara (1958), Borgo Rocca Sveva (2003) e Terre al Lago (2019) [[13]]"
     },
     {
      "etichetta": "Denominazioni",
-     "valore": "Soave, Valpolicella e Durello [[9]]"
+     "valore": "Soave, Valpolicella e Durello [[13]]"
     },
     {
      "etichetta": "Marchi",
-     "valore": "Cadis, Rocca Sveva, Poesie, Cantina di Illasi, Rocca Alata, Cantina di Montecchia, Equipe 5, Maximilian I, Predom [[10]]"
+     "valore": "Cadis, Rocca Sveva, Poesie, Cantina di Illasi, Rocca Alata, Cantina di Montecchia, Equipe 5, Maximilian I, Predom [[14]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Solo i vini a denominazione Soave e Recioto di Soave; il gruppo produce molte altre denominazioni. Il sito non riporta le annate. [[11]] Gruppo con più marchi; qui solo le etichette Valpolicella indicate sul sito, senza annate. [[10]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[8]] Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate.",
+   "nota": "Solo i vini a denominazione Soave e Recioto di Soave; il gruppo produce molte altre denominazioni. Il sito non riporta le annate. [[15]] Gruppo con più marchi; qui solo le etichette Valpolicella indicate sul sito, senza annate. [[14]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[12]] Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate.",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Cadis",
      "denominazione": "Soave DOC",
-     "annata": "— [[12]]"
+     "annata": "— [[16]]"
     },
     {
      "nome": "Cadis",
      "denominazione": "Recioto di Soave Classico DOCG",
-     "annata": "— [[11]]"
+     "annata": "— [[15]]"
     },
     {
      "nome": "Poesie",
      "denominazione": "Soave Classico DOC",
-     "annata": "— [[11]]"
+     "annata": "— [[15]]"
     },
     {
      "nome": "Poesie",
      "denominazione": "Soave DOC",
-     "annata": "— [[11]]"
+     "annata": "— [[15]]"
     },
     {
      "nome": "Rocca Sveva",
      "denominazione": "Soave Classico DOC",
-     "annata": "— [[11]]"
+     "annata": "— [[15]]"
     },
     {
      "nome": "Rocca Sveva Castelcerino",
      "denominazione": "Soave Classico DOC",
-     "annata": "— [[13]]"
+     "annata": "— [[17]]"
     },
     {
      "nome": "Rocca Alata",
-     "denominazione": "Soave Classico DOC",
-     "annata": "— [[10]]"
-    },
-    {
-     "nome": "Rocca Alata",
-     "denominazione": "Recioto di Soave Classico DOCG",
-     "annata": "— [[10]]"
-    },
-    {
-     "nome": "San Lorenzo (Cantina di Illasi)",
      "denominazione": "Soave Classico DOC",
      "annata": "— [[14]]"
     },
     {
+     "nome": "Rocca Alata",
+     "denominazione": "Recioto di Soave Classico DOCG",
+     "annata": "— [[14]]"
+    },
+    {
+     "nome": "San Lorenzo (Cantina di Illasi)",
+     "denominazione": "Soave Classico DOC",
+     "annata": "— [[18]]"
+    },
+    {
      "nome": "Rubitondo",
      "denominazione": "Amarone della Valpolicella DOCG",
-     "annata": "— [[15]]"
+     "annata": "— [[19]]"
     },
     {
      "nome": "Campobrun",
      "denominazione": "Valpolicella Ripasso Superiore DOC",
-     "annata": "— [[15]]"
+     "annata": "— [[19]]"
     },
     {
      "nome": "La Rotonda",
      "denominazione": "Valpolicella Superiore DOC",
-     "annata": "— [[15]]"
+     "annata": "— [[19]]"
     },
     {
      "nome": "Rocca Sveva",
      "denominazione": "Amarone della Valpolicella DOCG Riserva",
-     "annata": "— [[13]]"
+     "annata": "— [[17]]"
     },
     {
      "nome": "Rocca Sveva",
      "denominazione": "Valpolicella Ripasso Superiore DOC",
-     "annata": "— [[13]]"
+     "annata": "— [[17]]"
     },
     {
      "nome": "Cadis",
      "denominazione": "Recioto della Valpolicella DOCG",
-     "annata": "— [[10]]"
+     "annata": "— [[14]]"
     },
     {
      "nome": "Rocca Alata",
      "denominazione": "Amarone della Valpolicella DOCG",
-     "annata": "— [[10]]"
+     "annata": "— [[14]]"
     },
     {
      "nome": "Pinot Grigio Cadis",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[7]]"
+     "annata": "— [[11]]"
     },
     {
      "nome": "Pinot Grigio Poesie",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[7]]"
+     "annata": "— [[11]]"
     },
     {
      "nome": "Pinot Grigio Poesie ramato",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[7]]"
+     "annata": "— [[11]]"
     },
     {
      "nome": "733",
      "denominazione": "Lessini Durello DOC",
-     "annata": "— [[13]]"
+     "annata": "— [[17]]"
     },
     {
      "nome": "Montecletha",
      "denominazione": "Lessini Durello DOC Riserva Nature",
-     "annata": "— [[13]]"
+     "annata": "— [[17]]"
     },
     {
      "nome": "Collineri",
      "denominazione": "Monti Lessini DOC",
-     "annata": "— [[13]]"
+     "annata": "— [[17]]"
     },
     {
      "nome": "Maximilian I",
      "denominazione": "Lessini Durello DOC",
-     "annata": "— [[16]]"
+     "annata": "— [[20]]"
     },
     {
      "nome": "Maximilian I (Metodo Classico)",
      "denominazione": "Monti Lessini DOC – Metodo Classico",
-     "annata": "— [[16]]"
+     "annata": "— [[20]]"
     }
    ],
    "righe": [
     {
      "etichetta": "Denominazioni Bardolino dichiarate",
-     "valore": "Chiaretto di Bardolino DOC [[8]]"
+     "valore": "Chiaretto di Bardolino DOC [[12]]"
     }
    ]
   },
@@ -220,7 +220,7 @@
    "righe": [
     {
      "etichetta": "Sito",
-     "valore": "cadis1898.it con shop online [[12]]"
+     "valore": "cadis1898.it con shop online [[16]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -228,7 +228,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=12690064088739819007|Mappa}} — valutazione 4,4 su 5 (174 recensioni) [[17]]"
+     "valore": "{{https://maps.google.com/?cid=12690064088739819007|Mappa}} — valutazione 4,4 su 5 (174 recensioni) [[21]]"
     }
    ]
   }
@@ -261,84 +261,108 @@
   },
   {
    "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 6,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 7,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Colli Berici e Vicenza, consultato il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  },
+  {
+   "n": 8,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 9,
    "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.montilessini.com/produttori-vino-durello/",
    "etichetta": "montilessini.com"
   },
   {
-   "n": 6,
+   "n": 10,
    "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026.",
    "url": "https://www.vinocustoza.it/",
    "etichetta": "vinocustoza.it"
   },
   {
-   "n": 7,
+   "n": 11,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 8,
+   "n": 12,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/cadis-1898/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 9,
+   "n": 13,
    "testo": "Sito ufficiale della cantina, pagina «chi-siamo».",
    "url": "https://cadis1898.it/chi-siamo/",
    "etichetta": "cadis1898.it/chi-siamo"
   },
   {
-   "n": 10,
+   "n": 14,
    "testo": "Sito ufficiale della cantina, pagina «vini».",
    "url": "https://cadis1898.it/vini/",
    "etichetta": "cadis1898.it/vini"
   },
   {
-   "n": 11,
+   "n": 15,
    "testo": "Sito ufficiale della cantina, pagina «vini/?e-filter-0371505-post_tag=bianco».",
    "url": "https://cadis1898.it/vini/?e-filter-0371505-post_tag=bianco",
    "etichetta": "cadis1898.it/vini/?e-filter-0371505-post_tag=bianco"
   },
   {
-   "n": 12,
+   "n": 16,
    "testo": "Sito ufficiale della cantina, pagina iniziale.",
    "url": "https://cadis1898.it/",
    "etichetta": "cadis1898.it"
   },
   {
-   "n": 13,
+   "n": 17,
    "testo": "Sito ufficiale della cantina, pagina «etichette/cantina-di-montecchia».",
    "url": "https://cadis1898.it/etichette/cantina-di-montecchia/",
    "etichetta": "cadis1898.it/etichette/cantina-di-montecchia"
   },
   {
-   "n": 14,
+   "n": 18,
    "testo": "Sito ufficiale della cantina, pagina «etichette/cantina-di-illasi/san-lorenzo-soave-classico-doc».",
    "url": "https://cadis1898.it/etichette/cantina-di-illasi/san-lorenzo-soave-classico-doc/",
    "etichetta": "cadis1898.it/etichette/cantina-di-illasi/san-lorenzo-soave-classico-doc"
   },
   {
-   "n": 15,
+   "n": 19,
    "testo": "Sito ufficiale della cantina, pagina «etichette/cantina-di-illasi».",
    "url": "https://cadis1898.it/etichette/cantina-di-illasi/",
    "etichetta": "cadis1898.it/etichette/cantina-di-illasi"
   },
   {
-   "n": 16,
+   "n": 20,
    "testo": "Sito ufficiale della cantina, pagina «vini/?e-filter-0371505-post_tag=spumante».",
    "url": "https://cadis1898.it/vini/?e-filter-0371505-post_tag=spumante",
    "etichetta": "cadis1898.it/vini/?e-filter-0371505-post_tag=spumante"
   },
   {
-   "n": 17,
+   "n": 21,
    "testo": "Scheda «Cantina di Soave» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=12690064088739819007",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 18,
+   "n": 22,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"

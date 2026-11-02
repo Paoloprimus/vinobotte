@@ -30,6 +30,7 @@ python3 -I rifusione/applica_consorzio_lugana.py
 python3 -I rifusione/applica_consorzio_merlara.py
 python3 -I rifusione/applica_consorzio_acqui.py
 python3 -I rifusione/applica_consorzio_gavi.py
+python3 -I rifusione/applica_consorzi_gen.py
 python3 -I rifusione/dividi_fornacelle.py
 python3 -I rifusione/completa_bolgheri.py
 python3 -I rifusione/unisci_doppioni.py

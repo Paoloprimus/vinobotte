@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Vini Venezia [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[3]]\nConsorzio Vini Asolo Montello [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[3]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[4]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[5]]\nConsorzio Tutela DOC Delle Venezie [[6]]\nConsorzio Vini Venezia [[1]]\nConsorzio Vini Asolo Montello [[7]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -35,7 +35,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Asolo Montello",
-     "valore": "Via Bigolo, 26, 35010 Trebaseleghe (PD); tel. 049 5796405; info@domusvini.eu; domusvini.eu [[4]]"
+     "valore": "Via Bigolo, 26, 35010 Trebaseleghe (PD); tel. 049 5796405; info@domusvini.eu; domusvini.eu [[7]]"
     }
    ]
   },
@@ -75,7 +75,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=24931303544533772|Mappa}} — valutazione 4,5 su 5 (36 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=24931303544533772|Mappa}} — valutazione 4,5 su 5 (36 recensioni) [[8]]"
     }
    ]
   }
@@ -102,12 +102,30 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/domus-vini-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 5,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 6,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 7,
    "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.asolomontello.it/i-soci-produttori/",
    "etichetta": "asolomontello.it"
   },
   {
-   "n": 5,
+   "n": 8,
    "testo": "Scheda «Domus Vini S.R.L.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=24931303544533772",
    "etichetta": "maps.google.com"

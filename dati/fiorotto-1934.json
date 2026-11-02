@@ -26,8 +26,8 @@
      "valore": "{{http://www.fiorottowine.it|www.fiorottowine.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Vini Asolo Montello [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei soci produttori del Consorzio Vini Asolo Montello [[1]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[2]]"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Prosecco DOC Treviso; Asolo Prosecco Superiore DOCG; Recantina Asolo Montello DOC; Prosecco DOC [[2]]"
+     "valore": "Denominazioni DOC e DOCG: Prosecco DOC Treviso; Asolo Prosecco Superiore DOCG; Recantina Asolo Montello DOC; Prosecco DOC [[3]]"
     }
    ]
   },
@@ -63,11 +63,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/fiorottowine|fiorottowine}}\nInstagram {{https://www.instagram.com/fiorotto1934/|@fiorotto1934}} [[3]]"
+     "valore": "Facebook {{https://www.facebook.com/fiorottowine|fiorottowine}}\nInstagram {{https://www.instagram.com/fiorotto1934/|@fiorotto1934}} [[4]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://www.fiorottowine.it/shop|fiorottowine.it/shop}} [[3]]"
+     "valore": "{{https://www.fiorottowine.it/shop|fiorottowine.it/shop}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -75,7 +75,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=1892327210823599521|Mappa}} — valutazione 5 su 5 (22 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=1892327210823599521|Mappa}} — valutazione 5 su 5 (22 recensioni) [[5]]"
     }
    ]
   }
@@ -90,18 +90,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.fiorottowine.it",
    "etichetta": "fiorottowine.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.fiorottowine.it",
    "etichetta": "fiorottowine.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Azienda Agricola FIOROTTO» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=1892327210823599521",
    "etichetta": "maps.google.com"

@@ -39,7 +39,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[2]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Vini Venezia [[4]]\nConsorzio Vini Asolo Montello [[5]]\nConsorzio Tutela Vini DOC Delle Venezie [[6]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[4]]\nConsorzio di Tutela della DOC Prosecco [[2]]\nConsorzio Vini Venezia [[5]]\nConsorzio Vini Asolo Montello [[6]]\nConsorzio Tutela Vini DOC Delle Venezie [[7]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Conegliano Valdobbiadene",
@@ -51,11 +51,11 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Asolo Montello",
-     "valore": "Via Crevada, 31030 Refrontolo (TV); tel. 0423 6699; info@astoria.it; astoria.it [[5]]"
+     "valore": "Via Crevada, 31030 Refrontolo (TV); tel. 0423 6699; info@astoria.it; astoria.it [[6]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
-     "valore": "Via Crevada S/N - 31020 Refrontolo (TV); tel. 0423 6699; info@astoria.it; astoria.it [[6]]"
+     "valore": "Via Crevada S/N - 31020 Refrontolo (TV); tel. 0423 6699; info@astoria.it; astoria.it [[7]]"
     },
     {
      "etichetta": "Dati nella mappa del Consorzio Prosecco DOC",
@@ -63,7 +63,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
-     "valore": "31035 Crocetta del Montello; info@astoria.it; denominazioni: Venezia [[4]]"
+     "valore": "31035 Crocetta del Montello; info@astoria.it; denominazioni: Venezia [[5]]"
     }
    ]
   },
@@ -206,7 +206,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=14717352724538996059|Mappa}} — valutazione 4,2 su 5 (48 recensioni) [[7]]"
+     "valore": "{{https://maps.google.com/?cid=14717352724538996059|Mappa}} — valutazione 4,2 su 5 (48 recensioni) [[8]]"
     }
    ]
   }
@@ -233,24 +233,30 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://www.consorziovinivenezia.it/cantine-associate/",
    "etichetta": "consorziovinivenezia.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.asolomontello.it/i-soci-produttori/",
    "etichetta": "asolomontello.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Scheda «A.C. Srl - Astoria Vini (Uffici)» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=14717352724538996059",
    "etichetta": "maps.google.com"

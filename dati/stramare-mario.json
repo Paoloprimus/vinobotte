@@ -22,8 +22,8 @@
      "valore": "{{http://www.stramare.com/|www.stramare.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
     }
    ]
   },
@@ -41,7 +41,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Valdobbiadene Prosecco Superiore DOCG; Valdobbiadene Prosecco DOCG; Treviso Prosecco DOC [[2]]"
+     "valore": "Denominazioni DOC e DOCG: Valdobbiadene Prosecco Superiore DOCG; Valdobbiadene Prosecco DOCG; Treviso Prosecco DOC [[3]]"
     }
    ]
   },
@@ -59,7 +59,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/ColdeRoer|ColdeRoer}}\nInstagram {{https://www.instagram.com/colderoer/|@colderoer}} [[3]]"
+     "valore": "Facebook {{https://www.facebook.com/ColdeRoer|ColdeRoer}}\nInstagram {{https://www.instagram.com/colderoer/|@colderoer}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -78,12 +78,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/stramare-mario/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.stramare.com/",
    "etichetta": "stramare.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.stramare.com/",
    "etichetta": "stramare.com"

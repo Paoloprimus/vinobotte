@@ -31,7 +31,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Vini Venezia [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]\nConsorzio Vini Asolo Montello [[5]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[4]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[5]]\nConsorzio Tutela DOC Delle Venezie [[6]]\nConsorzio Vini Venezia [[1]]\nConsorzio Vini Asolo Montello [[7]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -39,7 +39,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Asolo Montello",
-     "valore": "Via Cal trevigiana, 51, 31040 Volpago del Montello (TV); tel. 0423 8777; montelvini.it [[5]]"
+     "valore": "Via Cal trevigiana, 51, 31040 Volpago del Montello (TV); tel. 0423 8777; montelvini.it [[7]]"
     }
    ]
   },
@@ -90,7 +90,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[8]]"
     }
    ]
   }
@@ -123,12 +123,24 @@
   },
   {
    "n": 5,
-   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
    "url": "https://www.asolomontello.it/i-soci-produttori/",
    "etichetta": "asolomontello.it"
   },
   {
    "n": 6,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 7,
+   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 8,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

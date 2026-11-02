@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vino Bardolino D.O.C. [[3]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vino Bardolino D.O.C. [[4]]"
     }
    ]
   },
@@ -40,73 +44,73 @@
    "righe": [
     {
      "etichetta": "Storia",
-     "valore": "Azienda fondata nel 1936; il sito indica la prima annata di Amarone Cesari e l’esportazione negli USA dell’Amarone Classico 1971 [[4]]"
+     "valore": "Azienda fondata nel 1936; il sito indica la prima annata di Amarone Cesari e l’esportazione negli USA dell’Amarone Classico 1971 [[5]]"
     },
     {
      "etichetta": "Cantine",
-     "valore": "Fumane (visita, degustazione, wine shop) e Cavaion Veronese, loc. Sorsei 3 (Bottaia di affinamento; tel. +39 045 6260928) [[5]]"
+     "valore": "Fumane (visita, degustazione, wine shop) e Cavaion Veronese, loc. Sorsei 3 (Bottaia di affinamento; tel. +39 045 6260928) [[6]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Linee del sito: Classics, Bosan, Centofilari, Justo, Jèma, Il Bosco. Selezione dalla pagina Vini. [[6]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
+   "nota": "Linee del sito: Classics, Bosan, Centofilari, Justo, Jèma, Il Bosco. Selezione dalla pagina Vini. [[7]] Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati.",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Classics Amarone Classico",
      "denominazione": "Amarone della Valpolicella Classico DOCG",
-     "annata": "2022 [[6]]"
+     "annata": "2022 [[7]]"
     },
     {
      "nome": "Classics Ripasso",
      "denominazione": "Valpolicella Ripasso Classico Superiore DOC",
-     "annata": "2023 [[6]]"
+     "annata": "2023 [[7]]"
     },
     {
      "nome": "Classics Valpolicella",
      "denominazione": "Valpolicella Classico DOC",
-     "annata": "2024 [[6]]"
+     "annata": "2024 [[7]]"
     },
     {
      "nome": "Classics Recioto",
      "denominazione": "Recioto della Valpolicella Classico DOCG",
-     "annata": "2020 [[6]]"
+     "annata": "2020 [[7]]"
     },
     {
      "nome": "Classics Tremenalto",
      "denominazione": "Soave Classico DOC",
-     "annata": "2024 [[6]]"
+     "annata": "2024 [[7]]"
     },
     {
      "nome": "Bosan Riserva",
      "denominazione": "Amarone della Valpolicella Classico Riserva DOCG",
-     "annata": "2017 [[6]]"
+     "annata": "2017 [[7]]"
     },
     {
      "nome": "Bosan",
      "denominazione": "Valpolicella Classico Superiore DOC",
-     "annata": "2022 [[6]]"
+     "annata": "2022 [[7]]"
     },
     {
      "nome": "Bosan Ripasso",
      "denominazione": "Valpolicella Ripasso Superiore DOC",
-     "annata": "2020 [[6]]"
+     "annata": "2020 [[7]]"
     },
     {
      "nome": "Il Bosco",
      "denominazione": "Amarone della Valpolicella Classico DOCG",
-     "annata": "2021 [[7]]"
+     "annata": "2021 [[8]]"
     },
     {
      "nome": "Centofilari",
      "denominazione": "Lugana DOC",
-     "annata": "2025 [[6]]"
+     "annata": "2025 [[7]]"
     },
     {
      "nome": "Centofilari",
      "denominazione": "Pinot Grigio Garda DOC",
-     "annata": "2024 [[6]]"
+     "annata": "2024 [[7]]"
     }
    ],
    "righe": []
@@ -116,7 +120,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "The WineHunter Award e Berliner Wine Trophy 2026 [[8]]"
+     "valore": "The WineHunter Award e Berliner Wine Trophy 2026 [[9]]"
     }
    ]
   },
@@ -134,11 +138,11 @@
    "righe": [
     {
      "etichetta": "Sito",
-     "valore": "cesari.it, in italiano e inglese [[9]]"
+     "valore": "cesari.it, in italiano e inglese [[10]]"
     },
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/cantinagerardocesari|cantinagerardocesari}}\nInstagram {{https://www.instagram.com/gerardocesari/|@gerardocesari}}\nLinkedIn {{https://www.linkedin.com/company/gerardocesari|gerardocesari}} [[8]]"
+     "valore": "Facebook {{https://www.facebook.com/cantinagerardocesari|cantinagerardocesari}}\nInstagram {{https://www.instagram.com/gerardocesari/|@gerardocesari}}\nLinkedIn {{https://www.linkedin.com/company/gerardocesari|gerardocesari}} [[9]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -146,11 +150,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=10272588190166489875|Mappa}} — valutazione 4,7 su 5 (61 recensioni) [[10]]"
+     "valore": "{{https://maps.google.com/?cid=10272588190166489875|Mappa}} — valutazione 4,7 su 5 (61 recensioni) [[11]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[11]]"
+     "valore": "Presente come produttore [[12]]"
     }
    ]
   }
@@ -171,58 +175,64 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/cesari-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/gerardo-cesari/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina «identita».",
    "url": "https://www.cesari.it/identita/",
    "etichetta": "cesari.it/identita"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina «cantine».",
    "url": "https://www.cesari.it/cantine/",
    "etichetta": "cesari.it/cantine"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «vini».",
    "url": "https://www.cesari.it/vini/",
    "etichetta": "cesari.it/vini"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina «vino/amarone-della-valpolicella-il-bosco-2021».",
    "url": "https://www.cesari.it/vino/amarone-della-valpolicella-il-bosco-2021/",
    "etichetta": "cesari.it/vino/amarone-della-valpolicella-il-bosco-2021"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.cesari.it/",
    "etichetta": "cesari.it"
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Sito ufficiale della cantina, pagina iniziale.",
    "url": "https://www.cesari.it/",
    "etichetta": "cesari.it"
   },
   {
-   "n": 10,
+   "n": 11,
    "testo": "Scheda «Gerardo Cesari - Cantina di Fumane» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=10272588190166489875",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 11,
+   "n": 12,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 12,
+   "n": 13,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"

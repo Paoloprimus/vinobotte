@@ -26,8 +26,8 @@
      "valore": "{{https://www.inama.wine|inama.wine}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio Tutela Vini Colli Berici e Vicenza [[3]]"
     }
    ]
   },
@@ -36,19 +36,19 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Ragione sociale Soc. Agricola eredi di Inama Giuseppe S.S., località Biacche, San Bonifacio; il sito ha una sezione sulla famiglia, non letta; anno di fondazione non indicato [[3]]"
+     "valore": "Ragione sociale Soc. Agricola eredi di Inama Giuseppe S.S., località Biacche, San Bonifacio; il sito ha una sezione sulla famiglia, non letta; anno di fondazione non indicato [[4]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Il sito riporta la denominazione solo per Vin Soave; tra i vini compaiono anche Foscarino e Carbonare, ma la denominazione non è scritta nel testo letto. [[3]]",
+   "nota": "Il sito riporta la denominazione solo per Vin Soave; tra i vini compaiono anche Foscarino e Carbonare, ma la denominazione non è scritta nel testo letto. [[4]]",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Vin Soave",
      "denominazione": "Soave",
-     "annata": "— [[4]]"
+     "annata": "— [[5]]"
     }
    ]
   },
@@ -57,7 +57,7 @@
    "righe": [
     {
      "etichetta": "Premi e punteggi",
-     "valore": "Non presenti per i vini Soave nel sito della cantina [[3]]"
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[4]]"
     }
    ]
   },
@@ -78,11 +78,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=12629370506301153393|Mappa}} — valutazione 4,7 su 5 (78 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=12629370506301153393|Mappa}} — valutazione 4,7 su 5 (78 recensioni) [[6]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[7]]"
     }
    ]
   }
@@ -103,24 +103,30 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Colli Berici e Vicenza, consultato il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina «inama.wine», consultata il 24 ottobre 2026.",
    "url": "https://www.inama.wine",
    "etichetta": "inama.wine"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina «inama.wine/shop/le-bottiglie/vin-soave», consultata il 24 ottobre 2026.",
    "url": "https://inama.wine/shop/le-bottiglie/vin-soave/",
    "etichetta": "inama.wine"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Inama Azienda Agricola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=12629370506301153393",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

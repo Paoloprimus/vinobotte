@@ -27,11 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini DOC Friuli Grave [[2]]\nConsorzio di Tutela della DOC Prosecco [[3]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]\nConsorzio Tutela Vini DOC Friuli Grave [[3]]\nConsorzio di Tutela della DOC Prosecco [[4]]\nConsorzio Tutela Vini DOC Delle Venezie [[5]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
-     "valore": "via Pordenone, 33 - 33080 San Quirino (PN); tel. 0434 963100; welcome@piera1899.com; pieramartellozzo.it [[4]]"
+     "valore": "via Pordenone, 33 - 33080 San Quirino (PN); tel. 0434 963100; welcome@piera1899.com; pieramartellozzo.it [[5]]"
     }
    ]
   },
@@ -97,22 +97,22 @@
     {
      "nome": "Pinot Grigio",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[4]]"
+     "annata": "— [[5]]"
     },
     {
      "nome": "Pinot Grigio Pura Terra bio",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[4]]"
+     "annata": "— [[5]]"
     },
     {
      "nome": "Pinot Grigio Pietra di Bio",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[4]]"
+     "annata": "— [[5]]"
     },
     {
      "nome": "Pinot Grigio Pietra di ramato",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[4]]"
+     "annata": "— [[5]]"
     }
    ],
    "righe": []
@@ -131,7 +131,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/piera1899|piera1899}}\nInstagram {{https://www.instagram.com/piera1899/|@piera1899}} [[5]]"
+     "valore": "Facebook {{https://www.facebook.com/piera1899|piera1899}}\nInstagram {{https://www.instagram.com/piera1899/|@piera1899}} [[6]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -139,7 +139,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=9371576729114102866|Mappa}} — valutazione 4,7 su 5 (169 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=9371576729114102866|Mappa}} — valutazione 4,7 su 5 (169 recensioni) [[7]]"
     }
    ]
   }
@@ -154,36 +154,42 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/martellozzo/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
    "testo": "Consorzio Tutela Vini DOC Friuli Grave, elenco delle cantine e schede delle singole cantine, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuligrave.com/cantine.html",
    "etichetta": "docfriuligrave.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
    "url": "https://www.prosecco.wine/produttori/",
    "etichetta": "prosecco.wine"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.gruppomart.com",
    "etichetta": "gruppomart.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «La Sartoria Vini - Piera Martellozzo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=9371576729114102866",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

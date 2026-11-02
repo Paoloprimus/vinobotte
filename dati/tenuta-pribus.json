@@ -26,8 +26,8 @@
      "valore": "{{http://www.tenutapribus.it|tenutapribus.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio DOC Friuli [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]\nConsorzio Tutela Vini DOC Friuli Aquileia [[3]]"
     }
    ]
   },
@@ -102,7 +102,7 @@
    "righe": [
     {
      "etichetta": "Premi",
-     "valore": "Decanter World Wine Awards 2024: Pinot Grigio e Refosco dal Peduncolo Rosso [[2]]"
+     "valore": "Decanter World Wine Awards 2024: Pinot Grigio e Refosco dal Peduncolo Rosso [[4]]"
     }
    ]
   },
@@ -111,7 +111,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/Tenuta-Pribus-111999884961210|Tenuta-Pribus-111999884961210}}\nInstagram {{https://www.instagram.com/tenuta_pribus/|@tenuta_pribus}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/Tenuta-Pribus-111999884961210|Tenuta-Pribus-111999884961210}}\nInstagram {{https://www.instagram.com/tenuta_pribus/|@tenuta_pribus}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -119,7 +119,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=17654106615026205417|Mappa}} — valutazione 4,8 su 5 (71 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=17654106615026205417|Mappa}} — valutazione 4,8 su 5 (71 recensioni) [[5]]"
     }
    ]
   }
@@ -134,12 +134,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/tenuta-pribus/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini DOC Friuli Aquileia, consultato il 2 novembre 2026.",
+   "url": "https://www.viniaquileia.it/i-soci/",
+   "etichetta": "viniaquileia.it"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.tenutapribus.it",
    "etichetta": "tenutapribus.it"
   },
   {
-   "n": 3,
+   "n": 5,
    "testo": "Scheda «Tenuta Pribus» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=17654106615026205417",
    "etichetta": "maps.google.com"

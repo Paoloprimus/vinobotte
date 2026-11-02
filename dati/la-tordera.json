@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio Vini Asolo Montello [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[3]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[4]]\nConsorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Vini Asolo Montello [[5]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
@@ -40,7 +40,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Il sito colloca l’inizio nel 1918, da un antico roccolo sulla collina del Cartizze. [[5]]"
+     "valore": "Il sito colloca l’inizio nel 1918, da un antico roccolo sulla collina del Cartizze. [[6]]"
     }
    ]
   },
@@ -88,7 +88,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/LaTorderaProsecco|LaTorderaProsecco}}\nInstagram {{https://www.instagram.com/latordera_prosecco/|@latordera_prosecco}}\nYouTube {{https://youtu.be/ONHhtZyUkg8|ONHhtZyUkg8}} [[5]]"
+     "valore": "Facebook {{https://www.facebook.com/LaTorderaProsecco|LaTorderaProsecco}}\nInstagram {{https://www.instagram.com/latordera_prosecco/|@latordera_prosecco}}\nYouTube {{https://youtu.be/ONHhtZyUkg8|ONHhtZyUkg8}} [[6]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -96,11 +96,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=2366740358265505251|Mappa}} — valutazione 4,7 su 5 (252 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=2366740358265505251|Mappa}} — valutazione 4,7 su 5 (252 recensioni) [[7]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[7]]"
+     "valore": "Presente come produttore [[8]]"
     }
    ]
   }
@@ -127,24 +127,30 @@
   },
   {
    "n": 4,
-   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
    "url": "https://www.asolomontello.it/i-soci-produttori/",
    "etichetta": "asolomontello.it"
   },
   {
    "n": 5,
+   "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 6,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.latordera.it/",
    "etichetta": "latordera.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «La Tordera» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=2366740358265505251",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

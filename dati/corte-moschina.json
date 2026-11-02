@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio Tutela Vino Lessini Durello DOC [[3]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[1]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[3]]\nConsorzio Tutela Vini Colli Berici e Vicenza [[4]]\nConsorzio Tutela DOC Delle Venezie [[5]]\nConsorzio Tutela Vino Lessini Durello DOC [[6]]\nConsorzio Tutela Vini DOC Delle Venezie [[7]]"
     }
    ]
   },
@@ -36,54 +36,54 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Proprietà di famiglia con radici veneziane che risale alla fine del Cinquecento, ai piedi dei Monti Lessini [[5]]"
+     "valore": "Proprietà di famiglia con radici veneziane che risale alla fine del Cinquecento, ai piedi dei Monti Lessini [[8]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Solo i vini della sezione «Soave - Colli di Roncà» del sito; denominazioni come scritte nel sito, senza DOC/DOCG né annate. [[5]] Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate.",
+   "nota": "Solo i vini della sezione «Soave - Colli di Roncà» del sito; denominazioni come scritte nel sito, senza DOC/DOCG né annate. [[8]] Elenco dei vini a denominazione Lessini Durello (Monti Lessini) indicato nelle pagine della cantina; le annate non sono indicate.",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Roncathe",
      "denominazione": "Soave",
-     "annata": "— [[6]]"
+     "annata": "— [[9]]"
     },
     {
      "nome": "Evaos",
      "denominazione": "Soave",
-     "annata": "— [[7]]"
+     "annata": "— [[10]]"
     },
     {
      "nome": "I Tarai",
      "denominazione": "Soave Superiore",
-     "annata": "— [[8]]"
+     "annata": "— [[11]]"
     },
     {
      "nome": "Incanto",
      "denominazione": "Recioto di Soave",
-     "annata": "— [[9]]"
+     "annata": "— [[12]]"
     },
     {
      "nome": "Pinot Grigio Granetto",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[4]]"
+     "annata": "— [[7]]"
     },
     {
      "nome": "Lessini Durello",
      "denominazione": "Lessini Durello – Metodo Classico",
-     "annata": "— [[10]]"
+     "annata": "— [[13]]"
     },
     {
      "nome": "Lessini Durello Millesimato",
      "denominazione": "Lessini Durello – Metodo Martinotti, Millesimato",
-     "annata": "— [[11]]"
+     "annata": "— [[14]]"
     },
     {
      "nome": "Lessini Durello Riserva",
      "denominazione": "Lessini Durello – Metodo Classico, Riserva",
-     "annata": "— [[12]]"
+     "annata": "— [[15]]"
     }
    ]
   },
@@ -92,7 +92,7 @@
    "righe": [
     {
      "etichetta": "Premi e punteggi",
-     "valore": "Non presenti per i vini Soave nel sito della cantina [[5]]"
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[8]]"
     }
    ]
   },
@@ -105,7 +105,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=5119535410539440089|Mappa}} — valutazione 4,8 su 5 (39 recensioni) [[13]]"
+     "valore": "{{https://maps.google.com/?cid=5119535410539440089|Mappa}} — valutazione 4,8 su 5 (39 recensioni) [[16]]"
     }
    ]
   }
@@ -126,72 +126,90 @@
   },
   {
    "n": 3,
-   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
    "url": "https://www.montilessini.com/produttori-vino-durello/",
    "etichetta": "montilessini.com"
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Colli Berici e Vicenza, consultato il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  },
+  {
+   "n": 5,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 6,
+   "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 7,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 5,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it», consultata il 24 ottobre 2026.",
    "url": "http://www.cortemoschina.it",
    "etichetta": "cortemoschina.it"
   },
   {
-   "n": 6,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it/roncathe», consultata il 24 ottobre 2026.",
    "url": "https://www.cortemoschina.it/roncathe",
    "etichetta": "cortemoschina.it"
   },
   {
-   "n": 7,
+   "n": 10,
    "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it/evaos», consultata il 24 ottobre 2026.",
    "url": "https://www.cortemoschina.it/evaos",
    "etichetta": "cortemoschina.it"
   },
   {
-   "n": 8,
+   "n": 11,
    "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it/tarai», consultata il 24 ottobre 2026.",
    "url": "https://www.cortemoschina.it/tarai",
    "etichetta": "cortemoschina.it"
   },
   {
-   "n": 9,
+   "n": 12,
    "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it/incanto», consultata il 24 ottobre 2026.",
    "url": "https://www.cortemoschina.it/incanto",
    "etichetta": "cortemoschina.it"
   },
   {
-   "n": 10,
+   "n": 13,
    "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it/en/lessini-durello», consultata il 24 ottobre 2026.",
    "url": "http://www.cortemoschina.it/en/lessini-durello",
    "etichetta": "cortemoschina.it"
   },
   {
-   "n": 11,
+   "n": 14,
    "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it/en/lessini-durello-millesimato», consultata il 24 ottobre 2026.",
    "url": "http://www.cortemoschina.it/en/lessini-durello-millesimato",
    "etichetta": "cortemoschina.it"
   },
   {
-   "n": 12,
+   "n": 15,
    "testo": "Sito ufficiale della cantina, pagina «cortemoschina.it/en/lessini-durello-riserva», consultata il 24 ottobre 2026.",
    "url": "http://www.cortemoschina.it/en/lessini-durello-riserva",
    "etichetta": "cortemoschina.it"
   },
   {
-   "n": 13,
+   "n": 16,
    "testo": "Scheda «Azienda Agricola Corte Moschina» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=5119535410539440089",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 14,
+   "n": 17,
    "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.ilsoave.com/produttori-soave/",
    "etichetta": "ilsoave.com"

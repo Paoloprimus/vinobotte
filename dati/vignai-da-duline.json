@@ -31,7 +31,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[1]]\nConsorzio DOC Friuli [[2]]"
+     "valore": "Compare nell’elenco delle aziende associate del Consorzio Tutela Vini Friuli Colli Orientali e Ramandolo [[1]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio DOC Friuli [[3]]"
     }
    ]
   },
@@ -40,7 +44,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Titolare: L. Mocchiutti e F. Magrini [[2]]"
+     "valore": "Titolare: L. Mocchiutti e F. Magrini [[3]]"
     }
    ]
   },
@@ -67,7 +71,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{http://www.facebook.com/vignaidaduline|vignaidaduline}}\nInstagram {{https://www.instagram.com/vignaidaduline/|@vignaidaduline}} [[3]]"
+     "valore": "Facebook {{http://www.facebook.com/vignaidaduline|vignaidaduline}}\nInstagram {{https://www.instagram.com/vignaidaduline/|@vignaidaduline}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -75,11 +79,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=15057254630675114377|Mappa}} — valutazione 5 su 5 (21 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=15057254630675114377|Mappa}} — valutazione 5 su 5 (21 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -94,28 +98,34 @@
   },
   {
    "n": 2,
-   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
    "url": "https://www.docfriuli.eu/aziende/vignai-da-duline/",
    "etichetta": "docfriuli.eu"
   },
   {
    "n": 3,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/vignai-da-duline/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.vignaidaduline.com",
    "etichetta": "vignaidaduline.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Vignai Da Duline» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=15057254630675114377",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

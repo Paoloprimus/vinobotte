@@ -27,15 +27,15 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[3]]\nConsorzio Vini Venezia [[4]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[5]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[3]]\nConsorzio Tutela DOC Delle Venezie [[4]]\nConsorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Vini Venezia [[5]]\nConsorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[6]]"
     },
     {
      "etichetta": "Dati nella scheda del Consorzio Conegliano Valdobbiadene",
-     "valore": "Via Giuseppe Verdi, 50, 31047 Ponte di Piave (TV) [[5]]"
+     "valore": "Via Giuseppe Verdi, 50, 31047 Ponte di Piave (TV) [[6]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
-     "valore": "31047 Ponte di Piave; info@viticoltoriponte.it; denominazioni: Piave, Venezia [[4]]"
+     "valore": "31047 Ponte di Piave; info@viticoltoriponte.it; denominazioni: Piave, Venezia [[5]]"
     }
    ]
   },
@@ -88,11 +88,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=2256299553036181800|Mappa}} — valutazione 4,5 su 5 (152 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=2256299553036181800|Mappa}} — valutazione 4,5 su 5 (152 recensioni) [[7]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[7]]"
+     "valore": "Presente come produttore [[8]]"
     }
    ]
   }
@@ -119,24 +119,30 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://www.consorziovinivenezia.it/cantine-associate/",
    "etichetta": "consorziovinivenezia.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG, scheda della cantina, consultata il 24 ottobre 2026.",
    "url": "https://www.prosecco.it/it/scheda-cantina/viticoltori-ponte/",
    "etichetta": "prosecco.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «Cantina Viticoltori Ponte di Piave» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=2256299553036181800",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

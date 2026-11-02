@@ -31,15 +31,15 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Tutela Vino Custoza DOC [[3]]\nConsorzio Tutela Vini DOC Delle Venezie [[4]]\nConsorzio Tutela Vino Bardolino D.O.C. [[5]]\nConsorzio Tutela Lugana DOC [[6]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio Tutela Vini Valpolicella [[1]]\nConsorzio Garda DOC [[3]]\nConsorzio Tutela Vino Custoza DOC [[4]]\nConsorzio Tutela Vini DOC Delle Venezie [[5]]\nConsorzio Tutela Vino Bardolino D.O.C. [[6]]\nConsorzio Tutela Lugana DOC [[7]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Custoza",
-     "valore": "Valeggio sul Mincio(VR); tel. 342 79 05 259; seiterre.com [[3]]"
+     "valore": "Valeggio sul Mincio(VR); tel. 342 79 05 259; seiterre.com [[4]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
-     "valore": "tel. 3427905259; info@seiterre.com; seiterre.com [[4]]"
+     "valore": "tel. 3427905259; info@seiterre.com; seiterre.com [[5]]"
     }
    ]
   },
@@ -48,55 +48,55 @@
    "righe": [
     {
      "etichetta": "Struttura",
-     "valore": "Tenute Seiterre Lago di Garda (Valeggio sul Mincio), Valpolicella e Monferrato; wine shop, agriturismo, birreria e risotteria [[7]]"
+     "valore": "Tenute Seiterre Lago di Garda (Valeggio sul Mincio), Valpolicella e Monferrato; wine shop, agriturismo, birreria e risotteria [[8]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Solo i vini a denominazione Valpolicella; il catalogo comprende molti altri vini (Toscana, Monferrato, Garda). Il sito non riporta le annate. [[8]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[5]]",
+   "nota": "Solo i vini a denominazione Valpolicella; il catalogo comprende molti altri vini (Toscana, Monferrato, Garda). Il sito non riporta le annate. [[9]] Il Consorzio elenca solo le denominazioni dichiarate dalla cantina, non i nomi dei vini. [[6]]",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Plato Premium",
      "denominazione": "Amarone della Valpolicella DOCG",
-     "annata": "— [[8]]"
+     "annata": "— [[9]]"
     },
     {
      "nome": "Orizzonti",
      "denominazione": "Amarone della Valpolicella DOCG",
-     "annata": "— [[8]]"
+     "annata": "— [[9]]"
     },
     {
      "nome": "Arela Premium",
      "denominazione": "Recioto della Valpolicella DOCG",
-     "annata": "— [[9]]"
+     "annata": "— [[10]]"
     },
     {
      "nome": "Origini",
      "denominazione": "Valpolicella Ripasso DOC",
-     "annata": "— [[10]]"
+     "annata": "— [[11]]"
     },
     {
      "nome": "Orizzonti",
      "denominazione": "Valpolicella Ripasso DOC",
-     "annata": "— [[11]]"
+     "annata": "— [[12]]"
     },
     {
      "nome": "La Quercia",
      "denominazione": "Valpolicella DOC",
-     "annata": "— [[8]]"
+     "annata": "— [[9]]"
     },
     {
      "nome": "Pinot Grigio Masobianco",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[4]]"
+     "annata": "— [[5]]"
     }
    ],
    "righe": [
     {
      "etichetta": "Denominazioni Bardolino dichiarate",
-     "valore": "Bardolino DOC; Bardolino Superiore DOCG; Chiaretto di Bardolino spumante DOC [[5]]"
+     "valore": "Bardolino DOC; Bardolino Superiore DOCG; Chiaretto di Bardolino spumante DOC [[6]]"
     }
    ]
   },
@@ -105,7 +105,7 @@
    "righe": [
     {
      "etichetta": "Ristorazione e ospitalità",
-     "valore": "Risotteria Seiterre a Valeggio sul Mincio (mar–dom a pranzo, mer–sab anche a cena, lunedì chiuso); wine shop e agriturismo [[7]]"
+     "valore": "Risotteria Seiterre a Valeggio sul Mincio (mar–dom a pranzo, mer–sab anche a cena, lunedì chiuso); wine shop e agriturismo [[8]]"
     }
    ]
   },
@@ -123,11 +123,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/share/1BSbHTQ7qE|share}}\nInstagram {{https://www.instagram.com/seiterre_viticoltori_dal_1877/|@seiterre_viticoltori_dal_1877}}\nLinkedIn {{https://www.linkedin.com/company/seiterre-viticoltori-dal-1877|seiterre-viticoltori-dal-1877}} [[12]]"
+     "valore": "Facebook {{https://www.facebook.com/share/1BSbHTQ7qE|share}}\nInstagram {{https://www.instagram.com/seiterre_viticoltori_dal_1877/|@seiterre_viticoltori_dal_1877}}\nLinkedIn {{https://www.linkedin.com/company/seiterre-viticoltori-dal-1877|seiterre-viticoltori-dal-1877}} [[13]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://seiterre.com/shop/|seiterre.com/shop}} [[12]]"
+     "valore": "{{https://seiterre.com/shop/|seiterre.com/shop}} [[13]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -135,7 +135,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[13]]"
+     "valore": "Presente come produttore [[14]]"
     }
    ]
   }
@@ -156,76 +156,82 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Garda DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.gardadocvino.it/portfolio/sei-terre",
+   "etichetta": "gardadocvino.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026.",
    "url": "https://www.vinocustoza.it/",
    "etichetta": "vinocustoza.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., scheda del produttore, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/seiterre-tenuta-san-leone/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 31 ottobre 2026.",
    "url": "https://www.consorziolugana.it/elenco-aziende/seiterre",
    "etichetta": "consorziolugana.it"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina «ospitalita».",
    "url": "https://seiterre.com/ospitalita/",
    "etichetta": "seiterre.com/ospitalita"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina «product-category/tipologia-vino/vini-rossi».",
    "url": "https://seiterre.com/product-category/tipologia-vino/vini-rossi/",
    "etichetta": "seiterre.com/product-category/tipologia-vino/vini-rossi"
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Sito ufficiale della cantina, pagina «shop/recioto-della-valpolicella-docg-arela-premium».",
    "url": "https://seiterre.com/shop/recioto-della-valpolicella-docg-arela-premium/",
    "etichetta": "seiterre.com/shop/recioto-della-valpolicella-docg-arela-premium"
   },
   {
-   "n": 10,
+   "n": 11,
    "testo": "Sito ufficiale della cantina, pagina «shop/valpolicella-ripasso-doc-origini».",
    "url": "https://seiterre.com/shop/valpolicella-ripasso-doc-origini/",
    "etichetta": "seiterre.com/shop/valpolicella-ripasso-doc-origini"
   },
   {
-   "n": 11,
+   "n": 12,
    "testo": "Sito ufficiale della cantina, pagina «shop/valpolicella-ripasso-doc-orizzonti».",
    "url": "https://seiterre.com/shop/valpolicella-ripasso-doc-orizzonti/",
    "etichetta": "seiterre.com/shop/valpolicella-ripasso-doc-orizzonti"
   },
   {
-   "n": 12,
+   "n": 13,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.seiterre.com/",
    "etichetta": "seiterre.com"
   },
   {
-   "n": 13,
+   "n": 14,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 14,
+   "n": 15,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 15,
+   "n": 16,
    "testo": "Sito ufficiale della cantina, pagina «shop-online».",
    "url": "https://seiterre.com/shop-online/",
    "etichetta": "seiterre.com/shop-online"

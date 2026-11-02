@@ -31,7 +31,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[3]]\nConsorzio Tutela Vini Valpolicella come «Botter Carlo S.p.a.» [[4]]\nConsorzio di Tutela della DOC Prosecco [[5]]\nConsorzio Vini Venezia [[6]]\nConsorzio Vini Asolo Montello [[7]]\nConsorzio Tutela Vini DOC Friuli Grave [[2]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[3]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[4]]\nConsorzio per la Tutela dei Vini del Montello e dei Colli Asolani [[5]]\nConsorzio Tutela DOC Delle Venezie [[6]]\nConsorzio Tutela Vini Valpolicella come «Botter Carlo S.p.a.» [[7]]\nConsorzio di Tutela della DOC Prosecco [[8]]\nConsorzio Vini Venezia [[9]]\nConsorzio Vini Asolo Montello [[10]]\nConsorzio Tutela Vini DOC Friuli Grave [[2]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -39,11 +39,11 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Prosecco DOC",
-     "valore": "Via Cadorna, 30020 VE; tel. +39 0421 67194; info@botter.it; https://www.botter.it/it/ [[5]]"
+     "valore": "Via Cadorna, 30020 VE; tel. +39 0421 67194; info@botter.it; https://www.botter.it/it/ [[8]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
-     "valore": "30020 Fossalta di Piave; info@botter.it; denominazioni: Lison Pramaggiore, Piave, Venezia, Lison, Malanotte [[6]]"
+     "valore": "30020 Fossalta di Piave; info@botter.it; denominazioni: Lison Pramaggiore, Piave, Venezia, Lison, Malanotte [[9]]"
     }
    ]
   },
@@ -52,15 +52,15 @@
    "righe": [
     {
      "etichetta": "Famiglia",
-     "valore": "Carlo Botter e la moglie Maria [[8]]"
+     "valore": "Carlo Botter e la moglie Maria [[11]]"
     },
     {
      "etichetta": "Storia",
-     "valore": "Fondata nel 1928 a Fossalta di Piave, da una piccola rivendita di vino in fusti e damigiane [[8]]"
+     "valore": "Fondata nel 1928 a Fossalta di Piave, da una piccola rivendita di vino in fusti e damigiane [[11]]"
     },
     {
      "etichetta": "Luogo",
-     "valore": "Fossalta di Piave, vicino a Venezia; il sito racconta il Veneto in generale [[8]]"
+     "valore": "Fossalta di Piave, vicino a Venezia; il sito racconta il Veneto in generale [[11]]"
     }
    ]
   },
@@ -69,7 +69,7 @@
    "righe": [
     {
      "etichetta": "Denominazioni",
-     "valore": "Asolo Prosecco Superiore DOCG, Prosecco DOC (anche rosé e frizzante), Pinot Grigio delle Venezie DOC (anche rosé), Merlot Veneto IGT, Cuvée spumante Brut e Extra Dry; linee «Le Guglie» e «Le Briccole» [[9]] [[10]]"
+     "valore": "Asolo Prosecco Superiore DOCG, Prosecco DOC (anche rosé e frizzante), Pinot Grigio delle Venezie DOC (anche rosé), Merlot Veneto IGT, Cuvée spumante Brut e Extra Dry; linee «Le Guglie» e «Le Briccole» [[12]] [[13]]"
     }
    ]
   },
@@ -86,7 +86,7 @@
    "righe": [
     {
      "etichetta": "Etichette",
-     "valore": "Sul sito non compaiono vini della Valpolicella [[9]]"
+     "valore": "Sul sito non compaiono vini della Valpolicella [[12]]"
     }
    ]
   },
@@ -104,11 +104,11 @@
    "righe": [
     {
      "etichetta": "Sito",
-     "valore": "botter.it, in italiano e inglese, con shop collegato [[8]]"
+     "valore": "botter.it, in italiano e inglese, con shop collegato [[11]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://shop.argea.com/cantine-e-brand/botter/|shop.argea.com/cantine-e-brand/botter}} [[11]]"
+     "valore": "{{https://shop.argea.com/cantine-e-brand/botter/|shop.argea.com/cantine-e-brand/botter}} [[14]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -116,11 +116,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=10087347022378630173|Mappa}} — valutazione 4,1 su 5 (252 recensioni) [[12]]"
+     "valore": "{{https://maps.google.com/?cid=10087347022378630173|Mappa}} — valutazione 4,1 su 5 (252 recensioni) [[15]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[13]]"
+     "valore": "Presente come produttore [[16]]"
     }
    ]
   }
@@ -147,60 +147,78 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/botter-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 5,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela dei Vini del Montello e dei Colli Asolani, consultato il 2 novembre 2026.",
+   "url": "https://www.asolomontello.it/i-soci-produttori/",
+   "etichetta": "asolomontello.it"
+  },
+  {
+   "n": 6,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 7,
    "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
    "url": "https://www.consorziovalpolicella.it/",
    "etichetta": "consorziovalpolicella.it"
   },
   {
-   "n": 5,
+   "n": 8,
    "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
    "url": "https://www.prosecco.wine/produttori/",
    "etichetta": "prosecco.wine"
   },
   {
-   "n": 6,
+   "n": 9,
    "testo": "Consorzio Vini Venezia, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://www.consorziovinivenezia.it/cantine-associate/",
    "etichetta": "consorziovinivenezia.it"
   },
   {
-   "n": 7,
+   "n": 10,
    "testo": "Consorzio Vini Asolo Montello, elenco dei soci produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.asolomontello.it/i-soci-produttori/",
    "etichetta": "asolomontello.it"
   },
   {
-   "n": 8,
+   "n": 11,
    "testo": "Sito ufficiale della cantina, pagina iniziale.",
    "url": "https://www.botter.it/",
    "etichetta": "botter.it"
   },
   {
-   "n": 9,
+   "n": 12,
    "testo": "Sito ufficiale della cantina, pagina «tutti-i-vini».",
    "url": "https://www.botter.it/tutti-i-vini/",
    "etichetta": "botter.it/tutti-i-vini"
   },
   {
-   "n": 10,
+   "n": 13,
    "testo": "Sito ufficiale della cantina, pagina «vini/linea-briccole».",
    "url": "https://www.botter.it/vini/linea-briccole/",
    "etichetta": "botter.it/vini/linea-briccole"
   },
   {
-   "n": 11,
+   "n": 14,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.botter.it/",
    "etichetta": "botter.it"
   },
   {
-   "n": 12,
+   "n": 15,
    "testo": "Scheda «Botter Wines» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=10087347022378630173",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 13,
+   "n": 16,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

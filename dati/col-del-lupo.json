@@ -26,8 +26,8 @@
      "valore": "{{http://www.coldellupo.it|www.coldellupo.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[2]]"
     }
    ]
   },
@@ -79,7 +79,7 @@
    "righe": [
     {
      "etichetta": "Punteggi",
-     "valore": "Falstaff Prosecco Trophy: 92 punti al Brut Rive di Colbertaldo [[2]]"
+     "valore": "Falstaff Prosecco Trophy: 92 punti al Brut Rive di Colbertaldo [[3]]"
     }
    ]
   },
@@ -88,7 +88,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/ColdelLupo|ColdelLupo}}\nInstagram {{https://www.instagram.com/coldellupo/|@coldellupo}}\nX {{https://x.com/Coldellupo|@Coldellupo}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/ColdelLupo|ColdelLupo}}\nInstagram {{https://www.instagram.com/coldellupo/|@coldellupo}}\nX {{https://x.com/Coldellupo|@Coldellupo}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -96,7 +96,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=8063169823432849174|Mappa}} — valutazione 4,9 su 5 (229 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=8063169823432849174|Mappa}} — valutazione 4,9 su 5 (229 recensioni) [[4]]"
     }
    ]
   }
@@ -111,12 +111,18 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
+   "url": "https://www.prosecco.it/it/scheda-cantina/col-del-lupo/",
+   "etichetta": "prosecco.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.coldellupo.it",
    "etichetta": "coldellupo.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Col del lupo - produzione e degustazione Valdobbiadene Prosecco DOCG» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=8063169823432849174",
    "etichetta": "maps.google.com"

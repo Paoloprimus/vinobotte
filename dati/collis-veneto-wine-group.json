@@ -35,7 +35,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vini Valpolicella [[3]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[4]]\nConsorzio Tutela Vino Lessini Durello DOC [[5]]\nConsorzio Tutela Vini Merlara DOC [[6]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela DOC Delle Venezie [[3]]\nConsorzio Tutela Vini Valpolicella [[4]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[5]]\nConsorzio Tutela Vino Lessini Durello DOC [[6]]\nConsorzio Tutela Vini Merlara DOC [[7]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -48,11 +48,11 @@
    "righe": [
     {
      "etichetta": "Natura",
-     "valore": "Realtà cooperativa che unisce oltre duemila viticoltori tra Verona, Vicenza e Padova [[7]]"
+     "valore": "Realtà cooperativa che unisce oltre duemila viticoltori tra Verona, Vicenza e Padova [[8]]"
     },
     {
      "etichetta": "Numeri dichiarati",
-     "valore": "7.200 ettari (il sito indica anche 7.000), presenza in oltre 70 Paesi [[7]]"
+     "valore": "7.200 ettari (il sito indica anche 7.000), presenza in oltre 70 Paesi [[8]]"
     },
     {
      "etichetta": "Società controllata",
@@ -96,11 +96,11 @@
    "righe": [
     {
      "etichetta": "Sito",
-     "valore": "collisgroup.it, istituzionale, con blog [[7]]"
+     "valore": "collisgroup.it, istituzionale, con blog [[8]]"
     },
     {
      "etichetta": "Social",
-     "valore": "X {{https://x.com/sh|@sh}}\nLinkedIn {{https://www.linkedin.com/company/collis-veneto-wine-group|collis-veneto-wine-group}} [[8]]"
+     "valore": "X {{https://x.com/sh|@sh}}\nLinkedIn {{https://www.linkedin.com/company/collis-veneto-wine-group|collis-veneto-wine-group}} [[9]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -108,7 +108,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=2935423983405513890|Mappa}} — valutazione 4,4 su 5 (16 recensioni) [[9]]"
+     "valore": "{{https://maps.google.com/?cid=2935423983405513890|Mappa}} — valutazione 4,4 su 5 (16 recensioni) [[10]]"
     }
    ]
   }
@@ -129,48 +129,54 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
    "url": "https://www.consorziovalpolicella.it/",
    "etichetta": "consorziovalpolicella.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.ilsoave.com/produttori-soave/",
    "etichetta": "ilsoave.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.montilessini.com/produttori-vino-durello/",
    "etichetta": "montilessini.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Merlara DOC, scheda dell’azienda consultata il 1 novembre 2026.",
    "url": "https://merlara.wine/aziende-del-merlara-doc/",
    "etichetta": "merlara.wine"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Sito ufficiale della cantina, pagina iniziale.",
    "url": "https://www.collisgroup.it/",
    "etichetta": "collisgroup.it"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.collisgroup.it/",
    "etichetta": "collisgroup.it"
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Scheda «Collis» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=2935423983405513890",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 10,
+   "n": 11,
    "testo": "Sito ufficiale della cantina, pagina «collisgroup.it/soave», consultata il 24 ottobre 2026.",
    "url": "https://www.collisgroup.it/soave/",
    "etichetta": "collisgroup.it"

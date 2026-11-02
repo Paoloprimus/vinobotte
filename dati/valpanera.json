@@ -28,6 +28,10 @@
     {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.valpanera.it|valpanera.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini DOC Friuli Aquileia [[4]]"
     }
    ]
   },
@@ -80,11 +84,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=17025885020408640974|Mappa}} — valutazione 4,6 su 5 (49 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=17025885020408640974|Mappa}} — valutazione 4,6 su 5 (49 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -111,12 +115,18 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini DOC Friuli Aquileia, consultato il 2 novembre 2026.",
+   "url": "https://www.viniaquileia.it/i-soci/",
+   "etichetta": "viniaquileia.it"
+  },
+  {
+   "n": 5,
    "testo": "Scheda «Valpanera» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=17025885020408640974",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

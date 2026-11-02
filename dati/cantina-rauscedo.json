@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio DOC Friuli [[2]]\nConsorzio Tutela Vini DOC Friuli Grave [[4]]\nConsorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[5]]"
+     "valore": "Compare nell’elenco delle aziende del Consorzio DOC Friuli [[2]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[4]]\nConsorzio Tutela Vini DOC Friuli Grave [[5]]\nConsorzio di Tutela della DOC Prosecco [[1]]\nConsorzio Tutela Vini DOC Delle Venezie [[6]]"
     }
    ]
   },
@@ -89,7 +89,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini Prosecco DOC",
-     "valore": "Il sito elenca nomi commerciali (Casa Quaranta, Le Gemme, Rauscedo) senza indicare le denominazioni [[6]]"
+     "valore": "Il sito elenca nomi commerciali (Casa Quaranta, Le Gemme, Rauscedo) senza indicare le denominazioni [[7]]"
     }
    ]
   },
@@ -115,11 +115,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=528115786343978734|Mappa}} — valutazione 4,6 su 5 (221 recensioni) [[7]]"
+     "valore": "{{https://maps.google.com/?cid=528115786343978734|Mappa}} — valutazione 4,6 su 5 (221 recensioni) [[8]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[8]]"
+     "valore": "Presente come produttore [[9]]"
     }
    ]
   }
@@ -146,34 +146,40 @@
   },
   {
    "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/cantina-rauscedo/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 5,
    "testo": "Consorzio Tutela Vini DOC Friuli Grave, elenco delle cantine e schede delle singole cantine, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuligrave.com/cantine.html",
    "etichetta": "docfriuligrave.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Sito ufficiale della cantina, pagina «cantinarauscedo.com», consultata il 24 ottobre 2026.",
    "url": "http://www.cantinarauscedo.com/",
    "etichetta": "cantinarauscedo.com"
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Scheda «Cantina Rauscedo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=528115786343978734",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 8,
+   "n": 9,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 9,
+   "n": 10,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"

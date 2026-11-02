@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini della Maremma Toscana [[1]]\nConsorzio del Vino Brunello di Montalcino [[2]]"
+     "valore": "Compare nell’elenco delle aziende associate a Consorzio Tutela Vini della Maremma Toscana [[1]]\nConsorzio Tutela Vini Soave e Recioto di Soave [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio del Vino Brunello di Montalcino [[3]]"
     }
    ]
   },
@@ -49,7 +53,7 @@
     },
     {
      "etichetta": "Denominazioni dichiarate",
-     "valore": "Brunello di Montalcino; Rosso di Montalcino [[2]]"
+     "valore": "Brunello di Montalcino; Rosso di Montalcino [[3]]"
     }
    ]
   },
@@ -67,11 +71,11 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/PICCINIWINES|PICCINIWINES}}\nInstagram {{https://www.instagram.com/picciniwines/|@picciniwines}}\nYouTube {{https://www.youtube.com/@picciniwines331|@picciniwines331}}\nLinkedIn {{https://www.linkedin.com/company/tenute-piccini|tenute-piccini}} [[3]]"
+     "valore": "Facebook {{https://www.facebook.com/PICCINIWINES|PICCINIWINES}}\nInstagram {{https://www.instagram.com/picciniwines/|@picciniwines}}\nYouTube {{https://www.youtube.com/@picciniwines331|@picciniwines331}}\nLinkedIn {{https://www.linkedin.com/company/tenute-piccini|tenute-piccini}} [[4]]"
     },
     {
      "etichetta": "Negozio online",
-     "valore": "{{https://shop.piccini1882.it/it/eur/de|shop.piccini1882.it/it/eur/de}} [[3]]"
+     "valore": "{{https://shop.piccini1882.it/it/eur/de|shop.piccini1882.it/it/eur/de}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -79,11 +83,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=1943465027352105400|Mappa}} — valutazione 4,2 su 5 (147 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=1943465027352105400|Mappa}} — valutazione 4,2 su 5 (147 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -98,24 +102,30 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave, consultato il 2 novembre 2026.",
+   "url": "https://www.ilsoave.com/produttori-soave/listing/tenute-piccini-2/",
+   "etichetta": "ilsoave.com"
+  },
+  {
+   "n": 3,
    "testo": "Consorzio del Vino Brunello di Montalcino, scheda della cantina nell’elenco delle aziende associate, consultato il 26 ottobre 2026.",
    "url": "https://www.consorziobrunellodimontalcino.it/it/1490/piccini-1882-villa-al-cortile",
    "etichetta": "consorziobrunellodimontalcino.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://www.tenutepiccini.it",
    "etichetta": "tenutepiccini.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Tenute Piccini - Sede» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=1943465027352105400",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

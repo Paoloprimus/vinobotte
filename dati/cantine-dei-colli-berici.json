@@ -22,8 +22,8 @@
      "valore": "{{http://collisgroup.it|collisgroup.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[2]]\nConsorzio Tutela Vini Colli Berici e Vicenza [[3]]\nConsorzio Tutela DOC Delle Venezie [[4]]"
     }
    ]
   },
@@ -59,7 +59,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "X {{https://x.com/sh|@sh}}\nLinkedIn {{https://www.linkedin.com/company/collis-veneto-wine-group|collis-veneto-wine-group}} [[2]]"
+     "valore": "X {{https://x.com/sh|@sh}}\nLinkedIn {{https://www.linkedin.com/company/collis-veneto-wine-group|collis-veneto-wine-group}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -67,7 +67,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=14250165356386810349|Mappa}} — valutazione 4,4 su 5 (47 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=14250165356386810349|Mappa}} — valutazione 4,4 su 5 (47 recensioni) [[6]]"
     }
    ]
   }
@@ -82,12 +82,30 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.montilessini.com/produttori-vino-durello/",
+   "etichetta": "montilessini.com"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Colli Berici e Vicenza, consultato il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  },
+  {
+   "n": 4,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://collisgroup.it",
    "etichetta": "collisgroup.it"
   },
   {
-   "n": 3,
+   "n": 6,
    "testo": "Scheda «Cantine Dei Colli Berici» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=14250165356386810349",
    "etichetta": "maps.google.com"

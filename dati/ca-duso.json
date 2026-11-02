@@ -22,8 +22,8 @@
      "valore": "{{http://cantinaduso.com|cantinaduso.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
-     "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[1]]"
+     "etichetta": "Consorzi",
+     "valore": "Compare nell’elenco delle cantine del Consorzio Tutela Vini DOC Delle Venezie [[1]]\nConsorzio Tutela Vini Colli Berici e Vicenza [[2]]\nConsorzio Tutela DOC Delle Venezie [[3]]"
     }
    ]
   },
@@ -32,7 +32,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Il casale storico è abitato dalla famiglia Duso da quattro generazioni. [[2]]"
+     "valore": "Il casale storico è abitato dalla famiglia Duso da quattro generazioni. [[4]]"
     }
    ]
   },
@@ -61,7 +61,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/cadusowine|cadusowine}}\nInstagram {{https://www.instagram.com/cadusowine/|@cadusowine}} [[2]]"
+     "valore": "Facebook {{https://www.facebook.com/cadusowine|cadusowine}}\nInstagram {{https://www.instagram.com/cadusowine/|@cadusowine}} [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -69,7 +69,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=3789050368382820723|Mappa}} — valutazione 4,8 su 5 (43 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=3789050368382820723|Mappa}} — valutazione 4,8 su 5 (43 recensioni) [[5]]"
     }
    ]
   }
@@ -84,12 +84,24 @@
   },
   {
    "n": 2,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Colli Berici e Vicenza, consultato il 2 novembre 2026.",
+   "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
+   "etichetta": "bevidoc.it"
+  },
+  {
+   "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
+   "url": "https://dellevenezie.it/cantine/",
+   "etichetta": "dellevenezie.it"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "http://cantinaduso.com",
    "etichetta": "cantinaduso.com"
   },
   {
-   "n": 3,
+   "n": 5,
    "testo": "Scheda «Azienda Agricola Ca' Duso» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=3789050368382820723",
    "etichetta": "maps.google.com"

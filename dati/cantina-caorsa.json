@@ -27,7 +27,7 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vino Bardolino D.O.C. [[3]]\nConsorzio Tutela Vino Custoza DOC [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini DOC Delle Venezie [[2]]\nConsorzio Tutela Vino Bardolino DOC [[3]]\nConsorzio Tutela Vino Bardolino D.O.C. [[4]]\nConsorzio Tutela Vino Custoza DOC [[5]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
@@ -35,7 +35,7 @@
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Custoza",
-     "valore": "Bussolengo (VR); tel. 045 723 55 22; cantinacaorsa.com [[4]]"
+     "valore": "Bussolengo (VR); tel. 045 723 55 22; cantinacaorsa.com [[5]]"
     }
    ]
   },
@@ -84,7 +84,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=4054319632642499532|Mappa}} — valutazione 4,6 su 5 (50 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=4054319632642499532|Mappa}} — valutazione 4,6 su 5 (50 recensioni) [[6]]"
     }
    ]
   }
@@ -105,18 +105,24 @@
   },
   {
    "n": 3,
+   "testo": "Elenco dei produttori del Consorzio Tutela Vino Bardolino DOC, consultato il 2 novembre 2026.",
+   "url": "https://consorziobardolino.it/produttori",
+   "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 4,
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Consorzio Tutela Vino Custoza DOC, elenco dei soci, consultato il 24 ottobre 2026.",
    "url": "https://www.vinocustoza.it/",
    "etichetta": "vinocustoza.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Cantina Caorsa» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=4054319632642499532",
    "etichetta": "maps.google.com"

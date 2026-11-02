@@ -27,7 +27,11 @@
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[2]]\nConsorzio DOC Friuli [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela della DOC Prosecco [[2]]\nConsorzio Tutela Vini Friuli Venezia Giulia [[3]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio DOC Friuli [[4]]"
     }
    ]
   },
@@ -147,15 +151,15 @@
     {
      "nome": "Refosco dal peduncolo rosso",
      "denominazione": "denominazione non indicata nella scheda",
-     "annata": "— [[3]]"
+     "annata": "— [[4]]"
     },
     {
      "nome": "Ribolla gialla spumante",
      "denominazione": "denominazione non indicata nella scheda",
-     "annata": "— [[3]]"
+     "annata": "— [[4]]"
     }
    ],
-   "nota": "Il sito elenca le linee Antonutti, Collevento 921, Le Selezioni e Spumanti; la pagina della linea Collevento 921 (Pinot Grigio, Friulano, Chardonnay, Sauvignon, Merlot, Cabernet, Rosato) non era leggibile e le sue denominazioni non sono riportate. Il Prosecco è indicato dal sito come «Vino Spumante», senza denominazione [[1]] Elenco dei vini nella scheda del Consorzio, senza denominazione: la scheda indica soltanto il nome del vino, per tipo (bianco, rosso) in base alle icone. L’elenco è lo stesso formato per tutti i soci; la denominazione di ciascun vino va verificata sul sito della cantina [[3]]"
+   "nota": "Il sito elenca le linee Antonutti, Collevento 921, Le Selezioni e Spumanti; la pagina della linea Collevento 921 (Pinot Grigio, Friulano, Chardonnay, Sauvignon, Merlot, Cabernet, Rosato) non era leggibile e le sue denominazioni non sono riportate. Il Prosecco è indicato dal sito come «Vino Spumante», senza denominazione [[1]] Elenco dei vini nella scheda del Consorzio, senza denominazione: la scheda indica soltanto il nome del vino, per tipo (bianco, rosso) in base alle icone. L’elenco è lo stesso formato per tutti i soci; la denominazione di ciascun vino va verificata sul sito della cantina [[4]]"
   },
   {
    "titolo": "Riconoscimenti",
@@ -171,7 +175,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Facebook {{https://www.facebook.com/antonuttivini|antonuttivini}}\nInstagram {{https://www.instagram.com/antonuttivini/|@antonuttivini}} [[4]]"
+     "valore": "Facebook {{https://www.facebook.com/antonuttivini|antonuttivini}}\nInstagram {{https://www.instagram.com/antonuttivini/|@antonuttivini}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -179,11 +183,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=12399448267286539670|Mappa}} — valutazione 4,7 su 5 (46 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=12399448267286539670|Mappa}} — valutazione 4,7 su 5 (46 recensioni) [[6]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[7]]"
     }
    ]
   }
@@ -204,28 +208,34 @@
   },
   {
    "n": 3,
-   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "testo": "Elenco dei produttori del Consorzio Tutela Vini Friuli Venezia Giulia, consultato il 2 novembre 2026.",
    "url": "https://www.docfriuli.eu/aziende/antonutti/",
    "etichetta": "docfriuli.eu"
   },
   {
    "n": 4,
+   "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
+   "url": "https://www.docfriuli.eu/aziende/antonutti/",
+   "etichetta": "docfriuli.eu"
+  },
+  {
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.antonuttivini.it/",
    "etichetta": "antonuttivini.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Antonutti E. Casa Vinicola S.N.C.» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=12399448267286539670",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   },
   {
-   "n": 7,
+   "n": 8,
    "testo": "Consorzio DOC Friuli, elenco delle aziende e schede delle singole aziende, consultati il 25 ottobre 2026.",
    "url": "https://www.docfriuli.eu/aziende/",
    "etichetta": "docfriuli.eu"
