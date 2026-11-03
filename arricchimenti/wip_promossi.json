@@ -46849,7 +46849,7 @@
   },
   "rag": "",
   "piva": "",
-  "sede": "Cesare Battisti , 19, 28073 Fara Novarese (NO)",
+  "sede": "Cesare Battisti, 19, 28073 Fara Novarese (NO)",
   "tel": "",
   "email": "",
   "sito": "",
@@ -46909,7 +46909,7 @@
   },
   "rag": "",
   "piva": "",
-  "sede": "Località Tappia , snc, 28844 Villadossola (VB)",
+  "sede": "Località Tappia, snc, 28844 Villadossola (VB)",
   "tel": "",
   "email": "info@lacantinaditappia.it",
   "sito": "",
@@ -47179,7 +47179,7 @@
   },
   "rag": "",
   "piva": "",
-  "sede": "Via Eroi d'Africa , 38, 13855 Valdengo (BI)",
+  "sede": "Via Eroi d'Africa, 38, 13855 Valdengo (BI)",
   "tel": "",
   "email": "",
   "sito": "",
@@ -47555,6 +47555,696 @@
   "dom_consorzio": "erbalucecarema.it",
   "data_consorzio": "3 novembre 2026",
   "consorzio": "erbaluce",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "antonio-vallana",
+  "nome": "Antonio Vallana",
+  "regione": "Piemonte",
+  "comune": "Maggiora",
+  "tipi": {
+   "alto-piemonte": [
+    "Alto Piemonte"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Mazzini, 3, 28014 Maggiora (NO)",
+  "tel": "",
+  "email": "info@vallanawines.com",
+  "sito": "",
+  "dom": "",
+  "den": "Boca DOC; Colline Novaresi DOC; Gattinara DOCG",
+  "wip": "Antonio Vallana",
+  "url_consorzio": "https://consnebbiolialtop.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Nebbioli Alto Piemonte",
+  "dom_consorzio": "consnebbiolialtop.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "alto-piemonte",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "barbaglia-silvia",
+  "nome": "Barbaglia Silvia",
+  "regione": "Piemonte",
+  "comune": "Cavallirio",
+  "tipi": {
+   "alto-piemonte": [
+    "Alto Piemonte"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Dante, 80, 28010 Cavallirio (NO)",
+  "tel": "",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Boca DOC; Colline Novaresi DOC",
+  "wip": "Barbaglia Silvia",
+  "url_consorzio": "https://consnebbiolialtop.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Nebbioli Alto Piemonte",
+  "dom_consorzio": "consnebbiolialtop.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "alto-piemonte",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "boniperti-gilberto",
+  "nome": "Boniperti Gilberto",
+  "regione": "Piemonte",
+  "comune": "Barengo",
+  "tipi": {
+   "alto-piemonte": [
+    "Alto Piemonte"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Vittorio Emanuele, 43 / 45, 28010 Barengo (NO)",
+  "tel": "",
+  "email": "info@bonipertivignaioli.com",
+  "sito": "",
+  "dom": "",
+  "den": "Colline Novaresi DOC; Fara DOC",
+  "wip": "Boniperti Gilberto",
+  "url_consorzio": "https://consnebbiolialtop.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Nebbioli Alto Piemonte",
+  "dom_consorzio": "consnebbiolialtop.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "alto-piemonte",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "cantine-cogo",
+  "nome": "Cantine Cogo",
+  "regione": "Piemonte",
+  "comune": "Gattico-Veruno",
+  "tipi": {
+   "alto-piemonte": [
+    "Alto Piemonte"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Madonna, 33/bis, 28013 Gattico-Veruno (NO)",
+  "tel": "",
+  "email": "info@cantinecogo.it",
+  "sito": "",
+  "dom": "",
+  "den": "Colline Novaresi DOC",
+  "wip": "Cantine Cogo",
+  "url_consorzio": "https://consnebbiolialtop.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Nebbioli Alto Piemonte",
+  "dom_consorzio": "consnebbiolialtop.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "alto-piemonte",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "cantine-patriarca",
+  "nome": "Cantine Patriarca",
+  "regione": "Piemonte",
+  "comune": "Gattinara",
+  "tipi": {
+   "alto-piemonte": [
+    "Alto Piemonte"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Galilelo Ferraris, 14, 13045 Gattinara (VC)",
+  "tel": "",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Coste della Sesia DOC; Gattinara DOCG",
+  "wip": "Cantine Patriarca",
+  "url_consorzio": "https://consnebbiolialtop.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Nebbioli Alto Piemonte",
+  "dom_consorzio": "consnebbiolialtop.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "alto-piemonte",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "franchino-di-raviciotti-alberto",
+  "nome": "Franchino Di Raviciotti Alberto",
+  "regione": "Piemonte",
+  "comune": "Gattinara",
+  "tipi": {
+   "alto-piemonte": [
+    "Alto Piemonte"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Piazza Castello, 1, 13045 Gattinara (VC)",
+  "tel": "",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Coste della Sesia DOC; Gattinara DOCG",
+  "wip": "Franchino Di Raviciotti Alberto",
+  "url_consorzio": "https://consnebbiolialtop.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Nebbioli Alto Piemonte",
+  "dom_consorzio": "consnebbiolialtop.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "alto-piemonte",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "la-psigula",
+  "nome": "La Psigula",
+  "regione": "Piemonte",
+  "comune": "Curino",
+  "tipi": {
+   "alto-piemonte": [
+    "Alto Piemonte"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Regione torre, SNC, 13865 Curino (BI)",
+  "tel": "",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Bramaterra DOC; Coste della Sesia DOC",
+  "wip": "La Psigula",
+  "url_consorzio": "https://consnebbiolialtop.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Nebbioli Alto Piemonte",
+  "dom_consorzio": "consnebbiolialtop.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "alto-piemonte",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "la-riviera",
+  "nome": "La Riviera",
+  "regione": "Piemonte",
+  "comune": "Cossato",
+  "tipi": {
+   "alto-piemonte": [
+    "Alto Piemonte"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Imer Zona, 71 B, 13836 Cossato (BI)",
+  "tel": "",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Colline Novaresi DOC; Sizzano DOC",
+  "wip": "La Riviera",
+  "url_consorzio": "https://consnebbiolialtop.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Nebbioli Alto Piemonte",
+  "dom_consorzio": "consnebbiolialtop.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "alto-piemonte",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "matteo-negri",
+  "nome": "Matteo Negri",
+  "regione": "Piemonte",
+  "comune": "Sizzano",
+  "tipi": {
+   "alto-piemonte": [
+    "Alto Piemonte"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Gibellini, 5, 28070 Sizzano (NO)",
+  "tel": "",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Colline Novaresi DOC; Sizzano DOC",
+  "wip": "Matteo Negri",
+  "url_consorzio": "https://consnebbiolialtop.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Nebbioli Alto Piemonte",
+  "dom_consorzio": "consnebbiolialtop.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "alto-piemonte",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "mazzoni-tiziano",
+  "nome": "Mazzoni Tiziano",
+  "regione": "Piemonte",
+  "comune": "Cavaglio d'Agogna",
+  "tipi": {
+   "alto-piemonte": [
+    "Alto Piemonte"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Asilo, 16, 28010 Cavaglio d'Agogna (NO)",
+  "tel": "",
+  "email": "info@vinimazzoni.it",
+  "sito": "",
+  "dom": "",
+  "den": "Colline Novaresi DOC; Ghemme DOCG",
+  "wip": "Mazzoni Tiziano",
+  "url_consorzio": "https://consnebbiolialtop.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Nebbioli Alto Piemonte",
+  "dom_consorzio": "consnebbiolialtop.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "alto-piemonte",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "pietraforata-cantine-in-ghemme",
+  "nome": "Pietraforata Cantine In Ghemme",
+  "regione": "Piemonte",
+  "comune": "Ghemme",
+  "tipi": {
+   "alto-piemonte": [
+    "Alto Piemonte"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Interno Castello, 36, 28074 Ghemme (NO)",
+  "tel": "+39 393 35431396",
+  "email": "info@pietraforata.com",
+  "sito": "",
+  "dom": "",
+  "den": "Colline Novaresi DOC; Ghemme DOCG; Sizzano DOC",
+  "wip": "Pietraforata Cantine In Ghemme",
+  "url_consorzio": "https://consnebbiolialtop.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Nebbioli Alto Piemonte",
+  "dom_consorzio": "consnebbiolialtop.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "alto-piemonte",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "quarna-vignaioli-d-alto-piemonte",
+  "nome": "Quarna - Vignaioli D'Alto Piemonte",
+  "regione": "Piemonte",
+  "comune": "Ghemme",
+  "tipi": {
+   "alto-piemonte": [
+    "Alto Piemonte"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Fontana Beata, 9, 28074 Ghemme (NO)",
+  "tel": "",
+  "email": "info@quarnavini.it",
+  "sito": "",
+  "dom": "",
+  "den": "Colline Novaresi DOC; Ghemme DOCG",
+  "wip": "Quarna - Vignaioli D'Alto Piemonte",
+  "url_consorzio": "https://consnebbiolialtop.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Nebbioli Alto Piemonte",
+  "dom_consorzio": "consnebbiolialtop.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "alto-piemonte",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "vegis-stefano",
+  "nome": "Vegis Stefano",
+  "regione": "Piemonte",
+  "comune": "Lozzolo",
+  "tipi": {
+   "alto-piemonte": [
+    "Alto Piemonte"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via C. Battisti, 10/B, 13045 Lozzolo (VC)",
+  "tel": "",
+  "email": "info@vegisgattinara.it",
+  "sito": "",
+  "dom": "",
+  "den": "Gattinara DOCG",
+  "wip": "Vegis Stefano",
+  "url_consorzio": "https://consnebbiolialtop.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Nebbioli Alto Piemonte",
+  "dom_consorzio": "consnebbiolialtop.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "alto-piemonte",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "beiva-winery",
+  "nome": "Beiva Winery",
+  "regione": "Piemonte",
+  "comune": "Canale",
+  "tipi": {
+   "roero": [
+    "Roero"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Madonna dei Cavalli, 94, 12043 Canale (CN)",
+  "tel": "+39 339 8406966",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Roero Arneis",
+  "wip": "Beiva Winery",
+  "url_consorzio": "https://consorziodelroero.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di Tutela Roero",
+  "dom_consorzio": "consorziodelroero.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "roero",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "bordone-gino",
+  "nome": "Bordone Gino",
+  "regione": "Piemonte",
+  "comune": "Monteu Roero",
+  "tipi": {
+   "roero": [
+    "Roero"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Loc. Bordoni Alti, 43, 12040 Monteu Roero (CN)",
+  "tel": "+39 390 17390440",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Roero",
+  "wip": "Bordone Gino",
+  "url_consorzio": "https://consorziodelroero.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di Tutela Roero",
+  "dom_consorzio": "consorziodelroero.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "roero",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "bricco-del-prete",
+  "nome": "Bricco del Prete",
+  "regione": "Piemonte",
+  "comune": "Priocca",
+  "tipi": {
+   "roero": [
+    "Roero"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Santuario, 1, 12040 Priocca (CN)",
+  "tel": "",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Roero",
+  "wip": "Bricco del Prete",
+  "url_consorzio": "https://consorziodelroero.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di Tutela Roero",
+  "dom_consorzio": "consorziodelroero.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "roero",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "ca-di-caire",
+  "nome": "Cà di Cairè",
+  "regione": "Piemonte",
+  "comune": "Montà",
+  "tipi": {
+   "roero": [
+    "Roero"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Borg. Valle Casette, 52, 12046 Montà (CN)",
+  "tel": "+39 0173 971263",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Roero Arneis",
+  "wip": "Cà di Cairè",
+  "url_consorzio": "https://consorziodelroero.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di Tutela Roero",
+  "dom_consorzio": "consorziodelroero.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "roero",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "fassino-giuseppe",
+  "nome": "Fassino Giuseppe",
+  "regione": "Piemonte",
+  "comune": "Monteu Roero",
+  "tipi": {
+   "roero": [
+    "Roero"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Fraz. Occhetti, 53/a, 12040 Monteu Roero (CN)",
+  "tel": "+39 0173 90727",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Roero Arneis; Roero",
+  "wip": "Fassino Giuseppe",
+  "url_consorzio": "https://consorziodelroero.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di Tutela Roero",
+  "dom_consorzio": "consorziodelroero.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "roero",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "frea-lorenzo-e-giovanni",
+  "nome": "Frea Lorenzo e Giovanni",
+  "regione": "Piemonte",
+  "comune": "Montaldo Roero",
+  "tipi": {
+   "roero": [
+    "Roero"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Fraz. San Rocco, 97, 12040 Montaldo Roero (CN)",
+  "tel": "+39 339 7972997",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Roero Arneis",
+  "wip": "Frea Lorenzo e Giovanni",
+  "url_consorzio": "https://consorziodelroero.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di Tutela Roero",
+  "dom_consorzio": "consorziodelroero.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "roero",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "maiolo-renato",
+  "nome": "Maiolo Renato",
+  "regione": "Piemonte",
+  "comune": "Santo Stefano Roero",
+  "tipi": {
+   "roero": [
+    "Roero"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Fraz. San Michele, 32, 12040 Santo Stefano Roero (CN)",
+  "tel": "+39 0173 90277",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Roero",
+  "wip": "Maiolo Renato",
+  "url_consorzio": "https://consorziodelroero.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di Tutela Roero",
+  "dom_consorzio": "consorziodelroero.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "roero",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "pezzuto-fratelli",
+  "nome": "Pezzuto Fratelli",
+  "regione": "Piemonte",
+  "comune": "Vezza d’Alba",
+  "tipi": {
+   "roero": [
+    "Roero"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via San Carlo, 19, 12040 Vezza d’Alba (CN)",
+  "tel": "+39 0173 65445",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Roero",
+  "wip": "Pezzuto Fratelli",
+  "url_consorzio": "https://consorziodelroero.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di Tutela Roero",
+  "dom_consorzio": "consorziodelroero.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "roero",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "sperone-f-lli-carlo-e-sergio",
+  "nome": "Sperone F.lli Carlo e Sergio",
+  "regione": "Piemonte",
+  "comune": "Canale",
+  "tipi": {
+   "roero": [
+    "Roero"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Podio, 9, 12043 Canale (CN)",
+  "tel": "+39 0173 95431",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Roero",
+  "wip": "Sperone F.lli Carlo e Sergio",
+  "url_consorzio": "https://consorziodelroero.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di Tutela Roero",
+  "dom_consorzio": "consorziodelroero.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "roero",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "taliano-nicola",
+  "nome": "Taliano Nicola",
+  "regione": "Piemonte",
+  "comune": "Montà",
+  "tipi": {
+   "roero": [
+    "Roero"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Borgata Rolandi, 39, 12046 Montà (CN)",
+  "tel": "+39 0173 976286",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Roero",
+  "wip": "Taliano Nicola",
+  "url_consorzio": "https://consorziodelroero.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di Tutela Roero",
+  "dom_consorzio": "consorziodelroero.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "roero",
   "data_consultazione": "3 novembre 2026"
  }
 ]

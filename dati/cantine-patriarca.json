@@ -1,0 +1,37 @@
+{
+ "nome": "Cantine Patriarca",
+ "slug": "cantine-patriarca",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Galilelo Ferraris, 14, 13045 Gattinara (VC) [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Nebbioli Alto Piemonte [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Coste della Sesia DOC; Gattinara DOCG [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Nebbioli Alto Piemonte, scheda dell’azienda consultata il 3 novembre 2026.",
+   "url": "https://consnebbiolialtop.it",
+   "etichetta": "consnebbiolialtop.it"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "nome": "Sperone F.lli Carlo e Sergio",
+ "slug": "sperone-f-lli-carlo-e-sergio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Podio, 9, 12043 Canale (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0173 95431 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Roero [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di Tutela Roero, scheda dell’azienda consultata il 3 novembre 2026.",
+   "url": "https://consorziodelroero.it",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}
