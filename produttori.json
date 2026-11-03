@@ -50954,6 +50954,1086 @@
 "primario": "tintero"
 },
 {
+"slug": "cangrande",
+"nome": "Cangrande",
+"regione": "Veneto",
+"comune": "Verona",
+"tipi": {
+"valpolicella": [
+"Valpolicella e Amarone"
+]
+},
+"membri": [
+"cangrande"
+],
+"primario": "cangrande"
+},
+{
+"slug": "tana-di-lupo",
+"nome": "Tana di Lupo",
+"regione": "Veneto",
+"comune": "Bardolino",
+"tipi": {
+"bardolino": [
+"Bardolino"
+]
+},
+"membri": [
+"tana-di-lupo"
+],
+"primario": "tana-di-lupo"
+},
+{
+"slug": "sansonina",
+"nome": "Sansonina",
+"regione": "Veneto",
+"comune": "Peschiera del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"sansonina"
+],
+"primario": "sansonina"
+},
+{
+"slug": "alberto-nani",
+"nome": "Alberto Nani",
+"regione": "Veneto",
+"comune": "Calmasino di Bardolino",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"alberto-nani"
+],
+"primario": "alberto-nani"
+},
+{
+"slug": "aldrighetti",
+"nome": "Aldrighetti",
+"regione": "Veneto",
+"comune": "Marano di Valpolicella",
+"tipi": {
+"valpolicella": [
+"Valpolicella e Amarone"
+]
+},
+"membri": [
+"aldrighetti"
+],
+"primario": "aldrighetti"
+},
+{
+"slug": "orto-di-venezia",
+"nome": "Orto di Venezia",
+"regione": "Veneto",
+"comune": "Venezia Eng",
+"tipi": {
+"venezia": [
+"Venezia, Piave e Lison Pramaggiore"
+]
+},
+"membri": [
+"orto-di-venezia"
+],
+"primario": "orto-di-venezia"
+},
+{
+"slug": "indomiti-vini",
+"nome": "Indomiti Vini",
+"regione": "Veneto",
+"comune": "Vicenza",
+"tipi": {
+"colli-berici": [
+"Colli Berici"
+]
+},
+"membri": [
+"indomiti-vini"
+],
+"primario": "indomiti-vini"
+},
+{
+"slug": "rarefratte",
+"nome": "Rarefratte",
+"regione": "Veneto",
+"comune": "Breganze",
+"tipi": {
+"breganze": [
+"Breganze"
+]
+},
+"membri": [
+"rarefratte"
+],
+"primario": "rarefratte"
+},
+{
+"slug": "reassi",
+"nome": "Reassi",
+"regione": "Veneto",
+"comune": "Carbonara di Rovolon",
+"tipi": {
+"euganei": [
+"Colli Euganei"
+]
+},
+"membri": [
+"reassi"
+],
+"primario": "reassi"
+},
+{
+"slug": "basaltica",
+"nome": "Basaltica",
+"regione": "Veneto",
+"comune": "Gambellara",
+"tipi": {
+"gambellara": [
+"Gambellara"
+]
+},
+"membri": [
+"basaltica"
+],
+"primario": "basaltica"
+},
+{
+"slug": "col-de-roer",
+"nome": "Col de Roer",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"col-de-roer"
+],
+"primario": "col-de-roer"
+},
+{
+"slug": "monban",
+"nome": "Monban",
+"regione": "Veneto",
+"comune": "Collalbrigo",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"monban"
+],
+"primario": "monban"
+},
+{
+"slug": "miglio-rosso",
+"nome": "Miglio Rosso",
+"regione": "Veneto",
+"comune": "Jesolo",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"miglio-rosso"
+],
+"primario": "miglio-rosso"
+},
+{
+"slug": "terre-di-molina",
+"nome": "Terre di Molina",
+"regione": "Veneto",
+"comune": "Molina Verona",
+"tipi": {
+"valpolicella": [
+"Valpolicella e Amarone"
+]
+},
+"membri": [
+"terre-di-molina"
+],
+"primario": "terre-di-molina"
+},
+{
+"slug": "torcolato-gallio",
+"nome": "Torcolato Gallio",
+"regione": "Veneto",
+"comune": "Breganze",
+"tipi": {
+"breganze": [
+"Breganze"
+]
+},
+"membri": [
+"torcolato-gallio"
+],
+"primario": "torcolato-gallio"
+},
+{
+"slug": "casato-1922",
+"nome": "Casato 1922",
+"regione": "Veneto",
+"comune": "Verona",
+"tipi": {
+"soave": [
+"Soave"
+]
+},
+"membri": [
+"casato-1922"
+],
+"primario": "casato-1922"
+},
+{
+"slug": "vinore",
+"nome": "Vinorè",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"vinore"
+],
+"primario": "vinore"
+},
+{
+"slug": "valdal",
+"nome": "Valdal",
+"regione": "Veneto",
+"comune": "Roncà Fraz. Terrossa",
+"tipi": {
+"soave": [
+"Soave"
+]
+},
+"membri": [
+"valdal"
+],
+"primario": "valdal"
+},
+{
+"slug": "gallina-roberto",
+"nome": "Gallina Roberto",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"gallina-roberto"
+],
+"primario": "gallina-roberto"
+},
+{
+"slug": "staffilo",
+"nome": "Staffilo",
+"regione": "Veneto",
+"comune": "Torre di Mosto",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"staffilo"
+],
+"primario": "staffilo"
+},
+{
+"slug": "carpanese-cirillo",
+"nome": "Carpanese Cirillo",
+"regione": "Veneto",
+"comune": "Teolo",
+"tipi": {
+"euganei": [
+"Colli Euganei"
+]
+},
+"membri": [
+"carpanese-cirillo"
+],
+"primario": "carpanese-cirillo"
+},
+{
+"slug": "boscodivino",
+"nome": "Boscodivino",
+"regione": "Veneto",
+"comune": "Zugliano",
+"tipi": {
+"breganze": [
+"Breganze"
+]
+},
+"membri": [
+"boscodivino"
+],
+"primario": "boscodivino"
+},
+{
+"slug": "osteria-da-ugo",
+"nome": "Osteria da Ugo",
+"regione": "Veneto",
+"comune": "Verona",
+"tipi": {
+"valpolicella": [
+"Valpolicella e Amarone"
+]
+},
+"membri": [
+"osteria-da-ugo"
+],
+"primario": "osteria-da-ugo"
+},
+{
+"slug": "salieri",
+"nome": "Salieri",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"salieri"
+],
+"primario": "salieri"
+},
+{
+"slug": "colomberotto",
+"nome": "Colomberotto",
+"regione": "Veneto",
+"comune": "Moriago della Battaglia",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"colomberotto"
+],
+"primario": "colomberotto"
+},
+{
+"slug": "gusto-e-bollicine",
+"nome": "Gusto e Bollicine",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"gusto-e-bollicine"
+],
+"primario": "gusto-e-bollicine"
+},
+{
+"slug": "cantina-rosaval",
+"nome": "Cantina Rosaval",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"cantina-rosaval"
+],
+"primario": "cantina-rosaval"
+},
+{
+"slug": "mazzi-e-molina",
+"nome": "Mazzi e Molina",
+"regione": "Veneto",
+"comune": "Molina di Fumane",
+"tipi": {
+"valpolicella": [
+"Valpolicella e Amarone"
+]
+},
+"membri": [
+"mazzi-e-molina"
+],
+"primario": "mazzi-e-molina"
+},
+{
+"slug": "c8-wine",
+"nome": "C8 Wine",
+"regione": "Veneto",
+"comune": "Annone Veneto",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"c8-wine"
+],
+"primario": "c8-wine"
+},
+{
+"slug": "bertoletta",
+"nome": "Bertoletta",
+"regione": "Veneto",
+"comune": "Peschiera D",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"bertoletta"
+],
+"primario": "bertoletta"
+},
+{
+"slug": "montebaldo",
+"nome": "Montebaldo",
+"regione": "Veneto",
+"comune": "Garda",
+"tipi": {
+"venezie": [
+"Delle Venezie"
+]
+},
+"membri": [
+"montebaldo"
+],
+"primario": "montebaldo"
+},
+{
+"slug": "cantinetta-paradiso",
+"nome": "Cantinetta Paradiso",
+"regione": "Veneto",
+"comune": "Peschiera del Garda",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"cantinetta-paradiso"
+],
+"primario": "cantinetta-paradiso"
+},
+{
+"slug": "bertazzo-1840",
+"nome": "Bertazzo 1840",
+"regione": "Veneto",
+"comune": "Monselice",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"bertazzo-1840"
+],
+"primario": "bertazzo-1840"
+},
+{
+"slug": "acerle",
+"nome": "Acerle",
+"regione": "Veneto",
+"comune": "Valdobbiadene Treviso",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"acerle"
+],
+"primario": "acerle"
+},
+{
+"slug": "maso-rolo",
+"nome": "Maso Rolo",
+"regione": "Veneto",
+"comune": "Grezzana di Verona",
+"tipi": {
+"valpolicella": [
+"Valpolicella e Amarone"
+]
+},
+"membri": [
+"maso-rolo"
+],
+"primario": "maso-rolo"
+},
+{
+"slug": "geronazzo-giacomo",
+"nome": "Geronazzo Giacomo",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"geronazzo-giacomo"
+],
+"primario": "geronazzo-giacomo"
+},
+{
+"slug": "murassi",
+"nome": "Murassi",
+"regione": "Veneto",
+"comune": "Lonigo",
+"tipi": {
+"colli-berici": [
+"Colli Berici"
+]
+},
+"membri": [
+"murassi"
+],
+"primario": "murassi"
+},
+{
+"slug": "cesen",
+"nome": "Cesen",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"cesen"
+],
+"primario": "cesen"
+},
+{
+"slug": "natiia",
+"nome": "Natiia",
+"regione": "Veneto",
+"comune": "Lazise",
+"tipi": {
+"bardolino": [
+"Bardolino"
+]
+},
+"membri": [
+"natiia"
+],
+"primario": "natiia"
+},
+{
+"slug": "taurisium",
+"nome": "Taurisium",
+"regione": "Veneto",
+"comune": "Belvedere di Tezze sul Brenta",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"taurisium"
+],
+"primario": "taurisium"
+},
+{
+"slug": "magrine",
+"nome": "Magrine",
+"regione": "Veneto",
+"comune": "Castelfranco Veneto Treviso",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"magrine"
+],
+"primario": "magrine"
+},
+{
+"slug": "azienda-agricola-castaldia",
+"nome": "Azienda Agricola Castaldia",
+"regione": "Veneto",
+"comune": "Mareno di Piave",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"azienda-agricola-castaldia"
+],
+"primario": "azienda-agricola-castaldia"
+},
+{
+"slug": "azienda-agricola-mont",
+"nome": "Azienda Agricola Mont",
+"regione": "Veneto",
+"comune": "Privacy Policy Informativa Sui",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"azienda-agricola-mont"
+],
+"primario": "azienda-agricola-mont"
+},
+{
+"slug": "val-di-venere",
+"nome": "Val di Venere",
+"regione": "Veneto",
+"comune": "Località S. Maria in Stelle",
+"tipi": {
+"valpolicella": [
+"Valpolicella e Amarone"
+]
+},
+"membri": [
+"val-di-venere"
+],
+"primario": "val-di-venere"
+},
+{
+"slug": "tenuta-sant-apollonia",
+"nome": "Tenuta Sant'Apollonia",
+"regione": "Veneto",
+"comune": "Via Valpantena",
+"tipi": {
+"valpolicella": [
+"Valpolicella e Amarone"
+]
+},
+"membri": [
+"tenuta-sant-apollonia"
+],
+"primario": "tenuta-sant-apollonia"
+},
+{
+"slug": "caspineda",
+"nome": "Caspineda",
+"regione": "Veneto",
+"comune": "Montebelluna",
+"tipi": {
+"asolo": [
+"Asolo e Montello"
+]
+},
+"membri": [
+"caspineda"
+],
+"primario": "caspineda"
+},
+{
+"slug": "le-pergolette",
+"nome": "Le Pergolette",
+"regione": "Veneto",
+"comune": "Lozzo Atestino",
+"tipi": {
+"soave": [
+"Soave"
+]
+},
+"membri": [
+"le-pergolette"
+],
+"primario": "le-pergolette"
+},
+{
+"slug": "prati-di-meschio",
+"nome": "Prati di Meschio",
+"regione": "Veneto",
+"comune": "Vittorio Veneto",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"prati-di-meschio"
+],
+"primario": "prati-di-meschio"
+},
+{
+"slug": "bazzo",
+"nome": "Bazzo",
+"regione": "Veneto",
+"comune": "Treviso",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"bazzo"
+],
+"primario": "bazzo"
+},
+{
+"slug": "donai",
+"nome": "Donai",
+"regione": "Veneto",
+"comune": "Mogliano Veneto",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"donai"
+],
+"primario": "donai"
+},
+{
+"slug": "il-biri",
+"nome": "Il Biri",
+"regione": "Veneto",
+"comune": "S. Pietro di Feletto",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"il-biri"
+],
+"primario": "il-biri"
+},
+{
+"slug": "cantine-primavera",
+"nome": "Cantine Primavera",
+"regione": "Veneto",
+"comune": "San Pietro in Cariano",
+"tipi": {
+"valpolicella": [
+"Valpolicella e Amarone"
+]
+},
+"membri": [
+"cantine-primavera"
+],
+"primario": "cantine-primavera"
+},
+{
+"slug": "valvarse",
+"nome": "Valvarse",
+"regione": "Veneto",
+"comune": "Valdobbiadene TV, 31049 Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"valvarse"
+],
+"primario": "valvarse"
+},
+{
+"slug": "le-risare",
+"nome": "Le Risare",
+"regione": "Veneto",
+"comune": "Busiago di Campo San Martino",
+"tipi": {
+"venezia": [
+"Venezia, Piave e Lison Pramaggiore"
+]
+},
+"membri": [
+"le-risare"
+],
+"primario": "le-risare"
+},
+{
+"slug": "tenuta-sul-monte",
+"nome": "Tenuta sul Monte",
+"regione": "Veneto",
+"comune": "Campodarsego",
+"tipi": {
+"euganei": [
+"Colli Euganei"
+]
+},
+"membri": [
+"tenuta-sul-monte"
+],
+"primario": "tenuta-sul-monte"
+},
+{
+"slug": "rosacreta",
+"nome": "Rosacreta",
+"regione": "Veneto",
+"comune": "Conegliano",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"rosacreta"
+],
+"primario": "rosacreta"
+},
+{
+"slug": "comaroto",
+"nome": "Comaroto",
+"regione": "Veneto",
+"comune": "Illasi",
+"tipi": {
+"valpolicella": [
+"Valpolicella e Amarone"
+]
+},
+"membri": [
+"comaroto"
+],
+"primario": "comaroto"
+},
+{
+"slug": "la-peca",
+"nome": "La Peca",
+"regione": "Veneto",
+"comune": "Lonigo",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"la-peca"
+],
+"primario": "la-peca"
+},
+{
+"slug": "trattoria-campiano",
+"nome": "Trattoria Campiano",
+"regione": "Veneto",
+"comune": "Malcesine",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"trattoria-campiano"
+],
+"primario": "trattoria-campiano"
+},
+{
+"slug": "case-farel",
+"nome": "Case Farel",
+"regione": "Veneto",
+"comune": "Col San Martino",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"case-farel"
+],
+"primario": "case-farel"
+},
+{
+"slug": "polentes-wines",
+"nome": "Polentes Wines",
+"regione": "Veneto",
+"comune": "Vittorio Veneto",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"polentes-wines"
+],
+"primario": "polentes-wines"
+},
+{
+"slug": "revitis",
+"nome": "Revitis",
+"regione": "Veneto",
+"comune": "Verona",
+"tipi": {
+"valpolicella": [
+"Valpolicella e Amarone"
+]
+},
+"membri": [
+"revitis"
+],
+"primario": "revitis"
+},
+{
+"slug": "peruzza",
+"nome": "Peruzza",
+"regione": "Veneto",
+"comune": "Mareno di Piave",
+"tipi": {
+"venezia": [
+"Venezia, Piave e Lison Pramaggiore"
+]
+},
+"membri": [
+"peruzza"
+],
+"primario": "peruzza"
+},
+{
+"slug": "tenuta-pinzon",
+"nome": "Tenuta Pinzon",
+"regione": "Veneto",
+"comune": "Maser -",
+"tipi": {
+"asolo": [
+"Asolo e Montello"
+]
+},
+"membri": [
+"tenuta-pinzon"
+],
+"primario": "tenuta-pinzon"
+},
+{
+"slug": "calmasino",
+"nome": "Calmasino",
+"regione": "Veneto",
+"comune": "Bardolino",
+"tipi": {
+"valpolicella": [
+"Valpolicella e Amarone"
+]
+},
+"membri": [
+"calmasino"
+],
+"primario": "calmasino"
+},
+{
+"slug": "i-canevisti",
+"nome": "I Canevisti",
+"regione": "Veneto",
+"comune": "Breganze",
+"tipi": {
+"breganze": [
+"Breganze"
+]
+},
+"membri": [
+"i-canevisti"
+],
+"primario": "i-canevisti"
+},
+{
+"slug": "mon-dragon",
+"nome": "Mon Dragon",
+"regione": "Veneto",
+"comune": "Tarzo",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"mon-dragon"
+],
+"primario": "mon-dragon"
+},
+{
+"slug": "sestere",
+"nome": "Sestere",
+"regione": "Veneto",
+"comune": "Fontanelle",
+"tipi": {
+"venezia": [
+"Venezia, Piave e Lison Pramaggiore"
+]
+},
+"membri": [
+"sestere"
+],
+"primario": "sestere"
+},
+{
+"slug": "il-borgo-dei-vettor",
+"nome": "Il Borgo dei Vettor",
+"regione": "Veneto",
+"comune": "San Giovanni",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"il-borgo-dei-vettor"
+],
+"primario": "il-borgo-dei-vettor"
+},
+{
+"slug": "le-stanghe",
+"nome": "Le Stanghe",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"le-stanghe"
+],
+"primario": "le-stanghe"
+},
+{
+"slug": "vite-in-rosa",
+"nome": "Vite in Rosa",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"vite-in-rosa"
+],
+"primario": "vite-in-rosa"
+},
+{
+"slug": "zanatta-roberto",
+"nome": "Zanatta Roberto",
+"regione": "Veneto",
+"comune": "Chiarano",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"zanatta-roberto"
+],
+"primario": "zanatta-roberto"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",

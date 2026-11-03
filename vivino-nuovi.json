@@ -12970,5 +12970,1373 @@
     "Barolo, Barbaresco e Langhe"
    ]
   }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "cangrande",
+  "nome": "Cangrande",
+  "comune": "Verona",
+  "sede": "Via Goffredo Mameli 146/C, 37124 Verona (VR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.cangrande.it/web/",
+  "dom": "cangrande.it",
+  "storia": "",
+  "den": "Valpolicella; Venezia",
+  "tipi": {
+   "valpolicella": [
+    "Valpolicella e Amarone"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "tana-di-lupo",
+  "nome": "Tana di Lupo",
+  "comune": "Bardolino",
+  "sede": "Via S. Cristina 1, 37011 Bardolino (VR)",
+  "tel": "+39 0457 210484",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.tanadilupo.com",
+  "dom": "tanadilupo.com",
+  "storia": "",
+  "den": "Bardolino; Garda",
+  "tipi": {
+   "bardolino": [
+    "Bardolino"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "sansonina",
+  "nome": "Sansonina",
+  "comune": "Peschiera del Garda",
+  "sede": "Località Sansoni a, 37019 Peschiera del Garda (VR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.sansonina.it",
+  "dom": "sansonina.it",
+  "storia": "",
+  "den": "Lugana; Garda",
+  "tipi": {
+   "lugana": [
+    "Lugana"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "alberto-nani",
+  "nome": "Alberto Nani",
+  "comune": "Calmasino di Bardolino",
+  "sede": "località Colombara 5, 37011 Calmasino di Bardolino (VR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "IWB Italia S.p.A",
+  "sito": "https://www.albertonani.com/",
+  "dom": "albertonani.com",
+  "storia": "",
+  "den": "Prosecco",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "aldrighetti",
+  "nome": "Aldrighetti",
+  "comune": "Marano di Valpolicella",
+  "sede": "Via del Muratore, 2, 37020 Marano di Valpolicella (VR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://aldrighettivini.it/it",
+  "dom": "aldrighettivini.it",
+  "storia": "",
+  "den": "Amarone; Valpolicella; Ripasso; Recioto",
+  "tipi": {
+   "valpolicella": [
+    "Valpolicella e Amarone"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "orto-di-venezia",
+  "nome": "Orto di Venezia",
+  "comune": "Venezia Eng",
+  "sede": "via Delle Motte San Erasm o, 30141 Venezia Eng (VE)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.ortodivenezia.com",
+  "dom": "ortodivenezia.com",
+  "storia": "",
+  "den": "Venezia",
+  "tipi": {
+   "venezia": [
+    "Venezia, Piave e Lison Pramaggiore"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "indomiti-vini",
+  "nome": "Indomiti Vini",
+  "comune": "Vicenza",
+  "sede": "Via Andrea Marani 12, 36100 Vicenza (VI)",
+  "tel": "+39 328 8223056",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://indomiti.eu/",
+  "dom": "indomiti.eu",
+  "storia": "",
+  "den": "Colli Berici",
+  "tipi": {
+   "colli-berici": [
+    "Colli Berici"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "rarefratte",
+  "nome": "Rarefratte",
+  "comune": "Breganze",
+  "sede": "Via Brogliati Contro 58 (7,93 km), 36042 Breganze (VI)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.rarefratte.it",
+  "dom": "rarefratte.it",
+  "storia": "",
+  "den": "Breganze",
+  "tipi": {
+   "breganze": [
+    "Breganze"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "reassi",
+  "nome": "Reassi",
+  "comune": "Carbonara di Rovolon",
+  "sede": "Via A. Manzoni, 9, 35030 Carbonara di Rovolon (PD)",
+  "tel": "+39 0495 227084",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.reassi.it",
+  "dom": "reassi.it",
+  "storia": "",
+  "den": "Colli Euganei; Fior d'Arancio",
+  "tipi": {
+   "euganei": [
+    "Colli Euganei"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "basaltica",
+  "nome": "Basaltica",
+  "comune": "Gambellara",
+  "sede": "Via Monsignor Fossà, 5, 36053 Gambellara (VI)",
+  "tel": "+39 0444 1791024",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.basaltica.wine/",
+  "dom": "basaltica.wine",
+  "storia": "",
+  "den": "Gambellara",
+  "tipi": {
+   "gambellara": [
+    "Gambellara"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "col-de-roer",
+  "nome": "Col de Roer",
+  "comune": "Valdobbiadene",
+  "sede": "Vicolo Col de Roèr, 7, 31049 Valdobbiadene (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.colderoer.it",
+  "dom": "colderoer.it",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "monban",
+  "nome": "Monban",
+  "comune": "Collalbrigo",
+  "sede": "Via del Marsiglion 122, 31015 Collalbrigo (TV)",
+  "tel": "+39 340 5979252",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://monban.it/",
+  "dom": "monban.it",
+  "storia": "",
+  "den": "Prosecco",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "miglio-rosso",
+  "nome": "Miglio Rosso",
+  "comune": "Jesolo",
+  "sede": "Via Roma sinistra, 89, 30016 Jesolo (VE)",
+  "tel": "+39 340 7730402",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://migliorosso.com/",
+  "dom": "migliorosso.com",
+  "storia": "",
+  "den": "Prosecco",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "terre-di-molina",
+  "nome": "Terre di Molina",
+  "comune": "Molina Verona",
+  "sede": "Via Gorgusello di Sott o, 37022 Molina Verona (VR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://terredimolina.it/",
+  "dom": "terredimolina.it",
+  "storia": "",
+  "den": "Valpolicella",
+  "tipi": {
+   "valpolicella": [
+    "Valpolicella e Amarone"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "torcolato-gallio",
+  "nome": "Torcolato Gallio",
+  "comune": "Breganze",
+  "sede": "Via Gasparona 32, 36042 Breganze (VI)",
+  "tel": "+39 0445 874204",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.torcolatogallio.it/it/",
+  "dom": "torcolatogallio.it",
+  "storia": "",
+  "den": "Breganze",
+  "tipi": {
+   "breganze": [
+    "Breganze"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "casato-1922",
+  "nome": "Casato 1922",
+  "comune": "Verona",
+  "sede": "via S.Carlo 12, 37138 Verona (VR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.casato1922.wine",
+  "dom": "casato1922.wine",
+  "storia": "",
+  "den": "Soave",
+  "tipi": {
+   "soave": [
+    "Soave"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "vinore",
+  "nome": "Vinorè",
+  "comune": "Valdobbiadene",
+  "sede": "Via Ponte Vecchio, 24, 31049 Valdobbiadene (TV)",
+  "tel": "+39 0423 982142",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.vinore.it",
+  "dom": "vinore.it",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene; Venezia",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "valdal",
+  "nome": "Valdal",
+  "comune": "Roncà Fraz. Terrossa",
+  "sede": "Via del Lavoro nr. 4, 37030 Roncà Fraz. Terrossa (VR)",
+  "tel": "+39 346 5029560",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.valdal.it",
+  "dom": "valdal.it",
+  "storia": "",
+  "den": "Soave; Vicenza",
+  "tipi": {
+   "soave": [
+    "Soave"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "gallina-roberto",
+  "nome": "Gallina Roberto",
+  "comune": "Valdobbiadene",
+  "sede": "Via Vettorazzi e Bisol, 15, 31049 Valdobbiadene (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.gallinaroberto.com",
+  "dom": "gallinaroberto.com",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "staffilo",
+  "nome": "Staffilo",
+  "comune": "Torre di Mosto",
+  "sede": "Via Roncade, 6, 30020 Torre di Mosto (VE)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.staffilo.it",
+  "dom": "staffilo.it",
+  "storia": "",
+  "den": "Prosecco",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "carpanese-cirillo",
+  "nome": "Carpanese Cirillo",
+  "comune": "Teolo",
+  "sede": "via Contea, 21/ 23, 35037 Teolo (PD)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.carpanesecirillo.it",
+  "dom": "carpanesecirillo.it",
+  "storia": "",
+  "den": "Prosecco; Colli Euganei; Fior d'Arancio",
+  "tipi": {
+   "euganei": [
+    "Colli Euganei"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "boscodivino",
+  "nome": "Boscodivino",
+  "comune": "Zugliano",
+  "sede": "Via Gutelmo 5, 36030 Zugliano (VI)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.boscodivino.it/it/",
+  "dom": "boscodivino.it",
+  "storia": "",
+  "den": "Breganze",
+  "tipi": {
+   "breganze": [
+    "Breganze"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "osteria-da-ugo",
+  "nome": "Osteria da Ugo",
+  "comune": "Verona",
+  "sede": "Vicolo dietro S. Andrea 1/B, 37121 Verona (VR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://osteriadaugo.com/",
+  "dom": "osteriadaugo.com",
+  "storia": "",
+  "den": "Amarone; Valpolicella; Custoza",
+  "tipi": {
+   "valpolicella": [
+    "Valpolicella e Amarone"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "salieri",
+  "nome": "Salieri",
+  "comune": "Valdobbiadene",
+  "sede": "via Cal Vecchia del Col 40, 31049 Valdobbiadene (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "Az. Agr. Salieri S.r.l",
+  "sito": "https://salierispumante.it/",
+  "dom": "salierispumante.it",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "colomberotto",
+  "nome": "Colomberotto",
+  "comune": "Moriago della Battaglia",
+  "sede": "Via Montegrappa 68/72, 31010 Moriago della Battaglia (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://colomberotto.it/",
+  "dom": "colomberotto.it",
+  "storia": "",
+  "den": "Montello",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "gusto-e-bollicine",
+  "nome": "Gusto e Bollicine",
+  "comune": "Valdobbiadene",
+  "sede": "Via Cal di Zoc, 1, 31049 Valdobbiadene (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.gustoebollicine.it",
+  "dom": "gustoebollicine.it",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "cantina-rosaval",
+  "nome": "Cantina Rosaval",
+  "comune": "Valdobbiadene",
+  "sede": "via Rocat e Ferrari 20/A, 31049 Valdobbiadene (TV)",
+  "tel": "+39 0423 975214",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://rosaval.it/",
+  "dom": "rosaval.it",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "mazzi-e-molina",
+  "nome": "Mazzi e Molina",
+  "comune": "Molina di Fumane",
+  "sede": "Via Battai, 1, 37022 Molina di Fumane (VR)",
+  "tel": "+39 340 3524127",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.mazziemolina.it",
+  "dom": "mazziemolina.it",
+  "storia": "",
+  "den": "Valpolicella",
+  "tipi": {
+   "valpolicella": [
+    "Valpolicella e Amarone"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "c8-wine",
+  "nome": "C8 Wine",
+  "comune": "Annone Veneto",
+  "sede": "Via Lorenzaga, 24, 30020 Annone Veneto (VE)",
+  "tel": "+39 320 6436377",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://c8wine.com/",
+  "dom": "c8wine.com",
+  "storia": "",
+  "den": "Prosecco; Conegliano Valdobbiadene; Valdobbiadene",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "bertoletta",
+  "nome": "Bertoletta",
+  "comune": "Peschiera D",
+  "sede": "via Bertoletta 8, 37019 Peschiera D (VR)",
+  "tel": "+39 0456 401241",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.bertoletta.it",
+  "dom": "bertoletta.it",
+  "storia": "",
+  "den": "Lugana; Garda",
+  "tipi": {
+   "lugana": [
+    "Lugana"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "montebaldo",
+  "nome": "Montebaldo",
+  "comune": "Garda",
+  "sede": "Via S.Bernardo, 137/a, 37016 Garda (VR)",
+  "tel": "+39 0457 255666",
+  "contatti": "",
+  "rag": "Montebaldo S.r.l",
+  "sito": "https://www.montebaldo.com/index.cfm/it/",
+  "dom": "montebaldo.com",
+  "storia": "",
+  "den": "Garda",
+  "tipi": {
+   "venezie": [
+    "Delle Venezie"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "cantinetta-paradiso",
+  "nome": "Cantinetta Paradiso",
+  "comune": "Peschiera del Garda",
+  "sede": "Strada Massoni, 6, 37019 Peschiera del Garda (VR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.cantinettaparadiso.com",
+  "dom": "cantinettaparadiso.com",
+  "storia": "",
+  "den": "Garda",
+  "tipi": {
+   "garda": [
+    "Garda"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "bertazzo-1840",
+  "nome": "Bertazzo 1840",
+  "comune": "Monselice",
+  "sede": "Via Pozzetto, 19, 35043 Monselice (PD)",
+  "tel": "",
+  "contatti": "",
+  "rag": "Bertazzo 1840 Società Agricola di",
+  "sito": "https://www.bertazzo1840.wine/",
+  "dom": "bertazzo1840.wine",
+  "storia": "",
+  "den": "Colli Euganei",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "acerle",
+  "nome": "Acerle",
+  "comune": "Valdobbiadene Treviso",
+  "sede": "Via Grave 3, 31049 Valdobbiadene Treviso (TV)",
+  "tel": "+39 349 8299344",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.acerle.it",
+  "dom": "acerle.it",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene; Cartizze",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "maso-rolo",
+  "nome": "Maso Rolo",
+  "comune": "Grezzana di Verona",
+  "sede": "Via Marconi 30, 37023 Grezzana di Verona (VR)",
+  "tel": "+39 348 4904511",
+  "contatti": "",
+  "rag": "",
+  "sito": "http://www.masorolo.it/",
+  "dom": "masorolo.it",
+  "storia": "",
+  "den": "Valpolicella",
+  "tipi": {
+   "valpolicella": [
+    "Valpolicella e Amarone"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "geronazzo-giacomo",
+  "nome": "Geronazzo Giacomo",
+  "comune": "Valdobbiadene",
+  "sede": "Strada della Morte 31 - Loc. Riva di Martignago, 31049 Valdobbiadene (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.geronazzogiacomo.it",
+  "dom": "geronazzogiacomo.it",
+  "storia": "",
+  "den": "Valdobbiadene",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "murassi",
+  "nome": "Murassi",
+  "comune": "Lonigo",
+  "sede": "Via ALBARIA CENTRO, 5, 36045 Lonigo (VI)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.murassi.it/it",
+  "dom": "murassi.it",
+  "storia": "",
+  "den": "Prosecco; Colli Berici; Venezia; Vicenza",
+  "tipi": {
+   "colli-berici": [
+    "Colli Berici"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "cesen",
+  "nome": "Cesen",
+  "comune": "Valdobbiadene",
+  "sede": "Viale Vittoria, 28, 31049 Valdobbiadene (TV)",
+  "tel": "+39 0423 1916895",
+  "contatti": "",
+  "rag": "Cesen Srls",
+  "sito": "https://www.cesen.it/index.php/it/",
+  "dom": "cesen.it",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "natiia",
+  "nome": "Natiia",
+  "comune": "Lazise",
+  "sede": "Via Fossalta, 17, 37017 Lazise (VR)",
+  "tel": "+39 0458 240690",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://natiia.com/",
+  "dom": "natiia.com",
+  "storia": "",
+  "den": "Bardolino; Garda",
+  "tipi": {
+   "bardolino": [
+    "Bardolino"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "taurisium",
+  "nome": "Taurisium",
+  "comune": "Belvedere di Tezze sul Brenta",
+  "sede": "Via Sole 64/A, 36056 Belvedere di Tezze sul Brenta (VI)",
+  "tel": "+39 0424 561000",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.taurisium-wine.it/",
+  "dom": "taurisium-wine.it",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "magrine",
+  "nome": "Magrine",
+  "comune": "Castelfranco Veneto Treviso",
+  "sede": "Via Postioma di Salvarosa 24/ a, 31033 Castelfranco Veneto Treviso (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.magrine.it/it/home",
+  "dom": "magrine.it",
+  "storia": "",
+  "den": "Prosecco",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "azienda-agricola-castaldia",
+  "nome": "Azienda Agricola Castaldia",
+  "comune": "Mareno di Piave",
+  "sede": "Via Castaldia 12/a, 31010 Mareno di Piave (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.castaldia.it",
+  "dom": "castaldia.it",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene; Piave; Venezia",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "azienda-agricola-mont",
+  "nome": "Azienda Agricola Mont",
+  "comune": "Privacy Policy Informativa Sui",
+  "sede": "Strada mont 7 Valdobbiadene (TV) - P.Iva: 04, 30260 Privacy Policy Informativa Sui (VE)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://aziendaagricolamont.it/",
+  "dom": "aziendaagricolamont.it",
+  "storia": "",
+  "den": "Valdobbiadene; Cartizze",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "val-di-venere",
+  "nome": "Val di Venere",
+  "comune": "Località S. Maria in Stelle",
+  "sede": "Via Pantheon, 63, 37142 Località S. Maria in Stelle (VR)",
+  "tel": "+39 0459 611468",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.valdivenere.it",
+  "dom": "valdivenere.it",
+  "storia": "",
+  "den": "Valpolicella",
+  "tipi": {
+   "valpolicella": [
+    "Valpolicella e Amarone"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "tenuta-sant-apollonia",
+  "nome": "Tenuta Sant'Apollonia",
+  "comune": "Via Valpantena",
+  "sede": "Via Vendri 1/R , Vero a, 37142 Via Valpantena (VR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://tenutasantapollonia.it/",
+  "dom": "tenutasantapollonia.it",
+  "storia": "",
+  "den": "Valpolicella; Garda",
+  "tipi": {
+   "valpolicella": [
+    "Valpolicella e Amarone"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "caspineda",
+  "nome": "Caspineda",
+  "comune": "Montebelluna",
+  "sede": "Via Bassanese 28, 31044 Montebelluna (TV)",
+  "tel": "+39 392 6817719",
+  "contatti": "",
+  "rag": "",
+  "sito": "http://caspineda.com/",
+  "dom": "caspineda.com",
+  "storia": "",
+  "den": "Prosecco; Asolo; Montello",
+  "tipi": {
+   "asolo": [
+    "Asolo e Montello"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "le-pergolette",
+  "nome": "Le Pergolette",
+  "comune": "Lozzo Atestino",
+  "sede": "via Pergolette 29, 35034 Lozzo Atestino (PD)",
+  "tel": "+39 0429 94297",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://lepergolette.it/",
+  "dom": "lepergolette.it",
+  "storia": "",
+  "den": "Soave; Colli Euganei; Fior d'Arancio",
+  "tipi": {
+   "soave": [
+    "Soave"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "prati-di-meschio",
+  "nome": "Prati di Meschio",
+  "comune": "Vittorio Veneto",
+  "sede": "Via dei Furlani 145, 31029 Vittorio Veneto (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.pratidimeschio.it",
+  "dom": "pratidimeschio.it",
+  "storia": "",
+  "den": "Prosecco; Piave",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "bazzo",
+  "nome": "Bazzo",
+  "comune": "Treviso",
+  "sede": "Via Pianale, 57 San Pietro di Felett o, 31020 Treviso (TV)",
+  "tel": "+39 0438 784149",
+  "contatti": "",
+  "rag": "Informativa sulla Privacy descrive le politiche di Bazzo Società Agricola",
+  "sito": "https://www.bazzo.wine",
+  "dom": "bazzo.wine",
+  "storia": "",
+  "den": "Prosecco",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "donai",
+  "nome": "Donai",
+  "comune": "Mogliano Veneto",
+  "sede": "Via Torni, 106/A, 31021 Mogliano Veneto (TV)",
+  "tel": "+39 0414 830555",
+  "contatti": "",
+  "rag": "Agritorni Società Agricola s.",
+  "sito": "https://www.donai.it",
+  "dom": "donai.it",
+  "storia": "",
+  "den": "Prosecco",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "il-biri",
+  "nome": "Il Biri",
+  "comune": "S. Pietro di Feletto",
+  "sede": "Via Colle, 3, 31020 S. Pietro di Feletto (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "Adriano & C. - Soc. Agr",
+  "sito": "https://www.ilbiri.com/",
+  "dom": "ilbiri.com",
+  "storia": "",
+  "den": "Prosecco",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "cantine-primavera",
+  "nome": "Cantine Primavera",
+  "comune": "San Pietro in Cariano",
+  "sede": "Via Calandrine, 14, 37029 San Pietro in Cariano (VR)",
+  "tel": "+39 0457 725172",
+  "contatti": "",
+  "rag": "Cantine Primavera Srl",
+  "sito": "https://cantineprimavera.it/it/",
+  "dom": "cantineprimavera.it",
+  "storia": "",
+  "den": "Amarone; Valpolicella; Ripasso; Garda",
+  "tipi": {
+   "valpolicella": [
+    "Valpolicella e Amarone"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "valvarse",
+  "nome": "Valvarse",
+  "comune": "Valdobbiadene TV, 31049 Valdobbiadene",
+  "sede": "Via San Giacomo 1b, 31049 Valdobbiadene TV, 31049 Valdobbiadene (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://valvarse.it/",
+  "dom": "valvarse.it",
+  "storia": "",
+  "den": "Valdobbiadene",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "le-risare",
+  "nome": "Le Risare",
+  "comune": "Busiago di Campo San Martino",
+  "sede": "Via Stradone, 2, 35010 Busiago di Campo San Martino (PD)",
+  "tel": "+39 340 7562551",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://lerisare.it/",
+  "dom": "lerisare.it",
+  "storia": "",
+  "den": "Venezia",
+  "tipi": {
+   "venezia": [
+    "Venezia, Piave e Lison Pramaggiore"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "tenuta-sul-monte",
+  "nome": "Tenuta sul Monte",
+  "comune": "Campodarsego",
+  "sede": "via Vittorio Alfieri, 1/A, 35011 Campodarsego (PD)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.tenutasulmonte.it",
+  "dom": "tenutasulmonte.it",
+  "storia": "",
+  "den": "Prosecco; Colli Euganei",
+  "tipi": {
+   "euganei": [
+    "Colli Euganei"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "rosacreta",
+  "nome": "Rosacreta",
+  "comune": "Conegliano",
+  "sede": "Via Mangesa, 9, 31015 Conegliano (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://rosacreta.com/",
+  "dom": "rosacreta.com",
+  "storia": "",
+  "den": "Prosecco",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "comaroto",
+  "nome": "Comaroto",
+  "comune": "Illasi",
+  "sede": "Località Monte Tenda, 5, 37031 Illasi (VR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.comaroto.wine",
+  "dom": "comaroto.wine",
+  "storia": "",
+  "den": "Amarone; Valpolicella",
+  "tipi": {
+   "valpolicella": [
+    "Valpolicella e Amarone"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "la-peca",
+  "nome": "La Peca",
+  "comune": "Lonigo",
+  "sede": "via Giovanelli 2, 36045 Lonigo (VI)",
+  "tel": "+39 0444 830214",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://lapeca.it/",
+  "dom": "lapeca.it",
+  "storia": "",
+  "den": "Colli Berici",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "trattoria-campiano",
+  "nome": "Trattoria Campiano",
+  "comune": "Malcesine",
+  "sede": "Via S. Michele, 1, 37018 Malcesine (VR)",
+  "tel": "+39 347 3105555",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://trattoriacampiano.com/",
+  "dom": "trattoriacampiano.com",
+  "storia": "",
+  "den": "Garda",
+  "tipi": {
+   "garda": [
+    "Garda"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "case-farel",
+  "nome": "Case Farel",
+  "comune": "Col San Martino",
+  "sede": "Via Canal Vecchio, 37, 31020 Col San Martino (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "CASE FAREL Società Agricola s.",
+  "sito": "https://casefarel.it",
+  "dom": "casefarel.it",
+  "storia": "",
+  "den": "Prosecco; Conegliano Valdobbiadene; Valdobbiadene",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "polentes-wines",
+  "nome": "Polentes Wines",
+  "comune": "Vittorio Veneto",
+  "sede": "Via del Montebello, 33/1, 31029 Vittorio Veneto (TV)",
+  "tel": "+39 348 6922791",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.polenteswines.it/vinobiologico/",
+  "dom": "polenteswines.it",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "revitis",
+  "nome": "Revitis",
+  "comune": "Verona",
+  "sede": "Via degli Alpini n.49 Montecchia di Crosar a, 37030 Verona (VR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://revitis.it/",
+  "dom": "revitis.it",
+  "storia": "",
+  "den": "Amarone; Valpolicella; Soave; Colli Berici",
+  "tipi": {
+   "valpolicella": [
+    "Valpolicella e Amarone"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "peruzza",
+  "nome": "Peruzza",
+  "comune": "Mareno di Piave",
+  "sede": "Via Cal Larga, 40/a 31010, Mareno di Piave (TV), 31010 Mareno di Piave (TV)",
+  "tel": "+39 0438 499040",
+  "contatti": "",
+  "rag": "Permasteelisa S.p.A",
+  "sito": "http://www.peruzza.it",
+  "dom": "peruzza.it",
+  "storia": "",
+  "den": "Piave",
+  "tipi": {
+   "venezia": [
+    "Venezia, Piave e Lison Pramaggiore"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "tenuta-pinzon",
+  "nome": "Tenuta Pinzon",
+  "comune": "Maser -",
+  "sede": "Via Matteotti, 31, 31010 Maser - (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://tenutapinzon.it/",
+  "dom": "tenutapinzon.it",
+  "storia": "",
+  "den": "Prosecco; Asolo",
+  "tipi": {
+   "asolo": [
+    "Asolo e Montello"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "calmasino",
+  "nome": "Calmasino",
+  "comune": "Bardolino",
+  "sede": "Piazza Risorgimento 1, Calmasi o, 37011 Bardolino (VR)",
+  "tel": "+39 380 3729146",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://calmasino.it/",
+  "dom": "calmasino.it",
+  "storia": "",
+  "den": "Bardolino; Garda",
+  "tipi": {
+   "valpolicella": [
+    "Valpolicella e Amarone"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "i-canevisti",
+  "nome": "I Canevisti",
+  "comune": "Breganze",
+  "sede": "Via Gasparona 17, 36042 Breganze (VI)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.canevisti.it",
+  "dom": "canevisti.it",
+  "storia": "",
+  "den": "Breganze",
+  "tipi": {
+   "breganze": [
+    "Breganze"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "mon-dragon",
+  "nome": "Mon Dragon",
+  "comune": "Tarzo",
+  "sede": "Via Mondragon, 1, 31020 Tarzo (TV)",
+  "tel": "+39 0438 933021",
+  "contatti": "",
+  "rag": "Mondragon S.S. Società Agricola Il",
+  "sito": "https://www.mondragon.it",
+  "dom": "mondragon.it",
+  "storia": "",
+  "den": "Prosecco",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "sestere",
+  "nome": "Sestere",
+  "comune": "Fontanelle",
+  "sede": "Via Soler, 3, 31043 Fontanelle (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.sestere.com",
+  "dom": "sestere.com",
+  "storia": "",
+  "den": "Piave",
+  "tipi": {
+   "venezia": [
+    "Venezia, Piave e Lison Pramaggiore"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "il-borgo-dei-vettor",
+  "nome": "Il Borgo dei Vettor",
+  "comune": "San Giovanni",
+  "sede": "BORGO DEI VETTOR Via Calmaor 36, 31049 San Giovanni (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.ilborgodeivettor.it",
+  "dom": "ilborgodeivettor.it",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene; Cartizze",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "le-stanghe",
+  "nome": "Le Stanghe",
+  "comune": "Valdobbiadene",
+  "sede": "Via Stanghe, 8, 31049 Valdobbiadene (TV)",
+  "tel": "+39 0423 901089",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://lestanghe.it/",
+  "dom": "lestanghe.it",
+  "storia": "",
+  "den": "Valdobbiadene",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "vite-in-rosa",
+  "nome": "Vite in Rosa",
+  "comune": "Valdobbiadene",
+  "sede": "Strada del Pecolet 1, 31049 Valdobbiadene (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://viteinrosa.it/",
+  "dom": "viteinrosa.it",
+  "storia": "",
+  "den": "Valdobbiadene",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "zanatta-roberto",
+  "nome": "Zanatta Roberto",
+  "comune": "Chiarano",
+  "sede": "Via Risere Nuove, 14, 31040 Chiarano (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://zanattaroberto.it/it/",
+  "dom": "zanattaroberto.it",
+  "storia": "",
+  "den": "Piave; Delle Venezie",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
  }
 ]
