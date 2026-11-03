@@ -1,0 +1,32 @@
+{
+ "nome": "Ezio Poggio Winery",
+ "slug": "ezio-poggio-winery",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Colombaie, 1, 15060 Vignole Borbera (AL) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@eziopoggio.com [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Colli Tortonesi [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Colli Tortonesi, scheda dell’azienda consultata il 3 novembre 2026.",
+   "url": "https://collitortonesi.com/il-consorzio/soci/",
+   "etichetta": "collitortonesi.com"
+  }
+ ]
+}

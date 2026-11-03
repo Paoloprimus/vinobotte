@@ -72629,5 +72629,425 @@
 "voerzio-martini-soc-s-agricola"
 ],
 "primario": "voerzio-martini-soc-s-agricola"
+},
+{
+"slug": "antichi-poderi-la-boidina-s-a-s-agr",
+"nome": "Antichi Poderi La Boidina",
+"regione": "Piemonte",
+"comune": "Fontanile",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"antichi-poderi-la-boidina-s-a-s-agr"
+],
+"primario": "antichi-poderi-la-boidina-s-a-s-agr"
+},
+{
+"slug": "az-agr-mombisaggio",
+"nome": "Mombisaggio",
+"regione": "Piemonte",
+"comune": "Tortona",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"az-agr-mombisaggio"
+],
+"primario": "az-agr-mombisaggio"
+},
+{
+"slug": "boveri-luigi",
+"nome": "Boveri Luigi",
+"regione": "Piemonte",
+"comune": "Costa Vescovato",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"boveri-luigi"
+],
+"primario": "boveri-luigi"
+},
+{
+"slug": "bruno-maurizio",
+"nome": "Bruno Maurizio",
+"regione": "Piemonte",
+"comune": "Monleale",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"bruno-maurizio"
+],
+"primario": "bruno-maurizio"
+},
+{
+"slug": "cantina-di-tortona",
+"nome": "Cantina di Tortona",
+"regione": "Piemonte",
+"comune": "Tortona",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"cantina-di-tortona"
+],
+"primario": "cantina-di-tortona"
+},
+{
+"slug": "cascina-bandiera",
+"nome": "Cascina Bandiera",
+"regione": "Piemonte",
+"comune": "San Sebastiano Curone",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"cascina-bandiera"
+],
+"primario": "cascina-bandiera"
+},
+{
+"slug": "cascina-la-ghersa",
+"nome": "Cascina La Ghersa",
+"regione": "Piemonte",
+"comune": "Moasca",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"cascina-la-ghersa"
+],
+"primario": "cascina-la-ghersa"
+},
+{
+"slug": "cascina-salicetti",
+"nome": "Cascina Salicetti",
+"regione": "Piemonte",
+"comune": "Montegioco",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"cascina-salicetti"
+],
+"primario": "cascina-salicetti"
+},
+{
+"slug": "de-marco-giovanni",
+"nome": "De Marco Giovanni",
+"regione": "Piemonte",
+"comune": "Carpeneto",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"de-marco-giovanni"
+],
+"primario": "de-marco-giovanni"
+},
+{
+"slug": "ezio-poggio-winery",
+"nome": "Ezio Poggio Winery",
+"regione": "Piemonte",
+"comune": "Vignole Borbera",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"ezio-poggio-winery"
+],
+"primario": "ezio-poggio-winery"
+},
+{
+"slug": "fiordaliso",
+"nome": "Fiordaliso",
+"regione": "Piemonte",
+"comune": "Volpeglino",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"fiordaliso"
+],
+"primario": "fiordaliso"
+},
+{
+"slug": "fontanalbina",
+"nome": "Fontanalbina",
+"regione": "Piemonte",
+"comune": "Sarezzano",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"fontanalbina"
+],
+"primario": "fontanalbina"
+},
+{
+"slug": "la-morella",
+"nome": "La Morella",
+"regione": "Piemonte",
+"comune": "Carezzano",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"la-morella"
+],
+"primario": "la-morella"
+},
+{
+"slug": "la-sparsa",
+"nome": "La Sparsa",
+"regione": "Piemonte",
+"comune": "Sant’Agata Fossili",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"la-sparsa"
+],
+"primario": "la-sparsa"
+},
+{
+"slug": "luca-canevaro",
+"nome": "Luca Canevaro",
+"regione": "Piemonte",
+"comune": "Avolasca",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"luca-canevaro"
+],
+"primario": "luca-canevaro"
+},
+{
+"slug": "mariotto-claudio",
+"nome": "Mariotto Claudio",
+"regione": "Piemonte",
+"comune": "Tortona",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"mariotto-claudio"
+],
+"primario": "mariotto-claudio"
+},
+{
+"slug": "nebraie",
+"nome": "Nebraie",
+"regione": "Piemonte",
+"comune": "Rocchetta Ligure",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"nebraie"
+],
+"primario": "nebraie"
+},
+{
+"slug": "pomodolce",
+"nome": "Pomodolce",
+"regione": "Piemonte",
+"comune": "Montemarzino",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"pomodolce"
+],
+"primario": "pomodolce"
+},
+{
+"slug": "renato-boveri-vignaiolo",
+"nome": "Renato Boveri Vignaiolo",
+"regione": "Piemonte",
+"comune": "Monleale",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"renato-boveri-vignaiolo"
+],
+"primario": "renato-boveri-vignaiolo"
+},
+{
+"slug": "sassaia",
+"nome": "Sassaia",
+"regione": "Piemonte",
+"comune": "Capriata d’Orba",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"sassaia"
+],
+"primario": "sassaia"
+},
+{
+"slug": "sassobraglia",
+"nome": "Sassobraglia",
+"regione": "Piemonte",
+"comune": "Rocchetta Ligure",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"sassobraglia"
+],
+"primario": "sassobraglia"
+},
+{
+"slug": "spaccapietra",
+"nome": "Spaccapietra",
+"regione": "Piemonte",
+"comune": "Avolasca",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"spaccapietra"
+],
+"primario": "spaccapietra"
+},
+{
+"slug": "tenuta-garetto",
+"nome": "Tenuta Garetto",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"tenuta-garetto"
+],
+"primario": "tenuta-garetto"
+},
+{
+"slug": "terre-di-sarizzola",
+"nome": "Terre di Sarizzola",
+"regione": "Piemonte",
+"comune": "Costa Vescovato",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"terre-di-sarizzola"
+],
+"primario": "terre-di-sarizzola"
+},
+{
+"slug": "tirelli-andrea",
+"nome": "Tirelli Andrea",
+"regione": "Piemonte",
+"comune": "Costa Vescovato",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"tirelli-andrea"
+],
+"primario": "tirelli-andrea"
+},
+{
+"slug": "valli-unite",
+"nome": "Valli Unite",
+"regione": "Piemonte",
+"comune": "Costa Vescovato",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"valli-unite"
+],
+"primario": "valli-unite"
+},
+{
+"slug": "vigneti-boveri-giacomo",
+"nome": "Vigneti Boveri Giacomo",
+"regione": "Piemonte",
+"comune": "Costa Vescovato",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"vigneti-boveri-giacomo"
+],
+"primario": "vigneti-boveri-giacomo"
+},
+{
+"slug": "vigneti-repetto",
+"nome": "Vigneti Repetto",
+"regione": "Piemonte",
+"comune": "Sarezzano",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"vigneti-repetto"
+],
+"primario": "vigneti-repetto"
 }
 ]

@@ -1,0 +1,28 @@
+{
+ "nome": "La Morella",
+ "slug": "la-morella",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via della Costa, 65, 15051 Carezzano (AL) [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Colli Tortonesi [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Colli Tortonesi, scheda dell’azienda consultata il 3 novembre 2026.",
+   "url": "https://collitortonesi.com/il-consorzio/soci/",
+   "etichetta": "collitortonesi.com"
+  }
+ ]
+}
