@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Asti e Moscato d’Asti — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Asti e Moscato d’Asti</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Asti e Moscato d’Asti</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Arbiola","s":"arbiola","c":"San Marzano Oliveto","d":["Asti e Moscato d’Asti"]},{"n":"Balbiano","s":"balbiano","c":"Andezeno","d":["Asti e Moscato d’Asti"]},{"n":"Barroero","s":"barroero","c":"Cortemilia","d":["Asti e Moscato d’Asti"]},{"n":"Borgo Lame","s":"borgo-lame","c":"Cisterna D'Asti","d":["Asti e Moscato d’Asti"]},{"n":"Borgo Moncalvo","s":"borgo-moncalvo","c":"Loazzolo","d":["Asti e Moscato d’Asti"]},{"n":"Cantina di Antignano","s":"cantina-di-antignano","c":"Antignano","d":["Asti e Moscato d’Asti"]},{"n":"Cascina Carlot","s":"cascina-carlot","c":"Coazzolo","d":["Asti e Moscato d’Asti"]},{"n":"Cascina Giovinale","s":"cascina-giovinale","c":"Nizza Monferrato","d":["Asti e Moscato d’Asti"]},{"n":"Cascina Quarino","s":"cascina-quarino","c":"Aramengo","d":["Asti e Moscato d’Asti"]},{"n":"Cascina Roera","s":"cascina-roera","c":"Costigliole D","d":["Asti e Moscato d’Asti"]},{"n":"Domanda","s":"domanda","c":"Calosso","d":["Asti e Moscato d’Asti"]},{"n":"Franco Roero","s":"franco-roero","c":"Montegrosso D’Asti","d":["Asti e Moscato d’Asti"]},{"n":"Grimaldi (IT)","s":"grimaldi-it","c":"Diano D'Alba","d":["Asti e Moscato d’Asti"]},{"n":"Livio Soria","s":"livio-soria","c":"Calosso","d":["Asti e Moscato d’Asti"]},{"n":"Luca Luigi Tosa","s":"luca-luigi-tosa","c":"Cossano Belbo","d":["Asti e Moscato d’Asti"]},{"n":"Marchesi Cavours","s":"marchesi-cavours","c":"Mondovì","d":["Asti e Moscato d’Asti"]},{"n":"Michele Capra","s":"michele-capra","c":"Isola D'Asti","d":["Asti e Moscato d’Asti"]},{"n":"Podere le Gaggie","s":"podere-le-gaggie","c":"Montegrosso D'Asti","d":["Asti e Moscato d’Asti"]},{"n":"Sassi San Cristoforo","s":"sassi-san-cristoforo","c":"Neive","d":["Asti e Moscato d’Asti"]},{"n":"Spinerola","s":"spinerola","c":"Moncalvo","d":["Asti e Moscato d’Asti"]},{"n":"Trinchero","s":"trinchero","c":"Agliano Terme","d":["Asti e Moscato d’Asti"]},{"n":"Vignaquaranti","s":"vignaquaranti","c":"Quaranti","d":["Asti e Moscato d’Asti"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    

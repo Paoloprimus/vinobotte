@@ -23,6 +23,6 @@ for x in N:
        'consultate':('Sito ufficiale della cantina e scheda nell’archivio di Bere il Vino, consultati il ' if x.get('fonte2') else 'Sito ufficiale della cantina, consultato il ')+D+'. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.',
        'fonti':[{'n':1,'testo':'Sito ufficiale della cantina, pagine iniziale e di contatto consultate il '+D+'.','url':x['sito'],'etichetta':x['dom']}]+([x['fonte2']] if x.get('fonte2') else [])}
     json.dump(d,open('dati/'+x['slug']+'.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)
-    P.append({'slug':x['slug'],'nome':x['nome'],'regione':'Toscana','comune':x['comune'],'tipi':x['tipi'],'membri':[x['slug']],'primario':x['slug']})
+    P.append({'slug':x['slug'],'nome':x['nome'],'regione':x.get('regione','Toscana'),'comune':x['comune'],'tipi':x['tipi'],'membri':[x['slug']],'primario':x['slug']})
 json.dump(P,open('produttori.json','w',encoding='utf-8'),ensure_ascii=False,indent=0)
 print('nuovi vivino',len(N))
