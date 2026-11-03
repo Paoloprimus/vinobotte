@@ -1,0 +1,36 @@
+{
+ "nome": "Vaudano Enrico & Figli",
+ "slug": "vaudano-enrico-figli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cattaneo, 5, 14010 Cisterna d'Asti (AT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 393 9180969 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@enricovaudano.it [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 3 novembre 2026.",
+   "url": "https://viniastimonferrato.it",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}
