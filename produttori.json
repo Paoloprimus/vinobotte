@@ -50609,6 +50609,351 @@
 "primario": "tenuta-la-meridiana"
 },
 {
+"slug": "brandini",
+"nome": "Brandini",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"brandini"
+],
+"primario": "brandini"
+},
+{
+"slug": "pecchenino",
+"nome": "Pecchenino",
+"regione": "Piemonte",
+"comune": "Dogliani",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"pecchenino"
+],
+"primario": "pecchenino"
+},
+{
+"slug": "cascina-del-pozzo-castellinaldo",
+"nome": "Cascina del Pozzo",
+"regione": "Piemonte",
+"comune": "Castellinaldo",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"cascina-del-pozzo-castellinaldo"
+],
+"primario": "cascina-del-pozzo-castellinaldo"
+},
+{
+"slug": "cravanzola",
+"nome": "Cravanzola",
+"regione": "Piemonte",
+"comune": "Castellinaldo",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"cravanzola"
+],
+"primario": "cravanzola"
+},
+{
+"slug": "gianni-gagliardo-la-morra",
+"nome": "Gianni Gagliardo",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"gianni-gagliardo-la-morra"
+],
+"primario": "gianni-gagliardo-la-morra"
+},
+{
+"slug": "orsolani-san-giorgio-canavese",
+"nome": "Orsolani",
+"regione": "Piemonte",
+"comune": "San Giorgio Canavese",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"orsolani-san-giorgio-canavese"
+],
+"primario": "orsolani-san-giorgio-canavese"
+},
+{
+"slug": "enzo-boglietti",
+"nome": "Enzo Boglietti",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"enzo-boglietti"
+],
+"primario": "enzo-boglietti"
+},
+{
+"slug": "reverdito",
+"nome": "Reverdito",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"reverdito"
+],
+"primario": "reverdito"
+},
+{
+"slug": "cascina-sot",
+"nome": "Cascina Sòt",
+"regione": "Piemonte",
+"comune": "Barolo",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"cascina-sot"
+],
+"primario": "cascina-sot"
+},
+{
+"slug": "poderi-la-collina",
+"nome": "Poderi La Collina",
+"regione": "Piemonte",
+"comune": "Dogliani",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"poderi-la-collina"
+],
+"primario": "poderi-la-collina"
+},
+{
+"slug": "crealto",
+"nome": "Crealto",
+"regione": "Piemonte",
+"comune": "Alfiano Natta",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"crealto"
+],
+"primario": "crealto"
+},
+{
+"slug": "ca-de-lion-ghione",
+"nome": "Ca'de Lion - Ghione",
+"regione": "Piemonte",
+"comune": "Canelli",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"ca-de-lion-ghione"
+],
+"primario": "ca-de-lion-ghione"
+},
+{
+"slug": "mongioia",
+"nome": "Mongioia",
+"regione": "Piemonte",
+"comune": "Santo Stefano Belbo",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"mongioia"
+],
+"primario": "mongioia"
+},
+{
+"slug": "viticoltori-rodello",
+"nome": "Viticoltori Rodello",
+"regione": "Piemonte",
+"comune": "Rodello",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"viticoltori-rodello"
+],
+"primario": "viticoltori-rodello"
+},
+{
+"slug": "rugra",
+"nome": "Rugrà",
+"regione": "Piemonte",
+"comune": "Tassarolo",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"rugra"
+],
+"primario": "rugra"
+},
+{
+"slug": "8-pari",
+"nome": "8 Pari",
+"regione": "Piemonte",
+"comune": "Alba",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"8-pari"
+],
+"primario": "8-pari"
+},
+{
+"slug": "locanda-san-giorgio",
+"nome": "Locanda San Giorgio",
+"regione": "Piemonte",
+"comune": "Castellero",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"locanda-san-giorgio"
+],
+"primario": "locanda-san-giorgio"
+},
+{
+"slug": "paolo-marengo",
+"nome": "Paolo Marengo",
+"regione": "Piemonte",
+"comune": "Castel Rocchero",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"paolo-marengo"
+],
+"primario": "paolo-marengo"
+},
+{
+"slug": "cascina-bric",
+"nome": "Cascina Bric",
+"regione": "Piemonte",
+"comune": "Moncucco Torinese",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-bric"
+],
+"primario": "cascina-bric"
+},
+{
+"slug": "giovanni-bartoli",
+"nome": "Giovanni Bartoli",
+"regione": "Piemonte",
+"comune": "Vaglio Serra",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"giovanni-bartoli"
+],
+"primario": "giovanni-bartoli"
+},
+{
+"slug": "piano",
+"nome": "Piano",
+"regione": "Piemonte",
+"comune": "Calosso",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"piano"
+],
+"primario": "piano"
+},
+{
+"slug": "cascina-tre-botti",
+"nome": "Cascina Tre Botti",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-tre-botti"
+],
+"primario": "cascina-tre-botti"
+},
+{
+"slug": "tintero",
+"nome": "Tintero",
+"regione": "Piemonte",
+"comune": "Mango",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"tintero"
+],
+"primario": "tintero"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
@@ -74444,5 +74789,95 @@
 "zambolin-fabio"
 ],
 "primario": "zambolin-fabio"
+},
+{
+"slug": "marziano-abbona",
+"nome": "Marziano Abbona",
+"regione": "Piemonte",
+"comune": "Dogliani",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"marziano-abbona"
+],
+"primario": "marziano-abbona"
+},
+{
+"slug": "ermanno-costa",
+"nome": "Ermanno Costa",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"ermanno-costa"
+],
+"primario": "ermanno-costa"
+},
+{
+"slug": "marziano-abbona-dogliani",
+"nome": "Marziano Abbona",
+"regione": "Piemonte",
+"comune": "Dogliani",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"marziano-abbona-dogliani"
+],
+"primario": "marziano-abbona-dogliani"
+},
+{
+"slug": "monchiero-carbone-canale",
+"nome": "Monchiero Carbone",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"monchiero-carbone-canale"
+],
+"primario": "monchiero-carbone-canale"
+},
+{
+"slug": "sordo-giovanni",
+"nome": "Sordo Giovanni",
+"regione": "Piemonte",
+"comune": "Castiglione Falletto",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"sordo-giovanni"
+],
+"primario": "sordo-giovanni"
+},
+{
+"slug": "podere-macellio",
+"nome": "Podere Macellio",
+"regione": "Piemonte",
+"comune": "Caluso",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"podere-macellio"
+],
+"primario": "podere-macellio"
 }
 ]

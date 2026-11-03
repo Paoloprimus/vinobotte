@@ -1,0 +1,38 @@
+{
+ "nome": "Marziano Abbona",
+ "slug": "marziano-abbona",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Borgata San Luigi, 40, 12063 Dogliani (CN) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://shop.abbona.com/cat/esperienze/|shop.abbona.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Alta Langa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 3 novembre 2026.",
+   "url": "https://shop.abbona.com/cat/esperienze/",
+   "etichetta": "shop.abbona.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Alta Langa, consultato il 3 novembre 2026.",
+   "url": "https://altalangadocg.com",
+   "etichetta": "altalangadocg.com"
+  }
+ ]
+}

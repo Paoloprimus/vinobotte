@@ -1,0 +1,38 @@
+{
+ "nome": "Podere Macellio",
+ "slug": "podere-macellio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Roma, 18, 10014 Caluso (TO) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.erbaluce-bianco.it|erbaluce-bianco.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Erbaluce di Caluso e Carema [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 3 novembre 2026.",
+   "url": "http://www.erbaluce-bianco.it",
+   "etichetta": "erbaluce-bianco.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Erbaluce di Caluso e Carema, consultato il 3 novembre 2026.",
+   "url": "https://erbalucecarema.it",
+   "etichetta": "erbalucecarema.it"
+  }
+ ]
+}
