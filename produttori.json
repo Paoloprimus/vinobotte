@@ -49919,6 +49919,471 @@
 "primario": "nuove-tradizioni"
 },
 {
+"slug": "marolo-alba",
+"nome": "Marolo",
+"regione": "Piemonte",
+"comune": "Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"marolo-alba"
+],
+"primario": "marolo-alba"
+},
+{
+"slug": "lorenzo-accomasso",
+"nome": "Lorenzo Accomasso",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"lorenzo-accomasso"
+],
+"primario": "lorenzo-accomasso"
+},
+{
+"slug": "le-colline",
+"nome": "Le Colline",
+"regione": "Piemonte",
+"comune": "Albugnano",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"le-colline"
+],
+"primario": "le-colline"
+},
+{
+"slug": "la-torretta",
+"nome": "La Torretta",
+"regione": "Piemonte",
+"comune": "Ghemme",
+"tipi": {
+"alto-piemonte": [
+"Alto Piemonte"
+]
+},
+"membri": [
+"la-torretta"
+],
+"primario": "la-torretta"
+},
+{
+"slug": "cascina-comina",
+"nome": "Cascina Comina",
+"regione": "Piemonte",
+"comune": "Calosso",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"cascina-comina"
+],
+"primario": "cascina-comina"
+},
+{
+"slug": "tesio",
+"nome": "Tesio",
+"regione": "Piemonte",
+"comune": "Mombaruzzo",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"tesio"
+],
+"primario": "tesio"
+},
+{
+"slug": "isnardi",
+"nome": "Isnardi",
+"regione": "Piemonte",
+"comune": "Castagnito",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"isnardi"
+],
+"primario": "isnardi"
+},
+{
+"slug": "domenico-clerico",
+"nome": "Domenico Clerico",
+"regione": "Piemonte",
+"comune": "Monforte D'Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"domenico-clerico"
+],
+"primario": "domenico-clerico"
+},
+{
+"slug": "corino",
+"nome": "Corino",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"corino"
+],
+"primario": "corino"
+},
+{
+"slug": "cigliuti",
+"nome": "Cigliuti",
+"regione": "Piemonte",
+"comune": "Neive",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"cigliuti"
+],
+"primario": "cigliuti"
+},
+{
+"slug": "tenuta-cappallotto",
+"nome": "Tenuta Cappallotto",
+"regione": "Piemonte",
+"comune": "Serralunga D’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"tenuta-cappallotto"
+],
+"primario": "tenuta-cappallotto"
+},
+{
+"slug": "taliano-michele",
+"nome": "Taliano Michele",
+"regione": "Piemonte",
+"comune": "Montà",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"taliano-michele"
+],
+"primario": "taliano-michele"
+},
+{
+"slug": "cavalier-bartolomeo",
+"nome": "Cavalier Bartolomeo",
+"regione": "Piemonte",
+"comune": "Castiglione Falletto",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"cavalier-bartolomeo"
+],
+"primario": "cavalier-bartolomeo"
+},
+{
+"slug": "preli",
+"nome": "Preli",
+"regione": "Piemonte",
+"comune": "Acqui Terme",
+"tipi": {
+"acqui": [
+"Vini d’Acqui"
+]
+},
+"membri": [
+"preli"
+],
+"primario": "preli"
+},
+{
+"slug": "stefano-occhetti",
+"nome": "Stefano Occhetti",
+"regione": "Piemonte",
+"comune": "Monteu Roero",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"stefano-occhetti"
+],
+"primario": "stefano-occhetti"
+},
+{
+"slug": "cortigiano",
+"nome": "Cortigiano",
+"regione": "Piemonte",
+"comune": "Cossano Belbo",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"cortigiano"
+],
+"primario": "cortigiano"
+},
+{
+"slug": "orsi",
+"nome": "Orsi",
+"regione": "Piemonte",
+"comune": "Strevi",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"orsi"
+],
+"primario": "orsi"
+},
+{
+"slug": "la-badina",
+"nome": "La Badina",
+"regione": "Piemonte",
+"comune": "Lessona",
+"tipi": {
+"alto-piemonte": [
+"Alto Piemonte"
+]
+},
+"membri": [
+"la-badina"
+],
+"primario": "la-badina"
+},
+{
+"slug": "fratelli-calorio",
+"nome": "Fratelli Calorio",
+"regione": "Piemonte",
+"comune": "Montà",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"fratelli-calorio"
+],
+"primario": "fratelli-calorio"
+},
+{
+"slug": "roggero",
+"nome": "Roggero",
+"regione": "Piemonte",
+"comune": "Albugnano",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"roggero"
+],
+"primario": "roggero"
+},
+{
+"slug": "leviti",
+"nome": "LeViti",
+"regione": "Piemonte",
+"comune": "Dogliani",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"leviti"
+],
+"primario": "leviti"
+},
+{
+"slug": "azienda-agricola-rabel",
+"nome": "Azienda Agricola Rabel",
+"regione": "Piemonte",
+"comune": "Santo Stefano Roero",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"azienda-agricola-rabel"
+],
+"primario": "azienda-agricola-rabel"
+},
+{
+"slug": "tenuta-variselle",
+"nome": "Tenuta Variselle",
+"regione": "Piemonte",
+"comune": "Roppolo",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"tenuta-variselle"
+],
+"primario": "tenuta-variselle"
+},
+{
+"slug": "agricola-miglioretti",
+"nome": "Agricola Miglioretti",
+"regione": "Piemonte",
+"comune": "Pino Torinese",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"agricola-miglioretti"
+],
+"primario": "agricola-miglioretti"
+},
+{
+"slug": "lo-sprin",
+"nome": "Lo Sprin",
+"regione": "Piemonte",
+"comune": "Neviglie",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"lo-sprin"
+],
+"primario": "lo-sprin"
+},
+{
+"slug": "azienda-agricola-trisoglio",
+"nome": "Azienda Agricola Trisoglio",
+"regione": "Piemonte",
+"comune": "Lu",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"azienda-agricola-trisoglio"
+],
+"primario": "azienda-agricola-trisoglio"
+},
+{
+"slug": "la-cascinetta",
+"nome": "La Cascinetta",
+"regione": "Piemonte",
+"comune": "Viarigi",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"la-cascinetta"
+],
+"primario": "la-cascinetta"
+},
+{
+"slug": "monferrini",
+"nome": "Monferrini",
+"regione": "Piemonte",
+"comune": "Narzole",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"monferrini"
+],
+"primario": "monferrini"
+},
+{
+"slug": "la-castagna",
+"nome": "La Castagna",
+"regione": "Piemonte",
+"comune": "Spineto Scrivia",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"la-castagna"
+],
+"primario": "la-castagna"
+},
+{
+"slug": "f-lli-rabino",
+"nome": "F Lli Rabino",
+"regione": "Piemonte",
+"comune": "S. Vittoria D’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"f-lli-rabino"
+],
+"primario": "f-lli-rabino"
+},
+{
+"slug": "cascina-dei-penna",
+"nome": "Cascina dei Penna",
+"regione": "Piemonte",
+"comune": "Serralunga D’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"cascina-dei-penna"
+],
+"primario": "cascina-dei-penna"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
