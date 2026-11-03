@@ -14338,5 +14338,461 @@
     "Prosecco"
    ]
   }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "tenuta-marcati",
+  "nome": "Tenuta Marcati",
+  "comune": "Sona",
+  "sede": "Via Molina 25, 37060 Sona (VR)",
+  "tel": "+39 0455 15155",
+  "contatti": "",
+  "rag": "Gagliano Marcati S.r.l",
+  "sito": "https://gaglianomarcati.it/",
+  "dom": "gaglianomarcati.it",
+  "storia": "",
+  "den": "Amarone",
+  "tipi": {
+   "valpolicella": [
+    "Valpolicella e Amarone"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "le-barchesse",
+  "nome": "Le Barchesse",
+  "comune": "Ormelle",
+  "sede": "via Orti 04, 31024 Ormelle (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://lebarchesse.weebly.com/",
+  "dom": "lebarchesse.weebly.com",
+  "storia": "",
+  "den": "Prosecco; Piave",
+  "tipi": {
+   "venezia": [
+    "Venezia, Piave e Lison Pramaggiore"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "nous",
+  "nome": "Noûs",
+  "comune": "Soave",
+  "sede": "Via San Lorenzo 12, 37038 Soave (VR)",
+  "tel": "+39 348 9230494",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.nous-vinonuovo.it/",
+  "dom": "nous-vinonuovo.it",
+  "storia": "",
+  "den": "Soave; Gambellara; Vicenza",
+  "tipi": {
+   "soave": [
+    "Soave"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "massimo-mutta",
+  "nome": "Massimo Mutta",
+  "comune": "Cortelà di Vo’ Euganeo",
+  "sede": "Via S. Silvestro, 21, 35030 Cortelà di Vo’ Euganeo (PD)",
+  "tel": "+39 0499 940867",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.muttamassimo.it/",
+  "dom": "muttamassimo.it",
+  "storia": "",
+  "den": "Prosecco; Colli Euganei",
+  "tipi": {
+   "euganei": [
+    "Colli Euganei"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "san-rocco",
+  "nome": "San Rocco",
+  "comune": "Roncade",
+  "sede": "Via A. Vivaldi, 32/E, 31056 Roncade (TV)",
+  "tel": "+39 389 1260990",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://terredisanrocco.it/",
+  "dom": "terredisanrocco.it",
+  "storia": "",
+  "den": "Prosecco",
+  "tipi": {
+   "soave": [
+    "Soave"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "cantina-paeanca",
+  "nome": "Cantina Paeànca",
+  "comune": "San Pietro di Feletto",
+  "sede": "Piazza Giovanni XXIII 4C, 31020 San Pietro di Feletto (TV)",
+  "tel": "+39 0438 1890430",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://paeanca.com/",
+  "dom": "paeanca.com",
+  "storia": "",
+  "den": "Prosecco; Conegliano Valdobbiadene; Valdobbiadene",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "la-rosi",
+  "nome": "La Rosi",
+  "comune": "Padova",
+  "sede": "via Umbria 12 C, 35127 Padova (PD)",
+  "tel": "+39 349 2341093",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.larosidoc.it/",
+  "dom": "larosidoc.it",
+  "storia": "",
+  "den": "Colli Euganei; Fior d'Arancio",
+  "tipi": {
+   "euganei": [
+    "Colli Euganei"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "panizzo-vigne-vini",
+  "nome": "Panizzo Vigne & Vini",
+  "comune": "Vallio di Roncade",
+  "sede": "Via Zompini 15, 31056 Vallio di Roncade (TV)",
+  "tel": "+39 0422 840844",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.vinipanizzo.it/",
+  "dom": "vinipanizzo.it",
+  "storia": "",
+  "den": "Prosecco",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "miro",
+  "nome": "Miró",
+  "comune": "Noventa di Piave",
+  "sede": "Via A. Meucci 28, 30020 Noventa di Piave (VE)",
+  "tel": "+39 0422 433213",
+  "contatti": "",
+  "rag": "Mirò Vini Srl",
+  "sito": "https://www.proseccomiro.com/",
+  "dom": "proseccomiro.com",
+  "storia": "",
+  "den": "Prosecco",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "colbe",
+  "nome": "Colbe",
+  "comune": "Colbertaldo di Vidor",
+  "sede": "Via Papa Luciani 45, 31020 Colbertaldo di Vidor (TV)",
+  "tel": "+39 0423 987453",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.proseccocolbe.com/",
+  "dom": "proseccocolbe.com",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "muliana",
+  "nome": "Muliana",
+  "comune": "Guia di Valdobbiadene",
+  "sede": "Via Colmello del Col, 5, 31049 Guia di Valdobbiadene (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.proseccomuliana.it/",
+  "dom": "proseccomuliana.it",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "nave-de-oro",
+  "nome": "Nave de Oro",
+  "comune": "Lido",
+  "sede": "Via Lepanto 24/D, 30126 Lido (VE)",
+  "tel": "+39 0412 762132",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://vinarianavedeoro.it/",
+  "dom": "vinarianavedeoro.it",
+  "storia": "",
+  "den": "Venezia",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "bolzan",
+  "nome": "Bolzan",
+  "comune": "Fossalta Maggiore",
+  "sede": "Via Carbonere Nuove 7, 31040 Fossalta Maggiore (TV)",
+  "tel": "+39 349 1246798",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://cantinabolzan.it/it/",
+  "dom": "cantinabolzan.it",
+  "storia": "",
+  "den": "Prosecco",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "sancolodi",
+  "nome": "Sancolodi",
+  "comune": "Mussolente",
+  "sede": "Via Campo Aviazione, 25, 36065 Mussolente (VI)",
+  "tel": "+39 0424 574044",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.cantinasancolodi.com/index.php/it/",
+  "dom": "cantinasancolodi.com",
+  "storia": "",
+  "den": "Prosecco; Asolo; Vicenza",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "vanzin",
+  "nome": "Vanzin",
+  "comune": "Valdobbiadene",
+  "sede": "Via Sotto il Mur del Brolo, 18, 31049 Valdobbiadene (TV)",
+  "tel": "+39 0423 972650",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://vanzinselezioni.com/",
+  "dom": "vanzinselezioni.com",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene; Venezia",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "nigris",
+  "nome": "Nigris",
+  "comune": "Negrisia di Ponte di Piave",
+  "sede": "Via Borgo Lorenzoni 5, 31047 Negrisia di Ponte di Piave (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.prosecconigris.com/",
+  "dom": "prosecconigris.com",
+  "storia": "",
+  "den": "Prosecco; Piave",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "danilo-vettoretti-1902",
+  "nome": "Danilo Vettoretti 1902",
+  "comune": "Valdobbiadene",
+  "sede": "Via Cargador, 21, 31049 Valdobbiadene (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://vettoretti1902.it/",
+  "dom": "vettoretti1902.it",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "ferronato-denis",
+  "nome": "Ferronato Denis",
+  "comune": "Col San Martino",
+  "sede": "Via Col Buso, 8/A, 31010 Col San Martino (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.ferronatodenis.it/index.php",
+  "dom": "ferronatodenis.it",
+  "storia": "",
+  "den": "Prosecco; Conegliano Valdobbiadene; Valdobbiadene",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "tenuta-maliga",
+  "nome": "Tenuta Maliga",
+  "comune": "Colà di Lazise",
+  "sede": "Via Derna 23, 37017 Colà di Lazise (VR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://tenutemaliga.com/",
+  "dom": "tenutemaliga.com",
+  "storia": "",
+  "den": "Bardolino; Custoza; Garda",
+  "tipi": {
+   "bardolino": [
+    "Bardolino"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "la-tenuta-montello",
+  "nome": "La Tenuta Montello",
+  "comune": "Asolo",
+  "sede": "Via Str. Muson, 2/C, 31011 Asolo (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.asolomontello.it/",
+  "dom": "asolomontello.it",
+  "storia": "",
+  "den": "Prosecco; Asolo; Montello",
+  "tipi": {
+   "asolo": [
+    "Asolo e Montello"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "passarini",
+  "nome": "Passarini",
+  "comune": "Vangadizza di Legnago",
+  "sede": "Via Vallette 8, 37045 Vangadizza di Legnago (VR)",
+  "tel": "+39 0442 20205",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.passariniwines.it/",
+  "dom": "passariniwines.it",
+  "storia": "",
+  "den": "Delle Venezie",
+  "tipi": {
+   "venezie": [
+    "Delle Venezie"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "condotta-fratelli",
+  "nome": "Condotta Fratelli",
+  "comune": "Istrana",
+  "sede": "Via C. Battisti, 13, 31036 Istrana (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://condottafratelli.com/",
+  "dom": "condottafratelli.com",
+  "storia": "",
+  "den": "Delle Venezie",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "terre-di-capelvenere",
+  "nome": "Terre di CapelVenere",
+  "comune": "Refrontolo",
+  "sede": "Via Mire, 41, 31020 Refrontolo (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://proseccocapelvenere.com/",
+  "dom": "proseccocapelvenere.com",
+  "storia": "",
+  "den": "Prosecco; Conegliano Valdobbiadene; Valdobbiadene; Piave",
+  "tipi": {
+   "conegliano": [
+    "Conegliano Valdobbiadene"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "pajo",
+  "nome": "Pajo",
+  "comune": "Santa Lucia di Piave",
+  "sede": "Via Caldevie, 28, 31025 Santa Lucia di Piave (TV)",
+  "tel": "+39 0438 701121",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://pajobasei.it/",
+  "dom": "pajobasei.it",
+  "storia": "",
+  "den": "Piave",
+  "tipi": {
+   "venezia": [
+    "Venezia, Piave e Lison Pramaggiore"
+   ]
+  }
  }
 ]

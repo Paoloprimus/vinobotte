@@ -52034,6 +52034,366 @@
 "primario": "zanatta-roberto"
 },
 {
+"slug": "tenuta-marcati",
+"nome": "Tenuta Marcati",
+"regione": "Veneto",
+"comune": "Sona",
+"tipi": {
+"valpolicella": [
+"Valpolicella e Amarone"
+]
+},
+"membri": [
+"tenuta-marcati"
+],
+"primario": "tenuta-marcati"
+},
+{
+"slug": "le-barchesse",
+"nome": "Le Barchesse",
+"regione": "Veneto",
+"comune": "Ormelle",
+"tipi": {
+"venezia": [
+"Venezia, Piave e Lison Pramaggiore"
+]
+},
+"membri": [
+"le-barchesse"
+],
+"primario": "le-barchesse"
+},
+{
+"slug": "nous",
+"nome": "Noûs",
+"regione": "Veneto",
+"comune": "Soave",
+"tipi": {
+"soave": [
+"Soave"
+]
+},
+"membri": [
+"nous"
+],
+"primario": "nous"
+},
+{
+"slug": "massimo-mutta",
+"nome": "Massimo Mutta",
+"regione": "Veneto",
+"comune": "Cortelà di Vo’ Euganeo",
+"tipi": {
+"euganei": [
+"Colli Euganei"
+]
+},
+"membri": [
+"massimo-mutta"
+],
+"primario": "massimo-mutta"
+},
+{
+"slug": "san-rocco",
+"nome": "San Rocco",
+"regione": "Veneto",
+"comune": "Roncade",
+"tipi": {
+"soave": [
+"Soave"
+]
+},
+"membri": [
+"san-rocco"
+],
+"primario": "san-rocco"
+},
+{
+"slug": "cantina-paeanca",
+"nome": "Cantina Paeànca",
+"regione": "Veneto",
+"comune": "San Pietro di Feletto",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"cantina-paeanca"
+],
+"primario": "cantina-paeanca"
+},
+{
+"slug": "la-rosi",
+"nome": "La Rosi",
+"regione": "Veneto",
+"comune": "Padova",
+"tipi": {
+"euganei": [
+"Colli Euganei"
+]
+},
+"membri": [
+"la-rosi"
+],
+"primario": "la-rosi"
+},
+{
+"slug": "panizzo-vigne-vini",
+"nome": "Panizzo Vigne & Vini",
+"regione": "Veneto",
+"comune": "Vallio di Roncade",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"panizzo-vigne-vini"
+],
+"primario": "panizzo-vigne-vini"
+},
+{
+"slug": "miro",
+"nome": "Miró",
+"regione": "Veneto",
+"comune": "Noventa di Piave",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"miro"
+],
+"primario": "miro"
+},
+{
+"slug": "colbe",
+"nome": "Colbe",
+"regione": "Veneto",
+"comune": "Colbertaldo di Vidor",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"colbe"
+],
+"primario": "colbe"
+},
+{
+"slug": "muliana",
+"nome": "Muliana",
+"regione": "Veneto",
+"comune": "Guia di Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"muliana"
+],
+"primario": "muliana"
+},
+{
+"slug": "nave-de-oro",
+"nome": "Nave de Oro",
+"regione": "Veneto",
+"comune": "Lido",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"nave-de-oro"
+],
+"primario": "nave-de-oro"
+},
+{
+"slug": "bolzan",
+"nome": "Bolzan",
+"regione": "Veneto",
+"comune": "Fossalta Maggiore",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"bolzan"
+],
+"primario": "bolzan"
+},
+{
+"slug": "sancolodi",
+"nome": "Sancolodi",
+"regione": "Veneto",
+"comune": "Mussolente",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"sancolodi"
+],
+"primario": "sancolodi"
+},
+{
+"slug": "vanzin",
+"nome": "Vanzin",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"vanzin"
+],
+"primario": "vanzin"
+},
+{
+"slug": "nigris",
+"nome": "Nigris",
+"regione": "Veneto",
+"comune": "Negrisia di Ponte di Piave",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"nigris"
+],
+"primario": "nigris"
+},
+{
+"slug": "danilo-vettoretti-1902",
+"nome": "Danilo Vettoretti 1902",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"danilo-vettoretti-1902"
+],
+"primario": "danilo-vettoretti-1902"
+},
+{
+"slug": "ferronato-denis",
+"nome": "Ferronato Denis",
+"regione": "Veneto",
+"comune": "Col San Martino",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"ferronato-denis"
+],
+"primario": "ferronato-denis"
+},
+{
+"slug": "tenuta-maliga",
+"nome": "Tenuta Maliga",
+"regione": "Veneto",
+"comune": "Colà di Lazise",
+"tipi": {
+"bardolino": [
+"Bardolino"
+]
+},
+"membri": [
+"tenuta-maliga"
+],
+"primario": "tenuta-maliga"
+},
+{
+"slug": "la-tenuta-montello",
+"nome": "La Tenuta Montello",
+"regione": "Veneto",
+"comune": "Asolo",
+"tipi": {
+"asolo": [
+"Asolo e Montello"
+]
+},
+"membri": [
+"la-tenuta-montello"
+],
+"primario": "la-tenuta-montello"
+},
+{
+"slug": "passarini",
+"nome": "Passarini",
+"regione": "Veneto",
+"comune": "Vangadizza di Legnago",
+"tipi": {
+"venezie": [
+"Delle Venezie"
+]
+},
+"membri": [
+"passarini"
+],
+"primario": "passarini"
+},
+{
+"slug": "condotta-fratelli",
+"nome": "Condotta Fratelli",
+"regione": "Veneto",
+"comune": "Istrana",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"condotta-fratelli"
+],
+"primario": "condotta-fratelli"
+},
+{
+"slug": "terre-di-capelvenere",
+"nome": "Terre di CapelVenere",
+"regione": "Veneto",
+"comune": "Refrontolo",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"terre-di-capelvenere"
+],
+"primario": "terre-di-capelvenere"
+},
+{
+"slug": "pajo",
+"nome": "Pajo",
+"regione": "Veneto",
+"comune": "Santa Lucia di Piave",
+"tipi": {
+"venezia": [
+"Venezia, Piave e Lison Pramaggiore"
+]
+},
+"membri": [
+"pajo"
+],
+"primario": "pajo"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
