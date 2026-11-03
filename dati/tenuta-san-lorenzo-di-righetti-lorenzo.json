@@ -1,0 +1,28 @@
+{
+ "nome": "Tenuta San Lorenzo di Righetti Lorenzo",
+ "slug": "tenuta-san-lorenzo-di-righetti-lorenzo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Bettolino 34A, 15066 Gavi (AL) [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela del Gavi [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela del Gavi, scheda dell’azienda consultata il 3 novembre 2026.",
+   "url": "https://consorziogavi.com",
+   "etichetta": "consorziogavi.com"
+  }
+ ]
+}

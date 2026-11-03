@@ -1,0 +1,28 @@
+{
+ "nome": "Poncini Domenico",
+ "slug": "poncini-domenico",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via XX Settembre, 70, 14030 Castagnole Monferrato (AT) [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio tutela Barbera d’Asti e Vini del Monferrato [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio tutela Barbera d’Asti e Vini del Monferrato, scheda dell’azienda consultata il 3 novembre 2026.",
+   "url": "https://viniastimonferrato.it",
+   "etichetta": "viniastimonferrato.it"
+  }
+ ]
+}

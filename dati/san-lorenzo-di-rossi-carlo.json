@@ -1,0 +1,28 @@
+{
+ "nome": "SAN LORENZO di Rossi Carlo",
+ "slug": "san-lorenzo-di-rossi-carlo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "15049 Vignale Monferrato (AL) [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Colline del Monferrato Casalese [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Colline del Monferrato Casalese, scheda dell’azienda consultata il 3 novembre 2026.",
+   "url": "https://vinimonferratocasalese.it",
+   "etichetta": "vinimonferratocasalese.it"
+  }
+ ]
+}

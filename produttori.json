@@ -73049,5 +73049,650 @@
 "vigneti-repetto"
 ],
 "primario": "vigneti-repetto"
+},
+{
+"slug": "andrea-scovero-azienda-vitivinicola",
+"nome": "Andrea Scovero",
+"regione": "Piemonte",
+"comune": "Costigliole d'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"andrea-scovero-azienda-vitivinicola"
+],
+"primario": "andrea-scovero-azienda-vitivinicola"
+},
+{
+"slug": "barbero-piero",
+"nome": "Barbero Piero",
+"regione": "Piemonte",
+"comune": "Calosso",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"barbero-piero"
+],
+"primario": "barbero-piero"
+},
+{
+"slug": "baino-lorenzo",
+"nome": "Baino Lorenzo",
+"regione": "Piemonte",
+"comune": "Mongardino",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"baino-lorenzo"
+],
+"primario": "baino-lorenzo"
+},
+{
+"slug": "bel-sit-azienda-agricola-di-scavino",
+"nome": "Bel Sit Azienda Agricola di Scavino",
+"regione": "Piemonte",
+"comune": "Castagnole delle Lanze",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"bel-sit-azienda-agricola-di-scavino"
+],
+"primario": "bel-sit-azienda-agricola-di-scavino"
+},
+{
+"slug": "cagnotto-marcello-di-cagnotto-emilia",
+"nome": "Cagnotto Marcello di Cagnotto Emilia",
+"regione": "Piemonte",
+"comune": "Calosso",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cagnotto-marcello-di-cagnotto-emilia"
+],
+"primario": "cagnotto-marcello-di-cagnotto-emilia"
+},
+{
+"slug": "cauda-giuseppe-azienda-vitivinicola",
+"nome": "Cauda Giuseppe",
+"regione": "Piemonte",
+"comune": "Cisterna d'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cauda-giuseppe-azienda-vitivinicola"
+],
+"primario": "cauda-giuseppe-azienda-vitivinicola"
+},
+{
+"slug": "emanuele-garatti",
+"nome": "Emanuele Garatti",
+"regione": "Piemonte",
+"comune": "Calosso",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"emanuele-garatti"
+],
+"primario": "emanuele-garatti"
+},
+{
+"slug": "franco-giacinto-di-franco-felice",
+"nome": "Franco Giacinto di Franco Felice",
+"regione": "Piemonte",
+"comune": "San Damiano d'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"franco-giacinto-di-franco-felice"
+],
+"primario": "franco-giacinto-di-franco-felice"
+},
+{
+"slug": "gallo-angelo",
+"nome": "Gallo Angelo",
+"regione": "Piemonte",
+"comune": "San Damiano d'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"gallo-angelo"
+],
+"primario": "gallo-angelo"
+},
+{
+"slug": "gozzelino-stefano",
+"nome": "Gozzelino Stefano",
+"regione": "Piemonte",
+"comune": "Costigliole d'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"gozzelino-stefano"
+],
+"primario": "gozzelino-stefano"
+},
+{
+"slug": "hic-et-nunc",
+"nome": "Hic Et Nunc",
+"regione": "Piemonte",
+"comune": "Vignale Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"hic-et-nunc"
+],
+"primario": "hic-et-nunc"
+},
+{
+"slug": "montarello",
+"nome": "Montarello",
+"regione": "Piemonte",
+"comune": "Vigliano d'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"montarello"
+],
+"primario": "montarello"
+},
+{
+"slug": "nebbia-tommaso",
+"nome": "Nebbia Tommaso",
+"regione": "Piemonte",
+"comune": "Albugnano",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"nebbia-tommaso"
+],
+"primario": "nebbia-tommaso"
+},
+{
+"slug": "olivieri-piero-ezio",
+"nome": "Olivieri Piero Ezio",
+"regione": "Piemonte",
+"comune": "Pino d'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"olivieri-piero-ezio"
+],
+"primario": "olivieri-piero-ezio"
+},
+{
+"slug": "perotto-orietta",
+"nome": "Perotto Orietta",
+"regione": "Piemonte",
+"comune": "Albugnano",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"perotto-orietta"
+],
+"primario": "perotto-orietta"
+},
+{
+"slug": "pesce-luigi",
+"nome": "Pesce Luigi",
+"regione": "Piemonte",
+"comune": "Mombaruzzo",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"pesce-luigi"
+],
+"primario": "pesce-luigi"
+},
+{
+"slug": "poncini-domenico",
+"nome": "Poncini Domenico",
+"regione": "Piemonte",
+"comune": "Castagnole Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"poncini-domenico"
+],
+"primario": "poncini-domenico"
+},
+{
+"slug": "rossanino-pierpaolo",
+"nome": "Rossanino Pierpaolo",
+"regione": "Piemonte",
+"comune": "San Damiano d'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"rossanino-pierpaolo"
+],
+"primario": "rossanino-pierpaolo"
+},
+{
+"slug": "ruris",
+"nome": "Ruris",
+"regione": "Piemonte",
+"comune": "Castagnole delle Lanze",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"ruris"
+],
+"primario": "ruris"
+},
+{
+"slug": "spertino-luigi-di-spertino-mauro",
+"nome": "Spertino Luigi di Spertino Mauro",
+"regione": "Piemonte",
+"comune": "Mombercelli",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"spertino-luigi-di-spertino-mauro"
+],
+"primario": "spertino-luigi-di-spertino-mauro"
+},
+{
+"slug": "stella-giuseppe-di-stella-massimo",
+"nome": "Stella Giuseppe di Stella Massimo",
+"regione": "Piemonte",
+"comune": "Costigliole d'Asti",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"stella-giuseppe-di-stella-massimo"
+],
+"primario": "stella-giuseppe-di-stella-massimo"
+},
+{
+"slug": "tommaso-bosco",
+"nome": "Tommaso Bosco",
+"regione": "Piemonte",
+"comune": "Castagnole Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"tommaso-bosco"
+],
+"primario": "tommaso-bosco"
+},
+{
+"slug": "villa-susti",
+"nome": "Villa Susti",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"villa-susti"
+],
+"primario": "villa-susti"
+},
+{
+"slug": "arditi-giorgio",
+"nome": "Arditi Giorgio",
+"regione": "Piemonte",
+"comune": "Rosignano Monferrato",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"arditi-giorgio"
+],
+"primario": "arditi-giorgio"
+},
+{
+"slug": "botto-marco",
+"nome": "Botto Marco",
+"regione": "Piemonte",
+"comune": "Sala Monferrato",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"botto-marco"
+],
+"primario": "botto-marco"
+},
+{
+"slug": "canato-marco",
+"nome": "Canato Marco",
+"regione": "Piemonte",
+"comune": "Vignale Monferrato",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"canato-marco"
+],
+"primario": "canato-marco"
+},
+{
+"slug": "cantina-colli-di-crea-scral",
+"nome": "Cantina Colli di Crea Scral",
+"regione": "Piemonte",
+"comune": "Serralunga Di Crea",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"cantina-colli-di-crea-scral"
+],
+"primario": "cantina-colli-di-crea-scral"
+},
+{
+"slug": "caprioglio-roberto",
+"nome": "Caprioglio Roberto",
+"regione": "Piemonte",
+"comune": "Rosignano Monferrato",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"caprioglio-roberto"
+],
+"primario": "caprioglio-roberto"
+},
+{
+"slug": "cosseta-arturo",
+"nome": "Cosseta Arturo",
+"regione": "Piemonte",
+"comune": "Alfiano Natta",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"cosseta-arturo"
+],
+"primario": "cosseta-arturo"
+},
+{
+"slug": "crova-massimo",
+"nome": "Crova Massimo",
+"regione": "Piemonte",
+"comune": "Sala Monferrato",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"crova-massimo"
+],
+"primario": "crova-massimo"
+},
+{
+"slug": "gaddo-valerio-esterino",
+"nome": "Gaddo Valerio Esterino",
+"regione": "Piemonte",
+"comune": "Ponzano Monferrato",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"gaddo-valerio-esterino"
+],
+"primario": "gaddo-valerio-esterino"
+},
+{
+"slug": "issopo-aldo",
+"nome": "Issopo Aldo",
+"regione": "Piemonte",
+"comune": "Ponzano Monferrato",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"issopo-aldo"
+],
+"primario": "issopo-aldo"
+},
+{
+"slug": "la-casacccia-az-vitivinicola-di-giovanni-rava",
+"nome": "La Casacccia Az. Vitivinicola di Giovanni Rava",
+"regione": "Piemonte",
+"comune": "Cella Monte",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"la-casacccia-az-vitivinicola-di-giovanni-rava"
+],
+"primario": "la-casacccia-az-vitivinicola-di-giovanni-rava"
+},
+{
+"slug": "la-spinosa-alta-di-lanzani-paolo",
+"nome": "La Spinosa Alta di Lanzani Paolo",
+"regione": "Piemonte",
+"comune": "Ottiglio",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"la-spinosa-alta-di-lanzani-paolo"
+],
+"primario": "la-spinosa-alta-di-lanzani-paolo"
+},
+{
+"slug": "rei-mauro",
+"nome": "Rei Mauro",
+"regione": "Piemonte",
+"comune": "Sala Monferrato",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"rei-mauro"
+],
+"primario": "rei-mauro"
+},
+{
+"slug": "s-s-az-agr-deregibus-mario-di-pietro-e-mauro-deregibus",
+"nome": "Deregibus Mario di Pietro e Mauro Deregibus",
+"regione": "Piemonte",
+"comune": "Ozzano Monferrato",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"s-s-az-agr-deregibus-mario-di-pietro-e-mauro-deregibus"
+],
+"primario": "s-s-az-agr-deregibus-mario-di-pietro-e-mauro-deregibus"
+},
+{
+"slug": "san-lorenzo-di-rossi-carlo",
+"nome": "SAN LORENZO di Rossi Carlo",
+"regione": "Piemonte",
+"comune": "Vignale Monferrato",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"san-lorenzo-di-rossi-carlo"
+],
+"primario": "san-lorenzo-di-rossi-carlo"
+},
+{
+"slug": "terre-di-mate-di-stefania-carrea",
+"nome": "Terre di Matè di Stefania Carrea",
+"regione": "Piemonte",
+"comune": "Pasturana",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"terre-di-mate-di-stefania-carrea"
+],
+"primario": "terre-di-mate-di-stefania-carrea"
+},
+{
+"slug": "tenuta-san-lorenzo-di-laura-raffaele",
+"nome": "Tenuta San Lorenzo di Laura Raffaele",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"tenuta-san-lorenzo-di-laura-raffaele"
+],
+"primario": "tenuta-san-lorenzo-di-laura-raffaele"
+},
+{
+"slug": "tenuta-san-lorenzo-di-righetti-lorenzo",
+"nome": "Tenuta San Lorenzo di Righetti Lorenzo",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"tenuta-san-lorenzo-di-righetti-lorenzo"
+],
+"primario": "tenuta-san-lorenzo-di-righetti-lorenzo"
+},
+{
+"slug": "barisone-simone",
+"nome": "Barisone Simone",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"barisone-simone"
+],
+"primario": "barisone-simone"
+},
+{
+"slug": "bergaglio-nicola-di-bergaglio-gianluigi",
+"nome": "Bergaglio Nicola di Bergaglio Gianluigi",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"bergaglio-nicola-di-bergaglio-gianluigi"
+],
+"primario": "bergaglio-nicola-di-bergaglio-gianluigi"
+},
+{
+"slug": "carrea-lorenzo",
+"nome": "Carrea Lorenzo",
+"regione": "Piemonte",
+"comune": "Gavi",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"carrea-lorenzo"
+],
+"primario": "carrea-lorenzo"
 }
 ]
