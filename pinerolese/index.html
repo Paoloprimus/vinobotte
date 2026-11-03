@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Vignaioli Piemontesi","s":"vignaioli-piemontesi","c":"Castagnito","d":["Pinerolese"]}];
+    const D=[{"n":"Merenda Con Corvi","s":"merenda-con-corvi","c":"Pinerolo","d":["Pinerolese"]},{"n":"Vignaioli Piemontesi","s":"vignaioli-piemontesi","c":"Castagnito","d":["Pinerolese"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
