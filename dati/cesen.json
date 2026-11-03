@@ -1,0 +1,71 @@
+{
+ "nome": "Cesen",
+ "slug": "cesen",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cesen Srls [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Viale Vittoria, 28, 31049 Valdobbiadene (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0423 1916895 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cesen.it/index.php/it/|cesen.it}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni citate sul sito ufficiale",
+     "valore": "Prosecco; Valdobbiadene [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://www.cesen.it/index.php/it/",
+   "etichetta": "cesen.it"
+  },
+  {
+   "n": 2,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}
