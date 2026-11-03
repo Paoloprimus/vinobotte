@@ -49304,6 +49304,456 @@
 "primario": "montezemolo"
 },
 {
+"slug": "azienda-agricola-fratelli-bianco",
+"nome": "Azienda Agricola Fratelli Bianco",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"azienda-agricola-fratelli-bianco"
+],
+"primario": "azienda-agricola-fratelli-bianco"
+},
+{
+"slug": "antiche-passioni",
+"nome": "Antiche Passioni",
+"regione": "Piemonte",
+"comune": "Coazzolo",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"antiche-passioni"
+],
+"primario": "antiche-passioni"
+},
+{
+"slug": "lonati-winery",
+"nome": "Lonati Winery",
+"regione": "Piemonte",
+"comune": "Castiglione Tinella",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"lonati-winery"
+],
+"primario": "lonati-winery"
+},
+{
+"slug": "val-di-spinso",
+"nome": "Val di Spinso",
+"regione": "Piemonte",
+"comune": "Santa Vittoria D'Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"val-di-spinso"
+],
+"primario": "val-di-spinso"
+},
+{
+"slug": "bric-del-vento",
+"nome": "Bric del Vento",
+"regione": "Piemonte",
+"comune": "Soglio",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"bric-del-vento"
+],
+"primario": "bric-del-vento"
+},
+{
+"slug": "caccin-vini",
+"nome": "Caccin Vini",
+"regione": "Piemonte",
+"comune": "Moncalieri",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"caccin-vini"
+],
+"primario": "caccin-vini"
+},
+{
+"slug": "bricco-visconti",
+"nome": "Bricco Visconti",
+"regione": "Piemonte",
+"comune": "Ferrere",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"bricco-visconti"
+],
+"primario": "bricco-visconti"
+},
+{
+"slug": "la-stellara",
+"nome": "La Stellara",
+"regione": "Piemonte",
+"comune": "Volpedo",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"la-stellara"
+],
+"primario": "la-stellara"
+},
+{
+"slug": "casa-graziella",
+"nome": "Casa Graziella",
+"regione": "Piemonte",
+"comune": "Portacomaro",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"casa-graziella"
+],
+"primario": "casa-graziella"
+},
+{
+"slug": "cascina-marcantonio",
+"nome": "Cascina Marcantonio",
+"regione": "Piemonte",
+"comune": "Acqui Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-marcantonio"
+],
+"primario": "cascina-marcantonio"
+},
+{
+"slug": "podere-saulino",
+"nome": "Podere Saulino",
+"regione": "Piemonte",
+"comune": "Novi Ligure",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"podere-saulino"
+],
+"primario": "podere-saulino"
+},
+{
+"slug": "costanza",
+"nome": "Costanza",
+"regione": "Piemonte",
+"comune": "Ovada",
+"tipi": {
+"ovada": [
+"Ovada"
+]
+},
+"membri": [
+"costanza"
+],
+"primario": "costanza"
+},
+{
+"slug": "tenuta-magrini",
+"nome": "Tenuta Magrini",
+"regione": "Piemonte",
+"comune": "Grazzano Badoglio",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"tenuta-magrini"
+],
+"primario": "tenuta-magrini"
+},
+{
+"slug": "cascina-dei-deiu",
+"nome": "Cascina dei Deiu",
+"regione": "Piemonte",
+"comune": "Diano D'Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"cascina-dei-deiu"
+],
+"primario": "cascina-dei-deiu"
+},
+{
+"slug": "terre-dei-rocca",
+"nome": "Terre dei Rocca",
+"regione": "Piemonte",
+"comune": "Ovada",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"terre-dei-rocca"
+],
+"primario": "terre-dei-rocca"
+},
+{
+"slug": "marchisio-giovanni",
+"nome": "Marchisio Giovanni",
+"regione": "Piemonte",
+"comune": "Montà",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"marchisio-giovanni"
+],
+"primario": "marchisio-giovanni"
+},
+{
+"slug": "ponti",
+"nome": "Ponti",
+"regione": "Piemonte",
+"comune": "Ghemme",
+"tipi": {
+"alto-piemonte": [
+"Alto Piemonte"
+]
+},
+"membri": [
+"ponti"
+],
+"primario": "ponti"
+},
+{
+"slug": "claso",
+"nome": "Claso",
+"regione": "Piemonte",
+"comune": "Mombaruzzo",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"claso"
+],
+"primario": "claso"
+},
+{
+"slug": "cascina-le-doti",
+"nome": "Cascina le Doti",
+"regione": "Piemonte",
+"comune": "Neive",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"cascina-le-doti"
+],
+"primario": "cascina-le-doti"
+},
+{
+"slug": "parola",
+"nome": "Parola",
+"regione": "Piemonte",
+"comune": "Torino",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"parola"
+],
+"primario": "parola"
+},
+{
+"slug": "le-praie",
+"nome": "Le Praie",
+"regione": "Piemonte",
+"comune": "Casasco",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"le-praie"
+],
+"primario": "le-praie"
+},
+{
+"slug": "cascina-dei-giacinti",
+"nome": "Cascina dei Giacinti",
+"regione": "Piemonte",
+"comune": "Nizza Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cascina-dei-giacinti"
+],
+"primario": "cascina-dei-giacinti"
+},
+{
+"slug": "saverio",
+"nome": "Saverio",
+"regione": "Piemonte",
+"comune": "Barbaresco",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"saverio"
+],
+"primario": "saverio"
+},
+{
+"slug": "le-rocche-d-ovrano",
+"nome": "Le Rocche D'Ovrano",
+"regione": "Piemonte",
+"comune": "Acqui Terme",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"le-rocche-d-ovrano"
+],
+"primario": "le-rocche-d-ovrano"
+},
+{
+"slug": "il-tarassaco",
+"nome": "Il Tarassaco",
+"regione": "Piemonte",
+"comune": "Cuceglio",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"il-tarassaco"
+],
+"primario": "il-tarassaco"
+},
+{
+"slug": "milano",
+"nome": "Milano",
+"regione": "Piemonte",
+"comune": "Carema",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"milano"
+],
+"primario": "milano"
+},
+{
+"slug": "tenuta-monteoliveto",
+"nome": "Tenuta MonteOliveto",
+"regione": "Piemonte",
+"comune": "Vesime",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"tenuta-monteoliveto"
+],
+"primario": "tenuta-monteoliveto"
+},
+{
+"slug": "trattoria-da-lele",
+"nome": "Trattoria da Lele",
+"regione": "Piemonte",
+"comune": "Orari D",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"trattoria-da-lele"
+],
+"primario": "trattoria-da-lele"
+},
+{
+"slug": "clegor",
+"nome": "Clegor",
+"regione": "Piemonte",
+"comune": "Salmour",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"clegor"
+],
+"primario": "clegor"
+},
+{
+"slug": "poglio-roberto",
+"nome": "Poglio Roberto",
+"regione": "Piemonte",
+"comune": "Castelnuovo Calcea",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"poglio-roberto"
+],
+"primario": "poglio-roberto"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",

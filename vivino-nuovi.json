@@ -10880,5 +10880,575 @@
     "Barolo, Barbaresco e Langhe"
    ]
   }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "azienda-agricola-fratelli-bianco",
+  "nome": "Azienda Agricola Fratelli Bianco",
+  "comune": "Agliano Terme",
+  "sede": "Regione Bologna, 2, 14041 Agliano Terme (AT)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://agriturismolageppina.com/",
+  "dom": "agriturismolageppina.com",
+  "storia": "",
+  "den": "Monferrato",
+  "tipi": {
+   "barbera-asti-monferrato": [
+    "Barbera d’Asti e Monferrato"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "antiche-passioni",
+  "nome": "Antiche Passioni",
+  "comune": "Coazzolo",
+  "sede": "Via Valferretti, 18, 14054 Coazzolo (AT)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.antichepassioni.it",
+  "dom": "antichepassioni.it",
+  "storia": "",
+  "den": "Monferrato",
+  "tipi": {
+   "barbera-asti-monferrato": [
+    "Barbera d’Asti e Monferrato"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "lonati-winery",
+  "nome": "Lonati Winery",
+  "comune": "Castiglione Tinella",
+  "sede": "Via Valle Bera, 7, 12053 Castiglione Tinella (CN)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.lonatiwinery.com",
+  "dom": "lonatiwinery.com",
+  "storia": "",
+  "den": "Barbaresco; Barbera d'Alba; Langhe; Moscato d'Asti; Asti; Monferrato",
+  "tipi": {
+   "langhe": [
+    "Barolo, Barbaresco e Langhe"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "val-di-spinso",
+  "nome": "Val di Spinso",
+  "comune": "Santa Vittoria D'Alba",
+  "sede": "Via Rolfi, 5, 12069 Santa Vittoria D'Alba (CN)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://valdispinso.it/",
+  "dom": "valdispinso.it",
+  "storia": "",
+  "den": "Barolo; Roero; Barbera d'Alba; Langhe; Moscato d'Asti; Asti; Roero Arneis",
+  "tipi": {
+   "langhe": [
+    "Barolo, Barbaresco e Langhe"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "bric-del-vento",
+  "nome": "Bric del Vento",
+  "comune": "Soglio",
+  "sede": "Via Vadonia, 5, 14020 Soglio (AT)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.bricdelvento.com",
+  "dom": "bricdelvento.com",
+  "storia": "",
+  "den": "Asti; Monferrato",
+  "tipi": {
+   "asti": [
+    "Asti e Moscato d’Asti"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "caccin-vini",
+  "nome": "Caccin Vini",
+  "comune": "Moncalieri",
+  "sede": "Strada Carignano, 40, 10024 Moncalieri (TO)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.caccinvini.com",
+  "dom": "caccinvini.com",
+  "storia": "",
+  "den": "Roero; Barbera d'Asti; Barbera d'Alba; Dolcetto d'Alba; Langhe; Asti; Monferrato; Ruchè; Grignolino; Roero Arneis",
+  "tipi": {
+   "langhe": [
+    "Barolo, Barbaresco e Langhe"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "bricco-visconti",
+  "nome": "Bricco Visconti",
+  "comune": "Ferrere",
+  "sede": "strada San Defendente 105, 14012 Ferrere (AT)",
+  "tel": "+39 348 3803363",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.briccovisconti.com",
+  "dom": "briccovisconti.com",
+  "storia": "",
+  "den": "Roero; Langhe; Asti; Monferrato",
+  "tipi": {
+   "langhe": [
+    "Barolo, Barbaresco e Langhe"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "la-stellara",
+  "nome": "La Stellara",
+  "comune": "Volpedo",
+  "sede": "via Pozzol Groppo 29, 15059 Volpedo (AL)",
+  "tel": "+39 347 4902815",
+  "contatti": "",
+  "rag": "La Stellara Società Agricola SRL",
+  "sito": "https://lastellara.com/",
+  "dom": "lastellara.com",
+  "storia": "",
+  "den": "Colli Tortonesi",
+  "tipi": {
+   "colli-tortonesi": [
+    "Colli Tortonesi"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "casa-graziella",
+  "nome": "Casa Graziella",
+  "comune": "Portacomaro",
+  "sede": "Via Generale Stefano Degiani 14/35, 14037 Portacomaro (AT)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://casa-graziella.it/",
+  "dom": "casa-graziella.it",
+  "storia": "",
+  "den": "Barolo; Roero; Langhe; Asti; Monferrato",
+  "tipi": {
+   "langhe": [
+    "Barolo, Barbaresco e Langhe"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "cascina-marcantonio",
+  "nome": "Cascina Marcantonio",
+  "comune": "Acqui Terme",
+  "sede": "Strada Maggiora, 140, 15011 Acqui Terme (AL), 15011 Acqui Terme (AL)",
+  "tel": "+39 0144 56346",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://cascinamarcantonio.it/",
+  "dom": "cascinamarcantonio.it",
+  "storia": "",
+  "den": "Monferrato; Acqui",
+  "tipi": {
+   "barbera-asti-monferrato": [
+    "Barbera d’Asti e Monferrato"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "podere-saulino",
+  "nome": "Podere Saulino",
+  "comune": "Novi Ligure",
+  "sede": "Via Gavi, 85, 15067 Novi Ligure (AL)",
+  "tel": "+39 0143 743174",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://poderesaulino.it/",
+  "dom": "poderesaulino.it",
+  "storia": "",
+  "den": "Gavi",
+  "tipi": {
+   "gavi": [
+    "Gavi"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "costanza",
+  "nome": "Costanza",
+  "comune": "Ovada",
+  "sede": "Via Novi, 60/B 15076 Ovada (AL), 15076 Ovada (AL)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://costanzavini.com/",
+  "dom": "costanzavini.com",
+  "storia": "",
+  "den": "Ovada",
+  "tipi": {
+   "ovada": [
+    "Ovada"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "tenuta-magrini",
+  "nome": "Tenuta Magrini",
+  "comune": "Grazzano Badoglio",
+  "sede": "Strada Oliva 5, 14035 Grazzano Badoglio (AT)",
+  "tel": "",
+  "contatti": "",
+  "rag": "Tenuta Magrini srl Società Agricola",
+  "sito": "https://www.tenutamagrini.com/",
+  "dom": "tenutamagrini.com",
+  "storia": "",
+  "den": "Barolo; Barbaresco; Barbera d'Asti; Asti; Monferrato; Alta Langa",
+  "tipi": {
+   "langhe": [
+    "Barolo, Barbaresco e Langhe"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "cascina-dei-deiu",
+  "nome": "Cascina dei Deiu",
+  "comune": "Diano D'Alba",
+  "sede": "Via Cortemilia 1/A, Fraz. Ricca, 12050 Diano D'Alba (CN)",
+  "tel": "+39 0173 612609",
+  "contatti": "",
+  "rag": "",
+  "sito": "http://www.cascinadeideiu.com",
+  "dom": "cascinadeideiu.com",
+  "storia": "",
+  "den": "Barbaresco; Roero; Barbera d'Asti; Barbera d'Alba; Dolcetto d'Alba; Nebbiolo d'Alba; Langhe; Moscato d'Asti; Asti; Monferrato; Grignolino; Roero Arneis; Diano d'Alba",
+  "tipi": {
+   "langhe": [
+    "Barolo, Barbaresco e Langhe"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "terre-dei-rocca",
+  "nome": "Terre dei Rocca",
+  "comune": "Ovada",
+  "sede": "Via San Paolo 39, 15076 Ovada (AL)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://terredeirocca.it/",
+  "dom": "terredeirocca.it",
+  "storia": "",
+  "den": "Barbera del Monferrato; Monferrato; Grignolino; Dolcetto di Ovada; Ovada",
+  "tipi": {
+   "barbera-asti-monferrato": [
+    "Barbera d’Asti e Monferrato"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "marchisio-giovanni",
+  "nome": "Marchisio Giovanni",
+  "comune": "Montà",
+  "sede": "Strada Provinciale San Vito 1, 12046 Montà (CN)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://marchisiogiovanni.it/",
+  "dom": "marchisiogiovanni.it",
+  "storia": "",
+  "den": "Roero",
+  "tipi": {
+   "roero": [
+    "Roero"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "ponti",
+  "nome": "Ponti",
+  "comune": "Ghemme",
+  "sede": "Via Erasmo Ferrari, 7, 28074 Ghemme (NO)",
+  "tel": "",
+  "contatti": "",
+  "rag": "Con la presente la Ponti S.p.A",
+  "sito": "https://www.ponti.com",
+  "dom": "ponti.com",
+  "storia": "",
+  "den": "Colline Novaresi",
+  "tipi": {
+   "alto-piemonte": [
+    "Alto Piemonte"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "claso",
+  "nome": "Claso",
+  "comune": "Mombaruzzo",
+  "sede": "Via Cervino 21 · 14046 Mombaruzzo (AT), 14046 Mombaruzzo (AT)",
+  "tel": "",
+  "contatti": "",
+  "rag": "MOMBARUZZO Società Agricola CLA.",
+  "sito": "https://www.claso.it",
+  "dom": "claso.it",
+  "storia": "",
+  "den": "Barbera d'Asti; Moscato d'Asti; Asti",
+  "tipi": {
+   "asti": [
+    "Asti e Moscato d’Asti"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "cascina-le-doti",
+  "nome": "Cascina le Doti",
+  "comune": "Neive",
+  "sede": "Via G. Cesare, 13, 12052 Neive (CN)",
+  "tel": "+39 333 5341379",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://cascinaledoti.it/",
+  "dom": "cascinaledoti.it",
+  "storia": "",
+  "den": "Barbaresco; Barbera d'Alba; Dolcetto d'Alba; Langhe",
+  "tipi": {
+   "langhe": [
+    "Barolo, Barbaresco e Langhe"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "parola",
+  "nome": "Parola",
+  "comune": "Torino",
+  "sede": "Corso Vittorio Emanuele 76, 10121 Torino (TO)",
+  "tel": "+39 0115 44939",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.parolavini.it",
+  "dom": "parolavini.it",
+  "storia": "",
+  "den": "Barolo",
+  "tipi": {
+   "langhe": [
+    "Barolo, Barbaresco e Langhe"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "le-praie",
+  "nome": "Le Praie",
+  "comune": "Casasco",
+  "sede": "Via Giarella, 8, 15050 Casasco (AL)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.lepraie.it",
+  "dom": "lepraie.it",
+  "storia": "",
+  "den": "Colli Tortonesi",
+  "tipi": {
+   "colli-tortonesi": [
+    "Colli Tortonesi"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "cascina-dei-giacinti",
+  "nome": "Cascina dei Giacinti",
+  "comune": "Nizza Monferrato",
+  "sede": "Strada Piazzaro 21, 14049 Nizza Monferrato (AT)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://cascinadeigiacinti.com/it/index.php",
+  "dom": "cascinadeigiacinti.com",
+  "storia": "",
+  "den": "Monferrato",
+  "tipi": {
+   "barbera-asti-monferrato": [
+    "Barbera d’Asti e Monferrato"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "saverio",
+  "nome": "Saverio",
+  "comune": "Barbaresco",
+  "sede": "Strada Bernino, 20, 12050 Barbaresco (CN)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://saveriovini.it/",
+  "dom": "saveriovini.it",
+  "storia": "",
+  "den": "Barbaresco",
+  "tipi": {
+   "langhe": [
+    "Barolo, Barbaresco e Langhe"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "le-rocche-d-ovrano",
+  "nome": "Le Rocche D'Ovrano",
+  "comune": "Acqui Terme",
+  "sede": "Regione Abergo n. 19 15011 Acqui Terme (AL), 15011 Acqui Terme (AL)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://lerocchedovrano.it/",
+  "dom": "lerocchedovrano.it",
+  "storia": "",
+  "den": "Monferrato; Acqui",
+  "tipi": {
+   "barbera-asti-monferrato": [
+    "Barbera d’Asti e Monferrato"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "il-tarassaco",
+  "nome": "Il Tarassaco",
+  "comune": "Cuceglio",
+  "sede": "Cascina Dezzutti, SP55, 10090 Cuceglio (TO)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.iltarassaco.it",
+  "dom": "iltarassaco.it",
+  "storia": "",
+  "den": "Erbaluce; Canavese",
+  "tipi": {
+   "erbaluce": [
+    "Erbaluce di Caluso e Carema"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "milano",
+  "nome": "Milano",
+  "comune": "Carema",
+  "sede": "Via Nazionale 32, 10010 Carema (TO)",
+  "tel": "+39 0283 660613",
+  "contatti": "",
+  "rag": "Iban Milanovino Srl",
+  "sito": "https://milanovino.it/",
+  "dom": "milanovino.it",
+  "storia": "",
+  "den": "Barolo; Barbaresco; Langhe",
+  "tipi": {
+   "langhe": [
+    "Barolo, Barbaresco e Langhe"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "tenuta-monteoliveto",
+  "nome": "Tenuta MonteOliveto",
+  "comune": "Vesime",
+  "sede": "Regione MonteOliveto 5, 14059 Vesime (AT)",
+  "tel": "+39 338 9966821",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.tenutamonteoliveto.it",
+  "dom": "tenutamonteoliveto.it",
+  "storia": "",
+  "den": "Langhe; Asti; Alta Langa",
+  "tipi": {
+   "langhe": [
+    "Barolo, Barbaresco e Langhe"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "trattoria-da-lele",
+  "nome": "Trattoria da Lele",
+  "comune": "Orari D",
+  "sede": "Piazza Cerrina, 10 - Murazzano (Cuneo), 12060 Orari D (CN)",
+  "tel": "+39 0173 798016",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.trattoriadalele.it",
+  "dom": "trattoriadalele.it",
+  "storia": "",
+  "den": "Langhe",
+  "tipi": {
+   "langhe": [
+    "Barolo, Barbaresco e Langhe"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "clegor",
+  "nome": "Clegor",
+  "comune": "Salmour",
+  "sede": "Via Bisalta 8, 12040 Salmour (CN)",
+  "tel": "+39 0172 649150",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.clegor.it",
+  "dom": "clegor.it",
+  "storia": "",
+  "den": "Barbera d'Asti; Langhe; Asti; Dolcetto d'Asti",
+  "tipi": {
+   "langhe": [
+    "Barolo, Barbaresco e Langhe"
+   ]
+  }
+ },
+ {
+  "regione": "Piemonte",
+  "slug": "poglio-roberto",
+  "nome": "Poglio Roberto",
+  "comune": "Castelnuovo Calcea",
+  "sede": "Via Angelo Brofferio, 43, 14040 Castelnuovo Calcea (AT)",
+  "tel": "+39 345 8867026",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.pogliorobertovini.com",
+  "dom": "pogliorobertovini.com",
+  "storia": "",
+  "den": "Asti; Monferrato; Grignolino",
+  "tipi": {
+   "asti": [
+    "Asti e Moscato d’Asti"
+   ]
+  }
  }
 ]
