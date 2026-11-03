@@ -49754,6 +49754,171 @@
 "primario": "poglio-roberto"
 },
 {
+"slug": "borgonari",
+"nome": "Borgonari",
+"regione": "Piemonte",
+"comune": "Roccaverano",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"borgonari"
+],
+"primario": "borgonari"
+},
+{
+"slug": "cascina-allegra",
+"nome": "Cascina Allegra",
+"regione": "Piemonte",
+"comune": "Ottiglio",
+"tipi": {
+"alta-langa": [
+"Alta Langa"
+]
+},
+"membri": [
+"cascina-allegra"
+],
+"primario": "cascina-allegra"
+},
+{
+"slug": "azienda-agricola-dei-magi",
+"nome": "Azienda Agricola dei Magi",
+"regione": "Piemonte",
+"comune": "Priocca d'Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"azienda-agricola-dei-magi"
+],
+"primario": "azienda-agricola-dei-magi"
+},
+{
+"slug": "sondrea",
+"nome": "Sondrea",
+"regione": "Piemonte",
+"comune": "Sinio",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"sondrea"
+],
+"primario": "sondrea"
+},
+{
+"slug": "burdisso",
+"nome": "Burdisso",
+"regione": "Piemonte",
+"comune": "Villanova Mondovì",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"burdisso"
+],
+"primario": "burdisso"
+},
+{
+"slug": "becchis",
+"nome": "Becchis",
+"regione": "Piemonte",
+"comune": "Carmagnola",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"becchis"
+],
+"primario": "becchis"
+},
+{
+"slug": "robba",
+"nome": "Robba",
+"regione": "Piemonte",
+"comune": "Castelnuovo Belbo",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"robba"
+],
+"primario": "robba"
+},
+{
+"slug": "davico-stefano-wines",
+"nome": "Davico Stefano Wines",
+"regione": "Piemonte",
+"comune": "Montemarzino",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"davico-stefano-wines"
+],
+"primario": "davico-stefano-wines"
+},
+{
+"slug": "cantina-fratelli-pagliero",
+"nome": "Cantina Fratelli Pagliero",
+"regione": "Piemonte",
+"comune": "Settimo Torinese",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"cantina-fratelli-pagliero"
+],
+"primario": "cantina-fratelli-pagliero"
+},
+{
+"slug": "frel",
+"nome": "Frel",
+"regione": "Piemonte",
+"comune": "Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"frel"
+],
+"primario": "frel"
+},
+{
+"slug": "nuove-tradizioni",
+"nome": "Nuove Tradizioni",
+"regione": "Piemonte",
+"comune": "Strambinello",
+"tipi": {
+"erbaluce": [
+"Erbaluce di Caluso e Carema"
+]
+},
+"membri": [
+"nuove-tradizioni"
+],
+"primario": "nuove-tradizioni"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",

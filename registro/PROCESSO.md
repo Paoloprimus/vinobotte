@@ -163,3 +163,4 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 68. Piemonte, secondo giro Vivino (area generica, almeno 50 voti, 1.336 cantine): siti trovati per dominio probabile e verificati sulla pagina (379), 311 con denominazioni citate, 167 nuove schede (sede dal sito, unica fonte il sito ufficiale).
 69. Piemonte, terzo giro Vivino (957 cantine senza sito): ricerca DuckDuckGo, 146 siti verificati, 104 con denominazioni, 40 nuove schede. Guida a 4.310 produttori, Piemonte 812.
 70. Piemonte, quarto giro Vivino (1.245 cantine con meno di 50 voti): 111 siti trovati per dominio probabile, 76 con denominazioni, 30 nuove schede. Guida a 4.340 produttori, Piemonte 842.
+71. Piemonte, quinto giro Vivino (1.134 cantine con meno di 50 voti senza sito): ricerca DuckDuckGo, 96 siti verificati, 61 con denominazioni, 11 nuove schede. Guida a 4.351 produttori, Piemonte 853. Il canale Vivino per il Piemonte rende ormai poco.
