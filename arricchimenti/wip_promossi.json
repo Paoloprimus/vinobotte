@@ -48249,7 +48249,7 @@
  },
  {
   "slug": "binello-luigi-azienda-vitivinicola",
-  "nome": "Binello Luigi Azienda Vitivinicola",
+  "nome": "Binello Luigi",
   "regione": "Piemonte",
   "comune": "Nizza Monferrato",
   "tipi": {
@@ -48265,7 +48265,7 @@
   "sito": "",
   "dom": "",
   "den": "",
-  "wip": "Binello Luigi Azienda Vitivinicola",
+  "wip": "Binello Luigi",
   "url_consorzio": "https://viniastimonferrato.it",
   "social": {},
   "premi_da_verificare": true,
@@ -48369,7 +48369,7 @@
  },
  {
   "slug": "damerio-s-s-azienda-vitivinicola",
-  "nome": "Damerio S.S. Azienda Vitivinicola",
+  "nome": "Damerio",
   "regione": "Piemonte",
   "comune": "Nizza Monferrato",
   "tipi": {
@@ -48385,7 +48385,7 @@
   "sito": "",
   "dom": "",
   "den": "",
-  "wip": "Damerio S.S. Azienda Vitivinicola",
+  "wip": "Damerio",
   "url_consorzio": "https://viniastimonferrato.it",
   "social": {},
   "premi_da_verificare": true,
@@ -48545,6 +48545,276 @@
   "dom_consorzio": "viniastimonferrato.it",
   "data_consorzio": "3 novembre 2026",
   "consorzio": "barbera-asti-monferrato",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "amerio-rocco-s-a-s-vini-pregiati",
+  "nome": "Amerio Rocco",
+  "regione": "Piemonte",
+  "comune": "Canelli",
+  "tipi": {
+   "barbera-asti-monferrato": [
+    "Barbera d’Asti e Monferrato"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via A.Soria, 21, 14053 Canelli (AT)",
+  "tel": "+39 0141 823406",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Amerio Rocco",
+  "url_consorzio": "https://viniastimonferrato.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio tutela Barbera d’Asti e Vini del Monferrato",
+  "dom_consorzio": "viniastimonferrato.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "barbera-asti-monferrato",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "cattaneo-adorno-giustiniani",
+  "nome": "Cattaneo Adorno Giustiniani",
+  "regione": "Piemonte",
+  "comune": "Gabiano",
+  "tipi": {
+   "monferrato-casalese": [
+    "Colline del Monferrato Casalese"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "15020 Gabiano (AL)",
+  "tel": "",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Cattaneo Adorno Giustiniani",
+  "url_consorzio": "https://vinimonferratocasalese.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Colline del Monferrato Casalese",
+  "dom_consorzio": "vinimonferratocasalese.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "monferrato-casalese",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "lucchini-ercole",
+  "nome": "Lucchini Ercole",
+  "regione": "Piemonte",
+  "comune": "Ottiglio",
+  "tipi": {
+   "monferrato-casalese": [
+    "Colline del Monferrato Casalese"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "15038 Ottiglio (AL)",
+  "tel": "",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Lucchini Ercole",
+  "url_consorzio": "https://vinimonferratocasalese.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Colline del Monferrato Casalese",
+  "dom_consorzio": "vinimonferratocasalese.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "monferrato-casalese",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "cantina-sociale-cooperativa-di-lu",
+  "nome": "Cantina Sociale Cooperativa di Lu",
+  "regione": "Piemonte",
+  "comune": "Lu",
+  "tipi": {
+   "monferrato-casalese": [
+    "Colline del Monferrato Casalese"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "15040 Lu (AL)",
+  "tel": "",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Cantina Sociale Cooperativa di Lu",
+  "url_consorzio": "https://vinimonferratocasalese.it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Colline del Monferrato Casalese",
+  "dom_consorzio": "vinimonferratocasalese.it",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "monferrato-casalese",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "bricco-bracchi",
+  "nome": "Bricco Bracchi",
+  "regione": "Piemonte",
+  "comune": "Dogliani",
+  "tipi": {
+   "colli-tortonesi": [
+    "Colli Tortonesi"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Borgata Santa Lucia, 29, 12063 Dogliani (CN)",
+  "tel": "",
+  "email": "info@briccobracchi.it",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Bricco Bracchi",
+  "url_consorzio": "https://collitortonesi.com",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Colli Tortonesi",
+  "dom_consorzio": "collitortonesi.com",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "colli-tortonesi",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "cas-al-mat",
+  "nome": "Cas al Mat",
+  "regione": "Piemonte",
+  "comune": "Roddino",
+  "tipi": {
+   "colli-tortonesi": [
+    "Colli Tortonesi"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via San Lorenzo, 13, 12050 Roddino (CN)",
+  "tel": "",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Cas al Mat",
+  "url_consorzio": "https://collitortonesi.com",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Colli Tortonesi",
+  "dom_consorzio": "collitortonesi.com",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "colli-tortonesi",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "reis-wine",
+  "nome": "Rèis Wine",
+  "regione": "Piemonte",
+  "comune": "Moasca",
+  "tipi": {
+   "colli-tortonesi": [
+    "Colli Tortonesi"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Regione cascine, 1, 14050 Moasca (AT)",
+  "tel": "",
+  "email": "info@reis.wine",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Rèis Wine",
+  "url_consorzio": "https://collitortonesi.com",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Colli Tortonesi",
+  "dom_consorzio": "collitortonesi.com",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "colli-tortonesi",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "vignaioli-battegazzore",
+  "nome": "Vignaioli Battegazzore",
+  "regione": "Piemonte",
+  "comune": "Tortona",
+  "tipi": {
+   "colli-tortonesi": [
+    "Colli Tortonesi"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via del popolo, 13 – fraz. Mombisaggio, 15057 Tortona (AL)",
+  "tel": "",
+  "email": "info@vignaiolibattegazzore.it",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Vignaioli Battegazzore",
+  "url_consorzio": "https://collitortonesi.com",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Colli Tortonesi",
+  "dom_consorzio": "collitortonesi.com",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "colli-tortonesi",
+  "data_consultazione": "3 novembre 2026"
+ },
+ {
+  "slug": "cascina-gentile-di-oddone-daniele",
+  "nome": "Cascina Gentile di Oddone Daniele",
+  "regione": "Piemonte",
+  "comune": "Capriata D’Orba",
+  "tipi": {
+   "gavi": [
+    "Gavi"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Str. Per San Cristoforo 11, 15060 Capriata D’Orba (AL)",
+  "tel": "",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Cascina Gentile di Oddone Daniele",
+  "url_consorzio": "https://consorziogavi.com",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela del Gavi",
+  "dom_consorzio": "consorziogavi.com",
+  "data_consorzio": "3 novembre 2026",
+  "consorzio": "gavi",
   "data_consultazione": "3 novembre 2026"
  }
 ]

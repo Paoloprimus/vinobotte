@@ -1,0 +1,28 @@
+{
+ "nome": "Cascina Gentile di Oddone Daniele",
+ "slug": "cascina-gentile-di-oddone-daniele",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Str. Per San Cristoforo 11, 15060 Capriata D’Orba (AL) [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela del Gavi [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela del Gavi, scheda dell’azienda consultata il 3 novembre 2026.",
+   "url": "https://consorziogavi.com",
+   "etichetta": "consorziogavi.com"
+  }
+ ]
+}

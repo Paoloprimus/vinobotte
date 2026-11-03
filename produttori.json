@@ -75227,7 +75227,7 @@
 },
 {
 "slug": "binello-luigi-azienda-vitivinicola",
-"nome": "Binello Luigi Azienda Vitivinicola",
+"nome": "Binello Luigi",
 "regione": "Piemonte",
 "comune": "Nizza Monferrato",
 "tipi": {
@@ -75287,7 +75287,7 @@
 },
 {
 "slug": "damerio-s-s-azienda-vitivinicola",
-"nome": "Damerio S.S. Azienda Vitivinicola",
+"nome": "Damerio",
 "regione": "Piemonte",
 "comune": "Nizza Monferrato",
 "tipi": {
@@ -75374,5 +75374,140 @@
 "vaudano-enrico-figli"
 ],
 "primario": "vaudano-enrico-figli"
+},
+{
+"slug": "amerio-rocco-s-a-s-vini-pregiati",
+"nome": "Amerio Rocco",
+"regione": "Piemonte",
+"comune": "Canelli",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"amerio-rocco-s-a-s-vini-pregiati"
+],
+"primario": "amerio-rocco-s-a-s-vini-pregiati"
+},
+{
+"slug": "cattaneo-adorno-giustiniani",
+"nome": "Cattaneo Adorno Giustiniani",
+"regione": "Piemonte",
+"comune": "Gabiano",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"cattaneo-adorno-giustiniani"
+],
+"primario": "cattaneo-adorno-giustiniani"
+},
+{
+"slug": "lucchini-ercole",
+"nome": "Lucchini Ercole",
+"regione": "Piemonte",
+"comune": "Ottiglio",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"lucchini-ercole"
+],
+"primario": "lucchini-ercole"
+},
+{
+"slug": "cantina-sociale-cooperativa-di-lu",
+"nome": "Cantina Sociale Cooperativa di Lu",
+"regione": "Piemonte",
+"comune": "Lu",
+"tipi": {
+"monferrato-casalese": [
+"Colline del Monferrato Casalese"
+]
+},
+"membri": [
+"cantina-sociale-cooperativa-di-lu"
+],
+"primario": "cantina-sociale-cooperativa-di-lu"
+},
+{
+"slug": "bricco-bracchi",
+"nome": "Bricco Bracchi",
+"regione": "Piemonte",
+"comune": "Dogliani",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"bricco-bracchi"
+],
+"primario": "bricco-bracchi"
+},
+{
+"slug": "cas-al-mat",
+"nome": "Cas al Mat",
+"regione": "Piemonte",
+"comune": "Roddino",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"cas-al-mat"
+],
+"primario": "cas-al-mat"
+},
+{
+"slug": "reis-wine",
+"nome": "Rèis Wine",
+"regione": "Piemonte",
+"comune": "Moasca",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"reis-wine"
+],
+"primario": "reis-wine"
+},
+{
+"slug": "vignaioli-battegazzore",
+"nome": "Vignaioli Battegazzore",
+"regione": "Piemonte",
+"comune": "Tortona",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"vignaioli-battegazzore"
+],
+"primario": "vignaioli-battegazzore"
+},
+{
+"slug": "cascina-gentile-di-oddone-daniele",
+"nome": "Cascina Gentile di Oddone Daniele",
+"regione": "Piemonte",
+"comune": "Capriata D’Orba",
+"tipi": {
+"gavi": [
+"Gavi"
+]
+},
+"membri": [
+"cascina-gentile-di-oddone-daniele"
+],
+"primario": "cascina-gentile-di-oddone-daniele"
 }
 ]
