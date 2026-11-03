@@ -50384,6 +50384,231 @@
 "primario": "cascina-dei-penna"
 },
 {
+"slug": "la-vecchia-posta",
+"nome": "La Vecchia Posta",
+"regione": "Piemonte",
+"comune": "Avolasca",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"la-vecchia-posta"
+],
+"primario": "la-vecchia-posta"
+},
+{
+"slug": "san-biagio",
+"nome": "San Biagio",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"san-biagio"
+],
+"primario": "san-biagio"
+},
+{
+"slug": "azienda-agricola-cordero-gabriele",
+"nome": "Azienda Agricola Cordero Gabriele",
+"regione": "Piemonte",
+"comune": "Priocca",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"azienda-agricola-cordero-gabriele"
+],
+"primario": "azienda-agricola-cordero-gabriele"
+},
+{
+"slug": "azienda-agricola-vecchio",
+"nome": "Azienda Agricola Vecchio",
+"regione": "Piemonte",
+"comune": "Castagnito",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"azienda-agricola-vecchio"
+],
+"primario": "azienda-agricola-vecchio"
+},
+{
+"slug": "castello-di-grinzane",
+"nome": "Castello di Grinzane",
+"regione": "Piemonte",
+"comune": "Grinzane Cavour",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"castello-di-grinzane"
+],
+"primario": "castello-di-grinzane"
+},
+{
+"slug": "collina-san-ponzio",
+"nome": "Collina San Ponzio",
+"regione": "Piemonte",
+"comune": "Barolo",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"collina-san-ponzio"
+],
+"primario": "collina-san-ponzio"
+},
+{
+"slug": "cecilia-monte",
+"nome": "Cecilia Monte",
+"regione": "Piemonte",
+"comune": "Neive",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"cecilia-monte"
+],
+"primario": "cecilia-monte"
+},
+{
+"slug": "la-collina-degli-amici",
+"nome": "La Collina degli Amici",
+"regione": "Piemonte",
+"comune": "Rocchetta Palafea",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"la-collina-degli-amici"
+],
+"primario": "la-collina-degli-amici"
+},
+{
+"slug": "vigna-riccardo",
+"nome": "Vigna Riccardo",
+"regione": "Piemonte",
+"comune": "Montà",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"vigna-riccardo"
+],
+"primario": "vigna-riccardo"
+},
+{
+"slug": "cantina-collina-d-oro",
+"nome": "Cantina Collina d'Oro",
+"regione": "Piemonte",
+"comune": "Calosso",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"cantina-collina-d-oro"
+],
+"primario": "cantina-collina-d-oro"
+},
+{
+"slug": "monte-oliveto-di-casa",
+"nome": "Monte Oliveto di Casà",
+"regione": "Piemonte",
+"comune": "Monticello D’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"monte-oliveto-di-casa"
+],
+"primario": "monte-oliveto-di-casa"
+},
+{
+"slug": "paolo-fasolo",
+"nome": "Paolo Fasolo",
+"regione": "Piemonte",
+"comune": "Castagneto Po",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"paolo-fasolo"
+],
+"primario": "paolo-fasolo"
+},
+{
+"slug": "podere-la-piazza",
+"nome": "Podere la Piazza",
+"regione": "Piemonte",
+"comune": "Costigliole D'Asti",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"podere-la-piazza"
+],
+"primario": "podere-la-piazza"
+},
+{
+"slug": "cascina-vignole",
+"nome": "Cascina Vignole",
+"regione": "Piemonte",
+"comune": "Montafia",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"cascina-vignole"
+],
+"primario": "cascina-vignole"
+},
+{
+"slug": "tenuta-la-meridiana",
+"nome": "Tenuta la Meridiana",
+"regione": "Piemonte",
+"comune": "Montegrosso D’Asti",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"tenuta-la-meridiana"
+],
+"primario": "tenuta-la-meridiana"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
