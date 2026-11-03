@@ -1,0 +1,32 @@
+{
+ "nome": "Carlo Cauda",
+ "slug": "carlo-cauda",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Fraz. Sant’Antonio, 37, 12040 Santo Stefano Roero (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 339 6897554 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di Tutela Roero, scheda dell’azienda consultata il 3 novembre 2026.",
+   "url": "https://consorziodelroero.it",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}

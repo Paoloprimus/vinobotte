@@ -1,0 +1,32 @@
+{
+ "nome": "Cournaja",
+ "slug": "cournaja",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Lussi, 8, 12069 Santa Vittoria d’Alba (CN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 333 4692465 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Roero [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di Tutela Roero, scheda dell’azienda consultata il 3 novembre 2026.",
+   "url": "https://consorziodelroero.it",
+   "etichetta": "consorziodelroero.it"
+  }
+ ]
+}
