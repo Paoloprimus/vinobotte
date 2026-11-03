@@ -48704,6 +48704,606 @@
 "primario": "la-briusa"
 },
 {
+"slug": "lo-zoccolaio",
+"nome": "Lo Zoccolaio",
+"regione": "Piemonte",
+"comune": "Neive",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"lo-zoccolaio"
+],
+"primario": "lo-zoccolaio"
+},
+{
+"slug": "ioppa",
+"nome": "Ioppa",
+"regione": "Piemonte",
+"comune": "Romagnano Sesia",
+"tipi": {
+"alto-piemonte": [
+"Alto Piemonte"
+]
+},
+"membri": [
+"ioppa"
+],
+"primario": "ioppa"
+},
+{
+"slug": "costa-di-bussia-tenuta-arnulfo",
+"nome": "Costa di Bussia - Tenuta Arnulfo",
+"regione": "Piemonte",
+"comune": "Monforte D’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"costa-di-bussia-tenuta-arnulfo"
+],
+"primario": "costa-di-bussia-tenuta-arnulfo"
+},
+{
+"slug": "francesco-rinaldi-figli",
+"nome": "Francesco Rinaldi & Figli",
+"regione": "Piemonte",
+"comune": "Barolo",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"francesco-rinaldi-figli"
+],
+"primario": "francesco-rinaldi-figli"
+},
+{
+"slug": "manzone",
+"nome": "Manzone",
+"regione": "Piemonte",
+"comune": "Monforte D'Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"manzone"
+],
+"primario": "manzone"
+},
+{
+"slug": "reva",
+"nome": "Réva",
+"regione": "Piemonte",
+"comune": "Monforte D'Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"reva"
+],
+"primario": "reva"
+},
+{
+"slug": "sordo",
+"nome": "Sordo",
+"regione": "Piemonte",
+"comune": "Castiglione Falletto",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"sordo"
+],
+"primario": "sordo"
+},
+{
+"slug": "cantina-rasore",
+"nome": "Cantina Rasore",
+"regione": "Piemonte",
+"comune": "Silvano D'Orba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"cantina-rasore"
+],
+"primario": "cantina-rasore"
+},
+{
+"slug": "marina-coppi",
+"nome": "Marina Coppi",
+"regione": "Piemonte",
+"comune": "Castelania",
+"tipi": {
+"colli-tortonesi": [
+"Colli Tortonesi"
+]
+},
+"membri": [
+"marina-coppi"
+],
+"primario": "marina-coppi"
+},
+{
+"slug": "frasca",
+"nome": "Frasca",
+"regione": "Piemonte",
+"comune": "Nizza Monferrato",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"frasca"
+],
+"primario": "frasca"
+},
+{
+"slug": "antica-cascina",
+"nome": "Antica Cascina",
+"regione": "Piemonte",
+"comune": "Magliano Alfieri",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"antica-cascina"
+],
+"primario": "antica-cascina"
+},
+{
+"slug": "sibona",
+"nome": "Sibona",
+"regione": "Piemonte",
+"comune": "Piobesi D’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"sibona"
+],
+"primario": "sibona"
+},
+{
+"slug": "francesco-brigatti",
+"nome": "Francesco Brigatti",
+"regione": "Piemonte",
+"comune": "Suno",
+"tipi": {
+"alto-piemonte": [
+"Alto Piemonte"
+]
+},
+"membri": [
+"francesco-brigatti"
+],
+"primario": "francesco-brigatti"
+},
+{
+"slug": "gatti-piero",
+"nome": "Gatti Piero",
+"regione": "Piemonte",
+"comune": "Santo Stefano Belbo",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"gatti-piero"
+],
+"primario": "gatti-piero"
+},
+{
+"slug": "mama",
+"nome": "Mama",
+"regione": "Piemonte",
+"comune": "Canelli",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"mama"
+],
+"primario": "mama"
+},
+{
+"slug": "castaldi-francesca",
+"nome": "Castaldi Francesca",
+"regione": "Piemonte",
+"comune": "Briona",
+"tipi": {
+"alto-piemonte": [
+"Alto Piemonte"
+]
+},
+"membri": [
+"castaldi-francesca"
+],
+"primario": "castaldi-francesca"
+},
+{
+"slug": "platinetti-guido",
+"nome": "Platinetti Guido",
+"regione": "Piemonte",
+"comune": "Ghemme",
+"tipi": {
+"alto-piemonte": [
+"Alto Piemonte"
+]
+},
+"membri": [
+"platinetti-guido"
+],
+"primario": "platinetti-guido"
+},
+{
+"slug": "maranzana",
+"nome": "Maranzana",
+"regione": "Piemonte",
+"comune": "Maranzana",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"maranzana"
+],
+"primario": "maranzana"
+},
+{
+"slug": "marchisio",
+"nome": "Marchisio",
+"regione": "Piemonte",
+"comune": "Castellinaldo D’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"marchisio"
+],
+"primario": "marchisio"
+},
+{
+"slug": "erede-di-chiappone-armando",
+"nome": "Erede di Chiappone Armando",
+"regione": "Piemonte",
+"comune": "Nizza Monferrato",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"erede-di-chiappone-armando"
+],
+"primario": "erede-di-chiappone-armando"
+},
+{
+"slug": "fontechiara",
+"nome": "Fontechiara",
+"regione": "Piemonte",
+"comune": "Borgomanero",
+"tipi": {
+"alto-piemonte": [
+"Alto Piemonte"
+]
+},
+"membri": [
+"fontechiara"
+],
+"primario": "fontechiara"
+},
+{
+"slug": "monpissan",
+"nome": "Monpissan",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"monpissan"
+],
+"primario": "monpissan"
+},
+{
+"slug": "rossotto",
+"nome": "Rossotto",
+"regione": "Piemonte",
+"comune": "Cinzano",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"rossotto"
+],
+"primario": "rossotto"
+},
+{
+"slug": "tenuta-il-sogno",
+"nome": "Tenuta il Sogno",
+"regione": "Piemonte",
+"comune": "Mombaruzzo",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"tenuta-il-sogno"
+],
+"primario": "tenuta-il-sogno"
+},
+{
+"slug": "summer-wolff",
+"nome": "Summer Wolff",
+"regione": "Piemonte",
+"comune": "Montaldo di Cerrina Alessandria",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"summer-wolff"
+],
+"primario": "summer-wolff"
+},
+{
+"slug": "la-mano-verde",
+"nome": "La Mano Verde",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"la-mano-verde"
+],
+"primario": "la-mano-verde"
+},
+{
+"slug": "prima-piuma",
+"nome": "Prima Piuma",
+"regione": "Piemonte",
+"comune": "Montaldo di Cerrina Alessandria",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"prima-piuma"
+],
+"primario": "prima-piuma"
+},
+{
+"slug": "terre-sparse",
+"nome": "Terre Sparse",
+"regione": "Piemonte",
+"comune": "Chiaverano",
+"tipi": {
+"canavese": [
+"Canavese"
+]
+},
+"membri": [
+"terre-sparse"
+],
+"primario": "terre-sparse"
+},
+{
+"slug": "sant-eufemia",
+"nome": "Sant Eufemia",
+"regione": "Piemonte",
+"comune": "Sinio",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"sant-eufemia"
+],
+"primario": "sant-eufemia"
+},
+{
+"slug": "giacomo-costa",
+"nome": "Giacomo Costa",
+"regione": "Piemonte",
+"comune": "Castagnito",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"giacomo-costa"
+],
+"primario": "giacomo-costa"
+},
+{
+"slug": "cantina-asti-barbera",
+"nome": "Cantina Asti Barbera",
+"regione": "Piemonte",
+"comune": "Costigliole D’Asti",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"cantina-asti-barbera"
+],
+"primario": "cantina-asti-barbera"
+},
+{
+"slug": "novarese",
+"nome": "Novarese",
+"regione": "Piemonte",
+"comune": "Moransengo-Tonengo",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"novarese"
+],
+"primario": "novarese"
+},
+{
+"slug": "luigi-bosio",
+"nome": "Luigi Bosio",
+"regione": "Piemonte",
+"comune": "Santo Stefano Belbo",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"luigi-bosio"
+],
+"primario": "luigi-bosio"
+},
+{
+"slug": "valtriversa",
+"nome": "Valtriversa",
+"regione": "Piemonte",
+"comune": "Castellero",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"valtriversa"
+],
+"primario": "valtriversa"
+},
+{
+"slug": "calorio-filippino",
+"nome": "Calorio Filippino",
+"regione": "Piemonte",
+"comune": "MONTA’",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"calorio-filippino"
+],
+"primario": "calorio-filippino"
+},
+{
+"slug": "cantine-f-lli-francoli",
+"nome": "Cantine F.lli Francoli",
+"regione": "Piemonte",
+"comune": "Ghemme",
+"tipi": {
+"alto-piemonte": [
+"Alto Piemonte"
+]
+},
+"membri": [
+"cantine-f-lli-francoli"
+],
+"primario": "cantine-f-lli-francoli"
+},
+{
+"slug": "la-canellese",
+"nome": "La Canellese",
+"regione": "Piemonte",
+"comune": "Calamandrana",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"la-canellese"
+],
+"primario": "la-canellese"
+},
+{
+"slug": "viberti-giacomo-e-figli",
+"nome": "Viberti Giacomo e Figli",
+"regione": "Piemonte",
+"comune": "Barolo",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"viberti-giacomo-e-figli"
+],
+"primario": "viberti-giacomo-e-figli"
+},
+{
+"slug": "rovero-it",
+"nome": "Rovero (IT)",
+"regione": "Piemonte",
+"comune": "Sostegno",
+"tipi": {
+"alto-piemonte": [
+"Alto Piemonte"
+]
+},
+"membri": [
+"rovero-it"
+],
+"primario": "rovero-it"
+},
+{
+"slug": "montezemolo",
+"nome": "Montezemolo",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"montezemolo"
+],
+"primario": "montezemolo"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
