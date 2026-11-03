@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Carlone Boca","s":"carlone-boca","c":"Grignasco","d":["Alto Piemonte"]},{"n":"Castello di Montecavallo","s":"castello-di-montecavallo","c":"Vigliano Biellese","d":["Alto Piemonte"]},{"n":"Poderi Garona","s":"poderi-garona","c":"Borgomanero","d":["Alto Piemonte"]}];
+    const D=[{"n":"Carlone Boca","s":"carlone-boca","c":"Grignasco","d":["Alto Piemonte"]},{"n":"Castello di Montecavallo","s":"castello-di-montecavallo","c":"Vigliano Biellese","d":["Alto Piemonte"]},{"n":"Comero","s":"comero","c":"Sizzano","d":["Alto Piemonte"]},{"n":"Crus","s":"crus","c":"Cossato","d":["Alto Piemonte"]},{"n":"Gaggiano","s":"gaggiano","c":"Torino","d":["Alto Piemonte"]},{"n":"Le Piane","s":"le-piane","c":"Boca","d":["Alto Piemonte"]},{"n":"Poderi Garona","s":"poderi-garona","c":"Borgomanero","d":["Alto Piemonte"]},{"n":"Travaglini","s":"travaglini","c":"Gattinara","d":["Alto Piemonte"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
