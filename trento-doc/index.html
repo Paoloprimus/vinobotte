@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Trento DOC — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Trento DOC</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Trento DOC</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Abate Nero","s":"abate-nero","c":"Trento","d":["Trento DOC"]},{"n":"Agraria Riva del Garda","s":"agraria-riva-del-garda","c":"Riva del Garda","d":["Trento DOC"]},{"n":"Altemasi","s":"altemasi","c":"Trento","d":["Trento DOC"]},{"n":"Azienda Agricola Lunelli","s":"azienda-agricola-lunelli","c":"Madruzzo","d":["Trento DOC"]},{"n":"Balter","s":"balter","c":"Rovereto","d":["Trento DOC"]},{"n":"Bellaveder","s":"bellaveder","c":"Faedo","d":["Trento DOC"]},{"n":"Bolognani","s":"bolognani","c":"Lavis","d":["Trento DOC"]},{"n":"Borgo dei Posseri","s":"borgo-dei-posseri","c":"Ala","d":["Trento DOC"]},{"n":"Cantina Aldeno","s":"cantina-aldeno","c":"Aldeno","d":["Trento DOC"]},{"n":"Cantina d'Isera","s":"cantina-d-isera","c":"Isera","d":["Trento DOC"]},{"n":"Cantina Delaiti","s":"cantina-delaiti","c":"Aldeno","d":["Trento DOC"]},{"n":"Cantina Romanese","s":"cantina-romanese","c":"Levico Terme","d":["Trento DOC"]},{"n":"Cantina Rotaliana di Mezzolombardo","s":"cantina-rotaliana-di-mezzolombardo","c":"Mezzolombardo","d":["Trento DOC"]},{"n":"Cantina Sociale di Trento","s":"cantina-sociale-di-trento","c":"Trento","d":["Trento DOC"]},{"n":"Cantina Toblino","s":"cantina-toblino","c":"Madruzzo","d":["Trento DOC"]},{"n":"Cantina Zehnhof","s":"cantina-zehnhof","c":"Roverè della Luna","d":["Trento DOC"]},{"n":"Cantine Ferrari","s":"cantine-ferrari","c":"Trento","d":["Trento DOC"]},{"n":"Cembra Cantina di Montagna","s":"cembra-cantina-di-montagna","c":"Cembra Lisignago","d":["Trento DOC"]},{"n":"Cesarini Sforza Spumanti","s":"cesarini-sforza-spumanti","c":"Trento","d":["Trento DOC"]},{"n":"Conti Bossi Fedrigotti - Masi Agricola","s":"conti-bossi-fedrigotti-masi-agricola","c":"Rovereto","d":["Trento DOC"]},{"n":"Corvée","s":"corvee","c":"Cembra Lisignago","d":["Trento DOC"]},{"n":"Cà de Vila","s":"ca-de-vila","c":"Villa Lagarina","d":["Trento DOC"]},{"n":"Donati Marco","s":"donati-marco","c":"Mezzocorona","d":["Trento DOC"]},{"n":"Dorigati","s":"dorigati","c":"Mezzocorona","d":["Trento DOC"]},{"n":"Etyssa","s":"etyssa","c":"Trento","d":["Trento DOC"]},{"n":"Fontana Graziano","s":"fontana-graziano","c":"San Michele all’Adige","d":["Trento DOC"]},{"n":"Furletti Gabriele","s":"furletti-gabriele","c":"Riva del Garda","d":["Trento DOC"]},{"n":"La Cadalora","s":"la-cadalora","c":"Santa Margherita d'Ala","d":["Trento DOC"]},{"n":"Lagertal","s":"lagertal","c":"Villa Lagarina","d":["Trento DOC"]},{"n":"LeVide","s":"levide","c":"Predaia","d":["Trento DOC"]},{"n":"Madonna delle Vittorie","s":"madonna-delle-vittorie","c":"Arco","d":["Trento DOC"]},{"n":"Man","s":"man","c":"Giovo","d":["Trento DOC"]},{"n":"Mas dei Chini","s":"mas-dei-chini","c":"Trento","d":["Trento DOC"]},{"n":"Maso Bergamini","s":"maso-bergamini","c":"Trento","d":["Trento DOC"]},{"n":"Maso Martis","s":"maso-martis","c":"Trento","d":["Trento DOC"]},{"n":"Maso Poli","s":"maso-poli","c":"Lavis","d":["Trento DOC"]},{"n":"Pedrotti Spumanti","s":"pedrotti-spumanti","c":"Nomi","d":["Trento DOC"]},{"n":"Pelz F.lli","s":"pelz-f-lli","c":"Cembra Lisignago","d":["Trento DOC"]},{"n":"Revì","s":"revi","c":"Aldeno","d":["Trento DOC"]},{"n":"Salizzoni","s":"salizzoni","c":"Calliano","d":["Trento DOC"]},{"n":"San Michael","s":"san-michael","c":"San Michele all’Adige","d":["Trento DOC"]},{"n":"Tarter","s":"tarter","c":"Lavis","d":["Trento DOC"]},{"n":"Tenuta Maso Corno","s":"tenuta-maso-corno","c":"Rovereto","d":["Trento DOC"]},{"n":"Tenuta Volpare","s":"tenuta-volpare","c":"Trento","d":["Trento DOC"]},{"n":"Terre del Lagorai","s":"terre-del-lagorai","c":"Castel Ivano","d":["Trento DOC"]},{"n":"Vivallis","s":"vivallis","c":"Nogaredo","d":["Trento DOC"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    

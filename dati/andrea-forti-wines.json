@@ -1,0 +1,45 @@
+{
+ "nome": "Andrea Forti Wines",
+ "slug": "andrea-forti-wines",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via della Villa Parolari 3, 38123 Trento (TN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 351 4596093 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.andreafortiwines.it|andreafortiwines.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini del Trentino [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Trentino [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini del Trentino, scheda dell’azienda consultata il 4 novembre 2026.",
+   "url": "https://www.winetrentino.it/azienda/andrea-forti-wines/",
+   "etichetta": "winetrentino.it"
+  }
+ ]
+}

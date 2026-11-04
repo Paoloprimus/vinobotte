@@ -1,0 +1,45 @@
+{
+ "nome": "Cantina Toblino",
+ "slug": "cantina-toblino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Lónga, 1 Fr. Sarche, 38076 Madruzzo (TN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0461 564168 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.toblino.it|toblino.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini del Trentino [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Trentino, Trento DOC [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini del Trentino, scheda dell’azienda consultata il 4 novembre 2026.",
+   "url": "https://www.winetrentino.it/azienda/cantina-toblino/",
+   "etichetta": "winetrentino.it"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "nome": "Corvée",
+ "slug": "corvee",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Bedin, 18, 38034 Cembra Lisignago (TN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 344 0260170 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.corvee.wine|corvee.wine}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini del Trentino [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Trentino [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini del Trentino, scheda dell’azienda consultata il 4 novembre 2026.",
+   "url": "https://www.winetrentino.it/azienda/corvee/",
+   "etichetta": "winetrentino.it"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "nome": "Maso Roveri",
+ "slug": "maso-roveri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Masi 23, 38063 Avio (TN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0464 684395 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.masoroveri.com|masoroveri.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini del Trentino [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Trentino [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini del Trentino, scheda dell’azienda consultata il 4 novembre 2026.",
+   "url": "https://www.winetrentino.it/azienda/maso-roveri/",
+   "etichetta": "winetrentino.it"
+  }
+ ]
+}

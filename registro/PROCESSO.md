@@ -224,3 +224,12 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 109 — Lombardia chiusa
 - Registro `lombardia-chiusura.md`; `stato-consorzi.csv` righe 12, 17, 30 aggiornate. Lombardia 418 produttori; guida 5.252.
+
+## 110 — Trentino: consorzio Vini del Trentino
+- 56 soci aggiunti da elenco e schede del consorzio; nuove pagine Trento DOC e Teroldego Rotaliano (decisione di Paolo: pagina per ogni nuova denominazione); tessere assegnate dalla lettura dei siti (29 Trento DOC, 5 Teroldego).
+
+## 111 — Trentino-Alto Adige: Vivino
+- Scaricato Vivino (965); 374 candidate non in guida; sito 202; sede 105; +70 nuove schede. Tessere per provincia di sede.
+
+## 112 — Trentino-Alto Adige chiuso
+- Registro `trentino-alto-adige-chiusura.md`; `stato-consorzi.csv` righe 28 e 46. Trentino-Alto Adige 300; guida 5.378. Un solo deploy per regione.

@@ -1,0 +1,45 @@
+{
+ "nome": "Vivallis",
+ "slug": "vivallis",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via per Brancolino 4, 38060 Nogaredo (TN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0464 412073 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vivallis.it|vivallis.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini del Trentino [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Trentino [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini del Trentino, scheda dell’azienda consultata il 4 novembre 2026.",
+   "url": "https://www.winetrentino.it/azienda/vivallis/",
+   "etichetta": "winetrentino.it"
+  }
+ ]
+}
