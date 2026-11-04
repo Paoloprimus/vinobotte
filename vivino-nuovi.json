@@ -18150,5 +18150,163 @@
     "Valpolicella e Amarone"
    ]
   }
+ },
+ {
+  "regione": "Toscana",
+  "slug": "podere-il-balzo",
+  "nome": "Podere Il Balzo",
+  "comune": "Rufina",
+  "sede": "Via del Poggiolo 12, 50068 Rufina (FI)",
+  "tel": "+39 347 1891311",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.ilbalzo.it/",
+  "dom": "ilbalzo.it",
+  "storia": "",
+  "den": "Chianti",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  }
+ },
+ {
+  "regione": "Toscana",
+  "slug": "santa-liberata",
+  "nome": "Santa Liberata",
+  "comune": "Cerreto Guidi",
+  "sede": "Via V. Veneto, 96, 50050 Cerreto Guidi (FI)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://chiantisantaliberata.com/",
+  "dom": "chiantisantaliberata.com",
+  "storia": "",
+  "den": "Chianti",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  }
+ },
+ {
+  "regione": "Toscana",
+  "slug": "podere-olmo",
+  "nome": "Podere Olmo",
+  "comune": "Castelnuovo Berardenga",
+  "sede": "Strada Chiantigiana km 58,6, Località Podere Olmo 6, 53019 Castelnuovo Berardenga (SI)",
+  "tel": "",
+  "contatti": "",
+  "rag": "Eredi Ugurgieri S. S. Società Agricola",
+  "sito": "https://podereolmochianticlassico.com/",
+  "dom": "podereolmochianticlassico.com",
+  "storia": "",
+  "den": "Chianti Classico; Chianti",
+  "tipi": {
+   "chianti-classico": [
+    "Chianti Classico"
+   ],
+   "chianti": [
+    "Chianti"
+   ]
+  }
+ },
+ {
+  "regione": "Toscana",
+  "slug": "valle-prima",
+  "nome": "Valle Prima",
+  "comune": "Montespertoli",
+  "sede": "Via Volterrana Sud 115, 50025 Montespertoli (FI)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.valleprimavinoeolio.it/",
+  "dom": "valleprimavinoeolio.it",
+  "storia": "",
+  "den": "Chianti",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  }
+ },
+ {
+  "regione": "Toscana",
+  "slug": "fornacino",
+  "nome": "Fornacino",
+  "comune": "Castelnuovo Berardenga",
+  "sede": "Strada del Fornacino 7, Località Pontignano, 53019 Castelnuovo Berardenga (SI)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.podereilfornacino.com/",
+  "dom": "podereilfornacino.com",
+  "storia": "",
+  "den": "Chianti Classico; Chianti",
+  "tipi": {
+   "chianti-classico": [
+    "Chianti Classico"
+   ],
+   "chianti": [
+    "Chianti"
+   ]
+  }
+ },
+ {
+  "regione": "Toscana",
+  "slug": "fattoria-bellavista-di-casignano",
+  "nome": "Fattoria Bellavista di Casignano",
+  "comune": "Scandicci",
+  "sede": "Via Vingoncello 8, 50018 Scandicci (FI)",
+  "tel": "",
+  "contatti": "",
+  "rag": "Fattoria Bellavista di Casignano Soc. Agricola a.",
+  "sito": "https://www.bellavistacasignano.it/",
+  "dom": "bellavistacasignano.it",
+  "storia": "",
+  "den": "Chianti",
+  "tipi": {
+   "chianti": [
+    "Chianti"
+   ]
+  }
+ },
+ {
+  "regione": "Toscana",
+  "slug": "rosa-dei-venti",
+  "nome": "Rosa dei Venti",
+  "comune": "Cortona",
+  "sede": "Via Quaratola 71, 52044 Cortona (AR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "Sito Web Tiphys Srl",
+  "sito": "https://www.rosadeiventi.net/",
+  "dom": "rosadeiventi.net",
+  "storia": "",
+  "den": "Cortona",
+  "tipi": {
+   "cortona": [
+    "Cortona"
+   ]
+  }
+ },
+ {
+  "regione": "Toscana",
+  "slug": "vacasio",
+  "nome": "Vacasio",
+  "comune": "Pitigliano",
+  "sede": "Località Vacasio 1558, 58017 Pitigliano (GR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.villavacasio.com/",
+  "dom": "villavacasio.com",
+  "storia": "",
+  "den": "Bianco di Pitigliano",
+  "tipi": {
+   "pitigliano": [
+    "Bianco di Pitigliano"
+   ]
+  }
  }
 ]

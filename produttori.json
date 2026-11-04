@@ -55039,6 +55039,132 @@
 "primario": "zecchinelli"
 },
 {
+"slug": "podere-il-balzo",
+"nome": "Podere Il Balzo",
+"regione": "Toscana",
+"comune": "Rufina",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"podere-il-balzo"
+],
+"primario": "podere-il-balzo"
+},
+{
+"slug": "santa-liberata",
+"nome": "Santa Liberata",
+"regione": "Toscana",
+"comune": "Cerreto Guidi",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"santa-liberata"
+],
+"primario": "santa-liberata"
+},
+{
+"slug": "podere-olmo",
+"nome": "Podere Olmo",
+"regione": "Toscana",
+"comune": "Castelnuovo Berardenga",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+],
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"podere-olmo"
+],
+"primario": "podere-olmo"
+},
+{
+"slug": "valle-prima",
+"nome": "Valle Prima",
+"regione": "Toscana",
+"comune": "Montespertoli",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"valle-prima"
+],
+"primario": "valle-prima"
+},
+{
+"slug": "fornacino",
+"nome": "Fornacino",
+"regione": "Toscana",
+"comune": "Castelnuovo Berardenga",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+],
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"fornacino"
+],
+"primario": "fornacino"
+},
+{
+"slug": "fattoria-bellavista-di-casignano",
+"nome": "Fattoria Bellavista di Casignano",
+"regione": "Toscana",
+"comune": "Scandicci",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"fattoria-bellavista-di-casignano"
+],
+"primario": "fattoria-bellavista-di-casignano"
+},
+{
+"slug": "rosa-dei-venti",
+"nome": "Rosa dei Venti",
+"regione": "Toscana",
+"comune": "Cortona",
+"tipi": {
+"cortona": [
+"Cortona"
+]
+},
+"membri": [
+"rosa-dei-venti"
+],
+"primario": "rosa-dei-venti"
+},
+{
+"slug": "vacasio",
+"nome": "Vacasio",
+"regione": "Toscana",
+"comune": "Pitigliano",
+"tipi": {
+"pitigliano": [
+"Bianco di Pitigliano"
+]
+},
+"membri": [
+"vacasio"
+],
+"primario": "vacasio"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
