@@ -1,0 +1,45 @@
+{
+ "nome": "Maso di Villa",
+ "slug": "maso-di-villa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Col di Guarda, 15, 31058 Collalto di Susegana (TV) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0438 841414 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.masodivilla.it/|masodivilla.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Colli di Conegliano DOCG [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Colli di Conegliano [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Colli di Conegliano DOCG, scheda dell’azienda consultata il 4 novembre 2026.",
+   "url": "http://www.colliconegliano.it/it/soci-it",
+   "etichetta": "colliconegliano.it"
+  }
+ ]
+}

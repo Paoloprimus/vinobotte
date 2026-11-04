@@ -50256,5 +50256,35 @@
   "data_consorzio": "4 novembre 2026",
   "consorzio": "lugana",
   "data_consultazione": "4 novembre 2026"
+ },
+ {
+  "slug": "maso-di-villa",
+  "nome": "Maso di Villa",
+  "regione": "Veneto",
+  "comune": "Susegana",
+  "tipi": {
+   "conegliano": [
+    "Colli di Conegliano"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Col di Guarda, 15, 31058 Collalto di Susegana (TV)",
+  "tel": "+39 0438 841414",
+  "email": "",
+  "sito": "https://www.masodivilla.it/",
+  "dom": "masodivilla.it",
+  "den": "Colli di Conegliano",
+  "wip": "Maso di Villa",
+  "url_consorzio": "http://www.colliconegliano.it/it/soci-it",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Colli di Conegliano DOCG",
+  "dom_consorzio": "colliconegliano.it",
+  "data_consorzio": "4 novembre 2026",
+  "consorzio": "conegliano",
+  "data_consultazione": "4 novembre 2026"
  }
 ]
