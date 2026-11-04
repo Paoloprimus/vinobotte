@@ -54394,6 +54394,651 @@
 "primario": "abbazia-monteoliveto"
 },
 {
+"slug": "roagna",
+"nome": "Roagna",
+"regione": "Piemonte",
+"comune": "Barbaresco",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"roagna"
+],
+"primario": "roagna"
+},
+{
+"slug": "parusso",
+"nome": "Parusso",
+"regione": "Piemonte",
+"comune": "Monforte D’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"parusso"
+],
+"primario": "parusso"
+},
+{
+"slug": "paolo-conterno",
+"nome": "Paolo Conterno",
+"regione": "Piemonte",
+"comune": "Monforte D’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"paolo-conterno"
+],
+"primario": "paolo-conterno"
+},
+{
+"slug": "anna-maria-abbona",
+"nome": "Anna Maria Abbona",
+"regione": "Piemonte",
+"comune": "Farigliano",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"anna-maria-abbona"
+],
+"primario": "anna-maria-abbona"
+},
+{
+"slug": "renato-corino",
+"nome": "Renato Corino",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"renato-corino"
+],
+"primario": "renato-corino"
+},
+{
+"slug": "franco-molino",
+"nome": "Franco Molino",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"franco-molino"
+],
+"primario": "franco-molino"
+},
+{
+"slug": "castello-di-perno-monforte-dalba",
+"nome": "Castello di Perno",
+"regione": "Piemonte",
+"comune": "Monforte d’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"castello-di-perno-monforte-dalba"
+],
+"primario": "castello-di-perno-monforte-dalba"
+},
+{
+"slug": "ca-brusa",
+"nome": "Cà Brusà",
+"regione": "Piemonte",
+"comune": "Monforte d’Alba",
+"tipi": {
+"langhe": [
+"Langhe"
+]
+},
+"membri": [
+"ca-brusa"
+],
+"primario": "ca-brusa"
+},
+{
+"slug": "cantina-graglia",
+"nome": "Cantina Graglia",
+"regione": "Piemonte",
+"comune": "Castelnuovo Don Bosco",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"cantina-graglia"
+],
+"primario": "cantina-graglia"
+},
+{
+"slug": "podere-le-gaggie",
+"nome": "Podere le Gaggie",
+"regione": "Piemonte",
+"comune": "Montegrosso D'Asti",
+"tipi": {
+"langhe": [
+"Langhe"
+]
+},
+"membri": [
+"podere-le-gaggie"
+],
+"primario": "podere-le-gaggie"
+},
+{
+"slug": "romana",
+"nome": "Romana",
+"regione": "Piemonte",
+"comune": "Dogliani",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"romana"
+],
+"primario": "romana"
+},
+{
+"slug": "mauro-veglio",
+"nome": "Mauro Veglio",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"mauro-veglio"
+],
+"primario": "mauro-veglio"
+},
+{
+"slug": "sottimano",
+"nome": "Sottimano",
+"regione": "Piemonte",
+"comune": "Neive",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"sottimano"
+],
+"primario": "sottimano"
+},
+{
+"slug": "gianfranco-alessandria",
+"nome": "Gianfranco Alessandria",
+"regione": "Piemonte",
+"comune": "Monforte D’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"gianfranco-alessandria"
+],
+"primario": "gianfranco-alessandria"
+},
+{
+"slug": "monterustico",
+"nome": "Monterustico",
+"regione": "Piemonte",
+"comune": "Barolo",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"monterustico"
+],
+"primario": "monterustico"
+},
+{
+"slug": "veglio-angelo",
+"nome": "Veglio Angelo",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"veglio-angelo"
+],
+"primario": "veglio-angelo"
+},
+{
+"slug": "patrone",
+"nome": "Patrone",
+"regione": "Piemonte",
+"comune": "Cortemilia",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"patrone"
+],
+"primario": "patrone"
+},
+{
+"slug": "ca-di-press",
+"nome": "Cà di Press",
+"regione": "Piemonte",
+"comune": "Monforte D'Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"ca-di-press"
+],
+"primario": "ca-di-press"
+},
+{
+"slug": "serra-domenico",
+"nome": "Serra Domenico",
+"regione": "Piemonte",
+"comune": "Agliano Terme",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"serra-domenico"
+],
+"primario": "serra-domenico"
+},
+{
+"slug": "runchet",
+"nome": "Runchét",
+"regione": "Piemonte",
+"comune": "Treiso",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"runchet"
+],
+"primario": "runchet"
+},
+{
+"slug": "rigo",
+"nome": "Rigo",
+"regione": "Piemonte",
+"comune": "Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"rigo"
+],
+"primario": "rigo"
+},
+{
+"slug": "cascina-merenda",
+"nome": "Cascina Merenda",
+"regione": "Piemonte",
+"comune": "Monforte D’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"cascina-merenda"
+],
+"primario": "cascina-merenda"
+},
+{
+"slug": "le-querce-del-vareglio",
+"nome": "Le Querce del Vareglio",
+"regione": "Piemonte",
+"comune": "Canale",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"le-querce-del-vareglio"
+],
+"primario": "le-querce-del-vareglio"
+},
+{
+"slug": "smeraldi-1868",
+"nome": "Smeraldi 1868",
+"regione": "Piemonte",
+"comune": "Farigliano",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"smeraldi-1868"
+],
+"primario": "smeraldi-1868"
+},
+{
+"slug": "bovio",
+"nome": "Bovio",
+"regione": "Piemonte",
+"comune": "La Morra",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"bovio"
+],
+"primario": "bovio"
+},
+{
+"slug": "monti",
+"nome": "Monti",
+"regione": "Piemonte",
+"comune": "Monforte d’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"monti"
+],
+"primario": "monti"
+},
+{
+"slug": "tibaldi",
+"nome": "Tibaldi",
+"regione": "Piemonte",
+"comune": "Pocapaglia",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"tibaldi"
+],
+"primario": "tibaldi"
+},
+{
+"slug": "careglio",
+"nome": "Careglio",
+"regione": "Piemonte",
+"comune": "Baldissero D’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"careglio"
+],
+"primario": "careglio"
+},
+{
+"slug": "tenuta-pian-d-attesio",
+"nome": "Tenuta Pian D'Attesio",
+"regione": "Piemonte",
+"comune": "Castelletto Uzzone",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"tenuta-pian-d-attesio"
+],
+"primario": "tenuta-pian-d-attesio"
+},
+{
+"slug": "casa-grenghe",
+"nome": "Casa Grenghe",
+"regione": "Piemonte",
+"comune": "San Damiano D’Asti",
+"tipi": {
+"langhe": [
+"Langhe"
+]
+},
+"membri": [
+"casa-grenghe"
+],
+"primario": "casa-grenghe"
+},
+{
+"slug": "picollo",
+"nome": "Picollo",
+"regione": "Piemonte",
+"comune": "Neviglie",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"picollo"
+],
+"primario": "picollo"
+},
+{
+"slug": "poderi-elia-neive",
+"nome": "Poderi Elia",
+"regione": "Piemonte",
+"comune": "Neive",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"poderi-elia-neive"
+],
+"primario": "poderi-elia-neive"
+},
+{
+"slug": "casa-brina",
+"nome": "Casa Brina",
+"regione": "Piemonte",
+"comune": "Cocconato",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"casa-brina"
+],
+"primario": "casa-brina"
+},
+{
+"slug": "cantine-povero",
+"nome": "Cantine Povero",
+"regione": "Piemonte",
+"comune": "Cisterna d’Asti",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"cantine-povero"
+],
+"primario": "cantine-povero"
+},
+{
+"slug": "ca-mariuccia",
+"nome": "Ca' Mariuccia",
+"regione": "Piemonte",
+"comune": "Albugnano",
+"tipi": {
+"barbera-asti-monferrato": [
+"Barbera d’Asti e Monferrato"
+]
+},
+"membri": [
+"ca-mariuccia"
+],
+"primario": "ca-mariuccia"
+},
+{
+"slug": "la-bioca-serralunga-dalba",
+"nome": "La Biòca",
+"regione": "Piemonte",
+"comune": "Serralunga d’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"la-bioca-serralunga-dalba"
+],
+"primario": "la-bioca-serralunga-dalba"
+},
+{
+"slug": "livio-soria",
+"nome": "Livio Soria",
+"regione": "Piemonte",
+"comune": "Calosso",
+"tipi": {
+"asti": [
+"Asti e Moscato d’Asti"
+]
+},
+"membri": [
+"livio-soria"
+],
+"primario": "livio-soria"
+},
+{
+"slug": "azienda-agricola-negro-lorenzo",
+"nome": "Azienda Agricola Negro Lorenzo",
+"regione": "Piemonte",
+"comune": "Monteu Roero",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"azienda-agricola-negro-lorenzo"
+],
+"primario": "azienda-agricola-negro-lorenzo"
+},
+{
+"slug": "negro-angelo",
+"nome": "Negro Angelo",
+"regione": "Piemonte",
+"comune": "Monteu Roero",
+"tipi": {
+"roero": [
+"Roero"
+]
+},
+"membri": [
+"negro-angelo"
+],
+"primario": "negro-angelo"
+},
+{
+"slug": "paola-lanzavecchia",
+"nome": "Paola Lanzavecchia",
+"regione": "Piemonte",
+"comune": "Serralunga D’Alba",
+"tipi": {
+"langhe": [
+"Barolo, Barbaresco e Langhe"
+]
+},
+"membri": [
+"paola-lanzavecchia"
+],
+"primario": "paola-lanzavecchia"
+},
+{
+"slug": "vigne-capraro",
+"nome": "Vigne Capraro",
+"regione": "Veneto",
+"comune": "Cimadolmo",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"vigne-capraro"
+],
+"primario": "vigne-capraro"
+},
+{
+"slug": "casaborgomarche",
+"nome": "Casaborgomarche",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"casaborgomarche"
+],
+"primario": "casaborgomarche"
+},
+{
+"slug": "zecchinelli",
+"nome": "Zecchinelli",
+"regione": "Veneto",
+"comune": "Sant’Ambrogio di Valpolicella",
+"tipi": {
+"valpolicella": [
+"Valpolicella e Amarone"
+]
+},
+"membri": [
+"zecchinelli"
+],
+"primario": "zecchinelli"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
