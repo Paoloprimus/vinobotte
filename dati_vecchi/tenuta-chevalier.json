@@ -23,8 +23,8 @@
    "titolo": "Vini",
    "righe": [
     {
-     "etichetta": "Elenco vini",
-     "valore": "Non disponibile: il sito indicato non ha contenuti leggibili [[1]]"
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Valpolicella Classico DOC, Valpolicella Classico Superiore DOC, Valpolicella Ripasso Classico Superiore DOC, Amarone della Valpolicella Classico DOCG [[3]]"
     }
    ]
   },
@@ -41,8 +41,8 @@
    "titolo": "Identità online",
    "righe": [
     {
-     "etichetta": "Sito",
-     "valore": "chevalier.it, nessun contenuto leggibile al momento della consultazione [[1]]"
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.chevalier.it/|chevalier.it}} [[3]]"
     },
     {
      "etichetta": "Negozi online e marketplace",
@@ -55,13 +55,19 @@
    ]
   }
  ],
- "consultate": "Pagine consultate il 24 ottobre 2026 (da copia salvata del sito). Ogni dato della scheda rinvia qui con il numero tra parentesi quadre.",
+ "consultate": "Fonti consultate il 24 ottobre e il 4 novembre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
  "fonti": [
   {
    "n": 1,
    "testo": "Consorzio Tutela Vini Valpolicella, elenco delle aziende del 7 agosto 2026 (PDF).",
    "url": "https://www.consorziovalpolicella.it/",
    "etichetta": "consorziovalpolicella.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale di Tenuta Chevalier, pagina iniziale, consultata il 4 novembre 2026.",
+   "url": "https://www.chevalier.it/it/home.html",
+   "etichetta": "chevalier.it"
   }
  ]
 }

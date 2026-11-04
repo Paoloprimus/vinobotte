@@ -23,8 +23,8 @@
    "titolo": "Vini",
    "righe": [
     {
-     "etichetta": "Elenco vini",
-     "valore": "Non disponibile: il sito indicato non ha contenuti leggibili [[1]]"
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Valpolicella Classico DOC, Valpolicella Classico Superiore DOC, Valpolicella Ripasso Classico Superiore DOC, Amarone della Valpolicella Classico DOCG [[2]]"
     }
    ]
   },
@@ -41,8 +41,8 @@
    "titolo": "Presenza online",
    "righe": [
     {
-     "etichetta": "Sito",
-     "valore": "chevalier.it, nessun contenuto leggibile al momento della consultazione [[1]]"
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.chevalier.it/|chevalier.it}} [[2]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -50,12 +50,12 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=3832623784209109090|Mappa}} — valutazione 5 su 5 (120 recensioni) [[2]]"
+     "valore": "{{https://maps.google.com/?cid=3832623784209109090|Mappa}} — valutazione 5 su 5 (120 recensioni) [[3]]"
     }
    ]
   }
  ],
- "consultate": "Fonti consultate il 24 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
  "fonti": [
   {
    "n": 1,
@@ -65,6 +65,12 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale di Tenuta Chevalier, pagina iniziale, consultata il 4 novembre 2026.",
+   "url": "https://www.chevalier.it/it/home.html",
+   "etichetta": "chevalier.it"
+  },
+  {
+   "n": 3,
    "testo": "Scheda «Tenuta Chevalier» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=3832623784209109090",
    "etichetta": "maps.google.com"
