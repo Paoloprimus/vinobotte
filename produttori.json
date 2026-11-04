@@ -53384,6 +53384,171 @@
 "primario": "marsadri"
 },
 {
+"slug": "ca-biasi",
+"nome": "Ca' Biasi",
+"regione": "Veneto",
+"comune": "Breganze",
+"tipi": {
+"breganze": [
+"Breganze"
+]
+},
+"membri": [
+"ca-biasi"
+],
+"primario": "ca-biasi"
+},
+{
+"slug": "zoe",
+"nome": "Zoe",
+"regione": "Veneto",
+"comune": "Bassano del Grappa",
+"tipi": {
+"breganze": [
+"Breganze"
+]
+},
+"membri": [
+"zoe"
+],
+"primario": "zoe"
+},
+{
+"slug": "dieselfarm",
+"nome": "Dieselfarm",
+"regione": "Veneto",
+"comune": "Marostica",
+"tipi": {
+"breganze": [
+"Breganze"
+]
+},
+"membri": [
+"dieselfarm"
+],
+"primario": "dieselfarm"
+},
+{
+"slug": "coldovigo",
+"nome": "Coldovigo",
+"regione": "Veneto",
+"comune": "Breganze",
+"tipi": {
+"breganze": [
+"Breganze"
+]
+},
+"membri": [
+"coldovigo"
+],
+"primario": "coldovigo"
+},
+{
+"slug": "io-mazzucato",
+"nome": "Io Mazzucato",
+"regione": "Veneto",
+"comune": "Breganze",
+"tipi": {
+"breganze": [
+"Breganze"
+]
+},
+"membri": [
+"io-mazzucato"
+],
+"primario": "io-mazzucato"
+},
+{
+"slug": "contra-soarda",
+"nome": "Contra Soarda",
+"regione": "Veneto",
+"comune": "Bassano del Grappa",
+"tipi": {
+"breganze": [
+"Breganze"
+]
+},
+"membri": [
+"contra-soarda"
+],
+"primario": "contra-soarda"
+},
+{
+"slug": "vigneto-due-santi",
+"nome": "Vigneto Due Santi",
+"regione": "Veneto",
+"comune": "Bassano del Grappa",
+"tipi": {
+"breganze": [
+"Breganze"
+]
+},
+"membri": [
+"vigneto-due-santi"
+],
+"primario": "vigneto-due-santi"
+},
+{
+"slug": "vitacchio-massimo",
+"nome": "Vitacchio Massimo",
+"regione": "Veneto",
+"comune": "Breganze",
+"tipi": {
+"breganze": [
+"Breganze"
+]
+},
+"membri": [
+"vitacchio-massimo"
+],
+"primario": "vitacchio-massimo"
+},
+{
+"slug": "costa-del-sole",
+"nome": "Costa del Sole",
+"regione": "Veneto",
+"comune": "Fara Vicentino",
+"tipi": {
+"breganze": [
+"Breganze"
+]
+},
+"membri": [
+"costa-del-sole"
+],
+"primario": "costa-del-sole"
+},
+{
+"slug": "le-vigne-terre-di-confine",
+"nome": "Le Vigne Terre di Confine",
+"regione": "Veneto",
+"comune": "Fara Vicentino",
+"tipi": {
+"breganze": [
+"Breganze"
+]
+},
+"membri": [
+"le-vigne-terre-di-confine"
+],
+"primario": "le-vigne-terre-di-confine"
+},
+{
+"slug": "casa-paladin",
+"nome": "Casa Paladin",
+"regione": "Veneto",
+"comune": "Annone Veneto",
+"tipi": {
+"venezia": [
+"Venezia, Piave e Lison Pramaggiore"
+]
+},
+"membri": [
+"casa-paladin"
+],
+"primario": "casa-paladin"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
