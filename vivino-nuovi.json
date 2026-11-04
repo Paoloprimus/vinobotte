@@ -19528,6 +19528,9 @@
   "tipi": {
    "garda": [
     "Garda"
+   ],
+   "valtenesi": [
+    "Valtènesi"
    ]
   }
  },
@@ -19607,6 +19610,9 @@
   "tipi": {
    "garda": [
     "Garda"
+   ],
+   "valtenesi": [
+    "Valtènesi"
    ]
   }
  },
@@ -19724,6 +19730,9 @@
   "tipi": {
    "garda": [
     "Garda"
+   ],
+   "valtenesi": [
+    "Valtènesi"
    ]
   }
  },
@@ -20117,6 +20126,9 @@
   "tipi": {
    "garda": [
     "Garda"
+   ],
+   "lambrusco-mantovano": [
+    "Lambrusco Mantovano"
    ]
   }
  },
@@ -20289,6 +20301,9 @@
   "tipi": {
    "garda": [
     "Garda"
+   ],
+   "valtenesi": [
+    "Valtènesi"
    ]
   }
  },
@@ -20521,6 +20536,9 @@
   "tipi": {
    "garda": [
     "Garda"
+   ],
+   "valtenesi": [
+    "Valtènesi"
    ]
   }
  },
@@ -21403,6 +21421,9 @@
   "tipi": {
    "garda": [
     "Garda"
+   ],
+   "valtenesi": [
+    "Valtènesi"
    ]
   }
  },
@@ -21483,6 +21504,139 @@
   "tipi": {
    "oltrepo-pavese": [
     "Bonarda dell’Oltrepò Pavese"
+   ]
+  }
+ },
+ {
+  "regione": "Lombardia",
+  "slug": "lazzari",
+  "nome": "Lazzari",
+  "comune": "Capriano del Colle",
+  "sede": "Via Mella 49, 25020 Capriano del Colle (BS)",
+  "tel": "",
+  "contatti": "",
+  "rag": "Copyright 2018 Soc. Agr. Lazzari",
+  "sito": "https://www.lazzarivini.it",
+  "dom": "lazzarivini.it",
+  "storia": "",
+  "den": "C; a; p; r; i; a; n; o;  ; d; e; l;  ; C; o; l; l; e",
+  "tipi": {
+   "capriano-del-colle": [
+    "Capriano del Colle"
+   ]
+  }
+ },
+ {
+  "regione": "Lombardia",
+  "slug": "ca-del-vent",
+  "nome": "Cà del Vént",
+  "comune": "Campiani di Cellatica",
+  "sede": "Via Stella, 2, 25060 Campiani di Cellatica (BS)",
+  "tel": "+39 030 2522363",
+  "contatti": "",
+  "rag": "Cà del Vént Soc. Agr. S.",
+  "sito": "https://www.cadelvent.com",
+  "dom": "cadelvent.com",
+  "storia": "",
+  "den": "C; e; l; l; a; t; i; c; a",
+  "tipi": {
+   "cellatica": [
+    "Cellatica"
+   ]
+  }
+ },
+ {
+  "regione": "Lombardia",
+  "slug": "la-guarda",
+  "nome": "La Guarda",
+  "comune": "Castrezzone di Muscoline",
+  "sede": "Via G. Zanardelli, 49, 25080 Castrezzone di Muscoline (BS)",
+  "tel": "+39 339 8483582",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://laguarda.com/",
+  "dom": "laguarda.com",
+  "storia": "",
+  "den": "V; a; l; t; è; n; e; s; i; ,;  ; V; a; l; t; e; n; e; s; i",
+  "tipi": {
+   "valtenesi": [
+    "Valtènesi"
+   ]
+  }
+ },
+ {
+  "regione": "Lombardia",
+  "slug": "azienda-agricola-le-gaine",
+  "nome": "Azienda Agricola Le Gaine",
+  "comune": "Bedizzole",
+  "sede": "Via Gaine, 13, 25081 Bedizzole (BS)",
+  "tel": "+39 338 6772221",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://legaine.it/",
+  "dom": "legaine.it",
+  "storia": "",
+  "den": "V; a; l; t; è; n; e; s; i; ,;  ; V; a; l; t; e; n; e; s; i",
+  "tipi": {
+   "valtenesi": [
+    "Valtènesi"
+   ]
+  }
+ },
+ {
+  "regione": "Lombardia",
+  "slug": "cantina-di-viadana",
+  "nome": "Cantina di Viadana",
+  "comune": "Viadana",
+  "sede": "Via Scipiona 1, 46019 Viadana (MN)",
+  "tel": "+39 0375 781392",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.cantinaviadana.it/",
+  "dom": "cantinaviadana.it",
+  "storia": "",
+  "den": "L; a; m; b; r; u; s; c; o;  ; M; a; n; t; o; v; a; n; o",
+  "tipi": {
+   "lambrusco-mantovano": [
+    "Lambrusco Mantovano"
+   ]
+  }
+ },
+ {
+  "regione": "Lombardia",
+  "slug": "azienda-agricola-aurora-andronio",
+  "nome": "Azienda Agricola Aurora Andronio",
+  "comune": "Miradolo Terme",
+  "sede": "Strada dei Baratti 17, 27010 Miradolo Terme (PV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.aziendaagricolaandronio.it/",
+  "dom": "aziendaagricolaandronio.it",
+  "storia": "",
+  "den": "S; a; n;  ; C; o; l; o; m; b; a; n; o",
+  "tipi": {
+   "san-colombano": [
+    "San Colombano"
+   ]
+  }
+ },
+ {
+  "regione": "Lombardia",
+  "slug": "panizzari",
+  "nome": "Panizzari",
+  "comune": "San Colombano al Lambro",
+  "sede": "Via Madonna dei Monti, 43, 20078 San Colombano al Lambro (MI)",
+  "tel": "+39 0371 897613",
+  "contatti": "",
+  "rag": "Panizzari Srl",
+  "sito": "https://www.panizzari.com",
+  "dom": "panizzari.com",
+  "storia": "",
+  "den": "B; o; n; a; r; d; a; ,;  ; S; a; n;  ; C; o; l; o; m; b; a; n; o; ,;  ; L; o; m; b; a; r; d; i; a",
+  "tipi": {
+   "san-colombano": [
+    "San Colombano"
    ]
   }
  }

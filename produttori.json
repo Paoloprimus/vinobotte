@@ -56127,6 +56127,9 @@
 "tipi": {
 "garda": [
 "Garda"
+],
+"valtenesi": [
+"Valtènesi"
 ]
 },
 "membri": [
@@ -56190,6 +56193,9 @@
 "tipi": {
 "garda": [
 "Garda"
+],
+"valtenesi": [
+"Valtènesi"
 ]
 },
 "membri": [
@@ -56283,6 +56289,9 @@
 "tipi": {
 "garda": [
 "Garda"
+],
+"valtenesi": [
+"Valtènesi"
 ]
 },
 "membri": [
@@ -56596,6 +56605,9 @@
 "tipi": {
 "garda": [
 "Garda"
+],
+"lambrusco-mantovano": [
+"Lambrusco Mantovano"
 ]
 },
 "membri": [
@@ -56732,6 +56744,9 @@
 "tipi": {
 "garda": [
 "Garda"
+],
+"valtenesi": [
+"Valtènesi"
 ]
 },
 "membri": [
@@ -56916,6 +56931,9 @@
 "tipi": {
 "garda": [
 "Garda"
+],
+"valtenesi": [
+"Valtènesi"
 ]
 },
 "membri": [
@@ -57618,6 +57636,9 @@
 "tipi": {
 "garda": [
 "Garda"
+],
+"valtenesi": [
+"Valtènesi"
 ]
 },
 "membri": [
@@ -57688,6 +57709,111 @@
 "santa-rita"
 ],
 "primario": "santa-rita"
+},
+{
+"slug": "lazzari",
+"nome": "Lazzari",
+"regione": "Lombardia",
+"comune": "Capriano del Colle",
+"tipi": {
+"capriano-del-colle": [
+"Capriano del Colle"
+]
+},
+"membri": [
+"lazzari"
+],
+"primario": "lazzari"
+},
+{
+"slug": "ca-del-vent",
+"nome": "Cà del Vént",
+"regione": "Lombardia",
+"comune": "Campiani di Cellatica",
+"tipi": {
+"cellatica": [
+"Cellatica"
+]
+},
+"membri": [
+"ca-del-vent"
+],
+"primario": "ca-del-vent"
+},
+{
+"slug": "la-guarda",
+"nome": "La Guarda",
+"regione": "Lombardia",
+"comune": "Castrezzone di Muscoline",
+"tipi": {
+"valtenesi": [
+"Valtènesi"
+]
+},
+"membri": [
+"la-guarda"
+],
+"primario": "la-guarda"
+},
+{
+"slug": "azienda-agricola-le-gaine",
+"nome": "Azienda Agricola Le Gaine",
+"regione": "Lombardia",
+"comune": "Bedizzole",
+"tipi": {
+"valtenesi": [
+"Valtènesi"
+]
+},
+"membri": [
+"azienda-agricola-le-gaine"
+],
+"primario": "azienda-agricola-le-gaine"
+},
+{
+"slug": "cantina-di-viadana",
+"nome": "Cantina di Viadana",
+"regione": "Lombardia",
+"comune": "Viadana",
+"tipi": {
+"lambrusco-mantovano": [
+"Lambrusco Mantovano"
+]
+},
+"membri": [
+"cantina-di-viadana"
+],
+"primario": "cantina-di-viadana"
+},
+{
+"slug": "azienda-agricola-aurora-andronio",
+"nome": "Azienda Agricola Aurora Andronio",
+"regione": "Lombardia",
+"comune": "Miradolo Terme",
+"tipi": {
+"san-colombano": [
+"San Colombano"
+]
+},
+"membri": [
+"azienda-agricola-aurora-andronio"
+],
+"primario": "azienda-agricola-aurora-andronio"
+},
+{
+"slug": "panizzari",
+"nome": "Panizzari",
+"regione": "Lombardia",
+"comune": "San Colombano al Lambro",
+"tipi": {
+"san-colombano": [
+"San Colombano"
+]
+},
+"membri": [
+"panizzari"
+],
+"primario": "panizzari"
 },
 {
 "slug": "le-fonti-di-ciucchi-simone",

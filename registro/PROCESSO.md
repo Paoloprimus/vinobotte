@@ -213,3 +213,7 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 - +103 cantine: Oltrepò Pavese 55, Garda 14, Valcalepio 13, Franciacorta 9, Valtellina 6, Lugana 3, Terre Lariane 3, Valcamonica 3, Moscato di Scanzo 2, Curtefranca 1. Regola tessere per provincia/comune (Lugana solo Desenzano, Sirmione, Lonato, Pozzolengo; Moscato di Scanzo solo Scanzorosciate; Prosecco non assegnato in Lombardia).
 - Scartati a mano: negozi/marchi (Carrefour, Lebovitz), distilleria, agriturismo, sede fuori zona della denominazione. Denominazioni senza tessera (Valtènesi, Capriano del Colle, Cellatica, San Colombano, Lambrusco Mantovano, Botticino): in attesa di decisione.
 - Guida: 5.242 produttori; Lombardia 409.
+
+## 107 — Lombardia: cinque nuove denominazioni (decisione di Paolo: una pagina per ciascuna)
+- Nuove pagine: Valtènesi, Capriano del Colle, Cellatica, San Colombano, Lambrusco Mantovano (Botticino senza cantine verificate). Regola per provincia/comune.
+- +7 cantine nuove e +7 tessere aggiunte a cantine già in guida. Guida: 5.249 produttori.
