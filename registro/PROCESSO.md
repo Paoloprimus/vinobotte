@@ -221,3 +221,6 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 ## 108 — Lombardia: consorzi Lugana e Oltrepò Pavese
 - Lugana (216 voci, 103 cantine non "uva"): 90 già in guida; +6 aggiunte dalle schede del consorzio (Cascina Maddalena, Cavalchina, Decordi, El Citera, Montresor, Pasqua); Bertani, Tommasi, Valetti e Zeni erano doppioni (nome diverso); fuori Gruppo Italiano Vini, Consorzio Agrario del Nordest, Modena Alessandro (senza sito).
 - Oltrepò Pavese: l'elenco soci è solo nomi (134): 52+25 già in guida; 56 cercati sul web, siti trovati per 15, 8 con denominazione, nessuna nuova scheda (4 già in guida, 4 senza sede). Restano ~50 soci senza sito né sede online → wip.
+
+## 109 — Lombardia chiusa
+- Registro `lombardia-chiusura.md`; `stato-consorzi.csv` righe 12, 17, 30 aggiornate. Lombardia 418 produttori; guida 5.252.
