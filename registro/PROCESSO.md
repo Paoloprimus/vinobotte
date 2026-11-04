@@ -195,3 +195,8 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 100. Veneto, Vivino con almeno 5 vini: dei 3.955 produttori Vivino non in guida, 191 con almeno 5 vini non erano ancora stati cercati (gli altri già trattati nei giri precedenti). Sito trovato per 87, dopo filtro 68, denominazioni lette su 39; 27 non in guida, 17 pubblicate (scartati distillerie, agriturismi, salumifici e siti non coerenti).
 101. Colli Euganei: elenco soci letto dal localizzatore del sito (collieuganeidoc.com/soci, risposta AJAX): 147 voci, 98 cantine (produttori o imbottigliatori), 96 già in guida; Bernabei è un negozio online (non pubblicato), Riolfatto Erminia senza sito. Nessuna scheda nuova. Veneto chiuso: registro/veneto-chiusura.md. Guida a 5.090.
 102. Piemonte chiuso: registro/piemonte-chiusura.md con ciò che resta fuori e perché (circa 1.000 voci in attesa, soci viticoli esclusi per regola).
+
+## 103 — Friuli Venezia Giulia: primo giro (canale Vivino + ricerca siti)
+- Canale Vivino FVG scaricato; catena siti (domini, DuckDuckGo, verifica, filtro nome/dominio), denominazioni dal sito, sedi lette dal sito.
+- +43 cantine in `vivino-nuovi.json` (FVG 400 → 443). Scartati a mano: ristorante/osteria, agriturismo, hotel/eventi, ditta non cantina. Tessere corrette con regola provincia (Collio=GO, Colli Orientali=UD, Grave=PN/UD).
+- Guida: 5.133 produttori. Restano: verifica completezza Colli Orientali (consorzio), secondo giro Vivino (voti <10), `friuli-chiusura.md`.

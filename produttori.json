@@ -55420,6 +55420,670 @@
 "primario": "mellere"
 },
 {
+"slug": "vicentini-orgnani",
+"nome": "Vicentini Orgnani",
+"regione": "Friuli Venezia Giulia",
+"comune": "Valeriano di Pinzano al",
+"tipi": {
+"friuli-grave": [
+"Friuli Grave"
+]
+},
+"membri": [
+"vicentini-orgnani"
+],
+"primario": "vicentini-orgnani"
+},
+{
+"slug": "pierpaolo-pecorari",
+"nome": "Pierpaolo Pecorari",
+"regione": "Friuli Venezia Giulia",
+"comune": "San Lorenzo Isontino Gorizia",
+"tipi": {
+"friuli-doc": [
+"Friuli DOC"
+]
+},
+"membri": [
+"pierpaolo-pecorari"
+],
+"primario": "pierpaolo-pecorari"
+},
+{
+"slug": "lis-neris",
+"nome": "Lis Neris",
+"regione": "Friuli Venezia Giulia",
+"comune": "San Lorenzo Isontino",
+"tipi": {
+"friuli-doc": [
+"Friuli DOC"
+]
+},
+"membri": [
+"lis-neris"
+],
+"primario": "lis-neris"
+},
+{
+"slug": "borgo-san-daniele",
+"nome": "Borgo San Daniele",
+"regione": "Friuli Venezia Giulia",
+"comune": "Cormòns",
+"tipi": {
+"collio": [
+"Collio"
+],
+"friuli-doc": [
+"Friuli DOC"
+]
+},
+"membri": [
+"borgo-san-daniele"
+],
+"primario": "borgo-san-daniele"
+},
+{
+"slug": "vigne-del-malina",
+"nome": "Vigne del Malina",
+"regione": "Friuli Venezia Giulia",
+"comune": "Remanzacco",
+"tipi": {
+"friuli-grave": [
+"Friuli Grave"
+]
+},
+"membri": [
+"vigne-del-malina"
+],
+"primario": "vigne-del-malina"
+},
+{
+"slug": "ronco-del-gelso",
+"nome": "Ronco del Gelso",
+"regione": "Friuli Venezia Giulia",
+"comune": "Cormons",
+"tipi": {
+"friuli-doc": [
+"Friuli DOC"
+]
+},
+"membri": [
+"ronco-del-gelso"
+],
+"primario": "ronco-del-gelso"
+},
+{
+"slug": "ronchi-san-giuseppe",
+"nome": "Ronchi San Giuseppe",
+"regione": "Friuli Venezia Giulia",
+"comune": "Cividale del Friuli",
+"tipi": {
+"colli-orientali": [
+"DOC Friuli Colli Orientali"
+]
+},
+"membri": [
+"ronchi-san-giuseppe"
+],
+"primario": "ronchi-san-giuseppe"
+},
+{
+"slug": "borgo-dei-vassalli",
+"nome": "Borgo dei Vassalli",
+"regione": "Friuli Venezia Giulia",
+"comune": "San Canzian D’Isonzo",
+"tipi": {
+"friuli-doc": [
+"Friuli DOC"
+]
+},
+"membri": [
+"borgo-dei-vassalli"
+],
+"primario": "borgo-dei-vassalli"
+},
+{
+"slug": "poderi-di-carlo",
+"nome": "Poderi di Carlo",
+"regione": "Friuli Venezia Giulia",
+"comune": "San Vito al Tagliamento",
+"tipi": {
+"friuli-grave": [
+"Friuli Grave"
+]
+},
+"membri": [
+"poderi-di-carlo"
+],
+"primario": "poderi-di-carlo"
+},
+{
+"slug": "lupinc",
+"nome": "Lupinc",
+"regione": "Friuli Venezia Giulia",
+"comune": "Duino Aurisina",
+"tipi": {
+"friuli-doc": [
+"Friuli DOC"
+]
+},
+"membri": [
+"lupinc"
+],
+"primario": "lupinc"
+},
+{
+"slug": "tenuta-casate",
+"nome": "Tenuta Casate",
+"regione": "Friuli Venezia Giulia",
+"comune": "San Canzian D’Isonzo",
+"tipi": {
+"friuli-doc": [
+"Friuli DOC"
+]
+},
+"membri": [
+"tenuta-casate"
+],
+"primario": "tenuta-casate"
+},
+{
+"slug": "giavitto",
+"nome": "Giavitto",
+"regione": "Friuli Venezia Giulia",
+"comune": "Faedis",
+"tipi": {
+"colli-orientali": [
+"DOC Friuli Colli Orientali"
+]
+},
+"membri": [
+"giavitto"
+],
+"primario": "giavitto"
+},
+{
+"slug": "pie-di-mont",
+"nome": "Pie di Mont",
+"regione": "Friuli Venezia Giulia",
+"comune": "Gorizia",
+"tipi": {
+"collio": [
+"Collio"
+]
+},
+"membri": [
+"pie-di-mont"
+],
+"primario": "pie-di-mont"
+},
+{
+"slug": "paradiis",
+"nome": "Paradiis",
+"regione": "Friuli Venezia Giulia",
+"comune": "Località Paradiso di Pocenia",
+"tipi": {
+"prosecco": [
+"Prosecco DOC"
+]
+},
+"membri": [
+"paradiis"
+],
+"primario": "paradiis"
+},
+{
+"slug": "san-lurins",
+"nome": "San-Lurins",
+"regione": "Friuli Venezia Giulia",
+"comune": "San Lorenzo Isontino",
+"tipi": {
+"collio": [
+"Collio"
+],
+"friuli-doc": [
+"Friuli DOC"
+]
+},
+"membri": [
+"san-lurins"
+],
+"primario": "san-lurins"
+},
+{
+"slug": "nero-magis",
+"nome": "Nero Magis",
+"regione": "Friuli Venezia Giulia",
+"comune": "Cividale del Friuli",
+"tipi": {
+"colli-orientali": [
+"DOC Friuli Colli Orientali"
+]
+},
+"membri": [
+"nero-magis"
+],
+"primario": "nero-magis"
+},
+{
+"slug": "la-fornase",
+"nome": "La Fornase",
+"regione": "Friuli Venezia Giulia",
+"comune": "Pasiano di Pordenone",
+"tipi": {
+"prosecco": [
+"Prosecco DOC"
+]
+},
+"membri": [
+"la-fornase"
+],
+"primario": "la-fornase"
+},
+{
+"slug": "feudo-dei-gelsi",
+"nome": "Feudo dei Gelsi",
+"regione": "Friuli Venezia Giulia",
+"comune": "Nimis",
+"tipi": {
+"colli-orientali": [
+"DOCG Ramandolo"
+]
+},
+"membri": [
+"feudo-dei-gelsi"
+],
+"primario": "feudo-dei-gelsi"
+},
+{
+"slug": "poggio-del-falco",
+"nome": "Poggio del Falco",
+"regione": "Friuli Venezia Giulia",
+"comune": "Manzano",
+"tipi": {
+"colli-orientali": [
+"DOC Friuli Colli Orientali"
+]
+},
+"membri": [
+"poggio-del-falco"
+],
+"primario": "poggio-del-falco"
+},
+{
+"slug": "les-cantinis",
+"nome": "Les Cantinis",
+"regione": "Friuli Venezia Giulia",
+"comune": "Colloredo di Monte Albano",
+"tipi": {
+"colli-orientali": [
+"DOC Friuli Colli Orientali"
+]
+},
+"membri": [
+"les-cantinis"
+],
+"primario": "les-cantinis"
+},
+{
+"slug": "borgo-trevisan",
+"nome": "Borgo Trevisan",
+"regione": "Friuli Venezia Giulia",
+"comune": "Gradisca D’Isonzo",
+"tipi": {
+"friuli-doc": [
+"Friuli DOC"
+]
+},
+"membri": [
+"borgo-trevisan"
+],
+"primario": "borgo-trevisan"
+},
+{
+"slug": "fruske",
+"nome": "Fruske",
+"regione": "Friuli Venezia Giulia",
+"comune": "Trieste",
+"tipi": {
+"friuli-doc": [
+"Friuli DOC"
+]
+},
+"membri": [
+"fruske"
+],
+"primario": "fruske"
+},
+{
+"slug": "steva-del-marchi",
+"nome": "Steva del Marchi",
+"regione": "Friuli Venezia Giulia",
+"comune": "Spilimbergo",
+"tipi": {
+"friuli-grave": [
+"Friuli Grave"
+]
+},
+"membri": [
+"steva-del-marchi"
+],
+"primario": "steva-del-marchi"
+},
+{
+"slug": "ad-coos",
+"nome": "Ad Coos",
+"regione": "Friuli Venezia Giulia",
+"comune": "Nimis",
+"tipi": {
+"colli-orientali": [
+"DOCG Ramandolo"
+]
+},
+"membri": [
+"ad-coos"
+],
+"primario": "ad-coos"
+},
+{
+"slug": "do-ville",
+"nome": "Do Ville",
+"regione": "Friuli Venezia Giulia",
+"comune": "Ronchi dei Legionari",
+"tipi": {
+"aquileia": [
+"Friuli Aquileia"
+]
+},
+"membri": [
+"do-ville"
+],
+"primario": "do-ville"
+},
+{
+"slug": "ronc-di-guglielmo",
+"nome": "Ronc di Guglielmo",
+"regione": "Friuli Venezia Giulia",
+"comune": "Cividale del Friuli",
+"tipi": {
+"colli-orientali": [
+"DOC Friuli Colli Orientali",
+"DOCG Colli Orientali del Friuli Picolit"
+]
+},
+"membri": [
+"ronc-di-guglielmo"
+],
+"primario": "ronc-di-guglielmo"
+},
+{
+"slug": "monica-vettor",
+"nome": "Monica Vettor",
+"regione": "Friuli Venezia Giulia",
+"comune": "San Quirino",
+"tipi": {
+"prosecco": [
+"Prosecco DOC"
+]
+},
+"membri": [
+"monica-vettor"
+],
+"primario": "monica-vettor"
+},
+{
+"slug": "villa-alfieri",
+"nome": "Villa Alfieri",
+"regione": "Friuli Venezia Giulia",
+"comune": "San Giovanni Al Natisone",
+"tipi": {
+"colli-orientali": [
+"DOCG Rosazzo"
+]
+},
+"membri": [
+"villa-alfieri"
+],
+"primario": "villa-alfieri"
+},
+{
+"slug": "flumere",
+"nome": "Flumere",
+"regione": "Friuli Venezia Giulia",
+"comune": "Cividale del Friuli",
+"tipi": {
+"colli-orientali": [
+"DOC Friuli Colli Orientali"
+]
+},
+"membri": [
+"flumere"
+],
+"primario": "flumere"
+},
+{
+"slug": "familia-poletto",
+"nome": "Familia Poletto",
+"regione": "Friuli Venezia Giulia",
+"comune": "Caneva",
+"tipi": {
+"prosecco": [
+"Prosecco DOC"
+]
+},
+"membri": [
+"familia-poletto"
+],
+"primario": "familia-poletto"
+},
+{
+"slug": "lorenzon-primo",
+"nome": "Lorenzon Primo",
+"regione": "Friuli Venezia Giulia",
+"comune": "San Canzian D'Isonzo",
+"tipi": {
+"friuli-doc": [
+"Friuli DOC"
+]
+},
+"membri": [
+"lorenzon-primo"
+],
+"primario": "lorenzon-primo"
+},
+{
+"slug": "bortolusso",
+"nome": "Bortolusso",
+"regione": "Friuli Venezia Giulia",
+"comune": "Carlino",
+"tipi": {
+"aquileia": [
+"Friuli Aquileia"
+],
+"friuli-doc": [
+"Friuli DOC"
+]
+},
+"membri": [
+"bortolusso"
+],
+"primario": "bortolusso"
+},
+{
+"slug": "venica-venica",
+"nome": "Venica & Venica",
+"regione": "Friuli Venezia Giulia",
+"comune": "Dolegna del Collio",
+"tipi": {
+"collio": [
+"Collio"
+],
+"venezie": [
+"Delle Venezie"
+]
+},
+"membri": [
+"venica-venica"
+],
+"primario": "venica-venica"
+},
+{
+"slug": "sun-goddess",
+"nome": "Sun Goddess",
+"regione": "Friuli Venezia Giulia",
+"comune": "Tauriano di Spilimbergo",
+"tipi": {
+"prosecco": [
+"Prosecco DOC"
+]
+},
+"membri": [
+"sun-goddess"
+],
+"primario": "sun-goddess"
+},
+{
+"slug": "berto-fiorella-baccichetto",
+"nome": "Berto & Fiorella Baccichetto",
+"regione": "Friuli Venezia Giulia",
+"comune": "Precenicco",
+"tipi": {
+"prosecco": [
+"Prosecco DOC"
+]
+},
+"membri": [
+"berto-fiorella-baccichetto"
+],
+"primario": "berto-fiorella-baccichetto"
+},
+{
+"slug": "borgo-canedo",
+"nome": "Borgo Canedo",
+"regione": "Friuli Venezia Giulia",
+"comune": "Precenicco",
+"tipi": {
+"friuli-doc": [
+"Friuli DOC"
+],
+"prosecco": [
+"Prosecco DOC"
+]
+},
+"membri": [
+"borgo-canedo"
+],
+"primario": "borgo-canedo"
+},
+{
+"slug": "ciani",
+"nome": "Ciani",
+"regione": "Friuli Venezia Giulia",
+"comune": "Pavia di Udine",
+"tipi": {
+"friuli-grave": [
+"Friuli Grave"
+]
+},
+"membri": [
+"ciani"
+],
+"primario": "ciani"
+},
+{
+"slug": "puntin",
+"nome": "Puntin",
+"regione": "Friuli Venezia Giulia",
+"comune": "Aquileia",
+"tipi": {
+"aquileia": [
+"Friuli Aquileia"
+]
+},
+"membri": [
+"puntin"
+],
+"primario": "puntin"
+},
+{
+"slug": "sun-giorgio",
+"nome": "Sun Giorgio",
+"regione": "Friuli Venezia Giulia",
+"comune": "Campoformido",
+"tipi": {
+"friuli-grave": [
+"Friuli Grave"
+]
+},
+"membri": [
+"sun-giorgio"
+],
+"primario": "sun-giorgio"
+},
+{
+"slug": "cencig",
+"nome": "Cencig",
+"regione": "Friuli Venezia Giulia",
+"comune": "Cividale del Friuli",
+"tipi": {
+"colli-orientali": [
+"DOC Friuli Colli Orientali"
+]
+},
+"membri": [
+"cencig"
+],
+"primario": "cencig"
+},
+{
+"slug": "martin",
+"nome": "Martin",
+"regione": "Friuli Venezia Giulia",
+"comune": "Azzano Decimo",
+"tipi": {
+"prosecco": [
+"Prosecco DOC"
+]
+},
+"membri": [
+"martin"
+],
+"primario": "martin"
+},
+{
+"slug": "vigna-sul-mar",
+"nome": "Vigna sul Mar",
+"regione": "Friuli Venezia Giulia",
+"comune": "Muggia",
+"tipi": {
+"friuli-doc": [
+"Friuli DOC"
+]
+},
+"membri": [
+"vigna-sul-mar"
+],
+"primario": "vigna-sul-mar"
+},
+{
+"slug": "azienda-agricola-girardi",
+"nome": "Azienda Agricola Girardi",
+"regione": "Friuli Venezia Giulia",
+"comune": "Grado",
+"tipi": {
+"collio": [
+"Collio"
+],
+"aquileia": [
+"Friuli Aquileia"
+]
+},
+"membri": [
+"azienda-agricola-girardi"
+],
+"primario": "azienda-agricola-girardi"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
