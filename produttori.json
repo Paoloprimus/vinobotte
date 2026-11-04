@@ -55165,6 +55165,261 @@
 "primario": "vacasio"
 },
 {
+"slug": "castelmontioni",
+"nome": "Castelmontioni",
+"regione": "Veneto",
+"comune": "Lazise",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"castelmontioni"
+],
+"primario": "castelmontioni"
+},
+{
+"slug": "calronche",
+"nome": "Calronche",
+"regione": "Veneto",
+"comune": "Refrontolo",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"calronche"
+],
+"primario": "calronche"
+},
+{
+"slug": "pierobon",
+"nome": "Pierobon",
+"regione": "Veneto",
+"comune": "Monastier di Treviso",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"pierobon"
+],
+"primario": "pierobon"
+},
+{
+"slug": "le-cortiselle-it",
+"nome": "Le Cortiselle (IT)",
+"regione": "Veneto",
+"comune": "Cinto Euganeo",
+"tipi": {
+"euganei": [
+"Colli Euganei"
+]
+},
+"membri": [
+"le-cortiselle-it"
+],
+"primario": "le-cortiselle-it"
+},
+{
+"slug": "borgo-dus",
+"nome": "Borgo Dus",
+"regione": "Veneto",
+"comune": "Nervesa della Battaglia",
+"tipi": {
+"asolo": [
+"Asolo e Montello"
+]
+},
+"membri": [
+"borgo-dus"
+],
+"primario": "borgo-dus"
+},
+{
+"slug": "col-del-bacio",
+"nome": "Col del Bacio",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"col-del-bacio"
+],
+"primario": "col-del-bacio"
+},
+{
+"slug": "terre-bianche",
+"nome": "Terre Bianche",
+"regione": "Veneto",
+"comune": "Teolo",
+"tipi": {
+"euganei": [
+"Colli Euganei"
+]
+},
+"membri": [
+"terre-bianche"
+],
+"primario": "terre-bianche"
+},
+{
+"slug": "duca-di-barbozza",
+"nome": "Duca di Barbozza",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"duca-di-barbozza"
+],
+"primario": "duca-di-barbozza"
+},
+{
+"slug": "borgo-nardi",
+"nome": "Borgo Nardi",
+"regione": "Veneto",
+"comune": "Chiarano",
+"tipi": {
+"venezia": [
+"Venezia, Piave e Lison Pramaggiore"
+]
+},
+"membri": [
+"borgo-nardi"
+],
+"primario": "borgo-nardi"
+},
+{
+"slug": "vignantica",
+"nome": "Vignantica",
+"regione": "Veneto",
+"comune": "Tombolo",
+"tipi": {
+"venezia": [
+"Venezia, Piave e Lison Pramaggiore"
+]
+},
+"membri": [
+"vignantica"
+],
+"primario": "vignantica"
+},
+{
+"slug": "tenute-zanella",
+"nome": "Tenute Zanella",
+"regione": "Veneto",
+"comune": "Ormelle",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"tenute-zanella"
+],
+"primario": "tenute-zanella"
+},
+{
+"slug": "florian-giorgio",
+"nome": "Florian Giorgio",
+"regione": "Veneto",
+"comune": "Monastier di Treviso",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"florian-giorgio"
+],
+"primario": "florian-giorgio"
+},
+{
+"slug": "le-banche",
+"nome": "Le Banche",
+"regione": "Veneto",
+"comune": "Susegana",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"le-banche"
+],
+"primario": "le-banche"
+},
+{
+"slug": "le-centurie",
+"nome": "Le Centurie",
+"regione": "Veneto",
+"comune": "Mirano",
+"tipi": {
+"venezia": [
+"Venezia, Piave e Lison Pramaggiore"
+]
+},
+"membri": [
+"le-centurie"
+],
+"primario": "le-centurie"
+},
+{
+"slug": "valdella",
+"nome": "Valdella",
+"regione": "Veneto",
+"comune": "Valdobbiadene",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"valdella"
+],
+"primario": "valdella"
+},
+{
+"slug": "polesel",
+"nome": "Polesel",
+"regione": "Veneto",
+"comune": "Faè di Oderzo",
+"tipi": {
+"venezia": [
+"Venezia, Piave e Lison Pramaggiore"
+]
+},
+"membri": [
+"polesel"
+],
+"primario": "polesel"
+},
+{
+"slug": "mellere",
+"nome": "Mellere",
+"regione": "Veneto",
+"comune": "Vidor",
+"tipi": {
+"conegliano": [
+"Conegliano Valdobbiadene"
+]
+},
+"membri": [
+"mellere"
+],
+"primario": "mellere"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
