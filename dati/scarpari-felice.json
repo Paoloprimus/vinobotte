@@ -1,0 +1,45 @@
+{
+ "nome": "Scarpari Felice",
+ "slug": "scarpari-felice",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Tito Speri 149, 25082 Botticino (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 030 2691285 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinescarparifelice.it/|cantinescarparifelice.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 4 novembre 2026.",
+   "url": "https://www.consorziolugana.it/indice-aziende",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}

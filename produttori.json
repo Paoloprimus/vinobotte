@@ -77924,5 +77924,725 @@
 "cascina-gentile-di-oddone-daniele"
 ],
 "primario": "cascina-gentile-di-oddone-daniele"
+},
+{
+"slug": "ancilla",
+"nome": "Ancilla",
+"regione": "Veneto",
+"comune": "Dossobuono",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"ancilla"
+],
+"primario": "ancilla"
+},
+{
+"slug": "bellago",
+"nome": "Bellago",
+"regione": "Veneto",
+"comune": "Villafranca",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"bellago"
+],
+"primario": "bellago"
+},
+{
+"slug": "bertagna",
+"nome": "Bertagna",
+"regione": "Lombardia",
+"comune": "Cavriana",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"bertagna"
+],
+"primario": "bertagna"
+},
+{
+"slug": "borgo-la-caccia",
+"nome": "Borgo La Caccia",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"borgo-la-caccia"
+],
+"primario": "borgo-la-caccia"
+},
+{
+"slug": "brunello",
+"nome": "Brunello",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"brunello"
+],
+"primario": "brunello"
+},
+{
+"slug": "cadore-patrizia",
+"nome": "Cadore Patrizia",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"cadore-patrizia"
+],
+"primario": "cadore-patrizia"
+},
+{
+"slug": "cantina-di-castelnuovo-del-garda",
+"nome": "Cantina di Castelnuovo del Garda",
+"regione": "Veneto",
+"comune": "Castelnuovo del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"cantina-di-castelnuovo-del-garda"
+],
+"primario": "cantina-di-castelnuovo-del-garda"
+},
+{
+"slug": "cascina-le-preseglie",
+"nome": "Cascina Le Preseglie",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"cascina-le-preseglie"
+],
+"primario": "cascina-le-preseglie"
+},
+{
+"slug": "ceresa",
+"nome": "Ceresa",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"ceresa"
+],
+"primario": "ceresa"
+},
+{
+"slug": "citari",
+"nome": "Citari",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"citari"
+],
+"primario": "citari"
+},
+{
+"slug": "co-de-fer",
+"nome": "Cò De Fer",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"co-de-fer"
+],
+"primario": "co-de-fer"
+},
+{
+"slug": "cobue",
+"nome": "Cobue",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"cobue"
+],
+"primario": "cobue"
+},
+{
+"slug": "colli-vaibo",
+"nome": "Colli Vaibò",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"colli-vaibo"
+],
+"primario": "colli-vaibo"
+},
+{
+"slug": "costaripa",
+"nome": "Costaripa",
+"regione": "Lombardia",
+"comune": "Moniga del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"costaripa"
+],
+"primario": "costaripa"
+},
+{
+"slug": "de-tomi-cristian",
+"nome": "De Tomi Cristian",
+"regione": "Lombardia",
+"comune": "Sirmione",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"de-tomi-cristian"
+],
+"primario": "de-tomi-cristian"
+},
+{
+"slug": "don-lorenzo-della-grillaia",
+"nome": "Don Lorenzo della Grillaia",
+"regione": "Lombardia",
+"comune": "Sirmione",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"don-lorenzo-della-grillaia"
+],
+"primario": "don-lorenzo-della-grillaia"
+},
+{
+"slug": "feliciana",
+"nome": "Feliciana",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"feliciana"
+],
+"primario": "feliciana"
+},
+{
+"slug": "franzosi",
+"nome": "Franzosi",
+"regione": "Lombardia",
+"comune": "Puegnago del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"franzosi"
+],
+"primario": "franzosi"
+},
+{
+"slug": "la-rifra",
+"nome": "La Rifra",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"la-rifra"
+],
+"primario": "la-rifra"
+},
+{
+"slug": "laghetto-del-frassino",
+"nome": "Laghetto del Frassino",
+"regione": "Veneto",
+"comune": "Peschiera del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"laghetto-del-frassino"
+],
+"primario": "laghetto-del-frassino"
+},
+{
+"slug": "loda",
+"nome": "Loda",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"loda"
+],
+"primario": "loda"
+},
+{
+"slug": "malavasi",
+"nome": "Malavasi",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"malavasi"
+],
+"primario": "malavasi"
+},
+{
+"slug": "marangona",
+"nome": "Marangona",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"marangona"
+],
+"primario": "marangona"
+},
+{
+"slug": "marotti-daniela",
+"nome": "Marotti Daniela",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"marotti-daniela"
+],
+"primario": "marotti-daniela"
+},
+{
+"slug": "menadel",
+"nome": "Menadel",
+"regione": "Lombardia",
+"comune": "Inverigo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"menadel"
+],
+"primario": "menadel"
+},
+{
+"slug": "milan-bordignon",
+"nome": "Milan Bordignon",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"milan-bordignon"
+],
+"primario": "milan-bordignon"
+},
+{
+"slug": "monte-cicogna",
+"nome": "Monte Cicogna",
+"regione": "Lombardia",
+"comune": "Moniga del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"monte-cicogna"
+],
+"primario": "monte-cicogna"
+},
+{
+"slug": "montefluno",
+"nome": "Montefluno",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"montefluno"
+],
+"primario": "montefluno"
+},
+{
+"slug": "montonale",
+"nome": "Montonale",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"montonale"
+],
+"primario": "montonale"
+},
+{
+"slug": "nunzio-ghiraldi",
+"nome": "Nunzio Ghiraldi",
+"regione": "Lombardia",
+"comune": "Sirmione",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"nunzio-ghiraldi"
+],
+"primario": "nunzio-ghiraldi"
+},
+{
+"slug": "palvarini-anna",
+"nome": "Palvarini Anna",
+"regione": "Lombardia",
+"comune": "Sirmione",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"palvarini-anna"
+],
+"primario": "palvarini-anna"
+},
+{
+"slug": "pellizzari-di-san-girolamo",
+"nome": "Pellizzari di San Girolamo",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"pellizzari-di-san-girolamo"
+],
+"primario": "pellizzari-di-san-girolamo"
+},
+{
+"slug": "pilandro",
+"nome": "Pilandro",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"pilandro"
+],
+"primario": "pilandro"
+},
+{
+"slug": "pirenei",
+"nome": "Pirenei",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"pirenei"
+],
+"primario": "pirenei"
+},
+{
+"slug": "pirenei-societa-agricola",
+"nome": "Pirenei Società Agricola",
+"regione": "Veneto",
+"comune": "Peschiera del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"pirenei-societa-agricola"
+],
+"primario": "pirenei-societa-agricola"
+},
+{
+"slug": "pratello",
+"nome": "Pratello",
+"regione": "Lombardia",
+"comune": "Padenghe sul Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"pratello"
+],
+"primario": "pratello"
+},
+{
+"slug": "quattro-pini",
+"nome": "Quattro Pini",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"quattro-pini"
+],
+"primario": "quattro-pini"
+},
+{
+"slug": "santa-cristina",
+"nome": "Santa Cristina",
+"regione": "Veneto",
+"comune": "Peschiera del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"santa-cristina"
+],
+"primario": "santa-cristina"
+},
+{
+"slug": "scarpari-felice",
+"nome": "Scarpari Felice",
+"regione": "Lombardia",
+"comune": "Botticino",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"scarpari-felice"
+],
+"primario": "scarpari-felice"
+},
+{
+"slug": "scolari",
+"nome": "Scolari",
+"regione": "Lombardia",
+"comune": "Puegnago del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"scolari"
+],
+"primario": "scolari"
+},
+{
+"slug": "seriati",
+"nome": "Seriati",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"seriati"
+],
+"primario": "seriati"
+},
+{
+"slug": "sgreva",
+"nome": "Sgreva",
+"regione": "Lombardia",
+"comune": "Sirmione",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"sgreva"
+],
+"primario": "sgreva"
+},
+{
+"slug": "tenuta-roveglia",
+"nome": "Tenuta Roveglia",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"tenuta-roveglia"
+],
+"primario": "tenuta-roveglia"
+},
+{
+"slug": "tognazzi",
+"nome": "Tognazzi",
+"regione": "Veneto",
+"comune": "Peschiera del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"tognazzi"
+],
+"primario": "tognazzi"
+},
+{
+"slug": "turina",
+"nome": "Turina",
+"regione": "Lombardia",
+"comune": "Moniga del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"turina"
+],
+"primario": "turina"
+},
+{
+"slug": "viticoltori-del-garda",
+"nome": "Viticoltori del Garda",
+"regione": "Lombardia",
+"comune": "Moniga del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"viticoltori-del-garda"
+],
+"primario": "viticoltori-del-garda"
+},
+{
+"slug": "zappaglia",
+"nome": "Zappaglia",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"zappaglia"
+],
+"primario": "zappaglia"
+},
+{
+"slug": "one-pio",
+"nome": "One Piò",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"one-pio"
+],
+"primario": "one-pio"
 }
 ]

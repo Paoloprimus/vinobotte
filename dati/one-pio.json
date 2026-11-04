@@ -1,0 +1,45 @@
+{
+ "nome": "One Piò",
+ "slug": "one-pio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Comunale San Donino e San Girolamo, 25015 Desenzano del Garda (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 030 9103610 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.onepio.it/|onepio.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 4 novembre 2026.",
+   "url": "https://www.consorziolugana.it/indice-aziende",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}

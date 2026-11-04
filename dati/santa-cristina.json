@@ -1,0 +1,45 @@
+{
+ "nome": "Santa Cristina",
+ "slug": "santa-cristina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Benedetto, 8, 37019 Peschiera del Garda (VR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 045 7550300 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.zenato.it/|zenato.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 4 novembre 2026.",
+   "url": "https://www.consorziolugana.it/indice-aziende",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}

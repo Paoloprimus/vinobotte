@@ -1,0 +1,41 @@
+{
+ "nome": "De Tomi Cristian",
+ "slug": "de-tomi-cristian",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Magellano 1/D, 25019 Sirmione (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 349 6282081 [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 4 novembre 2026.",
+   "url": "https://www.consorziolugana.it/indice-aziende",
+   "etichetta": "consorziolugana.it"
+  }
+ ]
+}
