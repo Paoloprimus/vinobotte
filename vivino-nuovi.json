@@ -15725,5 +15725,62 @@
     "Venezia, Piave e Lison Pramaggiore"
    ]
   }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "dama-del-rovere",
+  "nome": "Dama del Rovere",
+  "comune": "Terrossa di Roncà",
+  "sede": "Via Alpone, 3, 37030 Terrossa di Roncà (VR)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.damadelrovere.com/",
+  "dom": "damadelrovere.com",
+  "storia": "",
+  "den": "Soave; Durello",
+  "tipi": {
+   "soave": [
+    "Soave"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "zonin-1821",
+  "nome": "Zonin 1821",
+  "comune": "Gambellara",
+  "sede": "Via Borgolecco 9, 36053 Gambellara (VI)",
+  "tel": "+39 0444 640111",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.zonin1821.com/en/",
+  "dom": "zonin1821.com",
+  "storia": "",
+  "den": "Vicenza",
+  "tipi": {
+   "prosecco": [
+    "Prosecco"
+   ]
+  }
+ },
+ {
+  "regione": "Veneto",
+  "slug": "valdo",
+  "nome": "Valdo",
+  "comune": "Oderzo",
+  "sede": "Via Per Piavon 20/A, 31046 Oderzo (TV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "Spumanti Valdo S.r.l",
+  "sito": "https://it.valdo.com/",
+  "dom": "it.valdo.com",
+  "storia": "",
+  "den": "Prosecco; Valdobbiadene",
+  "tipi": {
+   "garda": [
+    "Garda"
+   ]
+  }
  }
 ]

@@ -53129,6 +53129,51 @@
 "primario": "pantarotto"
 },
 {
+"slug": "dama-del-rovere",
+"nome": "Dama del Rovere",
+"regione": "Veneto",
+"comune": "Terrossa di Roncà",
+"tipi": {
+"soave": [
+"Soave"
+]
+},
+"membri": [
+"dama-del-rovere"
+],
+"primario": "dama-del-rovere"
+},
+{
+"slug": "zonin-1821",
+"nome": "Zonin 1821",
+"regione": "Veneto",
+"comune": "Gambellara",
+"tipi": {
+"prosecco": [
+"Prosecco"
+]
+},
+"membri": [
+"zonin-1821"
+],
+"primario": "zonin-1821"
+},
+{
+"slug": "valdo",
+"nome": "Valdo",
+"regione": "Veneto",
+"comune": "Oderzo",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"valdo"
+],
+"primario": "valdo"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
