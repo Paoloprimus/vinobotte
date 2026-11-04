@@ -200,3 +200,6 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 - Canale Vivino FVG scaricato; catena siti (domini, DuckDuckGo, verifica, filtro nome/dominio), denominazioni dal sito, sedi lette dal sito.
 - +43 cantine in `vivino-nuovi.json` (FVG 400 → 443). Scartati a mano: ristorante/osteria, agriturismo, hotel/eventi, ditta non cantina. Tessere corrette con regola provincia (Collio=GO, Colli Orientali=UD, Grave=PN/UD).
 - Guida: 5.133 produttori. Restano: verifica completezza Colli Orientali (consorzio), secondo giro Vivino (voti <10), `friuli-chiusura.md`.
+
+## 104 — Friuli Venezia Giulia chiuso
+- Colli Orientali: 366/367 soci già in guida (controllo da elenco consorzio). Vivino FVG completo (1.224/1.224). Registro `friuli-chiusura.md`; `stato-consorzi.csv` riga 55 FATTO.
