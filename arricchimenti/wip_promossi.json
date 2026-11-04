@@ -50476,5 +50476,185 @@
   "wip": "Milesi Giovanni",
   "data_consultazione": "4 novembre 2026",
   "social": {}
+ },
+ {
+  "slug": "cascina-maddalena",
+  "nome": "Cascina Maddalena",
+  "regione": "Lombardia",
+  "comune": "Sirmione",
+  "tipi": {
+   "lugana": [
+    "Lugana"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Maddalena 17, 25019 Sirmione (BS)",
+  "tel": "+39 346 0275513",
+  "email": "",
+  "sito": "https://www.cascinamaddalena.com/",
+  "dom": "cascinamaddalena.com",
+  "den": "Lugana",
+  "wip": "Cascina Maddalena",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/cascina-maddalena",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "4 novembre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "4 novembre 2026"
+ },
+ {
+  "slug": "cavalchina",
+  "nome": "Cavalchina",
+  "regione": "Veneto",
+  "comune": "Custoza",
+  "tipi": {
+   "lugana": [
+    "Lugana"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Sommacampagna 7, 37086 Custoza (VR)",
+  "tel": "+39 045 516002",
+  "email": "",
+  "sito": "https://www.cavalchina.com/",
+  "dom": "cavalchina.com",
+  "den": "Lugana",
+  "wip": "Cavalchina",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/cavalchina",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "4 novembre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "4 novembre 2026"
+ },
+ {
+  "slug": "decordi",
+  "nome": "Decordi",
+  "regione": "Lombardia",
+  "comune": "Motta Baluffi",
+  "tipi": {
+   "lugana": [
+    "Lugana"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via delle Brede 6, 26045 Motta Baluffi (CR)",
+  "tel": "+39 0375 310203",
+  "email": "",
+  "sito": "https://www.decordi.it/",
+  "dom": "decordi.it",
+  "den": "Lugana",
+  "wip": "Decordi",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/decordi",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "4 novembre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "4 novembre 2026"
+ },
+ {
+  "slug": "el-citera",
+  "nome": "El Citera",
+  "regione": "Veneto",
+  "comune": "Peschiera del Garda",
+  "tipi": {
+   "lugana": [
+    "Lugana"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Strada Berra 1, 37019 Peschiera del Garda (VR)",
+  "tel": "",
+  "email": "",
+  "sito": "https://www.elcitera.it/",
+  "dom": "elcitera.it",
+  "den": "Lugana",
+  "wip": "El Citera",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/el-citera",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "4 novembre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "4 novembre 2026"
+ },
+ {
+  "slug": "montresor",
+  "nome": "Montresor",
+  "regione": "Veneto",
+  "comune": "Verona",
+  "tipi": {
+   "lugana": [
+    "Lugana"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Cà di Cozzi 16, 37124 Verona (VR)",
+  "tel": "+39 045 913399",
+  "email": "",
+  "sito": "https://www.vinimontresor.it/",
+  "dom": "vinimontresor.it",
+  "den": "Lugana",
+  "wip": "Montresor",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/montresor",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "4 novembre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "4 novembre 2026"
+ },
+ {
+  "slug": "pasqua",
+  "nome": "Pasqua",
+  "regione": "Veneto",
+  "comune": "Verona",
+  "tipi": {
+   "lugana": [
+    "Lugana"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Belvedere 135, 37131 Verona (VR)",
+  "tel": "+39 045 8432111",
+  "email": "",
+  "sito": "https://www.pasqua.it/",
+  "dom": "pasqua.it",
+  "den": "Lugana",
+  "wip": "Pasqua",
+  "url_consorzio": "https://www.consorziolugana.it/elenco-aziende/pasqua",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Lugana DOC",
+  "dom_consorzio": "consorziolugana.it",
+  "data_consorzio": "4 novembre 2026",
+  "consorzio": "lugana",
+  "data_consultazione": "4 novembre 2026"
  }
 ]

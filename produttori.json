@@ -83205,5 +83205,50 @@
 "milesi-giovanni"
 ],
 "primario": "milesi-giovanni"
+},
+{
+"slug": "cascina-maddalena",
+"nome": "Cascina Maddalena",
+"regione": "Lombardia",
+"comune": "Sirmione",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"cascina-maddalena"
+],
+"primario": "cascina-maddalena"
+},
+{
+"slug": "decordi",
+"nome": "Decordi",
+"regione": "Lombardia",
+"comune": "Motta Baluffi",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"decordi"
+],
+"primario": "decordi"
+},
+{
+"slug": "el-citera",
+"nome": "El Citera",
+"regione": "Veneto",
+"comune": "Peschiera del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+]
+},
+"membri": [
+"el-citera"
+],
+"primario": "el-citera"
 }
 ]
