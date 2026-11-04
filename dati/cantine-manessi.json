@@ -1,0 +1,45 @@
+{
+ "nome": "Cantine Manessi",
+ "slug": "cantine-manessi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via IV Novembre, 17, 25040 Parmezzana Calzana (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 030 653242 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinemanessi.it/|cantinemanessi.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta Satèn, Franciacorta Rosé, Curtefranca [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 4 novembre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/manessi/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

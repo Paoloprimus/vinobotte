@@ -81374,5 +81374,104 @@
 "maso-di-villa"
 ],
 "primario": "maso-di-villa"
+},
+{
+"slug": "cantine-manessi",
+"nome": "Cantine Manessi",
+"regione": "Lombardia",
+"comune": "Parmezzana Calzana",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+],
+"curtefranca": [
+"Curtefranca"
+]
+},
+"membri": [
+"cantine-manessi"
+],
+"primario": "cantine-manessi"
+},
+{
+"slug": "ciapel",
+"nome": "Ciapél",
+"regione": "Lombardia",
+"comune": "Parmezzana Calzana",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+]
+},
+"membri": [
+"ciapel"
+],
+"primario": "ciapel"
+},
+{
+"slug": "clarabella",
+"nome": "Clarabella",
+"regione": "Lombardia",
+"comune": "Iseo",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+],
+"curtefranca": [
+"Curtefranca"
+]
+},
+"membri": [
+"clarabella"
+],
+"primario": "clarabella"
+},
+{
+"slug": "lovera",
+"nome": "Lovera",
+"regione": "Lombardia",
+"comune": "Erbusco",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+]
+},
+"membri": [
+"lovera"
+],
+"primario": "lovera"
+},
+{
+"slug": "massussi-luigi",
+"nome": "Massussi Luigi",
+"regione": "Lombardia",
+"comune": "Iseo",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+]
+},
+"membri": [
+"massussi-luigi"
+],
+"primario": "massussi-luigi"
+},
+{
+"slug": "milesi-giovanni",
+"nome": "Milesi Giovanni",
+"regione": "Lombardia",
+"comune": "Cellatica",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+],
+"curtefranca": [
+"Curtefranca"
+]
+},
+"membri": [
+"milesi-giovanni"
+],
+"primario": "milesi-giovanni"
 }
 ]

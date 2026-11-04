@@ -50286,5 +50286,195 @@
   "data_consorzio": "4 novembre 2026",
   "consorzio": "conegliano",
   "data_consultazione": "4 novembre 2026"
+ },
+ {
+  "slug": "cantine-manessi",
+  "nome": "Cantine Manessi",
+  "regione": "Lombardia",
+  "comune": "Parmezzana Calzana",
+  "tipi": {
+   "franciacorta": [
+    "Franciacorta"
+   ],
+   "curtefranca": [
+    "Curtefranca"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via IV Novembre, 17, 25040 Parmezzana Calzana (BS)",
+  "tel": "+39 030 653242",
+  "email": "",
+  "sito": "https://www.cantinemanessi.it/",
+  "dom": "cantinemanessi.it",
+  "den": "Franciacorta Satèn, Franciacorta Rosé, Curtefranca",
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "url_consorzio": "https://franciacorta.wine/it/cantine/manessi/",
+  "consorzio_nome": "Consorzio per la tutela del Franciacorta",
+  "dom_consorzio": "franciacorta.wine",
+  "data_consorzio": "4 novembre 2026",
+  "consorzio": "franciacorta",
+  "social_consorzio": false,
+  "wip": "Cantine Manessi",
+  "data_consultazione": "4 novembre 2026",
+  "social": {}
+ },
+ {
+  "slug": "ciapel",
+  "nome": "Ciapél",
+  "regione": "Lombardia",
+  "comune": "Parmezzana Calzana",
+  "tipi": {
+   "franciacorta": [
+    "Franciacorta"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Vicolo Sant'Antonio, 12, 25040 Parmezzana Calzana (BS)",
+  "tel": "+39 030 652167",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "Franciacorta, Franciacorta Rosé",
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "url_consorzio": "https://franciacorta.wine/it/cantine/ciapel/",
+  "consorzio_nome": "Consorzio per la tutela del Franciacorta",
+  "dom_consorzio": "franciacorta.wine",
+  "data_consorzio": "4 novembre 2026",
+  "consorzio": "franciacorta",
+  "social_consorzio": false,
+  "wip": "Ciapél",
+  "data_consultazione": "4 novembre 2026",
+  "social": {},
+  "elenco_consorzio": false
+ },
+ {
+  "slug": "clarabella",
+  "nome": "Clarabella",
+  "regione": "Lombardia",
+  "comune": "Iseo",
+  "tipi": {
+   "franciacorta": [
+    "Franciacorta"
+   ],
+   "curtefranca": [
+    "Curtefranca"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via delle Polle, 25049 Iseo (BS)",
+  "tel": "+39 030 9821041",
+  "email": "",
+  "sito": "http://cascinaclarabella.it/",
+  "dom": "cascinaclarabella.it",
+  "den": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Curtefranca",
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "url_consorzio": "https://franciacorta.wine/it/cantine/clarabella/",
+  "consorzio_nome": "Consorzio per la tutela del Franciacorta",
+  "dom_consorzio": "franciacorta.wine",
+  "data_consorzio": "4 novembre 2026",
+  "consorzio": "franciacorta",
+  "social_consorzio": false,
+  "wip": "Clarabella",
+  "data_consultazione": "4 novembre 2026",
+  "social": {}
+ },
+ {
+  "slug": "lovera",
+  "nome": "Lovera",
+  "regione": "Lombardia",
+  "comune": "Erbusco",
+  "tipi": {
+   "franciacorta": [
+    "Franciacorta"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Lovera, 14a, 25030 Erbusco (BS)",
+  "tel": "+39 030 7760491",
+  "email": "",
+  "sito": "http://www.cantinalovera.it/",
+  "dom": "cantinalovera.it",
+  "den": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato",
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "url_consorzio": "https://franciacorta.wine/it/cantine/lovera/",
+  "consorzio_nome": "Consorzio per la tutela del Franciacorta",
+  "dom_consorzio": "franciacorta.wine",
+  "data_consorzio": "4 novembre 2026",
+  "consorzio": "franciacorta",
+  "social_consorzio": false,
+  "wip": "Lovera",
+  "data_consultazione": "4 novembre 2026",
+  "social": {}
+ },
+ {
+  "slug": "massussi-luigi",
+  "nome": "Massussi Luigi",
+  "regione": "Lombardia",
+  "comune": "Iseo",
+  "tipi": {
+   "franciacorta": [
+    "Franciacorta"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Silvio Bonomelli, 60C, 25049 Iseo (BS)",
+  "tel": "+39 389 9883669",
+  "email": "",
+  "sito": "http://www.massussifranciacorta.it/",
+  "dom": "massussifranciacorta.it",
+  "den": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva",
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "url_consorzio": "https://franciacorta.wine/it/cantine/massussi/",
+  "consorzio_nome": "Consorzio per la tutela del Franciacorta",
+  "dom_consorzio": "franciacorta.wine",
+  "data_consorzio": "4 novembre 2026",
+  "consorzio": "franciacorta",
+  "social_consorzio": false,
+  "wip": "Massussi Luigi",
+  "data_consultazione": "4 novembre 2026",
+  "social": {}
+ },
+ {
+  "slug": "milesi-giovanni",
+  "nome": "Milesi Giovanni",
+  "regione": "Lombardia",
+  "comune": "Cellatica",
+  "tipi": {
+   "franciacorta": [
+    "Franciacorta"
+   ],
+   "curtefranca": [
+    "Curtefranca"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Attico, 4, 25060 Cellatica (BS)",
+  "tel": "+39 030 2770072",
+  "email": "",
+  "sito": "http://www.cantinemilesi.it/",
+  "dom": "cantinemilesi.it",
+  "den": "Franciacorta, Curtefranca",
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "url_consorzio": "https://franciacorta.wine/it/cantine/milesi-giovanni/",
+  "consorzio_nome": "Consorzio per la tutela del Franciacorta",
+  "dom_consorzio": "franciacorta.wine",
+  "data_consorzio": "4 novembre 2026",
+  "consorzio": "franciacorta",
+  "social_consorzio": false,
+  "wip": "Milesi Giovanni",
+  "data_consultazione": "4 novembre 2026",
+  "social": {}
  }
 ]

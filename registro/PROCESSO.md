@@ -203,3 +203,6 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 104 — Friuli Venezia Giulia chiuso
 - Colli Orientali: 366/367 soci già in guida (controllo da elenco consorzio). Vivino FVG completo (1.224/1.224). Registro `friuli-chiusura.md`; `stato-consorzi.csv` riga 55 FATTO.
+
+## 105 — Spazio Vercel (Deployment Storage 10,43/10 GB)
+- Aggiunto `.vercelignore`: esclude dalla pubblicazione cartelle e file di lavoro (dati, dati_vecchi, pagine_vecchie, rifusione, giro, spec, chiarire…). Restano pubblicati: index.html, shell.js, cerca.json (ricerca), pagine/, cartelle delle denominazioni, nota-metodologica, privacy.

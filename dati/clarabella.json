@@ -1,0 +1,45 @@
+{
+ "nome": "Clarabella",
+ "slug": "clarabella",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via delle Polle, 25049 Iseo (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 030 9821041 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://cascinaclarabella.it/|cascinaclarabella.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Curtefranca [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 4 novembre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/clarabella/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

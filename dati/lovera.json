@@ -1,0 +1,45 @@
+{
+ "nome": "Lovera",
+ "slug": "lovera",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Lovera, 14a, 25030 Erbusco (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 030 7760491 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinalovera.it/|cantinalovera.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 4 novembre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/lovera/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}

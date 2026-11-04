@@ -1,0 +1,45 @@
+{
+ "nome": "Massussi Luigi",
+ "slug": "massussi-luigi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Silvio Bonomelli, 60C, 25049 Iseo (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 389 9883669 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.massussifranciacorta.it/|massussifranciacorta.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela del Franciacorta [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 4 novembre 2026.",
+   "url": "https://franciacorta.wine/it/cantine/massussi/",
+   "etichetta": "franciacorta.wine"
+  }
+ ]
+}
