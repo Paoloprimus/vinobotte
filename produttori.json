@@ -53549,6 +53549,851 @@
 "primario": "casa-paladin"
 },
 {
+"slug": "ampeleia",
+"nome": "Ampeleia",
+"regione": "Toscana",
+"comune": "Roccatederighi",
+"tipi": {
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"ampeleia"
+],
+"primario": "ampeleia"
+},
+{
+"slug": "riolite",
+"nome": "Riolite",
+"regione": "Toscana",
+"comune": "Greve in Chianti",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"riolite"
+],
+"primario": "riolite"
+},
+{
+"slug": "frascole",
+"nome": "Frascole",
+"regione": "Toscana",
+"comune": "Dicomano",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"frascole"
+],
+"primario": "frascole"
+},
+{
+"slug": "podere-luisa",
+"nome": "Podere Luisa",
+"regione": "Toscana",
+"comune": "Montevarchi",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"podere-luisa"
+],
+"primario": "podere-luisa"
+},
+{
+"slug": "poggio-brigante",
+"nome": "Poggio Brigante",
+"regione": "Toscana",
+"comune": "Magliano in Toscana",
+"tipi": {
+"morellino": [
+"Morellino di Scansano"
+],
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"poggio-brigante"
+],
+"primario": "poggio-brigante"
+},
+{
+"slug": "castello-di-coiano",
+"nome": "Castello di Coiano",
+"regione": "Toscana",
+"comune": "Empoli",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"castello-di-coiano"
+],
+"primario": "castello-di-coiano"
+},
+{
+"slug": "azienda-agricola-otto-ettari",
+"nome": "Azienda Agricola Otto Ettari",
+"regione": "Toscana",
+"comune": "Castel del Piano",
+"tipi": {
+"montecucco": [
+"Montecucco"
+]
+},
+"membri": [
+"azienda-agricola-otto-ettari"
+],
+"primario": "azienda-agricola-otto-ettari"
+},
+{
+"slug": "il-tagliato",
+"nome": "Il Tagliato",
+"regione": "Toscana",
+"comune": "Greve in Chianti",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"il-tagliato"
+],
+"primario": "il-tagliato"
+},
+{
+"slug": "pie-di-colle",
+"nome": "Pié di Colle",
+"regione": "Toscana",
+"comune": "Civitella in Val di Chiana",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"pie-di-colle"
+],
+"primario": "pie-di-colle"
+},
+{
+"slug": "federico-bonfio",
+"nome": "Federico Bonfio",
+"regione": "Toscana",
+"comune": "Monteriggioni",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"federico-bonfio"
+],
+"primario": "federico-bonfio"
+},
+{
+"slug": "pietralta",
+"nome": "Pietralta",
+"regione": "Toscana",
+"comune": "Gambassi Terme",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"pietralta"
+],
+"primario": "pietralta"
+},
+{
+"slug": "terre-di-baccio",
+"nome": "Terre di Baccio",
+"regione": "Toscana",
+"comune": "Greve in Chianti",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"terre-di-baccio"
+],
+"primario": "terre-di-baccio"
+},
+{
+"slug": "il-poderino",
+"nome": "Il Poderino",
+"regione": "Toscana",
+"comune": "Gavorrano",
+"tipi": {
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"il-poderino"
+],
+"primario": "il-poderino"
+},
+{
+"slug": "pagnana",
+"nome": "Pagnana",
+"regione": "Toscana",
+"comune": "Rignano Sull'Arno",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"pagnana"
+],
+"primario": "pagnana"
+},
+{
+"slug": "la-camporena",
+"nome": "La Camporena",
+"regione": "Toscana",
+"comune": "Greve in Chianti",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+],
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"la-camporena"
+],
+"primario": "la-camporena"
+},
+{
+"slug": "montalbino",
+"nome": "Montalbino",
+"regione": "Toscana",
+"comune": "Montespertoli",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"montalbino"
+],
+"primario": "montalbino"
+},
+{
+"slug": "poggio-alle-lame",
+"nome": "Poggio Alle Lame",
+"regione": "Toscana",
+"comune": "Barberino Tavarnelle",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"poggio-alle-lame"
+],
+"primario": "poggio-alle-lame"
+},
+{
+"slug": "pruneti",
+"nome": "Pruneti",
+"regione": "Toscana",
+"comune": "Greve in Chianti",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+],
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"pruneti"
+],
+"primario": "pruneti"
+},
+{
+"slug": "la-corte-dei-goliardi",
+"nome": "La Corte dei Goliardi",
+"regione": "Toscana",
+"comune": "Greve in Chianti",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+],
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"la-corte-dei-goliardi"
+],
+"primario": "la-corte-dei-goliardi"
+},
+{
+"slug": "casalgallo",
+"nome": "Casalgallo",
+"regione": "Toscana",
+"comune": "Castelnuovo Berardenga",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+],
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"casalgallo"
+],
+"primario": "casalgallo"
+},
+{
+"slug": "cortina-e-mandorli",
+"nome": "Cortina e Mandorli",
+"regione": "Toscana",
+"comune": "Montespertoli",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"cortina-e-mandorli"
+],
+"primario": "cortina-e-mandorli"
+},
+{
+"slug": "collina-dei-venti",
+"nome": "Collina dei Venti",
+"regione": "Toscana",
+"comune": "Certaldo",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"collina-dei-venti"
+],
+"primario": "collina-dei-venti"
+},
+{
+"slug": "santo-pietro",
+"nome": "Santo Pietro",
+"regione": "Toscana",
+"comune": "San Gimignano",
+"tipi": {
+"colli-senesi": [
+"Chianti Colli Senesi"
+],
+"vernaccia": [
+"San Gimignano"
+]
+},
+"membri": [
+"santo-pietro"
+],
+"primario": "santo-pietro"
+},
+{
+"slug": "castellare-di-tonda",
+"nome": "Castellare di Tonda",
+"regione": "Toscana",
+"comune": "Montaione",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"castellare-di-tonda"
+],
+"primario": "castellare-di-tonda"
+},
+{
+"slug": "lo-scalone",
+"nome": "Lo Scalone",
+"regione": "Toscana",
+"comune": "Montalcino",
+"tipi": {
+"brunello": [
+"Brunello di Montalcino",
+"Rosso di Montalcino"
+]
+},
+"membri": [
+"lo-scalone"
+],
+"primario": "lo-scalone"
+},
+{
+"slug": "castello-di-orgiale",
+"nome": "Castello di Orgiale",
+"regione": "Toscana",
+"comune": "Castelnuovo Berardenga",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"castello-di-orgiale"
+],
+"primario": "castello-di-orgiale"
+},
+{
+"slug": "fattoria-terranuova",
+"nome": "Fattoria Terranuova",
+"regione": "Toscana",
+"comune": "Terranuova Bracciolini",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"fattoria-terranuova"
+],
+"primario": "fattoria-terranuova"
+},
+{
+"slug": "pazzi",
+"nome": "Pazzi",
+"regione": "Toscana",
+"comune": "Castellina in Chianti",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+],
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"pazzi"
+],
+"primario": "pazzi"
+},
+{
+"slug": "vigne-casolar-del-sol",
+"nome": "Vigne Casolar del Sol",
+"regione": "Toscana",
+"comune": "Pescia",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"vigne-casolar-del-sol"
+],
+"primario": "vigne-casolar-del-sol"
+},
+{
+"slug": "casa-giachi",
+"nome": "Casa Giachi",
+"regione": "Toscana",
+"comune": "Barberino Tavarnelle",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"casa-giachi"
+],
+"primario": "casa-giachi"
+},
+{
+"slug": "fattoria-conio",
+"nome": "Fattoria Conio",
+"regione": "Toscana",
+"comune": "San Donato in Poggio",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"fattoria-conio"
+],
+"primario": "fattoria-conio"
+},
+{
+"slug": "molino-della-vecchia",
+"nome": "Molino della Vecchia",
+"regione": "Toscana",
+"comune": "Arezzo Inf",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"molino-della-vecchia"
+],
+"primario": "molino-della-vecchia"
+},
+{
+"slug": "poggio-aione",
+"nome": "Poggio Aione",
+"regione": "Toscana",
+"comune": "Semproniano",
+"tipi": {
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"poggio-aione"
+],
+"primario": "poggio-aione"
+},
+{
+"slug": "fattoria-sommiano",
+"nome": "Fattoria Sommiano",
+"regione": "Toscana",
+"comune": "Cerreto Guidi",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"fattoria-sommiano"
+],
+"primario": "fattoria-sommiano"
+},
+{
+"slug": "i-sergenti",
+"nome": "I Sergenti",
+"regione": "Toscana",
+"comune": "Reggello",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"i-sergenti"
+],
+"primario": "i-sergenti"
+},
+{
+"slug": "tenuta-selvaforte",
+"nome": "Tenuta Selvaforte",
+"regione": "Toscana",
+"comune": "Castelfranco Piandiscò",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"tenuta-selvaforte"
+],
+"primario": "tenuta-selvaforte"
+},
+{
+"slug": "colle-petroso",
+"nome": "Colle Petroso",
+"regione": "Toscana",
+"comune": "Radda in Chianti",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+],
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"colle-petroso"
+],
+"primario": "colle-petroso"
+},
+{
+"slug": "i-due-cipressi",
+"nome": "I Due Cipressi",
+"regione": "Toscana",
+"comune": "Bagno A Ripoli",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"i-due-cipressi"
+],
+"primario": "i-due-cipressi"
+},
+{
+"slug": "chianti-geografico",
+"nome": "Chianti Geografico",
+"regione": "Toscana",
+"comune": "Gaiole in Chianti",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+],
+"chianti": [
+"Chianti"
+],
+"colli-senesi": [
+"Chianti Colli Senesi"
+]
+},
+"membri": [
+"chianti-geografico"
+],
+"primario": "chianti-geografico"
+},
+{
+"slug": "giacomo-grassi",
+"nome": "Giacomo Grassi",
+"regione": "Toscana",
+"comune": "Greve in Chianti",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+],
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"giacomo-grassi"
+],
+"primario": "giacomo-grassi"
+},
+{
+"slug": "tenuta-isola-verde",
+"nome": "Tenuta Isola Verde",
+"regione": "Toscana",
+"comune": "Cerreto Guidi",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"tenuta-isola-verde"
+],
+"primario": "tenuta-isola-verde"
+},
+{
+"slug": "victor-and-rose",
+"nome": "Victor and Rose",
+"regione": "Toscana",
+"comune": "Lucignano",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"victor-and-rose"
+],
+"primario": "victor-and-rose"
+},
+{
+"slug": "podere-del-tordo",
+"nome": "Podere del Tordo",
+"regione": "Toscana",
+"comune": "Candeglia",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"podere-del-tordo"
+],
+"primario": "podere-del-tordo"
+},
+{
+"slug": "palmo-di-terra",
+"nome": "Palmo di Terra",
+"regione": "Toscana",
+"comune": "Manciano",
+"tipi": {
+"maremma": [
+"Maremma Toscana"
+]
+},
+"membri": [
+"palmo-di-terra"
+],
+"primario": "palmo-di-terra"
+},
+{
+"slug": "villa-fabbroni",
+"nome": "Villa Fabbroni",
+"regione": "Toscana",
+"comune": "Greve in Chianti",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"villa-fabbroni"
+],
+"primario": "villa-fabbroni"
+},
+{
+"slug": "ca-del-vispo",
+"nome": "Ca’ del Vispo",
+"regione": "Toscana",
+"comune": "San Gimignano",
+"tipi": {
+"chianti": [
+"Chianti"
+],
+"vernaccia": [
+"Vernaccia di San Gimignano",
+"San Gimignano"
+],
+"colli-senesi": [
+"Chianti Colli Senesi"
+]
+},
+"membri": [
+"ca-del-vispo"
+],
+"primario": "ca-del-vispo"
+},
+{
+"slug": "il-paretaio",
+"nome": "Il Paretaio",
+"regione": "Toscana",
+"comune": "Barberino Tavarnelle",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+],
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"il-paretaio"
+],
+"primario": "il-paretaio"
+},
+{
+"slug": "podere-la-quercia",
+"nome": "Podere La Quercia",
+"regione": "Toscana",
+"comune": "San Gimignano",
+"tipi": {
+"vernaccia": [
+"San Gimignano"
+]
+},
+"membri": [
+"podere-la-quercia"
+],
+"primario": "podere-la-quercia"
+},
+{
+"slug": "fattoria-di-basciano",
+"nome": "Fattoria di Basciano",
+"regione": "Toscana",
+"comune": "Rufina",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"fattoria-di-basciano"
+],
+"primario": "fattoria-di-basciano"
+},
+{
+"slug": "san-cresci",
+"nome": "San Cresci",
+"regione": "Toscana",
+"comune": "Greve in Chianti",
+"tipi": {
+"chianti-classico": [
+"Chianti Classico"
+],
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"san-cresci"
+],
+"primario": "san-cresci"
+},
+{
+"slug": "tinti",
+"nome": "Tinti",
+"regione": "Toscana",
+"comune": "Certaldo",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"tinti"
+],
+"primario": "tinti"
+},
+{
+"slug": "le-caciaie",
+"nome": "Le Caciaie",
+"regione": "Toscana",
+"comune": "Gaiole in Chianti",
+"tipi": {
+"chianti": [
+"Chianti"
+]
+},
+"membri": [
+"le-caciaie"
+],
+"primario": "le-caciaie"
+},
+{
+"slug": "abbazia-monteoliveto",
+"nome": "Abbazia Monteoliveto",
+"regione": "Toscana",
+"comune": "San Gimignano",
+"tipi": {
+"chianti": [
+"Chianti"
+],
+"vernaccia": [
+"San Gimignano"
+]
+},
+"membri": [
+"abbazia-monteoliveto"
+],
+"primario": "abbazia-monteoliveto"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
