@@ -206,3 +206,10 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 105 — Spazio Vercel (Deployment Storage 10,43/10 GB)
 - Aggiunto `.vercelignore`: esclude dalla pubblicazione cartelle e file di lavoro (dati, dati_vecchi, pagine_vecchie, rifusione, giro, spec, chiarire…). Restano pubblicati: index.html, shell.js, cerca.json (ricerca), pagine/, cartelle delle denominazioni, nota-metodologica, privacy.
+
+## 106 — Lombardia: primo giro Vivino (≥5 vini) + Franciacorta consorzio
+- Franciacorta: 107/113 soci del consorzio già in guida; +6 aggiunti dalle schede del consorzio (Manessi, Ciapél, Clarabella, Lovera, Massussi, Milesi).
+- Vivino Lombardia scaricato intero (1.923 cantine); 630 con ≥5 vini non in guida; sito trovato per 363, verificato nome/dominio per 326, denominazioni lette dal sito (223 con DOP).
+- +103 cantine: Oltrepò Pavese 55, Garda 14, Valcalepio 13, Franciacorta 9, Valtellina 6, Lugana 3, Terre Lariane 3, Valcamonica 3, Moscato di Scanzo 2, Curtefranca 1. Regola tessere per provincia/comune (Lugana solo Desenzano, Sirmione, Lonato, Pozzolengo; Moscato di Scanzo solo Scanzorosciate; Prosecco non assegnato in Lombardia).
+- Scartati a mano: negozi/marchi (Carrefour, Lebovitz), distilleria, agriturismo, sede fuori zona della denominazione. Denominazioni senza tessera (Valtènesi, Capriano del Colle, Cellatica, San Colombano, Lambrusco Mantovano, Botticino): in attesa di decisione.
+- Guida: 5.242 produttori; Lombardia 409.

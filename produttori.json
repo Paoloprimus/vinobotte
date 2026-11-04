@@ -56084,6 +56084,1612 @@
 "primario": "azienda-agricola-girardi"
 },
 {
+"slug": "ca-maiol",
+"nome": "Cà Maiol",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+],
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"ca-maiol"
+],
+"primario": "ca-maiol"
+},
+{
+"slug": "selva-capuzza",
+"nome": "Selva Capuzza",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"lugana": [
+"Lugana"
+],
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"selva-capuzza"
+],
+"primario": "selva-capuzza"
+},
+{
+"slug": "avanzi",
+"nome": "Avanzi",
+"regione": "Lombardia",
+"comune": "Manerba del Garda",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"avanzi"
+],
+"primario": "avanzi"
+},
+{
+"slug": "peri-bigogno",
+"nome": "Peri Bigogno",
+"regione": "Lombardia",
+"comune": "Castenedolo",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"peri-bigogno"
+],
+"primario": "peri-bigogno"
+},
+{
+"slug": "ca-lojera",
+"nome": "Ca' Lojera",
+"regione": "Lombardia",
+"comune": "Sirmione",
+"tipi": {
+"lugana": [
+"Lugana"
+],
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"ca-lojera"
+],
+"primario": "ca-lojera"
+},
+{
+"slug": "il-calepino",
+"nome": "Il Calepino",
+"regione": "Lombardia",
+"comune": "Castelli Calepio",
+"tipi": {
+"valcalepio": [
+"Valcalepio"
+]
+},
+"membri": [
+"il-calepino"
+],
+"primario": "il-calepino"
+},
+{
+"slug": "cantrina",
+"nome": "Cantrina",
+"regione": "Lombardia",
+"comune": "Bedizzole",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"cantrina"
+],
+"primario": "cantrina"
+},
+{
+"slug": "cantina-bergamasca",
+"nome": "Cantina Bergamasca",
+"regione": "Lombardia",
+"comune": "San Paolo D’Argon",
+"tipi": {
+"valcalepio": [
+"Valcalepio"
+]
+},
+"membri": [
+"cantina-bergamasca"
+],
+"primario": "cantina-bergamasca"
+},
+{
+"slug": "le-fracce",
+"nome": "Le Fracce",
+"regione": "Lombardia",
+"comune": "Mairano di Casteggio",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Pinot Nero dell’Oltrepò",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"le-fracce"
+],
+"primario": "le-fracce"
+},
+{
+"slug": "le-corne",
+"nome": "Le Corne",
+"regione": "Lombardia",
+"comune": "Grumello del Monte",
+"tipi": {
+"valcalepio": [
+"Valcalepio"
+]
+},
+"membri": [
+"le-corne"
+],
+"primario": "le-corne"
+},
+{
+"slug": "conti-ducco",
+"nome": "Conti Ducco",
+"regione": "Lombardia",
+"comune": "Passirano",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+]
+},
+"membri": [
+"conti-ducco"
+],
+"primario": "conti-ducco"
+},
+{
+"slug": "martilde",
+"nome": "Martilde",
+"regione": "Lombardia",
+"comune": "Rovescala",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"martilde"
+],
+"primario": "martilde"
+},
+{
+"slug": "conti-thun",
+"nome": "Conti Thun",
+"regione": "Lombardia",
+"comune": "Puegnago",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"conti-thun"
+],
+"primario": "conti-thun"
+},
+{
+"slug": "la-spia",
+"nome": "La Spia",
+"regione": "Lombardia",
+"comune": "Castione Andevenno",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"la-spia"
+],
+"primario": "la-spia"
+},
+{
+"slug": "terrazze-di-montevecchia",
+"nome": "Terrazze di Montevecchia",
+"regione": "Lombardia",
+"comune": "La Valletta Brianza",
+"tipi": {
+"terre-lariane": [
+"Terre Lariane"
+]
+},
+"membri": [
+"terrazze-di-montevecchia"
+],
+"primario": "terrazze-di-montevecchia"
+},
+{
+"slug": "locatelli-caffi",
+"nome": "Locatelli Caffi",
+"regione": "Lombardia",
+"comune": "Chiuduno",
+"tipi": {
+"valcalepio": [
+"Valcalepio"
+]
+},
+"membri": [
+"locatelli-caffi"
+],
+"primario": "locatelli-caffi"
+},
+{
+"slug": "torrazzetta",
+"nome": "Torrazzetta",
+"regione": "Lombardia",
+"comune": "Borgo Priolo",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"torrazzetta"
+],
+"primario": "torrazzetta"
+},
+{
+"slug": "picchi",
+"nome": "Picchi",
+"regione": "Lombardia",
+"comune": "Casteggio",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"picchi"
+],
+"primario": "picchi"
+},
+{
+"slug": "la-basia",
+"nome": "La Basia",
+"regione": "Lombardia",
+"comune": "Puegnago del Garda",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+],
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"la-basia"
+],
+"primario": "la-basia"
+},
+{
+"slug": "podere-castel-merlo",
+"nome": "Podere Castel Merlo",
+"regione": "Lombardia",
+"comune": "Villongo",
+"tipi": {
+"valcalepio": [
+"Valcalepio"
+]
+},
+"membri": [
+"podere-castel-merlo"
+],
+"primario": "podere-castel-merlo"
+},
+{
+"slug": "stefano-milanesi",
+"nome": "Stefano Milanesi",
+"regione": "Lombardia",
+"comune": "Santa Giuletta",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"stefano-milanesi"
+],
+"primario": "stefano-milanesi"
+},
+{
+"slug": "maggi-francesco",
+"nome": "Maggi Francesco",
+"regione": "Lombardia",
+"comune": "Canneto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Pinot Nero dell’Oltrepò",
+"Bonarda dell’Oltrepò Pavese",
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"maggi-francesco"
+],
+"primario": "maggi-francesco"
+},
+{
+"slug": "tenute-del-garda",
+"nome": "Tenute del Garda",
+"regione": "Lombardia",
+"comune": "Lonato del Garda",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"tenute-del-garda"
+],
+"primario": "tenute-del-garda"
+},
+{
+"slug": "la-brugherata",
+"nome": "La Brugherata",
+"regione": "Lombardia",
+"comune": "Scanzorosciate",
+"tipi": {
+"moscato-di-scanzo": [
+"Moscato di Scanzo"
+]
+},
+"membri": [
+"la-brugherata"
+],
+"primario": "la-brugherata"
+},
+{
+"slug": "nicola-gatta",
+"nome": "Nicola Gatta",
+"regione": "Lombardia",
+"comune": "Gussago",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+]
+},
+"membri": [
+"nicola-gatta"
+],
+"primario": "nicola-gatta"
+},
+{
+"slug": "cantine-vitea",
+"nome": "Cantine Vitea",
+"regione": "Lombardia",
+"comune": "Montù Beccaria",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese",
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"cantine-vitea"
+],
+"primario": "cantine-vitea"
+},
+{
+"slug": "tenuta-montecchio",
+"nome": "Tenuta Montecchio",
+"regione": "Lombardia",
+"comune": "Colico",
+"tipi": {
+"terre-lariane": [
+"Terre Lariane"
+]
+},
+"membri": [
+"tenuta-montecchio"
+],
+"primario": "tenuta-montecchio"
+},
+{
+"slug": "corte-bianca",
+"nome": "Corte Bianca",
+"regione": "Lombardia",
+"comune": "Provaglio D'Iseo",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+]
+},
+"membri": [
+"corte-bianca"
+],
+"primario": "corte-bianca"
+},
+{
+"slug": "castel-del-lupo",
+"nome": "Castel del Lupo",
+"regione": "Lombardia",
+"comune": "Calvignano",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"castel-del-lupo"
+],
+"primario": "castel-del-lupo"
+},
+{
+"slug": "ca-tessitori",
+"nome": "Ca’ Tessitori",
+"regione": "Lombardia",
+"comune": "Broni",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"ca-tessitori"
+],
+"primario": "ca-tessitori"
+},
+{
+"slug": "terrazze-dei-cech",
+"nome": "Terrazze dei Cech",
+"regione": "Lombardia",
+"comune": "Mello",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"terrazze-dei-cech"
+],
+"primario": "terrazze-dei-cech"
+},
+{
+"slug": "guerci",
+"nome": "Guerci",
+"regione": "Lombardia",
+"comune": "Casteggio",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese",
+"Cruasè"
+]
+},
+"membri": [
+"guerci"
+],
+"primario": "guerci"
+},
+{
+"slug": "giubertoni",
+"nome": "Giubertoni",
+"regione": "Lombardia",
+"comune": "San Nicolò Po",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"giubertoni"
+],
+"primario": "giubertoni"
+},
+{
+"slug": "lurani-cernuschi",
+"nome": "Lurani Cernuschi",
+"regione": "Lombardia",
+"comune": "Almenno San Salvatore",
+"tipi": {
+"valcalepio": [
+"Valcalepio"
+]
+},
+"membri": [
+"lurani-cernuschi"
+],
+"primario": "lurani-cernuschi"
+},
+{
+"slug": "tenuta-valcurone",
+"nome": "Tenuta Valcurone",
+"regione": "Lombardia",
+"comune": "Montevecchia",
+"tipi": {
+"terre-lariane": [
+"Terre Lariane"
+]
+},
+"membri": [
+"tenuta-valcurone"
+],
+"primario": "tenuta-valcurone"
+},
+{
+"slug": "prago",
+"nome": "Prago",
+"regione": "Lombardia",
+"comune": "Santa Maria della Versa",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"prago"
+],
+"primario": "prago"
+},
+{
+"slug": "la-cornasella",
+"nome": "La Cornasella",
+"regione": "Lombardia",
+"comune": "Grumello del Monte",
+"tipi": {
+"valcalepio": [
+"Valcalepio"
+]
+},
+"membri": [
+"la-cornasella"
+],
+"primario": "la-cornasella"
+},
+{
+"slug": "colle-del-bricco",
+"nome": "Colle del Bricco",
+"regione": "Lombardia",
+"comune": "Broni",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"colle-del-bricco"
+],
+"primario": "colle-del-bricco"
+},
+{
+"slug": "vigna-alta",
+"nome": "Vigna Alta",
+"regione": "Lombardia",
+"comune": "Montù Beccaria",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"vigna-alta"
+],
+"primario": "vigna-alta"
+},
+{
+"slug": "la-parrocchiale",
+"nome": "La Parrocchiale",
+"regione": "Lombardia",
+"comune": "Santa Maria della Versa",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"la-parrocchiale"
+],
+"primario": "la-parrocchiale"
+},
+{
+"slug": "podere-scabini",
+"nome": "Podere Scabini",
+"regione": "Lombardia",
+"comune": "Golferenzo",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"podere-scabini"
+],
+"primario": "podere-scabini"
+},
+{
+"slug": "sunawi-su-na-wi",
+"nome": "Sunawi (SU.NA.WI.)",
+"regione": "Lombardia",
+"comune": "Salò",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"sunawi-su-na-wi"
+],
+"primario": "sunawi-su-na-wi"
+},
+{
+"slug": "frade",
+"nome": "Fradé",
+"regione": "Lombardia",
+"comune": "Borgo Priolo",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"frade"
+],
+"primario": "frade"
+},
+{
+"slug": "borgo-santuletta",
+"nome": "Borgo Santuletta",
+"regione": "Lombardia",
+"comune": "Santa Giuletta",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"borgo-santuletta"
+],
+"primario": "borgo-santuletta"
+},
+{
+"slug": "martini-col-di-paste",
+"nome": "Martinì Col di Paste",
+"regione": "Lombardia",
+"comune": "Cene",
+"tipi": {
+"valcalepio": [
+"Valcalepio"
+]
+},
+"membri": [
+"martini-col-di-paste"
+],
+"primario": "martini-col-di-paste"
+},
+{
+"slug": "cavalli-faletti",
+"nome": "Cavalli Faletti",
+"regione": "Lombardia",
+"comune": "Villa di Serio",
+"tipi": {
+"valcalepio": [
+"Valcalepio"
+]
+},
+"membri": [
+"cavalli-faletti"
+],
+"primario": "cavalli-faletti"
+},
+{
+"slug": "cantina-carona",
+"nome": "Cantina Carona",
+"regione": "Lombardia",
+"comune": "Cedegolo",
+"tipi": {
+"valcamonica": [
+"Valcamonica"
+]
+},
+"membri": [
+"cantina-carona"
+],
+"primario": "cantina-carona"
+},
+{
+"slug": "terre-di-rovescala",
+"nome": "Terre di Rovescala",
+"regione": "Lombardia",
+"comune": "Rovescala",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"terre-di-rovescala"
+],
+"primario": "terre-di-rovescala"
+},
+{
+"slug": "poderi-la-gatta",
+"nome": "Poderi La Gatta",
+"regione": "Lombardia",
+"comune": "Pietra De’ Giorgi",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"poderi-la-gatta"
+],
+"primario": "poderi-la-gatta"
+},
+{
+"slug": "cascina-gnocco",
+"nome": "Cascina Gnocco",
+"regione": "Lombardia",
+"comune": "Mornico Losana",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"cascina-gnocco"
+],
+"primario": "cascina-gnocco"
+},
+{
+"slug": "sfogliata",
+"nome": "Sfogliata",
+"regione": "Lombardia",
+"comune": "Mornico Losana",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"sfogliata"
+],
+"primario": "sfogliata"
+},
+{
+"slug": "forlino",
+"nome": "Forlino",
+"regione": "Lombardia",
+"comune": "Borgo Priolo",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"forlino"
+],
+"primario": "forlino"
+},
+{
+"slug": "giulio-ferraris",
+"nome": "Giulio Ferraris",
+"regione": "Lombardia",
+"comune": "Pietra De' Giorgi",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"giulio-ferraris"
+],
+"primario": "giulio-ferraris"
+},
+{
+"slug": "taver",
+"nome": "Taver",
+"regione": "Lombardia",
+"comune": "Manerba",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"taver"
+],
+"primario": "taver"
+},
+{
+"slug": "la-stanga",
+"nome": "La Stanga",
+"regione": "Lombardia",
+"comune": "Calvignano",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"la-stanga"
+],
+"primario": "la-stanga"
+},
+{
+"slug": "il-montarco",
+"nome": "Il Montarco",
+"regione": "Lombardia",
+"comune": "Santa Maria della Versa",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"il-montarco"
+],
+"primario": "il-montarco"
+},
+{
+"slug": "cignoli",
+"nome": "Cignoli",
+"regione": "Lombardia",
+"comune": "Santa Giuletta",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"cignoli"
+],
+"primario": "cignoli"
+},
+{
+"slug": "testori-di-mariano",
+"nome": "Testori di Mariano",
+"regione": "Lombardia",
+"comune": "Santa Maria della Versa",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"testori-di-mariano"
+],
+"primario": "testori-di-mariano"
+},
+{
+"slug": "casa-casoni",
+"nome": "Casa Casoni",
+"regione": "Lombardia",
+"comune": "Canneto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Buttafuoco"
+]
+},
+"membri": [
+"casa-casoni"
+],
+"primario": "casa-casoni"
+},
+{
+"slug": "ca-rebecchi",
+"nome": "Cà Rebecchi",
+"regione": "Lombardia",
+"comune": "Montù Beccaria",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"ca-rebecchi"
+],
+"primario": "ca-rebecchi"
+},
+{
+"slug": "ricchi",
+"nome": "Ricchi",
+"regione": "Lombardia",
+"comune": "Monzambano",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"ricchi"
+],
+"primario": "ricchi"
+},
+{
+"slug": "ballabio",
+"nome": "Ballabio",
+"regione": "Lombardia",
+"comune": "Casteggio",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"ballabio"
+],
+"primario": "ballabio"
+},
+{
+"slug": "menegola",
+"nome": "Menegola",
+"regione": "Lombardia",
+"comune": "Castione Andevenno",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"menegola"
+],
+"primario": "menegola"
+},
+{
+"slug": "rivetti-lauro",
+"nome": "Rivetti & Lauro",
+"regione": "Lombardia",
+"comune": "Villa di Tirano",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"rivetti-lauro"
+],
+"primario": "rivetti-lauro"
+},
+{
+"slug": "fratelli-bertoli",
+"nome": "Fratelli Bertoli",
+"regione": "Lombardia",
+"comune": "Castelli Calepio",
+"tipi": {
+"valcalepio": [
+"Valcalepio"
+]
+},
+"membri": [
+"fratelli-bertoli"
+],
+"primario": "fratelli-bertoli"
+},
+{
+"slug": "boffalora",
+"nome": "Boffalora",
+"regione": "Lombardia",
+"comune": "Castione Andevenno",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"boffalora"
+],
+"primario": "boffalora"
+},
+{
+"slug": "castello-degli-angeli",
+"nome": "Castello degli Angeli",
+"regione": "Lombardia",
+"comune": "Carobbio degli Angeli",
+"tipi": {
+"valcalepio": [
+"Valcalepio"
+]
+},
+"membri": [
+"castello-degli-angeli"
+],
+"primario": "castello-degli-angeli"
+},
+{
+"slug": "azienda-agricola-biava",
+"nome": "Azienda Agricola Biava",
+"regione": "Lombardia",
+"comune": "Scanzorosciate",
+"tipi": {
+"moscato-di-scanzo": [
+"Moscato di Scanzo"
+]
+},
+"membri": [
+"azienda-agricola-biava"
+],
+"primario": "azienda-agricola-biava"
+},
+{
+"slug": "dino-torti",
+"nome": "Dino Torti",
+"regione": "Lombardia",
+"comune": "Montecalvo Versiggia",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"dino-torti"
+],
+"primario": "dino-torti"
+},
+{
+"slug": "la-grazia",
+"nome": "La Grazia",
+"regione": "Lombardia",
+"comune": "Tirano",
+"tipi": {
+"valtellina": [
+"Valtellina"
+]
+},
+"membri": [
+"la-grazia"
+],
+"primario": "la-grazia"
+},
+{
+"slug": "villa-domizia",
+"nome": "Villa Domizia",
+"regione": "Lombardia",
+"comune": "Torre Dè Roveri",
+"tipi": {
+"valcalepio": [
+"Valcalepio"
+]
+},
+"membri": [
+"villa-domizia"
+],
+"primario": "villa-domizia"
+},
+{
+"slug": "rizzini",
+"nome": "Rizzini",
+"regione": "Lombardia",
+"comune": "Monticelli Brusati",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+]
+},
+"membri": [
+"rizzini"
+],
+"primario": "rizzini"
+},
+{
+"slug": "il-montu",
+"nome": "Il Montu",
+"regione": "Lombardia",
+"comune": "Torrazza Coste",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"il-montu"
+],
+"primario": "il-montu"
+},
+{
+"slug": "buscaglia",
+"nome": "Buscaglia",
+"regione": "Lombardia",
+"comune": "Rovescala",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"buscaglia"
+],
+"primario": "buscaglia"
+},
+{
+"slug": "la-rovere",
+"nome": "La Rovere",
+"regione": "Lombardia",
+"comune": "Torre De' Roveri",
+"tipi": {
+"valcalepio": [
+"Valcalepio"
+]
+},
+"membri": [
+"la-rovere"
+],
+"primario": "la-rovere"
+},
+{
+"slug": "pavo",
+"nome": "Pavò",
+"regione": "Lombardia",
+"comune": "Provaglio D’Iseo",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+],
+"curtefranca": [
+"Curtefranca"
+]
+},
+"membri": [
+"pavo"
+],
+"primario": "pavo"
+},
+{
+"slug": "rossetti-scrivani",
+"nome": "Rossetti & Scrivani",
+"regione": "Lombardia",
+"comune": "Montebello della Battaglia",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"rossetti-scrivani"
+],
+"primario": "rossetti-scrivani"
+},
+{
+"slug": "dellafiore-roberto",
+"nome": "Dellafiore Roberto",
+"regione": "Lombardia",
+"comune": "Rovescala",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"dellafiore-roberto"
+],
+"primario": "dellafiore-roberto"
+},
+{
+"slug": "cantina-monchieri",
+"nome": "Cantina Monchieri",
+"regione": "Lombardia",
+"comune": "Losine",
+"tipi": {
+"valcamonica": [
+"Valcamonica"
+]
+},
+"membri": [
+"cantina-monchieri"
+],
+"primario": "cantina-monchieri"
+},
+{
+"slug": "vercesi",
+"nome": "Vercesi",
+"regione": "Lombardia",
+"comune": "San Damiano al Colle",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"vercesi"
+],
+"primario": "vercesi"
+},
+{
+"slug": "cavalier-dagradi",
+"nome": "Cavalier Dagradi",
+"regione": "Lombardia",
+"comune": "Cigognola",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese",
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"cavalier-dagradi"
+],
+"primario": "cavalier-dagradi"
+},
+{
+"slug": "gralo",
+"nome": "Gralò",
+"regione": "Lombardia",
+"comune": "Erbusco",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+]
+},
+"membri": [
+"gralo"
+],
+"primario": "gralo"
+},
+{
+"slug": "carra-alberto",
+"nome": "Carrà Alberto",
+"regione": "Lombardia",
+"comune": "San Damiano al Colle",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"carra-alberto"
+],
+"primario": "carra-alberto"
+},
+{
+"slug": "tosi",
+"nome": "Tosi",
+"regione": "Lombardia",
+"comune": "Montescano",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"tosi"
+],
+"primario": "tosi"
+},
+{
+"slug": "tenute-achilli",
+"nome": "Tenute Achilli",
+"regione": "Lombardia",
+"comune": "Santa Maria della Versa",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"tenute-achilli"
+],
+"primario": "tenute-achilli"
+},
+{
+"slug": "piovani-massimo",
+"nome": "Piovani Massimo",
+"regione": "Lombardia",
+"comune": "Canneto Pavese",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Buttafuoco"
+]
+},
+"membri": [
+"piovani-massimo"
+],
+"primario": "piovani-massimo"
+},
+{
+"slug": "bardoneschi",
+"nome": "Bardoneschi",
+"regione": "Lombardia",
+"comune": "Castana",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese",
+"Buttafuoco"
+]
+},
+"membri": [
+"bardoneschi"
+],
+"primario": "bardoneschi"
+},
+{
+"slug": "villa-elisa",
+"nome": "Villa Elisa",
+"regione": "Lombardia",
+"comune": "Iseo",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+]
+},
+"membri": [
+"villa-elisa"
+],
+"primario": "villa-elisa"
+},
+{
+"slug": "achilli-a-f-n",
+"nome": "Achilli A.& F.N.",
+"regione": "Lombardia",
+"comune": "Santa Maria della Versa",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"achilli-a-f-n"
+],
+"primario": "achilli-a-f-n"
+},
+{
+"slug": "orlandi",
+"nome": "Orlandi",
+"regione": "Lombardia",
+"comune": "Montù Beccaria",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese",
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"orlandi"
+],
+"primario": "orlandi"
+},
+{
+"slug": "franco-rossi",
+"nome": "Franco Rossi",
+"regione": "Lombardia",
+"comune": "Rovescala",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"franco-rossi"
+],
+"primario": "franco-rossi"
+},
+{
+"slug": "la-rovere-s-maria-della-versa",
+"nome": "La Rovere",
+"regione": "Lombardia",
+"comune": "S. Maria della Versa",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese",
+"Buttafuoco"
+]
+},
+"membri": [
+"la-rovere-s-maria-della-versa"
+],
+"primario": "la-rovere-s-maria-della-versa"
+},
+{
+"slug": "az-agr-ca-del-pero-di-sangiorgi",
+"nome": "AZ. AGR. Ca' del Pero di Sangiorgi",
+"regione": "Lombardia",
+"comune": "Santa Giuletta",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"az-agr-ca-del-pero-di-sangiorgi"
+],
+"primario": "az-agr-ca-del-pero-di-sangiorgi"
+},
+{
+"slug": "rovatti-angelo",
+"nome": "Rovatti Angelo",
+"regione": "Lombardia",
+"comune": "Casteggio",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"rovatti-angelo"
+],
+"primario": "rovatti-angelo"
+},
+{
+"slug": "achille-dellafiore",
+"nome": "Achille Dellafiore",
+"regione": "Lombardia",
+"comune": "Montù Beccaria",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"achille-dellafiore"
+],
+"primario": "achille-dellafiore"
+},
+{
+"slug": "provezza",
+"nome": "Provezza",
+"regione": "Lombardia",
+"comune": "Cazzago San Martino",
+"tipi": {
+"franciacorta": [
+"Franciacorta"
+],
+"valcamonica": [
+"Valcamonica"
+]
+},
+"membri": [
+"provezza"
+],
+"primario": "provezza"
+},
+{
+"slug": "aurelio-musso",
+"nome": "Aurelio Musso",
+"regione": "Lombardia",
+"comune": "Torrazza Coste",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"aurelio-musso"
+],
+"primario": "aurelio-musso"
+},
+{
+"slug": "cantine-bertelegni",
+"nome": "Cantine Bertelegni",
+"regione": "Lombardia",
+"comune": "Rocca Susella",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"cantine-bertelegni"
+],
+"primario": "cantine-bertelegni"
+},
+{
+"slug": "pasini",
+"nome": "Pasini",
+"regione": "Lombardia",
+"comune": "Raffa di Puegnago",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"pasini"
+],
+"primario": "pasini"
+},
+{
+"slug": "ca-daprati",
+"nome": "Ca Daprati",
+"regione": "Lombardia",
+"comune": "Montu' Beccaria",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"ca-daprati"
+],
+"primario": "ca-daprati"
+},
+{
+"slug": "borgolano",
+"nome": "Borgolano",
+"regione": "Lombardia",
+"comune": "Montescano",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese",
+"Bonarda dell’Oltrepò Pavese",
+"Buttafuoco",
+"Sangue di Giuda"
+]
+},
+"membri": [
+"borgolano"
+],
+"primario": "borgolano"
+},
+{
+"slug": "mantovani",
+"nome": "Mantovani",
+"regione": "Lombardia",
+"comune": "Mornico Losana",
+"tipi": {
+"oltrepo-pavese": [
+"Oltrepò Pavese"
+]
+},
+"membri": [
+"mantovani"
+],
+"primario": "mantovani"
+},
+{
+"slug": "santa-rita",
+"nome": "Santa Rita",
+"regione": "Lombardia",
+"comune": "Corvino San Quirico",
+"tipi": {
+"oltrepo-pavese": [
+"Bonarda dell’Oltrepò Pavese"
+]
+},
+"membri": [
+"santa-rita"
+],
+"primario": "santa-rita"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",

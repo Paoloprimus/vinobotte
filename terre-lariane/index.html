@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Concordia","s":"concordia","c":"Fino Mornasco","d":["Terre Lariane"]}];
+    const D=[{"n":"Concordia","s":"concordia","c":"Fino Mornasco","d":["Terre Lariane"]},{"n":"Tenuta Montecchio","s":"tenuta-montecchio","c":"Colico","d":["Terre Lariane"]},{"n":"Tenuta Valcurone","s":"tenuta-valcurone","c":"Montevecchia","d":["Terre Lariane"]},{"n":"Terrazze di Montevecchia","s":"terrazze-di-montevecchia","c":"La Valletta Brianza","d":["Terre Lariane"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
