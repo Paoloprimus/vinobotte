@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Frattina di Manlio della Frattina","s":"frattina-di-manlio-della-frattina","c":"Pravisdomini","d":["Lison","Lison Pramaggiore","Venezia"]},{"n":"Luigino Molon","s":"luigino-molon","c":"San Donà di Piave","d":["Piave","Venezia"]},{"n":"Principi di Porcia","s":"principi-di-porcia","c":"Azzano Decimo","d":["Lison","Lison Pramaggiore","Venezia"]},{"n":"Zucchetto Graziano","s":"zucchetto-graziano","c":"Sesto al Reghena","d":[]}];
+    const D=[{"n":"Frattina di Manlio della Frattina","s":"frattina-di-manlio-della-frattina","c":"Pravisdomini","d":["Lison","Lison Pramaggiore","Venezia"]},{"n":"Luigino Molon","s":"luigino-molon","c":"San Donà di Piave","d":["Piave","Venezia"]},{"n":"Piera 1899","s":"piera-1899","c":"San Quirino","d":["Venezia"]},{"n":"Principi di Porcia","s":"principi-di-porcia","c":"Azzano Decimo","d":["Lison","Lison Pramaggiore","Venezia"]},{"n":"Zucchetto Graziano","s":"zucchetto-graziano","c":"Sesto al Reghena","d":[]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');

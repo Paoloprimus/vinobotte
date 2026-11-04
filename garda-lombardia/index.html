@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Perla del Garda","s":"perla-del-garda","c":"Lonato del Garda","d":["Garda"]}];
+    const D=[{"n":"Averoldi","s":"averoldi","c":"Bedizzole","d":["Garda"]},{"n":"Bottenago","s":"bottenago","c":"Polpenazze del Garda","d":["Garda"]},{"n":"Bulgarini","s":"bulgarini","c":"Pozzolengo","d":["Garda"]},{"n":"Cantina Gozzi","s":"cantina-gozzi","c":"Monzambano","d":["Garda"]},{"n":"Cantine Filisina","s":"cantine-filisina","c":"Prevalle","d":["Garda"]},{"n":"Olivini","s":"olivini","c":"Desenzano del Garda","d":["Garda"]},{"n":"Oselara","s":"oselara","c":"Pozzolengo","d":["Garda"]},{"n":"Perla del Garda","s":"perla-del-garda","c":"Lonato del Garda","d":["Garda"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');

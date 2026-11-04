@@ -53174,6 +53174,171 @@
 "primario": "valdo"
 },
 {
+"slug": "cantine-pirovano",
+"nome": "Cantine Pirovano",
+"regione": "Lombardia",
+"comune": "Arlate di Calco",
+"tipi": {
+"prosecco": [
+"Prosecco DOC"
+]
+},
+"membri": [
+"cantine-pirovano"
+],
+"primario": "cantine-pirovano"
+},
+{
+"slug": "piera-1899",
+"nome": "Piera 1899",
+"regione": "Friuli Venezia Giulia",
+"comune": "San Quirino",
+"tipi": {
+"venezia": [
+"Venezia"
+]
+},
+"membri": [
+"piera-1899"
+],
+"primario": "piera-1899"
+},
+{
+"slug": "faltracco-vini",
+"nome": "Faltracco Vini",
+"regione": "Veneto",
+"comune": "Lerino di Torri di Quartesolo",
+"tipi": {
+"colli-berici": [
+"Colli Berici"
+]
+},
+"membri": [
+"faltracco-vini"
+],
+"primario": "faltracco-vini"
+},
+{
+"slug": "cantine-filisina",
+"nome": "Cantine Filisina",
+"regione": "Lombardia",
+"comune": "Prevalle",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"cantine-filisina"
+],
+"primario": "cantine-filisina"
+},
+{
+"slug": "bottenago",
+"nome": "Bottenago",
+"regione": "Lombardia",
+"comune": "Polpenazze del Garda",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"bottenago"
+],
+"primario": "bottenago"
+},
+{
+"slug": "oselara",
+"nome": "Oselara",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"oselara"
+],
+"primario": "oselara"
+},
+{
+"slug": "bulgarini",
+"nome": "Bulgarini",
+"regione": "Lombardia",
+"comune": "Pozzolengo",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"bulgarini"
+],
+"primario": "bulgarini"
+},
+{
+"slug": "olivini",
+"nome": "Olivini",
+"regione": "Lombardia",
+"comune": "Desenzano del Garda",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"olivini"
+],
+"primario": "olivini"
+},
+{
+"slug": "virgili",
+"nome": "Virgili",
+"regione": "Lombardia",
+"comune": "Mantova",
+"tipi": {
+"custoza": [
+"Custoza"
+]
+},
+"membri": [
+"virgili"
+],
+"primario": "virgili"
+},
+{
+"slug": "cantina-gozzi",
+"nome": "Cantina Gozzi",
+"regione": "Lombardia",
+"comune": "Monzambano",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"cantina-gozzi"
+],
+"primario": "cantina-gozzi"
+},
+{
+"slug": "averoldi",
+"nome": "Averoldi",
+"regione": "Lombardia",
+"comune": "Bedizzole",
+"tipi": {
+"garda": [
+"Garda"
+]
+},
+"membri": [
+"averoldi"
+],
+"primario": "averoldi"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
