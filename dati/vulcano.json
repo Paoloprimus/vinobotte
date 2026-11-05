@@ -1,0 +1,46 @@
+{
+ "nome": "Vulcano",
+ "slug": "vulcano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03782530798 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Piciara SS106, 88811 Cirò Marina (KR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 09621876736 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vulcanowine.com/|vulcanowine.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.vulcanowine.com/",
+   "etichetta": "vulcanowine.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa, consultato il 5 novembre 2026.",
+   "url": "https://www.consorzioviniciroemelissa.it/aziende/",
+   "etichetta": "consorzioviniciroemelissa.it"
+  }
+ ]
+}

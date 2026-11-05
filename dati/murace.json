@@ -1,0 +1,42 @@
+{
+ "nome": "Murace",
+ "slug": "murace",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01537120808 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Viale Giacomo Matteotti 32, 89040 Bivongi (RC) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.muracevini.it/|muracevini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela e valorizzazione delle viti e del vino DOC Bivongi [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.muracevini.it/",
+   "etichetta": "muracevini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di tutela e valorizzazione delle viti e del vino DOC Bivongi, consultato il 5 novembre 2026.",
+   "url": "https://www.docbivongi.it/aziende/",
+   "etichetta": "docbivongi.it"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "nome": "Agro di Saracena",
+ "slug": "agro-di-saracena",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01258050788 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via A. Casini, 87010 Saracena (CS) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "segreteria.saracena@asmepec.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.agrodisaracena.it/|agrodisaracena.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio vini Terre di Cosenza DOP [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.agrodisaracena.it/",
+   "etichetta": "agrodisaracena.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio vini Terre di Cosenza DOP, consultato il 5 novembre 2026.",
+   "url": "https://terredicosenza.com/aziende/",
+   "etichetta": "terredicosenza.com"
+  }
+ ]
+}

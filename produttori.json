@@ -67194,6 +67194,546 @@
 "primario": "casa-ventura"
 },
 {
+"slug": "statti",
+"nome": "Statti",
+"regione": "Calabria",
+"comune": "Lamezia Terme",
+"tipi": {
+"lamezia": [
+"Lamezia, Catanzaro e Squillace (Lamezia DOC, Scavigna, Squillace)"
+]
+},
+"membri": [
+"statti"
+],
+"primario": "statti"
+},
+{
+"slug": "lento",
+"nome": "Lento",
+"regione": "Calabria",
+"comune": "Amato",
+"tipi": {
+"lamezia": [
+"Lamezia, Catanzaro e Squillace (Lamezia DOC, Scavigna, Squillace)"
+]
+},
+"membri": [
+"lento"
+],
+"primario": "lento"
+},
+{
+"slug": "ceraudo",
+"nome": "Ceraudo",
+"regione": "Calabria",
+"comune": "Strongoli",
+"tipi": {
+"ciro-melissa": [
+"Cirò e Melissa"
+]
+},
+"membri": [
+"ceraudo"
+],
+"primario": "ceraudo"
+},
+{
+"slug": "terre-nobili",
+"nome": "Terre Nobili",
+"regione": "Calabria",
+"comune": "Montalto Uffugo",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"terre-nobili"
+],
+"primario": "terre-nobili"
+},
+{
+"slug": "crisera",
+"nome": "Criserà",
+"regione": "Calabria",
+"comune": "Reggio di Calabria",
+"tipi": {
+"reggio-calabria": [
+"Terre di Reggio Calabria"
+]
+},
+"membri": [
+"crisera"
+],
+"primario": "crisera"
+},
+{
+"slug": "termine-grosso",
+"nome": "Termine Grosso",
+"regione": "Calabria",
+"comune": "Roccabernarda",
+"tipi": {
+"ciro-melissa": [
+"Cirò e Melissa"
+]
+},
+"membri": [
+"termine-grosso"
+],
+"primario": "termine-grosso"
+},
+{
+"slug": "creta-paglia",
+"nome": "Creta Paglia",
+"regione": "Calabria",
+"comune": "Cervicati",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"creta-paglia"
+],
+"primario": "creta-paglia"
+},
+{
+"slug": "casa-comerci",
+"nome": "Casa Comerci",
+"regione": "Calabria",
+"comune": "Nicotera",
+"tipi": {
+"vibo": [
+"Vibo Valentia e Tropea"
+]
+},
+"membri": [
+"casa-comerci"
+],
+"primario": "casa-comerci"
+},
+{
+"slug": "terre-del-gufo",
+"nome": "Terre del Gufo",
+"regione": "Calabria",
+"comune": "Cosenza",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"terre-del-gufo"
+],
+"primario": "terre-del-gufo"
+},
+{
+"slug": "barone-di-bolaro",
+"nome": "Barone di Bolaro",
+"regione": "Calabria",
+"comune": "Reggio di Calabria",
+"tipi": {
+"reggio-calabria": [
+"Terre di Reggio Calabria"
+]
+},
+"membri": [
+"barone-di-bolaro"
+],
+"primario": "barone-di-bolaro"
+},
+{
+"slug": "antiche-vigne",
+"nome": "Antiche Vigne",
+"regione": "Calabria",
+"comune": "Rogliano",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"antiche-vigne"
+],
+"primario": "antiche-vigne"
+},
+{
+"slug": "giuseppe-calabrese",
+"nome": "Giuseppe Calabrese",
+"regione": "Calabria",
+"comune": "Saracena",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"giuseppe-calabrese"
+],
+"primario": "giuseppe-calabrese"
+},
+{
+"slug": "tenute-pacelli",
+"nome": "Tenute Pacelli",
+"regione": "Calabria",
+"comune": "Malvito",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"tenute-pacelli"
+],
+"primario": "tenute-pacelli"
+},
+{
+"slug": "le-moire",
+"nome": "Le Moire",
+"regione": "Calabria",
+"comune": "Motta Santa Lucia",
+"tipi": {
+"lamezia": [
+"Lamezia, Catanzaro e Squillace (Lamezia DOC, Scavigna, Squillace)"
+]
+},
+"membri": [
+"le-moire"
+],
+"primario": "le-moire"
+},
+{
+"slug": "cantina-masicei",
+"nome": "Cantina Masicei",
+"regione": "Calabria",
+"comune": "Drapia",
+"tipi": {
+"vibo": [
+"Vibo Valentia e Tropea"
+]
+},
+"membri": [
+"cantina-masicei"
+],
+"primario": "cantina-masicei"
+},
+{
+"slug": "antonella-lombardo",
+"nome": "Antonella Lombardo",
+"regione": "Calabria",
+"comune": "Bianco",
+"tipi": {
+"reggio-calabria": [
+"Terre di Reggio Calabria"
+]
+},
+"membri": [
+"antonella-lombardo"
+],
+"primario": "antonella-lombardo"
+},
+{
+"slug": "tenuta-barone-macri",
+"nome": "Tenuta Barone Macrì",
+"regione": "Calabria",
+"comune": "Locri",
+"tipi": {
+"reggio-calabria": [
+"Terre di Reggio Calabria"
+]
+},
+"membri": [
+"tenuta-barone-macri"
+],
+"primario": "tenuta-barone-macri"
+},
+{
+"slug": "nesci",
+"nome": "Nesci",
+"regione": "Calabria",
+"comune": "Palizzi",
+"tipi": {
+"reggio-calabria": [
+"Terre di Reggio Calabria"
+]
+},
+"membri": [
+"nesci"
+],
+"primario": "nesci"
+},
+{
+"slug": "maradei",
+"nome": "Maradei",
+"regione": "Calabria",
+"comune": "Saracena",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"maradei"
+],
+"primario": "maradei"
+},
+{
+"slug": "dell-aera",
+"nome": "Dell'Aera",
+"regione": "Calabria",
+"comune": "Catanzaro",
+"tipi": {
+"lamezia": [
+"Lamezia, Catanzaro e Squillace (Lamezia DOC, Scavigna, Squillace)"
+]
+},
+"membri": [
+"dell-aera"
+],
+"primario": "dell-aera"
+},
+{
+"slug": "nicotera-severisio",
+"nome": "Nicotera Severisio",
+"regione": "Calabria",
+"comune": "Lamezia Terme",
+"tipi": {
+"lamezia": [
+"Lamezia, Catanzaro e Squillace (Lamezia DOC, Scavigna, Squillace)"
+]
+},
+"membri": [
+"nicotera-severisio"
+],
+"primario": "nicotera-severisio"
+},
+{
+"slug": "terre-grecaniche",
+"nome": "Terre Grecaniche",
+"regione": "Calabria",
+"comune": "Palizzi",
+"tipi": {
+"reggio-calabria": [
+"Terre di Reggio Calabria"
+]
+},
+"membri": [
+"terre-grecaniche"
+],
+"primario": "terre-grecaniche"
+},
+{
+"slug": "de-caro",
+"nome": "De Caro",
+"regione": "Calabria",
+"comune": "Rende",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"de-caro"
+],
+"primario": "de-caro"
+},
+{
+"slug": "origine-identita",
+"nome": "Origine & Identità",
+"regione": "Calabria",
+"comune": "Ricadi",
+"tipi": {
+"vibo": [
+"Vibo Valentia e Tropea"
+]
+},
+"membri": [
+"origine-identita"
+],
+"primario": "origine-identita"
+},
+{
+"slug": "rocca-brettia",
+"nome": "Rocca Brettia",
+"regione": "Calabria",
+"comune": "Cosenza",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"rocca-brettia"
+],
+"primario": "rocca-brettia"
+},
+{
+"slug": "boccafolle",
+"nome": "Boccafolle",
+"regione": "Calabria",
+"comune": "Mottafollone",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"boccafolle"
+],
+"primario": "boccafolle"
+},
+{
+"slug": "aspromonte",
+"nome": "Aspromonte",
+"regione": "Calabria",
+"comune": "Ciminà",
+"tipi": {
+"reggio-calabria": [
+"Terre di Reggio Calabria"
+]
+},
+"membri": [
+"aspromonte"
+],
+"primario": "aspromonte"
+},
+{
+"slug": "antonio-malena",
+"nome": "Antonio Malena",
+"regione": "Calabria",
+"comune": "Cirò Marina",
+"tipi": {
+"ciro-melissa": [
+"Cirò e Melissa"
+]
+},
+"membri": [
+"antonio-malena"
+],
+"primario": "antonio-malena"
+},
+{
+"slug": "cantine-dastoli",
+"nome": "Cantine Dastoli",
+"regione": "Calabria",
+"comune": "Filadelfia",
+"tipi": {
+"vibo": [
+"Vibo Valentia e Tropea"
+]
+},
+"membri": [
+"cantine-dastoli"
+],
+"primario": "cantine-dastoli"
+},
+{
+"slug": "morrone",
+"nome": "Morrone",
+"regione": "Calabria",
+"comune": "Corigliano-Rossano",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"morrone"
+],
+"primario": "morrone"
+},
+{
+"slug": "tenute-mirabelli",
+"nome": "Tenute Mirabelli",
+"regione": "Calabria",
+"comune": "Malvito",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"tenute-mirabelli"
+],
+"primario": "tenute-mirabelli"
+},
+{
+"slug": "tenuta-santoro",
+"nome": "Tenuta Santoro",
+"regione": "Calabria",
+"comune": "Cirò",
+"tipi": {
+"ciro-melissa": [
+"Cirò e Melissa"
+]
+},
+"membri": [
+"tenuta-santoro"
+],
+"primario": "tenuta-santoro"
+},
+{
+"slug": "rocco-pirito",
+"nome": "Rocco Pirito",
+"regione": "Calabria",
+"comune": "Cirò",
+"tipi": {
+"ciro-melissa": [
+"Cirò e Melissa"
+]
+},
+"membri": [
+"rocco-pirito"
+],
+"primario": "rocco-pirito"
+},
+{
+"slug": "vini-battaglia",
+"nome": "Vini Battaglia",
+"regione": "Calabria",
+"comune": "Reggio di Calabria",
+"tipi": {
+"reggio-calabria": [
+"Terre di Reggio Calabria"
+]
+},
+"membri": [
+"vini-battaglia"
+],
+"primario": "vini-battaglia"
+},
+{
+"slug": "cantine-caccamo",
+"nome": "Cantine Caccamo",
+"regione": "Calabria",
+"comune": "Taurianova",
+"tipi": {
+"reggio-calabria": [
+"Terre di Reggio Calabria"
+]
+},
+"membri": [
+"cantine-caccamo"
+],
+"primario": "cantine-caccamo"
+},
+{
+"slug": "maddalona-del-casato",
+"nome": "Maddalona del Casato",
+"regione": "Calabria",
+"comune": "Cirò Marina",
+"tipi": {
+"ciro-melissa": [
+"Cirò e Melissa"
+]
+},
+"membri": [
+"maddalona-del-casato"
+],
+"primario": "maddalona-del-casato"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
@@ -83570,8 +84110,8 @@
 "primario": "terre-margaritelli"
 },
 {
-"slug": "soc-agr-de-luca",
-"nome": "Soc. Agr. De Luca",
+"slug": "cantine-de-luca",
+"nome": "Cantine De Luca",
 "regione": "Calabria",
 "comune": "Melissa",
 "tipi": {
@@ -83580,13 +84120,13 @@
 ]
 },
 "membri": [
-"soc-agr-de-luca"
+"cantine-de-luca"
 ],
-"primario": "soc-agr-de-luca"
+"primario": "cantine-de-luca"
 },
 {
-"slug": "librandi-antonio-e-nicodemo",
-"nome": "Librandi Antonio e Nicodemo",
+"slug": "librandi",
+"nome": "Librandi",
 "regione": "Calabria",
 "comune": "Cirò Marina",
 "tipi": {
@@ -83595,13 +84135,13 @@
 ]
 },
 "membri": [
-"librandi-antonio-e-nicodemo"
+"librandi"
 ],
-"primario": "librandi-antonio-e-nicodemo"
+"primario": "librandi"
 },
 {
-"slug": "fax-0962-88252-348-2260328",
-"nome": "Fax 0962-88252 – 348 2260328",
+"slug": "la-pizzuta-del-principe",
+"nome": "La Pizzuta del Principe",
 "regione": "Calabria",
 "comune": "Strongoli",
 "tipi": {
@@ -83610,13 +84150,13 @@
 ]
 },
 "membri": [
-"fax-0962-88252-348-2260328"
+"la-pizzuta-del-principe"
 ],
-"primario": "fax-0962-88252-348-2260328"
+"primario": "la-pizzuta-del-principe"
 },
 {
-"slug": "fax-39-0962-1905781",
-"nome": "Fax (+39) 0962 1905781",
+"slug": "russo-longo",
+"nome": "Russo & Longo",
 "regione": "Calabria",
 "comune": "Strongoli",
 "tipi": {
@@ -83625,9 +84165,9 @@
 ]
 },
 "membri": [
-"fax-39-0962-1905781"
+"russo-longo"
 ],
-"primario": "fax-39-0962-1905781"
+"primario": "russo-longo"
 },
 {
 "slug": "romano-adamo",
@@ -83645,8 +84185,8 @@
 "primario": "romano-adamo"
 },
 {
-"slug": "fax-39-0962-379152",
-"nome": "Fax (+39) 0962 379152",
+"slug": "tenuta-iuzzolini",
+"nome": "Tenuta Iuzzolini",
 "regione": "Calabria",
 "comune": "Cirò Marina",
 "tipi": {
@@ -83655,13 +84195,13 @@
 ]
 },
 "membri": [
-"fax-39-0962-379152"
+"tenuta-iuzzolini"
 ],
-"primario": "fax-39-0962-379152"
+"primario": "tenuta-iuzzolini"
 },
 {
-"slug": "cell-39-380-3679780",
-"nome": "Cell. (+39) 380 3679780",
+"slug": "baroni-capoano",
+"nome": "Baroni Capoano",
 "regione": "Calabria",
 "comune": "Cirò Marina",
 "tipi": {
@@ -83670,13 +84210,13 @@
 ]
 },
 "membri": [
-"cell-39-380-3679780"
+"baroni-capoano"
 ],
-"primario": "cell-39-380-3679780"
+"primario": "baroni-capoano"
 },
 {
-"slug": "fax-39-0962-31107",
-"nome": "Fax (+39) 0962 31107",
+"slug": "ippolito-1845",
+"nome": "Ippolito 1845",
 "regione": "Calabria",
 "comune": "Ciró Marina",
 "tipi": {
@@ -83685,13 +84225,13 @@
 ]
 },
 "membri": [
-"fax-39-0962-31107"
+"ippolito-1845"
 ],
-"primario": "fax-39-0962-31107"
+"primario": "ippolito-1845"
 },
 {
-"slug": "feudo-liguori-azienda-agricola-giuseppe-liguori",
-"nome": "FEUDO LIGUORI – Azienda Agricola Giuseppe Liguori",
+"slug": "feudo-liguori",
+"nome": "Feudo Liguori",
 "regione": "Calabria",
 "comune": "Terravecchia",
 "tipi": {
@@ -83700,13 +84240,13 @@
 ]
 },
 "membri": [
-"feudo-liguori-azienda-agricola-giuseppe-liguori"
+"feudo-liguori"
 ],
-"primario": "feudo-liguori-azienda-agricola-giuseppe-liguori"
+"primario": "feudo-liguori"
 },
 {
-"slug": "cantina-campana-di-cosentino-maria",
-"nome": "CANTINA CAMPANA di Cosentino Maria",
+"slug": "cantina-campana",
+"nome": "Cantina Campana",
 "regione": "Calabria",
 "comune": "Cirò Marina",
 "tipi": {
@@ -83715,9 +84255,9 @@
 ]
 },
 "membri": [
-"cantina-campana-di-cosentino-maria"
+"cantina-campana"
 ],
-"primario": "cantina-campana-di-cosentino-maria"
+"primario": "cantina-campana"
 },
 {
 "slug": "l-garbin",
@@ -99354,5 +99894,290 @@
 "azienda-agricola-filippo-grasso"
 ],
 "primario": "azienda-agricola-filippo-grasso"
+},
+{
+"slug": "poderi-marini",
+"nome": "Poderi Marini",
+"regione": "Calabria",
+"comune": "San Demetrio Corone",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"poderi-marini"
+],
+"primario": "poderi-marini"
+},
+{
+"slug": "verbicaro-viti-e-vini",
+"nome": "Verbicaro Viti e Vini",
+"regione": "Calabria",
+"comune": "Verbicaro",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"verbicaro-viti-e-vini"
+],
+"primario": "verbicaro-viti-e-vini"
+},
+{
+"slug": "terre-di-balbia",
+"nome": "Terre di Balbia",
+"regione": "Calabria",
+"comune": "Cosenza",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"terre-di-balbia"
+],
+"primario": "terre-di-balbia"
+},
+{
+"slug": "colacino-wines",
+"nome": "Colacino Wines",
+"regione": "Calabria",
+"comune": "Marzi",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"colacino-wines"
+],
+"primario": "colacino-wines"
+},
+{
+"slug": "agro-di-saracena",
+"nome": "Agro di Saracena",
+"regione": "Calabria",
+"comune": "Saracena",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"agro-di-saracena"
+],
+"primario": "agro-di-saracena"
+},
+{
+"slug": "la-matina",
+"nome": "La Matina",
+"regione": "Calabria",
+"comune": "San Marco Argentano",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"la-matina"
+],
+"primario": "la-matina"
+},
+{
+"slug": "le-conche",
+"nome": "Le Conche",
+"regione": "Calabria",
+"comune": "Bisignano",
+"tipi": {
+"terre-di-cosenza": [
+"Terre di Cosenza"
+]
+},
+"membri": [
+"le-conche"
+],
+"primario": "le-conche"
+},
+{
+"slug": "igreco",
+"nome": "iGreco",
+"regione": "Calabria",
+"comune": "Cariati",
+"tipi": {
+"ciro-melissa": [
+"Cirò e Melissa"
+]
+},
+"membri": [
+"igreco"
+],
+"primario": "igreco"
+},
+{
+"slug": "casa-vinicola-giuseppe-luca",
+"nome": "Casa Vinicola Giuseppe Lucà",
+"regione": "Calabria",
+"comune": "Cirò Marina",
+"tipi": {
+"ciro-melissa": [
+"Cirò e Melissa"
+]
+},
+"membri": [
+"casa-vinicola-giuseppe-luca"
+],
+"primario": "casa-vinicola-giuseppe-luca"
+},
+{
+"slug": "vinicola-mangone",
+"nome": "Vinicola Mangone",
+"regione": "Calabria",
+"comune": "Mandatoriccio",
+"tipi": {
+"ciro-melissa": [
+"Cirò e Melissa"
+]
+},
+"membri": [
+"vinicola-mangone"
+],
+"primario": "vinicola-mangone"
+},
+{
+"slug": "caparra-siciliani",
+"nome": "Caparra & Siciliani",
+"regione": "Calabria",
+"comune": "Cirò Marina",
+"tipi": {
+"ciro-melissa": [
+"Cirò e Melissa"
+]
+},
+"membri": [
+"caparra-siciliani"
+],
+"primario": "caparra-siciliani"
+},
+{
+"slug": "vulcano",
+"nome": "Vulcano",
+"regione": "Calabria",
+"comune": "Cirò Marina",
+"tipi": {
+"ciro-melissa": [
+"Cirò e Melissa"
+]
+},
+"membri": [
+"vulcano"
+],
+"primario": "vulcano"
+},
+{
+"slug": "antichi-vigneti-sculco",
+"nome": "Antichi Vigneti Sculco",
+"regione": "Calabria",
+"comune": "Cirò Marina",
+"tipi": {
+"ciro-melissa": [
+"Cirò e Melissa"
+]
+},
+"membri": [
+"antichi-vigneti-sculco"
+],
+"primario": "antichi-vigneti-sculco"
+},
+{
+"slug": "zito",
+"nome": "Zito",
+"regione": "Calabria",
+"comune": "Cirò Marina",
+"tipi": {
+"ciro-melissa": [
+"Cirò e Melissa"
+]
+},
+"membri": [
+"zito"
+],
+"primario": "zito"
+},
+{
+"slug": "brigante",
+"nome": "Brigante",
+"regione": "Calabria",
+"comune": "Cirò",
+"tipi": {
+"ciro-melissa": [
+"Cirò e Melissa"
+]
+},
+"membri": [
+"brigante"
+],
+"primario": "brigante"
+},
+{
+"slug": "murace",
+"nome": "Murace",
+"regione": "Calabria",
+"comune": "Bivongi",
+"tipi": {
+"bivongi": [
+"Bivongi"
+]
+},
+"membri": [
+"murace"
+],
+"primario": "murace"
+},
+{
+"slug": "tenuta-diecimani",
+"nome": "Tenuta DieciMani",
+"regione": "Calabria",
+"comune": "Stilo",
+"tipi": {
+"bivongi": [
+"Bivongi"
+]
+},
+"membri": [
+"tenuta-diecimani"
+],
+"primario": "tenuta-diecimani"
+},
+{
+"slug": "casa-ponziana",
+"nome": "Casa Ponziana",
+"regione": "Calabria",
+"comune": "Riace",
+"tipi": {
+"bivongi": [
+"Bivongi"
+]
+},
+"membri": [
+"casa-ponziana"
+],
+"primario": "casa-ponziana"
+},
+{
+"slug": "tramontana",
+"nome": "Tramontana",
+"regione": "Calabria",
+"comune": "Reggio di Calabria",
+"tipi": {
+"reggio-calabria": [
+"Terre di Reggio Calabria"
+]
+},
+"membri": [
+"tramontana"
+],
+"primario": "tramontana"
 }
 ]

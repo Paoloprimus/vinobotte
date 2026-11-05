@@ -1,0 +1,46 @@
+{
+ "nome": "Antichi Vigneti Sculco",
+ "slug": "antichi-vigneti-sculco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03336400795 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Scalaretto, 88811 Cirò Marina (KR) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "antichivignetisculco@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.antichivigneti.it/|antichivigneti.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.antichivigneti.it/",
+   "etichetta": "antichivigneti.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa, consultato il 5 novembre 2026.",
+   "url": "https://www.consorzioviniciroemelissa.it/aziende/",
+   "etichetta": "consorzioviniciroemelissa.it"
+  }
+ ]
+}

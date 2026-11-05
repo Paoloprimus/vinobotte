@@ -281,3 +281,12 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 128 — Sicilia chiusa
 - Registro `sicilia-chiusura.md`; `stato-consorzi.csv` righe 71, 73, 98, 100, 105, 128, 130. Sicilia 247; guida 6.304.
+
+## 129 — Calabria: consorzi
+- Corretti i nomi di 9 schede Cirò e Melissa (fax e ragioni sociali al posto del nome). Elenchi Cirò e Melissa, Cosenza, Bivongi, Reggio senza siti: 113 soci cercati; 19 schede.
+
+## 130 — Calabria: Vivino
+- Scaricato Vivino (343); 115 candidate dopo i consorzi; +36 schede. Due pagine nuove.
+
+## 131 — Calabria chiusa
+- Registro `calabria-chiusura.md`; `stato-consorzi.csv` righe 19, 93, 116, 119, 137. Calabria 65; guida 6.359.

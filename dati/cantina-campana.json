@@ -1,0 +1,50 @@
+{
+ "nome": "Cantina Campana",
+ "slug": "cantina-campana",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03726160793 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Stazione, 20, 88811 Cirò Marina (KR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 348 229 1998 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinacampana.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinacampana.it|cantinacampana.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.cantinacampana.it",
+   "etichetta": "cantinacampana.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio per la tutela e la valorizzazione dei vini DOC Cirò e Melissa, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorzioviniciroemelissa.it/aziende/",
+   "etichetta": "consorzioviniciroemelissa.it"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "nome": "Tramontana",
+ "slug": "tramontana",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Casa Savoia, 156, 89135 Reggio di Calabria (RC) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0965 370067 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinitramontana.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinitramontana.com/|vinitramontana.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Terre di Reggio Calabria [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.vinitramontana.com/",
+   "etichetta": "vinitramontana.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Terre di Reggio Calabria, consultato il 5 novembre 2026.",
+   "url": "https://www.terredireggiocalabria.it/soci/",
+   "etichetta": "terredireggiocalabria.it"
+  }
+ ]
+}

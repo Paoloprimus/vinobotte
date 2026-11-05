@@ -1,0 +1,46 @@
+{
+ "nome": "Casa Ponziana",
+ "slug": "casa-ponziana",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01743470799 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Nazionale S.S. 106 snc, 89040 Riace (RC) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "casaponziana@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.casaponziana.it/|casaponziana.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela e valorizzazione delle viti e del vino DOC Bivongi [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.casaponziana.it/",
+   "etichetta": "casaponziana.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di tutela e valorizzazione delle viti e del vino DOC Bivongi, consultato il 5 novembre 2026.",
+   "url": "https://www.docbivongi.it/aziende/",
+   "etichetta": "docbivongi.it"
+  }
+ ]
+}

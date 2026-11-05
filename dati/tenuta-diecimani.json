@@ -1,0 +1,42 @@
+{
+ "nome": "Tenuta DieciMani",
+ "slug": "tenuta-diecimani",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Salti, 89049 Stilo (RC) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "alessandromeli13@pec.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://tenutadiecimani.com/en/|tenutadiecimani.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela e valorizzazione delle viti e del vino DOC Bivongi [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://tenutadiecimani.com/en/",
+   "etichetta": "tenutadiecimani.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di tutela e valorizzazione delle viti e del vino DOC Bivongi, consultato il 5 novembre 2026.",
+   "url": "https://www.docbivongi.it/aziende/",
+   "etichetta": "docbivongi.it"
+  }
+ ]
+}

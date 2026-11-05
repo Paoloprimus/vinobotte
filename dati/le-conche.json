@@ -1,0 +1,42 @@
+{
+ "nome": "Le Conche",
+ "slug": "le-conche",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Franci, 87043 Bisignano (CS) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "leconche@leconche.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.leconche.it/|leconche.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio vini Terre di Cosenza DOP [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.leconche.it/",
+   "etichetta": "leconche.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio vini Terre di Cosenza DOP, consultato il 5 novembre 2026.",
+   "url": "https://terredicosenza.com/aziende/",
+   "etichetta": "terredicosenza.com"
+  }
+ ]
+}
