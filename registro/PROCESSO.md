@@ -266,3 +266,9 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 123 — Puglia chiusa
 - Registro `puglia-chiusura.md`; `stato-consorzi.csv` righe 36, 91, 107, 108, 112. Puglia 198; guida 6.033.
+
+## 124 — Liguria: Vivino
+- Nessun consorzio ligure pubblica l'elenco soci. Scaricato Vivino (366); 131 candidate non in guida; sito 63; sede 35; +35 nuove schede. Quattro pagine nuove.
+
+## 125 — Liguria chiusa
+- Registro `liguria-chiusura.md`; `stato-consorzi.csv` riga 117. Liguria 47; guida 6.068.

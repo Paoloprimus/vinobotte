@@ -32429,5 +32429,703 @@
     "Puglia"
    ]
   }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "fontanacota",
+  "nome": "Fontanacota",
+  "comune": "Pornassio",
+  "sede": "Strada Provinciale 137, 18024 Pornassio (IM)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.fontanacota.it",
+  "dom": "fontanacota.it",
+  "storia": "",
+  "den": "Ormeasco di Pornassio; Pornassio; Riviera Ligure di Ponente; Pigato; Vermentino; Finale; Granaccia; Ormeasco",
+  "tipi": {
+   "dolceacqua-pornassio": [
+    "Dolceacqua e Pornassio"
+   ],
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "paolo-deperi",
+  "nome": "Paolo Deperi",
+  "comune": "Ranzo",
+  "sede": "Fraz. Caneto 2, 18020 Ranzo (IM)",
+  "tel": "+39 333 3089919",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://deperi.eu/",
+  "dom": "deperi.eu",
+  "storia": "",
+  "den": "Ormeasco di Pornassio; Pornassio; Riviera Ligure di Ponente; Pigato; Vermentino; Albenga; Granaccia; Ormeasco",
+  "tipi": {
+   "dolceacqua-pornassio": [
+    "Dolceacqua e Pornassio"
+   ],
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "cantina-cinque-terre",
+  "nome": "Cantina Cinque Terre",
+  "comune": "Riomaggiore",
+  "sede": "Località Groppo, 19017 Riomaggiore (SP)",
+  "tel": "",
+  "contatti": "",
+  "rag": "Vernazza e Monterosso Società Agricola Cooperativa",
+  "sito": "https://cantina5terre.com/",
+  "dom": "cantina5terre.com",
+  "storia": "",
+  "den": "Cinque Terre; Sciacchetrà; Vermentino; Finale",
+  "tipi": {
+   "levante": [
+    "Levante"
+   ],
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "durin",
+  "nome": "Durin",
+  "comune": "Ortovero",
+  "sede": "Via Roma 202, 17037 Ortovero (SV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.durin.it",
+  "dom": "durin.it",
+  "storia": "",
+  "den": "Ormeasco di Pornassio; Pornassio; Riviera Ligure di Ponente; Pigato; Vermentino; Colline Savonesi; Granaccia; Ormeasco",
+  "tipi": {
+   "dolceacqua-pornassio": [
+    "Dolceacqua e Pornassio"
+   ],
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "feipu-dei-massaretti",
+  "nome": "Feipu dei Massaretti",
+  "comune": "Albenga",
+  "sede": "Reg. Massaretti 8, 17031 Albenga (SV)",
+  "tel": "+39 0182 20131",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://aziendamassaretti.it/",
+  "dom": "aziendamassaretti.it",
+  "storia": "",
+  "den": "Pigato; Albenga; Granaccia",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "maccario-dringenberg",
+  "nome": "Maccario Dringenberg",
+  "comune": "San Biagio della Cima",
+  "sede": "Via Torre 3, 18036 San Biagio della Cima (IM)",
+  "tel": "+39 333 206 3295",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.maccariodringenberg.it",
+  "dom": "maccariodringenberg.it",
+  "storia": "",
+  "den": "",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "poggio-dei-gorleri",
+  "nome": "Poggio dei Gorleri",
+  "comune": "Diano Arentino",
+  "sede": "Via San Leonardo 38, 18013 Diano Arentino (IM)",
+  "tel": "+39 320 701 4245",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://gorleriwineresort.com/",
+  "dom": "gorleriwineresort.com",
+  "storia": "",
+  "den": "Riviera Ligure di Ponente; Pigato; Vermentino; Albenga; Granaccia; Ormeasco",
+  "tipi": {
+   "dolceacqua-pornassio": [
+    "Dolceacqua e Pornassio"
+   ],
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "selvadolce",
+  "nome": "Selvadolce",
+  "comune": "Bordighera",
+  "sede": "Via Selvadolce 14, 18012 Bordighera (IM)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.selvadolce.it",
+  "dom": "selvadolce.it",
+  "storia": "",
+  "den": "",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "azienda-agricola-pino-gino",
+  "nome": "Azienda Agricola Pino Gino",
+  "comune": "Castiglione Chiavarese",
+  "sede": "Via Podestà 31, 16030 Castiglione Chiavarese (GE)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.pinogino.it",
+  "dom": "pinogino.it",
+  "storia": "",
+  "den": "Cinque Terre; Golfo del Tigullio; Portofino; Bianchetta Genovese; Vermentino",
+  "tipi": {
+   "levante": [
+    "Levante"
+   ],
+   "genova": [
+    "Genova"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "sancio",
+  "nome": "Sancio",
+  "comune": "Spotorno",
+  "sede": "Via Laiolo 73, 17028 Spotorno (SV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.cantinasancio.it/",
+  "dom": "cantinasancio.it",
+  "storia": "",
+  "den": "Pigato; Vermentino; Granaccia",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "tenuta-maffone",
+  "nome": "Tenuta Maffone",
+  "comune": "Pieve di Teco",
+  "sede": "Fraz. Acquetico, 18026 Pieve di Teco (IM)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://tenutamaffone.it/",
+  "dom": "tenutamaffone.it",
+  "storia": "",
+  "den": "Ormeasco di Pornassio; Pornassio; Riviera Ligure di Ponente; Pigato; Vermentino; Granaccia; Ormeasco",
+  "tipi": {
+   "dolceacqua-pornassio": [
+    "Dolceacqua e Pornassio"
+   ],
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "vis-amoris",
+  "nome": "Vis Amoris",
+  "comune": "Imperia",
+  "sede": "Strada Privata Molino Javè 23, 18100 Imperia (IM)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://visamoris.it/",
+  "dom": "visamoris.it",
+  "storia": "",
+  "den": "Pigato",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "ka-mancine",
+  "nome": "Ka* Manciné",
+  "comune": "Soldano",
+  "sede": "Via Maciurina n°7, 18036 Soldano (IM)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.kamancine.it",
+  "dom": "kamancine.it",
+  "storia": "",
+  "den": "",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "ca-du-ferra",
+  "nome": "Cà du Ferrà",
+  "comune": "Bonassola",
+  "sede": "Via Gavazzo snc, 19011 Bonassola (SP)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "http://www.agriturismo-caduferra.it/",
+  "dom": "agriturismo-caduferra.it",
+  "storia": "",
+  "den": "Cinque Terre",
+  "tipi": {
+   "levante": [
+    "Levante"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "anfosso",
+  "nome": "Anfosso",
+  "comune": "Chiusanico",
+  "sede": "Via IV Novembre 95, 18027 Chiusanico (IM)",
+  "tel": "+39 0183 52418",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.olioanfosso.com/",
+  "dom": "olioanfosso.com",
+  "storia": "",
+  "den": "Riviera dei Fiori",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "ingauni",
+  "nome": "Ingauni",
+  "comune": "Ortovero",
+  "sede": "Via Roma 3, 17037 Ortovero (SV)",
+  "tel": "+39 0182 547127",
+  "contatti": "",
+  "rag": "Le richieste vanno rivolte a Società Agricola Cooperativa",
+  "sito": "https://viticoltoriingauni.it/",
+  "dom": "viticoltoriingauni.it",
+  "storia": "",
+  "den": "Ormeasco di Pornassio; Pornassio; Riviera Ligure di Ponente; Pigato; Vermentino; Granaccia; Ormeasco",
+  "tipi": {
+   "dolceacqua-pornassio": [
+    "Dolceacqua e Pornassio"
+   ],
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "la-ricolla",
+  "nome": "La Ricolla",
+  "comune": "Ne",
+  "sede": "Via Giuseppe Garibaldi 12/2, 16040 Ne (GE)",
+  "tel": "+39 3928963918",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.laricolla.com",
+  "dom": "laricolla.com",
+  "storia": "",
+  "den": "",
+  "tipi": {
+   "genova": [
+    "Genova"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "i-cerri",
+  "nome": "I Cerri",
+  "comune": "Carro",
+  "sede": "Via Garibotti 9, 19012 Carro (SP)",
+  "tel": "+39 348 51 02 780",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://icerrivaldivara.it/",
+  "dom": "icerrivaldivara.it",
+  "storia": "",
+  "den": "Vermentino; Liguria di Levante; Granaccia",
+  "tipi": {
+   "levante": [
+    "Levante"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "crovara",
+  "nome": "Crovara",
+  "comune": "La Spezia",
+  "sede": "Via Pitelli 101, 19126 La Spezia (SP)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.crovara.com",
+  "dom": "crovara.com",
+  "storia": "",
+  "den": "",
+  "tipi": {
+   "levante": [
+    "Levante"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "andrea-bruzzone",
+  "nome": "Andrea Bruzzone",
+  "comune": "Genova",
+  "sede": "Via Bolzaneto 94 – 96r, 16162 Genova (GE)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://andreabruzzonevini.it/",
+  "dom": "andreabruzzonevini.it",
+  "storia": "",
+  "den": "Val Polcevera; Coronata; Bianchetta Genovese; Vermentino",
+  "tipi": {
+   "genova": [
+    "Genova"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "a-maccia",
+  "nome": "A Maccia",
+  "comune": "Montalto Carpasio",
+  "sede": "Via Umberto I 54, 18028 Montalto Carpasio (IM)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.amaccia.it",
+  "dom": "amaccia.it",
+  "storia": "",
+  "den": "Pigato; Ormeasco",
+  "tipi": {
+   "dolceacqua-pornassio": [
+    "Dolceacqua e Pornassio"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "gajaudo",
+  "nome": "Gajaudo",
+  "comune": "Isolabona",
+  "sede": "Strada Provinciale 7, 18035 Isolabona (IM)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.gajaudo.it",
+  "dom": "gajaudo.it",
+  "storia": "",
+  "den": "Rossese di Dolceacqua; Dolceacqua; Riviera Ligure di Ponente; Pigato; Vermentino",
+  "tipi": {
+   "dolceacqua-pornassio": [
+    "Dolceacqua e Pornassio"
+   ],
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "calleri",
+  "nome": "Calleri",
+  "comune": "Albenga",
+  "sede": "Via Corta 3, 17031 Albenga (SV)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://lavecchiacantinacalleri.it/",
+  "dom": "lavecchiacantinacalleri.it",
+  "storia": "",
+  "den": "Riviera Ligure di Ponente; Pigato; Vermentino; Albenga; Albenganese; Colline Savonesi; Granaccia",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "vetua",
+  "nome": "Vétua",
+  "comune": "Monterosso al Mare",
+  "sede": "Via IV Novembre, 19016 Monterosso al Mare (SP)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.cantinavetua.it/",
+  "dom": "cantinavetua.it",
+  "storia": "",
+  "den": "Cinque Terre; Vermentino",
+  "tipi": {
+   "levante": [
+    "Levante"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "du-nemu",
+  "nome": "Du Nemu",
+  "comune": "Camporosso",
+  "sede": "Corso Italia 216, 18033 Camporosso (IM)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.dunemu.it",
+  "dom": "dunemu.it",
+  "storia": "",
+  "den": "Rossese di Dolceacqua; Dolceacqua; Riviera Ligure di Ponente; Pigato; Finale",
+  "tipi": {
+   "dolceacqua-pornassio": [
+    "Dolceacqua e Pornassio"
+   ],
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "lombardi",
+  "nome": "Lombardi",
+  "comune": "Terzorio",
+  "sede": "Via Provinciale 52, 18010 Terzorio (IM)",
+  "tel": "+39 349-3521569",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.aziendaagricolalombardi.com/",
+  "dom": "aziendaagricolalombardi.com",
+  "storia": "",
+  "den": "Riviera Ligure di Ponente; Pigato; Vermentino; Finale; Terrazze dell'Imperiese; Granaccia",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "fratelli-giannarelli",
+  "nome": "Fratelli Giannarelli",
+  "comune": "Bolano",
+  "sede": "Via Giuseppe Garibaldi 102, 19020 Bolano (SP)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.fratelligiannarelli.com",
+  "dom": "fratelligiannarelli.com",
+  "storia": "",
+  "den": "Colli di Luni; Vermentino; Liguria di Levante",
+  "tipi": {
+   "colli-di-luni": [
+    "Colli di Luni"
+   ],
+   "levante": [
+    "Levante"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "torre-pernice",
+  "nome": "Torre Pernice",
+  "comune": "Albenga",
+  "sede": "Regione Torre Pernice 3, 17031 Albenga (SV)",
+  "tel": "+39 0182/20042",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://torrepernice.it/",
+  "dom": "torrepernice.it",
+  "storia": "",
+  "den": "Riviera Ligure di Ponente; Pigato; Vermentino; Albenga",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "lorenzo-ramo",
+  "nome": "Lorenzo Ramo",
+  "comune": "Pornassio",
+  "sede": "Via Sant’ Antonio 9, 18024 Pornassio (IM)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.lorenzoramo.com",
+  "dom": "lorenzoramo.com",
+  "storia": "",
+  "den": "Pornassio; Pigato; Ormeasco",
+  "tipi": {
+   "dolceacqua-pornassio": [
+    "Dolceacqua e Pornassio"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "cantine-sansteva",
+  "nome": "Cantine Sansteva",
+  "comune": "Santo Stefano al Mare",
+  "sede": "Via Francesco Ascquasciati snc, 18010 Santo Stefano al Mare (IM)",
+  "tel": "",
+  "contatti": "",
+  "rag": "Tenute MFR Società Agricola a",
+  "sito": "https://www.cantinesansteva.com",
+  "dom": "cantinesansteva.com",
+  "storia": "",
+  "den": "Riviera Ligure di Ponente; Pigato; Vermentino",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "rovebella",
+  "nome": "Rovebella",
+  "comune": "Santo Stefano al Mare",
+  "sede": "Strada Aicà 7/A, 18010 Santo Stefano al Mare (IM)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.rovebella.it",
+  "dom": "rovebella.it",
+  "storia": "",
+  "den": "Pigato; Vermentino; Granaccia",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "saglietto",
+  "nome": "Saglietto",
+  "comune": "Imperia",
+  "sede": "Strada Cianà, 18100 Imperia (IM)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.saglietto.it",
+  "dom": "saglietto.it",
+  "storia": "",
+  "den": "Riviera Ligure di Ponente; Pigato; Vermentino",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "innocenzo-turco",
+  "nome": "Innocenzo Turco",
+  "comune": "Quiliano",
+  "sede": "Via Bertone 7/a, 17047 Quiliano (SV)",
+  "tel": "+39 0199250445",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.innocenzoturco.it",
+  "dom": "innocenzoturco.it",
+  "storia": "",
+  "den": "Riviera Ligure di Ponente; Pigato; Colline Savonesi; Granaccia",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "massimo-alessandri",
+  "nome": "Massimo Alessandri",
+  "comune": "Ranzo",
+  "sede": "Via Costa Parrocchia 42, 18028 Ranzo (IM)",
+  "tel": "+39 0182 53458",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.massimoalessandri.it",
+  "dom": "massimoalessandri.it",
+  "storia": "",
+  "den": "Pigato; Vermentino; Granaccia",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
+ },
+ {
+  "regione": "Liguria",
+  "slug": "daniele-ronco",
+  "nome": "Daniele Ronco",
+  "comune": "Ranzo",
+  "sede": "Via Costa Parrocchia, 18020 Ranzo (IM)",
+  "tel": "",
+  "contatti": "",
+  "rag": "",
+  "sito": "https://www.aziendagricolaronco.it/index.htm",
+  "dom": "aziendagricolaronco.it",
+  "storia": "",
+  "den": "Riviera Ligure di Ponente; Pigato; Granaccia",
+  "tipi": {
+   "riviera-ponente": [
+    "Ponente"
+   ]
+  }
  }
 ]

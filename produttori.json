@@ -66366,6 +66366,564 @@
 "primario": "dono-dorato"
 },
 {
+"slug": "fontanacota",
+"nome": "Fontanacota",
+"regione": "Liguria",
+"comune": "Pornassio",
+"tipi": {
+"dolceacqua-pornassio": [
+"Dolceacqua e Pornassio"
+],
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"fontanacota"
+],
+"primario": "fontanacota"
+},
+{
+"slug": "paolo-deperi",
+"nome": "Paolo Deperi",
+"regione": "Liguria",
+"comune": "Ranzo",
+"tipi": {
+"dolceacqua-pornassio": [
+"Dolceacqua e Pornassio"
+],
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"paolo-deperi"
+],
+"primario": "paolo-deperi"
+},
+{
+"slug": "cantina-cinque-terre",
+"nome": "Cantina Cinque Terre",
+"regione": "Liguria",
+"comune": "Riomaggiore",
+"tipi": {
+"levante": [
+"Levante"
+],
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"cantina-cinque-terre"
+],
+"primario": "cantina-cinque-terre"
+},
+{
+"slug": "durin",
+"nome": "Durin",
+"regione": "Liguria",
+"comune": "Ortovero",
+"tipi": {
+"dolceacqua-pornassio": [
+"Dolceacqua e Pornassio"
+],
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"durin"
+],
+"primario": "durin"
+},
+{
+"slug": "feipu-dei-massaretti",
+"nome": "Feipu dei Massaretti",
+"regione": "Liguria",
+"comune": "Albenga",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"feipu-dei-massaretti"
+],
+"primario": "feipu-dei-massaretti"
+},
+{
+"slug": "maccario-dringenberg",
+"nome": "Maccario Dringenberg",
+"regione": "Liguria",
+"comune": "San Biagio della Cima",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"maccario-dringenberg"
+],
+"primario": "maccario-dringenberg"
+},
+{
+"slug": "poggio-dei-gorleri",
+"nome": "Poggio dei Gorleri",
+"regione": "Liguria",
+"comune": "Diano Arentino",
+"tipi": {
+"dolceacqua-pornassio": [
+"Dolceacqua e Pornassio"
+],
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"poggio-dei-gorleri"
+],
+"primario": "poggio-dei-gorleri"
+},
+{
+"slug": "selvadolce",
+"nome": "Selvadolce",
+"regione": "Liguria",
+"comune": "Bordighera",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"selvadolce"
+],
+"primario": "selvadolce"
+},
+{
+"slug": "azienda-agricola-pino-gino",
+"nome": "Azienda Agricola Pino Gino",
+"regione": "Liguria",
+"comune": "Castiglione Chiavarese",
+"tipi": {
+"levante": [
+"Levante"
+],
+"genova": [
+"Genova"
+]
+},
+"membri": [
+"azienda-agricola-pino-gino"
+],
+"primario": "azienda-agricola-pino-gino"
+},
+{
+"slug": "sancio",
+"nome": "Sancio",
+"regione": "Liguria",
+"comune": "Spotorno",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"sancio"
+],
+"primario": "sancio"
+},
+{
+"slug": "tenuta-maffone",
+"nome": "Tenuta Maffone",
+"regione": "Liguria",
+"comune": "Pieve di Teco",
+"tipi": {
+"dolceacqua-pornassio": [
+"Dolceacqua e Pornassio"
+],
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"tenuta-maffone"
+],
+"primario": "tenuta-maffone"
+},
+{
+"slug": "vis-amoris",
+"nome": "Vis Amoris",
+"regione": "Liguria",
+"comune": "Imperia",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"vis-amoris"
+],
+"primario": "vis-amoris"
+},
+{
+"slug": "ka-mancine",
+"nome": "Ka* Manciné",
+"regione": "Liguria",
+"comune": "Soldano",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"ka-mancine"
+],
+"primario": "ka-mancine"
+},
+{
+"slug": "ca-du-ferra",
+"nome": "Cà du Ferrà",
+"regione": "Liguria",
+"comune": "Bonassola",
+"tipi": {
+"levante": [
+"Levante"
+]
+},
+"membri": [
+"ca-du-ferra"
+],
+"primario": "ca-du-ferra"
+},
+{
+"slug": "anfosso",
+"nome": "Anfosso",
+"regione": "Liguria",
+"comune": "Chiusanico",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"anfosso"
+],
+"primario": "anfosso"
+},
+{
+"slug": "ingauni",
+"nome": "Ingauni",
+"regione": "Liguria",
+"comune": "Ortovero",
+"tipi": {
+"dolceacqua-pornassio": [
+"Dolceacqua e Pornassio"
+],
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"ingauni"
+],
+"primario": "ingauni"
+},
+{
+"slug": "la-ricolla",
+"nome": "La Ricolla",
+"regione": "Liguria",
+"comune": "Ne",
+"tipi": {
+"genova": [
+"Genova"
+]
+},
+"membri": [
+"la-ricolla"
+],
+"primario": "la-ricolla"
+},
+{
+"slug": "i-cerri",
+"nome": "I Cerri",
+"regione": "Liguria",
+"comune": "Carro",
+"tipi": {
+"levante": [
+"Levante"
+]
+},
+"membri": [
+"i-cerri"
+],
+"primario": "i-cerri"
+},
+{
+"slug": "crovara",
+"nome": "Crovara",
+"regione": "Liguria",
+"comune": "La Spezia",
+"tipi": {
+"levante": [
+"Levante"
+]
+},
+"membri": [
+"crovara"
+],
+"primario": "crovara"
+},
+{
+"slug": "andrea-bruzzone",
+"nome": "Andrea Bruzzone",
+"regione": "Liguria",
+"comune": "Genova",
+"tipi": {
+"genova": [
+"Genova"
+]
+},
+"membri": [
+"andrea-bruzzone"
+],
+"primario": "andrea-bruzzone"
+},
+{
+"slug": "a-maccia",
+"nome": "A Maccia",
+"regione": "Liguria",
+"comune": "Montalto Carpasio",
+"tipi": {
+"dolceacqua-pornassio": [
+"Dolceacqua e Pornassio"
+]
+},
+"membri": [
+"a-maccia"
+],
+"primario": "a-maccia"
+},
+{
+"slug": "gajaudo",
+"nome": "Gajaudo",
+"regione": "Liguria",
+"comune": "Isolabona",
+"tipi": {
+"dolceacqua-pornassio": [
+"Dolceacqua e Pornassio"
+],
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"gajaudo"
+],
+"primario": "gajaudo"
+},
+{
+"slug": "calleri",
+"nome": "Calleri",
+"regione": "Liguria",
+"comune": "Albenga",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"calleri"
+],
+"primario": "calleri"
+},
+{
+"slug": "vetua",
+"nome": "Vétua",
+"regione": "Liguria",
+"comune": "Monterosso al Mare",
+"tipi": {
+"levante": [
+"Levante"
+]
+},
+"membri": [
+"vetua"
+],
+"primario": "vetua"
+},
+{
+"slug": "du-nemu",
+"nome": "Du Nemu",
+"regione": "Liguria",
+"comune": "Camporosso",
+"tipi": {
+"dolceacqua-pornassio": [
+"Dolceacqua e Pornassio"
+],
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"du-nemu"
+],
+"primario": "du-nemu"
+},
+{
+"slug": "lombardi",
+"nome": "Lombardi",
+"regione": "Liguria",
+"comune": "Terzorio",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"lombardi"
+],
+"primario": "lombardi"
+},
+{
+"slug": "fratelli-giannarelli",
+"nome": "Fratelli Giannarelli",
+"regione": "Liguria",
+"comune": "Bolano",
+"tipi": {
+"colli-di-luni": [
+"Colli di Luni"
+],
+"levante": [
+"Levante"
+]
+},
+"membri": [
+"fratelli-giannarelli"
+],
+"primario": "fratelli-giannarelli"
+},
+{
+"slug": "torre-pernice",
+"nome": "Torre Pernice",
+"regione": "Liguria",
+"comune": "Albenga",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"torre-pernice"
+],
+"primario": "torre-pernice"
+},
+{
+"slug": "lorenzo-ramo",
+"nome": "Lorenzo Ramo",
+"regione": "Liguria",
+"comune": "Pornassio",
+"tipi": {
+"dolceacqua-pornassio": [
+"Dolceacqua e Pornassio"
+]
+},
+"membri": [
+"lorenzo-ramo"
+],
+"primario": "lorenzo-ramo"
+},
+{
+"slug": "cantine-sansteva",
+"nome": "Cantine Sansteva",
+"regione": "Liguria",
+"comune": "Santo Stefano al Mare",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"cantine-sansteva"
+],
+"primario": "cantine-sansteva"
+},
+{
+"slug": "rovebella",
+"nome": "Rovebella",
+"regione": "Liguria",
+"comune": "Santo Stefano al Mare",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"rovebella"
+],
+"primario": "rovebella"
+},
+{
+"slug": "saglietto",
+"nome": "Saglietto",
+"regione": "Liguria",
+"comune": "Imperia",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"saglietto"
+],
+"primario": "saglietto"
+},
+{
+"slug": "innocenzo-turco",
+"nome": "Innocenzo Turco",
+"regione": "Liguria",
+"comune": "Quiliano",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"innocenzo-turco"
+],
+"primario": "innocenzo-turco"
+},
+{
+"slug": "massimo-alessandri",
+"nome": "Massimo Alessandri",
+"regione": "Liguria",
+"comune": "Ranzo",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"massimo-alessandri"
+],
+"primario": "massimo-alessandri"
+},
+{
+"slug": "daniele-ronco",
+"nome": "Daniele Ronco",
+"regione": "Liguria",
+"comune": "Ranzo",
+"tipi": {
+"riviera-ponente": [
+"Ponente"
+]
+},
+"membri": [
+"daniele-ronco"
+],
+"primario": "daniele-ronco"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
