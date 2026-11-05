@@ -1,0 +1,40 @@
+{
+ "nome": "La Contralta",
+ "slug": "la-contralta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Giovanni Pascoli snc, Località Zappalli, 07020 Loiri Porto San Paolo (SS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "349 6806547 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "commerciale@lacontralta.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lacontralta.it|lacontralta.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Vermentino di Gallura [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di Tutela del Vermentino di Gallura, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vermentinogallura.wine/la-contralta/",
+   "etichetta": "vermentinogallura.wine"
+  }
+ ]
+}

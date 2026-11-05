@@ -1,0 +1,46 @@
+{
+ "nome": "Animas",
+ "slug": "animas",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03054160902 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Su Carru 12, Località Sos Campittos, 07026 Olbia (SS) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantineanimas.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantineanimas.com|cantineanimas.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Vermentino di Gallura [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cantineanimas.com",
+   "etichetta": "cantineanimas.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio di Tutela del Vermentino di Gallura, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vermentinogallura.wine/animas/",
+   "etichetta": "vermentinogallura.wine"
+  }
+ ]
+}

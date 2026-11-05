@@ -1,0 +1,46 @@
+{
+ "nome": "Cantina Vermentino di Monti",
+ "slug": "cantina-vermentino-di-monti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00072820905 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Paolo 2, 07020 Monti (SS) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "ordinionline@vermentinomonti.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vermentinomonti.it|vermentinomonti.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Vermentino di Gallura [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.vermentinomonti.it",
+   "etichetta": "vermentinomonti.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio di Tutela del Vermentino di Gallura, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vermentinogallura.wine/cantina-vermentino-di-monti/",
+   "etichetta": "vermentinogallura.wine"
+  }
+ ]
+}

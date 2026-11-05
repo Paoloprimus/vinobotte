@@ -1,0 +1,36 @@
+{
+ "nome": "Azienda Agricola Ledà",
+ "slug": "azienda-agricola-leda",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Arenosu 23, 07041 Alghero (SS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3392076213 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ledadittiri.it [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini di Alghero [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini di Alghero, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.algherodoc.it/cantine/azienda-agricola-leda.html",
+   "etichetta": "algherodoc.it"
+  }
+ ]
+}

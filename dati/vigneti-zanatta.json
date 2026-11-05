@@ -1,0 +1,40 @@
+{
+ "nome": "Vigneti Zanatta",
+ "slug": "vigneti-zanatta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via dello Spirito Santo, 56, 07026 Olbia (SS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "348 6679492 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vignetizanatta.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vignetizanatta.it|vignetizanatta.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Vermentino di Gallura [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di Tutela del Vermentino di Gallura, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vermentinogallura.wine/vigneti-zanatta/",
+   "etichetta": "vermentinogallura.wine"
+  }
+ ]
+}

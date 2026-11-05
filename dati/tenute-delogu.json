@@ -1,0 +1,50 @@
+{
+ "nome": "Tenute Delogu",
+ "slug": "tenute-delogu",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02537560902 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "SS 291 Sassari-Fertilia km 22, 07100 Sassari (SS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3452862861 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutedelogu.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutedelogu.com|tenutedelogu.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini di Alghero [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.tenutedelogu.com",
+   "etichetta": "tenutedelogu.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini di Alghero, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.algherodoc.it/cantine/tenute-delogu.html",
+   "etichetta": "algherodoc.it"
+  }
+ ]
+}

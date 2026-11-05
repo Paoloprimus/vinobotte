@@ -1,0 +1,50 @@
+{
+ "nome": "Tondini",
+ "slug": "tondini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02974760908 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località San Leonardo, 07023 Calangianus (SS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 079 661359 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinatondini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinatondini.it|cantinatondini.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Vermentino di Gallura [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cantinatondini.it",
+   "etichetta": "cantinatondini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio di Tutela del Vermentino di Gallura, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vermentinogallura.wine/tondini/",
+   "etichetta": "vermentinogallura.wine"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "nome": "Tenute Gregu",
+ "slug": "tenute-gregu",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02487030906 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Ragusa 3, 07026 Olbia (SS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "348 0364383 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutegregu.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutegregu.com|tenutegregu.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Vermentino di Gallura [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.tenutegregu.com",
+   "etichetta": "tenutegregu.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio di Tutela del Vermentino di Gallura, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vermentinogallura.wine/tenute-gregu/",
+   "etichetta": "vermentinogallura.wine"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "nome": "Siddùra",
+ "slug": "siddura",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02318880909 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Siddùra snc, 07020 Luogosanto (SS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "079 6573027 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "marketing@siddura.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.siddura.com|siddura.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Vermentino di Gallura [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.siddura.com",
+   "etichetta": "siddura.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio di Tutela del Vermentino di Gallura, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vermentinogallura.wine/siddura/",
+   "etichetta": "vermentinogallura.wine"
+  }
+ ]
+}

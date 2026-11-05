@@ -1,0 +1,50 @@
+{
+ "nome": "Tanca Raina",
+ "slug": "tanca-raina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02514190905 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Sa Raina, SP 147 Monti-Telti km 3, 07020 Monti (SS) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3296154885 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tancaraina.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tancaraina.it|tancaraina.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Vermentino di Gallura [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.tancaraina.it",
+   "etichetta": "tancaraina.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio di Tutela del Vermentino di Gallura, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vermentinogallura.wine/tanca-raina/",
+   "etichetta": "vermentinogallura.wine"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "nome": "Tenute Ledda",
+ "slug": "tenute-ledda",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Musio 13, 07043 Bonnanaro (SS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 079 845060 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vitivinicolaledda.com [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Vermentino di Gallura [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di Tutela del Vermentino di Gallura, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vermentinogallura.wine/tenute-ledda/",
+   "etichetta": "vermentinogallura.wine"
+  }
+ ]
+}

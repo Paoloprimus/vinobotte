@@ -1,0 +1,40 @@
+{
+ "nome": "Cantina Tani",
+ "slug": "cantina-tani",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Conca Sa Raighina, 07020 Monti (SS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "335472221 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinatani.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinatani.it|cantinatani.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Vermentino di Gallura [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di Tutela del Vermentino di Gallura, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vermentinogallura.wine/tani/",
+   "etichetta": "vermentinogallura.wine"
+  }
+ ]
+}

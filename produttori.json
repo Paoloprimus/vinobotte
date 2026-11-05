@@ -73764,6 +73764,1341 @@
 "primario": "cantine-del-notaio"
 },
 {
+"slug": "tenute-maestrale",
+"nome": "Tenute Maestrale",
+"regione": "Sardegna",
+"comune": "Donori",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"tenute-maestrale"
+],
+"primario": "tenute-maestrale"
+},
+{
+"slug": "argiolas",
+"nome": "Argiolas",
+"regione": "Sardegna",
+"comune": "Serdiana",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"argiolas"
+],
+"primario": "argiolas"
+},
+{
+"slug": "tenute-dettori",
+"nome": "Tenute Dettori",
+"regione": "Sardegna",
+"comune": "Sennori",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"tenute-dettori"
+],
+"primario": "tenute-dettori"
+},
+{
+"slug": "giuseppe-sedilesu",
+"nome": "Giuseppe Sedilesu",
+"regione": "Sardegna",
+"comune": "Mamoiada",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"giuseppe-sedilesu"
+],
+"primario": "giuseppe-sedilesu"
+},
+{
+"slug": "cantina-giba",
+"nome": "Cantina Giba",
+"regione": "Sardegna",
+"comune": "Giba",
+"tipi": {
+"sulcis": [
+"Sulcis e Carignano del Sulcis"
+]
+},
+"membri": [
+"cantina-giba"
+],
+"primario": "cantina-giba"
+},
+{
+"slug": "cantina-del-mandrolisai",
+"nome": "Cantina del Mandrolisai",
+"regione": "Sardegna",
+"comune": "Sorgono",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"cantina-del-mandrolisai"
+],
+"primario": "cantina-del-mandrolisai"
+},
+{
+"slug": "adriano-dessena",
+"nome": "Adriano Dessena",
+"regione": "Sardegna",
+"comune": "Benetutti",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"adriano-dessena"
+],
+"primario": "adriano-dessena"
+},
+{
+"slug": "cantine-fraponti",
+"nome": "Cantine Fraponti",
+"regione": "Sardegna",
+"comune": "Quartu Sant'Elena",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"cantine-fraponti"
+],
+"primario": "cantine-fraponti"
+},
+{
+"slug": "contini",
+"nome": "Contini",
+"regione": "Sardegna",
+"comune": "Cabras",
+"tipi": {
+"oristano": [
+"Oristano e Vernaccia di Oristano"
+]
+},
+"membri": [
+"contini"
+],
+"primario": "contini"
+},
+{
+"slug": "mesa",
+"nome": "Mesa",
+"regione": "Sardegna",
+"comune": "Sant'Anna Arresi",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"mesa"
+],
+"primario": "mesa"
+},
+{
+"slug": "cantina-di-dolianova",
+"nome": "Cantina di Dolianova",
+"regione": "Sardegna",
+"comune": "Dolianova",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"cantina-di-dolianova"
+],
+"primario": "cantina-di-dolianova"
+},
+{
+"slug": "antichi-poderi-jerzu",
+"nome": "Antichi Poderi Jerzu",
+"regione": "Sardegna",
+"comune": "Jerzu",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"antichi-poderi-jerzu"
+],
+"primario": "antichi-poderi-jerzu"
+},
+{
+"slug": "giogantinu",
+"nome": "Giogantinu",
+"regione": "Sardegna",
+"comune": "Berchidda",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"giogantinu"
+],
+"primario": "giogantinu"
+},
+{
+"slug": "sardus-pater",
+"nome": "Sardus Pater",
+"regione": "Sardegna",
+"comune": "Sant'Antioco",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"sardus-pater"
+],
+"primario": "sardus-pater"
+},
+{
+"slug": "asinara",
+"nome": "Asinara",
+"regione": "Sardegna",
+"comune": "Sorso",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"asinara"
+],
+"primario": "asinara"
+},
+{
+"slug": "audarya",
+"nome": "Audarya",
+"regione": "Sardegna",
+"comune": "Serdiana",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"audarya"
+],
+"primario": "audarya"
+},
+{
+"slug": "vinicola-cherchi",
+"nome": "Vinicola Cherchi",
+"regione": "Sardegna",
+"comune": "Usini",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"vinicola-cherchi"
+],
+"primario": "vinicola-cherchi"
+},
+{
+"slug": "poderi-parpinello",
+"nome": "Poderi Parpinello",
+"regione": "Sardegna",
+"comune": "Alghero",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"poderi-parpinello"
+],
+"primario": "poderi-parpinello"
+},
+{
+"slug": "depperu",
+"nome": "Depperu",
+"regione": "Sardegna",
+"comune": "Luras",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"depperu"
+],
+"primario": "depperu"
+},
+{
+"slug": "olianas",
+"nome": "Olianas",
+"regione": "Sardegna",
+"comune": "Gergei",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"olianas"
+],
+"primario": "olianas"
+},
+{
+"slug": "pedres",
+"nome": "Pedres",
+"regione": "Sardegna",
+"comune": "Olbia",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"pedres"
+],
+"primario": "pedres"
+},
+{
+"slug": "trexenta",
+"nome": "Trexenta",
+"regione": "Sardegna",
+"comune": "Senorbì",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"trexenta"
+],
+"primario": "trexenta"
+},
+{
+"slug": "antonella-corda",
+"nome": "Antonella Corda",
+"regione": "Sardegna",
+"comune": "Serdiana",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"antonella-corda"
+],
+"primario": "antonella-corda"
+},
+{
+"slug": "quartomoro",
+"nome": "Quartomoro",
+"regione": "Sardegna",
+"comune": "Marrubiu",
+"tipi": {
+"oristano": [
+"Oristano e Vernaccia di Oristano"
+]
+},
+"membri": [
+"quartomoro"
+],
+"primario": "quartomoro"
+},
+{
+"slug": "calasetta",
+"nome": "Calasetta",
+"regione": "Sardegna",
+"comune": "Calasetta",
+"tipi": {
+"sulcis": [
+"Sulcis e Carignano del Sulcis"
+]
+},
+"membri": [
+"calasetta"
+],
+"primario": "calasetta"
+},
+{
+"slug": "ferruccio-deiana",
+"nome": "Ferruccio Deiana",
+"regione": "Sardegna",
+"comune": "Settimo San Pietro",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"ferruccio-deiana"
+],
+"primario": "ferruccio-deiana"
+},
+{
+"slug": "fratelli-puddu",
+"nome": "Fratelli Puddu",
+"regione": "Sardegna",
+"comune": "Oliena",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"fratelli-puddu"
+],
+"primario": "fratelli-puddu"
+},
+{
+"slug": "silvio-carta",
+"nome": "Silvio Carta",
+"regione": "Sardegna",
+"comune": "Zeddiani",
+"tipi": {
+"oristano": [
+"Oristano e Vernaccia di Oristano"
+]
+},
+"membri": [
+"silvio-carta"
+],
+"primario": "silvio-carta"
+},
+{
+"slug": "tenute-soletta",
+"nome": "Tenute Soletta",
+"regione": "Sardegna",
+"comune": "Codrongianos",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"tenute-soletta"
+],
+"primario": "tenute-soletta"
+},
+{
+"slug": "tenuta-l-ariosa",
+"nome": "Tenuta l'Ariosa",
+"regione": "Sardegna",
+"comune": "Sassari",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"tenuta-l-ariosa"
+],
+"primario": "tenuta-l-ariosa"
+},
+{
+"slug": "poderi-atha-ruja",
+"nome": "Poderi Atha Ruja",
+"regione": "Sardegna",
+"comune": "Dorgali",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"poderi-atha-ruja"
+],
+"primario": "poderi-atha-ruja"
+},
+{
+"slug": "chessa",
+"nome": "Chessa",
+"regione": "Sardegna",
+"comune": "Usini",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"chessa"
+],
+"primario": "chessa"
+},
+{
+"slug": "fradiles",
+"nome": "Fradiles",
+"regione": "Sardegna",
+"comune": "Atzara",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"fradiles"
+],
+"primario": "fradiles"
+},
+{
+"slug": "vikevike",
+"nome": "Vikevike",
+"regione": "Sardegna",
+"comune": "Mamoiada",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"vikevike"
+],
+"primario": "vikevike"
+},
+{
+"slug": "iolei",
+"nome": "Iolei",
+"regione": "Sardegna",
+"comune": "Oliena",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"iolei"
+],
+"primario": "iolei"
+},
+{
+"slug": "cantine-di-orgosolo",
+"nome": "Cantine di Orgosolo",
+"regione": "Sardegna",
+"comune": "Orgosolo",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"cantine-di-orgosolo"
+],
+"primario": "cantine-di-orgosolo"
+},
+{
+"slug": "salto-di-coloras",
+"nome": "Salto di Coloras",
+"regione": "Sardegna",
+"comune": "Tresnuraghes",
+"tipi": {
+"oristano": [
+"Oristano e Vernaccia di Oristano"
+]
+},
+"membri": [
+"salto-di-coloras"
+],
+"primario": "salto-di-coloras"
+},
+{
+"slug": "podere-guardia-grande",
+"nome": "Podere Guardia Grande",
+"regione": "Sardegna",
+"comune": "Alghero",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"podere-guardia-grande"
+],
+"primario": "podere-guardia-grande"
+},
+{
+"slug": "binzamanna",
+"nome": "Binzamanna",
+"regione": "Sardegna",
+"comune": "Martis",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"binzamanna"
+],
+"primario": "binzamanna"
+},
+{
+"slug": "teularju",
+"nome": "Teularju",
+"regione": "Sardegna",
+"comune": "Mamoiada",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"teularju"
+],
+"primario": "teularju"
+},
+{
+"slug": "le-tenute-di-carlo-pili",
+"nome": "Le Tenute di Carlo Pili",
+"regione": "Sardegna",
+"comune": "Soleminis",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"le-tenute-di-carlo-pili"
+],
+"primario": "le-tenute-di-carlo-pili"
+},
+{
+"slug": "viticoltori-romangia",
+"nome": "Viticoltori Romangia",
+"regione": "Sardegna",
+"comune": "Sorso",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"viticoltori-romangia"
+],
+"primario": "viticoltori-romangia"
+},
+{
+"slug": "tenute-faladas",
+"nome": "Tenute Faladas",
+"regione": "Sardegna",
+"comune": "Luras",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"tenute-faladas"
+],
+"primario": "tenute-faladas"
+},
+{
+"slug": "pedra-majore",
+"nome": "Pedra Majore",
+"regione": "Sardegna",
+"comune": "Monti",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"pedra-majore"
+],
+"primario": "pedra-majore"
+},
+{
+"slug": "francesco-cadinu",
+"nome": "Francesco Cadinu",
+"regione": "Sardegna",
+"comune": "Mamoiada",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"francesco-cadinu"
+],
+"primario": "francesco-cadinu"
+},
+{
+"slug": "cantine-antigori",
+"nome": "Cantine Antigori",
+"regione": "Sardegna",
+"comune": "Capoterra",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"cantine-antigori"
+],
+"primario": "cantine-antigori"
+},
+{
+"slug": "tenute-rossini",
+"nome": "Tenute Rossini",
+"regione": "Sardegna",
+"comune": "Laerru",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"tenute-rossini"
+],
+"primario": "tenute-rossini"
+},
+{
+"slug": "vigne-deriu",
+"nome": "Vigne Deriu",
+"regione": "Sardegna",
+"comune": "Codrongianos",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"vigne-deriu"
+],
+"primario": "vigne-deriu"
+},
+{
+"slug": "antichi-vigneti-manca",
+"nome": "Antichi Vigneti Manca",
+"regione": "Sardegna",
+"comune": "Sorso",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"antichi-vigneti-manca"
+],
+"primario": "antichi-vigneti-manca"
+},
+{
+"slug": "cantine-di-neoneli",
+"nome": "Cantine di Neoneli",
+"regione": "Sardegna",
+"comune": "Neoneli",
+"tipi": {
+"oristano": [
+"Oristano e Vernaccia di Oristano"
+]
+},
+"membri": [
+"cantine-di-neoneli"
+],
+"primario": "cantine-di-neoneli"
+},
+{
+"slug": "tenute-evaristiano",
+"nome": "Tenute Evaristiano",
+"regione": "Sardegna",
+"comune": "San Vero Milis",
+"tipi": {
+"oristano": [
+"Oristano e Vernaccia di Oristano"
+]
+},
+"membri": [
+"tenute-evaristiano"
+],
+"primario": "tenute-evaristiano"
+},
+{
+"slug": "cantina-rigatteri",
+"nome": "Cantina Rigatteri",
+"regione": "Sardegna",
+"comune": "Alghero",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"cantina-rigatteri"
+],
+"primario": "cantina-rigatteri"
+},
+{
+"slug": "corona-ruia",
+"nome": "Corona Ruia",
+"regione": "Sardegna",
+"comune": "Sorso",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"corona-ruia"
+],
+"primario": "corona-ruia"
+},
+{
+"slug": "tenuta-teo-d-oro",
+"nome": "Tenuta Teo d'Oro",
+"regione": "Sardegna",
+"comune": "Tempio Pausania",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"tenuta-teo-d-oro"
+],
+"primario": "tenuta-teo-d-oro"
+},
+{
+"slug": "la-neula",
+"nome": "La Neula",
+"regione": "Sardegna",
+"comune": "Telti",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"la-neula"
+],
+"primario": "la-neula"
+},
+{
+"slug": "galavera",
+"nome": "Galavera",
+"regione": "Sardegna",
+"comune": "Usini",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"galavera"
+],
+"primario": "galavera"
+},
+{
+"slug": "costadoria",
+"nome": "Costadoria",
+"regione": "Sardegna",
+"comune": "Valledoria",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"costadoria"
+],
+"primario": "costadoria"
+},
+{
+"slug": "tenuta-la-sabbiosa-biomar",
+"nome": "Tenuta La Sabbiosa - Biomar",
+"regione": "Sardegna",
+"comune": "Calasetta",
+"tipi": {
+"sulcis": [
+"Sulcis e Carignano del Sulcis"
+]
+},
+"membri": [
+"tenuta-la-sabbiosa-biomar"
+],
+"primario": "tenuta-la-sabbiosa-biomar"
+},
+{
+"slug": "cantina-su-cuppoi",
+"nome": "Cantina Su Cuppoi",
+"regione": "Sardegna",
+"comune": "Terralba",
+"tipi": {
+"oristano": [
+"Oristano e Vernaccia di Oristano"
+]
+},
+"membri": [
+"cantina-su-cuppoi"
+],
+"primario": "cantina-su-cuppoi"
+},
+{
+"slug": "cantina-alessandro-bocca",
+"nome": "Cantina Alessandro Bocca",
+"regione": "Sardegna",
+"comune": "Dorgali",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"cantina-alessandro-bocca"
+],
+"primario": "cantina-alessandro-bocca"
+},
+{
+"slug": "lu-beddu",
+"nome": "Lu Beddu",
+"regione": "Sardegna",
+"comune": "Arzachena",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"lu-beddu"
+],
+"primario": "lu-beddu"
+},
+{
+"slug": "muscazega",
+"nome": "Muscazega",
+"regione": "Sardegna",
+"comune": "Luras",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"muscazega"
+],
+"primario": "muscazega"
+},
+{
+"slug": "sorso-sennori",
+"nome": "Sorso Sennori",
+"regione": "Sardegna",
+"comune": "Sorso",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"sorso-sennori"
+],
+"primario": "sorso-sennori"
+},
+{
+"slug": "eural-sulcis",
+"nome": "Eural Sulcis",
+"regione": "Sardegna",
+"comune": "San Giovanni Suergiu",
+"tipi": {
+"sulcis": [
+"Sulcis e Carignano del Sulcis"
+]
+},
+"membri": [
+"eural-sulcis"
+],
+"primario": "eural-sulcis"
+},
+{
+"slug": "mario-bagella",
+"nome": "Mario Bagella",
+"regione": "Sardegna",
+"comune": "Sorso",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"mario-bagella"
+],
+"primario": "mario-bagella"
+},
+{
+"slug": "arvisionadu",
+"nome": "Arvisionadu",
+"regione": "Sardegna",
+"comune": "Benetutti",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"arvisionadu"
+],
+"primario": "arvisionadu"
+},
+{
+"slug": "gebelias",
+"nome": "Gebelias",
+"regione": "Sardegna",
+"comune": "Bari Sardo",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"gebelias"
+],
+"primario": "gebelias"
+},
+{
+"slug": "tenute-filigheddu",
+"nome": "Tenute Filigheddu",
+"regione": "Sardegna",
+"comune": "Palau",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"tenute-filigheddu"
+],
+"primario": "tenute-filigheddu"
+},
+{
+"slug": "tenute-vignola",
+"nome": "Tenute Vignola",
+"regione": "Sardegna",
+"comune": "Trinità d’Agultu e Vignola",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"tenute-vignola"
+],
+"primario": "tenute-vignola"
+},
+{
+"slug": "tenute-sarde",
+"nome": "Tenute Sarde",
+"regione": "Sardegna",
+"comune": "Nuoro",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"tenute-sarde"
+],
+"primario": "tenute-sarde"
+},
+{
+"slug": "tenuta-paltusa",
+"nome": "Tenuta Paltusa",
+"regione": "Sardegna",
+"comune": "Calangianus",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"tenuta-paltusa"
+],
+"primario": "tenuta-paltusa"
+},
+{
+"slug": "gibadda",
+"nome": "Gibadda",
+"regione": "Sardegna",
+"comune": "Arbus",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"gibadda"
+],
+"primario": "gibadda"
+},
+{
+"slug": "petra-bianca",
+"nome": "Petra Bianca",
+"regione": "Sardegna",
+"comune": "Palau",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"petra-bianca"
+],
+"primario": "petra-bianca"
+},
+{
+"slug": "cantina-taris",
+"nome": "Cantina Taris",
+"regione": "Sardegna",
+"comune": "Santadi",
+"tipi": {
+"sulcis": [
+"Sulcis e Carignano del Sulcis"
+]
+},
+"membri": [
+"cantina-taris"
+],
+"primario": "cantina-taris"
+},
+{
+"slug": "famiglia-demelas",
+"nome": "Famiglia Demelas",
+"regione": "Sardegna",
+"comune": "Atzara",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"famiglia-demelas"
+],
+"primario": "famiglia-demelas"
+},
+{
+"slug": "muxurida",
+"nome": "Muxurida",
+"regione": "Sardegna",
+"comune": "Samatzai",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"muxurida"
+],
+"primario": "muxurida"
+},
+{
+"slug": "fattoria-cuscusa",
+"nome": "Fattoria Cuscusa",
+"regione": "Sardegna",
+"comune": "Gonnostramatza",
+"tipi": {
+"oristano": [
+"Oristano e Vernaccia di Oristano"
+]
+},
+"membri": [
+"fattoria-cuscusa"
+],
+"primario": "fattoria-cuscusa"
+},
+{
+"slug": "cantina-mussennore",
+"nome": "Cantina Mussennore",
+"regione": "Sardegna",
+"comune": "Mamoiada",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"cantina-mussennore"
+],
+"primario": "cantina-mussennore"
+},
+{
+"slug": "cantina-su-binariu",
+"nome": "Cantina Su Binariu",
+"regione": "Sardegna",
+"comune": "Sorgono",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"cantina-su-binariu"
+],
+"primario": "cantina-su-binariu"
+},
+{
+"slug": "arriali",
+"nome": "Arriali",
+"regione": "Sardegna",
+"comune": "Iglesias",
+"tipi": {
+"sulcis": [
+"Sulcis e Carignano del Sulcis"
+]
+},
+"membri": [
+"arriali"
+],
+"primario": "arriali"
+},
+{
+"slug": "cantina-manconi",
+"nome": "Cantina Manconi",
+"regione": "Sardegna",
+"comune": "Tempio Pausania",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"cantina-manconi"
+],
+"primario": "cantina-manconi"
+},
+{
+"slug": "ziu-andria",
+"nome": "Ziu Andria",
+"regione": "Sardegna",
+"comune": "Dorgali",
+"tipi": {
+"nuoro": [
+"Nuoro, Barbagia, Ogliastra e Mandrolisai"
+]
+},
+"membri": [
+"ziu-andria"
+],
+"primario": "ziu-andria"
+},
+{
+"slug": "cantina-tramonti",
+"nome": "Cantina Tramonti",
+"regione": "Sardegna",
+"comune": "Sorso",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"cantina-tramonti"
+],
+"primario": "cantina-tramonti"
+},
+{
+"slug": "quartu",
+"nome": "Quartu",
+"regione": "Sardegna",
+"comune": "Maracalagonis",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"quartu"
+],
+"primario": "quartu"
+},
+{
+"slug": "il-muto-di-gallura",
+"nome": "Il Muto di Gallura",
+"regione": "Sardegna",
+"comune": "Aggius",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"il-muto-di-gallura"
+],
+"primario": "il-muto-di-gallura"
+},
+{
+"slug": "cantina-marongiu",
+"nome": "Cantina Marongiu",
+"regione": "Sardegna",
+"comune": "Villaputzu",
+"tipi": {
+"cagliari": [
+"Cagliari, Campidano e Trexenta"
+]
+},
+"membri": [
+"cantina-marongiu"
+],
+"primario": "cantina-marongiu"
+},
+{
+"slug": "lisignori",
+"nome": "LiSignori",
+"regione": "Sardegna",
+"comune": "Sassari",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"lisignori"
+],
+"primario": "lisignori"
+},
+{
+"slug": "demuru",
+"nome": "Demuru",
+"regione": "Sardegna",
+"comune": "Berchidda",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"demuru"
+],
+"primario": "demuru"
+},
+{
+"slug": "antigu-medau",
+"nome": "Antigu Medau",
+"regione": "Sardegna",
+"comune": "Narcao",
+"tipi": {
+"sulcis": [
+"Sulcis e Carignano del Sulcis"
+]
+},
+"membri": [
+"antigu-medau"
+],
+"primario": "antigu-medau"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
@@ -108264,5 +109599,335 @@
 "treves-gianni-battista"
 ],
 "primario": "treves-gianni-battista"
+},
+{
+"slug": "animas",
+"nome": "Animas",
+"regione": "Sardegna",
+"comune": "Olbia",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"animas"
+],
+"primario": "animas"
+},
+{
+"slug": "atlantis",
+"nome": "Atlantis",
+"regione": "Sardegna",
+"comune": "Berchidda",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"atlantis"
+],
+"primario": "atlantis"
+},
+{
+"slug": "cantina-vermentino-di-monti",
+"nome": "Cantina Vermentino di Monti",
+"regione": "Sardegna",
+"comune": "Monti",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"cantina-vermentino-di-monti"
+],
+"primario": "cantina-vermentino-di-monti"
+},
+{
+"slug": "capichera",
+"nome": "Capichera",
+"regione": "Sardegna",
+"comune": "Arzachena",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"capichera"
+],
+"primario": "capichera"
+},
+{
+"slug": "consorzio-san-michele",
+"nome": "Consorzio San Michele",
+"regione": "Sardegna",
+"comune": "Berchidda",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"consorzio-san-michele"
+],
+"primario": "consorzio-san-michele"
+},
+{
+"slug": "jankara",
+"nome": "Jankara",
+"regione": "Sardegna",
+"comune": "Sant'Antonio di Gallura",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"jankara"
+],
+"primario": "jankara"
+},
+{
+"slug": "la-contralta",
+"nome": "La Contralta",
+"regione": "Sardegna",
+"comune": "Loiri Porto San Paolo",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"la-contralta"
+],
+"primario": "la-contralta"
+},
+{
+"slug": "tenute-ledda",
+"nome": "Tenute Ledda",
+"regione": "Sardegna",
+"comune": "Bonnanaro",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"tenute-ledda"
+],
+"primario": "tenute-ledda"
+},
+{
+"slug": "murales",
+"nome": "Murales",
+"regione": "Sardegna",
+"comune": "Olbia",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"murales"
+],
+"primario": "murales"
+},
+{
+"slug": "piero-mancini",
+"nome": "Piero Mancini",
+"regione": "Sardegna",
+"comune": "Olbia",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"piero-mancini"
+],
+"primario": "piero-mancini"
+},
+{
+"slug": "siddura",
+"nome": "Siddùra",
+"regione": "Sardegna",
+"comune": "Luogosanto",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"siddura"
+],
+"primario": "siddura"
+},
+{
+"slug": "tanca-raina",
+"nome": "Tanca Raina",
+"regione": "Sardegna",
+"comune": "Monti",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"tanca-raina"
+],
+"primario": "tanca-raina"
+},
+{
+"slug": "cantina-tani",
+"nome": "Cantina Tani",
+"regione": "Sardegna",
+"comune": "Monti",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"cantina-tani"
+],
+"primario": "cantina-tani"
+},
+{
+"slug": "tenute-gregu",
+"nome": "Tenute Gregu",
+"regione": "Sardegna",
+"comune": "Olbia",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"tenute-gregu"
+],
+"primario": "tenute-gregu"
+},
+{
+"slug": "tenute-olbios",
+"nome": "Tenute Olbios",
+"regione": "Sardegna",
+"comune": "Olbia",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"tenute-olbios"
+],
+"primario": "tenute-olbios"
+},
+{
+"slug": "tondini",
+"nome": "Tondini",
+"regione": "Sardegna",
+"comune": "Calangianus",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"tondini"
+],
+"primario": "tondini"
+},
+{
+"slug": "un-mare-di-vino",
+"nome": "Un Mare di Vino",
+"regione": "Sardegna",
+"comune": "Berchidda",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"un-mare-di-vino"
+],
+"primario": "un-mare-di-vino"
+},
+{
+"slug": "vigneti-zanatta",
+"nome": "Vigneti Zanatta",
+"regione": "Sardegna",
+"comune": "Olbia",
+"tipi": {
+"gallura": [
+"Gallura e Vermentino di Gallura"
+]
+},
+"membri": [
+"vigneti-zanatta"
+],
+"primario": "vigneti-zanatta"
+},
+{
+"slug": "sella-mosca",
+"nome": "Sella & Mosca",
+"regione": "Sardegna",
+"comune": "Alghero",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"sella-mosca"
+],
+"primario": "sella-mosca"
+},
+{
+"slug": "tenute-delogu",
+"nome": "Tenute Delogu",
+"regione": "Sardegna",
+"comune": "Sassari",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"tenute-delogu"
+],
+"primario": "tenute-delogu"
+},
+{
+"slug": "azienda-agricola-leda",
+"nome": "Azienda Agricola Ledà",
+"regione": "Sardegna",
+"comune": "Alghero",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"azienda-agricola-leda"
+],
+"primario": "azienda-agricola-leda"
+},
+{
+"slug": "gabriele-palmas",
+"nome": "Gabriele Palmas",
+"regione": "Sardegna",
+"comune": "Sassari",
+"tipi": {
+"sassari": [
+"Sassari, Alghero e Nord-Ovest"
+]
+},
+"membri": [
+"gabriele-palmas"
+],
+"primario": "gabriele-palmas"
 }
 ]

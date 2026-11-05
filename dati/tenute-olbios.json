@@ -1,0 +1,36 @@
+{
+ "nome": "Tenute Olbios",
+ "slug": "tenute-olbios",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Loiri 83, 07026 Olbia (SS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0789 641003 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenuteolbios.com [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela del Vermentino di Gallura [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di Tutela del Vermentino di Gallura, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vermentinogallura.wine/tenute-olbios/",
+   "etichetta": "vermentinogallura.wine"
+  }
+ ]
+}

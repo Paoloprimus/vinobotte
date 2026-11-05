@@ -326,3 +326,6 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 143 — Basilicata chiusa
 - Registro `basilicata-chiusura.md`; `stato-consorzi.csv` riga 43. Vivino 214 (88 con ≥5 vini), 41 siti: 31 schede, due pagine nuove. Basilicata 31; guida 6.898. Corretto il motivo di Di Vito (Molise) nel wip.
+
+## 144 — Sardegna chiusa
+- Registro `sardegna-chiusura.md`; `stato-consorzi.csv` righe 77, 82, 88, 94, 127. Consorzi Gallura e Alghero riletti (schede singole), Vivino 786 (258 con ≥5 vini): 111 schede, sei pagine nuove. Sardegna 111; guida 7.009. Tutte le regioni chiuse.
