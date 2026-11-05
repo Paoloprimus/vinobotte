@@ -1,0 +1,42 @@
+{
+ "nome": "Daniele Rossi",
+ "slug": "daniele-rossi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02251640542 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Assisi, 69/E, 06089 Torgiano (PG) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.danielerossi.wine|danielerossi.wine}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Torgiano [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.danielerossi.wine",
+   "etichetta": "danielerossi.wine"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Torgiano, consultato il 5 novembre 2026.",
+   "url": "https://consorziotutelavinitorgiano.it/cantine/",
+   "etichetta": "consorziotutelavinitorgiano.it"
+  }
+ ]
+}

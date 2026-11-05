@@ -1,0 +1,50 @@
+{
+ "nome": "Pardi",
+ "slug": "pardi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02595560547 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via G. Pascoli, 7/9, 06036 Montefalco (PG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0742 379023 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinapardi.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinapardi.it|cantinapardi.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cantinapardi.it",
+   "etichetta": "cantinapardi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/pardi/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

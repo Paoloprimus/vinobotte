@@ -1,0 +1,40 @@
+{
+ "nome": "Tenute Lunelli – Carapace",
+ "slug": "tenute-lunelli-carapace",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Voc. Castellaccio, 9, 06031 Bevagna (PG) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0742 361670 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "carapace@tenutelunelli.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutelunelli.it|tenutelunelli.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/tenute-lunelli/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

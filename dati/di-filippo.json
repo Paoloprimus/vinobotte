@@ -1,0 +1,50 @@
+{
+ "nome": "Di Filippo",
+ "slug": "di-filippo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02676980549 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Voc. Conversino, 153, 06033 Cannara (PG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0742 731242 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinidifilippo.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinidifilippo.com|vinidifilippo.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.vinidifilippo.com",
+   "etichetta": "vinidifilippo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/di-filippo/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

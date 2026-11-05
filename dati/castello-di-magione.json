@@ -1,0 +1,46 @@
+{
+ "nome": "Castello di Magione",
+ "slug": "castello-di-magione",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "07326481004 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Viale Cavalieri di Malta, 31, 06063 Magione (PG) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 075 5057319 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.sagrivit.it/location/castello-di-magione/|sagrivit.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Trasimeno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.sagrivit.it/location/castello-di-magione/",
+   "etichetta": "sagrivit.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Trasimeno, consultato il 5 novembre 2026.",
+   "url": "https://www.trasimenodoc.it/produttori-trasimeno-doc/",
+   "etichetta": "trasimenodoc.it"
+  }
+ ]
+}

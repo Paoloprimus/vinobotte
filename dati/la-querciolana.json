@@ -1,0 +1,46 @@
+{
+ "nome": "La Querciolana",
+ "slug": "la-querciolana",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Vieniche, 4, 06064 Panicale (PG) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 075 837477 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "maurocavallucci@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.laquerciolana.it|laquerciolana.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Trasimeno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.laquerciolana.it",
+   "etichetta": "laquerciolana.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Trasimeno, consultato il 5 novembre 2026.",
+   "url": "https://www.trasimenodoc.it/produttori-trasimeno-doc/",
+   "etichetta": "trasimenodoc.it"
+  }
+ ]
+}

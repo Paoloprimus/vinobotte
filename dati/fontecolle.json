@@ -1,0 +1,46 @@
+{
+ "nome": "Fontecolle",
+ "slug": "fontecolle",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02572240543 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Pietrauta, 06036 Montefalco (PG) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fontecolle.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fontecolle.com|fontecolle.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.fontecolle.com",
+   "etichetta": "fontecolle.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/fontecolle/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

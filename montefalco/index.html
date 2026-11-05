@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Montefalco — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Montefalco</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Montefalco</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Adanti","s":"adanti","c":"Bevagna","d":["Montefalco"]},{"n":"Agricola Castelgrosso","s":"agricola-castelgrosso","c":"Castel Ritaldi","d":["Montefalco"]},{"n":"Agricola Cutini","s":"agricola-cutini","c":"Gualdo Cattaneo","d":["Montefalco"]},{"n":"Agricola Mevante","s":"agricola-mevante","c":"Bevagna","d":["Montefalco"]},{"n":"Alessandrini Andrea","s":"alessandrini-andrea","c":"Montefalco","d":["Montefalco"]},{"n":"Antonelli","s":"antonelli","c":"Montefalco","d":["Montefalco"]},{"n":"Arnaldo Caprai","s":"arnaldo-caprai","c":"Montefalco","d":["Montefalco"]},{"n":"Azienda Agricola De Conti","s":"azienda-agricola-de-conti","c":"Trevi","d":["Montefalco"]},{"n":"Benedetti & Grigi","s":"benedetti-grigi","c":"Montefalco","d":["Montefalco"]},{"n":"Benincasa","s":"benincasa-bevagna","c":"Bevagna","d":["Montefalco"]},{"n":"Bocale","s":"bocale","c":"Montefalco","d":["Montefalco"]},{"n":"Borgese","s":"borgese","c":"Montefalco","d":["Montefalco"]},{"n":"Briziarelli","s":"briziarelli","c":"Bevagna","d":["Montefalco"]},{"n":"Brunozzi","s":"brunozzi","c":"Montefalco","d":["Montefalco"]},{"n":"Campo della Maestà","s":"campo-della-maesta","c":"Gualdo Cattaneo","d":["Montefalco"]},{"n":"Cesarini Sartori","s":"cesarini-sartori","c":"Gualdo Cattaneo","d":["Montefalco"]},{"n":"Cocco Ilaria","s":"cocco-ilaria","c":"Montefalco","d":["Montefalco"]},{"n":"Colle Ciocco","s":"colle-ciocco","c":"Montefalco","d":["Montefalco"]},{"n":"Colle del Magghio","s":"colle-del-magghio","c":"Bevagna","d":["Montefalco"]},{"n":"Colle del Saraceno","s":"colle-del-saraceno","c":"Montefalco","d":["Montefalco"]},{"n":"Colle Mora","s":"colle-mora","c":"Montefalco","d":["Montefalco"]},{"n":"Colle Uncinano","s":"colle-uncinano","c":"Spoleto","d":["Montefalco"]},{"n":"Còlpetrone","s":"colpetrone","c":"Gualdo Cattaneo","d":["Montefalco"]},{"n":"Di Filippo","s":"di-filippo","c":"Cannara","d":["Montefalco"]},{"n":"Dionigi","s":"dionigi","c":"Bevagna","d":["Montefalco"]},{"n":"Fattoria Colsanto","s":"fattoria-colsanto","c":"Bevagna","d":["Montefalco"]},{"n":"Fongoli","s":"fongoli","c":"Montefalco","d":["Montefalco"]},{"n":"Fontecolle","s":"fontecolle","c":"Montefalco","d":["Montefalco"]},{"n":"Giorgio Iannoni Sebastianini","s":"giorgio-iannoni-sebastianini","c":"Montefalco","d":["Montefalco"]},{"n":"Goretti – Fattoria Le Mura Saracene","s":"goretti-fattoria-le-mura-saracene","c":"Montefalco","d":["Montefalco"]},{"n":"Il Gheppio","s":"il-gheppio","c":"Montefalco","d":["Montefalco"]},{"n":"Il Torrione","s":"il-torrione","c":"Gualdo Cattaneo","d":["Montefalco"]},{"n":"La Fonte","s":"la-fonte","c":"Bevagna","d":["Montefalco"]},{"n":"La Veneranda","s":"la-veneranda","c":"Montefalco","d":["Montefalco"]},{"n":"Le Cimate","s":"le-cimate","c":"Montefalco","d":["Montefalco"]},{"n":"Le Thadee","s":"le-thadee","c":"Montefalco","d":["Montefalco"]},{"n":"Milziade Antano – Fattoria Colleallodole","s":"milziade-antano-fattoria-colleallodole","c":"Bevagna","d":["Montefalco"]},{"n":"Montioni","s":"montioni","c":"Montefalco","d":["Montefalco"]},{"n":"Moretti Omero","s":"moretti-omero","c":"Giano dell'Umbria","d":["Montefalco"]},{"n":"Napolini","s":"napolini","c":"Montefalco","d":["Montefalco"]},{"n":"Ninni","s":"ninni","c":"Spoleto","d":["Montefalco"]},{"n":"Paolo Bea","s":"paolo-bea","c":"Montefalco","d":["Montefalco"]},{"n":"Pardi","s":"pardi","c":"Montefalco","d":["Montefalco"]},{"n":"Perticaia","s":"perticaia","c":"Montefalco","d":["Montefalco"]},{"n":"Plani Arche","s":"plani-arche","c":"Perugia","d":["Montefalco"]},{"n":"Raína","s":"raina","c":"Montefalco","d":["Montefalco"]},{"n":"RiLò 1217","s":"rilo-1217","c":"Montefalco","d":["Montefalco"]},{"n":"Romanelli","s":"romanelli","c":"Montefalco","d":["Montefalco"]},{"n":"San Clemente","s":"san-clemente","c":"Montefalco","d":["Montefalco"]},{"n":"Scacciadiavoli","s":"scacciadiavoli","c":"Montefalco","d":["Montefalco"]},{"n":"Schippa","s":"schippa","c":"Montefalco","d":["Montefalco"]},{"n":"Tabarrini","s":"tabarrini","c":"Montefalco","d":["Montefalco"]},{"n":"Tenuta Alzatura","s":"tenuta-alzatura","c":"Montefalco","d":["Montefalco"]},{"n":"Tenuta Bellafonte","s":"tenuta-bellafonte","c":"Bevagna","d":["Montefalco"]},{"n":"Tenuta Clivo del Cardinale","s":"tenuta-clivo-del-cardinale","c":"Montefalco","d":["Montefalco"]},{"n":"Tenuta Colfalco","s":"tenuta-colfalco","c":"Montefalco","d":["Montefalco"]},{"n":"Tenuta di Saragano","s":"tenuta-di-saragano","c":"Gualdo Cattaneo","d":["Montefalco"]},{"n":"Tenuta Rocca di Fabbri","s":"tenuta-rocca-di-fabbri","c":"Montefalco","d":["Montefalco"]},{"n":"Tenute Baldo","s":"tenute-baldo","c":"Bastia Umbra","d":["Montefalco"]},{"n":"Tenute Castel Savino","s":"tenute-castel-savino","c":"Castel Ritaldi","d":["Montefalco"]},{"n":"Tenute Lunelli – Carapace","s":"tenute-lunelli-carapace","c":"Bevagna","d":["Montefalco"]},{"n":"Terra di Rovo","s":"terra-di-rovo","c":"Spoleto","d":["Montefalco"]},{"n":"Terre de la Custodia","s":"terre-de-la-custodia","c":"Gualdo Cattaneo","d":["Montefalco"]},{"n":"Terre de Trinci","s":"terre-de-trinci","c":"Foligno","d":["Montefalco"]},{"n":"Terre dei Nappi","s":"terre-dei-nappi","c":"Bevagna","d":["Montefalco"]},{"n":"Terre di Capitani","s":"terre-di-capitani","c":"Gualdo Cattaneo","d":["Montefalco"]},{"n":"Terre di San Felice","s":"terre-di-san-felice","c":"Castel Ritaldi","d":["Montefalco"]},{"n":"Tiburzi","s":"tiburzi","c":"Montefalco","d":["Montefalco"]},{"n":"Tudernum","s":"tudernum","c":"Todi","d":["Montefalco"]},{"n":"Valdangius","s":"valdangius","c":"Montefalco","d":["Montefalco"]},{"n":"Villa Mongalli","s":"villa-mongalli","c":"Bevagna","d":["Montefalco"]},{"n":"Villa Mora","s":"villa-mora","c":"Gualdo Cattaneo","d":["Montefalco"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    

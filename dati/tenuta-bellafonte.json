@@ -1,0 +1,50 @@
+{
+ "nome": "Tenuta Bellafonte",
+ "slug": "tenuta-bellafonte",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02976340543 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Colle Nottolo, 2, 06031 Bevagna (PG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0742 710019 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutabellafonte.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutabellafonte.it|tenutabellafonte.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.tenutabellafonte.it",
+   "etichetta": "tenutabellafonte.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/tenuta-bellafonte/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

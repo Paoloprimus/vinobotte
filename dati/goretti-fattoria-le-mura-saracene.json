@@ -1,0 +1,50 @@
+{
+ "nome": "Goretti – Fattoria Le Mura Saracene",
+ "slug": "goretti-fattoria-le-mura-saracene",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01976940542 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Pietrauta, 06036 Montefalco (PG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "075 607316 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "goretti@vinigoretti.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinigoretti.com|vinigoretti.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.vinigoretti.com",
+   "etichetta": "vinigoretti.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/goretti/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

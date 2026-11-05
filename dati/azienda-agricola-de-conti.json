@@ -1,0 +1,50 @@
+{
+ "nome": "Azienda Agricola De Conti",
+ "slug": "azienda-agricola-de-conti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03122610540 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Lucarini, 37, 06039 Trevi (PG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "329 7449436 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantinadeconti@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinadeconti.it|cantinadeconti.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cantinadeconti.it",
+   "etichetta": "cantinadeconti.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/azienda-agricola-de-conti/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

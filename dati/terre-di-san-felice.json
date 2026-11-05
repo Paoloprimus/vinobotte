@@ -1,0 +1,46 @@
+{
+ "nome": "Terre di San Felice",
+ "slug": "terre-di-san-felice",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03538390547 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Antiluzzo 26, 06044 Castel Ritaldi (PG) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantina@terredisanfelice.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.terredisanfelice.com|terredisanfelice.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.terredisanfelice.com",
+   "etichetta": "terredisanfelice.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/terre-di-san-felice/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

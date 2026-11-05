@@ -1,0 +1,36 @@
+{
+ "nome": "Agricola Mevante",
+ "slug": "agricola-mevante",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Sasso, Voc. Piscinale, 06031 Bevagna (PG) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@agricolamevante.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.agricolamevante.com|agricolamevante.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/agricola-mevante/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

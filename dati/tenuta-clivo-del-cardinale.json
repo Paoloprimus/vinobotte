@@ -1,0 +1,40 @@
+{
+ "nome": "Tenuta Clivo del Cardinale",
+ "slug": "tenuta-clivo-del-cardinale",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Fabbri 1, Fabbri, 06036 Montefalco (PG) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "328 558 9211 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "tenuta.clivodelcardinale@outlook.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutaclivodelcardinale.it|tenutaclivodelcardinale.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/tenuta-clivo-del-cardinale/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

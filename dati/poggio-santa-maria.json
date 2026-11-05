@@ -1,0 +1,50 @@
+{
+ "nome": "Poggio Santa Maria",
+ "slug": "poggio-santa-maria",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04005000544 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Villa Cartoni 30, 06061 Castiglione del Lago (PG) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 075956950 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poggiosantamaria.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://poggiosantamaria.it|poggiosantamaria.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Trasimeno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://poggiosantamaria.it",
+   "etichetta": "poggiosantamaria.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Trasimeno, consultato il 5 novembre 2026.",
+   "url": "https://www.trasimenodoc.it/produttori-trasimeno-doc/",
+   "etichetta": "trasimenodoc.it"
+  }
+ ]
+}

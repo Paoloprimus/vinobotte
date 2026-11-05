@@ -1,0 +1,50 @@
+{
+ "nome": "Colle Mora",
+ "slug": "colle-mora",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02415570544 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Pietrauta, 11/B, 06036 Montefalco (PG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0742 378652 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "simone.tabarrini@libero.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://collemora.it|collemora.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://collemora.it",
+   "etichetta": "collemora.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/colle-mora/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

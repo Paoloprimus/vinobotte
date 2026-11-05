@@ -1,0 +1,46 @@
+{
+ "nome": "La Fonte",
+ "slug": "la-fonte",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03139000545 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Le Case, 11, 06031 Bevagna (PG) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lafontedibevagna.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lafontedibevagna.it|lafontedibevagna.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.lafontedibevagna.it",
+   "etichetta": "lafontedibevagna.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/la-fonte-trabalza-marinucci/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

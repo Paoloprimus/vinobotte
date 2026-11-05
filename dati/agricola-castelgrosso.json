@@ -1,0 +1,36 @@
+{
+ "nome": "Agricola Castelgrosso",
+ "slug": "agricola-castelgrosso",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Casa Argenta snc, Loc. Torregrosso, 06044 Castel Ritaldi (PG) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "agricolacastelgrosso@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.agricolacastelgrosso.com|agricolacastelgrosso.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/castelgrosso/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

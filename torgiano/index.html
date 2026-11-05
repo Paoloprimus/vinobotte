@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Lungarotti","s":"lungarotti","c":"Torgiano","d":["Torgiano"]},{"n":"Terre Margaritelli","s":"terre-margaritelli","c":"San Venanzo","d":["Torgiano"]}];
+    const D=[{"n":"Casale Villa Chiara","s":"casale-villa-chiara","c":"Torgiano","d":["Torgiano"]},{"n":"Daniele Rossi","s":"daniele-rossi","c":"Torgiano","d":["Torgiano"]},{"n":"Fattoria Mani di Luna","s":"fattoria-mani-di-luna","c":"Torgiano","d":["Torgiano"]},{"n":"Lungarotti","s":"lungarotti","c":"Torgiano","d":["Torgiano"]},{"n":"Terre Margaritelli","s":"terre-margaritelli","c":"San Venanzo","d":["Torgiano"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');

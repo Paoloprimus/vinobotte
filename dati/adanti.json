@@ -1,0 +1,40 @@
+{
+ "nome": "Adanti",
+ "slug": "adanti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Belvedere, 2 Loc. Arquata, 06031 Bevagna (PG) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0742360295 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantineadanti.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantineadanti.com|cantineadanti.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/adanti/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

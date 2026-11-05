@@ -299,3 +299,12 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 134 — Lazio chiusa
 - Registro `lazio-chiusura.md`; `stato-consorzi.csv` righe 65, 74, 110, 114, 122, 138. Lazio 115; guida 6.464. File wip aggiornato (569 righe nuove).
+
+## 135 — Umbria: consorzi
+- Montefalco: le pagine dei soci hanno indirizzo, sito ed email (il primo giro non le aveva lette): 62 schede. Trasimeno: siti indicati sulla pagina, 15 schede. Torgiano: 2 schede. Orvieto: elenco di soli loghi.
+
+## 136 — Umbria: Vivino
+- Scaricato Vivino (721); 254 candidate dopo i consorzi; sito per 148; +76 schede. Quattro pagine nuove.
+
+## 137 — Umbria chiusa
+- Registro `umbria-chiusura.md`; `stato-consorzi.csv` righe 13, 18, 41, 56, 83. Umbria 159; guida 6.620. File wip aggiornato (549 righe nuove, 91 tolte).

@@ -1,0 +1,36 @@
+{
+ "nome": "Tenuta Rocca di Fabbri",
+ "slug": "tenuta-rocca-di-fabbri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Fabbri, 06036 Montefalco (PG) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0742 399379 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@roccadifabbri.com [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/tenuta-rocca-di-fabbri/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

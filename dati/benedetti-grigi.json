@@ -1,0 +1,40 @@
+{
+ "nome": "Benedetti & Grigi",
+ "slug": "benedetti-grigi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "06036 Montefalco (PG) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "075 9886990 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@benedettiegrigi.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.benedettiegrigi.it|benedettiegrigi.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/benedetti-grigi/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

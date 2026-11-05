@@ -1,0 +1,42 @@
+{
+ "nome": "Madrevite",
+ "slug": "madrevite",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Cimbano 36, Vaiano, 06061 Castiglione del Lago (PG) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@madrevite.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://madrevite.com|madrevite.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Trasimeno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://madrevite.com",
+   "etichetta": "madrevite.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Trasimeno, consultato il 5 novembre 2026.",
+   "url": "https://www.trasimenodoc.it/produttori-trasimeno-doc/",
+   "etichetta": "trasimenodoc.it"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "nome": "Nofrini",
+ "slug": "nofrini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03050050545 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Colle Castelluccio, 5, 06063 Magione (PG) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 338 3823395 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@casaleilpicchio.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.casaleilpicchio.it/i-vini-della-cantina-nofrini/|casaleilpicchio.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Trasimeno [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.casaleilpicchio.it/i-vini-della-cantina-nofrini/",
+   "etichetta": "casaleilpicchio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Vini Trasimeno, consultato il 5 novembre 2026.",
+   "url": "https://www.trasimenodoc.it/produttori-trasimeno-doc/",
+   "etichetta": "trasimenodoc.it"
+  }
+ ]
+}

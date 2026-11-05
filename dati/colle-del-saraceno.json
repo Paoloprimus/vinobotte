@@ -1,0 +1,50 @@
+{
+ "nome": "Colle del Saraceno",
+ "slug": "colle-del-saraceno",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01961650544 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Fraz. Pietrauta 37/C, 06036 Montefalco (PG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0742 379500 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinabotti.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinabotti.com|cantinabotti.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cantinabotti.com",
+   "etichetta": "cantinabotti.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/colle-del-saraceno/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

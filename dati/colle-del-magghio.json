@@ -1,0 +1,36 @@
+{
+ "nome": "Colle del Magghio",
+ "slug": "colle-del-magghio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Madonna delle Grazie, 19, 06031 Bevagna (PG) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "sabatinicontoterzi@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.agricolacolledelmagghio.it|agricolacolledelmagghio.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/colle-del-magghio-di-sabatini-fabio/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

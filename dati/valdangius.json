@@ -1,0 +1,36 @@
+{
+ "nome": "Valdangius",
+ "slug": "valdangius",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Case Sparse 84, Località San Marco, 06036 Montefalco (PG) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@valdangius.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.valdangius.it|valdangius.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/valdangius/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

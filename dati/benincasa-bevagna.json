@@ -1,0 +1,40 @@
+{
+ "nome": "Benincasa",
+ "slug": "benincasa-bevagna",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Capro, 23, 06031 Bevagna (PG) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0742 450741 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cantina@aziendabenincasa.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.aziendabenincasa.com|aziendabenincasa.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/benincasa/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "nome": "Tenuta di Saragano",
+ "slug": "tenuta-di-saragano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01172050542 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Saragano, Via del Poggio, 5, 06035 Gualdo Cattaneo (PG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 331 152 5414 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutadisaragano.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutadisaragano.it|tenutadisaragano.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini Montefalco [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.tenutadisaragano.it",
+   "etichetta": "tenutadisaragano.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini Montefalco, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziomontefalco.it/tenuta-di-saragano/",
+   "etichetta": "consorziomontefalco.it"
+  }
+ ]
+}

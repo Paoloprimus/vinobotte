@@ -69129,6 +69129,1146 @@
 "primario": "podere-giulio"
 },
 {
+"slug": "torre-bisenzio",
+"nome": "Torre Bisenzio",
+"regione": "Umbria",
+"comune": "Allerona",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"torre-bisenzio"
+],
+"primario": "torre-bisenzio"
+},
+{
+"slug": "decugnano-dei-barbi",
+"nome": "Decugnano dei Barbi",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"decugnano-dei-barbi"
+],
+"primario": "decugnano-dei-barbi"
+},
+{
+"slug": "raina",
+"nome": "Raína",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"raina"
+],
+"primario": "raina"
+},
+{
+"slug": "cantina-roccafiore",
+"nome": "Cantina Roccafiore",
+"regione": "Umbria",
+"comune": "Todi",
+"tipi": {
+"todi": [
+"Todi, Spoleto e Colli Martani"
+]
+},
+"membri": [
+"cantina-roccafiore"
+],
+"primario": "cantina-roccafiore"
+},
+{
+"slug": "cantina-todini",
+"nome": "Cantina Todini",
+"regione": "Umbria",
+"comune": "Todi",
+"tipi": {
+"todi": [
+"Todi, Spoleto e Colli Martani"
+]
+},
+"membri": [
+"cantina-todini"
+],
+"primario": "cantina-todini"
+},
+{
+"slug": "tenuta-le-velette",
+"nome": "Tenuta Le Velette",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"tenuta-le-velette"
+],
+"primario": "tenuta-le-velette"
+},
+{
+"slug": "castello-di-montegiove",
+"nome": "Castello di Montegiove",
+"regione": "Umbria",
+"comune": "Montegabbione",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"castello-di-montegiove"
+],
+"primario": "castello-di-montegiove"
+},
+{
+"slug": "peppucci",
+"nome": "Peppucci",
+"regione": "Umbria",
+"comune": "Todi",
+"tipi": {
+"todi": [
+"Todi, Spoleto e Colli Martani"
+]
+},
+"membri": [
+"peppucci"
+],
+"primario": "peppucci"
+},
+{
+"slug": "zanchi",
+"nome": "Zanchi",
+"regione": "Umbria",
+"comune": "Amelia",
+"tipi": {
+"amelia": [
+"Amelia, Narni e Terni"
+]
+},
+"membri": [
+"zanchi"
+],
+"primario": "zanchi"
+},
+{
+"slug": "saio-assisi",
+"nome": "SAIO Assisi",
+"regione": "Umbria",
+"comune": "Assisi",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"saio-assisi"
+],
+"primario": "saio-assisi"
+},
+{
+"slug": "fattoria-di-monticello",
+"nome": "Fattoria di Monticello",
+"regione": "Umbria",
+"comune": "San Venanzo",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"fattoria-di-monticello"
+],
+"primario": "fattoria-di-monticello"
+},
+{
+"slug": "il-torrione",
+"nome": "Il Torrione",
+"regione": "Umbria",
+"comune": "Gualdo Cattaneo",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"il-torrione"
+],
+"primario": "il-torrione"
+},
+{
+"slug": "la-carraia",
+"nome": "La Carraia",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"la-carraia"
+],
+"primario": "la-carraia"
+},
+{
+"slug": "sportoletti",
+"nome": "Sportoletti",
+"regione": "Umbria",
+"comune": "Spello",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"sportoletti"
+],
+"primario": "sportoletti"
+},
+{
+"slug": "castello-di-corbara",
+"nome": "Castello di Corbara",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"castello-di-corbara"
+],
+"primario": "castello-di-corbara"
+},
+{
+"slug": "lamborghini",
+"nome": "Lamborghini",
+"regione": "Umbria",
+"comune": "Panicale",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"lamborghini"
+],
+"primario": "lamborghini"
+},
+{
+"slug": "napolini",
+"nome": "Napolini",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"napolini"
+],
+"primario": "napolini"
+},
+{
+"slug": "tiberi-vini-artigianali",
+"nome": "Tiberi Vini Artigianali",
+"regione": "Umbria",
+"comune": "Perugia",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"tiberi-vini-artigianali"
+],
+"primario": "tiberi-vini-artigianali"
+},
+{
+"slug": "chiorri",
+"nome": "Chiorri",
+"regione": "Umbria",
+"comune": "Perugia",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"chiorri"
+],
+"primario": "chiorri"
+},
+{
+"slug": "cantina-marco-merli",
+"nome": "Cantina Marco Merli",
+"regione": "Umbria",
+"comune": "Perugia",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"cantina-marco-merli"
+],
+"primario": "cantina-marco-merli"
+},
+{
+"slug": "tili",
+"nome": "Tili",
+"regione": "Umbria",
+"comune": "Assisi",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"tili"
+],
+"primario": "tili"
+},
+{
+"slug": "feudi-spada",
+"nome": "Feudi Spada",
+"regione": "Umbria",
+"comune": "Castel Viscardo",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"feudi-spada"
+],
+"primario": "feudi-spada"
+},
+{
+"slug": "poggette",
+"nome": "Poggette",
+"regione": "Umbria",
+"comune": "Montecastrilli",
+"tipi": {
+"amelia": [
+"Amelia, Narni e Terni"
+]
+},
+"membri": [
+"poggette"
+],
+"primario": "poggette"
+},
+{
+"slug": "sasso-dei-lupi",
+"nome": "Sasso dei Lupi",
+"regione": "Umbria",
+"comune": "Marsciano",
+"tipi": {
+"todi": [
+"Todi, Spoleto e Colli Martani"
+]
+},
+"membri": [
+"sasso-dei-lupi"
+],
+"primario": "sasso-dei-lupi"
+},
+{
+"slug": "i-girasoli-di-sant-andrea",
+"nome": "I Girasoli di Sant'Andrea",
+"regione": "Umbria",
+"comune": "Umbertide",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"i-girasoli-di-sant-andrea"
+],
+"primario": "i-girasoli-di-sant-andrea"
+},
+{
+"slug": "cantina-altarocca",
+"nome": "Cantina Altarocca",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"cantina-altarocca"
+],
+"primario": "cantina-altarocca"
+},
+{
+"slug": "casale-milli",
+"nome": "Casale Milli",
+"regione": "Umbria",
+"comune": "San Gemini",
+"tipi": {
+"amelia": [
+"Amelia, Narni e Terni"
+]
+},
+"membri": [
+"casale-milli"
+],
+"primario": "casale-milli"
+},
+{
+"slug": "le-crete",
+"nome": "Le Crete",
+"regione": "Umbria",
+"comune": "Passignano sul Trasimeno",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"le-crete"
+],
+"primario": "le-crete"
+},
+{
+"slug": "chiesa-del-carmine",
+"nome": "Chiesa del Carmine",
+"regione": "Umbria",
+"comune": "Perugia",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"chiesa-del-carmine"
+],
+"primario": "chiesa-del-carmine"
+},
+{
+"slug": "lapone",
+"nome": "Lapone",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"lapone"
+],
+"primario": "lapone"
+},
+{
+"slug": "pomario",
+"nome": "Pomario",
+"regione": "Umbria",
+"comune": "Piegaro",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"pomario"
+],
+"primario": "pomario"
+},
+{
+"slug": "cantina-baldassarri",
+"nome": "Cantina Baldassarri",
+"regione": "Umbria",
+"comune": "Collazzone",
+"tipi": {
+"todi": [
+"Todi, Spoleto e Colli Martani"
+]
+},
+"membri": [
+"cantina-baldassarri"
+],
+"primario": "cantina-baldassarri"
+},
+{
+"slug": "villa-sobrano",
+"nome": "Villa Sobrano",
+"regione": "Umbria",
+"comune": "Todi",
+"tipi": {
+"todi": [
+"Todi, Spoleto e Colli Martani"
+]
+},
+"membri": [
+"villa-sobrano"
+],
+"primario": "villa-sobrano"
+},
+{
+"slug": "cantina-custodi",
+"nome": "Cantina Custodi",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"cantina-custodi"
+],
+"primario": "cantina-custodi"
+},
+{
+"slug": "il-signor-kurtz",
+"nome": "Il Signor Kurtz",
+"regione": "Umbria",
+"comune": "Corciano",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"il-signor-kurtz"
+],
+"primario": "il-signor-kurtz"
+},
+{
+"slug": "villa-mora",
+"nome": "Villa Mora",
+"regione": "Umbria",
+"comune": "Gualdo Cattaneo",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"villa-mora"
+],
+"primario": "villa-mora"
+},
+{
+"slug": "tiburzi",
+"nome": "Tiburzi",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"tiburzi"
+],
+"primario": "tiburzi"
+},
+{
+"slug": "blasi",
+"nome": "Blasi",
+"regione": "Umbria",
+"comune": "Umbertide",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"blasi"
+],
+"primario": "blasi"
+},
+{
+"slug": "malauva",
+"nome": "Malauva",
+"regione": "Umbria",
+"comune": "Castel Giorgio",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"malauva"
+],
+"primario": "malauva"
+},
+{
+"slug": "cantina-la-spina",
+"nome": "Cantina la Spina",
+"regione": "Umbria",
+"comune": "Marsciano",
+"tipi": {
+"todi": [
+"Todi, Spoleto e Colli Martani"
+]
+},
+"membri": [
+"cantina-la-spina"
+],
+"primario": "cantina-la-spina"
+},
+{
+"slug": "donini",
+"nome": "Donini",
+"regione": "Umbria",
+"comune": "Umbertide",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"donini"
+],
+"primario": "donini"
+},
+{
+"slug": "semonte",
+"nome": "Semonte",
+"regione": "Umbria",
+"comune": "Gubbio",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"semonte"
+],
+"primario": "semonte"
+},
+{
+"slug": "san-clemente",
+"nome": "San Clemente",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"san-clemente"
+],
+"primario": "san-clemente"
+},
+{
+"slug": "borgese",
+"nome": "Borgese",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"borgese"
+],
+"primario": "borgese"
+},
+{
+"slug": "picco-d-umbria",
+"nome": "Picco d'Umbria",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"picco-d-umbria"
+],
+"primario": "picco-d-umbria"
+},
+{
+"slug": "santo-iolo",
+"nome": "Santo Iolo",
+"regione": "Umbria",
+"comune": "Narni",
+"tipi": {
+"amelia": [
+"Amelia, Narni e Terni"
+]
+},
+"membri": [
+"santo-iolo"
+],
+"primario": "santo-iolo"
+},
+{
+"slug": "tenuta-corini",
+"nome": "Tenuta Corini",
+"regione": "Umbria",
+"comune": "Montegabbione",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"tenuta-corini"
+],
+"primario": "tenuta-corini"
+},
+{
+"slug": "bianconi-susanna",
+"nome": "Bianconi Susanna",
+"regione": "Umbria",
+"comune": "Assisi",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"bianconi-susanna"
+],
+"primario": "bianconi-susanna"
+},
+{
+"slug": "freddano",
+"nome": "Freddano",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"freddano"
+],
+"primario": "freddano"
+},
+{
+"slug": "cantina-bettalunga",
+"nome": "Cantina Bettalunga",
+"regione": "Umbria",
+"comune": "Marsciano",
+"tipi": {
+"todi": [
+"Todi, Spoleto e Colli Martani"
+]
+},
+"membri": [
+"cantina-bettalunga"
+],
+"primario": "cantina-bettalunga"
+},
+{
+"slug": "campo-della-maesta",
+"nome": "Campo della Maestà",
+"regione": "Umbria",
+"comune": "Gualdo Cattaneo",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"campo-della-maesta"
+],
+"primario": "campo-della-maesta"
+},
+{
+"slug": "zazzera",
+"nome": "Zazzera",
+"regione": "Umbria",
+"comune": "Todi",
+"tipi": {
+"todi": [
+"Todi, Spoleto e Colli Martani"
+]
+},
+"membri": [
+"zazzera"
+],
+"primario": "zazzera"
+},
+{
+"slug": "cantine-monrubio",
+"nome": "Cantine Monrubio",
+"regione": "Umbria",
+"comune": "Castel Viscardo",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"cantine-monrubio"
+],
+"primario": "cantine-monrubio"
+},
+{
+"slug": "terramante",
+"nome": "Terramante",
+"regione": "Umbria",
+"comune": "Todi",
+"tipi": {
+"todi": [
+"Todi, Spoleto e Colli Martani"
+]
+},
+"membri": [
+"terramante"
+],
+"primario": "terramante"
+},
+{
+"slug": "casaleo",
+"nome": "Casaleo",
+"regione": "Umbria",
+"comune": "Todi",
+"tipi": {
+"todi": [
+"Todi, Spoleto e Colli Martani"
+]
+},
+"membri": [
+"casaleo"
+],
+"primario": "casaleo"
+},
+{
+"slug": "marchesi-ruffo-della-scaletta",
+"nome": "Marchesi Ruffo della Scaletta",
+"regione": "Umbria",
+"comune": "Narni",
+"tipi": {
+"amelia": [
+"Amelia, Narni e Terni"
+]
+},
+"membri": [
+"marchesi-ruffo-della-scaletta"
+],
+"primario": "marchesi-ruffo-della-scaletta"
+},
+{
+"slug": "cantina-antonioli",
+"nome": "Cantina Antonioli",
+"regione": "Umbria",
+"comune": "Gubbio",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"cantina-antonioli"
+],
+"primario": "cantina-antonioli"
+},
+{
+"slug": "vallantica",
+"nome": "Vallantica",
+"regione": "Umbria",
+"comune": "Terni",
+"tipi": {
+"amelia": [
+"Amelia, Narni e Terni"
+]
+},
+"membri": [
+"vallantica"
+],
+"primario": "vallantica"
+},
+{
+"slug": "agricola-san-faustino",
+"nome": "Agricola San Faustino",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"agricola-san-faustino"
+],
+"primario": "agricola-san-faustino"
+},
+{
+"slug": "alma-raminga-vini-erranti",
+"nome": "Alma Raminga Vini Erranti",
+"regione": "Umbria",
+"comune": "Foligno",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"alma-raminga-vini-erranti"
+],
+"primario": "alma-raminga-vini-erranti"
+},
+{
+"slug": "tenuta-santa-croce",
+"nome": "Tenuta Santa Croce",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"tenuta-santa-croce"
+],
+"primario": "tenuta-santa-croce"
+},
+{
+"slug": "cantina-foresi",
+"nome": "Cantina Foresi",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"cantina-foresi"
+],
+"primario": "cantina-foresi"
+},
+{
+"slug": "la-piccola-cantina-dei-rossi",
+"nome": "La Piccola Cantina dei Rossi",
+"regione": "Umbria",
+"comune": "Marsciano",
+"tipi": {
+"todi": [
+"Todi, Spoleto e Colli Martani"
+]
+},
+"membri": [
+"la-piccola-cantina-dei-rossi"
+],
+"primario": "la-piccola-cantina-dei-rossi"
+},
+{
+"slug": "tenuta-dei-mori",
+"nome": "Tenuta dei Mori",
+"regione": "Umbria",
+"comune": "Marsciano",
+"tipi": {
+"todi": [
+"Todi, Spoleto e Colli Martani"
+]
+},
+"membri": [
+"tenuta-dei-mori"
+],
+"primario": "tenuta-dei-mori"
+},
+{
+"slug": "poggio-maiolo",
+"nome": "Poggio Maiolo",
+"regione": "Umbria",
+"comune": "Montone",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"poggio-maiolo"
+],
+"primario": "poggio-maiolo"
+},
+{
+"slug": "violati",
+"nome": "Violati",
+"regione": "Umbria",
+"comune": "San Gemini",
+"tipi": {
+"amelia": [
+"Amelia, Narni e Terni"
+]
+},
+"membri": [
+"violati"
+],
+"primario": "violati"
+},
+{
+"slug": "il-polivere",
+"nome": "Il Polivere",
+"regione": "Umbria",
+"comune": "Ficulle",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"il-polivere"
+],
+"primario": "il-polivere"
+},
+{
+"slug": "cantine-battisti",
+"nome": "Cantine Battisti",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"cantine-battisti"
+],
+"primario": "cantine-battisti"
+},
+{
+"slug": "casale-villa-chiara",
+"nome": "Casale Villa Chiara",
+"regione": "Umbria",
+"comune": "Torgiano",
+"tipi": {
+"torgiano": [
+"Torgiano"
+]
+},
+"membri": [
+"casale-villa-chiara"
+],
+"primario": "casale-villa-chiara"
+},
+{
+"slug": "preggio",
+"nome": "Preggio",
+"regione": "Umbria",
+"comune": "Umbertide",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"preggio"
+],
+"primario": "preggio"
+},
+{
+"slug": "brugnoni",
+"nome": "Brugnoni",
+"regione": "Umbria",
+"comune": "Perugia",
+"tipi": {
+"perugia": [
+"Perugia, Assisi e Colli Perugini"
+]
+},
+"membri": [
+"brugnoni"
+],
+"primario": "brugnoni"
+},
+{
+"slug": "castel-noha",
+"nome": "Castel Noha",
+"regione": "Umbria",
+"comune": "Ficulle",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"castel-noha"
+],
+"primario": "castel-noha"
+},
+{
+"slug": "le-cerque",
+"nome": "Le Cerque",
+"regione": "Umbria",
+"comune": "Spoleto",
+"tipi": {
+"todi": [
+"Todi, Spoleto e Colli Martani"
+]
+},
+"membri": [
+"le-cerque"
+],
+"primario": "le-cerque"
+},
+{
+"slug": "azienda-agricola-romealla",
+"nome": "Azienda Agricola Romealla",
+"regione": "Umbria",
+"comune": "Castel Viscardo",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"azienda-agricola-romealla"
+],
+"primario": "azienda-agricola-romealla"
+},
+{
+"slug": "tenuta-di-corbara",
+"nome": "Tenuta di Corbara",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"tenuta-di-corbara"
+],
+"primario": "tenuta-di-corbara"
+},
+{
+"slug": "titignano",
+"nome": "Titignano",
+"regione": "Umbria",
+"comune": "Orvieto",
+"tipi": {
+"orvieto": [
+"Orvieto"
+]
+},
+"membri": [
+"titignano"
+],
+"primario": "titignano"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
@@ -101754,5 +102894,1205 @@
 "saim"
 ],
 "primario": "saim"
+},
+{
+"slug": "adanti",
+"nome": "Adanti",
+"regione": "Umbria",
+"comune": "Bevagna",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"adanti"
+],
+"primario": "adanti"
+},
+{
+"slug": "agricola-cutini",
+"nome": "Agricola Cutini",
+"regione": "Umbria",
+"comune": "Gualdo Cattaneo",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"agricola-cutini"
+],
+"primario": "agricola-cutini"
+},
+{
+"slug": "agricola-mevante",
+"nome": "Agricola Mevante",
+"regione": "Umbria",
+"comune": "Bevagna",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"agricola-mevante"
+],
+"primario": "agricola-mevante"
+},
+{
+"slug": "alessandrini-andrea",
+"nome": "Alessandrini Andrea",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"alessandrini-andrea"
+],
+"primario": "alessandrini-andrea"
+},
+{
+"slug": "antonelli",
+"nome": "Antonelli",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"antonelli"
+],
+"primario": "antonelli"
+},
+{
+"slug": "arnaldo-caprai",
+"nome": "Arnaldo Caprai",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"arnaldo-caprai"
+],
+"primario": "arnaldo-caprai"
+},
+{
+"slug": "azienda-agricola-de-conti",
+"nome": "Azienda Agricola De Conti",
+"regione": "Umbria",
+"comune": "Trevi",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"azienda-agricola-de-conti"
+],
+"primario": "azienda-agricola-de-conti"
+},
+{
+"slug": "paolo-bea",
+"nome": "Paolo Bea",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"paolo-bea"
+],
+"primario": "paolo-bea"
+},
+{
+"slug": "benedetti-grigi",
+"nome": "Benedetti & Grigi",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"benedetti-grigi"
+],
+"primario": "benedetti-grigi"
+},
+{
+"slug": "benincasa-bevagna",
+"nome": "Benincasa",
+"regione": "Umbria",
+"comune": "Bevagna",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"benincasa-bevagna"
+],
+"primario": "benincasa-bevagna"
+},
+{
+"slug": "bocale",
+"nome": "Bocale",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"bocale"
+],
+"primario": "bocale"
+},
+{
+"slug": "briziarelli",
+"nome": "Briziarelli",
+"regione": "Umbria",
+"comune": "Bevagna",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"briziarelli"
+],
+"primario": "briziarelli"
+},
+{
+"slug": "brunozzi",
+"nome": "Brunozzi",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"brunozzi"
+],
+"primario": "brunozzi"
+},
+{
+"slug": "schippa",
+"nome": "Schippa",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"schippa"
+],
+"primario": "schippa"
+},
+{
+"slug": "agricola-castelgrosso",
+"nome": "Agricola Castelgrosso",
+"regione": "Umbria",
+"comune": "Castel Ritaldi",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"agricola-castelgrosso"
+],
+"primario": "agricola-castelgrosso"
+},
+{
+"slug": "cesarini-sartori",
+"nome": "Cesarini Sartori",
+"regione": "Umbria",
+"comune": "Gualdo Cattaneo",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"cesarini-sartori"
+],
+"primario": "cesarini-sartori"
+},
+{
+"slug": "cocco-ilaria",
+"nome": "Cocco Ilaria",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"cocco-ilaria"
+],
+"primario": "cocco-ilaria"
+},
+{
+"slug": "colle-ciocco",
+"nome": "Colle Ciocco",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"colle-ciocco"
+],
+"primario": "colle-ciocco"
+},
+{
+"slug": "colle-del-magghio",
+"nome": "Colle del Magghio",
+"regione": "Umbria",
+"comune": "Bevagna",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"colle-del-magghio"
+],
+"primario": "colle-del-magghio"
+},
+{
+"slug": "colle-del-saraceno",
+"nome": "Colle del Saraceno",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"colle-del-saraceno"
+],
+"primario": "colle-del-saraceno"
+},
+{
+"slug": "colle-mora",
+"nome": "Colle Mora",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"colle-mora"
+],
+"primario": "colle-mora"
+},
+{
+"slug": "colle-uncinano",
+"nome": "Colle Uncinano",
+"regione": "Umbria",
+"comune": "Spoleto",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"colle-uncinano"
+],
+"primario": "colle-uncinano"
+},
+{
+"slug": "colpetrone",
+"nome": "Còlpetrone",
+"regione": "Umbria",
+"comune": "Gualdo Cattaneo",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"colpetrone"
+],
+"primario": "colpetrone"
+},
+{
+"slug": "di-filippo",
+"nome": "Di Filippo",
+"regione": "Umbria",
+"comune": "Cannara",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"di-filippo"
+],
+"primario": "di-filippo"
+},
+{
+"slug": "dionigi",
+"nome": "Dionigi",
+"regione": "Umbria",
+"comune": "Bevagna",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"dionigi"
+],
+"primario": "dionigi"
+},
+{
+"slug": "fattoria-colsanto",
+"nome": "Fattoria Colsanto",
+"regione": "Umbria",
+"comune": "Bevagna",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"fattoria-colsanto"
+],
+"primario": "fattoria-colsanto"
+},
+{
+"slug": "fongoli",
+"nome": "Fongoli",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"fongoli"
+],
+"primario": "fongoli"
+},
+{
+"slug": "fontecolle",
+"nome": "Fontecolle",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"fontecolle"
+],
+"primario": "fontecolle"
+},
+{
+"slug": "giorgio-iannoni-sebastianini",
+"nome": "Giorgio Iannoni Sebastianini",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"giorgio-iannoni-sebastianini"
+],
+"primario": "giorgio-iannoni-sebastianini"
+},
+{
+"slug": "goretti-fattoria-le-mura-saracene",
+"nome": "Goretti – Fattoria Le Mura Saracene",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"goretti-fattoria-le-mura-saracene"
+],
+"primario": "goretti-fattoria-le-mura-saracene"
+},
+{
+"slug": "il-gheppio",
+"nome": "Il Gheppio",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"il-gheppio"
+],
+"primario": "il-gheppio"
+},
+{
+"slug": "la-fonte",
+"nome": "La Fonte",
+"regione": "Umbria",
+"comune": "Bevagna",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"la-fonte"
+],
+"primario": "la-fonte"
+},
+{
+"slug": "la-veneranda",
+"nome": "La Veneranda",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"la-veneranda"
+],
+"primario": "la-veneranda"
+},
+{
+"slug": "le-cimate",
+"nome": "Le Cimate",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"le-cimate"
+],
+"primario": "le-cimate"
+},
+{
+"slug": "le-thadee",
+"nome": "Le Thadee",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"le-thadee"
+],
+"primario": "le-thadee"
+},
+{
+"slug": "milziade-antano-fattoria-colleallodole",
+"nome": "Milziade Antano – Fattoria Colleallodole",
+"regione": "Umbria",
+"comune": "Bevagna",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"milziade-antano-fattoria-colleallodole"
+],
+"primario": "milziade-antano-fattoria-colleallodole"
+},
+{
+"slug": "montioni",
+"nome": "Montioni",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"montioni"
+],
+"primario": "montioni"
+},
+{
+"slug": "moretti-omero",
+"nome": "Moretti Omero",
+"regione": "Umbria",
+"comune": "Giano dell'Umbria",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"moretti-omero"
+],
+"primario": "moretti-omero"
+},
+{
+"slug": "ninni",
+"nome": "Ninni",
+"regione": "Umbria",
+"comune": "Spoleto",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"ninni"
+],
+"primario": "ninni"
+},
+{
+"slug": "pardi",
+"nome": "Pardi",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"pardi"
+],
+"primario": "pardi"
+},
+{
+"slug": "perticaia",
+"nome": "Perticaia",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"perticaia"
+],
+"primario": "perticaia"
+},
+{
+"slug": "plani-arche",
+"nome": "Plani Arche",
+"regione": "Umbria",
+"comune": "Perugia",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"plani-arche"
+],
+"primario": "plani-arche"
+},
+{
+"slug": "romanelli",
+"nome": "Romanelli",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"romanelli"
+],
+"primario": "romanelli"
+},
+{
+"slug": "tenuta-colfalco",
+"nome": "Tenuta Colfalco",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"tenuta-colfalco"
+],
+"primario": "tenuta-colfalco"
+},
+{
+"slug": "scacciadiavoli",
+"nome": "Scacciadiavoli",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"scacciadiavoli"
+],
+"primario": "scacciadiavoli"
+},
+{
+"slug": "rilo-1217",
+"nome": "RiLò 1217",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"rilo-1217"
+],
+"primario": "rilo-1217"
+},
+{
+"slug": "tabarrini",
+"nome": "Tabarrini",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"tabarrini"
+],
+"primario": "tabarrini"
+},
+{
+"slug": "tenuta-alzatura",
+"nome": "Tenuta Alzatura",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"tenuta-alzatura"
+],
+"primario": "tenuta-alzatura"
+},
+{
+"slug": "tenuta-bellafonte",
+"nome": "Tenuta Bellafonte",
+"regione": "Umbria",
+"comune": "Bevagna",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"tenuta-bellafonte"
+],
+"primario": "tenuta-bellafonte"
+},
+{
+"slug": "tenuta-clivo-del-cardinale",
+"nome": "Tenuta Clivo del Cardinale",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"tenuta-clivo-del-cardinale"
+],
+"primario": "tenuta-clivo-del-cardinale"
+},
+{
+"slug": "tenuta-di-saragano",
+"nome": "Tenuta di Saragano",
+"regione": "Umbria",
+"comune": "Gualdo Cattaneo",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"tenuta-di-saragano"
+],
+"primario": "tenuta-di-saragano"
+},
+{
+"slug": "tenuta-rocca-di-fabbri",
+"nome": "Tenuta Rocca di Fabbri",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"tenuta-rocca-di-fabbri"
+],
+"primario": "tenuta-rocca-di-fabbri"
+},
+{
+"slug": "tenute-baldo",
+"nome": "Tenute Baldo",
+"regione": "Umbria",
+"comune": "Bastia Umbra",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"tenute-baldo"
+],
+"primario": "tenute-baldo"
+},
+{
+"slug": "tenute-castel-savino",
+"nome": "Tenute Castel Savino",
+"regione": "Umbria",
+"comune": "Castel Ritaldi",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"tenute-castel-savino"
+],
+"primario": "tenute-castel-savino"
+},
+{
+"slug": "tenute-lunelli-carapace",
+"nome": "Tenute Lunelli – Carapace",
+"regione": "Umbria",
+"comune": "Bevagna",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"tenute-lunelli-carapace"
+],
+"primario": "tenute-lunelli-carapace"
+},
+{
+"slug": "terra-di-rovo",
+"nome": "Terra di Rovo",
+"regione": "Umbria",
+"comune": "Spoleto",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"terra-di-rovo"
+],
+"primario": "terra-di-rovo"
+},
+{
+"slug": "terre-de-la-custodia",
+"nome": "Terre de la Custodia",
+"regione": "Umbria",
+"comune": "Gualdo Cattaneo",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"terre-de-la-custodia"
+],
+"primario": "terre-de-la-custodia"
+},
+{
+"slug": "terre-de-trinci",
+"nome": "Terre de Trinci",
+"regione": "Umbria",
+"comune": "Foligno",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"terre-de-trinci"
+],
+"primario": "terre-de-trinci"
+},
+{
+"slug": "terre-dei-nappi",
+"nome": "Terre dei Nappi",
+"regione": "Umbria",
+"comune": "Bevagna",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"terre-dei-nappi"
+],
+"primario": "terre-dei-nappi"
+},
+{
+"slug": "terre-di-capitani",
+"nome": "Terre di Capitani",
+"regione": "Umbria",
+"comune": "Gualdo Cattaneo",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"terre-di-capitani"
+],
+"primario": "terre-di-capitani"
+},
+{
+"slug": "terre-di-san-felice",
+"nome": "Terre di San Felice",
+"regione": "Umbria",
+"comune": "Castel Ritaldi",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"terre-di-san-felice"
+],
+"primario": "terre-di-san-felice"
+},
+{
+"slug": "tudernum",
+"nome": "Tudernum",
+"regione": "Umbria",
+"comune": "Todi",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"tudernum"
+],
+"primario": "tudernum"
+},
+{
+"slug": "valdangius",
+"nome": "Valdangius",
+"regione": "Umbria",
+"comune": "Montefalco",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"valdangius"
+],
+"primario": "valdangius"
+},
+{
+"slug": "villa-mongalli",
+"nome": "Villa Mongalli",
+"regione": "Umbria",
+"comune": "Bevagna",
+"tipi": {
+"montefalco": [
+"Montefalco"
+]
+},
+"membri": [
+"villa-mongalli"
+],
+"primario": "villa-mongalli"
+},
+{
+"slug": "berioli",
+"nome": "Berioli",
+"regione": "Umbria",
+"comune": "Perugia",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"berioli"
+],
+"primario": "berioli"
+},
+{
+"slug": "cantina-goccia",
+"nome": "Cantina Goccia",
+"regione": "Umbria",
+"comune": "Castiglione del Lago",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"cantina-goccia"
+],
+"primario": "cantina-goccia"
+},
+{
+"slug": "castello-di-magione",
+"nome": "Castello di Magione",
+"regione": "Umbria",
+"comune": "Magione",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"castello-di-magione"
+],
+"primario": "castello-di-magione"
+},
+{
+"slug": "coldibetto",
+"nome": "Coldibetto",
+"regione": "Umbria",
+"comune": "Perugia",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"coldibetto"
+],
+"primario": "coldibetto"
+},
+{
+"slug": "duca-della-corgna",
+"nome": "Duca della Corgna",
+"regione": "Umbria",
+"comune": "Castiglione del Lago",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"duca-della-corgna"
+],
+"primario": "duca-della-corgna"
+},
+{
+"slug": "il-poggio-di-anna-gattobigio",
+"nome": "Il Poggio di Anna Gattobigio",
+"regione": "Umbria",
+"comune": "Castiglione del Lago",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"il-poggio-di-anna-gattobigio"
+],
+"primario": "il-poggio-di-anna-gattobigio"
+},
+{
+"slug": "la-querciolana",
+"nome": "La Querciolana",
+"regione": "Umbria",
+"comune": "Panicale",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"la-querciolana"
+],
+"primario": "la-querciolana"
+},
+{
+"slug": "madrevite",
+"nome": "Madrevite",
+"regione": "Umbria",
+"comune": "Castiglione del Lago",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"madrevite"
+],
+"primario": "madrevite"
+},
+{
+"slug": "montemelino",
+"nome": "Montemelino",
+"regione": "Umbria",
+"comune": "Tuoro sul Trasimeno",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"montemelino"
+],
+"primario": "montemelino"
+},
+{
+"slug": "nofrini",
+"nome": "Nofrini",
+"regione": "Umbria",
+"comune": "Magione",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"nofrini"
+],
+"primario": "nofrini"
+},
+{
+"slug": "podere-marella",
+"nome": "Podere Marella",
+"regione": "Umbria",
+"comune": "Castiglione del Lago",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"podere-marella"
+],
+"primario": "podere-marella"
+},
+{
+"slug": "poggio-santa-maria",
+"nome": "Poggio Santa Maria",
+"regione": "Umbria",
+"comune": "Castiglione del Lago",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"poggio-santa-maria"
+],
+"primario": "poggio-santa-maria"
+},
+{
+"slug": "pucciarella",
+"nome": "Pucciarella",
+"regione": "Umbria",
+"comune": "Magione",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"pucciarella"
+],
+"primario": "pucciarella"
+},
+{
+"slug": "viandante-del-cielo",
+"nome": "Viandante del Cielo",
+"regione": "Umbria",
+"comune": "Passignano sul Trasimeno",
+"tipi": {
+"trasimeno": [
+"Colli del Trasimeno"
+]
+},
+"membri": [
+"viandante-del-cielo"
+],
+"primario": "viandante-del-cielo"
+},
+{
+"slug": "fattoria-mani-di-luna",
+"nome": "Fattoria Mani di Luna",
+"regione": "Umbria",
+"comune": "Torgiano",
+"tipi": {
+"torgiano": [
+"Torgiano"
+]
+},
+"membri": [
+"fattoria-mani-di-luna"
+],
+"primario": "fattoria-mani-di-luna"
+},
+{
+"slug": "daniele-rossi",
+"nome": "Daniele Rossi",
+"regione": "Umbria",
+"comune": "Torgiano",
+"tipi": {
+"torgiano": [
+"Torgiano"
+]
+},
+"membri": [
+"daniele-rossi"
+],
+"primario": "daniele-rossi"
 }
 ]
