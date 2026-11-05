@@ -1,0 +1,54 @@
+{
+ "nome": "Giovinco wines",
+ "slug": "giovinco-wines",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01667390841 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "SS 188 c.da Anguilla snc, 92017 Sambuca di Sicilia (AG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 379 2936248 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@giovincowines.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.giovincowines.it|giovincowines.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.giovincowines.it",
+   "etichetta": "giovincowines.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

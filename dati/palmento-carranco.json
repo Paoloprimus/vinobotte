@@ -1,0 +1,42 @@
+{
+ "nome": "Palmento Carranco",
+ "slug": "palmento-carranco",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Frazione Verzella, 95012 Castiglione di Sicilia (CT) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@palmentocarranco.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.palmentocarranco.com/|palmentocarranco.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini Etna DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.palmentocarranco.com/",
+   "etichetta": "palmentocarranco.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini Etna DOC, consultato il 5 novembre 2026.",
+   "url": "https://thewinesofetna.com/producers/",
+   "etichetta": "thewinesofetna.com"
+  }
+ ]
+}

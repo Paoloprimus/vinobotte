@@ -1,0 +1,50 @@
+{
+ "nome": "Murgo",
+ "slug": "murgo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "06084400875 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Zafferana 13, 95010 Santa Venerina (CT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0959505 20 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@murgo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.murgo.it/it/|murgo.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini Etna DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.murgo.it/it/",
+   "etichetta": "murgo.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini Etna DOC, consultato il 5 novembre 2026.",
+   "url": "https://thewinesofetna.com/producers/",
+   "etichetta": "thewinesofetna.com"
+  }
+ ]
+}

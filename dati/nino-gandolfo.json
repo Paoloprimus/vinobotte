@@ -1,0 +1,42 @@
+{
+ "nome": "Nino Gandolfo",
+ "slug": "nino-gandolfo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Capitisseti, 91018 Salemi (TP) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@ninogandolfo.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://ninogandolfo.com/|ninogandolfo.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini DOC Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://ninogandolfo.com/",
+   "etichetta": "ninogandolfo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini DOC Sicilia, consultato il 5 novembre 2026.",
+   "url": "https://siciliadoc.wine/i-produttori/",
+   "etichetta": "siciliadoc.wine"
+  }
+ ]
+}

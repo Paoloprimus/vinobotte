@@ -1,0 +1,50 @@
+{
+ "nome": "Vini Calì",
+ "slug": "vini-cali",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "06497470820 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Naurra 50-58, 90014 Casteldaccia (PA) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 091 953243 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cali.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://cali.it/?v=0b3b97fa6688/|cali.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini Etna DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://cali.it/?v=0b3b97fa6688/",
+   "etichetta": "cali.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini Etna DOC, consultato il 5 novembre 2026.",
+   "url": "https://thewinesofetna.com/producers/",
+   "etichetta": "thewinesofetna.com"
+  }
+ ]
+}

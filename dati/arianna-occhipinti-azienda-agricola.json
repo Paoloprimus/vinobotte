@@ -1,0 +1,54 @@
+{
+ "nome": "Arianna Occhipinti Azienda Agricola",
+ "slug": "arianna-occhipinti-azienda-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Az. Agr. Arianna Occhipinti [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01245460884 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via dei Mille 55, 97019 Vittoria (RG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "09321865519 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@agricolaocchipinti.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.agricolaocchipinti.it|agricolaocchipinti.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.agricolaocchipinti.it",
+   "etichetta": "agricolaocchipinti.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

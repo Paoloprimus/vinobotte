@@ -1,0 +1,50 @@
+{
+ "nome": "Sibiliana Vini",
+ "slug": "sibiliana-vini-marsala",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02520410818 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Piazza Francesco Pizzo 5, 91025 Marsala (TP) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 3886279244 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "sales@sibilianavini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://sibilianavini.it/|sibilianavini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini DOC Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://sibilianavini.it/",
+   "etichetta": "sibilianavini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini DOC Sicilia, consultato il 5 novembre 2026.",
+   "url": "https://siciliadoc.wine/i-produttori/",
+   "etichetta": "siciliadoc.wine"
+  }
+ ]
+}

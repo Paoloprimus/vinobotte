@@ -1,0 +1,54 @@
+{
+ "nome": "Barone di Villagrande",
+ "slug": "barone-di-villagrande",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Vinicola Barone di Villagrande [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04920120872 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via del Bosco 25, 95010 Milo (CT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "095 7082175 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@villagrande.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.villagrande.it|villagrande.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.villagrande.it",
+   "etichetta": "villagrande.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

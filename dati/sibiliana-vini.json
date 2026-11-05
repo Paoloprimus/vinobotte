@@ -1,0 +1,54 @@
+{
+ "nome": "Sibiliana Vini",
+ "slug": "sibiliana-vini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Sibilianavini SRL [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02520410818 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Piazza F. Pizzo 5, 91025 Marsala (TP) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0923 961632 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@sibilianavini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantineeuropa.it|cantineeuropa.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cantineeuropa.it",
+   "etichetta": "cantineeuropa.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

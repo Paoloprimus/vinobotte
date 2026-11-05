@@ -1,0 +1,50 @@
+{
+ "nome": "Morgante",
+ "slug": "morgante",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01743110841 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Racalmare, 92020 Grotte (AG) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0922 945579 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@morgantevini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://morgantevini.it/|morgantevini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini DOC Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://morgantevini.it/",
+   "etichetta": "morgantevini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini DOC Sicilia, consultato il 5 novembre 2026.",
+   "url": "https://siciliadoc.wine/i-produttori/",
+   "etichetta": "siciliadoc.wine"
+  }
+ ]
+}

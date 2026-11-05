@@ -1,0 +1,54 @@
+{
+ "nome": "Spadafora dei Principi di Spadafora",
+ "slug": "spadafora-dei-principi-di-spadafora",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Francesco Spadafora [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03045530825 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Ausonia 90, 90135 Palermo (PA) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "091 514952 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@spadafora.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.spadafora.com|spadafora.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.spadafora.com",
+   "etichetta": "spadafora.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

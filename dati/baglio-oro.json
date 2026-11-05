@@ -1,0 +1,50 @@
+{
+ "nome": "Baglio Oro",
+ "slug": "baglio-oro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società agricola semplice [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "C/da Perino n. 235, 91025 Marsala (TP) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0039 0923 967744 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bagliooro.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.bagliooro.it|bagliooro.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.bagliooro.it",
+   "etichetta": "bagliooro.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

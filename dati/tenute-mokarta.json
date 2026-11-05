@@ -1,0 +1,46 @@
+{
+ "nome": "Tenute Mokarta",
+ "slug": "tenute-mokarta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02428160812 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "C/DA SAN CIRO 487, 91018 Salemi (TP) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "assistenzaclienti@tenutemokarta.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://tenutemokarta.com/|tenutemokarta.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini DOC Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://tenutemokarta.com/",
+   "etichetta": "tenutemokarta.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini DOC Sicilia, consultato il 5 novembre 2026.",
+   "url": "https://siciliadoc.wine/i-produttori/",
+   "etichetta": "siciliadoc.wine"
+  }
+ ]
+}

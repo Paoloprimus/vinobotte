@@ -1,0 +1,54 @@
+{
+ "nome": "Centopassi",
+ "slug": "centopassi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Consorzio Libera Terra Mediterraneo Cooperativa Sociale ONLUS [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "05748120820 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "SS 118 km 25 + 100, 90034 Corleone (PA) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "091 8577655 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@centopassisicilia.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.centopassisicilia.it|centopassisicilia.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.centopassisicilia.it",
+   "etichetta": "centopassisicilia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

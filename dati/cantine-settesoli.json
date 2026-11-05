@@ -1,0 +1,50 @@
+{
+ "nome": "Cantine Settesoli",
+ "slug": "cantine-settesoli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantine Settesoli SCA [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "SS 115, 91013 Calatafimi-Segesta (TP) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0925 77111 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinesettesoli.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinesettesoli.it|cantinesettesoli.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cantinesettesoli.it",
+   "etichetta": "cantinesettesoli.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

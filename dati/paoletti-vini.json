@@ -1,0 +1,42 @@
+{
+ "nome": "Paoletti Vini",
+ "slug": "paoletti-vini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02880780818 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Maddaloni, 2, 91011 Alcamo (TP) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://aziendapaoletti.it/|aziendapaoletti.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini DOC Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://aziendapaoletti.it/",
+   "etichetta": "aziendapaoletti.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini DOC Sicilia, consultato il 5 novembre 2026.",
+   "url": "https://siciliadoc.wine/i-produttori/",
+   "etichetta": "siciliadoc.wine"
+  }
+ ]
+}

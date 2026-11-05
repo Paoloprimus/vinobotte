@@ -1,0 +1,54 @@
+{
+ "nome": "Alessandro di Camporeale",
+ "slug": "alessandro-di-camporeale",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Alessandro di Camporeale Soc. Coop. Agr. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "05400050828 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Mandranova snc, 90043 Camporeale (PA) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0924 37038 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@alessandrodicamporeale.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.alessandrodicamporeale.it|alessandrodicamporeale.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.alessandrodicamporeale.it",
+   "etichetta": "alessandrodicamporeale.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

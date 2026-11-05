@@ -1,0 +1,54 @@
+{
+ "nome": "Principi di Butera",
+ "slug": "principi-di-butera",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Castello del Poggio S.Ag.R. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02360740241 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Deliella, 93011 Butera (CL) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0934 347726 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@principidibutera.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.principidibutera.it|principidibutera.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.principidibutera.it",
+   "etichetta": "principidibutera.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

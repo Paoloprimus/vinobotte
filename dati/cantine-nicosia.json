@@ -1,0 +1,54 @@
+{
+ "nome": "Cantine Nicosia",
+ "slug": "cantine-nicosia",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Nicosia S.p.A. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04102780873 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Luigi Capuana 65, 95039 Trecastagni (CT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "095 7806767 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinenicosia.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinenicosia.it|cantinenicosia.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cantinenicosia.it",
+   "etichetta": "cantinenicosia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

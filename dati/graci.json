@@ -1,0 +1,54 @@
+{
+ "nome": "Graci",
+ "slug": "graci",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Graci di Aiello Graci Alberto S.S. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04229470879 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Scipioni 12, 95014 Giarre (CT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "3487016773 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@graci.eu [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.graci.eu|graci.eu}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.graci.eu",
+   "etichetta": "graci.eu"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

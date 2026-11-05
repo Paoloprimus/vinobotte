@@ -1,0 +1,54 @@
+{
+ "nome": "Horus Cantina",
+ "slug": "horus-cantina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Horus 2 Srl [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01452580887 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Curtatone 249, 97019 Vittoria (RG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0932 1838739 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinahorus.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinahorus.com|cantinahorus.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cantinahorus.com",
+   "etichetta": "cantinahorus.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

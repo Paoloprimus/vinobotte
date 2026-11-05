@@ -1,0 +1,50 @@
+{
+ "nome": "Valle dell’Acate",
+ "slug": "valle-dellacate-acate",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00217010883 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Bidini Soprano e Sottano, 97011 Acate (RG) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0932 874166 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@valledellacate.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://valledellacate.com/|valledellacate.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini DOC Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://valledellacate.com/",
+   "etichetta": "valledellacate.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini DOC Sicilia, consultato il 5 novembre 2026.",
+   "url": "https://siciliadoc.wine/i-produttori/",
+   "etichetta": "siciliadoc.wine"
+  }
+ ]
+}

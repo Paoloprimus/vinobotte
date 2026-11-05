@@ -1,0 +1,54 @@
+{
+ "nome": "Vivera",
+ "slug": "vivera",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Vivera Soc. Semp. Agr. di L. Vivera [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "05650930877 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Martinella, 95015 Linguaglossa (CT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "095 643837 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vivera.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vivera.it|vivera.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.vivera.it",
+   "etichetta": "vivera.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "nome": "Patrì",
+ "slug": "patri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Patrì Rocco [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00176880854 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "via Lombardia 1, 93016 Riesi (CL) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinepatri.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinepatri.it/|cantinepatri.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cantinepatri.it/",
+   "etichetta": "cantinepatri.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

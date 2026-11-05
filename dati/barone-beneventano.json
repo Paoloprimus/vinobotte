@@ -1,0 +1,38 @@
+{
+ "nome": "Barone Beneventano",
+ "slug": "barone-beneventano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Carpene snc, 95029 Trecastagni (CT) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.baronebeneventano.com/|baronebeneventano.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini Etna DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.baronebeneventano.com/",
+   "etichetta": "baronebeneventano.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini Etna DOC, consultato il 5 novembre 2026.",
+   "url": "https://thewinesofetna.com/producers/",
+   "etichetta": "thewinesofetna.com"
+  }
+ ]
+}

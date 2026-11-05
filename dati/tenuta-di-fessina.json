@@ -1,0 +1,54 @@
+{
+ "nome": "Tenuta di Fessina",
+ "slug": "tenuta-di-fessina",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta di Fessina Società Agricola a R.L. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04531840876 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "SS 120 km 22, Rovittello, 95012 Castiglione di Sicilia (CT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0942 395300 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "fessina@tenutadifessina.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutadifessina.com|tenutadifessina.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.tenutadifessina.com",
+   "etichetta": "tenutadifessina.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

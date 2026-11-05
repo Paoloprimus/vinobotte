@@ -1,0 +1,46 @@
+{
+ "nome": "Tenuta Papale",
+ "slug": "tenuta-papale",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04454490873 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "SP 160, 95032 Belpasso (CT) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "tenutapapale@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutapapale.com/|tenutapapale.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini Etna DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.tenutapapale.com/",
+   "etichetta": "tenutapapale.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini Etna DOC, consultato il 5 novembre 2026.",
+   "url": "https://thewinesofetna.com/producers/",
+   "etichetta": "thewinesofetna.com"
+  }
+ ]
+}

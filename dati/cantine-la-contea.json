@@ -1,0 +1,46 @@
+{
+ "nome": "Cantine La Contea",
+ "slug": "cantine-la-contea",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03100900871 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Santa Venera Superiore 25, 95016 Mascali (CT) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "experience@cantinelacontea.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://cantinelacontea.it/|cantinelacontea.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini Etna DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://cantinelacontea.it/",
+   "etichetta": "cantinelacontea.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini Etna DOC, consultato il 5 novembre 2026.",
+   "url": "https://thewinesofetna.com/producers/",
+   "etichetta": "thewinesofetna.com"
+  }
+ ]
+}

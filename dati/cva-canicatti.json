@@ -1,0 +1,50 @@
+{
+ "nome": "CVA Canicattì",
+ "slug": "cva-canicatti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "CVA Canicattì Società Cooperativa Agricola [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Aquilata snc, 92024 Canicattì (AG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0922/829371 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cvacanicatti.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cvacanicatti.it|cvacanicatti.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cvacanicatti.it",
+   "etichetta": "cvacanicatti.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

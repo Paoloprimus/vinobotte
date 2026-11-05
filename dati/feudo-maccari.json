@@ -1,0 +1,54 @@
+{
+ "nome": "Feudo Maccari",
+ "slug": "feudo-maccari",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Feudo Maccari società agricola srl [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01973460890 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "SP Noto Pachino km 13,5, 96017 Noto (SR) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0575 477857 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@feudomaccari.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.feudomaccari.it|feudomaccari.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.feudomaccari.it",
+   "etichetta": "feudomaccari.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

@@ -69,9 +69,9 @@
 68;Consorzio tutela vini Piceni;https://www.consorziovinipiceni.it/;NON FATTO: sito irraggiungibile anche dal Mac;
 69;Consorzio volontario per la tutela dei vini Colli Euganei;https://www.collieuganeidoc.com/soci;FATTO 4 nov 2026: elenco letto dal localizzatore soci (98 cantine, 96 già in guida)
 70;Consorzio di tutela Roero;https://www.consorziodelroero.it/cantine/;FATTO (primo giro);
-71;Consorzio di tutela vini DOC Sicilia;https://www.consorziodocsicilia.it/;FATTO (primo giro, lotti 2–11);
+71;Consorzio di tutela vini DOC Sicilia;https://siciliadoc.wine/i-produttori/;FATTO 5 nov 2026;"Elenco 400 soci letto nel browser (il sito blocca i programmi). 105 già in guida o doppi, 18 senza sito, 268 siti letti: 106 schede con sede in Sicilia, 162 restano fuori (sito non raggiungibile, sito vuoto, indirizzo non leggibile, sede fuori Sicilia, non cantine)"
 72;Consorzio per la tutela dei vini con denominazione di origine Bolgheri;https://www.bolgheridoc.com/consorziati/;FATTO (completo, controllo rigoroso 1 nov);completo 79/79
-73;Consorzio volontario per la tutela e la valorizzazione dei vini a DOC dell'Isola di Pantelleria;https://www.vinipantelleriadoc.it/;DA FARE: elenco solo in mappa interattiva;
+73;Consorzio volontario per la tutela e la valorizzazione dei vini a DOC dell'Isola di Pantelleria;https://www.vinipantelleriadoc.it/;NON FATTO: elenco solo in mappa interattiva non leggibile; in guida solo De Bartoli (DOC Sicilia);
 74;Consorzio per la tutela e la valorizzazione del vino Cesanese del Piglio;;DA FARE: indirizzo web da trovare;
 75;Consorzio di tutela dei vini con denominazione d'origine Val d'Arno di Sopra;https://www.valdarnodisopradoc.it/consorzio/;tessera già in guida: da verificare la completezza;
 76;Consorzio di tutela del vino a denominazione di origine Orcia;;tessera già in guida: da verificare la completezza;
@@ -96,14 +96,14 @@
 95;Consorzio Vini Terre Lariane;https://www.terrelarianeigt.it/le-cantine/;FATTO (primo giro);
 96;Consorzio Garda DOC;https://www.gardadocvino.it/;FATTO (primo giro);
 97;Consorzio di Tutela Vini DOC Valdadige Terra dei Forti;;FATTO 4 nov 2026: cercato sul web, nessun sito proprio né elenco soci online;
-98;Consorzio volontario per la tutela e la valorizzazione dei vini Malvasia delle Lipari DOC e IGP Salina;https://consorziomalvasiadellelipari.it/;FATTO 4 nov 2026: il sito non pubblica l'elenco dei soci;
+98;Consorzio volontario per la tutela e la valorizzazione dei vini Malvasia delle Lipari DOC e IGP Salina;https://consorziomalvasiadellelipari.it/i-vignaioli;FATTO 5 nov 2026;"12 vignaioli con nome e senza indirizzo: 7 schede (sede letta dai siti), Barbanacoli ed Eolia senza sito"
 99;Consorzio per la tutela e valorizzazione dei vini DOC Pinerolese;https://consorziodocpinerolese.it/cantine/;FATTO (primo giro, lotti 2–11);
-100;Consorzio volontario di tutela Cerasuolo di Vittoria DOCG e Vittoria DOC;https://www.cerasuolovittoria.eu/;NON FATTO: sito irraggiungibile anche dal Mac;
+100;Consorzio volontario di tutela Cerasuolo di Vittoria DOCG e Vittoria DOC;https://www.cerasuolovittoria.eu/;NON FATTO: sito con certificato non valido, non aperto; cantine della zona prese da DOC Sicilia, Assovini e Vivino;
 101;Consorzio tutela vini DOC Asprinio d'Aversa, Galluccio e Falerno del Massico;https://www.vitica.it/associati/;FATTO (primo giro; Vivino 5 nov 2026);
 102;Consorzio Tutela vini d'Irpinia;https://consorziovinidirpinia.it/;NON FATTO: il sito non pubblica un elenco soci (ricontrollato 5 nov 2026); coperto da Vivino;
 103;Consorzio volontario per la tutela e la valorizzazione dei vini a DOC Malvasia di Bosa;;DA FARE: indirizzo web da trovare;
 104;Consorzio IGT Valcamonica;https://www.consorziovinivallecamonica.it/le-cantine/;FATTO (primo giro);
-105;Consorzio volontario per la Tutela dei Vini Etna con DOC;https://www.etnadoc.com/;tessera già in guida: elenco soci in mappa/JS, lettura non automatica;
+105;Consorzio volontario per la Tutela dei Vini Etna con DOC;https://thewinesofetna.com/producers/;FATTO 5 nov 2026;"Elenco di 149 produttori (solo nomi): 42 già in guida, 107 cercati uno a uno: 28 nuove schede; il resto senza sito o senza indirizzo in Sicilia"
 106;Consorzio Tutela Ovada DOCG;https://ovada.eu/2019/index.php/it/i-produttori;FATTO (primo giro, lotti 2–11);
 107;Consorzio dei Vini Gioia del Colle DOC;http://consorziovinigioiadelcolle.it/index.php/le-aziende-del-consorzio-vini-gioia-del-colle;NON FATTO: la pagina soci è vuota anche col browser (5 nov 2026); coperto da Vivino;
 108;Consorzio volontario di tutela e valorizzazione del vino DOC Nardò;;NON FATTO: nessun sito trovato (5 nov 2026); coperto da Vivino;
@@ -126,9 +126,9 @@
 125;Consorzio Tutela Vini dei Campi Flegrei e Ischia;;NON FATTO: nessun sito raggiungibile (5 nov 2026); coperto da Vivino;
 126;Consorzio Tutela Vini Friuli Venezia Giulia;https://www.docfriuli.eu/aziende/;FATTO (primo giro);
 127;Consorzio Volontario per la Tutela e la Valorizzazione dei vini DOC Vernaccia di Oristano;;DA FARE: indirizzo web da trovare;
-128;Consorzio volontarioper la tutela del vino Marsala - Consorzio Vino Marsala;;FATTO (primo giro, lotto 11);"Marsala: 17 soci (fonte golosaria.it), 8 in guida, 8 in wip; sito del Consorzio occupato da spam"
+128;Consorzio volontarioper la tutela del vino Marsala - Consorzio Vino Marsala;;FATTO (primo giro, lotto 11); Sicilia 5 nov 2026: cantine di Marsala riprese da DOC Sicilia e Assovini;
 129;Consorzio del Vino a indicazione geografica tipica Toscana - Consorzio Vino Toscana;;DA FARE: indirizzo web da trovare;
-130;Consorzio Valdinoto;https://valdinoto.it/;NON FATTO: il sito non pubblica un elenco soci;
+130;Consorzio Valdinoto;https://valdinoto.it/;FATTO 5 nov 2026: il sito non pubblica un elenco soci; cantine della zona prese da DOC Sicilia, Assovini e Vivino;
 131;Consorzio Tutela Moscato di Scanzo;https://consorziomoscatodiscanzo.it/i-nostri-soci/;FATTO (primo giro);
 132;Consorzio Volontario per la Tutela e la Valorizzazione dei vini DOC Terralba;;DA FARE: indirizzo web da trovare;
 133;Consorzio di Tutela dei Vini Carmignano;;tessera già in guida: da verificare la completezza;

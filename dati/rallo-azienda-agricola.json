@@ -1,0 +1,54 @@
+{
+ "nome": "Rallo Azienda Agricola",
+ "slug": "rallo-azienda-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Rallo Azienda Agricola S.p.a. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01518500812 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Vincenzo Florio n.2, 91025 Marsala (TP) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0923 721633 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@aziendaagricolarallo.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.aziendaagricolarallo.it|aziendaagricolarallo.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.aziendaagricolarallo.it",
+   "etichetta": "aziendaagricolarallo.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

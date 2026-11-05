@@ -1,0 +1,54 @@
+{
+ "nome": "Feudo Montoni",
+ "slug": "feudo-montoni",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Feudo Montoni di Fabio Sireci [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03959670823 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Largo Val di Mazara 2, 90144 Palermo (PA) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "091 513106 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@feudomontoni.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.feudomontoni.it|feudomontoni.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.feudomontoni.it",
+   "etichetta": "feudomontoni.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

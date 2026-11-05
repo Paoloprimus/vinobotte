@@ -1,0 +1,54 @@
+{
+ "nome": "Cusumano",
+ "slug": "cusumano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cusumano Srl Soc. Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01995040811 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada San Carlo, 90047 Partinico (PA) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "091 8908713 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cusumano.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cusumano.it|cusumano.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cusumano.it",
+   "etichetta": "cusumano.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

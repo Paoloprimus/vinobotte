@@ -1,0 +1,50 @@
+{
+ "nome": "Baglio Aimone",
+ "slug": "baglio-aimone",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02505810818 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via G. Falcone, 13, 91020 Petrosino (TP) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0923.985082 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@baglioaimone.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://baglioaimone.it/|baglioaimone.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini DOC Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://baglioaimone.it/",
+   "etichetta": "baglioaimone.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini DOC Sicilia, consultato il 5 novembre 2026.",
+   "url": "https://siciliadoc.wine/i-produttori/",
+   "etichetta": "siciliadoc.wine"
+  }
+ ]
+}

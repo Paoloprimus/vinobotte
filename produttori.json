@@ -66924,6 +66924,276 @@
 "primario": "daniele-ronco"
 },
 {
+"slug": "cantina-marilina",
+"nome": "Cantina Marilina",
+"regione": "Sicilia",
+"comune": "Noto",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"cantina-marilina"
+],
+"primario": "cantina-marilina"
+},
+{
+"slug": "funaro",
+"nome": "Funaro",
+"regione": "Sicilia",
+"comune": "Palermo",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"funaro"
+],
+"primario": "funaro"
+},
+{
+"slug": "flavia",
+"nome": "Flavia",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"flavia"
+],
+"primario": "flavia"
+},
+{
+"slug": "tenute-mannino-di-plachi",
+"nome": "Tenute Mannino di Plachi",
+"regione": "Sicilia",
+"comune": "Viagrande",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"tenute-mannino-di-plachi"
+],
+"primario": "tenute-mannino-di-plachi"
+},
+{
+"slug": "bonsignore",
+"nome": "Bonsignore",
+"regione": "Sicilia",
+"comune": "San Cataldo",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"bonsignore"
+],
+"primario": "bonsignore"
+},
+{
+"slug": "foraci",
+"nome": "Foraci",
+"regione": "Sicilia",
+"comune": "Mazara del Vallo",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"foraci"
+],
+"primario": "foraci"
+},
+{
+"slug": "tenute-dei-ciclopi",
+"nome": "Tenute dei Ciclopi",
+"regione": "Sicilia",
+"comune": "Catania",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"tenute-dei-ciclopi"
+],
+"primario": "tenute-dei-ciclopi"
+},
+{
+"slug": "la-valle-della-luna",
+"nome": "La Valle della Luna",
+"regione": "Sicilia",
+"comune": "Partanna",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"la-valle-della-luna"
+],
+"primario": "la-valle-della-luna"
+},
+{
+"slug": "baronia-della-pietra",
+"nome": "Baronia della Pietra",
+"regione": "Sicilia",
+"comune": "Alessandria della Rocca",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"baronia-della-pietra"
+],
+"primario": "baronia-della-pietra"
+},
+{
+"slug": "giovinotto",
+"nome": "Giovinotto",
+"regione": "Sicilia",
+"comune": "Ramacca",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"giovinotto"
+],
+"primario": "giovinotto"
+},
+{
+"slug": "pomilia-calamia",
+"nome": "Pomilia Calamia",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"pomilia-calamia"
+],
+"primario": "pomilia-calamia"
+},
+{
+"slug": "romeo",
+"nome": "Romeo",
+"regione": "Sicilia",
+"comune": "Santa Venerina",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"romeo"
+],
+"primario": "romeo"
+},
+{
+"slug": "meraki",
+"nome": "Meraki",
+"regione": "Sicilia",
+"comune": "Partinico",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"meraki"
+],
+"primario": "meraki"
+},
+{
+"slug": "tenuta-santo-spirito",
+"nome": "Tenuta Santo Spirito",
+"regione": "Sicilia",
+"comune": "Vittoria",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"tenuta-santo-spirito"
+],
+"primario": "tenuta-santo-spirito"
+},
+{
+"slug": "tenute-inghilleri",
+"nome": "Tenute Inghilleri",
+"regione": "Sicilia",
+"comune": "Partinico",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"tenute-inghilleri"
+],
+"primario": "tenute-inghilleri"
+},
+{
+"slug": "umberto-romano",
+"nome": "Umberto Romano",
+"regione": "Sicilia",
+"comune": "Caltanissetta",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"umberto-romano"
+],
+"primario": "umberto-romano"
+},
+{
+"slug": "tenuta-lacco",
+"nome": "Tenuta Lacco",
+"regione": "Sicilia",
+"comune": "Rodì Milici",
+"tipi": {
+"mamertino": [
+"Mamertino e Faro (Messina)"
+]
+},
+"membri": [
+"tenuta-lacco"
+],
+"primario": "tenuta-lacco"
+},
+{
+"slug": "casa-ventura",
+"nome": "Casa Ventura",
+"regione": "Sicilia",
+"comune": "Chiaramonte Gulfi",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"casa-ventura"
+],
+"primario": "casa-ventura"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
@@ -95814,5 +96084,3275 @@
 "vinicola-savese-pichierri"
 ],
 "primario": "vinicola-savese-pichierri"
+},
+{
+"slug": "alessandro-di-camporeale",
+"nome": "Alessandro di Camporeale",
+"regione": "Sicilia",
+"comune": "Camporeale",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"alessandro-di-camporeale"
+],
+"primario": "alessandro-di-camporeale"
+},
+{
+"slug": "assuli",
+"nome": "Assuli",
+"regione": "Sicilia",
+"comune": "Mazara del Vallo",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"assuli"
+],
+"primario": "assuli"
+},
+{
+"slug": "baglio-del-cristo-di-campobello",
+"nome": "Baglio del Cristo di Campobello",
+"regione": "Sicilia",
+"comune": "Campobello di Licata",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"baglio-del-cristo-di-campobello"
+],
+"primario": "baglio-del-cristo-di-campobello"
+},
+{
+"slug": "baglio-oro",
+"nome": "Baglio Oro",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"baglio-oro"
+],
+"primario": "baglio-oro"
+},
+{
+"slug": "barone-di-villagrande",
+"nome": "Barone di Villagrande",
+"regione": "Sicilia",
+"comune": "Milo",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"barone-di-villagrande"
+],
+"primario": "barone-di-villagrande"
+},
+{
+"slug": "barone-sergio",
+"nome": "Barone Sergio",
+"regione": "Sicilia",
+"comune": "Pachino",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"barone-sergio"
+],
+"primario": "barone-sergio"
+},
+{
+"slug": "benanti",
+"nome": "Benanti",
+"regione": "Sicilia",
+"comune": "Viagrande",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"benanti"
+],
+"primario": "benanti"
+},
+{
+"slug": "campore",
+"nome": "Camporè",
+"regione": "Sicilia",
+"comune": "Randazzo",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"campore"
+],
+"primario": "campore"
+},
+{
+"slug": "candido-monreale",
+"nome": "Candido",
+"regione": "Sicilia",
+"comune": "Monreale",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"candido-monreale"
+],
+"primario": "candido-monreale"
+},
+{
+"slug": "cantina-chitarra",
+"nome": "Cantina Chitarra",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"cantina-chitarra"
+],
+"primario": "cantina-chitarra"
+},
+{
+"slug": "cantina-maugeri",
+"nome": "Cantina Maugeri",
+"regione": "Sicilia",
+"comune": "Acireale",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"cantina-maugeri"
+],
+"primario": "cantina-maugeri"
+},
+{
+"slug": "cantine-birgi",
+"nome": "Cantine Birgi",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"cantine-birgi"
+],
+"primario": "cantine-birgi"
+},
+{
+"slug": "cantine-brugnano",
+"nome": "Cantine Brugnano",
+"regione": "Sicilia",
+"comune": "Partinico",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"cantine-brugnano"
+],
+"primario": "cantine-brugnano"
+},
+{
+"slug": "cantine-colosi",
+"nome": "Cantine Colosi",
+"regione": "Sicilia",
+"comune": "Messina",
+"tipi": {
+"mamertino": [
+"Mamertino e Faro (Messina)"
+]
+},
+"membri": [
+"cantine-colosi"
+],
+"primario": "cantine-colosi"
+},
+{
+"slug": "cantine-iuppa",
+"nome": "Cantine Iuppa",
+"regione": "Sicilia",
+"comune": "Milo",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"cantine-iuppa"
+],
+"primario": "cantine-iuppa"
+},
+{
+"slug": "cantine-nicosia",
+"nome": "Cantine Nicosia",
+"regione": "Sicilia",
+"comune": "Trecastagni",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"cantine-nicosia"
+],
+"primario": "cantine-nicosia"
+},
+{
+"slug": "cantine-settesoli",
+"nome": "Cantine Settesoli",
+"regione": "Sicilia",
+"comune": "Calatafimi-Segesta",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"cantine-settesoli"
+],
+"primario": "cantine-settesoli"
+},
+{
+"slug": "caruso-e-minini",
+"nome": "Caruso e Minini",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"caruso-e-minini"
+],
+"primario": "caruso-e-minini"
+},
+{
+"slug": "casa-grazia",
+"nome": "Casa Grazia",
+"regione": "Sicilia",
+"comune": "Menfi",
+"tipi": {
+"belice": [
+"Menfi, Sambuca di Sicilia, Santa Margherita di Belice e Sciacca"
+]
+},
+"membri": [
+"casa-grazia"
+],
+"primario": "casa-grazia"
+},
+{
+"slug": "tenuta-di-castellaro",
+"nome": "Tenuta di Castellaro",
+"regione": "Sicilia",
+"comune": "Lipari",
+"tipi": {
+"lipari": [
+"Isole Eolie e Malvasia delle Lipari"
+]
+},
+"membri": [
+"tenuta-di-castellaro"
+],
+"primario": "tenuta-di-castellaro"
+},
+{
+"slug": "castello-solicchiata",
+"nome": "Castello Solicchiata",
+"regione": "Sicilia",
+"comune": "Adrano",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"castello-solicchiata"
+],
+"primario": "castello-solicchiata"
+},
+{
+"slug": "castelluccimiano-viticultura-di-montagna",
+"nome": "Castelluccimiano-viticultura di montagna",
+"regione": "Sicilia",
+"comune": "Valledolmo",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"castelluccimiano-viticultura-di-montagna"
+],
+"primario": "castelluccimiano-viticultura-di-montagna"
+},
+{
+"slug": "centopassi",
+"nome": "Centopassi",
+"regione": "Sicilia",
+"comune": "Corleone",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"centopassi"
+],
+"primario": "centopassi"
+},
+{
+"slug": "cos-azienda-agricola",
+"nome": "COS Azienda Agricola",
+"regione": "Sicilia",
+"comune": "Vittoria",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"cos-azienda-agricola"
+],
+"primario": "cos-azienda-agricola"
+},
+{
+"slug": "cottanera",
+"nome": "Cottanera",
+"regione": "Sicilia",
+"comune": "Messina",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"cottanera"
+],
+"primario": "cottanera"
+},
+{
+"slug": "cusumano",
+"nome": "Cusumano",
+"regione": "Sicilia",
+"comune": "Partinico",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"cusumano"
+],
+"primario": "cusumano"
+},
+{
+"slug": "cva-canicatti",
+"nome": "CVA Canicattì",
+"regione": "Sicilia",
+"comune": "Canicattì",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"cva-canicatti"
+],
+"primario": "cva-canicatti"
+},
+{
+"slug": "di-giovanna",
+"nome": "Di Giovanna",
+"regione": "Sicilia",
+"comune": "Sambuca di Sicilia",
+"tipi": {
+"belice": [
+"Menfi, Sambuca di Sicilia, Santa Margherita di Belice e Sciacca"
+]
+},
+"membri": [
+"di-giovanna"
+],
+"primario": "di-giovanna"
+},
+{
+"slug": "donnafugata",
+"nome": "Donnafugata",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"donnafugata"
+],
+"primario": "donnafugata"
+},
+{
+"slug": "duca-di-salaparuta",
+"nome": "Duca di Salaparuta",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"duca-di-salaparuta"
+],
+"primario": "duca-di-salaparuta"
+},
+{
+"slug": "fazio-casa-vinicola-in-erice",
+"nome": "Fazio Casa Vinicola in Erice",
+"regione": "Sicilia",
+"comune": "San Vito Lo Capo",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"fazio-casa-vinicola-in-erice"
+],
+"primario": "fazio-casa-vinicola-in-erice"
+},
+{
+"slug": "feudi-del-pisciotto-wine-relais",
+"nome": "Feudi del Pisciotto Wine Relais",
+"regione": "Sicilia",
+"comune": "Niscemi",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"feudi-del-pisciotto-wine-relais"
+],
+"primario": "feudi-del-pisciotto-wine-relais"
+},
+{
+"slug": "feudo-disisa",
+"nome": "Feudo Disisa",
+"regione": "Sicilia",
+"comune": "Palermo",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"feudo-disisa"
+],
+"primario": "feudo-disisa"
+},
+{
+"slug": "feudo-maccari",
+"nome": "Feudo Maccari",
+"regione": "Sicilia",
+"comune": "Noto",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"feudo-maccari"
+],
+"primario": "feudo-maccari"
+},
+{
+"slug": "feudo-montoni",
+"nome": "Feudo Montoni",
+"regione": "Sicilia",
+"comune": "Palermo",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"feudo-montoni"
+],
+"primario": "feudo-montoni"
+},
+{
+"slug": "feudo-solaria",
+"nome": "Feudo Solaria",
+"regione": "Sicilia",
+"comune": "Rodì Milici",
+"tipi": {
+"mamertino": [
+"Mamertino e Faro (Messina)"
+]
+},
+"membri": [
+"feudo-solaria"
+],
+"primario": "feudo-solaria"
+},
+{
+"slug": "fina-cantine",
+"nome": "Fina Cantine",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"fina-cantine"
+],
+"primario": "fina-cantine"
+},
+{
+"slug": "firriato",
+"nome": "Firriato",
+"regione": "Sicilia",
+"comune": "Paceco",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"firriato"
+],
+"primario": "firriato"
+},
+{
+"slug": "fondo-antico",
+"nome": "Fondo Antico",
+"regione": "Sicilia",
+"comune": "Trapani",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"fondo-antico"
+],
+"primario": "fondo-antico"
+},
+{
+"slug": "gaglio-vignaioli-dal-1910",
+"nome": "Gaglio Vignaioli dal 1910",
+"regione": "Sicilia",
+"comune": "Oliveri",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"gaglio-vignaioli-dal-1910"
+],
+"primario": "gaglio-vignaioli-dal-1910"
+},
+{
+"slug": "gambino",
+"nome": "Gambino",
+"regione": "Sicilia",
+"comune": "Linguaglossa",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"gambino"
+],
+"primario": "gambino"
+},
+{
+"slug": "giasira",
+"nome": "Giasira",
+"regione": "Sicilia",
+"comune": "Rosolini",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"giasira"
+],
+"primario": "giasira"
+},
+{
+"slug": "giovinco-wines",
+"nome": "Giovinco wines",
+"regione": "Sicilia",
+"comune": "Sambuca di Sicilia",
+"tipi": {
+"belice": [
+"Menfi, Sambuca di Sicilia, Santa Margherita di Belice e Sciacca"
+]
+},
+"membri": [
+"giovinco-wines"
+],
+"primario": "giovinco-wines"
+},
+{
+"slug": "girolamo-russo",
+"nome": "Girolamo Russo",
+"regione": "Sicilia",
+"comune": "Castiglione di Sicilia",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"girolamo-russo"
+],
+"primario": "girolamo-russo"
+},
+{
+"slug": "gorghi-tondi",
+"nome": "Gorghi Tondi",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"gorghi-tondi"
+],
+"primario": "gorghi-tondi"
+},
+{
+"slug": "graci",
+"nome": "Graci",
+"regione": "Sicilia",
+"comune": "Giarre",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"graci"
+],
+"primario": "graci"
+},
+{
+"slug": "grottarossa-vini",
+"nome": "Grottarossa Vini",
+"regione": "Sicilia",
+"comune": "Canicattì",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"grottarossa-vini"
+],
+"primario": "grottarossa-vini"
+},
+{
+"slug": "horus-cantina",
+"nome": "Horus Cantina",
+"regione": "Sicilia",
+"comune": "Vittoria",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"horus-cantina"
+],
+"primario": "horus-cantina"
+},
+{
+"slug": "i-custodi-delle-vigne-delletna",
+"nome": "I Custodi delle vigne dell’Etna",
+"regione": "Sicilia",
+"comune": "Castiglione di Sicilia",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"i-custodi-delle-vigne-delletna"
+],
+"primario": "i-custodi-delle-vigne-delletna"
+},
+{
+"slug": "le-casematte",
+"nome": "Le Casematte",
+"regione": "Sicilia",
+"comune": "Messina",
+"tipi": {
+"mamertino": [
+"Mamertino e Faro (Messina)"
+]
+},
+"membri": [
+"le-casematte"
+],
+"primario": "le-casematte"
+},
+{
+"slug": "tenute-lombardo",
+"nome": "Tenute Lombardo",
+"regione": "Sicilia",
+"comune": "Caltanissetta",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"tenute-lombardo"
+],
+"primario": "tenute-lombardo"
+},
+{
+"slug": "maggiovini",
+"nome": "Maggiovini",
+"regione": "Sicilia",
+"comune": "Vittoria",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"maggiovini"
+],
+"primario": "maggiovini"
+},
+{
+"slug": "masseria-del-feudo",
+"nome": "Masseria del Feudo",
+"regione": "Sicilia",
+"comune": "Caltanissetta",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"masseria-del-feudo"
+],
+"primario": "masseria-del-feudo"
+},
+{
+"slug": "massimo-lentsch",
+"nome": "Massimo Lentsch",
+"regione": "Sicilia",
+"comune": "Randazzo",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"massimo-lentsch"
+],
+"primario": "massimo-lentsch"
+},
+{
+"slug": "musita",
+"nome": "Musita",
+"regione": "Sicilia",
+"comune": "Salemi",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"musita"
+],
+"primario": "musita"
+},
+{
+"slug": "arianna-occhipinti-azienda-agricola",
+"nome": "Arianna Occhipinti Azienda Agricola",
+"regione": "Sicilia",
+"comune": "Vittoria",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"arianna-occhipinti-azienda-agricola"
+],
+"primario": "arianna-occhipinti-azienda-agricola"
+},
+{
+"slug": "palmento-costanzo",
+"nome": "Palmento Costanzo",
+"regione": "Sicilia",
+"comune": "Castiglione di Sicilia",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"palmento-costanzo"
+],
+"primario": "palmento-costanzo"
+},
+{
+"slug": "patri",
+"nome": "Patrì",
+"regione": "Sicilia",
+"comune": "Riesi",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"patri"
+],
+"primario": "patri"
+},
+{
+"slug": "pianogrillo",
+"nome": "Pianogrillo",
+"regione": "Sicilia",
+"comune": "Chiaramonte Gulfi",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"pianogrillo"
+],
+"primario": "pianogrillo"
+},
+{
+"slug": "pietradolce",
+"nome": "Pietradolce",
+"regione": "Sicilia",
+"comune": "Giarre",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"pietradolce"
+],
+"primario": "pietradolce"
+},
+{
+"slug": "planeta",
+"nome": "Planeta",
+"regione": "Sicilia",
+"comune": "Menfi",
+"tipi": {
+"belice": [
+"Menfi, Sambuca di Sicilia, Santa Margherita di Belice e Sciacca"
+]
+},
+"membri": [
+"planeta"
+],
+"primario": "planeta"
+},
+{
+"slug": "principe-di-corleone",
+"nome": "Principe di Corleone",
+"regione": "Sicilia",
+"comune": "Monreale",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"principe-di-corleone"
+],
+"primario": "principe-di-corleone"
+},
+{
+"slug": "principi-di-butera",
+"nome": "Principi di Butera",
+"regione": "Sicilia",
+"comune": "Butera",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"principi-di-butera"
+],
+"primario": "principi-di-butera"
+},
+{
+"slug": "rallo-azienda-agricola",
+"nome": "Rallo Azienda Agricola",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"rallo-azienda-agricola"
+],
+"primario": "rallo-azienda-agricola"
+},
+{
+"slug": "rapitala",
+"nome": "Rapitalà",
+"regione": "Sicilia",
+"comune": "Camporeale",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"rapitala"
+],
+"primario": "rapitala"
+},
+{
+"slug": "santa-tresa",
+"nome": "Santa Tresa",
+"regione": "Sicilia",
+"comune": "Vittoria",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"santa-tresa"
+],
+"primario": "santa-tresa"
+},
+{
+"slug": "serafica",
+"nome": "Serafica",
+"regione": "Sicilia",
+"comune": "Nicolosi",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"serafica"
+],
+"primario": "serafica"
+},
+{
+"slug": "serra-ferdinandea",
+"nome": "Serra Ferdinandea",
+"regione": "Sicilia",
+"comune": "Palermo",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"serra-ferdinandea"
+],
+"primario": "serra-ferdinandea"
+},
+{
+"slug": "sibiliana-vini",
+"nome": "Sibiliana Vini",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"sibiliana-vini"
+],
+"primario": "sibiliana-vini"
+},
+{
+"slug": "spadafora-dei-principi-di-spadafora",
+"nome": "Spadafora dei Principi di Spadafora",
+"regione": "Sicilia",
+"comune": "Palermo",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"spadafora-dei-principi-di-spadafora"
+],
+"primario": "spadafora-dei-principi-di-spadafora"
+},
+{
+"slug": "tasca-dalmerita",
+"nome": "Tasca d’Almerita",
+"regione": "Sicilia",
+"comune": "Palermo",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"tasca-dalmerita"
+],
+"primario": "tasca-dalmerita"
+},
+{
+"slug": "tenuta-di-fessina",
+"nome": "Tenuta di Fessina",
+"regione": "Sicilia",
+"comune": "Castiglione di Sicilia",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"tenuta-di-fessina"
+],
+"primario": "tenuta-di-fessina"
+},
+{
+"slug": "tenuta-ferrata",
+"nome": "Tenuta Ferrata",
+"regione": "Sicilia",
+"comune": "Castiglione di Sicilia",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"tenuta-ferrata"
+],
+"primario": "tenuta-ferrata"
+},
+{
+"slug": "tenuta-morreale-agnello",
+"nome": "Tenuta Morreale Agnello",
+"regione": "Sicilia",
+"comune": "Agrigento",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"tenuta-morreale-agnello"
+],
+"primario": "tenuta-morreale-agnello"
+},
+{
+"slug": "tenuta-navarra",
+"nome": "Tenuta Navarra",
+"regione": "Sicilia",
+"comune": "Butera",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"tenuta-navarra"
+],
+"primario": "tenuta-navarra"
+},
+{
+"slug": "tenute-bosco",
+"nome": "Tenute Bosco",
+"regione": "Sicilia",
+"comune": "Santa Venerina",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"tenute-bosco"
+],
+"primario": "tenute-bosco"
+},
+{
+"slug": "terra-costantino",
+"nome": "Terra Costantino",
+"regione": "Sicilia",
+"comune": "Viagrande",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"terra-costantino"
+],
+"primario": "terra-costantino"
+},
+{
+"slug": "terrazze-delletna",
+"nome": "Terrazze dell’Etna",
+"regione": "Sicilia",
+"comune": "Palermo",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"terrazze-delletna"
+],
+"primario": "terrazze-delletna"
+},
+{
+"slug": "terre-di-giurfo",
+"nome": "Terre di Giurfo",
+"regione": "Sicilia",
+"comune": "Vittoria",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"terre-di-giurfo"
+],
+"primario": "terre-di-giurfo"
+},
+{
+"slug": "tornatore-azienda-agricola",
+"nome": "Tornatore Azienda Agricola",
+"regione": "Sicilia",
+"comune": "Catania",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"tornatore-azienda-agricola"
+],
+"primario": "tornatore-azienda-agricola"
+},
+{
+"slug": "valle-dellacate",
+"nome": "Valle dell’Acate",
+"regione": "Sicilia",
+"comune": "Acate",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"valle-dellacate"
+],
+"primario": "valle-dellacate"
+},
+{
+"slug": "vinding-peter-montecarrubo",
+"nome": "Vinding Peter Montecarrubo",
+"regione": "Sicilia",
+"comune": "Melilli",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"vinding-peter-montecarrubo"
+],
+"primario": "vinding-peter-montecarrubo"
+},
+{
+"slug": "vivera",
+"nome": "Vivera",
+"regione": "Sicilia",
+"comune": "Linguaglossa",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"vivera"
+],
+"primario": "vivera"
+},
+{
+"slug": "zisola",
+"nome": "Zisola",
+"regione": "Sicilia",
+"comune": "Noto",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"zisola"
+],
+"primario": "zisola"
+},
+{
+"slug": "anabasis",
+"nome": "Anabasis",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"anabasis"
+],
+"primario": "anabasis"
+},
+{
+"slug": "cantine-amato",
+"nome": "Cantine Amato",
+"regione": "Sicilia",
+"comune": "Piraino",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"cantine-amato"
+],
+"primario": "cantine-amato"
+},
+{
+"slug": "antica-tindari",
+"nome": "Antica Tindari",
+"regione": "Sicilia",
+"comune": "Patti",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"antica-tindari"
+],
+"primario": "antica-tindari"
+},
+{
+"slug": "antichi-vinai",
+"nome": "Antichi Vinai",
+"regione": "Sicilia",
+"comune": "Castiglione di Sicilia",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"antichi-vinai"
+],
+"primario": "antichi-vinai"
+},
+{
+"slug": "casa-vinicola-arini",
+"nome": "Casa Vinicola Arini",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"casa-vinicola-arini"
+],
+"primario": "casa-vinicola-arini"
+},
+{
+"slug": "assennato",
+"nome": "Assennato",
+"regione": "Sicilia",
+"comune": "Avola",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"assennato"
+],
+"primario": "assennato"
+},
+{
+"slug": "barraco",
+"nome": "Barraco",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"barraco"
+],
+"primario": "barraco"
+},
+{
+"slug": "frank-cornelissen",
+"nome": "Frank Cornelissen",
+"regione": "Sicilia",
+"comune": "Castiglione di Sicilia",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"frank-cornelissen"
+],
+"primario": "frank-cornelissen"
+},
+{
+"slug": "filari-della-rocca",
+"nome": "Filari della Rocca",
+"regione": "Sicilia",
+"comune": "Contessa Entellina",
+"tipi": {
+"belice": [
+"Menfi, Sambuca di Sicilia, Santa Margherita di Belice e Sciacca"
+]
+},
+"membri": [
+"filari-della-rocca"
+],
+"primario": "filari-della-rocca"
+},
+{
+"slug": "marino-abate",
+"nome": "Marino Abate",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"marino-abate"
+],
+"primario": "marino-abate"
+},
+{
+"slug": "riofavara",
+"nome": "Riofavara",
+"regione": "Sicilia",
+"comune": "Ispica",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"riofavara"
+],
+"primario": "riofavara"
+},
+{
+"slug": "valenti",
+"nome": "Valenti",
+"regione": "Sicilia",
+"comune": "Ragusa",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"valenti"
+],
+"primario": "valenti"
+},
+{
+"slug": "azienda-agricola-vella",
+"nome": "Azienda Agricola Vella",
+"regione": "Sicilia",
+"comune": "Agrigento",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"azienda-agricola-vella"
+],
+"primario": "azienda-agricola-vella"
+},
+{
+"slug": "vigna-di-pettineo",
+"nome": "Vigna di Pettineo",
+"regione": "Sicilia",
+"comune": "Vittoria",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"vigna-di-pettineo"
+],
+"primario": "vigna-di-pettineo"
+},
+{
+"slug": "casa-grazia-gela",
+"nome": "Casa Grazia",
+"regione": "Sicilia",
+"comune": "Gela",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"casa-grazia-gela"
+],
+"primario": "casa-grazia-gela"
+},
+{
+"slug": "costantino-wines",
+"nome": "Costantino Wines",
+"regione": "Sicilia",
+"comune": "Partinico",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"costantino-wines"
+],
+"primario": "costantino-wines"
+},
+{
+"slug": "abate-franca",
+"nome": "Abate Franca",
+"regione": "Sicilia",
+"comune": "Trapani",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"abate-franca"
+],
+"primario": "abate-franca"
+},
+{
+"slug": "cantine-barbera",
+"nome": "Cantine Barbera",
+"regione": "Sicilia",
+"comune": "Menfi",
+"tipi": {
+"belice": [
+"Menfi, Sambuca di Sicilia, Santa Margherita di Belice e Sciacca"
+]
+},
+"membri": [
+"cantine-barbera"
+],
+"primario": "cantine-barbera"
+},
+{
+"slug": "tenute-racalmare",
+"nome": "Tenute Racalmare",
+"regione": "Sicilia",
+"comune": "Grotte",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"tenute-racalmare"
+],
+"primario": "tenute-racalmare"
+},
+{
+"slug": "del-grillo",
+"nome": "Del Grillo",
+"regione": "Sicilia",
+"comune": "Alcamo",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"del-grillo"
+],
+"primario": "del-grillo"
+},
+{
+"slug": "ferreri-vini",
+"nome": "Ferreri Vini",
+"regione": "Sicilia",
+"comune": "Santa Ninfa",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"ferreri-vini"
+],
+"primario": "ferreri-vini"
+},
+{
+"slug": "milazzo-vini",
+"nome": "Milazzo Vini",
+"regione": "Sicilia",
+"comune": "Campobello di Licata",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"milazzo-vini"
+],
+"primario": "milazzo-vini"
+},
+{
+"slug": "nino-gandolfo",
+"nome": "Nino Gandolfo",
+"regione": "Sicilia",
+"comune": "Salemi",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"nino-gandolfo"
+],
+"primario": "nino-gandolfo"
+},
+{
+"slug": "gaudioso",
+"nome": "Gaudioso",
+"regione": "Sicilia",
+"comune": "Partanna",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"gaudioso"
+],
+"primario": "gaudioso"
+},
+{
+"slug": "case-alte",
+"nome": "Case Alte",
+"regione": "Sicilia",
+"comune": "Camporeale",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"case-alte"
+],
+"primario": "case-alte"
+},
+{
+"slug": "montalbano",
+"nome": "Montalbano",
+"regione": "Sicilia",
+"comune": "Menfi",
+"tipi": {
+"belice": [
+"Menfi, Sambuca di Sicilia, Santa Margherita di Belice e Sciacca"
+]
+},
+"membri": [
+"montalbano"
+],
+"primario": "montalbano"
+},
+{
+"slug": "cantina-novello",
+"nome": "Cantina Novello",
+"regione": "Sicilia",
+"comune": "Avola",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"cantina-novello"
+],
+"primario": "cantina-novello"
+},
+{
+"slug": "podere-messina",
+"nome": "Podere Messina",
+"regione": "Sicilia",
+"comune": "Calatafimi-Segesta",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"podere-messina"
+],
+"primario": "podere-messina"
+},
+{
+"slug": "santa-maria-la-nave",
+"nome": "Santa Maria La Nave",
+"regione": "Sicilia",
+"comune": "Catania",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"santa-maria-la-nave"
+],
+"primario": "santa-maria-la-nave"
+},
+{
+"slug": "cantine-di-legami",
+"nome": "Cantine Di Legami",
+"regione": "Sicilia",
+"comune": "Castellammare del Golfo",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"cantine-di-legami"
+],
+"primario": "cantine-di-legami"
+},
+{
+"slug": "vitivinicola-lombardo",
+"nome": "Vitivinicola Lombardo",
+"regione": "Sicilia",
+"comune": "San Cataldo",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"vitivinicola-lombardo"
+],
+"primario": "vitivinicola-lombardo"
+},
+{
+"slug": "baglio-donnafranca",
+"nome": "Baglio Donnafranca",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"baglio-donnafranca"
+],
+"primario": "baglio-donnafranca"
+},
+{
+"slug": "barone-di-miceli",
+"nome": "Barone Di Miceli",
+"regione": "Sicilia",
+"comune": "Castiglione di Sicilia",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"barone-di-miceli"
+],
+"primario": "barone-di-miceli"
+},
+{
+"slug": "barone-di-serramarrocco",
+"nome": "Barone di Serramarrocco",
+"regione": "Sicilia",
+"comune": "Trapani",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"barone-di-serramarrocco"
+],
+"primario": "barone-di-serramarrocco"
+},
+{
+"slug": "gurrieri",
+"nome": "Gurrieri",
+"regione": "Sicilia",
+"comune": "Comiso",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"gurrieri"
+],
+"primario": "gurrieri"
+},
+{
+"slug": "buceci",
+"nome": "Buceci",
+"regione": "Sicilia",
+"comune": "Bolognetta",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"buceci"
+],
+"primario": "buceci"
+},
+{
+"slug": "cantina-cellaro",
+"nome": "Cantina Cellaro",
+"regione": "Sicilia",
+"comune": "Sambuca di Sicilia",
+"tipi": {
+"belice": [
+"Menfi, Sambuca di Sicilia, Santa Margherita di Belice e Sciacca"
+]
+},
+"membri": [
+"cantina-cellaro"
+],
+"primario": "cantina-cellaro"
+},
+{
+"slug": "cantina-giacco",
+"nome": "Cantina Giacco",
+"regione": "Sicilia",
+"comune": "Salaparuta",
+"tipi": {
+"belice": [
+"Menfi, Sambuca di Sicilia, Santa Margherita di Belice e Sciacca"
+]
+},
+"membri": [
+"cantina-giacco"
+],
+"primario": "cantina-giacco"
+},
+{
+"slug": "morreale-vini",
+"nome": "Morreale Vini",
+"regione": "Sicilia",
+"comune": "Favara",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"morreale-vini"
+],
+"primario": "morreale-vini"
+},
+{
+"slug": "cantina-santa-ninfa",
+"nome": "Cantina Santa Ninfa",
+"regione": "Sicilia",
+"comune": "Santa Ninfa",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"cantina-santa-ninfa"
+],
+"primario": "cantina-santa-ninfa"
+},
+{
+"slug": "cantine-giglio",
+"nome": "Cantine Giglio",
+"regione": "Sicilia",
+"comune": "Mazara del Vallo",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"cantine-giglio"
+],
+"primario": "cantine-giglio"
+},
+{
+"slug": "cantine-mothia",
+"nome": "Cantine Mothia",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"cantine-mothia"
+],
+"primario": "cantine-mothia"
+},
+{
+"slug": "cantine-rallo",
+"nome": "Cantine Rallo",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"cantine-rallo"
+],
+"primario": "cantine-rallo"
+},
+{
+"slug": "cantine-simonetti",
+"nome": "Cantine Simonetti",
+"regione": "Sicilia",
+"comune": "San Cipirello",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"cantine-simonetti"
+],
+"primario": "cantine-simonetti"
+},
+{
+"slug": "carbona",
+"nome": "Carbona",
+"regione": "Sicilia",
+"comune": "Castelvetrano",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"carbona"
+],
+"primario": "carbona"
+},
+{
+"slug": "caruso-minini",
+"nome": "Caruso & Minini",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"caruso-minini"
+],
+"primario": "caruso-minini"
+},
+{
+"slug": "casa-vinicola-cambria",
+"nome": "Casa Vinicola Cambria",
+"regione": "Sicilia",
+"comune": "Furnari",
+"tipi": {
+"mamertino": [
+"Mamertino e Faro (Messina)"
+]
+},
+"membri": [
+"casa-vinicola-cambria"
+],
+"primario": "casa-vinicola-cambria"
+},
+{
+"slug": "feudo-rudini",
+"nome": "Feudo Rudinì",
+"regione": "Sicilia",
+"comune": "Pachino",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"feudo-rudini"
+],
+"primario": "feudo-rudini"
+},
+{
+"slug": "cummo",
+"nome": "Cummo",
+"regione": "Sicilia",
+"comune": "Canicattì",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"cummo"
+],
+"primario": "cummo"
+},
+{
+"slug": "catalano-viticoltori",
+"nome": "Catalano Viticoltori",
+"regione": "Sicilia",
+"comune": "Gela",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"catalano-viticoltori"
+],
+"primario": "catalano-viticoltori"
+},
+{
+"slug": "gulfi",
+"nome": "Gulfi",
+"regione": "Sicilia",
+"comune": "Chiaramonte Gulfi",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"gulfi"
+],
+"primario": "gulfi"
+},
+{
+"slug": "valdibella",
+"nome": "Valdibella",
+"regione": "Sicilia",
+"comune": "Camporeale",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"valdibella"
+],
+"primario": "valdibella"
+},
+{
+"slug": "poggio-di-bortolone",
+"nome": "Poggio di Bortolone",
+"regione": "Sicilia",
+"comune": "Chiaramonte Gulfi",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"poggio-di-bortolone"
+],
+"primario": "poggio-di-bortolone"
+},
+{
+"slug": "cossentino",
+"nome": "Cossentino",
+"regione": "Sicilia",
+"comune": "Partinico",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"cossentino"
+],
+"primario": "cossentino"
+},
+{
+"slug": "domina-miccina",
+"nome": "Domina Miccina",
+"regione": "Sicilia",
+"comune": "Sambuca di Sicilia",
+"tipi": {
+"belice": [
+"Menfi, Sambuca di Sicilia, Santa Margherita di Belice e Sciacca"
+]
+},
+"membri": [
+"domina-miccina"
+],
+"primario": "domina-miccina"
+},
+{
+"slug": "don-tomasi",
+"nome": "Don Tomasi",
+"regione": "Sicilia",
+"comune": "San Cipirello",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"don-tomasi"
+],
+"primario": "don-tomasi"
+},
+{
+"slug": "donna-di-coppe",
+"nome": "Donna di Coppe",
+"regione": "Sicilia",
+"comune": "Gibellina",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"donna-di-coppe"
+],
+"primario": "donna-di-coppe"
+},
+{
+"slug": "cantine-gulino",
+"nome": "Cantine Gulino",
+"regione": "Sicilia",
+"comune": "Siracusa",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"cantine-gulino"
+],
+"primario": "cantine-gulino"
+},
+{
+"slug": "vini-cassara",
+"nome": "Vini Cassarà",
+"regione": "Sicilia",
+"comune": "Alcamo",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"vini-cassara"
+],
+"primario": "vini-cassara"
+},
+{
+"slug": "fattorie-azzolino",
+"nome": "Fattorie Azzolino",
+"regione": "Sicilia",
+"comune": "Camporeale",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"fattorie-azzolino"
+],
+"primario": "fattorie-azzolino"
+},
+{
+"slug": "feudi-del-pisciotto",
+"nome": "Feudi del Pisciotto",
+"regione": "Sicilia",
+"comune": "Niscemi",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"feudi-del-pisciotto"
+],
+"primario": "feudi-del-pisciotto"
+},
+{
+"slug": "frazzitta",
+"nome": "Frazzitta",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"frazzitta"
+],
+"primario": "frazzitta"
+},
+{
+"slug": "gazzerosse",
+"nome": "Gazzerosse",
+"regione": "Sicilia",
+"comune": "Mazara del Vallo",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"gazzerosse"
+],
+"primario": "gazzerosse"
+},
+{
+"slug": "vito-gioia",
+"nome": "Vito Gioia",
+"regione": "Sicilia",
+"comune": "Trapani",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"vito-gioia"
+],
+"primario": "vito-gioia"
+},
+{
+"slug": "tenuta-tremollito",
+"nome": "Tenuta Tremollito",
+"regione": "Sicilia",
+"comune": "Licodia Eubea",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"tenuta-tremollito"
+],
+"primario": "tenuta-tremollito"
+},
+{
+"slug": "alagna-vini",
+"nome": "Alagna Vini",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"alagna-vini"
+],
+"primario": "alagna-vini"
+},
+{
+"slug": "venticolli",
+"nome": "Venticolli",
+"regione": "Sicilia",
+"comune": "Geraci Siculo",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"venticolli"
+],
+"primario": "venticolli"
+},
+{
+"slug": "maggiovini-vittoria",
+"nome": "Maggiovini",
+"regione": "Sicilia",
+"comune": "Vittoria",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"maggiovini-vittoria"
+],
+"primario": "maggiovini-vittoria"
+},
+{
+"slug": "vini-manenti",
+"nome": "Vini Manenti",
+"regione": "Sicilia",
+"comune": "Scicli",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"vini-manenti"
+],
+"primario": "vini-manenti"
+},
+{
+"slug": "monaci-delle-terre-nere",
+"nome": "Monaci delle Terre Nere",
+"regione": "Sicilia",
+"comune": "Zafferana Etnea",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"monaci-delle-terre-nere"
+],
+"primario": "monaci-delle-terre-nere"
+},
+{
+"slug": "morgante",
+"nome": "Morgante",
+"regione": "Sicilia",
+"comune": "Grotte",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"morgante"
+],
+"primario": "morgante"
+},
+{
+"slug": "mustazza",
+"nome": "Mustazza",
+"regione": "Sicilia",
+"comune": "Buseto Palizzolo",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"mustazza"
+],
+"primario": "mustazza"
+},
+{
+"slug": "nadore",
+"nome": "Nadore",
+"regione": "Sicilia",
+"comune": "Gibellina",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"nadore"
+],
+"primario": "nadore"
+},
+{
+"slug": "paoletti-vini",
+"nome": "Paoletti Vini",
+"regione": "Sicilia",
+"comune": "Alcamo",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"paoletti-vini"
+],
+"primario": "paoletti-vini"
+},
+{
+"slug": "platia-vini",
+"nome": "Platia Vini",
+"regione": "Sicilia",
+"comune": "Naro",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"platia-vini"
+],
+"primario": "platia-vini"
+},
+{
+"slug": "possente",
+"nome": "Possente",
+"regione": "Sicilia",
+"comune": "Alcamo",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"possente"
+],
+"primario": "possente"
+},
+{
+"slug": "cantine-pupillo",
+"nome": "Cantine Pupillo",
+"regione": "Sicilia",
+"comune": "Siracusa",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"cantine-pupillo"
+],
+"primario": "cantine-pupillo"
+},
+{
+"slug": "cantine-russo",
+"nome": "Cantine Russo",
+"regione": "Sicilia",
+"comune": "Castiglione di Sicilia",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"cantine-russo"
+],
+"primario": "cantine-russo"
+},
+{
+"slug": "porta-del-vento",
+"nome": "Porta del Vento",
+"regione": "Sicilia",
+"comune": "Camporeale",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"porta-del-vento"
+],
+"primario": "porta-del-vento"
+},
+{
+"slug": "sibiliana-vini-marsala",
+"nome": "Sibiliana Vini",
+"regione": "Sicilia",
+"comune": "Marsala",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"sibiliana-vini-marsala"
+],
+"primario": "sibiliana-vini-marsala"
+},
+{
+"slug": "siquelia",
+"nome": "Siquelia",
+"regione": "Sicilia",
+"comune": "Palermo",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"siquelia"
+],
+"primario": "siquelia"
+},
+{
+"slug": "tenute-matranga",
+"nome": "Tenute Matranga",
+"regione": "Sicilia",
+"comune": "Trapani",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"tenute-matranga"
+],
+"primario": "tenute-matranga"
+},
+{
+"slug": "baglio-aimone",
+"nome": "Baglio Aimone",
+"regione": "Sicilia",
+"comune": "Petrosino",
+"tipi": {
+"marsala": [
+"Marsala"
+]
+},
+"membri": [
+"baglio-aimone"
+],
+"primario": "baglio-aimone"
+},
+{
+"slug": "marco-de-bartoli",
+"nome": "Marco De Bartoli",
+"regione": "Sicilia",
+"comune": "Pantelleria",
+"tipi": {
+"pantelleria": [
+"Pantelleria"
+]
+},
+"membri": [
+"marco-de-bartoli"
+],
+"primario": "marco-de-bartoli"
+},
+{
+"slug": "le-sette-aje",
+"nome": "Le Sette Aje",
+"regione": "Sicilia",
+"comune": "Santa Margherita di Belice",
+"tipi": {
+"belice": [
+"Menfi, Sambuca di Sicilia, Santa Margherita di Belice e Sciacca"
+]
+},
+"membri": [
+"le-sette-aje"
+],
+"primario": "le-sette-aje"
+},
+{
+"slug": "terre-di-giafar",
+"nome": "Terre di Giafar",
+"regione": "Sicilia",
+"comune": "Paceco",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"terre-di-giafar"
+],
+"primario": "terre-di-giafar"
+},
+{
+"slug": "stellino",
+"nome": "Stellino",
+"regione": "Sicilia",
+"comune": "Alcamo",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"stellino"
+],
+"primario": "stellino"
+},
+{
+"slug": "tenuta-bastonaca",
+"nome": "Tenuta Bastonaca",
+"regione": "Sicilia",
+"comune": "Vittoria",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"tenuta-bastonaca"
+],
+"primario": "tenuta-bastonaca"
+},
+{
+"slug": "tenuta-bonivini",
+"nome": "Tenuta Bonivini",
+"regione": "Sicilia",
+"comune": "Pozzallo",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"tenuta-bonivini"
+],
+"primario": "tenuta-bonivini"
+},
+{
+"slug": "tenuta-gatti",
+"nome": "Tenuta Gatti",
+"regione": "Sicilia",
+"comune": "Librizzi",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"tenuta-gatti"
+],
+"primario": "tenuta-gatti"
+},
+{
+"slug": "tenuta-macconi",
+"nome": "Tenuta Macconi",
+"regione": "Sicilia",
+"comune": "Bagheria",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"tenuta-macconi"
+],
+"primario": "tenuta-macconi"
+},
+{
+"slug": "tenute-cuffaro",
+"nome": "Tenute Cuffaro",
+"regione": "Sicilia",
+"comune": "Agrigento",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"tenute-cuffaro"
+],
+"primario": "tenute-cuffaro"
+},
+{
+"slug": "tenute-mokarta",
+"nome": "Tenute Mokarta",
+"regione": "Sicilia",
+"comune": "Salemi",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"tenute-mokarta"
+],
+"primario": "tenute-mokarta"
+},
+{
+"slug": "tenute-poma",
+"nome": "Tenute Poma",
+"regione": "Sicilia",
+"comune": "Paceco",
+"tipi": {
+"alcamo": [
+"Alcamo, Erice e Trapani"
+]
+},
+"membri": [
+"tenute-poma"
+],
+"primario": "tenute-poma"
+},
+{
+"slug": "tenute-rosselli",
+"nome": "Tenute Rosselli",
+"regione": "Sicilia",
+"comune": "Casteldaccia",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"tenute-rosselli"
+],
+"primario": "tenute-rosselli"
+},
+{
+"slug": "terrasol",
+"nome": "Terrasol",
+"regione": "Sicilia",
+"comune": "Modica",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"terrasol"
+],
+"primario": "terrasol"
+},
+{
+"slug": "terre-di-noto",
+"nome": "Terre di Noto",
+"regione": "Sicilia",
+"comune": "Rosolini",
+"tipi": {
+"val-di-noto": [
+"Val di Noto: Noto, Eloro, Siracusa, Pachino e Modica"
+]
+},
+"membri": [
+"terre-di-noto"
+],
+"primario": "terre-di-noto"
+},
+{
+"slug": "valle-dellacate-acate",
+"nome": "Valle dell’Acate",
+"regione": "Sicilia",
+"comune": "Acate",
+"tipi": {
+"vittoria": [
+"Cerasuolo di Vittoria e Vittoria (Acate, Comiso, Chiaramonte Gulfi)"
+]
+},
+"membri": [
+"valle-dellacate-acate"
+],
+"primario": "valle-dellacate-acate"
+},
+{
+"slug": "vini-vaccaro",
+"nome": "Vini Vaccaro",
+"regione": "Sicilia",
+"comune": "Salaparuta",
+"tipi": {
+"belice": [
+"Menfi, Sambuca di Sicilia, Santa Margherita di Belice e Sciacca"
+]
+},
+"membri": [
+"vini-vaccaro"
+],
+"primario": "vini-vaccaro"
+},
+{
+"slug": "vitale-vini",
+"nome": "Vitale Vini",
+"regione": "Sicilia",
+"comune": "Partinico",
+"tipi": {
+"monreale": [
+"Monreale, Camporeale e Partinico"
+]
+},
+"membri": [
+"vitale-vini"
+],
+"primario": "vitale-vini"
+},
+{
+"slug": "caravaglio",
+"nome": "Caravaglio",
+"regione": "Sicilia",
+"comune": "Malfa",
+"tipi": {
+"lipari": [
+"Isole Eolie e Malvasia delle Lipari"
+]
+},
+"membri": [
+"caravaglio"
+],
+"primario": "caravaglio"
+},
+{
+"slug": "cantine-damico",
+"nome": "Cantine D’Amico",
+"regione": "Sicilia",
+"comune": "Leni",
+"tipi": {
+"lipari": [
+"Isole Eolie e Malvasia delle Lipari"
+]
+},
+"membri": [
+"cantine-damico"
+],
+"primario": "cantine-damico"
+},
+{
+"slug": "fenech",
+"nome": "Fenech",
+"regione": "Sicilia",
+"comune": "Malfa",
+"tipi": {
+"lipari": [
+"Isole Eolie e Malvasia delle Lipari"
+]
+},
+"membri": [
+"fenech"
+],
+"primario": "fenech"
+},
+{
+"slug": "hauner",
+"nome": "Hauner",
+"regione": "Sicilia",
+"comune": "Santa Marina Salina",
+"tipi": {
+"lipari": [
+"Isole Eolie e Malvasia delle Lipari"
+]
+},
+"membri": [
+"hauner"
+],
+"primario": "hauner"
+},
+{
+"slug": "tenuta-capofaro",
+"nome": "Tenuta Capofaro",
+"regione": "Sicilia",
+"comune": "Malfa",
+"tipi": {
+"lipari": [
+"Isole Eolie e Malvasia delle Lipari"
+]
+},
+"membri": [
+"tenuta-capofaro"
+],
+"primario": "tenuta-capofaro"
+},
+{
+"slug": "virgona",
+"nome": "Virgona",
+"regione": "Sicilia",
+"comune": "Malfa",
+"tipi": {
+"lipari": [
+"Isole Eolie e Malvasia delle Lipari"
+]
+},
+"membri": [
+"virgona"
+],
+"primario": "virgona"
+},
+{
+"slug": "ammura",
+"nome": "Ammura",
+"regione": "Sicilia",
+"comune": "Linguaglossa",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"ammura"
+],
+"primario": "ammura"
+},
+{
+"slug": "barone-beneventano",
+"nome": "Barone Beneventano",
+"regione": "Sicilia",
+"comune": "Trecastagni",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"barone-beneventano"
+],
+"primario": "barone-beneventano"
+},
+{
+"slug": "oro-detna",
+"nome": "Oro D’Etna",
+"regione": "Sicilia",
+"comune": "Zafferana Etnea",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"oro-detna"
+],
+"primario": "oro-detna"
+},
+{
+"slug": "cantine-la-contea",
+"nome": "Cantine La Contea",
+"regione": "Sicilia",
+"comune": "Mascali",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"cantine-la-contea"
+],
+"primario": "cantine-la-contea"
+},
+{
+"slug": "puglisi",
+"nome": "Puglisi",
+"regione": "Sicilia",
+"comune": "Zafferana Etnea",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"puglisi"
+],
+"primario": "puglisi"
+},
+{
+"slug": "i-vigneri",
+"nome": "I Vigneri",
+"regione": "Sicilia",
+"comune": "Milo",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"i-vigneri"
+],
+"primario": "i-vigneri"
+},
+{
+"slug": "eduardo-torres-acosta",
+"nome": "Eduardo Torres Acosta",
+"regione": "Sicilia",
+"comune": "Castiglione di Sicilia",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"eduardo-torres-acosta"
+],
+"primario": "eduardo-torres-acosta"
+},
+{
+"slug": "tenuta-incarrozza",
+"nome": "Tenuta Incarrozza",
+"regione": "Sicilia",
+"comune": "Misterbianco",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"tenuta-incarrozza"
+],
+"primario": "tenuta-incarrozza"
+},
+{
+"slug": "tenuta-papale",
+"nome": "Tenuta Papale",
+"regione": "Sicilia",
+"comune": "Belpasso",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"tenuta-papale"
+],
+"primario": "tenuta-papale"
+},
+{
+"slug": "palmento-la-rosa",
+"nome": "Palmento La Rosa",
+"regione": "Sicilia",
+"comune": "Pedara",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"palmento-la-rosa"
+],
+"primario": "palmento-la-rosa"
+},
+{
+"slug": "eudes",
+"nome": "Eudes",
+"regione": "Sicilia",
+"comune": "Trecastagni",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"eudes"
+],
+"primario": "eudes"
+},
+{
+"slug": "cantine-di-nessuno",
+"nome": "Cantine Di Nessuno",
+"regione": "Sicilia",
+"comune": "Catania",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"cantine-di-nessuno"
+],
+"primario": "cantine-di-nessuno"
+},
+{
+"slug": "tenute-orestiadi",
+"nome": "Tenute Orestiadi",
+"regione": "Sicilia",
+"comune": "Gibellina",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"tenute-orestiadi"
+],
+"primario": "tenute-orestiadi"
+},
+{
+"slug": "generazione-alessandro",
+"nome": "Generazione Alessandro",
+"regione": "Sicilia",
+"comune": "Linguaglossa",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"generazione-alessandro"
+],
+"primario": "generazione-alessandro"
+},
+{
+"slug": "antichi-vini-di-sicilia",
+"nome": "Antichi Vini Di Sicilia",
+"regione": "Sicilia",
+"comune": "Piedimonte Etneo",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"antichi-vini-di-sicilia"
+],
+"primario": "antichi-vini-di-sicilia"
+},
+{
+"slug": "murgo",
+"nome": "Murgo",
+"regione": "Sicilia",
+"comune": "Santa Venerina",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"murgo"
+],
+"primario": "murgo"
+},
+{
+"slug": "vini-franchetti",
+"nome": "Vini Franchetti",
+"regione": "Sicilia",
+"comune": "Castiglione di Sicilia",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"vini-franchetti"
+],
+"primario": "vini-franchetti"
+},
+{
+"slug": "fischetti",
+"nome": "Fischetti",
+"regione": "Sicilia",
+"comune": "Castiglione di Sicilia",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"fischetti"
+],
+"primario": "fischetti"
+},
+{
+"slug": "destro",
+"nome": "Destro",
+"regione": "Sicilia",
+"comune": "Randazzo",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"destro"
+],
+"primario": "destro"
+},
+{
+"slug": "platania-giuseppe",
+"nome": "Platania Giuseppe",
+"regione": "Sicilia",
+"comune": "Pedara",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"platania-giuseppe"
+],
+"primario": "platania-giuseppe"
+},
+{
+"slug": "palmento-carranco",
+"nome": "Palmento Carranco",
+"regione": "Sicilia",
+"comune": "Castiglione di Sicilia",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"palmento-carranco"
+],
+"primario": "palmento-carranco"
+},
+{
+"slug": "azienda-agricola-francesco-modica",
+"nome": "Azienda Agricola Francesco Modica",
+"regione": "Sicilia",
+"comune": "Randazzo",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"azienda-agricola-francesco-modica"
+],
+"primario": "azienda-agricola-francesco-modica"
+},
+{
+"slug": "fattorie-romeo-del-castello",
+"nome": "Fattorie Romeo Del Castello",
+"regione": "Sicilia",
+"comune": "Randazzo",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"fattorie-romeo-del-castello"
+],
+"primario": "fattorie-romeo-del-castello"
+},
+{
+"slug": "vini-cali",
+"nome": "Vini Calì",
+"regione": "Sicilia",
+"comune": "Casteldaccia",
+"tipi": {
+"sicilia": [
+"Sicilia"
+]
+},
+"membri": [
+"vini-cali"
+],
+"primario": "vini-cali"
+},
+{
+"slug": "masseria-del-pino",
+"nome": "Masseria Del Pino",
+"regione": "Sicilia",
+"comune": "Randazzo",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"masseria-del-pino"
+],
+"primario": "masseria-del-pino"
+},
+{
+"slug": "valcerasa",
+"nome": "Valcerasa",
+"regione": "Sicilia",
+"comune": "Randazzo",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"valcerasa"
+],
+"primario": "valcerasa"
+},
+{
+"slug": "irene-badala",
+"nome": "Irene Badalà",
+"regione": "Sicilia",
+"comune": "Castiglione di Sicilia",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"irene-badala"
+],
+"primario": "irene-badala"
+},
+{
+"slug": "azienda-agricola-filippo-grasso",
+"nome": "Azienda Agricola Filippo Grasso",
+"regione": "Sicilia",
+"comune": "Randazzo",
+"tipi": {
+"etna": [
+"Etna"
+]
+},
+"membri": [
+"azienda-agricola-filippo-grasso"
+],
+"primario": "azienda-agricola-filippo-grasso"
 }
 ]

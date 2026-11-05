@@ -1,0 +1,46 @@
+{
+ "nome": "Mustazza",
+ "slug": "mustazza",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Giacomo Matteotti, 88/90, 91012 Buseto Palizzolo (TP) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 340 377 1957 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@mustazzavini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://mustazzavini.it/|mustazzavini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini DOC Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://mustazzavini.it/",
+   "etichetta": "mustazzavini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini DOC Sicilia, consultato il 5 novembre 2026.",
+   "url": "https://siciliadoc.wine/i-produttori/",
+   "etichetta": "siciliadoc.wine"
+  }
+ ]
+}

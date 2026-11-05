@@ -1,0 +1,46 @@
+{
+ "nome": "Generazione Alessandro",
+ "slug": "generazione-alessandro",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Borriglione, 95015 Linguaglossa (CT) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 377 3633065 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@generazionealessandro.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.generazionealessandro.it/|generazionealessandro.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini Etna DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.generazionealessandro.it/",
+   "etichetta": "generazionealessandro.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini Etna DOC, consultato il 5 novembre 2026.",
+   "url": "https://thewinesofetna.com/producers/",
+   "etichetta": "thewinesofetna.com"
+  }
+ ]
+}

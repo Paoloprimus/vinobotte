@@ -1,0 +1,54 @@
+{
+ "nome": "Feudo Solaria",
+ "slug": "feudo-solaria",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Feudo Solarìa Aziende Vitivinicole s.r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02507840839 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Sulleria, 98059 Rodì Milici (ME) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "090 9281082 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@feudosolaria.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.feudosolaria.it|feudosolaria.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.feudosolaria.it",
+   "etichetta": "feudosolaria.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

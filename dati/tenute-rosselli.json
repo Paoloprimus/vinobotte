@@ -1,0 +1,46 @@
+{
+ "nome": "Tenute Rosselli",
+ "slug": "tenute-rosselli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "90014 Casteldaccia (PA) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 333 1967306 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenuterosselli.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://tenuterosselli.it/|tenuterosselli.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini DOC Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://tenuterosselli.it/",
+   "etichetta": "tenuterosselli.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini DOC Sicilia, consultato il 5 novembre 2026.",
+   "url": "https://siciliadoc.wine/i-produttori/",
+   "etichetta": "siciliadoc.wine"
+  }
+ ]
+}

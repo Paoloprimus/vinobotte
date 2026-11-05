@@ -1,0 +1,54 @@
+{
+ "nome": "Santa Tresa",
+ "slug": "santa-tresa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Soc. Agr. Santa Tresa srl [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01203510886 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Santa Teresa, 97019 Vittoria (RG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "09321846555 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@santatresa.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.santatresa.com|santatresa.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.santatresa.com",
+   "etichetta": "santatresa.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

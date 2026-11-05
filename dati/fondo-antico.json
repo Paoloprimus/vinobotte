@@ -1,0 +1,54 @@
+{
+ "nome": "Fondo Antico",
+ "slug": "fondo-antico",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Fondo Antico S.R.L. Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01879040812 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Str. Fiorame - Fraz. Rilievo 54A, 91100 Trapani (TP) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0923 864339 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fondoantico.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.fondoantico.it|fondoantico.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.fondoantico.it",
+   "etichetta": "fondoantico.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

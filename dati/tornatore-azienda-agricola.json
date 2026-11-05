@@ -1,0 +1,54 @@
+{
+ "nome": "Tornatore Azienda Agricola",
+ "slug": "tornatore-azienda-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Francesco Tornatore [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01072520875 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via O. Motta Tornabene 3, 95128 Catania (CT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "095 7131576 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tornatorewine.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tornatorewine.com|tornatorewine.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.tornatorewine.com",
+   "etichetta": "tornatorewine.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

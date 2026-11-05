@@ -1,0 +1,50 @@
+{
+ "nome": "Cantina Chitarra",
+ "slug": "cantina-chitarra",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina Chitarra s.r.l [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "C/da Chitarra, Via Salemi Km 19,00, 91025 Marsala (TP) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0923 1858044 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinachitarra.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinachitarra.com/|cantinachitarra.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cantinachitarra.com/",
+   "etichetta": "cantinachitarra.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "nome": "Cantine Di Nessuno",
+ "slug": "cantine-di-nessuno",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "05373550879 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Raffineria 52, 95129 Catania (CT) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinedinessuno.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinedinessuno.it/|cantinedinessuno.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini Etna DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cantinedinessuno.it/",
+   "etichetta": "cantinedinessuno.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini Etna DOC, consultato il 5 novembre 2026.",
+   "url": "https://thewinesofetna.com/producers/",
+   "etichetta": "thewinesofetna.com"
+  }
+ ]
+}

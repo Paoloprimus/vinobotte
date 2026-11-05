@@ -1,0 +1,54 @@
+{
+ "nome": "Baglio del Cristo di Campobello",
+ "slug": "baglio-del-cristo-di-campobello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Baglio del Cristo di Campobello Soc. Agr. a r.l. [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02190950846 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Favarotta S.S. 123 km 19+200, 92023 Campobello di Licata (AG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0922 877709 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "mail@cristodicampobello.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cristodicampobello.it|cristodicampobello.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cristodicampobello.it",
+   "etichetta": "cristodicampobello.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

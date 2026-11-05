@@ -1,0 +1,54 @@
+{
+ "nome": "Girolamo Russo",
+ "slug": "girolamo-russo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "AZIENDA AGRICOLA GIUSEPPE RUSSO [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "23112321313 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Regina Margherita 78, 95012 Castiglione di Sicilia (CT) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0942 983142 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@girolamorusso.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.girolamorusso.it|girolamorusso.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.girolamorusso.it",
+   "etichetta": "girolamorusso.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

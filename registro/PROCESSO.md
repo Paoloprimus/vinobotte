@@ -272,3 +272,12 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 125 — Liguria chiusa
 - Registro `liguria-chiusura.md`; `stato-consorzi.csv` riga 117. Liguria 47; guida 6.068.
+
+## 126 — Sicilia: Assovini e DOC Sicilia
+- Elenco Assovini (84 soci con indirizzo) inserito. Elenco DOC Sicilia (400) letto nel browser; 268 siti letti; 106 schede. Malvasia delle Lipari: 7 schede.
+
+## 127 — Sicilia: Etna e Vivino
+- Elenco Etna (149 nomi): 28 schede. Vivino Sicilia scaricato (552): +18 schede. Nove pagine nuove.
+
+## 128 — Sicilia chiusa
+- Registro `sicilia-chiusura.md`; `stato-consorzi.csv` righe 71, 73, 98, 100, 105, 128, 130. Sicilia 247; guida 6.304.

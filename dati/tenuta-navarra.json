@@ -1,0 +1,50 @@
+{
+ "nome": "Tenuta Navarra",
+ "slug": "tenuta-navarra",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Tenuta Navarra [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02048510859 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "contrada San Giacomo, 93011 Butera (CL) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutenavarra.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://tenutenavarra.com/|tenutenavarra.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://tenutenavarra.com/",
+   "etichetta": "tenutenavarra.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

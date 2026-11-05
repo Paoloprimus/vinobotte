@@ -1,0 +1,46 @@
+{
+ "nome": "Candido",
+ "slug": "candido-monreale",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda vitivinicola [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Montagnola snc, 90046 Monreale (PA) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@candidovinisicilia.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.candidovinisicilia.it/|candidovinisicilia.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.candidovinisicilia.it/",
+   "etichetta": "candidovinisicilia.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

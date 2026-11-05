@@ -1,0 +1,54 @@
+{
+ "nome": "Planeta",
+ "slug": "planeta",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Aziende Agricole Planeta SS [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01536110842 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Dispensa, 92013 Menfi (AG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0925 80009 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "planeta@planeta.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.planeta.it|planeta.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.planeta.it",
+   "etichetta": "planeta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

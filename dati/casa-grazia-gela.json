@@ -1,0 +1,46 @@
+{
+ "nome": "Casa Grazia",
+ "slug": "casa-grazia-gela",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Passo di Piazza, 93012 Gela (CL) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0933 919 465 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "export@casagrazia.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://casadigrazia.com/|casadigrazia.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini DOC Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://casadigrazia.com/",
+   "etichetta": "casadigrazia.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini DOC Sicilia, consultato il 5 novembre 2026.",
+   "url": "https://siciliadoc.wine/i-produttori/",
+   "etichetta": "siciliadoc.wine"
+  }
+ ]
+}

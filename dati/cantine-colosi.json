@@ -1,0 +1,50 @@
+{
+ "nome": "Cantine Colosi",
+ "slug": "cantine-colosi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantine Colosi srl [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Jachiddu, 25, 98125 Messina (ME) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "090 9385549 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinecolosi.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.cantinecolosi.it|cantinecolosi.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.cantinecolosi.it",
+   "etichetta": "cantinecolosi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "nome": "Marino Abate",
+ "slug": "marino-abate",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02810020814 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "C. da Torrelunga Puleo, 90, 91025 Marsala (TP) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "vincenzo@marinoabate.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://marinoabate.it/|marinoabate.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini DOC Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://marinoabate.it/",
+   "etichetta": "marinoabate.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini DOC Sicilia, consultato il 5 novembre 2026.",
+   "url": "https://siciliadoc.wine/i-produttori/",
+   "etichetta": "siciliadoc.wine"
+  }
+ ]
+}

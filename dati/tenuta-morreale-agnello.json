@@ -1,0 +1,46 @@
+{
+ "nome": "Tenuta Morreale Agnello",
+ "slug": "tenuta-morreale-agnello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Morreale Agnello S.R.L. [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Fauma 2, 92100 Agrigento (AG) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutamorrealeagnello.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutamorrealeagnello.eu|tenutamorrealeagnello.eu}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.tenutamorrealeagnello.eu",
+   "etichetta": "tenutamorrealeagnello.eu"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

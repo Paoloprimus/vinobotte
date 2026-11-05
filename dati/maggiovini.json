@@ -1,0 +1,50 @@
+{
+ "nome": "Maggiovini",
+ "slug": "maggiovini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Maggio Vini Sas [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Filippo Bonetta 35, 97019 Vittoria (RG) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "0932 984771 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@maggiovini.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.maggiovini.com|maggiovini.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.maggiovini.com",
+   "etichetta": "maggiovini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

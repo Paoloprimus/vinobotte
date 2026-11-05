@@ -1,0 +1,50 @@
+{
+ "nome": "Tenuta Gatti",
+ "slug": "tenuta-gatti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02948750837 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Cuprani, 98064 Librizzi (ME) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 327 9221839 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutagatti.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutagatti.com/|tenutagatti.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini DOC Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.tenutagatti.com/",
+   "etichetta": "tenutagatti.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini DOC Sicilia, consultato il 5 novembre 2026.",
+   "url": "https://siciliadoc.wine/i-produttori/",
+   "etichetta": "siciliadoc.wine"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "Feudo Disisa",
+ "slug": "feudo-disisa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Disisa srl Società Agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "04793160823 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Roma 392, 90139 Palermo (PA) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "091 6127109 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vinidisisa.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.feudodisisa.it|feudodisisa.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.feudodisisa.it",
+   "etichetta": "feudodisisa.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

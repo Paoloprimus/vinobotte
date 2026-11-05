@@ -1,0 +1,54 @@
+{
+ "nome": "Serra Ferdinandea",
+ "slug": "serra-ferdinandea",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "DOMAINE EN SICILE SRL AGRICOLA [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "06742370825 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Trapani 1/D, 90141 Palermo (PA) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+393346302867 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@serraferdinandea.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://serraferdinandea.com/|serraferdinandea.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://serraferdinandea.com/",
+   "etichetta": "serraferdinandea.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}

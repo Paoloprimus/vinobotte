@@ -1,0 +1,50 @@
+{
+ "nome": "Camporè",
+ "slug": "campore",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda agricola [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03375780834 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada San Lorenzo, 95036 Randazzo (CT) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@camporewine.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://camporewine.it/|camporewine.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Assovini Sicilia [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://camporewine.it/",
+   "etichetta": "camporewine.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Assovini Sicilia, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.assovinisicilia.it/i-soci/",
+   "etichetta": "assovinisicilia.it"
+  }
+ ]
+}
