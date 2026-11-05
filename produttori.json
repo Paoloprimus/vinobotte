@@ -60765,6 +60765,1044 @@
 "primario": "azienda-agricola-di-meo"
 },
 {
+"slug": "tenuta-ulisse",
+"nome": "Tenuta Ulisse",
+"regione": "Abruzzo",
+"comune": "Crecchio",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-ulisse"
+],
+"primario": "tenuta-ulisse"
+},
+{
+"slug": "castorani",
+"nome": "Castorani",
+"regione": "Abruzzo",
+"comune": "Alanno",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"castorani"
+],
+"primario": "castorani"
+},
+{
+"slug": "vigna-madre",
+"nome": "Vigna Madre",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"vigna-madre"
+],
+"primario": "vigna-madre"
+},
+{
+"slug": "tenuta-i-fauri",
+"nome": "Tenuta I Fauri",
+"regione": "Abruzzo",
+"comune": "Chieti",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-i-fauri"
+],
+"primario": "tenuta-i-fauri"
+},
+{
+"slug": "feudo-antico",
+"nome": "Feudo Antico",
+"regione": "Abruzzo",
+"comune": "Tollo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"feudo-antico"
+],
+"primario": "feudo-antico"
+},
+{
+"slug": "casal-thaulero",
+"nome": "Casal Thaulero",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"casal-thaulero"
+],
+"primario": "casal-thaulero"
+},
+{
+"slug": "venea",
+"nome": "Venea",
+"regione": "Abruzzo",
+"comune": "Fossacesia",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"venea"
+],
+"primario": "venea"
+},
+{
+"slug": "orlandi-contucci-ponno",
+"nome": "Orlandi Contucci Ponno",
+"regione": "Abruzzo",
+"comune": "Roseto degli Abruzzi",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"orlandi-contucci-ponno"
+],
+"primario": "orlandi-contucci-ponno"
+},
+{
+"slug": "rosarubra",
+"nome": "Rosarubra",
+"regione": "Abruzzo",
+"comune": "Pietranico",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"rosarubra"
+],
+"primario": "rosarubra"
+},
+{
+"slug": "tenuta-terraviva",
+"nome": "Tenuta Terraviva",
+"regione": "Abruzzo",
+"comune": "Tortoreto",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
+]
+},
+"membri": [
+"tenuta-terraviva"
+],
+"primario": "tenuta-terraviva"
+},
+{
+"slug": "barone-di-valforte",
+"nome": "Barone di Valforte",
+"regione": "Abruzzo",
+"comune": "Silvi",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
+]
+},
+"membri": [
+"barone-di-valforte"
+],
+"primario": "barone-di-valforte"
+},
+{
+"slug": "cerulli-spinozzi",
+"nome": "Cerulli Spinozzi",
+"regione": "Abruzzo",
+"comune": "Canzano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
+]
+},
+"membri": [
+"cerulli-spinozzi"
+],
+"primario": "cerulli-spinozzi"
+},
+{
+"slug": "pasetti",
+"nome": "Pasetti",
+"regione": "Abruzzo",
+"comune": "Francavilla al Mare",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"pasetti"
+],
+"primario": "pasetti"
+},
+{
+"slug": "buccicatino",
+"nome": "Buccicatino",
+"regione": "Abruzzo",
+"comune": "Bucchianico",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"buccicatino"
+],
+"primario": "buccicatino"
+},
+{
+"slug": "giuliana-vicini",
+"nome": "Giuliana Vicini",
+"regione": "Abruzzo",
+"comune": "Miglianico",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"giuliana-vicini"
+],
+"primario": "giuliana-vicini"
+},
+{
+"slug": "filomusi-guelfi",
+"nome": "Filomusi Guelfi",
+"regione": "Abruzzo",
+"comune": "Tocco da Casauria",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"filomusi-guelfi"
+],
+"primario": "filomusi-guelfi"
+},
+{
+"slug": "colle-florido",
+"nome": "Colle Florido",
+"regione": "Abruzzo",
+"comune": "Pianella",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"colle-florido"
+],
+"primario": "colle-florido"
+},
+{
+"slug": "nic-tartaglia",
+"nome": "Nic Tartaglia",
+"regione": "Abruzzo",
+"comune": "Alanno",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"nic-tartaglia"
+],
+"primario": "nic-tartaglia"
+},
+{
+"slug": "dora-sarchese",
+"nome": "Dora Sarchese",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"dora-sarchese"
+],
+"primario": "dora-sarchese"
+},
+{
+"slug": "di-berardino",
+"nome": "di Berardino",
+"regione": "Abruzzo",
+"comune": "Pescara",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"di-berardino"
+],
+"primario": "di-berardino"
+},
+{
+"slug": "lampato",
+"nome": "Lampato",
+"regione": "Abruzzo",
+"comune": "Pianella",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"lampato"
+],
+"primario": "lampato"
+},
+{
+"slug": "monteselva",
+"nome": "Monteselva",
+"regione": "Abruzzo",
+"comune": "Montesilvano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"monteselva"
+],
+"primario": "monteselva"
+},
+{
+"slug": "tenuta-secolo-ix",
+"nome": "Tenuta Secolo IX",
+"regione": "Abruzzo",
+"comune": "Castiglione a Casauria",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-secolo-ix"
+],
+"primario": "tenuta-secolo-ix"
+},
+{
+"slug": "castelsimoni",
+"nome": "Castelsimoni",
+"regione": "Abruzzo",
+"comune": "L'Aquila",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"castelsimoni"
+],
+"primario": "castelsimoni"
+},
+{
+"slug": "tenuta-oderisio",
+"nome": "Tenuta Oderisio",
+"regione": "Abruzzo",
+"comune": "Monteodorisio",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-oderisio"
+],
+"primario": "tenuta-oderisio"
+},
+{
+"slug": "borgovenna",
+"nome": "Borgovenna",
+"regione": "Abruzzo",
+"comune": "Tollo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"borgovenna"
+],
+"primario": "borgovenna"
+},
+{
+"slug": "santone-vini",
+"nome": "Santone Vini",
+"regione": "Abruzzo",
+"comune": "Silvi",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"santone-vini"
+],
+"primario": "santone-vini"
+},
+{
+"slug": "de-angelis-corvi",
+"nome": "De Angelis Corvi",
+"regione": "Abruzzo",
+"comune": "Controguerra",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
+],
+"controguerra": [
+"Controguerra"
+]
+},
+"membri": [
+"de-angelis-corvi"
+],
+"primario": "de-angelis-corvi"
+},
+{
+"slug": "tenuta-de-melis",
+"nome": "Tenuta de Melis",
+"regione": "Abruzzo",
+"comune": "Penne",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-de-melis"
+],
+"primario": "tenuta-de-melis"
+},
+{
+"slug": "la-vinarte",
+"nome": "La Vinarte",
+"regione": "Abruzzo",
+"comune": "Santa Maria Imbaro",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"la-vinarte"
+],
+"primario": "la-vinarte"
+},
+{
+"slug": "terre-d-erce",
+"nome": "Terre d'Erce",
+"regione": "Abruzzo",
+"comune": "Vasto",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"terre-d-erce"
+],
+"primario": "terre-d-erce"
+},
+{
+"slug": "micace",
+"nome": "Micace",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"micace"
+],
+"primario": "micace"
+},
+{
+"slug": "zappacosta",
+"nome": "Zappacosta",
+"regione": "Abruzzo",
+"comune": "Chieti",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"zappacosta"
+],
+"primario": "zappacosta"
+},
+{
+"slug": "marcocelli",
+"nome": "Marcocelli",
+"regione": "Abruzzo",
+"comune": "Corropoli",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
+]
+},
+"membri": [
+"marcocelli"
+],
+"primario": "marcocelli"
+},
+{
+"slug": "tenuta-masciangelo",
+"nome": "Tenuta Masciangelo",
+"regione": "Abruzzo",
+"comune": "Francavilla al Mare",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-masciangelo"
+],
+"primario": "tenuta-masciangelo"
+},
+{
+"slug": "fuschi",
+"nome": "Fuschi",
+"regione": "Abruzzo",
+"comune": "Silvi",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"fuschi"
+],
+"primario": "fuschi"
+},
+{
+"slug": "dalibra",
+"nome": "Dalibra",
+"regione": "Abruzzo",
+"comune": "Arielli",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"dalibra"
+],
+"primario": "dalibra"
+},
+{
+"slug": "donato-di-tommaso",
+"nome": "Donato di Tommaso",
+"regione": "Abruzzo",
+"comune": "Rosciano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"donato-di-tommaso"
+],
+"primario": "donato-di-tommaso"
+},
+{
+"slug": "pistis-sophia",
+"nome": "Pistis Sophia",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"pistis-sophia"
+],
+"primario": "pistis-sophia"
+},
+{
+"slug": "tenuta-trium",
+"nome": "Tenuta Trium",
+"regione": "Abruzzo",
+"comune": "Notaresco",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-trium"
+],
+"primario": "tenuta-trium"
+},
+{
+"slug": "naviganti",
+"nome": "Naviganti",
+"regione": "Abruzzo",
+"comune": "Atessa",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"naviganti"
+],
+"primario": "naviganti"
+},
+{
+"slug": "fattoria-licia",
+"nome": "Fattoria Licia",
+"regione": "Abruzzo",
+"comune": "Villamagna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+],
+"villamagna": [
+"Villamagna"
+]
+},
+"membri": [
+"fattoria-licia"
+],
+"primario": "fattoria-licia"
+},
+{
+"slug": "fausto-falcone",
+"nome": "Fausto Falcone",
+"regione": "Abruzzo",
+"comune": "Ari",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"fausto-falcone"
+],
+"primario": "fausto-falcone"
+},
+{
+"slug": "risogna-vini",
+"nome": "Risogna Vini",
+"regione": "Abruzzo",
+"comune": "Orsogna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"risogna-vini"
+],
+"primario": "risogna-vini"
+},
+{
+"slug": "poderi-d-aurizio",
+"nome": "Poderi d'Aurizio",
+"regione": "Abruzzo",
+"comune": "Casalbordino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"poderi-d-aurizio"
+],
+"primario": "poderi-d-aurizio"
+},
+{
+"slug": "nododivino",
+"nome": "Nododivino",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"nododivino"
+],
+"primario": "nododivino"
+},
+{
+"slug": "orefice",
+"nome": "Orefice",
+"regione": "Abruzzo",
+"comune": "San Vito Chietino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"orefice"
+],
+"primario": "orefice"
+},
+{
+"slug": "tiberio",
+"nome": "Tiberio",
+"regione": "Abruzzo",
+"comune": "Cugnoli",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tiberio"
+],
+"primario": "tiberio"
+},
+{
+"slug": "cirelli",
+"nome": "Cirelli",
+"regione": "Abruzzo",
+"comune": "Atri",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cirelli"
+],
+"primario": "cirelli"
+},
+{
+"slug": "torre-zambra",
+"nome": "Torre Zambra",
+"regione": "Abruzzo",
+"comune": "Villamagna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+],
+"villamagna": [
+"Villamagna"
+]
+},
+"membri": [
+"torre-zambra"
+],
+"primario": "torre-zambra"
+},
+{
+"slug": "casal-bordino",
+"nome": "Casal Bordino",
+"regione": "Abruzzo",
+"comune": "Casalbordino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"casal-bordino"
+],
+"primario": "casal-bordino"
+},
+{
+"slug": "camillo-montori",
+"nome": "Camillo Montori",
+"regione": "Abruzzo",
+"comune": "Controguerra",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+],
+"controguerra": [
+"Controguerra"
+]
+},
+"membri": [
+"camillo-montori"
+],
+"primario": "camillo-montori"
+},
+{
+"slug": "masseria-coste-di-brenta",
+"nome": "Masseria Coste di Brenta",
+"regione": "Abruzzo",
+"comune": "Lanciano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"masseria-coste-di-brenta"
+],
+"primario": "masseria-coste-di-brenta"
+},
+{
+"slug": "bossanova",
+"nome": "Bossanova",
+"regione": "Abruzzo",
+"comune": "Controguerra",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
+],
+"controguerra": [
+"Controguerra"
+]
+},
+"membri": [
+"bossanova"
+],
+"primario": "bossanova"
+},
+{
+"slug": "inalto",
+"nome": "Inalto",
+"regione": "Abruzzo",
+"comune": "Ofena",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"inalto"
+],
+"primario": "inalto"
+},
+{
+"slug": "azienda-agricola-di-cato",
+"nome": "Azienda Agricola di Cato",
+"regione": "Abruzzo",
+"comune": "Vittorito",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"azienda-agricola-di-cato"
+],
+"primario": "azienda-agricola-di-cato"
+},
+{
+"slug": "belfiore",
+"nome": "Belfiore",
+"regione": "Abruzzo",
+"comune": "Loreto Aprutino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"belfiore"
+],
+"primario": "belfiore"
+},
+{
+"slug": "alberto-tiberio",
+"nome": "Alberto Tiberio",
+"regione": "Abruzzo",
+"comune": "Casalbordino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"alberto-tiberio"
+],
+"primario": "alberto-tiberio"
+},
+{
+"slug": "cordoni",
+"nome": "Cordoni",
+"regione": "Abruzzo",
+"comune": "Ancarano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cordoni"
+],
+"primario": "cordoni"
+},
+{
+"slug": "petrini",
+"nome": "Petrini",
+"regione": "Abruzzo",
+"comune": "Spoltore",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"petrini"
+],
+"primario": "petrini"
+},
+{
+"slug": "ruggieri",
+"nome": "Ruggieri",
+"regione": "Abruzzo",
+"comune": "Atri",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"ruggieri"
+],
+"primario": "ruggieri"
+},
+{
+"slug": "di-lorenzo",
+"nome": "di Lorenzo",
+"regione": "Abruzzo",
+"comune": "Castilenti",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"di-lorenzo"
+],
+"primario": "di-lorenzo"
+},
+{
+"slug": "martelli",
+"nome": "Martelli",
+"regione": "Abruzzo",
+"comune": "Ripa Teatina",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"martelli"
+],
+"primario": "martelli"
+},
+{
+"slug": "fattoria-italiana-martelli",
+"nome": "Fattoria Italiana Martelli",
+"regione": "Abruzzo",
+"comune": "Lanciano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"fattoria-italiana-martelli"
+],
+"primario": "fattoria-italiana-martelli"
+},
+{
+"slug": "di-biase",
+"nome": "di Biase",
+"regione": "Abruzzo",
+"comune": "Città Sant'Angelo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"di-biase"
+],
+"primario": "di-biase"
+},
+{
+"slug": "tenuta-fanton",
+"nome": "Tenuta Fanton",
+"regione": "Abruzzo",
+"comune": "Città Sant'Angelo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-fanton"
+],
+"primario": "tenuta-fanton"
+},
+{
+"slug": "cantina-ari",
+"nome": "Cantina Ari",
+"regione": "Abruzzo",
+"comune": "Ari",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-ari"
+],
+"primario": "cantina-ari"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",

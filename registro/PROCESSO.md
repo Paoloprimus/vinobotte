@@ -239,3 +239,9 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 114 — Campania chiusa
 - Registro `campania-chiusura.md`; `stato-consorzi.csv` righe 49, 86, 101, 102, 125. Campania 207; guida 5.501. Un solo deploy per regione.
+
+## 115 — Abruzzo: Vivino
+- Scaricato Vivino (1.299); 457 candidate non in guida; sito 206; sede 87; +67 nuove schede. Pagine nuove: Colline Teramane, Controguerra, Villamagna.
+
+## 116 — Abruzzo chiuso
+- Registro `abruzzo-chiusura.md`; `stato-consorzi.csv` riga 15. Abruzzo 131; guida 5.568. Aggiunto il registro unico `cantine-scartate.csv` (sul Mac, fuori dal sito), da rigenerare a ogni regione con `registro_scartate.py`.
