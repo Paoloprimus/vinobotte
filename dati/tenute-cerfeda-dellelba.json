@@ -1,0 +1,46 @@
+{
+ "nome": "Tenute Cerfeda dell'Elba",
+ "slug": "tenute-cerfeda-dellelba",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "C.da Porvica 29000, Isola Amministrativa di Taranto [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 342 8202231 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutecerfeda.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutecerfeda.it|tenutecerfeda.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Primitivo di Manduria DOC [[1]]\nConsorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/tenute-cerfeda-dellelba/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Primitivo di Manduria DOC, consultato il 5 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/tenute-cerfeda-dellelba/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

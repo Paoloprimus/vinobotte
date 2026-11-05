@@ -64053,6 +64053,2319 @@
 "primario": "vini-de-mastro"
 },
 {
+"slug": "cantine-paradiso",
+"nome": "Cantine Paradiso",
+"regione": "Puglia",
+"comune": "Cerignola",
+"tipi": {
+"salice-salentino": [
+"Salice Salentino"
+]
+},
+"membri": [
+"cantine-paradiso"
+],
+"primario": "cantine-paradiso"
+},
+{
+"slug": "coppi",
+"nome": "Coppi",
+"regione": "Puglia",
+"comune": "Turi",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"coppi"
+],
+"primario": "coppi"
+},
+{
+"slug": "la-pruina",
+"nome": "La Pruina",
+"regione": "Puglia",
+"comune": "Torre Santa Susanna",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"la-pruina"
+],
+"primario": "la-pruina"
+},
+{
+"slug": "puglia-pop",
+"nome": "Puglia Pop",
+"regione": "Puglia",
+"comune": "Martina Franca",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+],
+"valle-ditria": [
+"Locorotondo e Martina Franca"
+]
+},
+"membri": [
+"puglia-pop"
+],
+"primario": "puglia-pop"
+},
+{
+"slug": "schola-sarmenti",
+"nome": "Schola Sarmenti",
+"regione": "Puglia",
+"comune": "Nardò",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"schola-sarmenti"
+],
+"primario": "schola-sarmenti"
+},
+{
+"slug": "colli-della-murgia",
+"nome": "Colli della Murgia",
+"regione": "Puglia",
+"comune": "Gravina in Puglia",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"colli-della-murgia"
+],
+"primario": "colli-della-murgia"
+},
+{
+"slug": "valentina-passalacqua",
+"nome": "Valentina Passalacqua",
+"regione": "Puglia",
+"comune": "Apricena",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"valentina-passalacqua"
+],
+"primario": "valentina-passalacqua"
+},
+{
+"slug": "vetrere",
+"nome": "Vetrère",
+"regione": "Puglia",
+"comune": "Taranto",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"vetrere"
+],
+"primario": "vetrere"
+},
+{
+"slug": "cantine-losito",
+"nome": "Cantine Losito",
+"regione": "Puglia",
+"comune": "Foggia",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"cantine-losito"
+],
+"primario": "cantine-losito"
+},
+{
+"slug": "cantina-vignuolo",
+"nome": "Cantina Vignuolo",
+"regione": "Puglia",
+"comune": "Andria",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"cantina-vignuolo"
+],
+"primario": "cantina-vignuolo"
+},
+{
+"slug": "masseria-ludovico",
+"nome": "Masseria Ludovico",
+"regione": "Puglia",
+"comune": "Mottola",
+"tipi": {
+"gioia-del-colle": [
+"Gioia del Colle"
+]
+},
+"membri": [
+"masseria-ludovico"
+],
+"primario": "masseria-ludovico"
+},
+{
+"slug": "vini-nardo",
+"nome": "Vini Nardo",
+"regione": "Puglia",
+"comune": "Canosa di Puglia",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"vini-nardo"
+],
+"primario": "vini-nardo"
+},
+{
+"slug": "torrevento",
+"nome": "Torrevento",
+"regione": "Puglia",
+"comune": "Corato",
+"tipi": {
+"salice-salentino": [
+"Salice Salentino"
+],
+"castel-del-monte": [
+"Castel del Monte"
+]
+},
+"membri": [
+"torrevento"
+],
+"primario": "torrevento"
+},
+{
+"slug": "feudi-salentini",
+"nome": "Feudi Salentini",
+"regione": "Puglia",
+"comune": "Leporano",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"feudi-salentini"
+],
+"primario": "feudi-salentini"
+},
+{
+"slug": "rivera",
+"nome": "Rivera",
+"regione": "Puglia",
+"comune": "Andria",
+"tipi": {
+"castel-del-monte": [
+"Castel del Monte"
+],
+"brindisi": [
+"Brindisi"
+]
+},
+"membri": [
+"rivera"
+],
+"primario": "rivera"
+},
+{
+"slug": "girolamo",
+"nome": "Girolamo",
+"regione": "Puglia",
+"comune": "Martina Franca",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"girolamo"
+],
+"primario": "girolamo"
+},
+{
+"slug": "masseria-pietrosa",
+"nome": "Masseria Pietrosa",
+"regione": "Puglia",
+"comune": "San Marzano di San Giuseppe",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+],
+"salice-salentino": [
+"Salice Salentino"
+]
+},
+"membri": [
+"masseria-pietrosa"
+],
+"primario": "masseria-pietrosa"
+},
+{
+"slug": "villa-valentina",
+"nome": "Villa Valentina",
+"regione": "Puglia",
+"comune": "Cisternino",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"villa-valentina"
+],
+"primario": "villa-valentina"
+},
+{
+"slug": "gianfranco-fino",
+"nome": "Gianfranco Fino",
+"regione": "Puglia",
+"comune": "Manduria",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"gianfranco-fino"
+],
+"primario": "gianfranco-fino"
+},
+{
+"slug": "messapi",
+"nome": "Messapi",
+"regione": "Puglia",
+"comune": "Mesagne",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"messapi"
+],
+"primario": "messapi"
+},
+{
+"slug": "monte-tessa",
+"nome": "Monte Tessa",
+"regione": "Puglia",
+"comune": "Locorotondo",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+],
+"salice-salentino": [
+"Salice Salentino"
+]
+},
+"membri": [
+"monte-tessa"
+],
+"primario": "monte-tessa"
+},
+{
+"slug": "giancarlo",
+"nome": "Giancarlo",
+"regione": "Puglia",
+"comune": "Andria",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"giancarlo"
+],
+"primario": "giancarlo"
+},
+{
+"slug": "l-archetipo",
+"nome": "L'Archetipo",
+"regione": "Puglia",
+"comune": "Castellaneta",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"l-archetipo"
+],
+"primario": "l-archetipo"
+},
+{
+"slug": "fatalone",
+"nome": "Fatalone",
+"regione": "Puglia",
+"comune": "Gioia del Colle",
+"tipi": {
+"gioia-del-colle": [
+"Gioia del Colle"
+]
+},
+"membri": [
+"fatalone"
+],
+"primario": "fatalone"
+},
+{
+"slug": "colle-petrito",
+"nome": "Colle Petrito",
+"regione": "Puglia",
+"comune": "Minervino Murge",
+"tipi": {
+"castel-del-monte": [
+"Castel del Monte"
+],
+"brindisi": [
+"Brindisi"
+]
+},
+"membri": [
+"colle-petrito"
+],
+"primario": "colle-petrito"
+},
+{
+"slug": "feudi-di-guagnano",
+"nome": "Feudi di Guagnano",
+"regione": "Puglia",
+"comune": "Guagnano",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"feudi-di-guagnano"
+],
+"primario": "feudi-di-guagnano"
+},
+{
+"slug": "d-arapri",
+"nome": "d'Arapri",
+"regione": "Puglia",
+"comune": "San Severo",
+"tipi": {
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"d-arapri"
+],
+"primario": "d-arapri"
+},
+{
+"slug": "la-passione-segreta",
+"nome": "La Passione Segreta",
+"regione": "Puglia",
+"comune": "Mesagne",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"la-passione-segreta"
+],
+"primario": "la-passione-segreta"
+},
+{
+"slug": "conte-spagnoletti-zeuli",
+"nome": "Conte Spagnoletti Zeuli",
+"regione": "Puglia",
+"comune": "Andria",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"conte-spagnoletti-zeuli"
+],
+"primario": "conte-spagnoletti-zeuli"
+},
+{
+"slug": "angiuli-donato",
+"nome": "Angiuli Donato",
+"regione": "Puglia",
+"comune": "Adelfia",
+"tipi": {
+"gioia-del-colle": [
+"Gioia del Colle"
+]
+},
+"membri": [
+"angiuli-donato"
+],
+"primario": "angiuli-donato"
+},
+{
+"slug": "antica-enotria",
+"nome": "Antica Enotria",
+"regione": "Puglia",
+"comune": "Cerignola",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"antica-enotria"
+],
+"primario": "antica-enotria"
+},
+{
+"slug": "botromagno",
+"nome": "Botromagno",
+"regione": "Puglia",
+"comune": "Gravina in Puglia",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"botromagno"
+],
+"primario": "botromagno"
+},
+{
+"slug": "cardone",
+"nome": "Cardone",
+"regione": "Puglia",
+"comune": "Locorotondo",
+"tipi": {
+"valle-ditria": [
+"Locorotondo e Martina Franca"
+]
+},
+"membri": [
+"cardone"
+],
+"primario": "cardone"
+},
+{
+"slug": "alberto-longo",
+"nome": "Alberto Longo",
+"regione": "Puglia",
+"comune": "Bari",
+"tipi": {
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"alberto-longo"
+],
+"primario": "alberto-longo"
+},
+{
+"slug": "severino-garofano",
+"nome": "Severino Garofano",
+"regione": "Puglia",
+"comune": "Copertino",
+"tipi": {
+"salento": [
+"Salento"
+]
+},
+"membri": [
+"severino-garofano"
+],
+"primario": "severino-garofano"
+},
+{
+"slug": "pazzia",
+"nome": "Pazzia",
+"regione": "Puglia",
+"comune": "Fragagnano",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"pazzia"
+],
+"primario": "pazzia"
+},
+{
+"slug": "cantine-di-marco",
+"nome": "Cantine di Marco",
+"regione": "Puglia",
+"comune": "Martina Franca",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+],
+"salice-salentino": [
+"Salice Salentino"
+],
+"valle-ditria": [
+"Locorotondo e Martina Franca"
+]
+},
+"membri": [
+"cantine-di-marco"
+],
+"primario": "cantine-di-marco"
+},
+{
+"slug": "caiaffa",
+"nome": "Caiaffa",
+"regione": "Puglia",
+"comune": "Cerignola",
+"tipi": {
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"caiaffa"
+],
+"primario": "caiaffa"
+},
+{
+"slug": "carpentiere",
+"nome": "Carpentiere",
+"regione": "Puglia",
+"comune": "Corato",
+"tipi": {
+"castel-del-monte": [
+"Castel del Monte"
+]
+},
+"membri": [
+"carpentiere"
+],
+"primario": "carpentiere"
+},
+{
+"slug": "contrade",
+"nome": "Contrade",
+"regione": "Puglia",
+"comune": "Andria",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"contrade"
+],
+"primario": "contrade"
+},
+{
+"slug": "l-astore-masseria",
+"nome": "l'Astore Masseria",
+"regione": "Puglia",
+"comune": "Cutrofiano",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"l-astore-masseria"
+],
+"primario": "l-astore-masseria"
+},
+{
+"slug": "calitro",
+"nome": "Calitro",
+"regione": "Puglia",
+"comune": "Martina Franca",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+],
+"valle-ditria": [
+"Locorotondo e Martina Franca"
+],
+"salento": [
+"Salento"
+]
+},
+"membri": [
+"calitro"
+],
+"primario": "calitro"
+},
+{
+"slug": "capuzzimati",
+"nome": "Capuzzimati",
+"regione": "Puglia",
+"comune": "San Marzano di San Giuseppe",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"capuzzimati"
+],
+"primario": "capuzzimati"
+},
+{
+"slug": "masseria-torre-rossa",
+"nome": "Masseria Torre Rossa",
+"regione": "Puglia",
+"comune": "Fasano",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"masseria-torre-rossa"
+],
+"primario": "masseria-torre-rossa"
+},
+{
+"slug": "bonsegna",
+"nome": "Bonsegna",
+"regione": "Puglia",
+"comune": "Nardò",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"bonsegna"
+],
+"primario": "bonsegna"
+},
+{
+"slug": "terre-di-puglia",
+"nome": "Terre di Puglia",
+"regione": "Puglia",
+"comune": "Andria",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"terre-di-puglia"
+],
+"primario": "terre-di-puglia"
+},
+{
+"slug": "giovanni-aiello",
+"nome": "Giovanni Aiello",
+"regione": "Puglia",
+"comune": "Putignano",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"giovanni-aiello"
+],
+"primario": "giovanni-aiello"
+},
+{
+"slug": "nostre-terre",
+"nome": "Nostre Terre",
+"regione": "Puglia",
+"comune": "Cerignola",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"nostre-terre"
+],
+"primario": "nostre-terre"
+},
+{
+"slug": "giuliani",
+"nome": "Giuliani",
+"regione": "Puglia",
+"comune": "Turi",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"giuliani"
+],
+"primario": "giuliani"
+},
+{
+"slug": "cantine-d-alfonso-del-sordo",
+"nome": "Cantine d'Alfonso del Sordo",
+"regione": "Puglia",
+"comune": "San Severo",
+"tipi": {
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"cantine-d-alfonso-del-sordo"
+],
+"primario": "cantine-d-alfonso-del-sordo"
+},
+{
+"slug": "massimo-leone",
+"nome": "Massimo Leone",
+"regione": "Puglia",
+"comune": "Foggia",
+"tipi": {
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"massimo-leone"
+],
+"primario": "massimo-leone"
+},
+{
+"slug": "romaldo-greco",
+"nome": "Romaldo Greco",
+"regione": "Puglia",
+"comune": "Seclì",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"romaldo-greco"
+],
+"primario": "romaldo-greco"
+},
+{
+"slug": "cantina-giara",
+"nome": "Cantina Giara",
+"regione": "Puglia",
+"comune": "Adelfia",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"cantina-giara"
+],
+"primario": "cantina-giara"
+},
+{
+"slug": "plantamura",
+"nome": "Plantamura",
+"regione": "Puglia",
+"comune": "Gioia del Colle",
+"tipi": {
+"gioia-del-colle": [
+"Gioia del Colle"
+]
+},
+"membri": [
+"plantamura"
+],
+"primario": "plantamura"
+},
+{
+"slug": "vigne-monache",
+"nome": "Vigne Monache",
+"regione": "Puglia",
+"comune": "Manduria",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"vigne-monache"
+],
+"primario": "vigne-monache"
+},
+{
+"slug": "paolo-petrilli",
+"nome": "Paolo Petrilli",
+"regione": "Puglia",
+"comune": "Lucera",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"paolo-petrilli"
+],
+"primario": "paolo-petrilli"
+},
+{
+"slug": "luca-attanasio",
+"nome": "Luca Attanasio",
+"regione": "Puglia",
+"comune": "Sava",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"luca-attanasio"
+],
+"primario": "luca-attanasio"
+},
+{
+"slug": "marulli",
+"nome": "Marulli",
+"regione": "Puglia",
+"comune": "Copertino",
+"tipi": {
+"salento": [
+"Salento"
+]
+},
+"membri": [
+"marulli"
+],
+"primario": "marulli"
+},
+{
+"slug": "cantina-coppola",
+"nome": "Cantina Coppola",
+"regione": "Puglia",
+"comune": "Gallipoli",
+"tipi": {
+"brindisi": [
+"Brindisi"
+]
+},
+"membri": [
+"cantina-coppola"
+],
+"primario": "cantina-coppola"
+},
+{
+"slug": "petracavallo",
+"nome": "Petracavallo",
+"regione": "Puglia",
+"comune": "Mottola",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"petracavallo"
+],
+"primario": "petracavallo"
+},
+{
+"slug": "paglione",
+"nome": "Paglione",
+"regione": "Puglia",
+"comune": "Lucera",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"paglione"
+],
+"primario": "paglione"
+},
+{
+"slug": "capo-leuca",
+"nome": "Capo Leuca",
+"regione": "Puglia",
+"comune": "Tricase",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"capo-leuca"
+],
+"primario": "capo-leuca"
+},
+{
+"slug": "schiena",
+"nome": "Schiena",
+"regione": "Puglia",
+"comune": "Villa Castelli",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"schiena"
+],
+"primario": "schiena"
+},
+{
+"slug": "primis",
+"nome": "Primis",
+"regione": "Puglia",
+"comune": "Stornarella",
+"tipi": {
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"primis"
+],
+"primario": "primis"
+},
+{
+"slug": "la-curte",
+"nome": "La Curte",
+"regione": "Puglia",
+"comune": "Tuglie",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"la-curte"
+],
+"primario": "la-curte"
+},
+{
+"slug": "cantine-spelonga",
+"nome": "Cantine Spelonga",
+"regione": "Puglia",
+"comune": "Stornara",
+"tipi": {
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"cantine-spelonga"
+],
+"primario": "cantine-spelonga"
+},
+{
+"slug": "rasciatano",
+"nome": "Rasciatano",
+"regione": "Puglia",
+"comune": "Barletta",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"rasciatano"
+],
+"primario": "rasciatano"
+},
+{
+"slug": "vineka",
+"nome": "Vineka",
+"regione": "Puglia",
+"comune": "Martina Franca",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+],
+"valle-ditria": [
+"Locorotondo e Martina Franca"
+]
+},
+"membri": [
+"vineka"
+],
+"primario": "vineka"
+},
+{
+"slug": "masseria-civitella",
+"nome": "Masseria Civitella",
+"regione": "Puglia",
+"comune": "Carosino",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"masseria-civitella"
+],
+"primario": "masseria-civitella"
+},
+{
+"slug": "meridia",
+"nome": "Meridia",
+"regione": "Puglia",
+"comune": "Barletta",
+"tipi": {
+"castel-del-monte": [
+"Castel del Monte"
+]
+},
+"membri": [
+"meridia"
+],
+"primario": "meridia"
+},
+{
+"slug": "f-lli-tullio-cataldo-kandea",
+"nome": "F.lli Tullio Cataldo - Kandea",
+"regione": "Puglia",
+"comune": "Candela",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"f-lli-tullio-cataldo-kandea"
+],
+"primario": "f-lli-tullio-cataldo-kandea"
+},
+{
+"slug": "elda",
+"nome": "Elda",
+"regione": "Puglia",
+"comune": "Foggia",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"elda"
+],
+"primario": "elda"
+},
+{
+"slug": "upal",
+"nome": "Upal",
+"regione": "Puglia",
+"comune": "Locorotondo",
+"tipi": {
+"valle-ditria": [
+"Locorotondo e Martina Franca"
+]
+},
+"membri": [
+"upal"
+],
+"primario": "upal"
+},
+{
+"slug": "biocantina-giannattasio",
+"nome": "Biocantina Giannattasio",
+"regione": "Puglia",
+"comune": "Trinitapoli",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"biocantina-giannattasio"
+],
+"primario": "biocantina-giannattasio"
+},
+{
+"slug": "vinicola-mastricci-antonio",
+"nome": "Vinicola Mastricci Antonio",
+"regione": "Puglia",
+"comune": "Cerignola",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"vinicola-mastricci-antonio"
+],
+"primario": "vinicola-mastricci-antonio"
+},
+{
+"slug": "tenuta-merico",
+"nome": "Tenuta Merico",
+"regione": "Puglia",
+"comune": "Otranto",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"tenuta-merico"
+],
+"primario": "tenuta-merico"
+},
+{
+"slug": "masseria-masciullo",
+"nome": "Masseria Masciullo",
+"regione": "Puglia",
+"comune": "Brindisi",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"masseria-masciullo"
+],
+"primario": "masseria-masciullo"
+},
+{
+"slug": "terra-dei-trulli",
+"nome": "Terra dei Trulli",
+"regione": "Puglia",
+"comune": "Alberobello",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"terra-dei-trulli"
+],
+"primario": "terra-dei-trulli"
+},
+{
+"slug": "i-parieti",
+"nome": "I Parieti",
+"regione": "Puglia",
+"comune": "Gioia del Colle",
+"tipi": {
+"gioia-del-colle": [
+"Gioia del Colle"
+]
+},
+"membri": [
+"i-parieti"
+],
+"primario": "i-parieti"
+},
+{
+"slug": "azienda-agricola-francesco-marra",
+"nome": "Azienda Agricola Francesco Marra",
+"regione": "Puglia",
+"comune": "Ugento",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"azienda-agricola-francesco-marra"
+],
+"primario": "azienda-agricola-francesco-marra"
+},
+{
+"slug": "cantine-imperatore",
+"nome": "Cantine Imperatore",
+"regione": "Puglia",
+"comune": "Adelfia",
+"tipi": {
+"gioia-del-colle": [
+"Gioia del Colle"
+]
+},
+"membri": [
+"cantine-imperatore"
+],
+"primario": "cantine-imperatore"
+},
+{
+"slug": "tenute-luspada",
+"nome": "Tenute Luspada",
+"regione": "Puglia",
+"comune": "Brindisi",
+"tipi": {
+"brindisi": [
+"Brindisi"
+]
+},
+"membri": [
+"tenute-luspada"
+],
+"primario": "tenute-luspada"
+},
+{
+"slug": "masseria-nel-sole",
+"nome": "Masseria nel Sole",
+"regione": "Puglia",
+"comune": "Lucera",
+"tipi": {
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"masseria-nel-sole"
+],
+"primario": "masseria-nel-sole"
+},
+{
+"slug": "tenuta-demaio",
+"nome": "Tenuta Demaio",
+"regione": "Puglia",
+"comune": "San Severo",
+"tipi": {
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"tenuta-demaio"
+],
+"primario": "tenuta-demaio"
+},
+{
+"slug": "cantina-apulia",
+"nome": "Cantina Apulia",
+"regione": "Puglia",
+"comune": "Stornara",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"cantina-apulia"
+],
+"primario": "cantina-apulia"
+},
+{
+"slug": "masseria-mita",
+"nome": "Masseria Mita",
+"regione": "Puglia",
+"comune": "Martina Franca",
+"tipi": {
+"valle-ditria": [
+"Locorotondo e Martina Franca"
+]
+},
+"membri": [
+"masseria-mita"
+],
+"primario": "masseria-mita"
+},
+{
+"slug": "vini-fieramosca",
+"nome": "Vini Fieramosca",
+"regione": "Puglia",
+"comune": "Barletta",
+"tipi": {
+"castel-del-monte": [
+"Castel del Monte"
+]
+},
+"membri": [
+"vini-fieramosca"
+],
+"primario": "vini-fieramosca"
+},
+{
+"slug": "frisino",
+"nome": "Frisinō",
+"regione": "Puglia",
+"comune": "Crispiano",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"frisino"
+],
+"primario": "frisino"
+},
+{
+"slug": "unione-agricola-melissano",
+"nome": "Unione Agricola Melissano",
+"regione": "Puglia",
+"comune": "Melissano",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"unione-agricola-melissano"
+],
+"primario": "unione-agricola-melissano"
+},
+{
+"slug": "torre-ospina",
+"nome": "Torre Ospina",
+"regione": "Puglia",
+"comune": "Racale",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"torre-ospina"
+],
+"primario": "torre-ospina"
+},
+{
+"slug": "vitivinicoltori-de-quarto",
+"nome": "Vitivinicoltori De Quarto",
+"regione": "Puglia",
+"comune": "Leporano",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+],
+"salento": [
+"Salento"
+]
+},
+"membri": [
+"vitivinicoltori-de-quarto"
+],
+"primario": "vitivinicoltori-de-quarto"
+},
+{
+"slug": "san-ruggiero",
+"nome": "San Ruggiero",
+"regione": "Puglia",
+"comune": "Barletta",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"san-ruggiero"
+],
+"primario": "san-ruggiero"
+},
+{
+"slug": "marco-carrisi",
+"nome": "Marco Carrisi",
+"regione": "Puglia",
+"comune": "San Donaci",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"marco-carrisi"
+],
+"primario": "marco-carrisi"
+},
+{
+"slug": "pisan-battel",
+"nome": "Pisan-Battèl",
+"regione": "Puglia",
+"comune": "San Severo",
+"tipi": {
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"pisan-battel"
+],
+"primario": "pisan-battel"
+},
+{
+"slug": "terre-del-palmento",
+"nome": "Terre del Palmento",
+"regione": "Puglia",
+"comune": "Locorotondo",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+],
+"valle-ditria": [
+"Locorotondo e Martina Franca"
+]
+},
+"membri": [
+"terre-del-palmento"
+],
+"primario": "terre-del-palmento"
+},
+{
+"slug": "giampetruzzi",
+"nome": "Giampetruzzi",
+"regione": "Puglia",
+"comune": "Santeramo in Colle",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"giampetruzzi"
+],
+"primario": "giampetruzzi"
+},
+{
+"slug": "otri-del-salento",
+"nome": "Otri del Salento",
+"regione": "Puglia",
+"comune": "San Pancrazio Salentino",
+"tipi": {
+"salice-salentino": [
+"Salice Salentino"
+]
+},
+"membri": [
+"otri-del-salento"
+],
+"primario": "otri-del-salento"
+},
+{
+"slug": "dimaggio",
+"nome": "Dimaggio",
+"regione": "Puglia",
+"comune": "Fragagnano",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+],
+"salento": [
+"Salento"
+]
+},
+"membri": [
+"dimaggio"
+],
+"primario": "dimaggio"
+},
+{
+"slug": "cantina-dei-fragni",
+"nome": "Cantina dei Fragni",
+"regione": "Puglia",
+"comune": "Sammichele di Bari",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"cantina-dei-fragni"
+],
+"primario": "cantina-dei-fragni"
+},
+{
+"slug": "paolo-leccisi",
+"nome": "Paolo Leccisi",
+"regione": "Puglia",
+"comune": "San Pietro Vernotico",
+"tipi": {
+"brindisi": [
+"Brindisi"
+]
+},
+"membri": [
+"paolo-leccisi"
+],
+"primario": "paolo-leccisi"
+},
+{
+"slug": "mastroleo",
+"nome": "Mastroleo",
+"regione": "Puglia",
+"comune": "Tricase",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"mastroleo"
+],
+"primario": "mastroleo"
+},
+{
+"slug": "tenuta-potenti",
+"nome": "Tenuta Potenti",
+"regione": "Puglia",
+"comune": "Manduria",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"tenuta-potenti"
+],
+"primario": "tenuta-potenti"
+},
+{
+"slug": "agricola-olimpia",
+"nome": "Agricola Olimpia",
+"regione": "Puglia",
+"comune": "Locorotondo",
+"tipi": {
+"valle-ditria": [
+"Locorotondo e Martina Franca"
+]
+},
+"membri": [
+"agricola-olimpia"
+],
+"primario": "agricola-olimpia"
+},
+{
+"slug": "posta-pastorella",
+"nome": "Posta Pastorella",
+"regione": "Puglia",
+"comune": "Vieste",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"posta-pastorella"
+],
+"primario": "posta-pastorella"
+},
+{
+"slug": "sarolo",
+"nome": "Sàrolo",
+"regione": "Puglia",
+"comune": "Ostuni",
+"tipi": {
+"brindisi": [
+"Brindisi"
+],
+"valle-ditria": [
+"Locorotondo e Martina Franca"
+]
+},
+"membri": [
+"sarolo"
+],
+"primario": "sarolo"
+},
+{
+"slug": "monsellato",
+"nome": "Monsellato",
+"regione": "Puglia",
+"comune": "Presicce-Acquarica",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"monsellato"
+],
+"primario": "monsellato"
+},
+{
+"slug": "agricola-marmo",
+"nome": "Agricola Marmo",
+"regione": "Puglia",
+"comune": "Andria",
+"tipi": {
+"castel-del-monte": [
+"Castel del Monte"
+]
+},
+"membri": [
+"agricola-marmo"
+],
+"primario": "agricola-marmo"
+},
+{
+"slug": "cantina-supersanum",
+"nome": "Cantina Supersanum",
+"regione": "Puglia",
+"comune": "Supersano",
+"tipi": {
+"salento": [
+"Salento"
+]
+},
+"membri": [
+"cantina-supersanum"
+],
+"primario": "cantina-supersanum"
+},
+{
+"slug": "anastasia-tommasino",
+"nome": "Anastasia Tommasino",
+"regione": "Puglia",
+"comune": "Manduria",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"anastasia-tommasino"
+],
+"primario": "anastasia-tommasino"
+},
+{
+"slug": "cantine-ciato",
+"nome": "Cantine Ciatò",
+"regione": "Puglia",
+"comune": "Castelluccio dei Sauri",
+"tipi": {
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"cantine-ciato"
+],
+"primario": "cantine-ciato"
+},
+{
+"slug": "lamonarca",
+"nome": "Lamonarca",
+"regione": "Puglia",
+"comune": "Ruvo di Puglia",
+"tipi": {
+"castel-del-monte": [
+"Castel del Monte"
+]
+},
+"membri": [
+"lamonarca"
+],
+"primario": "lamonarca"
+},
+{
+"slug": "vignaioli-pugliesi",
+"nome": "Vignaioli Pugliesi",
+"regione": "Puglia",
+"comune": "Orta Nova",
+"tipi": {
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"vignaioli-pugliesi"
+],
+"primario": "vignaioli-pugliesi"
+},
+{
+"slug": "tenuta-planisium",
+"nome": "Tenuta Planisium",
+"regione": "Puglia",
+"comune": "Volturara Appula",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"tenuta-planisium"
+],
+"primario": "tenuta-planisium"
+},
+{
+"slug": "triconza",
+"nome": "Triconza",
+"regione": "Puglia",
+"comune": "Orta Nova",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"triconza"
+],
+"primario": "triconza"
+},
+{
+"slug": "terra-maiorum",
+"nome": "Terra Maiorum",
+"regione": "Puglia",
+"comune": "Corato",
+"tipi": {
+"castel-del-monte": [
+"Castel del Monte"
+]
+},
+"membri": [
+"terra-maiorum"
+],
+"primario": "terra-maiorum"
+},
+{
+"slug": "madri-leone",
+"nome": "Madri Leone",
+"regione": "Puglia",
+"comune": "Trinitapoli",
+"tipi": {
+"brindisi": [
+"Brindisi"
+],
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"madri-leone"
+],
+"primario": "madri-leone"
+},
+{
+"slug": "tenute-nettis",
+"nome": "Tenute Nettis",
+"regione": "Puglia",
+"comune": "Gioia del Colle",
+"tipi": {
+"gioia-del-colle": [
+"Gioia del Colle"
+]
+},
+"membri": [
+"tenute-nettis"
+],
+"primario": "tenute-nettis"
+},
+{
+"slug": "giai",
+"nome": "Giai",
+"regione": "Puglia",
+"comune": "Carosino",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"giai"
+],
+"primario": "giai"
+},
+{
+"slug": "lomartire",
+"nome": "Lomartire",
+"regione": "Puglia",
+"comune": "Torricella",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+],
+"salento": [
+"Salento"
+]
+},
+"membri": [
+"lomartire"
+],
+"primario": "lomartire"
+},
+{
+"slug": "trefontane",
+"nome": "Trefontane",
+"regione": "Puglia",
+"comune": "Taranto",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"trefontane"
+],
+"primario": "trefontane"
+},
+{
+"slug": "agricola-bruno",
+"nome": "Agricola Bruno",
+"regione": "Puglia",
+"comune": "Andria",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"agricola-bruno"
+],
+"primario": "agricola-bruno"
+},
+{
+"slug": "poderi-delle-mura",
+"nome": "Poderi delle Mura",
+"regione": "Puglia",
+"comune": "Altamura",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"poderi-delle-mura"
+],
+"primario": "poderi-delle-mura"
+},
+{
+"slug": "commenda-magistrale",
+"nome": "Commenda Magistrale",
+"regione": "Puglia",
+"comune": "Maruggio",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"commenda-magistrale"
+],
+"primario": "commenda-magistrale"
+},
+{
+"slug": "il-signore",
+"nome": "Il Signore",
+"regione": "Puglia",
+"comune": "Fasano",
+"tipi": {
+"castel-del-monte": [
+"Castel del Monte"
+]
+},
+"membri": [
+"il-signore"
+],
+"primario": "il-signore"
+},
+{
+"slug": "cantine-ruggio",
+"nome": "Cantine Ruggio",
+"regione": "Puglia",
+"comune": "Novoli",
+"tipi": {
+"salice-salentino": [
+"Salice Salentino"
+],
+"brindisi": [
+"Brindisi"
+],
+"salento": [
+"Salento"
+]
+},
+"membri": [
+"cantine-ruggio"
+],
+"primario": "cantine-ruggio"
+},
+{
+"slug": "pezzaviva",
+"nome": "Pezzaviva",
+"regione": "Puglia",
+"comune": "Torre Santa Susanna",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+],
+"brindisi": [
+"Brindisi"
+],
+"salento": [
+"Salento"
+]
+},
+"membri": [
+"pezzaviva"
+],
+"primario": "pezzaviva"
+},
+{
+"slug": "rubestro",
+"nome": "Rubestro",
+"regione": "Puglia",
+"comune": "Ruvo di Puglia",
+"tipi": {
+"castel-del-monte": [
+"Castel del Monte"
+]
+},
+"membri": [
+"rubestro"
+],
+"primario": "rubestro"
+},
+{
+"slug": "salentum",
+"nome": "Salentum",
+"regione": "Puglia",
+"comune": "Lecce",
+"tipi": {
+"brindisi": [
+"Brindisi"
+]
+},
+"membri": [
+"salentum"
+],
+"primario": "salentum"
+},
+{
+"slug": "arpi",
+"nome": "Arpi",
+"regione": "Puglia",
+"comune": "Foggia",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"arpi"
+],
+"primario": "arpi"
+},
+{
+"slug": "tenute-salentine",
+"nome": "Tenute Salentine",
+"regione": "Puglia",
+"comune": "Carosino",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"tenute-salentine"
+],
+"primario": "tenute-salentine"
+},
+{
+"slug": "donna-palma",
+"nome": "Donna Palma",
+"regione": "Puglia",
+"comune": "Racale",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"donna-palma"
+],
+"primario": "donna-palma"
+},
+{
+"slug": "santissimo",
+"nome": "Santissimo",
+"regione": "Puglia",
+"comune": "Apricena",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"santissimo"
+],
+"primario": "santissimo"
+},
+{
+"slug": "cantine-dalena",
+"nome": "Cantine Dalena",
+"regione": "Puglia",
+"comune": "Mottola",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"cantine-dalena"
+],
+"primario": "cantine-dalena"
+},
+{
+"slug": "cellinese",
+"nome": "Cellinese",
+"regione": "Puglia",
+"comune": "Cellino San Marco",
+"tipi": {
+"salice-salentino": [
+"Salice Salentino"
+]
+},
+"membri": [
+"cellinese"
+],
+"primario": "cellinese"
+},
+{
+"slug": "ametista",
+"nome": "Ametista",
+"regione": "Puglia",
+"comune": "Zollino",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"ametista"
+],
+"primario": "ametista"
+},
+{
+"slug": "curtomartino",
+"nome": "Curtomartino",
+"regione": "Puglia",
+"comune": "Acquaviva delle Fonti",
+"tipi": {
+"gioia-del-colle": [
+"Gioia del Colle"
+]
+},
+"membri": [
+"curtomartino"
+],
+"primario": "curtomartino"
+},
+{
+"slug": "contrada-li-vecchi",
+"nome": "Contrada li Vecchi",
+"regione": "Puglia",
+"comune": "Cellino San Marco",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"contrada-li-vecchi"
+],
+"primario": "contrada-li-vecchi"
+},
+{
+"slug": "pirro",
+"nome": "Pirro",
+"regione": "Puglia",
+"comune": "Troia",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"pirro"
+],
+"primario": "pirro"
+},
+{
+"slug": "gagliardi",
+"nome": "Gagliardi",
+"regione": "Puglia",
+"comune": "San Severo",
+"tipi": {
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"gagliardi"
+],
+"primario": "gagliardi"
+},
+{
+"slug": "le-fiatte",
+"nome": "Le Fiatte",
+"regione": "Puglia",
+"comune": "Sava",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"le-fiatte"
+],
+"primario": "le-fiatte"
+},
+{
+"slug": "m-de-santis",
+"nome": "M. de Santis",
+"regione": "Puglia",
+"comune": "Bitonto",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"m-de-santis"
+],
+"primario": "m-de-santis"
+},
+{
+"slug": "terre-auree",
+"nome": "Terre Auree",
+"regione": "Puglia",
+"comune": "Grottaglie",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"terre-auree"
+],
+"primario": "terre-auree"
+},
+{
+"slug": "falconieri",
+"nome": "Falconieri",
+"regione": "Puglia",
+"comune": "Nardò",
+"tipi": {
+"salento": [
+"Salento"
+]
+},
+"membri": [
+"falconieri"
+],
+"primario": "falconieri"
+},
+{
+"slug": "tenute-buccoliero",
+"nome": "Tenute Buccoliero",
+"regione": "Puglia",
+"comune": "Sava",
+"tipi": {
+"brindisi": [
+"Brindisi"
+]
+},
+"membri": [
+"tenute-buccoliero"
+],
+"primario": "tenute-buccoliero"
+},
+{
+"slug": "cantine-palesi",
+"nome": "Cantine Palesi",
+"regione": "Puglia",
+"comune": "Martina Franca",
+"tipi": {
+"valle-ditria": [
+"Locorotondo e Martina Franca"
+]
+},
+"membri": [
+"cantine-palesi"
+],
+"primario": "cantine-palesi"
+},
+{
+"slug": "agricola-dell-arneo",
+"nome": "Agricola Dell Arneo",
+"regione": "Puglia",
+"comune": "Leverano",
+"tipi": {
+"salento": [
+"Salento"
+]
+},
+"membri": [
+"agricola-dell-arneo"
+],
+"primario": "agricola-dell-arneo"
+},
+{
+"slug": "azienda-agricola-convertino",
+"nome": "Azienda Agricola Convertino",
+"regione": "Puglia",
+"comune": "Fragagnano",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"azienda-agricola-convertino"
+],
+"primario": "azienda-agricola-convertino"
+},
+{
+"slug": "cimaglia",
+"nome": "Cimaglia",
+"regione": "Puglia",
+"comune": "Vieste",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"cimaglia"
+],
+"primario": "cimaglia"
+},
+{
+"slug": "posta-della-casa",
+"nome": "Posta della Casa",
+"regione": "Puglia",
+"comune": "Orta Nova",
+"tipi": {
+"tavoliere": [
+"Tavoliere"
+]
+},
+"membri": [
+"posta-della-casa"
+],
+"primario": "posta-della-casa"
+},
+{
+"slug": "dono-dorato",
+"nome": "Dono Dorato",
+"regione": "Puglia",
+"comune": "Trinitapoli",
+"tipi": {
+"puglia": [
+"Puglia"
+]
+},
+"membri": [
+"dono-dorato"
+],
+"primario": "dono-dorato"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
@@ -92748,5 +95061,200 @@
 "tenuta-saiano"
 ],
 "primario": "tenuta-saiano"
+},
+{
+"slug": "agricola-erario",
+"nome": "Agricola Erario",
+"regione": "Puglia",
+"comune": "Manduria",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"agricola-erario"
+],
+"primario": "agricola-erario"
+},
+{
+"slug": "agricola-pliniana",
+"nome": "Agricola Pliniana",
+"regione": "Puglia",
+"comune": "Manduria",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"agricola-pliniana"
+],
+"primario": "agricola-pliniana"
+},
+{
+"slug": "antica-masseria-jorche",
+"nome": "Antica Masseria Jorche",
+"regione": "Puglia",
+"comune": "Torricella",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"antica-masseria-jorche"
+],
+"primario": "antica-masseria-jorche"
+},
+{
+"slug": "bosco-societ-cooperativa-agricola",
+"nome": "Bosco Società Cooperativa Agricola",
+"regione": "Puglia",
+"comune": "Avetrana",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"bosco-societ-cooperativa-agricola"
+],
+"primario": "bosco-societ-cooperativa-agricola"
+},
+{
+"slug": "cantina-e-oleificio-sociale-di-fragagnano",
+"nome": "Cantina e Oleificio Sociale di Fragagnano",
+"regione": "Puglia",
+"comune": "Fragagnano",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"cantina-e-oleificio-sociale-di-fragagnano"
+],
+"primario": "cantina-e-oleificio-sociale-di-fragagnano"
+},
+{
+"slug": "cantine-harmonia",
+"nome": "Cantine Harmonia",
+"regione": "Puglia",
+"comune": "Sava",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"cantine-harmonia"
+],
+"primario": "cantine-harmonia"
+},
+{
+"slug": "podere-angelini",
+"nome": "Podere Angelini",
+"regione": "Puglia",
+"comune": "Manduria",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"podere-angelini"
+],
+"primario": "podere-angelini"
+},
+{
+"slug": "san-giorgio-tinazzi",
+"nome": "San Giorgio – Tinazzi",
+"regione": "Puglia",
+"comune": "Faggiano",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"san-giorgio-tinazzi"
+],
+"primario": "san-giorgio-tinazzi"
+},
+{
+"slug": "tenuta-giustini",
+"nome": "Tenuta Giustini",
+"regione": "Puglia",
+"comune": "San Giorgio Jonico",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"tenuta-giustini"
+],
+"primario": "tenuta-giustini"
+},
+{
+"slug": "tenute-cerfeda-dellelba",
+"nome": "Tenute Cerfeda dell'Elba",
+"regione": "Puglia",
+"comune": "Taranto",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"tenute-cerfeda-dellelba"
+],
+"primario": "tenute-cerfeda-dellelba"
+},
+{
+"slug": "terracalo",
+"nome": "Terracalò",
+"regione": "Puglia",
+"comune": "Sava",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"terracalo"
+],
+"primario": "terracalo"
+},
+{
+"slug": "vespa-vignaioli-per-passione",
+"nome": "Vespa Vignaioli per Passione",
+"regione": "Puglia",
+"comune": "Manduria",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"vespa-vignaioli-per-passione"
+],
+"primario": "vespa-vignaioli-per-passione"
+},
+{
+"slug": "vinicola-savese-pichierri",
+"nome": "Vinicola Savese Pichierri",
+"regione": "Puglia",
+"comune": "Sava",
+"tipi": {
+"primitivo-di-manduria": [
+"Primitivo di Manduria"
+]
+},
+"membri": [
+"vinicola-savese-pichierri"
+],
+"primario": "vinicola-savese-pichierri"
 }
 ]

@@ -1,0 +1,46 @@
+{
+ "nome": "Tenuta Giustini",
+ "slug": "tenuta-giustini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via S. Allende 4 Z.I., San Giorgio Jonico (TA) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0995330411 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutagiustini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutagiustini.it|tenutagiustini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Primitivo di Manduria DOC [[1]]\nConsorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/tenuta-giustini/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Primitivo di Manduria DOC, consultato il 5 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/tenuta-giustini/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

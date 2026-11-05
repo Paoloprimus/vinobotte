@@ -1,0 +1,46 @@
+{
+ "nome": "Vespa Vignaioli per Passione",
+ "slug": "vespa-vignaioli-per-passione",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Manduria-Avetrana km 3, 74024 Manduria (TA) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "338 319 7403 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@bvfutura14.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vespavignaioli.it|vespavignaioli.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Primitivo di Manduria DOC [[1]]\nConsorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/vespa-vignaioli-per-passione/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Primitivo di Manduria DOC, consultato il 5 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/vespa-vignaioli-per-passione/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

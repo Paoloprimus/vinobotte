@@ -1,0 +1,46 @@
+{
+ "nome": "San Giorgio – Tinazzi",
+ "slug": "san-giorgio-tinazzi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Pitagora, 1, 74020 Faggiano (TA) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "099 592 4445 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinesangiorgio.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tinazzi.it|tinazzi.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Primitivo di Manduria DOC [[1]]\nConsorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/san-giorgio-tinazzi/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Primitivo di Manduria DOC, consultato il 5 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/san-giorgio-tinazzi/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

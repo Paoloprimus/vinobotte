@@ -1,0 +1,46 @@
+{
+ "nome": "Terracalò",
+ "slug": "terracalo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Vico I Caraccio 24, 74028 Sava (TA) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 320 8903470 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "aziendagricola@terracalo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.terracalo.it|terracalo.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Primitivo di Manduria DOC [[1]]\nConsorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/terracalo/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Primitivo di Manduria DOC, consultato il 5 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/terracalo/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

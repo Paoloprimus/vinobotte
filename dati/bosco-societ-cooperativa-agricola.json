@@ -1,0 +1,46 @@
+{
+ "nome": "Bosco Società Cooperativa Agricola",
+ "slug": "bosco-societ-cooperativa-agricola",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Stazione Km.1 – Via Piave, 146, 74020 Avetrana (TA) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "099 9704083 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "coopbosco@gmail.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.coopagricolabosco.it|coopagricolabosco.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Primitivo di Manduria DOC [[1]]\nConsorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/bosco-societa-cooperativa-agricola/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Primitivo di Manduria DOC, consultato il 5 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/bosco-societa-cooperativa-agricola/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}

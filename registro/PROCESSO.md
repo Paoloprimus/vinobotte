@@ -257,3 +257,12 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 120 — Emilia-Romagna chiusa
 - Registro `emilia-romagna-chiusura.md`; `stato-consorzi.csv` righe 20, 24, 25, 33, 136. Emilia-Romagna 255; guida 5.870.
+
+## 121 — Puglia: consorzio Primitivo di Manduria completo
+- Elenco di 39 soci con indirizzo letto per intero: +13 schede. Altri consorzi pugliesi senza elenco leggibile (vedi stato-consorzi.csv).
+
+## 122 — Puglia: Vivino
+- Scaricato Vivino (2.661); 909 candidate non in guida; sito 342; sede 156; +150 nuove schede. Sei pagine nuove per denominazione.
+
+## 123 — Puglia chiusa
+- Registro `puglia-chiusura.md`; `stato-consorzi.csv` righe 36, 91, 107, 108, 112. Puglia 198; guida 6.033.

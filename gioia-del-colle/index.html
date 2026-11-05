@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Cantine Polvanera","s":"cantine-polvanera","c":"Gioia del Colle","d":["Gioia del Colle"]},{"n":"Patruno Perniola","s":"patruno-perniola","c":"Gioia del Colle","d":["Gioia del Colle"]},{"n":"Tenute Chiaromonte","s":"tenute-chiaromonte","c":"Acquaviva delle Fonti","d":["Gioia del Colle"]}];
+    const D=[{"n":"Angiuli Donato","s":"angiuli-donato","c":"Adelfia","d":["Gioia del Colle"]},{"n":"Cantine Imperatore","s":"cantine-imperatore","c":"Adelfia","d":["Gioia del Colle"]},{"n":"Cantine Polvanera","s":"cantine-polvanera","c":"Gioia del Colle","d":["Gioia del Colle"]},{"n":"Curtomartino","s":"curtomartino","c":"Acquaviva delle Fonti","d":["Gioia del Colle"]},{"n":"Fatalone","s":"fatalone","c":"Gioia del Colle","d":["Gioia del Colle"]},{"n":"I Parieti","s":"i-parieti","c":"Gioia del Colle","d":["Gioia del Colle"]},{"n":"Masseria Ludovico","s":"masseria-ludovico","c":"Mottola","d":["Gioia del Colle"]},{"n":"Patruno Perniola","s":"patruno-perniola","c":"Gioia del Colle","d":["Gioia del Colle"]},{"n":"Plantamura","s":"plantamura","c":"Gioia del Colle","d":["Gioia del Colle"]},{"n":"Tenute Chiaromonte","s":"tenute-chiaromonte","c":"Acquaviva delle Fonti","d":["Gioia del Colle"]},{"n":"Tenute Nettis","s":"tenute-nettis","c":"Gioia del Colle","d":["Gioia del Colle"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');

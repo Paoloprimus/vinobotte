@@ -490,5 +490,25 @@
  "emilia": [
   "Produttori vini Emilia e Ferrarese",
   "<option>Emilia e Ferrarese</option>"
+ ],
+ "brindisi": [
+  "Produttori vini Brindisi, Squinzano e Ostuni",
+  "<option>Brindisi, Squinzano e Ostuni</option>"
+ ],
+ "valle-ditria": [
+  "Produttori vini Locorotondo e Martina Franca (Valle d'Itria)",
+  "<option>Locorotondo e Martina Franca (Valle d'Itria)</option>"
+ ],
+ "tavoliere": [
+  "Produttori vini Tavoliere, San Severo e Daunia",
+  "<option>Tavoliere, San Severo e Daunia</option>"
+ ],
+ "salento": [
+  "Produttori vini Salento: Lizzano, Copertino, Nardò, Leverano e Terra d'Otranto",
+  "<option>Salento: Lizzano, Copertino, Nardò, Leverano e Terra d'Otranto</option>"
+ ],
+ "puglia": [
+  "Produttori vini Puglia: altre denominazioni",
+  "<option>Puglia: altre denominazioni</option>"
  ]
 }

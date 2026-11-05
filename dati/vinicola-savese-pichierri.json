@@ -1,0 +1,46 @@
+{
+ "nome": "Vinicola Savese Pichierri",
+ "slug": "vinicola-savese-pichierri",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "S.S. 7 Ter Km 27,790, 74028 Sava (TA) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 099 9726232 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "vinicolasavese@vinipichierri.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.vinipichierri.com|vinipichierri.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzi",
+     "valore": "Consorzio Primitivo di Manduria DOC [[1]]\nConsorzio Primitivo di Manduria DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Primitivo di Manduria DOC, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/vinicola-savese-pichierri/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Primitivo di Manduria DOC, consultato il 5 novembre 2026.",
+   "url": "https://www.consorziotutelaprimitivo.com/soci/vinicola-savese-pichierri/",
+   "etichetta": "consorziotutelaprimitivo.com"
+  }
+ ]
+}
