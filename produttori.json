@@ -70269,6 +70269,2721 @@
 "primario": "titignano"
 },
 {
+"slug": "fontezoppa",
+"nome": "Fontezoppa",
+"regione": "Marche",
+"comune": "Civitanova Marche",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"fontezoppa"
+],
+"primario": "fontezoppa"
+},
+{
+"slug": "filodivino",
+"nome": "Filodivino",
+"regione": "Marche",
+"comune": "San Marcello",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"filodivino"
+],
+"primario": "filodivino"
+},
+{
+"slug": "terrapremiata",
+"nome": "Terrapremiata",
+"regione": "Marche",
+"comune": "Montegiorgio",
+"tipi": {
+"fermo": [
+"Fermo e Colli Fermani"
+]
+},
+"membri": [
+"terrapremiata"
+],
+"primario": "terrapremiata"
+},
+{
+"slug": "de-angelis",
+"nome": "De Angelis",
+"regione": "Marche",
+"comune": "Castel di Lama",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"de-angelis"
+],
+"primario": "de-angelis"
+},
+{
+"slug": "cantine-di-castignano",
+"nome": "Cantine di Castignano",
+"regione": "Marche",
+"comune": "Castignano",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"cantine-di-castignano"
+],
+"primario": "cantine-di-castignano"
+},
+{
+"slug": "moroder",
+"nome": "Moroder",
+"regione": "Marche",
+"comune": "Ancona",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"moroder"
+],
+"primario": "moroder"
+},
+{
+"slug": "terre-di-serrapetrona",
+"nome": "Terre di Serrapetrona",
+"regione": "Marche",
+"comune": "Serrapetrona",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"terre-di-serrapetrona"
+],
+"primario": "terre-di-serrapetrona"
+},
+{
+"slug": "tenuta-dell-ugolino",
+"nome": "Tenuta dell'Ugolino",
+"regione": "Marche",
+"comune": "Castelplanio",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"tenuta-dell-ugolino"
+],
+"primario": "tenuta-dell-ugolino"
+},
+{
+"slug": "il-conventino-di-monteciccardo",
+"nome": "Il Conventino di Monteciccardo",
+"regione": "Marche",
+"comune": "Pesaro",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"il-conventino-di-monteciccardo"
+],
+"primario": "il-conventino-di-monteciccardo"
+},
+{
+"slug": "federico-mencaroni-vini",
+"nome": "Federico Mencaroni Vini",
+"regione": "Marche",
+"comune": "Corinaldo",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"federico-mencaroni-vini"
+],
+"primario": "federico-mencaroni-vini"
+},
+{
+"slug": "la-fontursia",
+"nome": "La Fontursia",
+"regione": "Marche",
+"comune": "Ripatransone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"la-fontursia"
+],
+"primario": "la-fontursia"
+},
+{
+"slug": "cantine-d-ercoli",
+"nome": "Cantine d'Ercoli",
+"regione": "Marche",
+"comune": "Cossignano",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"cantine-d-ercoli"
+],
+"primario": "cantine-d-ercoli"
+},
+{
+"slug": "agricola-arzilla",
+"nome": "Agricola Arzilla",
+"regione": "Marche",
+"comune": "Pesaro",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"agricola-arzilla"
+],
+"primario": "agricola-arzilla"
+},
+{
+"slug": "societa-agricola-maroni",
+"nome": "Società Agricola Maroni",
+"regione": "Marche",
+"comune": "Acquaviva Picena",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"societa-agricola-maroni"
+],
+"primario": "societa-agricola-maroni"
+},
+{
+"slug": "cardocchia",
+"nome": "Cardocchia",
+"regione": "Marche",
+"comune": "Montedinove",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"cardocchia"
+],
+"primario": "cardocchia"
+},
+{
+"slug": "umani-ronchi",
+"nome": "Umani Ronchi",
+"regione": "Marche",
+"comune": "Osimo",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"umani-ronchi"
+],
+"primario": "umani-ronchi"
+},
+{
+"slug": "velenosi",
+"nome": "Velenosi",
+"regione": "Marche",
+"comune": "Ascoli Piceno",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"velenosi"
+],
+"primario": "velenosi"
+},
+{
+"slug": "garofoli",
+"nome": "Garofoli",
+"regione": "Marche",
+"comune": "Castelfidardo",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"garofoli"
+],
+"primario": "garofoli"
+},
+{
+"slug": "saladini-pilastri",
+"nome": "Saladini Pilastri",
+"regione": "Marche",
+"comune": "Spinetoli",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"saladini-pilastri"
+],
+"primario": "saladini-pilastri"
+},
+{
+"slug": "belisario",
+"nome": "Belisario",
+"regione": "Marche",
+"comune": "Matelica",
+"tipi": {
+"matelica": [
+"Matelica"
+]
+},
+"membri": [
+"belisario"
+],
+"primario": "belisario"
+},
+{
+"slug": "bucci",
+"nome": "Bucci",
+"regione": "Marche",
+"comune": "Ostra Vetere",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"bucci"
+],
+"primario": "bucci"
+},
+{
+"slug": "casal-farneto",
+"nome": "Casal Farneto",
+"regione": "Marche",
+"comune": "Serra de' Conti",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"casal-farneto"
+],
+"primario": "casal-farneto"
+},
+{
+"slug": "marotti-campi",
+"nome": "Marotti Campi",
+"regione": "Marche",
+"comune": "Morro d'Alba",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"marotti-campi"
+],
+"primario": "marotti-campi"
+},
+{
+"slug": "romagnoli",
+"nome": "Romagnoli",
+"regione": "Marche",
+"comune": "Morro d'Alba",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"romagnoli"
+],
+"primario": "romagnoli"
+},
+{
+"slug": "cocci-grifoni",
+"nome": "Cocci Grifoni",
+"regione": "Marche",
+"comune": "Ripatransone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"cocci-grifoni"
+],
+"primario": "cocci-grifoni"
+},
+{
+"slug": "fazi-battaglia",
+"nome": "Fazi Battaglia",
+"regione": "Marche",
+"comune": "Castelplanio",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"fazi-battaglia"
+],
+"primario": "fazi-battaglia"
+},
+{
+"slug": "centanni",
+"nome": "Centanni",
+"regione": "Marche",
+"comune": "Montefiore dell'Aso",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"centanni"
+],
+"primario": "centanni"
+},
+{
+"slug": "pievalta",
+"nome": "Pievalta",
+"regione": "Marche",
+"comune": "Maiolati Spontini",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"pievalta"
+],
+"primario": "pievalta"
+},
+{
+"slug": "colli-ripani",
+"nome": "Colli Ripani",
+"regione": "Marche",
+"comune": "Ripatransone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"colli-ripani"
+],
+"primario": "colli-ripani"
+},
+{
+"slug": "piersanti",
+"nome": "Piersanti",
+"regione": "Marche",
+"comune": "San Paolo di Jesi",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"piersanti"
+],
+"primario": "piersanti"
+},
+{
+"slug": "fattoria-mancini",
+"nome": "Fattoria Mancini",
+"regione": "Marche",
+"comune": "Pesaro",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"fattoria-mancini"
+],
+"primario": "fattoria-mancini"
+},
+{
+"slug": "vignamato",
+"nome": "Vignamato",
+"regione": "Marche",
+"comune": "San Paolo di Jesi",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"vignamato"
+],
+"primario": "vignamato"
+},
+{
+"slug": "il-conte-villa-prandone",
+"nome": "Il Conte Villa Prandone",
+"regione": "Marche",
+"comune": "Monteprandone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"il-conte-villa-prandone"
+],
+"primario": "il-conte-villa-prandone"
+},
+{
+"slug": "tenuta-di-tavignano",
+"nome": "Tenuta di Tavignano",
+"regione": "Marche",
+"comune": "Cingoli",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"tenuta-di-tavignano"
+],
+"primario": "tenuta-di-tavignano"
+},
+{
+"slug": "le-terrazze",
+"nome": "Le Terrazze",
+"regione": "Marche",
+"comune": "Numana",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"le-terrazze"
+],
+"primario": "le-terrazze"
+},
+{
+"slug": "bisci",
+"nome": "Bisci",
+"regione": "Marche",
+"comune": "Matelica",
+"tipi": {
+"matelica": [
+"Matelica"
+]
+},
+"membri": [
+"bisci"
+],
+"primario": "bisci"
+},
+{
+"slug": "monte-schiavo",
+"nome": "Monte Schiavo",
+"regione": "Marche",
+"comune": "Maiolati Spontini",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"monte-schiavo"
+],
+"primario": "monte-schiavo"
+},
+{
+"slug": "le-caniette",
+"nome": "Le Caniette",
+"regione": "Marche",
+"comune": "Ripatransone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"le-caniette"
+],
+"primario": "le-caniette"
+},
+{
+"slug": "montecappone",
+"nome": "Montecappone",
+"regione": "Marche",
+"comune": "Jesi",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"montecappone"
+],
+"primario": "montecappone"
+},
+{
+"slug": "colonnara",
+"nome": "Colonnara",
+"regione": "Marche",
+"comune": "Cupramontana",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"colonnara"
+],
+"primario": "colonnara"
+},
+{
+"slug": "collestefano",
+"nome": "ColleStefano",
+"regione": "Marche",
+"comune": "Castelraimondo",
+"tipi": {
+"matelica": [
+"Matelica"
+]
+},
+"membri": [
+"collestefano"
+],
+"primario": "collestefano"
+},
+{
+"slug": "la-staffa",
+"nome": "La Staffa",
+"regione": "Marche",
+"comune": "Staffolo",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"la-staffa"
+],
+"primario": "la-staffa"
+},
+{
+"slug": "terracruda",
+"nome": "Terracruda",
+"regione": "Marche",
+"comune": "Fratte Rosa",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"terracruda"
+],
+"primario": "terracruda"
+},
+{
+"slug": "coroncino",
+"nome": "Coroncino",
+"regione": "Marche",
+"comune": "Staffolo",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"coroncino"
+],
+"primario": "coroncino"
+},
+{
+"slug": "lucchetti",
+"nome": "Lucchetti",
+"regione": "Marche",
+"comune": "Morro d'Alba",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"lucchetti"
+],
+"primario": "lucchetti"
+},
+{
+"slug": "il-pollenza",
+"nome": "Il Pollenza",
+"regione": "Marche",
+"comune": "Tolentino",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"il-pollenza"
+],
+"primario": "il-pollenza"
+},
+{
+"slug": "murola",
+"nome": "Muròla",
+"regione": "Marche",
+"comune": "Urbisaglia",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"murola"
+],
+"primario": "murola"
+},
+{
+"slug": "la-distesa",
+"nome": "La Distesa",
+"regione": "Marche",
+"comune": "Cupramontana",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"la-distesa"
+],
+"primario": "la-distesa"
+},
+{
+"slug": "boccadigabbia",
+"nome": "Boccadigabbia",
+"regione": "Marche",
+"comune": "Civitanova Marche",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"boccadigabbia"
+],
+"primario": "boccadigabbia"
+},
+{
+"slug": "poderi-san-lazzaro",
+"nome": "Poderi San Lazzaro",
+"regione": "Marche",
+"comune": "Offida",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"poderi-san-lazzaro"
+],
+"primario": "poderi-san-lazzaro"
+},
+{
+"slug": "la-calcinara",
+"nome": "La Calcinara",
+"regione": "Marche",
+"comune": "Ancona",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"la-calcinara"
+],
+"primario": "la-calcinara"
+},
+{
+"slug": "sangiovanni",
+"nome": "Sangiovanni",
+"regione": "Marche",
+"comune": "Offida",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"sangiovanni"
+],
+"primario": "sangiovanni"
+},
+{
+"slug": "aurora",
+"nome": "Aurora",
+"regione": "Marche",
+"comune": "Offida",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"aurora"
+],
+"primario": "aurora"
+},
+{
+"slug": "azienda-agricola-fiorano",
+"nome": "Azienda Agricola Fiorano",
+"regione": "Marche",
+"comune": "Cossignano",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"azienda-agricola-fiorano"
+],
+"primario": "azienda-agricola-fiorano"
+},
+{
+"slug": "fiorini",
+"nome": "Fiorini",
+"regione": "Marche",
+"comune": "Terre Roveresche",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"fiorini"
+],
+"primario": "fiorini"
+},
+{
+"slug": "pantaleone",
+"nome": "Pantaleone",
+"regione": "Marche",
+"comune": "Ascoli Piceno",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"pantaleone"
+],
+"primario": "pantaleone"
+},
+{
+"slug": "valter-mattoni",
+"nome": "Valter Mattoni",
+"regione": "Marche",
+"comune": "Castorano",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"valter-mattoni"
+],
+"primario": "valter-mattoni"
+},
+{
+"slug": "tenuta-santori",
+"nome": "Tenuta Santori",
+"regione": "Marche",
+"comune": "Ripatransone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"tenuta-santori"
+],
+"primario": "tenuta-santori"
+},
+{
+"slug": "conte-leopardi",
+"nome": "Conte Leopardi",
+"regione": "Marche",
+"comune": "Castelbellino",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"conte-leopardi"
+],
+"primario": "conte-leopardi"
+},
+{
+"slug": "cherri-d-acquaviva",
+"nome": "Cherri d'Acquaviva",
+"regione": "Marche",
+"comune": "Acquaviva Picena",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"cherri-d-acquaviva"
+],
+"primario": "cherri-d-acquaviva"
+},
+{
+"slug": "silvano-strologo",
+"nome": "Silvano Strologo",
+"regione": "Marche",
+"comune": "Camerano",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"silvano-strologo"
+],
+"primario": "silvano-strologo"
+},
+{
+"slug": "vallerosa-bonci",
+"nome": "Vallerosa Bonci",
+"regione": "Marche",
+"comune": "Cupramontana",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"vallerosa-bonci"
+],
+"primario": "vallerosa-bonci"
+},
+{
+"slug": "domodimonti",
+"nome": "Domodimonti",
+"regione": "Marche",
+"comune": "Montefiore dell'Aso",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"domodimonti"
+],
+"primario": "domodimonti"
+},
+{
+"slug": "alberto-quacquarini",
+"nome": "Alberto Quacquarini",
+"regione": "Marche",
+"comune": "Castelraimondo",
+"tipi": {
+"matelica": [
+"Matelica"
+]
+},
+"membri": [
+"alberto-quacquarini"
+],
+"primario": "alberto-quacquarini"
+},
+{
+"slug": "tenuta-san-marcello",
+"nome": "Tenuta San Marcello",
+"regione": "Marche",
+"comune": "San Marcello",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"tenuta-san-marcello"
+],
+"primario": "tenuta-san-marcello"
+},
+{
+"slug": "conti-degli-azzoni",
+"nome": "Conti Degli Azzoni",
+"regione": "Marche",
+"comune": "Montefano",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"conti-degli-azzoni"
+],
+"primario": "conti-degli-azzoni"
+},
+{
+"slug": "ca-liptra",
+"nome": "Ca'Liptra",
+"regione": "Marche",
+"comune": "Cupramontana",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"ca-liptra"
+],
+"primario": "ca-liptra"
+},
+{
+"slug": "col-di-corte",
+"nome": "Col di Corte",
+"regione": "Marche",
+"comune": "Montecarotto",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"col-di-corte"
+],
+"primario": "col-di-corte"
+},
+{
+"slug": "luciano-landi",
+"nome": "Luciano Landi",
+"regione": "Marche",
+"comune": "Belvedere Ostrense",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"luciano-landi"
+],
+"primario": "luciano-landi"
+},
+{
+"slug": "malacari",
+"nome": "Malacari",
+"regione": "Marche",
+"comune": "Offagna",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"malacari"
+],
+"primario": "malacari"
+},
+{
+"slug": "marconi",
+"nome": "Marconi",
+"regione": "Marche",
+"comune": "San Marcello",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"marconi"
+],
+"primario": "marconi"
+},
+{
+"slug": "brunori",
+"nome": "Brunori",
+"regione": "Marche",
+"comune": "Jesi",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"brunori"
+],
+"primario": "brunori"
+},
+{
+"slug": "fattoria-nanni",
+"nome": "Fattoria Nannì",
+"regione": "Marche",
+"comune": "Apiro",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"fattoria-nanni"
+],
+"primario": "fattoria-nanni"
+},
+{
+"slug": "vigneti-vallorani",
+"nome": "Vigneti Vallorani",
+"regione": "Marche",
+"comune": "Colli del Tronto",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"vigneti-vallorani"
+],
+"primario": "vigneti-vallorani"
+},
+{
+"slug": "saputi",
+"nome": "Saputi",
+"regione": "Marche",
+"comune": "Colmurano",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"saputi"
+],
+"primario": "saputi"
+},
+{
+"slug": "vignedileo",
+"nome": "Vignedileo",
+"regione": "Marche",
+"comune": "Staffolo",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"vignedileo"
+],
+"primario": "vignedileo"
+},
+{
+"slug": "valturio",
+"nome": "Valturio",
+"regione": "Marche",
+"comune": "Macerata Feltria",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"valturio"
+],
+"primario": "valturio"
+},
+{
+"slug": "frati-bianchi-sparapani",
+"nome": "Frati Bianchi Sparapani",
+"regione": "Marche",
+"comune": "Cupramontana",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"frati-bianchi-sparapani"
+],
+"primario": "frati-bianchi-sparapani"
+},
+{
+"slug": "lanari",
+"nome": "Lanari",
+"regione": "Marche",
+"comune": "Ancona",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"lanari"
+],
+"primario": "lanari"
+},
+{
+"slug": "santi-giacomo-e-filippo",
+"nome": "Santi Giacomo e Filippo",
+"regione": "Marche",
+"comune": "Urbino",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"santi-giacomo-e-filippo"
+],
+"primario": "santi-giacomo-e-filippo"
+},
+{
+"slug": "rio-maggio",
+"nome": "Rio Maggio",
+"regione": "Marche",
+"comune": "Montegranaro",
+"tipi": {
+"fermo": [
+"Fermo e Colli Fermani"
+]
+},
+"membri": [
+"rio-maggio"
+],
+"primario": "rio-maggio"
+},
+{
+"slug": "bruscia",
+"nome": "Bruscia",
+"regione": "Marche",
+"comune": "San Costanzo",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"bruscia"
+],
+"primario": "bruscia"
+},
+{
+"slug": "accadia",
+"nome": "Accadia",
+"regione": "Marche",
+"comune": "Serra San Quirico",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"accadia"
+],
+"primario": "accadia"
+},
+{
+"slug": "tenute-san-sisto",
+"nome": "Tenute San Sisto",
+"regione": "Marche",
+"comune": "Castelplanio",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"tenute-san-sisto"
+],
+"primario": "tenute-san-sisto"
+},
+{
+"slug": "fattoria-lucesole",
+"nome": "Fattoria Lucesole",
+"regione": "Marche",
+"comune": "Ancona",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"fattoria-lucesole"
+],
+"primario": "fattoria-lucesole"
+},
+{
+"slug": "tenimenti-spinsanti",
+"nome": "Tenimenti Spinsanti",
+"regione": "Marche",
+"comune": "Camerano",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"tenimenti-spinsanti"
+],
+"primario": "tenimenti-spinsanti"
+},
+{
+"slug": "castrum-morisci",
+"nome": "Castrum Morisci",
+"regione": "Marche",
+"comune": "Moresco",
+"tipi": {
+"fermo": [
+"Fermo e Colli Fermani"
+]
+},
+"membri": [
+"castrum-morisci"
+],
+"primario": "castrum-morisci"
+},
+{
+"slug": "crespaia",
+"nome": "Crespaia",
+"regione": "Marche",
+"comune": "Fano",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"crespaia"
+],
+"primario": "crespaia"
+},
+{
+"slug": "podere-laila",
+"nome": "Podere Laila",
+"regione": "Marche",
+"comune": "Mondavio",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"podere-laila"
+],
+"primario": "podere-laila"
+},
+{
+"slug": "sabbionare",
+"nome": "Sabbionare",
+"regione": "Marche",
+"comune": "Montecarotto",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"sabbionare"
+],
+"primario": "sabbionare"
+},
+{
+"slug": "vini-venturi",
+"nome": "Vini Venturi",
+"regione": "Marche",
+"comune": "Castelleone di Suasa",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"vini-venturi"
+],
+"primario": "vini-venturi"
+},
+{
+"slug": "cavalieri",
+"nome": "Cavalieri",
+"regione": "Marche",
+"comune": "Matelica",
+"tipi": {
+"matelica": [
+"Matelica"
+]
+},
+"membri": [
+"cavalieri"
+],
+"primario": "cavalieri"
+},
+{
+"slug": "la-valle-del-sole",
+"nome": "La Valle del Sole",
+"regione": "Marche",
+"comune": "Offida",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"la-valle-del-sole"
+],
+"primario": "la-valle-del-sole"
+},
+{
+"slug": "cantine-capecci",
+"nome": "Cantine Capecci",
+"regione": "Marche",
+"comune": "Acquaviva Picena",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"cantine-capecci"
+],
+"primario": "cantine-capecci"
+},
+{
+"slug": "madonnabruna",
+"nome": "Madonnabruna",
+"regione": "Marche",
+"comune": "Fermo",
+"tipi": {
+"fermo": [
+"Fermo e Colli Fermani"
+]
+},
+"membri": [
+"madonnabruna"
+],
+"primario": "madonnabruna"
+},
+{
+"slug": "officina-del-sole",
+"nome": "Officina del Sole",
+"regione": "Marche",
+"comune": "Montegiorgio",
+"tipi": {
+"fermo": [
+"Fermo e Colli Fermani"
+]
+},
+"membri": [
+"officina-del-sole"
+],
+"primario": "officina-del-sole"
+},
+{
+"slug": "le-corti-dei-farfensi",
+"nome": "Le Corti dei Farfensi",
+"regione": "Marche",
+"comune": "Moresco",
+"tipi": {
+"fermo": [
+"Fermo e Colli Fermani"
+]
+},
+"membri": [
+"le-corti-dei-farfensi"
+],
+"primario": "le-corti-dei-farfensi"
+},
+{
+"slug": "angeli-di-varano",
+"nome": "Angeli di Varano",
+"regione": "Marche",
+"comune": "Camerano",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"angeli-di-varano"
+],
+"primario": "angeli-di-varano"
+},
+{
+"slug": "dianetti",
+"nome": "Dianetti",
+"regione": "Marche",
+"comune": "Carassai",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"dianetti"
+],
+"primario": "dianetti"
+},
+{
+"slug": "vigna-degli-estensi",
+"nome": "Vigna Degli Estensi",
+"regione": "Marche",
+"comune": "Senigallia",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"vigna-degli-estensi"
+],
+"primario": "vigna-degli-estensi"
+},
+{
+"slug": "vittorini",
+"nome": "Vittorini",
+"regione": "Marche",
+"comune": "Monsampietro Morico",
+"tipi": {
+"fermo": [
+"Fermo e Colli Fermani"
+]
+},
+"membri": [
+"vittorini"
+],
+"primario": "vittorini"
+},
+{
+"slug": "terre-de-conti",
+"nome": "Terre de Conti",
+"regione": "Marche",
+"comune": "Ostra",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"terre-de-conti"
+],
+"primario": "terre-de-conti"
+},
+{
+"slug": "cantina-bastianelli",
+"nome": "Cantina Bastianelli",
+"regione": "Marche",
+"comune": "Monte San Pietrangeli",
+"tipi": {
+"fermo": [
+"Fermo e Colli Fermani"
+]
+},
+"membri": [
+"cantina-bastianelli"
+],
+"primario": "cantina-bastianelli"
+},
+{
+"slug": "cameli-irene",
+"nome": "Cameli Irene",
+"regione": "Marche",
+"comune": "Castorano",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"cameli-irene"
+],
+"primario": "cameli-irene"
+},
+{
+"slug": "boccafosca",
+"nome": "Boccafosca",
+"regione": "Marche",
+"comune": "Ostra",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"boccafosca"
+],
+"primario": "boccafosca"
+},
+{
+"slug": "casale-vitali",
+"nome": "Casale Vitali",
+"regione": "Marche",
+"comune": "Montelparo",
+"tipi": {
+"fermo": [
+"Fermo e Colli Fermani"
+]
+},
+"membri": [
+"casale-vitali"
+],
+"primario": "casale-vitali"
+},
+{
+"slug": "san-michele-a-ripa",
+"nome": "San Michele a Ripa",
+"regione": "Marche",
+"comune": "Ripatransone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"san-michele-a-ripa"
+],
+"primario": "san-michele-a-ripa"
+},
+{
+"slug": "finocchi-viticoltori",
+"nome": "Finocchi Viticoltori",
+"regione": "Marche",
+"comune": "Staffolo",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"finocchi-viticoltori"
+],
+"primario": "finocchi-viticoltori"
+},
+{
+"slug": "cantina-numa",
+"nome": "Cantina Numa",
+"regione": "Marche",
+"comune": "Ripatransone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"cantina-numa"
+],
+"primario": "cantina-numa"
+},
+{
+"slug": "lamelia",
+"nome": "Lamelia",
+"regione": "Marche",
+"comune": "Matelica",
+"tipi": {
+"matelica": [
+"Matelica"
+]
+},
+"membri": [
+"lamelia"
+],
+"primario": "lamelia"
+},
+{
+"slug": "podere-sul-lago",
+"nome": "Podere Sul Lago",
+"regione": "Marche",
+"comune": "Serrapetrona",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"podere-sul-lago"
+],
+"primario": "podere-sul-lago"
+},
+{
+"slug": "villa-imperium",
+"nome": "Villa Imperium",
+"regione": "Marche",
+"comune": "Ripatransone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"villa-imperium"
+],
+"primario": "villa-imperium"
+},
+{
+"slug": "tenuta-piano-di-rustano",
+"nome": "Tenuta Piano di Rustano",
+"regione": "Marche",
+"comune": "Castelraimondo",
+"tipi": {
+"matelica": [
+"Matelica"
+]
+},
+"membri": [
+"tenuta-piano-di-rustano"
+],
+"primario": "tenuta-piano-di-rustano"
+},
+{
+"slug": "agricola-lanciani",
+"nome": "Agricola Lanciani",
+"regione": "Marche",
+"comune": "Montefiore dell'Aso",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"agricola-lanciani"
+],
+"primario": "agricola-lanciani"
+},
+{
+"slug": "capinera",
+"nome": "Capinera",
+"regione": "Marche",
+"comune": "Morrovalle",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"capinera"
+],
+"primario": "capinera"
+},
+{
+"slug": "colleluce",
+"nome": "Colleluce",
+"regione": "Marche",
+"comune": "Serrapetrona",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"colleluce"
+],
+"primario": "colleluce"
+},
+{
+"slug": "azienda-agricola-maraviglia",
+"nome": "Azienda Agricola Maraviglia",
+"regione": "Marche",
+"comune": "Matelica",
+"tipi": {
+"matelica": [
+"Matelica"
+]
+},
+"membri": [
+"azienda-agricola-maraviglia"
+],
+"primario": "azienda-agricola-maraviglia"
+},
+{
+"slug": "cesaroni",
+"nome": "Cesaroni",
+"regione": "Marche",
+"comune": "Poggio San Marcello",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"cesaroni"
+],
+"primario": "cesaroni"
+},
+{
+"slug": "mazzola",
+"nome": "Mazzola",
+"regione": "Marche",
+"comune": "Senigallia",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"mazzola"
+],
+"primario": "mazzola"
+},
+{
+"slug": "terre-di-san-ginesio",
+"nome": "Terre di San Ginesio",
+"regione": "Marche",
+"comune": "Ripe San Ginesio",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"terre-di-san-ginesio"
+],
+"primario": "terre-di-san-ginesio"
+},
+{
+"slug": "cantina-il-sapore-della-luna",
+"nome": "Cantina il Sapore Della Luna",
+"regione": "Marche",
+"comune": "Monteprandone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"cantina-il-sapore-della-luna"
+],
+"primario": "cantina-il-sapore-della-luna"
+},
+{
+"slug": "damiani",
+"nome": "Damiani",
+"regione": "Marche",
+"comune": "Ripatransone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"damiani"
+],
+"primario": "damiani"
+},
+{
+"slug": "azienda-agricola-edoardo-dottori",
+"nome": "Azienda Agricola Edoardo Dottori",
+"regione": "Marche",
+"comune": "Maiolati Spontini",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"azienda-agricola-edoardo-dottori"
+],
+"primario": "azienda-agricola-edoardo-dottori"
+},
+{
+"slug": "cignano",
+"nome": "Cignano",
+"regione": "Marche",
+"comune": "Fossombrone",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"cignano"
+],
+"primario": "cignano"
+},
+{
+"slug": "bolognini",
+"nome": "Bolognini",
+"regione": "Marche",
+"comune": "Morro d'Alba",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"bolognini"
+],
+"primario": "bolognini"
+},
+{
+"slug": "villa-pigna",
+"nome": "Villa Pigna",
+"regione": "Marche",
+"comune": "Offida",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"villa-pigna"
+],
+"primario": "villa-pigna"
+},
+{
+"slug": "polenta",
+"nome": "Polenta",
+"regione": "Marche",
+"comune": "Ancona",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"polenta"
+],
+"primario": "polenta"
+},
+{
+"slug": "santa-cassella",
+"nome": "Santa Cassella",
+"regione": "Marche",
+"comune": "Potenza Picena",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"santa-cassella"
+],
+"primario": "santa-cassella"
+},
+{
+"slug": "pisaurum",
+"nome": "Pisaurum",
+"regione": "Marche",
+"comune": "Vallefoglia",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"pisaurum"
+],
+"primario": "pisaurum"
+},
+{
+"slug": "tenute-del-borgo",
+"nome": "Tenute del Borgo",
+"regione": "Marche",
+"comune": "Cossignano",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"tenute-del-borgo"
+],
+"primario": "tenute-del-borgo"
+},
+{
+"slug": "villa-lazzarini",
+"nome": "Villa Lazzarini",
+"regione": "Marche",
+"comune": "Treia",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"villa-lazzarini"
+],
+"primario": "villa-lazzarini"
+},
+{
+"slug": "terra-argillosa",
+"nome": "Terra Argillosa",
+"regione": "Marche",
+"comune": "Offida",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"terra-argillosa"
+],
+"primario": "terra-argillosa"
+},
+{
+"slug": "orlando-olivetti",
+"nome": "Orlando Olivetti",
+"regione": "Marche",
+"comune": "Morro d'Alba",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"orlando-olivetti"
+],
+"primario": "orlando-olivetti"
+},
+{
+"slug": "rocca-di-castiglioni",
+"nome": "Rocca di Castiglioni",
+"regione": "Marche",
+"comune": "Castignano",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"rocca-di-castiglioni"
+],
+"primario": "rocca-di-castiglioni"
+},
+{
+"slug": "pagliari-gabriele",
+"nome": "Pagliari Gabriele",
+"regione": "Marche",
+"comune": "Montefelcino",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"pagliari-gabriele"
+],
+"primario": "pagliari-gabriele"
+},
+{
+"slug": "seghetti-panichi",
+"nome": "Seghetti Panichi",
+"regione": "Marche",
+"comune": "Castel di Lama",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"seghetti-panichi"
+],
+"primario": "seghetti-panichi"
+},
+{
+"slug": "quaresima",
+"nome": "Quaresima",
+"regione": "Marche",
+"comune": "Jesi",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"quaresima"
+],
+"primario": "quaresima"
+},
+{
+"slug": "cantina-santori",
+"nome": "Cantina Santori",
+"regione": "Marche",
+"comune": "Corridonia",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"cantina-santori"
+],
+"primario": "cantina-santori"
+},
+{
+"slug": "tenuta-colle-del-giglio",
+"nome": "Tenuta Colle del Giglio",
+"regione": "Marche",
+"comune": "Ripatransone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"tenuta-colle-del-giglio"
+],
+"primario": "tenuta-colle-del-giglio"
+},
+{
+"slug": "fattoria-gens-camuria",
+"nome": "Fattoria Gens Camuria",
+"regione": "Marche",
+"comune": "Camerano",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"fattoria-gens-camuria"
+],
+"primario": "fattoria-gens-camuria"
+},
+{
+"slug": "mochi",
+"nome": "Mochi",
+"regione": "Marche",
+"comune": "Corridonia",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"mochi"
+],
+"primario": "mochi"
+},
+{
+"slug": "cantina-valdaso",
+"nome": "Cantina Valdaso",
+"regione": "Marche",
+"comune": "Montalto delle Marche",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"cantina-valdaso"
+],
+"primario": "cantina-valdaso"
+},
+{
+"slug": "la-vite-maritata",
+"nome": "La Vite Maritata",
+"regione": "Marche",
+"comune": "Ripatransone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"la-vite-maritata"
+],
+"primario": "la-vite-maritata"
+},
+{
+"slug": "podere-l-infinito",
+"nome": "Podere L'Infinito",
+"regione": "Marche",
+"comune": "Staffolo",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"podere-l-infinito"
+],
+"primario": "podere-l-infinito"
+},
+{
+"slug": "i-tre-filari",
+"nome": "I Tre Filari",
+"regione": "Marche",
+"comune": "Recanati",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"i-tre-filari"
+],
+"primario": "i-tre-filari"
+},
+{
+"slug": "collemara",
+"nome": "Collemara",
+"regione": "Marche",
+"comune": "Monte San Giusto",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"collemara"
+],
+"primario": "collemara"
+},
+{
+"slug": "le-cantine-di-figaro",
+"nome": "Le Cantine di Figaro",
+"regione": "Marche",
+"comune": "Ripatransone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"le-cantine-di-figaro"
+],
+"primario": "le-cantine-di-figaro"
+},
+{
+"slug": "ceci-enrico",
+"nome": "Ceci Enrico",
+"regione": "Marche",
+"comune": "San Paolo di Jesi",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"ceci-enrico"
+],
+"primario": "ceci-enrico"
+},
+{
+"slug": "priori-galdelli",
+"nome": "Priori & Galdelli",
+"regione": "Marche",
+"comune": "Rosora",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"priori-galdelli"
+],
+"primario": "priori-galdelli"
+},
+{
+"slug": "bucchini",
+"nome": "Bucchini",
+"regione": "Marche",
+"comune": "Fossombrone",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"bucchini"
+],
+"primario": "bucchini"
+},
+{
+"slug": "fabrizi-family",
+"nome": "Fabrizi Family",
+"regione": "Marche",
+"comune": "Jesi",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"fabrizi-family"
+],
+"primario": "fabrizi-family"
+},
+{
+"slug": "la-quercia-scarlatta",
+"nome": "La Quercia Scarlatta",
+"regione": "Marche",
+"comune": "Monte San Giusto",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"la-quercia-scarlatta"
+],
+"primario": "la-quercia-scarlatta"
+},
+{
+"slug": "conti-leopardi-di-san-leopardo",
+"nome": "Conti Leopardi di San Leopardo",
+"regione": "Marche",
+"comune": "Recanati",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"conti-leopardi-di-san-leopardo"
+],
+"primario": "conti-leopardi-di-san-leopardo"
+},
+{
+"slug": "zannotti",
+"nome": "Zannotti",
+"regione": "Marche",
+"comune": "San Paolo di Jesi",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"zannotti"
+],
+"primario": "zannotti"
+},
+{
+"slug": "terre-d-arengo",
+"nome": "Terre d'Arengo",
+"regione": "Marche",
+"comune": "Appignano del Tronto",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"terre-d-arengo"
+],
+"primario": "terre-d-arengo"
+},
+{
+"slug": "lucio-pompili",
+"nome": "Lucio Pompili",
+"regione": "Marche",
+"comune": "Pesaro",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"lucio-pompili"
+],
+"primario": "lucio-pompili"
+},
+{
+"slug": "la-torre-del-nano",
+"nome": "La Torre del Nano",
+"regione": "Marche",
+"comune": "Offida",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"la-torre-del-nano"
+],
+"primario": "la-torre-del-nano"
+},
+{
+"slug": "cantina-d-angelo",
+"nome": "Cantina d'Angelo",
+"regione": "Marche",
+"comune": "Offida",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"cantina-d-angelo"
+],
+"primario": "cantina-d-angelo"
+},
+{
+"slug": "cantina-fattoria-duri",
+"nome": "Cantina Fattoria Duri",
+"regione": "Marche",
+"comune": "San Severino Marche",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"cantina-fattoria-duri"
+],
+"primario": "cantina-fattoria-duri"
+},
+{
+"slug": "cantina-valdimiro",
+"nome": "Cantina Valdimiro",
+"regione": "Marche",
+"comune": "Fabriano",
+"tipi": {
+"matelica": [
+"Matelica"
+]
+},
+"membri": [
+"cantina-valdimiro"
+],
+"primario": "cantina-valdimiro"
+},
+{
+"slug": "brocani",
+"nome": "Brocani",
+"regione": "Marche",
+"comune": "Staffolo",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"brocani"
+],
+"primario": "brocani"
+},
+{
+"slug": "ripawine",
+"nome": "RipaWine",
+"regione": "Marche",
+"comune": "Ripatransone",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"ripawine"
+],
+"primario": "ripawine"
+},
+{
+"slug": "perseveranza",
+"nome": "Perseveranza",
+"regione": "Marche",
+"comune": "Petritoli",
+"tipi": {
+"fermo": [
+"Fermo e Colli Fermani"
+]
+},
+"membri": [
+"perseveranza"
+],
+"primario": "perseveranza"
+},
+{
+"slug": "goroni",
+"nome": "Goroni",
+"regione": "Marche",
+"comune": "Poggio San Marcello",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"goroni"
+],
+"primario": "goroni"
+},
+{
+"slug": "cantina-sor-rico",
+"nome": "Cantina Sor Rico",
+"regione": "Marche",
+"comune": "San Costanzo",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"cantina-sor-rico"
+],
+"primario": "cantina-sor-rico"
+},
+{
+"slug": "azienda-agricola-sbaffi",
+"nome": "Azienda Agricola Sbaffi",
+"regione": "Marche",
+"comune": "Fabriano",
+"tipi": {
+"matelica": [
+"Matelica"
+]
+},
+"membri": [
+"azienda-agricola-sbaffi"
+],
+"primario": "azienda-agricola-sbaffi"
+},
+{
+"slug": "tenute-polini",
+"nome": "Tenute Polini",
+"regione": "Marche",
+"comune": "Carassai",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"tenute-polini"
+],
+"primario": "tenute-polini"
+},
+{
+"slug": "le-casette",
+"nome": "Le Casette",
+"regione": "Marche",
+"comune": "Rotella",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"le-casette"
+],
+"primario": "le-casette"
+},
+{
+"slug": "verser",
+"nome": "VerSer",
+"regione": "Marche",
+"comune": "Serrapetrona",
+"tipi": {
+"macerata": [
+"Macerata, Serrapetrona e Colli Maceratesi"
+]
+},
+"membri": [
+"verser"
+],
+"primario": "verser"
+},
+{
+"slug": "terre-di-giove",
+"nome": "Terre di Giove",
+"regione": "Marche",
+"comune": "Fano",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"terre-di-giove"
+],
+"primario": "terre-di-giove"
+},
+{
+"slug": "spallacci",
+"nome": "Spallacci",
+"regione": "Marche",
+"comune": "Corinaldo",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"spallacci"
+],
+"primario": "spallacci"
+},
+{
+"slug": "cantina-collemino",
+"nome": "Cantina Colleminò",
+"regione": "Marche",
+"comune": "Jesi",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"cantina-collemino"
+],
+"primario": "cantina-collemino"
+},
+{
+"slug": "ballarini",
+"nome": "Ballarini",
+"regione": "Marche",
+"comune": "Ancona",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"ballarini"
+],
+"primario": "ballarini"
+},
+{
+"slug": "tenuta-barbarossa",
+"nome": "Tenuta Barbarossa",
+"regione": "Marche",
+"comune": "Pesaro",
+"tipi": {
+"pesaro": [
+"Pesaro, Urbino e Colli Pesaresi"
+]
+},
+"membri": [
+"tenuta-barbarossa"
+],
+"primario": "tenuta-barbarossa"
+},
+{
+"slug": "arco-dei-angeli",
+"nome": "Arco dei Angeli",
+"regione": "Marche",
+"comune": "Ancona",
+"tipi": {
+"conero": [
+"Conero e Ancona"
+]
+},
+"membri": [
+"arco-dei-angeli"
+],
+"primario": "arco-dei-angeli"
+},
+{
+"slug": "colle-indaco",
+"nome": "Colle Indaco",
+"regione": "Marche",
+"comune": "Ortezzano",
+"tipi": {
+"fermo": [
+"Fermo e Colli Fermani"
+]
+},
+"membri": [
+"colle-indaco"
+],
+"primario": "colle-indaco"
+},
+{
+"slug": "la-mattera",
+"nome": "La Mattera",
+"regione": "Marche",
+"comune": "Fermo",
+"tipi": {
+"fermo": [
+"Fermo e Colli Fermani"
+]
+},
+"membri": [
+"la-mattera"
+],
+"primario": "la-mattera"
+},
+{
+"slug": "cantina-corrado",
+"nome": "Cantina Corrado",
+"regione": "Marche",
+"comune": "Acquaviva Picena",
+"tipi": {
+"piceno": [
+"Ascoli, Offida e Rosso Piceno"
+]
+},
+"membri": [
+"cantina-corrado"
+],
+"primario": "cantina-corrado"
+},
+{
+"slug": "baldarelli",
+"nome": "Baldarelli",
+"regione": "Marche",
+"comune": "Corinaldo",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"baldarelli"
+],
+"primario": "baldarelli"
+},
+{
+"slug": "vini-valmusone",
+"nome": "Vini Valmusone",
+"regione": "Marche",
+"comune": "Santa Maria Nuova",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"vini-valmusone"
+],
+"primario": "vini-valmusone"
+},
+{
+"slug": "cantine-del-porticello",
+"nome": "Cantine del Porticello",
+"regione": "Marche",
+"comune": "Jesi",
+"tipi": {
+"jesi": [
+"Jesi, Senigallia e Verdicchio dei Castelli di Jesi"
+]
+},
+"membri": [
+"cantine-del-porticello"
+],
+"primario": "cantine-del-porticello"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",

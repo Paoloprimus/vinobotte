@@ -308,3 +308,12 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 137 — Umbria chiusa
 - Registro `umbria-chiusura.md`; `stato-consorzi.csv` righe 13, 18, 41, 56, 83. Umbria 159; guida 6.620. File wip aggiornato (549 righe nuove, 91 tolte).
+
+## 138 — Marche: consorzi
+- IMT: il PDF dei soci (480 ragioni sociali) non ha indirizzi né nomi commerciali: nessuna scheda. Altri consorzi marchigiani senza elenco online.
+
+## 139 — Marche: Vivino
+- Scaricato Vivino (773); 350 candidate; sito per 229; +181 schede. Sette pagine nuove.
+
+## 140 — Marche chiusa
+- Registro `marche-chiusura.md`; `stato-consorzi.csv` riga 63. Marche 181; guida 6.801. File wip aggiornato (543 righe nuove).
