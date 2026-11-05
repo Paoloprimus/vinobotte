@@ -1,0 +1,32 @@
+{
+ "nome": "Poggio Le Volpi",
+ "slug": "poggio-le-volpi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Colle Pisano 27, 00078 Monte Porzio Catone (RM) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.poggiolevolpi.com/it/|poggiolevolpi.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Roma DOC [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Roma DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorzioromadoc.it/cantine-associate/",
+   "etichetta": "consorzioromadoc.it"
+  }
+ ]
+}

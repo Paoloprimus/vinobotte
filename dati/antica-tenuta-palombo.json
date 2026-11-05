@@ -1,0 +1,46 @@
+{
+ "nome": "Antica Tenuta Palombo",
+ "slug": "antica-tenuta-palombo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02778180600 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "03042 Atina (FR) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@anticatenutapalombo.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.anticatenutapalombo.it/it|anticatenutapalombo.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela Atina DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.anticatenutapalombo.it/it",
+   "etichetta": "anticatenutapalombo.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di tutela Atina DOC, consultato il 2 novembre 2026.",
+   "url": "https://www.atinadoc.it/",
+   "etichetta": "atinadoc.it"
+  }
+ ]
+}

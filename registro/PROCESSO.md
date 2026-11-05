@@ -290,3 +290,12 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 131 — Calabria chiusa
 - Registro `calabria-chiusura.md`; `stato-consorzi.csv` righe 19, 93, 116, 119, 137. Calabria 65; guida 6.359.
+
+## 132 — Lazio: consorzi
+- Roma DOC (13 soci, 5 nuovi) e Atina DOC (7 nuovi): 12 schede. Frascati, Cesanese del Piglio, Cori, Olevano: nessun sito di consorzio.
+
+## 133 — Lazio: Vivino
+- Scaricato Vivino (724); 291 candidate dopo i consorzi; sito per 160; +93 schede. Sei pagine nuove; tre schede già in guida spostate nelle pagine di zona.
+
+## 134 — Lazio chiusa
+- Registro `lazio-chiusura.md`; `stato-consorzi.csv` righe 65, 74, 110, 114, 122, 138. Lazio 115; guida 6.464. File wip aggiornato (569 righe nuove).

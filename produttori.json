@@ -67734,6 +67734,1401 @@
 "primario": "maddalona-del-casato"
 },
 {
+"slug": "l-olivella",
+"nome": "l'Olivella",
+"regione": "Lazio",
+"comune": "Frascati",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"l-olivella"
+],
+"primario": "l-olivella"
+},
+{
+"slug": "cincinnato",
+"nome": "Cincinnato",
+"regione": "Lazio",
+"comune": "Cori",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"cincinnato"
+],
+"primario": "cincinnato"
+},
+{
+"slug": "cantine-silvestri",
+"nome": "Cantine Silvestri",
+"regione": "Lazio",
+"comune": "Lanuvio",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"cantine-silvestri"
+],
+"primario": "cantine-silvestri"
+},
+{
+"slug": "ducato-grazioli",
+"nome": "Ducato Grazioli",
+"regione": "Lazio",
+"comune": "Roma",
+"tipi": {
+"roma": [
+"Roma"
+]
+},
+"membri": [
+"ducato-grazioli"
+],
+"primario": "ducato-grazioli"
+},
+{
+"slug": "viticoltori-dei-colli-cimini",
+"nome": "Viticoltori dei Colli Cimini",
+"regione": "Lazio",
+"comune": "Vignanello",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"viticoltori-dei-colli-cimini"
+],
+"primario": "viticoltori-dei-colli-cimini"
+},
+{
+"slug": "la-mugilla",
+"nome": "La Mugilla",
+"regione": "Lazio",
+"comune": "Roma",
+"tipi": {
+"roma": [
+"Roma"
+]
+},
+"membri": [
+"la-mugilla"
+],
+"primario": "la-mugilla"
+},
+{
+"slug": "casale-del-giglio",
+"nome": "Casale del Giglio",
+"regione": "Lazio",
+"comune": "Latina",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"casale-del-giglio"
+],
+"primario": "casale-del-giglio"
+},
+{
+"slug": "fontana-candida",
+"nome": "Fontana Candida",
+"regione": "Lazio",
+"comune": "Monte Porzio Catone",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"fontana-candida"
+],
+"primario": "fontana-candida"
+},
+{
+"slug": "marco-carpineti",
+"nome": "Marco Carpineti",
+"regione": "Lazio",
+"comune": "Cori",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"marco-carpineti"
+],
+"primario": "marco-carpineti"
+},
+{
+"slug": "principe-pallavicini",
+"nome": "Principe Pallavicini",
+"regione": "Lazio",
+"comune": "Colonna",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"principe-pallavicini"
+],
+"primario": "principe-pallavicini"
+},
+{
+"slug": "poggio-vecchio",
+"nome": "Poggio Vecchio",
+"regione": "Lazio",
+"comune": "Alvito",
+"tipi": {
+"atina": [
+"Atina"
+]
+},
+"membri": [
+"poggio-vecchio"
+],
+"primario": "poggio-vecchio"
+},
+{
+"slug": "san-giovenale",
+"nome": "San Giovenale",
+"regione": "Lazio",
+"comune": "Blera",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"san-giovenale"
+],
+"primario": "san-giovenale"
+},
+{
+"slug": "cantina-villa-gianna",
+"nome": "Cantina Villa Gianna",
+"regione": "Lazio",
+"comune": "Latina",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"cantina-villa-gianna"
+],
+"primario": "cantina-villa-gianna"
+},
+{
+"slug": "donato-giangirolami",
+"nome": "Donato Giangirolami",
+"regione": "Lazio",
+"comune": "Latina",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"donato-giangirolami"
+],
+"primario": "donato-giangirolami"
+},
+{
+"slug": "castello-di-torre-in-pietra",
+"nome": "Castello di Torre In Pietra",
+"regione": "Lazio",
+"comune": "Fiumicino",
+"tipi": {
+"roma": [
+"Roma"
+]
+},
+"membri": [
+"castello-di-torre-in-pietra"
+],
+"primario": "castello-di-torre-in-pietra"
+},
+{
+"slug": "antica-cantina-leonardi",
+"nome": "Antica Cantina Leonardi",
+"regione": "Lazio",
+"comune": "Montefiascone",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"antica-cantina-leonardi"
+],
+"primario": "antica-cantina-leonardi"
+},
+{
+"slug": "pileum",
+"nome": "Pileum",
+"regione": "Lazio",
+"comune": "Piglio",
+"tipi": {
+"cesanese": [
+"Cesanese: Piglio, Olevano, Affile e Ciociaria"
+]
+},
+"membri": [
+"pileum"
+],
+"primario": "pileum"
+},
+{
+"slug": "cantina-di-montefiascone",
+"nome": "Cantina di Montefiascone",
+"regione": "Lazio",
+"comune": "Montefiascone",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"cantina-di-montefiascone"
+],
+"primario": "cantina-di-montefiascone"
+},
+{
+"slug": "villa-simone",
+"nome": "Villa Simone",
+"regione": "Lazio",
+"comune": "Monte Porzio Catone",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"villa-simone"
+],
+"primario": "villa-simone"
+},
+{
+"slug": "castel-de-paolis",
+"nome": "Castel de Paolis",
+"regione": "Lazio",
+"comune": "Grottaferrata",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"castel-de-paolis"
+],
+"primario": "castel-de-paolis"
+},
+{
+"slug": "pietra-pinta",
+"nome": "Pietra Pinta",
+"regione": "Lazio",
+"comune": "Cori",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"pietra-pinta"
+],
+"primario": "pietra-pinta"
+},
+{
+"slug": "la-tognazza",
+"nome": "La Tognazza",
+"regione": "Lazio",
+"comune": "Velletri",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"la-tognazza"
+],
+"primario": "la-tognazza"
+},
+{
+"slug": "cantina-villafranca",
+"nome": "Cantina Villafranca",
+"regione": "Lazio",
+"comune": "Albano Laziale",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"cantina-villafranca"
+],
+"primario": "cantina-villafranca"
+},
+{
+"slug": "alberto-giacobbe",
+"nome": "Alberto Giacobbe",
+"regione": "Lazio",
+"comune": "Paliano",
+"tipi": {
+"cesanese": [
+"Cesanese: Piglio, Olevano, Affile e Ciociaria"
+]
+},
+"membri": [
+"alberto-giacobbe"
+],
+"primario": "alberto-giacobbe"
+},
+{
+"slug": "cantina-le-macchie",
+"nome": "Cantina le Macchie",
+"regione": "Lazio",
+"comune": "Rieti",
+"tipi": {
+"rieti": [
+"Rieti e Sabina"
+]
+},
+"membri": [
+"cantina-le-macchie"
+],
+"primario": "cantina-le-macchie"
+},
+{
+"slug": "petrucca-e-vela",
+"nome": "Petrucca e Vela",
+"regione": "Lazio",
+"comune": "Piglio",
+"tipi": {
+"cesanese": [
+"Cesanese: Piglio, Olevano, Affile e Ciociaria"
+]
+},
+"membri": [
+"petrucca-e-vela"
+],
+"primario": "petrucca-e-vela"
+},
+{
+"slug": "tenimenti-leone",
+"nome": "Tenimenti Leone",
+"regione": "Lazio",
+"comune": "Lanuvio",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"tenimenti-leone"
+],
+"primario": "tenimenti-leone"
+},
+{
+"slug": "palazzo-tronconi",
+"nome": "Palazzo Tronconi",
+"regione": "Lazio",
+"comune": "Arce",
+"tipi": {
+"atina": [
+"Atina"
+]
+},
+"membri": [
+"palazzo-tronconi"
+],
+"primario": "palazzo-tronconi"
+},
+{
+"slug": "pietra-porzia",
+"nome": "Pietra Porzia",
+"regione": "Lazio",
+"comune": "Frascati",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"pietra-porzia"
+],
+"primario": "pietra-porzia"
+},
+{
+"slug": "piero-riccardi-lorella-reale",
+"nome": "Piero Riccardi Lorella Reale",
+"regione": "Lazio",
+"comune": "Bellegra",
+"tipi": {
+"cesanese": [
+"Cesanese: Piglio, Olevano, Affile e Ciociaria"
+]
+},
+"membri": [
+"piero-riccardi-lorella-reale"
+],
+"primario": "piero-riccardi-lorella-reale"
+},
+{
+"slug": "luna-del-casale",
+"nome": "Luna del Casale",
+"regione": "Lazio",
+"comune": "Lanuvio",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"luna-del-casale"
+],
+"primario": "luna-del-casale"
+},
+{
+"slug": "stefanoni",
+"nome": "Stefanoni",
+"regione": "Lazio",
+"comune": "Montefiascone",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"stefanoni"
+],
+"primario": "stefanoni"
+},
+{
+"slug": "villa-caviciana",
+"nome": "Villa Caviciana",
+"regione": "Lazio",
+"comune": "Gradoli",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"villa-caviciana"
+],
+"primario": "villa-caviciana"
+},
+{
+"slug": "ronci-di-nepi",
+"nome": "Ronci di Nepi",
+"regione": "Lazio",
+"comune": "Nepi",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"ronci-di-nepi"
+],
+"primario": "ronci-di-nepi"
+},
+{
+"slug": "merumalia",
+"nome": "Merumalia",
+"regione": "Lazio",
+"comune": "Frascati",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"merumalia"
+],
+"primario": "merumalia"
+},
+{
+"slug": "sant-isidoro",
+"nome": "Sant'Isidoro",
+"regione": "Lazio",
+"comune": "Tarquinia",
+"tipi": {
+"cerveteri": [
+"Cerveteri, Tarquinia e Tuscania"
+]
+},
+"membri": [
+"sant-isidoro"
+],
+"primario": "sant-isidoro"
+},
+{
+"slug": "l-avventura",
+"nome": "L'Avventura",
+"regione": "Lazio",
+"comune": "Piglio",
+"tipi": {
+"cesanese": [
+"Cesanese: Piglio, Olevano, Affile e Ciociaria"
+]
+},
+"membri": [
+"l-avventura"
+],
+"primario": "l-avventura"
+},
+{
+"slug": "cantine-fabi",
+"nome": "Cantine Fabi",
+"regione": "Lazio",
+"comune": "Marino",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"cantine-fabi"
+],
+"primario": "cantine-fabi"
+},
+{
+"slug": "martino-v",
+"nome": "Martino V",
+"regione": "Lazio",
+"comune": "Genazzano",
+"tipi": {
+"cesanese": [
+"Cesanese: Piglio, Olevano, Affile e Ciociaria"
+]
+},
+"membri": [
+"martino-v"
+],
+"primario": "martino-v"
+},
+{
+"slug": "colleformica",
+"nome": "Colleformica",
+"regione": "Lazio",
+"comune": "Velletri",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"colleformica"
+],
+"primario": "colleformica"
+},
+{
+"slug": "cantina-bacco",
+"nome": "Cantina Bacco",
+"regione": "Lazio",
+"comune": "Nettuno",
+"tipi": {
+"roma": [
+"Roma"
+]
+},
+"membri": [
+"cantina-bacco"
+],
+"primario": "cantina-bacco"
+},
+{
+"slug": "carlo-noro",
+"nome": "Carlo Noro",
+"regione": "Lazio",
+"comune": "Labico",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"carlo-noro"
+],
+"primario": "carlo-noro"
+},
+{
+"slug": "tufaio",
+"nome": "Tufaio",
+"regione": "Lazio",
+"comune": "Zagarolo",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"tufaio"
+],
+"primario": "tufaio"
+},
+{
+"slug": "cantina-formiconi",
+"nome": "Cantina Formiconi",
+"regione": "Lazio",
+"comune": "Affile",
+"tipi": {
+"cesanese": [
+"Cesanese: Piglio, Olevano, Affile e Ciociaria"
+]
+},
+"membri": [
+"cantina-formiconi"
+],
+"primario": "cantina-formiconi"
+},
+{
+"slug": "podere-orto",
+"nome": "Podere Orto",
+"regione": "Lazio",
+"comune": "Acquapendente",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"podere-orto"
+],
+"primario": "podere-orto"
+},
+{
+"slug": "marcella-giuliani",
+"nome": "Marcella Giuliani",
+"regione": "Lazio",
+"comune": "Anagni",
+"tipi": {
+"cesanese": [
+"Cesanese: Piglio, Olevano, Affile e Ciociaria"
+]
+},
+"membri": [
+"marcella-giuliani"
+],
+"primario": "marcella-giuliani"
+},
+{
+"slug": "maria-ernesta-berucci",
+"nome": "Maria Ernesta Berucci",
+"regione": "Lazio",
+"comune": "Piglio",
+"tipi": {
+"cesanese": [
+"Cesanese: Piglio, Olevano, Affile e Ciociaria"
+]
+},
+"membri": [
+"maria-ernesta-berucci"
+],
+"primario": "maria-ernesta-berucci"
+},
+{
+"slug": "casale-mattia",
+"nome": "Casale Mattia",
+"regione": "Lazio",
+"comune": "Frascati",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"casale-mattia"
+],
+"primario": "casale-mattia"
+},
+{
+"slug": "podere-sassi",
+"nome": "Podere Sassi",
+"regione": "Lazio",
+"comune": "Tarano",
+"tipi": {
+"rieti": [
+"Rieti e Sabina"
+]
+},
+"membri": [
+"podere-sassi"
+],
+"primario": "podere-sassi"
+},
+{
+"slug": "vigne-del-patrimonio",
+"nome": "Vigne del Patrimonio",
+"regione": "Lazio",
+"comune": "Farnese",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"vigne-del-patrimonio"
+],
+"primario": "vigne-del-patrimonio"
+},
+{
+"slug": "amor-vitae",
+"nome": "Amor Vitae",
+"regione": "Lazio",
+"comune": "Aprilia",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"amor-vitae"
+],
+"primario": "amor-vitae"
+},
+{
+"slug": "tenuta-casciani",
+"nome": "Tenuta Casciani",
+"regione": "Lazio",
+"comune": "Civitella d'Agliano",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"tenuta-casciani"
+],
+"primario": "tenuta-casciani"
+},
+{
+"slug": "villa-puri",
+"nome": "Villa Puri",
+"regione": "Lazio",
+"comune": "Bolsena",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"villa-puri"
+],
+"primario": "villa-puri"
+},
+{
+"slug": "cantine-capitani",
+"nome": "Cantine Capitani",
+"regione": "Lazio",
+"comune": "Trevignano Romano",
+"tipi": {
+"roma": [
+"Roma"
+]
+},
+"membri": [
+"cantine-capitani"
+],
+"primario": "cantine-capitani"
+},
+{
+"slug": "schiavella",
+"nome": "Schiavella",
+"regione": "Lazio",
+"comune": "Genazzano",
+"tipi": {
+"cesanese": [
+"Cesanese: Piglio, Olevano, Affile e Ciociaria"
+]
+},
+"membri": [
+"schiavella"
+],
+"primario": "schiavella"
+},
+{
+"slug": "eredi-dei-papi",
+"nome": "Eredi dei Papi",
+"regione": "Lazio",
+"comune": "Monte Compatri",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"eredi-dei-papi"
+],
+"primario": "eredi-dei-papi"
+},
+{
+"slug": "i-lori",
+"nome": "I Lori",
+"regione": "Lazio",
+"comune": "Cori",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"i-lori"
+],
+"primario": "i-lori"
+},
+{
+"slug": "podere-grecchi",
+"nome": "Podere Grecchi",
+"regione": "Lazio",
+"comune": "Viterbo",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"podere-grecchi"
+],
+"primario": "podere-grecchi"
+},
+{
+"slug": "la-petricia",
+"nome": "La Petricia",
+"regione": "Lazio",
+"comune": "Latina",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"la-petricia"
+],
+"primario": "la-petricia"
+},
+{
+"slug": "f-lli-lolli",
+"nome": "F.lli Lolli",
+"regione": "Lazio",
+"comune": "Piglio",
+"tipi": {
+"cesanese": [
+"Cesanese: Piglio, Olevano, Affile e Ciociaria"
+]
+},
+"membri": [
+"f-lli-lolli"
+],
+"primario": "f-lli-lolli"
+},
+{
+"slug": "cantinamena",
+"nome": "Cantinamena",
+"regione": "Lazio",
+"comune": "Lanuvio",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"cantinamena"
+],
+"primario": "cantinamena"
+},
+{
+"slug": "terre-di-marfisa",
+"nome": "Terre di Marfisa",
+"regione": "Lazio",
+"comune": "Farnese",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"terre-di-marfisa"
+],
+"primario": "terre-di-marfisa"
+},
+{
+"slug": "tomei",
+"nome": "Tomei",
+"regione": "Lazio",
+"comune": "Sezze",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"tomei"
+],
+"primario": "tomei"
+},
+{
+"slug": "emilio-marconi",
+"nome": "Emilio Marconi",
+"regione": "Lazio",
+"comune": "Ariccia",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"emilio-marconi"
+],
+"primario": "emilio-marconi"
+},
+{
+"slug": "poggio-bbaranello",
+"nome": "Poggio Bbaranèllo",
+"regione": "Lazio",
+"comune": "Montefiascone",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"poggio-bbaranello"
+],
+"primario": "poggio-bbaranello"
+},
+{
+"slug": "maliar",
+"nome": "Maliar",
+"regione": "Lazio",
+"comune": "Albano Laziale",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"maliar"
+],
+"primario": "maliar"
+},
+{
+"slug": "i-pampini",
+"nome": "I Pàmpini",
+"regione": "Lazio",
+"comune": "Latina",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"i-pampini"
+],
+"primario": "i-pampini"
+},
+{
+"slug": "cristina-menicocci",
+"nome": "Cristina Menicocci",
+"regione": "Lazio",
+"comune": "Fabrica di Roma",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"cristina-menicocci"
+],
+"primario": "cristina-menicocci"
+},
+{
+"slug": "cantina-raparelli",
+"nome": "Cantina Raparelli",
+"regione": "Lazio",
+"comune": "Marino",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"cantina-raparelli"
+],
+"primario": "cantina-raparelli"
+},
+{
+"slug": "mentiroso",
+"nome": "Mentiroso",
+"regione": "Lazio",
+"comune": "Marino",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"mentiroso"
+],
+"primario": "mentiroso"
+},
+{
+"slug": "azienda-agricola-debora-castelli",
+"nome": "Azienda Agricola Debora Castelli",
+"regione": "Lazio",
+"comune": "Marta",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"azienda-agricola-debora-castelli"
+],
+"primario": "azienda-agricola-debora-castelli"
+},
+{
+"slug": "le-coste-di-gradoli",
+"nome": "Le Coste di Gradoli",
+"regione": "Lazio",
+"comune": "Gradoli",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"le-coste-di-gradoli"
+],
+"primario": "le-coste-di-gradoli"
+},
+{
+"slug": "vini-sordi",
+"nome": "Vini Sordi",
+"regione": "Lazio",
+"comune": "Gallicano nel Lazio",
+"tipi": {
+"roma": [
+"Roma"
+]
+},
+"membri": [
+"vini-sordi"
+],
+"primario": "vini-sordi"
+},
+{
+"slug": "terre-d-aquesia",
+"nome": "Terre d'Aquesia",
+"regione": "Lazio",
+"comune": "Acquapendente",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"terre-d-aquesia"
+],
+"primario": "terre-d-aquesia"
+},
+{
+"slug": "agricola-d-ausilio",
+"nome": "Agricola d'Ausilio",
+"regione": "Lazio",
+"comune": "Fondi",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"agricola-d-ausilio"
+],
+"primario": "agricola-d-ausilio"
+},
+{
+"slug": "il-marrugio",
+"nome": "Il Marrugio",
+"regione": "Lazio",
+"comune": "Viterbo",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"il-marrugio"
+],
+"primario": "il-marrugio"
+},
+{
+"slug": "valle-del-canneto",
+"nome": "Valle del Canneto",
+"regione": "Lazio",
+"comune": "Cerveteri",
+"tipi": {
+"cerveteri": [
+"Cerveteri, Tarquinia e Tuscania"
+]
+},
+"membri": [
+"valle-del-canneto"
+],
+"primario": "valle-del-canneto"
+},
+{
+"slug": "solis-terrae",
+"nome": "Solis Terrae",
+"regione": "Lazio",
+"comune": "Fiumicino",
+"tipi": {
+"roma": [
+"Roma"
+]
+},
+"membri": [
+"solis-terrae"
+],
+"primario": "solis-terrae"
+},
+{
+"slug": "terra-delle-ginestre",
+"nome": "Terra delle Ginestre",
+"regione": "Lazio",
+"comune": "Spigno Saturnia",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"terra-delle-ginestre"
+],
+"primario": "terra-delle-ginestre"
+},
+{
+"slug": "onorati",
+"nome": "Onorati",
+"regione": "Lazio",
+"comune": "Cerveteri",
+"tipi": {
+"cerveteri": [
+"Cerveteri, Tarquinia e Tuscania"
+]
+},
+"membri": [
+"onorati"
+],
+"primario": "onorati"
+},
+{
+"slug": "carpe-vinem",
+"nome": "Carpe Vinem",
+"regione": "Lazio",
+"comune": "Cori",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"carpe-vinem"
+],
+"primario": "carpe-vinem"
+},
+{
+"slug": "selva-di-paliano",
+"nome": "Selva di Paliano",
+"regione": "Lazio",
+"comune": "Paliano",
+"tipi": {
+"cesanese": [
+"Cesanese: Piglio, Olevano, Affile e Ciociaria"
+]
+},
+"membri": [
+"selva-di-paliano"
+],
+"primario": "selva-di-paliano"
+},
+{
+"slug": "vigneti-iucci",
+"nome": "Vigneti Iucci",
+"regione": "Lazio",
+"comune": "Sant'Elia Fiumerapido",
+"tipi": {
+"atina": [
+"Atina"
+]
+},
+"membri": [
+"vigneti-iucci"
+],
+"primario": "vigneti-iucci"
+},
+{
+"slug": "tenuta-lungarella",
+"nome": "Tenuta Lungarella",
+"regione": "Lazio",
+"comune": "Poli",
+"tipi": {
+"cesanese": [
+"Cesanese: Piglio, Olevano, Affile e Ciociaria"
+]
+},
+"membri": [
+"tenuta-lungarella"
+],
+"primario": "tenuta-lungarella"
+},
+{
+"slug": "dino-limiti",
+"nome": "Dino Limiti",
+"regione": "Lazio",
+"comune": "Marino",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"dino-limiti"
+],
+"primario": "dino-limiti"
+},
+{
+"slug": "cantine-lulli",
+"nome": "Cantine Lulli",
+"regione": "Lazio",
+"comune": "Cori",
+"tipi": {
+"latina": [
+"Latina, Cori e Aprilia"
+]
+},
+"membri": [
+"cantine-lulli"
+],
+"primario": "cantine-lulli"
+},
+{
+"slug": "cantina-belardi",
+"nome": "Cantina Belardi",
+"regione": "Lazio",
+"comune": "Cerveteri",
+"tipi": {
+"cerveteri": [
+"Cerveteri, Tarquinia e Tuscania"
+]
+},
+"membri": [
+"cantina-belardi"
+],
+"primario": "cantina-belardi"
+},
+{
+"slug": "nina-trinca",
+"nome": "Nina Trinca",
+"regione": "Lazio",
+"comune": "Zagarolo",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"nina-trinca"
+],
+"primario": "nina-trinca"
+},
+{
+"slug": "poggio-nebbia",
+"nome": "Poggio Nebbia",
+"regione": "Lazio",
+"comune": "Tarquinia",
+"tipi": {
+"cerveteri": [
+"Cerveteri, Tarquinia e Tuscania"
+]
+},
+"membri": [
+"poggio-nebbia"
+],
+"primario": "poggio-nebbia"
+},
+{
+"slug": "maurizio-rocchi",
+"nome": "Maurizio Rocchi",
+"regione": "Lazio",
+"comune": "Tuscania",
+"tipi": {
+"cerveteri": [
+"Cerveteri, Tarquinia e Tuscania"
+]
+},
+"membri": [
+"maurizio-rocchi"
+],
+"primario": "maurizio-rocchi"
+},
+{
+"slug": "vulci-di-simoncini",
+"nome": "Vulci di Simoncini",
+"regione": "Lazio",
+"comune": "Cellere",
+"tipi": {
+"viterbo": [
+"Viterbo, Montefiascone e Tuscia"
+]
+},
+"membri": [
+"vulci-di-simoncini"
+],
+"primario": "vulci-di-simoncini"
+},
+{
+"slug": "di-palma-riccardo",
+"nome": "Di Palma Riccardo",
+"regione": "Lazio",
+"comune": "Velletri",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"di-palma-riccardo"
+],
+"primario": "di-palma-riccardo"
+},
+{
+"slug": "podere-giulio",
+"nome": "Podere Giulio",
+"regione": "Lazio",
+"comune": "Tarquinia",
+"tipi": {
+"cerveteri": [
+"Cerveteri, Tarquinia e Tuscania"
+]
+},
+"membri": [
+"podere-giulio"
+],
+"primario": "podere-giulio"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
@@ -78670,8 +80065,8 @@
 "regione": "Lazio",
 "comune": "Marino",
 "tipi": {
-"roma": [
-"Roma"
+"frascati": [
+"Frascati e Castelli Romani"
 ]
 },
 "membri": [
@@ -78685,8 +80080,8 @@
 "regione": "Lazio",
 "comune": "Frascati",
 "tipi": {
-"roma": [
-"Roma"
+"frascati": [
+"Frascati e Castelli Romani"
 ]
 },
 "membri": [
@@ -78700,8 +80095,8 @@
 "regione": "Lazio",
 "comune": "Cerveteri",
 "tipi": {
-"roma": [
-"Roma"
+"cerveteri": [
+"Cerveteri, Tarquinia e Tuscania"
 ]
 },
 "membri": [
@@ -100179,5 +101574,185 @@
 "tramontana"
 ],
 "primario": "tramontana"
+},
+{
+"slug": "tenuta-iacoangeli",
+"nome": "Tenuta Iacoangeli",
+"regione": "Lazio",
+"comune": "Genzano di Roma",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"tenuta-iacoangeli"
+],
+"primario": "tenuta-iacoangeli"
+},
+{
+"slug": "casale-vallechiesa",
+"nome": "Casale Vallechiesa",
+"regione": "Lazio",
+"comune": "Frascati",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"casale-vallechiesa"
+],
+"primario": "casale-vallechiesa"
+},
+{
+"slug": "borgo-del-cedro",
+"nome": "Borgo del Cedro",
+"regione": "Lazio",
+"comune": "Monte Porzio Catone",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"borgo-del-cedro"
+],
+"primario": "borgo-del-cedro"
+},
+{
+"slug": "poggio-le-volpi",
+"nome": "Poggio Le Volpi",
+"regione": "Lazio",
+"comune": "Monte Porzio Catone",
+"tipi": {
+"frascati": [
+"Frascati e Castelli Romani"
+]
+},
+"membri": [
+"poggio-le-volpi"
+],
+"primario": "poggio-le-volpi"
+},
+{
+"slug": "borgo-del-baccano",
+"nome": "Borgo del Baccano",
+"regione": "Lazio",
+"comune": "Campagnano di Roma",
+"tipi": {
+"roma": [
+"Roma"
+]
+},
+"membri": [
+"borgo-del-baccano"
+],
+"primario": "borgo-del-baccano"
+},
+{
+"slug": "antica-tenuta-palombo",
+"nome": "Antica Tenuta Palombo",
+"regione": "Lazio",
+"comune": "Atina",
+"tipi": {
+"atina": [
+"Atina"
+]
+},
+"membri": [
+"antica-tenuta-palombo"
+],
+"primario": "antica-tenuta-palombo"
+},
+{
+"slug": "russo-antonio-marino",
+"nome": "Russo Antonio Marino",
+"regione": "Lazio",
+"comune": "Cassino",
+"tipi": {
+"atina": [
+"Atina"
+]
+},
+"membri": [
+"russo-antonio-marino"
+],
+"primario": "russo-antonio-marino"
+},
+{
+"slug": "i-ciacca",
+"nome": "I Ciacca",
+"regione": "Lazio",
+"comune": "Picinisco",
+"tipi": {
+"atina": [
+"Atina"
+]
+},
+"membri": [
+"i-ciacca"
+],
+"primario": "i-ciacca"
+},
+{
+"slug": "il-laureto",
+"nome": "Il Laureto",
+"regione": "Lazio",
+"comune": "Alvito",
+"tipi": {
+"atina": [
+"Atina"
+]
+},
+"membri": [
+"il-laureto"
+],
+"primario": "il-laureto"
+},
+{
+"slug": "la-ferriera",
+"nome": "La Ferriera",
+"regione": "Lazio",
+"comune": "Atina",
+"tipi": {
+"atina": [
+"Atina"
+]
+},
+"membri": [
+"la-ferriera"
+],
+"primario": "la-ferriera"
+},
+{
+"slug": "masseria-barone",
+"nome": "Masseria Barone",
+"regione": "Lazio",
+"comune": "Atina",
+"tipi": {
+"atina": [
+"Atina"
+]
+},
+"membri": [
+"masseria-barone"
+],
+"primario": "masseria-barone"
+},
+{
+"slug": "saim",
+"nome": "Saim",
+"regione": "Lazio",
+"comune": "Casalattico",
+"tipi": {
+"atina": [
+"Atina"
+]
+},
+"membri": [
+"saim"
+],
+"primario": "saim"
 }
 ]

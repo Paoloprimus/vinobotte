@@ -1,0 +1,70 @@
+{
+ "nome": "Palazzo Tronconi",
+ "slug": "palazzo-tronconi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Palazzo Tronconi Società Agricola Srl [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02730810609 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Corte Vecchia, 44, 03032 Arce (FR) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0776 539678 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@palazzotronconi.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://palazzotronconi.com|palazzotronconi.com}} [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi e punteggi",
+     "valore": "Non presenti nelle fonti consultate"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Piattaforme",
+     "valore": "Google Maps: nessuna scheda trovata (ricerca del 29 ottobre 2026)\nWikipedia: nessuna voce in italiano (ricerca del 29 ottobre 2026)"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "Presente come produttore [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 26 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagina dei contatti consultate il 26 ottobre 2026.",
+   "url": "https://palazzotronconi.com",
+   "etichetta": "palazzotronconi.com"
+  },
+  {
+   "n": 2,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "nome": "Il Laureto",
+ "slug": "il-laureto",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Colle Buono 7, 03041 Alvito (FR) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@albetum.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.albetum.it|albetum.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela Atina DOC [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di tutela Atina DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.atinadoc.it/",
+   "etichetta": "atinadoc.it"
+  }
+ ]
+}

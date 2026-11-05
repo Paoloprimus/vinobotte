@@ -570,5 +570,29 @@
  "calabria": [
   "Produttori vini Calabria",
   "<option>Calabria</option>"
+ ],
+ "frascati": [
+  "Produttori vini Frascati e Castelli Romani",
+  "<option>Frascati e Castelli Romani</option>"
+ ],
+ "cesanese": [
+  "Produttori vini Cesanese: Piglio, Olevano, Affile e Ciociaria",
+  "<option>Cesanese: Piglio, Olevano, Affile e Ciociaria</option>"
+ ],
+ "viterbo": [
+  "Produttori vini Viterbo, Montefiascone e Tuscia",
+  "<option>Viterbo, Montefiascone e Tuscia</option>"
+ ],
+ "cerveteri": [
+  "Produttori vini Cerveteri, Tarquinia e Tuscania",
+  "<option>Cerveteri, Tarquinia e Tuscania</option>"
+ ],
+ "latina": [
+  "Produttori vini Latina, Cori e Aprilia",
+  "<option>Latina, Cori e Aprilia</option>"
+ ],
+ "rieti": [
+  "Produttori vini Rieti e Sabina",
+  "<option>Rieti e Sabina</option>"
  ]
 }

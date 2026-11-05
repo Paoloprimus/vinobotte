@@ -1,0 +1,40 @@
+{
+ "nome": "Tenuta Iacoangeli",
+ "slug": "tenuta-iacoangeli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Ercole Imbastari 25, 00045 Genzano di Roma (RM) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "331 6443560 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutaiacoangeli.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutaiacoangeli.it|tenutaiacoangeli.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Roma DOC [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Roma DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.consorzioromadoc.it/cantine-associate/",
+   "etichetta": "consorzioromadoc.it"
+  }
+ ]
+}

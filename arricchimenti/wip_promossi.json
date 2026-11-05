@@ -21613,8 +21613,8 @@
   "regione": "Lazio",
   "comune": "Marino",
   "tipi": {
-   "roma": [
-    "Roma"
+   "frascati": [
+    "Frascati e Castelli Romani"
    ]
   },
   "rag": "",
@@ -21643,8 +21643,8 @@
   "regione": "Lazio",
   "comune": "Frascati",
   "tipi": {
-   "roma": [
-    "Roma"
+   "frascati": [
+    "Frascati e Castelli Romani"
    ]
   },
   "rag": "",
@@ -21673,8 +21673,8 @@
   "regione": "Lazio",
   "comune": "Cerveteri",
   "tipi": {
-   "roma": [
-    "Roma"
+   "cerveteri": [
+    "Cerveteri, Tarquinia e Tuscania"
    ]
   },
   "rag": "",
@@ -64537,5 +64537,365 @@
   "consorzio_nome": "Consorzio Terre di Reggio Calabria",
   "dom_consorzio": "terredireggiocalabria.it",
   "consorzio": "reggio-calabria"
+ },
+ {
+  "slug": "tenuta-iacoangeli",
+  "nome": "Tenuta Iacoangeli",
+  "regione": "Lazio",
+  "comune": "Genzano di Roma",
+  "tipi": {
+   "frascati": [
+    "Frascati e Castelli Romani"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Ercole Imbastari 25, 00045 Genzano di Roma (RM)",
+  "tel": "331 6443560",
+  "email": "info@tenutaiacoangeli.it",
+  "sito": "https://www.tenutaiacoangeli.it",
+  "dom": "tenutaiacoangeli.it",
+  "den": "",
+  "wip": "Tenuta Iacoangeli",
+  "url_consorzio": "https://www.consorzioromadoc.it/cantine-associate/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Roma DOC",
+  "dom_consorzio": "consorzioromadoc.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "roma",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "casale-vallechiesa",
+  "nome": "Casale Vallechiesa",
+  "regione": "Lazio",
+  "comune": "Frascati",
+  "tipi": {
+   "frascati": [
+    "Frascati e Castelli Romani"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Pietra Porzia 19/23, 00044 Frascati (RM)",
+  "tel": "",
+  "email": "info@casalevallechiesa.it",
+  "sito": "https://www.casalevallechiesa.it",
+  "dom": "casalevallechiesa.it",
+  "den": "",
+  "wip": "Casale Vallechiesa",
+  "url_consorzio": "https://www.consorzioromadoc.it/cantine-associate/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Roma DOC",
+  "dom_consorzio": "consorzioromadoc.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "roma",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "borgo-del-cedro",
+  "nome": "Borgo del Cedro",
+  "regione": "Lazio",
+  "comune": "Monte Porzio Catone",
+  "tipi": {
+   "frascati": [
+    "Frascati e Castelli Romani"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Monte Porzio Catone (RM)",
+  "tel": "",
+  "email": "info@borgodelcedro.it",
+  "sito": "https://www.borgodelcedro.it",
+  "dom": "borgodelcedro.it",
+  "den": "",
+  "wip": "Borgo del Cedro",
+  "url_consorzio": "https://www.consorzioromadoc.it/cantine-associate/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Roma DOC",
+  "dom_consorzio": "consorzioromadoc.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "roma",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "poggio-le-volpi",
+  "nome": "Poggio Le Volpi",
+  "regione": "Lazio",
+  "comune": "Monte Porzio Catone",
+  "tipi": {
+   "frascati": [
+    "Frascati e Castelli Romani"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Colle Pisano 27, 00078 Monte Porzio Catone (RM)",
+  "tel": "",
+  "email": "",
+  "sito": "https://www.poggiolevolpi.com/it/",
+  "dom": "poggiolevolpi.com",
+  "den": "",
+  "wip": "Poggio Le Volpi",
+  "url_consorzio": "https://www.consorzioromadoc.it/cantine-associate/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Roma DOC",
+  "dom_consorzio": "consorzioromadoc.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "roma",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "borgo-del-baccano",
+  "nome": "Borgo del Baccano",
+  "regione": "Lazio",
+  "comune": "Campagnano di Roma",
+  "tipi": {
+   "roma": [
+    "Roma"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Strada di Cesano Bottata 6, 00063 Campagnano di Roma (RM)",
+  "tel": "",
+  "email": "",
+  "sito": "http://www.borgodelbaccano.it",
+  "dom": "borgodelbaccano.it",
+  "den": "",
+  "wip": "Borgo del Baccano",
+  "url_consorzio": "https://www.consorzioromadoc.it/cantine-associate/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Roma DOC",
+  "dom_consorzio": "consorzioromadoc.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "roma",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "antica-tenuta-palombo",
+  "nome": "Antica Tenuta Palombo",
+  "regione": "Lazio",
+  "comune": "Atina",
+  "tipi": {
+   "atina": [
+    "Atina"
+   ]
+  },
+  "rag": "",
+  "piva": "02778180600",
+  "sede": "03042 Atina (FR)",
+  "tel": "",
+  "email": "info@anticatenutapalombo.it",
+  "sito": "https://www.anticatenutapalombo.it/it",
+  "dom": "anticatenutapalombo.it",
+  "den": "",
+  "wip": "Antica Tenuta Palombo",
+  "url_consorzio": "https://www.atinadoc.it/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": false,
+  "elenco_consorzio": true,
+  "consorzio_nome": "Consorzio di tutela Atina DOC",
+  "dom_consorzio": "atinadoc.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "atina",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "russo-antonio-marino",
+  "nome": "Russo Antonio Marino",
+  "regione": "Lazio",
+  "comune": "Cassino",
+  "tipi": {
+   "atina": [
+    "Atina"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via ai Patini 5, 03043 Cassino (FR)",
+  "tel": "",
+  "email": "antoniomarino.russo@virgilio.it",
+  "sito": "http://www.cantinarussoatinacabernetdoc.it",
+  "dom": "cantinarussoatinacabernetdoc.it",
+  "den": "",
+  "wip": "Russo Antonio Marino",
+  "url_consorzio": "https://www.atinadoc.it/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di tutela Atina DOC",
+  "dom_consorzio": "atinadoc.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "atina",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "i-ciacca",
+  "nome": "I Ciacca",
+  "regione": "Lazio",
+  "comune": "Picinisco",
+  "tipi": {
+   "atina": [
+    "Atina"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Collachia, 03040 Picinisco (FR)",
+  "tel": "",
+  "email": "info@iciacca.com",
+  "sito": "https://iciacca.com",
+  "dom": "iciacca.com",
+  "den": "",
+  "wip": "I Ciacca",
+  "url_consorzio": "https://www.atinadoc.it/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di tutela Atina DOC",
+  "dom_consorzio": "atinadoc.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "atina",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "il-laureto",
+  "nome": "Il Laureto",
+  "regione": "Lazio",
+  "comune": "Alvito",
+  "tipi": {
+   "atina": [
+    "Atina"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Colle Buono 7, 03041 Alvito (FR)",
+  "tel": "",
+  "email": "info@albetum.it",
+  "sito": "http://www.albetum.it",
+  "dom": "albetum.it",
+  "den": "",
+  "wip": "Il Laureto",
+  "url_consorzio": "https://www.atinadoc.it/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di tutela Atina DOC",
+  "dom_consorzio": "atinadoc.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "atina",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "la-ferriera",
+  "nome": "La Ferriera",
+  "regione": "Lazio",
+  "comune": "Atina",
+  "tipi": {
+   "atina": [
+    "Atina"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Ferriera 743, 03042 Atina (FR)",
+  "tel": "",
+  "email": "info@laferriera.it",
+  "sito": "http://www.laferriera.it",
+  "dom": "laferriera.it",
+  "den": "",
+  "wip": "La Ferriera",
+  "url_consorzio": "https://www.atinadoc.it/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di tutela Atina DOC",
+  "dom_consorzio": "atinadoc.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "atina",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "masseria-barone",
+  "nome": "Masseria Barone",
+  "regione": "Lazio",
+  "comune": "Atina",
+  "tipi": {
+   "atina": [
+    "Atina"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Signora Porzia 500, 03042 Atina (FR)",
+  "tel": "",
+  "email": "",
+  "sito": "https://www.masseriabarone.com",
+  "dom": "masseriabarone.com",
+  "den": "",
+  "wip": "Masseria Barone",
+  "url_consorzio": "https://www.atinadoc.it/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di tutela Atina DOC",
+  "dom_consorzio": "atinadoc.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "atina",
+  "data_consultazione": "2 novembre 2026"
+ },
+ {
+  "slug": "saim",
+  "nome": "Saim",
+  "regione": "Lazio",
+  "comune": "Casalattico",
+  "tipi": {
+   "atina": [
+    "Atina"
+   ]
+  },
+  "rag": "",
+  "piva": "02274650601",
+  "sede": "Via San Nazario 14, 03030 Casalattico (FR)",
+  "tel": "",
+  "email": "info@saimsrl.it",
+  "sito": "https://www.saimsrl.it",
+  "dom": "saimsrl.it",
+  "den": "",
+  "wip": "Saim",
+  "url_consorzio": "https://www.atinadoc.it/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio di tutela Atina DOC",
+  "dom_consorzio": "atinadoc.it",
+  "data_consorzio": "2 novembre 2026",
+  "consorzio": "atina",
+  "data_consultazione": "2 novembre 2026"
  }
 ]

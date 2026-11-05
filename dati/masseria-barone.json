@@ -1,0 +1,32 @@
+{
+ "nome": "Masseria Barone",
+ "slug": "masseria-barone",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Signora Porzia 500, 03042 Atina (FR) [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.masseriabarone.com|masseriabarone.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela Atina DOC [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di tutela Atina DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.atinadoc.it/",
+   "etichetta": "atinadoc.it"
+  }
+ ]
+}

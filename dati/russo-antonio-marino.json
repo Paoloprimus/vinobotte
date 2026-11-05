@@ -1,0 +1,36 @@
+{
+ "nome": "Russo Antonio Marino",
+ "slug": "russo-antonio-marino",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via ai Patini 5, 03043 Cassino (FR) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "antoniomarino.russo@virgilio.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinarussoatinacabernetdoc.it|cantinarussoatinacabernetdoc.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela Atina DOC [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio di tutela Atina DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.atinadoc.it/",
+   "etichetta": "atinadoc.it"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "nome": "Saim",
+ "slug": "saim",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02274650601 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via San Nazario 14, 03030 Casalattico (FR) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@saimsrl.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.saimsrl.it|saimsrl.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di tutela Atina DOC [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 2 novembre 2026.",
+   "url": "https://www.saimsrl.it",
+   "etichetta": "saimsrl.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio di tutela Atina DOC, scheda dell’azienda consultata il 2 novembre 2026.",
+   "url": "https://www.atinadoc.it/",
+   "etichetta": "atinadoc.it"
+  }
+ ]
+}

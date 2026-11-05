@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Cantina Gaffino","s":"cantina-gaffino","c":"Ardea","d":["Roma"]},{"n":"Cantine San Marco","s":"cantine-san-marco","c":"Frascati","d":["Roma"]},{"n":"Casata Mergé","s":"casata-merge","c":"Roma","d":["Roma"]},{"n":"Gotto d’Oro","s":"gotto-doro","c":"Marino","d":["Roma"]},{"n":"Tenuta Tre Cancelli","s":"tenuta-tre-cancelli","c":"Cerveteri","d":["Roma"]},{"n":"Terre del Veio","s":"terre-del-veio","c":"Roma","d":["Roma"]}];
+    const D=[{"n":"Borgo del Baccano","s":"borgo-del-baccano","c":"Campagnano di Roma","d":["Roma"]},{"n":"Cantina Bacco","s":"cantina-bacco","c":"Nettuno","d":["Roma"]},{"n":"Cantina Gaffino","s":"cantina-gaffino","c":"Ardea","d":["Roma"]},{"n":"Cantine Capitani","s":"cantine-capitani","c":"Trevignano Romano","d":["Roma"]},{"n":"Casata Mergé","s":"casata-merge","c":"Roma","d":["Roma"]},{"n":"Castello di Torre In Pietra","s":"castello-di-torre-in-pietra","c":"Fiumicino","d":["Roma"]},{"n":"Ducato Grazioli","s":"ducato-grazioli","c":"Roma","d":["Roma"]},{"n":"La Mugilla","s":"la-mugilla","c":"Roma","d":["Roma"]},{"n":"Solis Terrae","s":"solis-terrae","c":"Fiumicino","d":["Roma"]},{"n":"Terre del Veio","s":"terre-del-veio","c":"Roma","d":["Roma"]},{"n":"Vini Sordi","s":"vini-sordi","c":"Gallicano nel Lazio","d":["Roma"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');

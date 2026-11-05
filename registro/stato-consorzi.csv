@@ -63,7 +63,7 @@
 62;Consorzio volontario per la tutela e la valorizzazione dei vini DOCG di Caluso e DOC Carema e Canavese;https://www.erbalucecarema.it/cantine/;FATTO (primo giro, lotti 2–11);
 63;Istituto Marchigiano di tutela vini;https://imtdoc.it/wp-content/uploads/2026/02/Elenco-soci-IMT-al-01.01.2026.pdf;FATTO (primo giro, lotti 2–11);IMT Marche: 480 nomi senza sito, in wip
 64;Consorzio del vino Brunello di Montalcino;https://www.consorziobrunellodimontalcino.it/it/592/cantine;FATTO (completo, controllo rigoroso);Brunello: 212 cantine nell’elenco ufficiale, 200 in guida, 6 mancanti senza sito (wip)
-65;Consorzio tutela denominazione vini Frascati;https://www.consorziofrascati.wine/;NON FATTO: sito irraggiungibile anche dal Mac;
+65;Consorzio tutela denominazione vini Frascati;https://www.consorziofrascati.wine/;NON FATTO: sito irraggiungibile; il dominio consorziofrascati.it è un sito di albergo;Frascati: cantine prese da Roma DOC e da Vivino
 66;Consorzio per la tutela della DOC dei vini Breganze;https://www.breganzedoc.it/le-cantine/;tessera già in guida: elenco soci in mappa/JS, lettura non automatica;
 67;Consorzio tutela vini DOC Friuli Aquileia;https://www.viniaquileia.it/i-soci/;FATTO (primo giro);
 68;Consorzio tutela vini Piceni;https://www.consorziovinipiceni.it/;NON FATTO: sito irraggiungibile anche dal Mac;
@@ -72,7 +72,7 @@
 71;Consorzio di tutela vini DOC Sicilia;https://siciliadoc.wine/i-produttori/;FATTO 5 nov 2026;"Elenco 400 soci letto nel browser (il sito blocca i programmi). 105 già in guida o doppi, 18 senza sito, 268 siti letti: 106 schede con sede in Sicilia, 162 restano fuori (sito non raggiungibile, sito vuoto, indirizzo non leggibile, sede fuori Sicilia, non cantine)"
 72;Consorzio per la tutela dei vini con denominazione di origine Bolgheri;https://www.bolgheridoc.com/consorziati/;FATTO (completo, controllo rigoroso 1 nov);completo 79/79
 73;Consorzio volontario per la tutela e la valorizzazione dei vini a DOC dell'Isola di Pantelleria;https://www.vinipantelleriadoc.it/;NON FATTO: elenco solo in mappa interattiva non leggibile; in guida solo De Bartoli (DOC Sicilia);
-74;Consorzio per la tutela e la valorizzazione del vino Cesanese del Piglio;;DA FARE: indirizzo web da trovare;
+74;Consorzio per la tutela e la valorizzazione del vino Cesanese del Piglio;;NON FATTO: nessun sito trovato (5 nov 2026);Cesanese del Piglio: cantine prese da Vivino
 75;Consorzio di tutela dei vini con denominazione d'origine Val d'Arno di Sopra;https://www.valdarnodisopradoc.it/consorzio/;tessera già in guida: da verificare la completezza;
 76;Consorzio di tutela del vino a denominazione di origine Orcia;;tessera già in guida: da verificare la completezza;
 77;Consorzio di tutela vini di Alghero;https://www.algherodoc.it/consorziati.html;FATTO (primo giro, lotti 2–11);
@@ -108,11 +108,11 @@
 107;Consorzio dei Vini Gioia del Colle DOC;http://consorziovinigioiadelcolle.it/index.php/le-aziende-del-consorzio-vini-gioia-del-colle;NON FATTO: la pagina soci è vuota anche col browser (5 nov 2026); coperto da Vivino;
 108;Consorzio volontario di tutela e valorizzazione del vino DOC Nardò;;NON FATTO: nessun sito trovato (5 nov 2026); coperto da Vivino;
 109;Consorzio Colline del Monferrato Casalese;https://vinimonferratocasalese.it/i-consorziati/;FATTO (primo giro, lotti 2–11);
-110;Consorzio per la tutela dei vini DOP Atina;https://www.atinadoc.it/;FATTO (primo giro, lotto 7);Atina: 4 nuove nel Lazio
+110;Consorzio per la tutela dei vini DOP Atina;https://www.atinadoc.it/;FATTO 5 nov 2026;Atina: 7 schede dai dati del consorzio e dai siti (le 4 già in guida confermate)
 111;Consorzio Vini Terre di Pisa;;tessera già in guida: da verificare la completezza;
 112;Consorzio per la tutela dei vini DOP Brindisi e DOP Squinzano;;NON FATTO: nessun sito trovato (5 nov 2026); coperto da Vivino;
 113;"Consorzio volontario per la tutela e la valorizzazione dei vini ""Terre di Romangia""";https://www.terrediromangia.it/;NON FATTO: sito irraggiungibile anche dal Mac;
-114;Consorzio Roma DOC;https://consorzioromadoc.it/cantine-associate;FATTO (primo giro);
+114;Consorzio Roma DOC;https://www.consorzioromadoc.it/cantine-associate/;FATTO 5 nov 2026;13 soci: 5 nuovi con scheda; i siti Iacoangeli e Vallechiesa non leggibili: dati dal consorzio
 115;Consorzio Tutela DOC Delle Venezie;https://dellevenezie.it/cantine/;FATTO (primo giro);
 116;Consorzio di tutela e valorizzazione delle viti e del vino DOC Bivongi;https://www.docbivongi.it/aziende/;FATTO 5 nov 2026;"L'elenco non indica i siti: siti cercati uno a uno"
 117;Consorzio per la tutela dei vini DOP e IGP Colli di Luni, Cinque Terre, Colline di Levanto e Liguria di Levante;;NON FATTO: nessun sito né elenco soci (61 aziende dichiarate, nomi non pubblicati; ricerca 5 nov 2026); coperto da Vivino;
@@ -120,7 +120,7 @@
 119;Consorzio Terre di Reggio Calabria;https://www.terredireggiocalabria.it/soci/;FATTO 5 nov 2026;"L'elenco non indica i siti: siti cercati uno a uno"
 120;Consorzio per la tutela e la valorizzazione del Vino DOC Gravina;;DA FARE: indirizzo web da trovare;
 121;Consorzio di tutela vini DOP Suvereto e Val di Cornia Wine;;tessera già in guida: da verificare la completezza;
-122;Consorzio Volontario per la tutela e la valorizzazione dei Vini DOC Cori;;DA FARE: indirizzo web da trovare;
+122;Consorzio Volontario per la tutela e la valorizzazione dei Vini DOC Cori;;NON FATTO: nessun sito trovato (5 nov 2026);Cori: cantine prese da Vivino
 123;Consorzio Vini Valle d'Aosta;https://www.vinivalledaosta.com/produttori;FATTO (primo giro, lotti 2–11);
 124;Consorzio Vino Pomino;;DA FARE: indirizzo web da trovare;
 125;Consorzio Tutela Vini dei Campi Flegrei e Ischia;;NON FATTO: nessun sito raggiungibile (5 nov 2026); coperto da Vivino;
@@ -136,7 +136,7 @@
 135;Consorzio per la Tutela e la Valorizzazione dei vini D.O.C. Valsusa;http://www.consorziovalsusadoc.com/cantine.html;FATTO (primo giro, lotti 2–11);
 136;Consorzio Emilia-Romagna;https://www.collibolognesi.it/;FATTO 4 nov 2026: il sito non pubblica l'elenco dei soci; coperto da Vivino 5 nov 2026;
 137;Consorzio Greco di Bianco DOP;;NON FATTO: nessun sito del consorzio trovato (5 nov 2026); cantine della zona prese da Vivino;
-138;Consorzio di Tutela del Cesanese di Olevano Romano;;DA FARE: indirizzo web da trovare;
+138;Consorzio di Tutela del Cesanese di Olevano Romano;;NON FATTO: nessun sito trovato (5 nov 2026);Olevano: cantine prese da Vivino
 139;Consorzio volontario per la tutela del vino Colli di Conegliano;http://www.colliconegliano.it/it/soci-it;FATTO 4 nov 2026: 26 soci letti, 1 scheda nuova;
 140;Consorzio di Tutela del Vermentino di Sardegna;;NON FATTO: consorzio senza sito né elenco soci (Sardegna);"Cannonau/Vermentino hanno sede al Consorzio UNO di Oristano; Vermentino 19 aziende (Città del Vino) senza nomi"
 141;Consorzio di Tutela del Cannonau di Sardegna;;NON FATTO: consorzio senza sito né elenco soci (Sardegna);"Cannonau/Vermentino hanno sede al Consorzio UNO di Oristano; Vermentino 19 aziende (Città del Vino) senza nomi"
