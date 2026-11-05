@@ -8,7 +8,7 @@ Guida: 198 produttori con sede in Puglia (da 35).
 
 ## Restano fuori (e perché)
 - Consorzi senza elenco soci leggibile: Castel del Monte (7 nomi senza indirizzo), Gioia del Colle (pagina vuota), Salice Salentino, Locorotondo, Nardò, Brindisi e Squinzano, DOP Puglia (nessun sito o elenco trovato).
-- ~190 cantine con sito ma senza sede leggibile; ~570 senza sito → `cantine-scartate.csv`.
+- Cantine con sito ma senza sede leggibile, senza sito, o con meno di 5 vini su Vivino: 2.378 righe di Puglia in `cantine-scartate.csv`.
 - Vivino con 1–4 vini: non cercate.
 - Non cantine / doppioni: Coldiretti (associazione), Trulli (Alberobello, probabile negozio), Somm'A4 (dubbio), Re Paolo (marchio di Paolo Leo), Cimaglia Vieste, La Mita, Vitivinicola D'Agostino, Poderi d'Agostino, Giancarlo Ceci, Vigne di San Donaci, Marco Ludovico, Terradoce (stesso indirizzo di altra scheda già tenuta).
 
