@@ -1,0 +1,46 @@
+{
+ "nome": "Ronchi di Castelluccio Poggio della Dogana",
+ "slug": "ronchi-di-castelluccio-poggio-della-dogana",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via G. Mengozzi 18, 47011 Castrocaro Terme e Terra del Sole (FC) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0544 213825 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@poggiodelladogana.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://poggiodelladogana.com|poggiodelladogana.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://poggiodelladogana.com",
+   "etichetta": "poggiodelladogana.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 5 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/poggio-della-dogana-ottoviti/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

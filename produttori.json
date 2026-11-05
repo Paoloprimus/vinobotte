@@ -61803,6 +61803,2256 @@
 "primario": "cantina-ari"
 },
 {
+"slug": "tenuta-la-riva",
+"nome": "Tenuta La Riva",
+"regione": "Emilia-Romagna",
+"comune": "Castello d'Argile",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"tenuta-la-riva"
+],
+"primario": "tenuta-la-riva"
+},
+{
+"slug": "cleto-chiarli",
+"nome": "Cleto Chiarli",
+"regione": "Emilia-Romagna",
+"comune": "Modena",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"cleto-chiarli"
+],
+"primario": "cleto-chiarli"
+},
+{
+"slug": "riunite",
+"nome": "Riunite",
+"regione": "Emilia-Romagna",
+"comune": "Campegine",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"riunite"
+],
+"primario": "riunite"
+},
+{
+"slug": "la-stoppa",
+"nome": "La Stoppa",
+"regione": "Emilia-Romagna",
+"comune": "Rivergaro",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"la-stoppa"
+],
+"primario": "la-stoppa"
+},
+{
+"slug": "lusenti",
+"nome": "Lusenti",
+"regione": "Emilia-Romagna",
+"comune": "Ziano Piacentino",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"lusenti"
+],
+"primario": "lusenti"
+},
+{
+"slug": "lini-910",
+"nome": "Lini 910",
+"regione": "Emilia-Romagna",
+"comune": "Correggio",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"lini-910"
+],
+"primario": "lini-910"
+},
+{
+"slug": "la-tosa",
+"nome": "La Tosa",
+"regione": "Emilia-Romagna",
+"comune": "Vigolzone",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"la-tosa"
+],
+"primario": "la-tosa"
+},
+{
+"slug": "donelli",
+"nome": "Donelli",
+"regione": "Emilia-Romagna",
+"comune": "Gattatico",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"donelli"
+],
+"primario": "donelli"
+},
+{
+"slug": "terraquilia",
+"nome": "TerraQuilia",
+"regione": "Emilia-Romagna",
+"comune": "Guiglia",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"terraquilia"
+],
+"primario": "terraquilia"
+},
+{
+"slug": "podere-pradarolo",
+"nome": "Podere Pradarolo",
+"regione": "Emilia-Romagna",
+"comune": "Varano de' Melegari",
+"tipi": {
+"colli-di-parma": [
+"Colli di Parma"
+]
+},
+"membri": [
+"podere-pradarolo"
+],
+"primario": "podere-pradarolo"
+},
+{
+"slug": "podere-il-saliceto",
+"nome": "Podere Il Saliceto",
+"regione": "Emilia-Romagna",
+"comune": "Campogalliano",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"podere-il-saliceto"
+],
+"primario": "podere-il-saliceto"
+},
+{
+"slug": "cantina-valtidone",
+"nome": "Cantina Valtidone",
+"regione": "Emilia-Romagna",
+"comune": "Borgonovo Val Tidone",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"cantina-valtidone"
+],
+"primario": "cantina-valtidone"
+},
+{
+"slug": "fattoria-moretto",
+"nome": "Fattoria Moretto",
+"regione": "Emilia-Romagna",
+"comune": "Castelvetro di Modena",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"fattoria-moretto"
+],
+"primario": "fattoria-moretto"
+},
+{
+"slug": "cantina-manzini",
+"nome": "Cantina Manzini",
+"regione": "Emilia-Romagna",
+"comune": "Pontenure",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"cantina-manzini"
+],
+"primario": "cantina-manzini"
+},
+{
+"slug": "giacobazzi",
+"nome": "Giacobazzi",
+"regione": "Emilia-Romagna",
+"comune": "Modena",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"giacobazzi"
+],
+"primario": "giacobazzi"
+},
+{
+"slug": "tollara",
+"nome": "Tollara",
+"regione": "Emilia-Romagna",
+"comune": "Alseno",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"tollara"
+],
+"primario": "tollara"
+},
+{
+"slug": "cantina-di-soliera",
+"nome": "Cantina di Soliera",
+"regione": "Emilia-Romagna",
+"comune": "Campogalliano",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"cantina-di-soliera"
+],
+"primario": "cantina-di-soliera"
+},
+{
+"slug": "villa-di-corlo",
+"nome": "Villa di Corlo",
+"regione": "Emilia-Romagna",
+"comune": "Modena",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"villa-di-corlo"
+],
+"primario": "villa-di-corlo"
+},
+{
+"slug": "borgofulvia",
+"nome": "Borgofulvia",
+"regione": "Emilia-Romagna",
+"comune": "Piacenza",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"borgofulvia"
+],
+"primario": "borgofulvia"
+},
+{
+"slug": "merlotta",
+"nome": "Merlotta",
+"regione": "Emilia-Romagna",
+"comune": "Imola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"merlotta"
+],
+"primario": "merlotta"
+},
+{
+"slug": "vigneti-romio",
+"nome": "Vigneti Romio",
+"regione": "Emilia-Romagna",
+"comune": "Forlì",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"vigneti-romio"
+],
+"primario": "vigneti-romio"
+},
+{
+"slug": "rinaldini",
+"nome": "Rinaldini",
+"regione": "Emilia-Romagna",
+"comune": "Sant'Ilario d'Enza",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"rinaldini"
+],
+"primario": "rinaldini"
+},
+{
+"slug": "fondo-san-giuseppe",
+"nome": "Fondo San Giuseppe",
+"regione": "Emilia-Romagna",
+"comune": "Brisighella",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"fondo-san-giuseppe"
+],
+"primario": "fondo-san-giuseppe"
+},
+{
+"slug": "oinoe",
+"nome": "Oinoe",
+"regione": "Emilia-Romagna",
+"comune": "Traversetolo",
+"tipi": {
+"colli-di-parma": [
+"Colli di Parma"
+]
+},
+"membri": [
+"oinoe"
+],
+"primario": "oinoe"
+},
+{
+"slug": "tenuta-bonzara",
+"nome": "Tenuta Bonzara",
+"regione": "Emilia-Romagna",
+"comune": "Monte San Pietro",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"tenuta-bonzara"
+],
+"primario": "tenuta-bonzara"
+},
+{
+"slug": "francesco-vezzelli",
+"nome": "Francesco Vezzelli",
+"regione": "Emilia-Romagna",
+"comune": "Modena",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"francesco-vezzelli"
+],
+"primario": "francesco-vezzelli"
+},
+{
+"slug": "montaia",
+"nome": "Montaia",
+"regione": "Emilia-Romagna",
+"comune": "Cesena",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"montaia"
+],
+"primario": "montaia"
+},
+{
+"slug": "vini-zanasi",
+"nome": "Vini Zanasi",
+"regione": "Emilia-Romagna",
+"comune": "Castelnuovo Rangone",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"vini-zanasi"
+],
+"primario": "vini-zanasi"
+},
+{
+"slug": "zerioli",
+"nome": "Zerioli",
+"regione": "Emilia-Romagna",
+"comune": "Ziano Piacentino",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"zerioli"
+],
+"primario": "zerioli"
+},
+{
+"slug": "azienda-agricola-castelvetro",
+"nome": "Azienda Agricola Castelvetro",
+"regione": "Emilia-Romagna",
+"comune": "Castelvetro di Modena",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"azienda-agricola-castelvetro"
+],
+"primario": "azienda-agricola-castelvetro"
+},
+{
+"slug": "storchi",
+"nome": "Storchi",
+"regione": "Emilia-Romagna",
+"comune": "Montecchio Emilia",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"storchi"
+],
+"primario": "storchi"
+},
+{
+"slug": "palazzo-di-varignana",
+"nome": "Palazzo di Varignana",
+"regione": "Emilia-Romagna",
+"comune": "Castel San Pietro Terme",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"palazzo-di-varignana"
+],
+"primario": "palazzo-di-varignana"
+},
+{
+"slug": "f-lli-bellei",
+"nome": "F.lli Bellei",
+"regione": "Emilia-Romagna",
+"comune": "Ravarino",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"f-lli-bellei"
+],
+"primario": "f-lli-bellei"
+},
+{
+"slug": "ca-perdicchi",
+"nome": "Ca' Perdicchi",
+"regione": "Emilia-Romagna",
+"comune": "Rimini",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"ca-perdicchi"
+],
+"primario": "ca-perdicchi"
+},
+{
+"slug": "lombardini",
+"nome": "Lombardini",
+"regione": "Emilia-Romagna",
+"comune": "Novellara",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"lombardini"
+],
+"primario": "lombardini"
+},
+{
+"slug": "podere-sottoilnoce",
+"nome": "Podere Sottoilnoce",
+"regione": "Emilia-Romagna",
+"comune": "Modena",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"podere-sottoilnoce"
+],
+"primario": "podere-sottoilnoce"
+},
+{
+"slug": "cantina-bassoli",
+"nome": "Cantina Bassoli",
+"regione": "Emilia-Romagna",
+"comune": "Carpi",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"cantina-bassoli"
+],
+"primario": "cantina-bassoli"
+},
+{
+"slug": "casa-benna",
+"nome": "Casa Benna",
+"regione": "Emilia-Romagna",
+"comune": "Castell'Arquato",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"casa-benna"
+],
+"primario": "casa-benna"
+},
+{
+"slug": "pietro-gazzola",
+"nome": "Pietro Gazzola",
+"regione": "Emilia-Romagna",
+"comune": "Travo",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"pietro-gazzola"
+],
+"primario": "pietro-gazzola"
+},
+{
+"slug": "vigne-dei-boschi",
+"nome": "Vigne dei Boschi",
+"regione": "Emilia-Romagna",
+"comune": "Solarolo",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"vigne-dei-boschi"
+],
+"primario": "vigne-dei-boschi"
+},
+{
+"slug": "le-barbaterre",
+"nome": "Le Barbaterre",
+"regione": "Emilia-Romagna",
+"comune": "Quattro Castella",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"le-barbaterre"
+],
+"primario": "le-barbaterre"
+},
+{
+"slug": "azienda-agricola-cavaliera",
+"nome": "Azienda Agricola Cavaliera",
+"regione": "Emilia-Romagna",
+"comune": "Castelvetro di Modena",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"azienda-agricola-cavaliera"
+],
+"primario": "azienda-agricola-cavaliera"
+},
+{
+"slug": "lodi-corazza",
+"nome": "Lodi Corazza",
+"regione": "Emilia-Romagna",
+"comune": "Zola Predosa",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"lodi-corazza"
+],
+"primario": "lodi-corazza"
+},
+{
+"slug": "lusvardi",
+"nome": "Lusvardi",
+"regione": "Emilia-Romagna",
+"comune": "San Martino in Rio",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"lusvardi"
+],
+"primario": "lusvardi"
+},
+{
+"slug": "montevecchio-isolani",
+"nome": "Montevecchio Isolani",
+"regione": "Emilia-Romagna",
+"comune": "Monte San Pietro",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"montevecchio-isolani"
+],
+"primario": "montevecchio-isolani"
+},
+{
+"slug": "cantina-valsamoggia",
+"nome": "Cantina Valsamoggia",
+"regione": "Emilia-Romagna",
+"comune": "Carpi",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"cantina-valsamoggia"
+],
+"primario": "cantina-valsamoggia"
+},
+{
+"slug": "maranello",
+"nome": "Maranello",
+"regione": "Emilia-Romagna",
+"comune": "Modena",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"maranello"
+],
+"primario": "maranello"
+},
+{
+"slug": "caccianemici",
+"nome": "Caccianemici",
+"regione": "Emilia-Romagna",
+"comune": "Sasso Marconi",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"caccianemici"
+],
+"primario": "caccianemici"
+},
+{
+"slug": "marchesi-di-ravarino",
+"nome": "Marchesi di Ravarino",
+"regione": "Emilia-Romagna",
+"comune": "Ravarino",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"marchesi-di-ravarino"
+],
+"primario": "marchesi-di-ravarino"
+},
+{
+"slug": "ventiventi",
+"nome": "Ventiventi",
+"regione": "Emilia-Romagna",
+"comune": "Medolla",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"ventiventi"
+],
+"primario": "ventiventi"
+},
+{
+"slug": "cantina-fantesini",
+"nome": "Cantina Fantesini",
+"regione": "Emilia-Romagna",
+"comune": "Bibbiano",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"cantina-fantesini"
+],
+"primario": "cantina-fantesini"
+},
+{
+"slug": "la-poiesa",
+"nome": "La Poiesa",
+"regione": "Emilia-Romagna",
+"comune": "Carpaneto Piacentino",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"la-poiesa"
+],
+"primario": "la-poiesa"
+},
+{
+"slug": "franchina-e-giarone",
+"nome": "Franchina e Giarone",
+"regione": "Emilia-Romagna",
+"comune": "Formigine",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"franchina-e-giarone"
+],
+"primario": "franchina-e-giarone"
+},
+{
+"slug": "ferretti",
+"nome": "Ferretti",
+"regione": "Emilia-Romagna",
+"comune": "Campegine",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"ferretti"
+],
+"primario": "ferretti"
+},
+{
+"slug": "cantina-mingazzini",
+"nome": "Cantina Mingazzini",
+"regione": "Emilia-Romagna",
+"comune": "Medicina",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"cantina-mingazzini"
+],
+"primario": "cantina-mingazzini"
+},
+{
+"slug": "loschi",
+"nome": "Loschi",
+"regione": "Emilia-Romagna",
+"comune": "Castell'Arquato",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"loschi"
+],
+"primario": "loschi"
+},
+{
+"slug": "fratelli-piacentini",
+"nome": "Fratelli Piacentini",
+"regione": "Emilia-Romagna",
+"comune": "Ziano Piacentino",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"fratelli-piacentini"
+],
+"primario": "fratelli-piacentini"
+},
+{
+"slug": "tenuta-colombarda",
+"nome": "Tenuta Colombarda",
+"regione": "Emilia-Romagna",
+"comune": "Cesena",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-colombarda"
+],
+"primario": "tenuta-colombarda"
+},
+{
+"slug": "ca-berti",
+"nome": "Ca 'Berti",
+"regione": "Emilia-Romagna",
+"comune": "Castelvetro di Modena",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"ca-berti"
+],
+"primario": "ca-berti"
+},
+{
+"slug": "tenuta-sant-aquilina",
+"nome": "Tenuta Sant'Aquilina",
+"regione": "Emilia-Romagna",
+"comune": "Rimini",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-sant-aquilina"
+],
+"primario": "tenuta-sant-aquilina"
+},
+{
+"slug": "tomisa",
+"nome": "Tomisa",
+"regione": "Emilia-Romagna",
+"comune": "San Lazzaro di Savena",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"tomisa"
+],
+"primario": "tomisa"
+},
+{
+"slug": "civardi-racemus",
+"nome": "Civardi Racemus",
+"regione": "Emilia-Romagna",
+"comune": "Ziano Piacentino",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"civardi-racemus"
+],
+"primario": "civardi-racemus"
+},
+{
+"slug": "podere-cervarola",
+"nome": "Podere Cervarola",
+"regione": "Emilia-Romagna",
+"comune": "Marano sul Panaro",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"podere-cervarola"
+],
+"primario": "podere-cervarola"
+},
+{
+"slug": "cantine-cerdelli",
+"nome": "Cantine Cerdelli",
+"regione": "Emilia-Romagna",
+"comune": "Langhirano",
+"tipi": {
+"colli-di-parma": [
+"Colli di Parma"
+]
+},
+"membri": [
+"cantine-cerdelli"
+],
+"primario": "cantine-cerdelli"
+},
+{
+"slug": "anonima-agricola-viticoltori-valsamoggia",
+"nome": "Anonima Agricola Viticoltori Valsamoggia",
+"regione": "Emilia-Romagna",
+"comune": "Valsamoggia",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"anonima-agricola-viticoltori-valsamoggia"
+],
+"primario": "anonima-agricola-viticoltori-valsamoggia"
+},
+{
+"slug": "bonfiglio",
+"nome": "Bonfiglio",
+"regione": "Emilia-Romagna",
+"comune": "Valsamoggia",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"bonfiglio"
+],
+"primario": "bonfiglio"
+},
+{
+"slug": "emilio",
+"nome": "Emilio",
+"regione": "Emilia-Romagna",
+"comune": "Castelvetro di Modena",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"emilio"
+],
+"primario": "emilio"
+},
+{
+"slug": "messori",
+"nome": "Messori",
+"regione": "Emilia-Romagna",
+"comune": "Sassuolo",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"messori"
+],
+"primario": "messori"
+},
+{
+"slug": "tenuta-carbognano",
+"nome": "Tenuta Carbognano",
+"regione": "Emilia-Romagna",
+"comune": "Gemmano",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-carbognano"
+],
+"primario": "tenuta-carbognano"
+},
+{
+"slug": "corte-san-ruffillo",
+"nome": "Corte San Ruffillo",
+"regione": "Emilia-Romagna",
+"comune": "Dovadola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"corte-san-ruffillo"
+],
+"primario": "corte-san-ruffillo"
+},
+{
+"slug": "tenute-venturini-foschi",
+"nome": "Tenute Venturini Foschi",
+"regione": "Emilia-Romagna",
+"comune": "Medesano",
+"tipi": {
+"colli-di-parma": [
+"Colli di Parma"
+]
+},
+"membri": [
+"tenute-venturini-foschi"
+],
+"primario": "tenute-venturini-foschi"
+},
+{
+"slug": "pian-dei-venti",
+"nome": "Pian dei Venti",
+"regione": "Emilia-Romagna",
+"comune": "Rimini",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"pian-dei-venti"
+],
+"primario": "pian-dei-venti"
+},
+{
+"slug": "pezzuoli",
+"nome": "Pezzuoli",
+"regione": "Emilia-Romagna",
+"comune": "Maranello",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"pezzuoli"
+],
+"primario": "pezzuoli"
+},
+{
+"slug": "cantina-il-glicine",
+"nome": "Cantina Il Glicine",
+"regione": "Emilia-Romagna",
+"comune": "Cesena",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"cantina-il-glicine"
+],
+"primario": "cantina-il-glicine"
+},
+{
+"slug": "gaiaschi",
+"nome": "Gaiaschi",
+"regione": "Emilia-Romagna",
+"comune": "Ziano Piacentino",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"gaiaschi"
+],
+"primario": "gaiaschi"
+},
+{
+"slug": "collina-dei-poeti",
+"nome": "Collina dei Poeti",
+"regione": "Emilia-Romagna",
+"comune": "Santarcangelo di Romagna",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"collina-dei-poeti"
+],
+"primario": "collina-dei-poeti"
+},
+{
+"slug": "castello-montesasso",
+"nome": "Castello Montesasso",
+"regione": "Emilia-Romagna",
+"comune": "Mercato Saraceno",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"castello-montesasso"
+],
+"primario": "castello-montesasso"
+},
+{
+"slug": "cantina-cortecchia",
+"nome": "Cantina Cortecchia",
+"regione": "Emilia-Romagna",
+"comune": "Castel Bolognese",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"cantina-cortecchia"
+],
+"primario": "cantina-cortecchia"
+},
+{
+"slug": "mongiusti",
+"nome": "Mongiusti",
+"regione": "Emilia-Romagna",
+"comune": "Rimini",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"mongiusti"
+],
+"primario": "mongiusti"
+},
+{
+"slug": "podere-gaiaschi",
+"nome": "Podere Gaiaschi",
+"regione": "Emilia-Romagna",
+"comune": "Alta Val Tidone",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"podere-gaiaschi"
+],
+"primario": "podere-gaiaschi"
+},
+{
+"slug": "terre-giunchi",
+"nome": "Terre Giunchi",
+"regione": "Emilia-Romagna",
+"comune": "Cesena",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"terre-giunchi"
+],
+"primario": "terre-giunchi"
+},
+{
+"slug": "camorali",
+"nome": "Camorali",
+"regione": "Emilia-Romagna",
+"comune": "Lugagnano Val d’Arda",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"camorali"
+],
+"primario": "camorali"
+},
+{
+"slug": "colli-del-cerreto",
+"nome": "Colli del Cerreto",
+"regione": "Emilia-Romagna",
+"comune": "Rimini",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"colli-del-cerreto"
+],
+"primario": "colli-del-cerreto"
+},
+{
+"slug": "quinzan",
+"nome": "Quinzan",
+"regione": "Emilia-Romagna",
+"comune": "Faenza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"quinzan"
+],
+"primario": "quinzan"
+},
+{
+"slug": "torre-del-marino",
+"nome": "Torre del Marino",
+"regione": "Emilia-Romagna",
+"comune": "Brisighella",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"torre-del-marino"
+],
+"primario": "torre-del-marino"
+},
+{
+"slug": "podere-francesco",
+"nome": "Podere Francesco",
+"regione": "Emilia-Romagna",
+"comune": "Novellara",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"podere-francesco"
+],
+"primario": "podere-francesco"
+},
+{
+"slug": "tenuta-bettozza",
+"nome": "Tenuta Bettozza",
+"regione": "Emilia-Romagna",
+"comune": "Sasso Marconi",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"tenuta-bettozza"
+],
+"primario": "tenuta-bettozza"
+},
+{
+"slug": "coste-di-borgo",
+"nome": "Coste di Borgo",
+"regione": "Emilia-Romagna",
+"comune": "Coriano",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"coste-di-borgo"
+],
+"primario": "coste-di-borgo"
+},
+{
+"slug": "mazzolani-biagi",
+"nome": "Mazzolani & Biagi",
+"regione": "Emilia-Romagna",
+"comune": "Dozza",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"mazzolani-biagi"
+],
+"primario": "mazzolani-biagi"
+},
+{
+"slug": "schiavetto",
+"nome": "Schiavetto",
+"regione": "Emilia-Romagna",
+"comune": "Carpaneto Piacentino",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"schiavetto"
+],
+"primario": "schiavetto"
+},
+{
+"slug": "il-ghizzo",
+"nome": "Il Ghizzo",
+"regione": "Emilia-Romagna",
+"comune": "Ponte dell'Olio",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"il-ghizzo"
+],
+"primario": "il-ghizzo"
+},
+{
+"slug": "sbarzaglia",
+"nome": "Sbarzaglia",
+"regione": "Emilia-Romagna",
+"comune": "Ravenna",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"sbarzaglia"
+],
+"primario": "sbarzaglia"
+},
+{
+"slug": "podere-ferraruola",
+"nome": "Podere Ferraruola",
+"regione": "Emilia-Romagna",
+"comune": "Dozza",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"podere-ferraruola"
+],
+"primario": "podere-ferraruola"
+},
+{
+"slug": "terre-ca-bindola",
+"nome": "Terre Cà Bindola",
+"regione": "Emilia-Romagna",
+"comune": "Riva del Po",
+"tipi": {
+"emilia": [
+"Emilia e Ferrarese"
+]
+},
+"membri": [
+"terre-ca-bindola"
+],
+"primario": "terre-ca-bindola"
+},
+{
+"slug": "macale",
+"nome": "Macale",
+"regione": "Emilia-Romagna",
+"comune": "Imola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"macale"
+],
+"primario": "macale"
+},
+{
+"slug": "il-pampino",
+"nome": "Il Pàmpino",
+"regione": "Emilia-Romagna",
+"comune": "Cesena",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"il-pampino"
+],
+"primario": "il-pampino"
+},
+{
+"slug": "bella-emilia",
+"nome": "Bella Emilia",
+"regione": "Emilia-Romagna",
+"comune": "Sassuolo",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"bella-emilia"
+],
+"primario": "bella-emilia"
+},
+{
+"slug": "fattorie-fioretti",
+"nome": "Fattorie Fioretti",
+"regione": "Emilia-Romagna",
+"comune": "Castello d'Argile",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"fattorie-fioretti"
+],
+"primario": "fattorie-fioretti"
+},
+{
+"slug": "podere-beghetto",
+"nome": "Podere Beghetto",
+"regione": "Emilia-Romagna",
+"comune": "Carpi",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"podere-beghetto"
+],
+"primario": "podere-beghetto"
+},
+{
+"slug": "pianderna",
+"nome": "Pianderna",
+"regione": "Emilia-Romagna",
+"comune": "Scandiano",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"pianderna"
+],
+"primario": "pianderna"
+},
+{
+"slug": "cantina-ferraretti",
+"nome": "Cantina Ferraretti",
+"regione": "Emilia-Romagna",
+"comune": "Spilamberto",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"cantina-ferraretti"
+],
+"primario": "cantina-ferraretti"
+},
+{
+"slug": "le-antighe",
+"nome": "Le Antighe",
+"regione": "Emilia-Romagna",
+"comune": "Fidenza",
+"tipi": {
+"colli-di-parma": [
+"Colli di Parma"
+]
+},
+"membri": [
+"le-antighe"
+],
+"primario": "le-antighe"
+},
+{
+"slug": "azienda-agricola-fondo-grande",
+"nome": "Azienda Agricola Fondo Grande",
+"regione": "Emilia-Romagna",
+"comune": "Calderara di Reno",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"azienda-agricola-fondo-grande"
+],
+"primario": "azienda-agricola-fondo-grande"
+},
+{
+"slug": "societa-agricola-val-testa",
+"nome": "Società Agricola Val Testa",
+"regione": "Emilia-Romagna",
+"comune": "Argenta",
+"tipi": {
+"emilia": [
+"Emilia e Ferrarese"
+]
+},
+"membri": [
+"societa-agricola-val-testa"
+],
+"primario": "societa-agricola-val-testa"
+},
+{
+"slug": "cantina-renzo-zanasi",
+"nome": "Cantina Renzo Zanasi",
+"regione": "Emilia-Romagna",
+"comune": "Spilamberto",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"cantina-renzo-zanasi"
+],
+"primario": "cantina-renzo-zanasi"
+},
+{
+"slug": "tenuta-la-bertuzza",
+"nome": "Tenuta la Bertuzza",
+"regione": "Emilia-Romagna",
+"comune": "Castell'Arquato",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"tenuta-la-bertuzza"
+],
+"primario": "tenuta-la-bertuzza"
+},
+{
+"slug": "dalfiume-nobilvini",
+"nome": "Dalfiume Nobilvini",
+"regione": "Emilia-Romagna",
+"comune": "Castel San Pietro Terme",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"dalfiume-nobilvini"
+],
+"primario": "dalfiume-nobilvini"
+},
+{
+"slug": "il-farneto",
+"nome": "Il Farneto",
+"regione": "Emilia-Romagna",
+"comune": "Castellarano",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"il-farneto"
+],
+"primario": "il-farneto"
+},
+{
+"slug": "medici-ermete",
+"nome": "Medici Ermete",
+"regione": "Emilia-Romagna",
+"comune": "Reggio nell'Emilia",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"medici-ermete"
+],
+"primario": "medici-ermete"
+},
+{
+"slug": "croci",
+"nome": "Croci",
+"regione": "Emilia-Romagna",
+"comune": "Castell'Arquato",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"croci"
+],
+"primario": "croci"
+},
+{
+"slug": "gavioli-antica",
+"nome": "Gavioli Antica",
+"regione": "Emilia-Romagna",
+"comune": "Nonantola",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"gavioli-antica"
+],
+"primario": "gavioli-antica"
+},
+{
+"slug": "manaresi",
+"nome": "Manaresi",
+"regione": "Emilia-Romagna",
+"comune": "Zola Predosa",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"manaresi"
+],
+"primario": "manaresi"
+},
+{
+"slug": "gualtieri",
+"nome": "Gualtieri",
+"regione": "Emilia-Romagna",
+"comune": "Gualtieri",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"gualtieri"
+],
+"primario": "gualtieri"
+},
+{
+"slug": "bertolani",
+"nome": "Bertolani",
+"regione": "Emilia-Romagna",
+"comune": "Scandiano",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"bertolani"
+],
+"primario": "bertolani"
+},
+{
+"slug": "tenuta-s-lucia",
+"nome": "Tenuta S. Lucia",
+"regione": "Emilia-Romagna",
+"comune": "Mercato Saraceno",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-s-lucia"
+],
+"primario": "tenuta-s-lucia"
+},
+{
+"slug": "bulli",
+"nome": "Bulli",
+"regione": "Emilia-Romagna",
+"comune": "Castell'Arquato",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"bulli"
+],
+"primario": "bulli"
+},
+{
+"slug": "perini-perini",
+"nome": "Perini & Perini",
+"regione": "Emilia-Romagna",
+"comune": "Piacenza",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"perini-perini"
+],
+"primario": "perini-perini"
+},
+{
+"slug": "santacroce",
+"nome": "Santacroce",
+"regione": "Emilia-Romagna",
+"comune": "Carpi",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"santacroce"
+],
+"primario": "santacroce"
+},
+{
+"slug": "vallona",
+"nome": "Vallona",
+"regione": "Emilia-Romagna",
+"comune": "Valsamoggia",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"vallona"
+],
+"primario": "vallona"
+},
+{
+"slug": "isola",
+"nome": "Isola",
+"regione": "Emilia-Romagna",
+"comune": "Monte San Pietro",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"isola"
+],
+"primario": "isola"
+},
+{
+"slug": "zucchi",
+"nome": "Zucchi",
+"regione": "Emilia-Romagna",
+"comune": "San Prospero",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"zucchi"
+],
+"primario": "zucchi"
+},
+{
+"slug": "la-battagliola",
+"nome": "La Battagliola",
+"regione": "Emilia-Romagna",
+"comune": "Bologna",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"la-battagliola"
+],
+"primario": "la-battagliola"
+},
+{
+"slug": "mattarelli",
+"nome": "Mattarelli",
+"regione": "Emilia-Romagna",
+"comune": "Vigarano Mainarda",
+"tipi": {
+"emilia": [
+"Emilia e Ferrarese"
+]
+},
+"membri": [
+"mattarelli"
+],
+"primario": "mattarelli"
+},
+{
+"slug": "cavalli",
+"nome": "Cavalli",
+"regione": "Emilia-Romagna",
+"comune": "Bagnara di Romagna",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"cavalli"
+],
+"primario": "cavalli"
+},
+{
+"slug": "montesissa",
+"nome": "Montesissa",
+"regione": "Emilia-Romagna",
+"comune": "Carpaneto Piacentino",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"montesissa"
+],
+"primario": "montesissa"
+},
+{
+"slug": "morara",
+"nome": "Morara",
+"regione": "Emilia-Romagna",
+"comune": "Imola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"morara"
+],
+"primario": "morara"
+},
+{
+"slug": "benincasa",
+"nome": "Benincasa",
+"regione": "Emilia-Romagna",
+"comune": "Fiorano Modenese",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"benincasa"
+],
+"primario": "benincasa"
+},
+{
+"slug": "il-rintocco",
+"nome": "Il Rintocco",
+"regione": "Emilia-Romagna",
+"comune": "Vernasca",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"il-rintocco"
+],
+"primario": "il-rintocco"
+},
+{
+"slug": "la-ciocca",
+"nome": "La Ciocca",
+"regione": "Emilia-Romagna",
+"comune": "Carpaneto Piacentino",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"la-ciocca"
+],
+"primario": "la-ciocca"
+},
+{
+"slug": "tenuta-santa-cecilia-alla-croara",
+"nome": "Tenuta Santa Cecilia alla Croara",
+"regione": "Emilia-Romagna",
+"comune": "San Lazzaro di Savena",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"tenuta-santa-cecilia-alla-croara"
+],
+"primario": "tenuta-santa-cecilia-alla-croara"
+},
+{
+"slug": "pedroni",
+"nome": "Pedroni",
+"regione": "Emilia-Romagna",
+"comune": "Nonantola",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"pedroni"
+],
+"primario": "pedroni"
+},
+{
+"slug": "poggio-pollino",
+"nome": "Poggio Pollino",
+"regione": "Emilia-Romagna",
+"comune": "Imola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"poggio-pollino"
+],
+"primario": "poggio-pollino"
+},
+{
+"slug": "rapata",
+"nome": "Rapata",
+"regione": "Emilia-Romagna",
+"comune": "Ravenna",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"rapata"
+],
+"primario": "rapata"
+},
+{
+"slug": "formaggini-peveri",
+"nome": "Formaggini Peveri",
+"regione": "Emilia-Romagna",
+"comune": "Ziano Piacentino",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"formaggini-peveri"
+],
+"primario": "formaggini-peveri"
+},
+{
+"slug": "galvana",
+"nome": "Galvana",
+"regione": "Emilia-Romagna",
+"comune": "Castelvetro di Modena",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"galvana"
+],
+"primario": "galvana"
+},
+{
+"slug": "flenghi",
+"nome": "Flenghi",
+"regione": "Emilia-Romagna",
+"comune": "Novafeltria",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"flenghi"
+],
+"primario": "flenghi"
+},
+{
+"slug": "savini",
+"nome": "Savini",
+"regione": "Emilia-Romagna",
+"comune": "Ziano Piacentino",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"savini"
+],
+"primario": "savini"
+},
+{
+"slug": "quadalti",
+"nome": "Quadalti",
+"regione": "Emilia-Romagna",
+"comune": "Riolo Terme",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"quadalti"
+],
+"primario": "quadalti"
+},
+{
+"slug": "albertini-carlo",
+"nome": "Albertini Carlo",
+"regione": "Emilia-Romagna",
+"comune": "Pianello Val Tidone",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"albertini-carlo"
+],
+"primario": "albertini-carlo"
+},
+{
+"slug": "ca-ragni",
+"nome": "Ca Ragni",
+"regione": "Emilia-Romagna",
+"comune": "San Clemente",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"ca-ragni"
+],
+"primario": "ca-ragni"
+},
+{
+"slug": "luigi-galeotti",
+"nome": "Luigi Galeotti",
+"regione": "Emilia-Romagna",
+"comune": "Reggio nell'Emilia",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"luigi-galeotti"
+],
+"primario": "luigi-galeotti"
+},
+{
+"slug": "maletti",
+"nome": "Maletti",
+"regione": "Emilia-Romagna",
+"comune": "Castelnuovo Rangone",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"maletti"
+],
+"primario": "maletti"
+},
+{
+"slug": "oppizzi",
+"nome": "Oppizzi",
+"regione": "Emilia-Romagna",
+"comune": "Pianello Val Tidone",
+"tipi": {
+"colli-piacentini": [
+"Colli Piacentini"
+]
+},
+"membri": [
+"oppizzi"
+],
+"primario": "oppizzi"
+},
+{
+"slug": "ravagli",
+"nome": "Ravagli",
+"regione": "Emilia-Romagna",
+"comune": "Ravenna",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"ravagli"
+],
+"primario": "ravagli"
+},
+{
+"slug": "terrerosse",
+"nome": "Terrerosse",
+"regione": "Emilia-Romagna",
+"comune": "Zola Predosa",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"terrerosse"
+],
+"primario": "terrerosse"
+},
+{
+"slug": "villa-zarri",
+"nome": "Villa Zarri",
+"regione": "Emilia-Romagna",
+"comune": "Castel Maggiore",
+"tipi": {
+"colli-bolognesi": [
+"Colli Bolognesi"
+]
+},
+"membri": [
+"villa-zarri"
+],
+"primario": "villa-zarri"
+},
+{
+"slug": "villa-bianca",
+"nome": "Villa Bianca",
+"regione": "Emilia-Romagna",
+"comune": "Modena",
+"tipi": {
+"lambrusco": [
+"Lambrusco"
+]
+},
+"membri": [
+"villa-bianca"
+],
+"primario": "villa-bianca"
+},
+{
+"slug": "mordini",
+"nome": "Mordini",
+"regione": "Emilia-Romagna",
+"comune": "Riolo Terme",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"mordini"
+],
+"primario": "mordini"
+},
+{
+"slug": "vignoli",
+"nome": "Vignoli",
+"regione": "Emilia-Romagna",
+"comune": "Forlì",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"vignoli"
+],
+"primario": "vignoli"
+},
+{
+"slug": "vini-de-mastro",
+"nome": "Vini De Mastro",
+"regione": "Emilia-Romagna",
+"comune": "Forlì",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"vini-de-mastro"
+],
+"primario": "vini-de-mastro"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
@@ -89778,5 +92028,725 @@
 "white-oak"
 ],
 "primario": "white-oak"
+},
+{
+"slug": "agricola-bagnara",
+"nome": "Agricola Bagnara",
+"regione": "Emilia-Romagna",
+"comune": "Bagnara di Romagna",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"agricola-bagnara"
+],
+"primario": "agricola-bagnara"
+},
+{
+"slug": "agrivar",
+"nome": "Agrivar",
+"regione": "Emilia-Romagna",
+"comune": "Castel San Pietro Terme",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"agrivar"
+],
+"primario": "agrivar"
+},
+{
+"slug": "amaracmand",
+"nome": "Amaracmand",
+"regione": "Emilia-Romagna",
+"comune": "Roncofreddo",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"amaracmand"
+],
+"primario": "amaracmand"
+},
+{
+"slug": "podere-baratta",
+"nome": "Podere Baratta",
+"regione": "Emilia-Romagna",
+"comune": "Bertinoro",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"podere-baratta"
+],
+"primario": "podere-baratta"
+},
+{
+"slug": "fiorentini-vini",
+"nome": "Fiorentini Vini",
+"regione": "Emilia-Romagna",
+"comune": "Castrocaro Terme e Terra del Sole",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"fiorentini-vini"
+],
+"primario": "fiorentini-vini"
+},
+{
+"slug": "bandini-marco",
+"nome": "Bandini Marco",
+"regione": "Emilia-Romagna",
+"comune": "Castel Bolognese",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"bandini-marco"
+],
+"primario": "bandini-marco"
+},
+{
+"slug": "branchini",
+"nome": "Branchini",
+"regione": "Emilia-Romagna",
+"comune": "Dozza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"branchini"
+],
+"primario": "branchini"
+},
+{
+"slug": "bulzaga",
+"nome": "Bulzaga",
+"regione": "Emilia-Romagna",
+"comune": "Faenza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"bulzaga"
+],
+"primario": "bulzaga"
+},
+{
+"slug": "ca-bruciata",
+"nome": "Ca’ bruciata",
+"regione": "Emilia-Romagna",
+"comune": "Imola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"ca-bruciata"
+],
+"primario": "ca-bruciata"
+},
+{
+"slug": "caviro",
+"nome": "Caviro",
+"regione": "Emilia-Romagna",
+"comune": "Faenza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"caviro"
+],
+"primario": "caviro"
+},
+{
+"slug": "cantina-forli-predappio",
+"nome": "Cantina Forlì – Predappio",
+"regione": "Emilia-Romagna",
+"comune": "Forlì",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"cantina-forli-predappio"
+],
+"primario": "cantina-forli-predappio"
+},
+{
+"slug": "case-marcosanti",
+"nome": "Case Marcosanti",
+"regione": "Emilia-Romagna",
+"comune": "Poggio Torriana",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"case-marcosanti"
+],
+"primario": "case-marcosanti"
+},
+{
+"slug": "la-casetta-dei-frati",
+"nome": "La Casetta dei frati",
+"regione": "Emilia-Romagna",
+"comune": "Modigliana",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"la-casetta-dei-frati"
+],
+"primario": "la-casetta-dei-frati"
+},
+{
+"slug": "casadei-claudio",
+"nome": "Casadei Claudio",
+"regione": "Emilia-Romagna",
+"comune": "Predappio",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"casadei-claudio"
+],
+"primario": "casadei-claudio"
+},
+{
+"slug": "eredi-fabri-guarini-cosimo",
+"nome": "Eredi Fabri Guarini Cosimo",
+"regione": "Emilia-Romagna",
+"comune": "Bertinoro",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"eredi-fabri-guarini-cosimo"
+],
+"primario": "eredi-fabri-guarini-cosimo"
+},
+{
+"slug": "fattoria-paradiso",
+"nome": "Fattoria Paradiso",
+"regione": "Emilia-Romagna",
+"comune": "Bertinoro",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"fattoria-paradiso"
+],
+"primario": "fattoria-paradiso"
+},
+{
+"slug": "ferrucci-stefano",
+"nome": "Ferrucci Stefano",
+"regione": "Emilia-Romagna",
+"comune": "Castel Bolognese",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"ferrucci-stefano"
+],
+"primario": "ferrucci-stefano"
+},
+{
+"slug": "frascineti-maurizio",
+"nome": "Frascineti Maurizio",
+"regione": "Emilia-Romagna",
+"comune": "Imola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"frascineti-maurizio"
+],
+"primario": "frascineti-maurizio"
+},
+{
+"slug": "gallegati",
+"nome": "Gallegati",
+"regione": "Emilia-Romagna",
+"comune": "Faenza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"gallegati"
+],
+"primario": "gallegati"
+},
+{
+"slug": "palazzona-di-maggio",
+"nome": "Palazzona di Maggio",
+"regione": "Emilia-Romagna",
+"comune": "Ozzano dell'Emilia",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"palazzona-di-maggio"
+],
+"primario": "palazzona-di-maggio"
+},
+{
+"slug": "i-sabbioni",
+"nome": "I Sabbioni",
+"regione": "Emilia-Romagna",
+"comune": "Forlì",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"i-sabbioni"
+],
+"primario": "i-sabbioni"
+},
+{
+"slug": "la-collina-del-tesoro",
+"nome": "La Collina del Tesoro",
+"regione": "Emilia-Romagna",
+"comune": "Forlì",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"la-collina-del-tesoro"
+],
+"primario": "la-collina-del-tesoro"
+},
+{
+"slug": "lanzoni-valter",
+"nome": "Lanzoni Valter",
+"regione": "Emilia-Romagna",
+"comune": "Imola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"lanzoni-valter"
+],
+"primario": "lanzoni-valter"
+},
+{
+"slug": "sadivino",
+"nome": "Sadivino",
+"regione": "Emilia-Romagna",
+"comune": "Predappio",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"sadivino"
+],
+"primario": "sadivino"
+},
+{
+"slug": "podere-la-berta",
+"nome": "Podere la Berta",
+"regione": "Emilia-Romagna",
+"comune": "Brisighella",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"podere-la-berta"
+],
+"primario": "podere-la-berta"
+},
+{
+"slug": "poderi-delle-rocche",
+"nome": "Poderi delle Rocche",
+"regione": "Emilia-Romagna",
+"comune": "Dozza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"poderi-delle-rocche"
+],
+"primario": "poderi-delle-rocche"
+},
+{
+"slug": "ronchi-di-castelluccio-poggio-della-dogana",
+"nome": "Ronchi di Castelluccio Poggio della Dogana",
+"regione": "Emilia-Romagna",
+"comune": "Castrocaro Terme e Terra del Sole",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"ronchi-di-castelluccio-poggio-della-dogana"
+],
+"primario": "ronchi-di-castelluccio-poggio-della-dogana"
+},
+{
+"slug": "poletti-casa-vinicola",
+"nome": "Poletti Casa Vinicola",
+"regione": "Emilia-Romagna",
+"comune": "Imola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"poletti-casa-vinicola"
+],
+"primario": "poletti-casa-vinicola"
+},
+{
+"slug": "randi",
+"nome": "Randi",
+"regione": "Emilia-Romagna",
+"comune": "Fusignano",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"randi"
+],
+"primario": "randi"
+},
+{
+"slug": "poderi-del-nazareno",
+"nome": "Poderi del Nazareno",
+"regione": "Emilia-Romagna",
+"comune": "Faenza",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"poderi-del-nazareno"
+],
+"primario": "poderi-del-nazareno"
+},
+{
+"slug": "rontana",
+"nome": "Rontana",
+"regione": "Emilia-Romagna",
+"comune": "Brisighella",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"rontana"
+],
+"primario": "rontana"
+},
+{
+"slug": "san-patrignano",
+"nome": "San Patrignano",
+"regione": "Emilia-Romagna",
+"comune": "Coriano",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"san-patrignano"
+],
+"primario": "san-patrignano"
+},
+{
+"slug": "tenuta-santini",
+"nome": "Tenuta Santini",
+"regione": "Emilia-Romagna",
+"comune": "Coriano",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-santini"
+],
+"primario": "tenuta-santini"
+},
+{
+"slug": "tozzi",
+"nome": "Tozzi",
+"regione": "Emilia-Romagna",
+"comune": "Casola Valsenio",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tozzi"
+],
+"primario": "tozzi"
+},
+{
+"slug": "tenuta-ca-lunga",
+"nome": "Tenuta Cà Lunga",
+"regione": "Emilia-Romagna",
+"comune": "Imola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-ca-lunga"
+],
+"primario": "tenuta-ca-lunga"
+},
+{
+"slug": "tenuta-la-viola",
+"nome": "Tenuta la Viola",
+"regione": "Emilia-Romagna",
+"comune": "Bertinoro",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-la-viola"
+],
+"primario": "tenuta-la-viola"
+},
+{
+"slug": "tenuta-piccolo-brunelli",
+"nome": "Tenuta Piccolo Brunelli",
+"regione": "Emilia-Romagna",
+"comune": "Galeata",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-piccolo-brunelli"
+],
+"primario": "tenuta-piccolo-brunelli"
+},
+{
+"slug": "tenuta-villa-trentola",
+"nome": "Tenuta Villa Trentola",
+"regione": "Emilia-Romagna",
+"comune": "Bertinoro",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-villa-trentola"
+],
+"primario": "tenuta-villa-trentola"
+},
+{
+"slug": "villa-liverzano",
+"nome": "Villa Liverzano",
+"regione": "Emilia-Romagna",
+"comune": "Brisighella",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"villa-liverzano"
+],
+"primario": "villa-liverzano"
+},
+{
+"slug": "villa-papiano",
+"nome": "Villa Papiano",
+"regione": "Emilia-Romagna",
+"comune": "Modigliana",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"villa-papiano"
+],
+"primario": "villa-papiano"
+},
+{
+"slug": "villa-venti",
+"nome": "Villa Venti",
+"regione": "Emilia-Romagna",
+"comune": "Roncofreddo",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"villa-venti"
+],
+"primario": "villa-venti"
+},
+{
+"slug": "zanetti-protonotari-campi",
+"nome": "Zanetti Protonotari Campi",
+"regione": "Emilia-Romagna",
+"comune": "Predappio",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"zanetti-protonotari-campi"
+],
+"primario": "zanetti-protonotari-campi"
+},
+{
+"slug": "ca-di-rico",
+"nome": "Ca’ di Rico",
+"regione": "Emilia-Romagna",
+"comune": "Predappio",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"ca-di-rico"
+],
+"primario": "ca-di-rico"
+},
+{
+"slug": "cavim-cantina-viticoltori-imolesi",
+"nome": "CAVIM – Cantina viticoltori imolesi",
+"regione": "Emilia-Romagna",
+"comune": "Imola",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"cavim-cantina-viticoltori-imolesi"
+],
+"primario": "cavim-cantina-viticoltori-imolesi"
+},
+{
+"slug": "fattoria-del-piccione",
+"nome": "Fattoria del Piccione",
+"regione": "Emilia-Romagna",
+"comune": "Montescudo-Monte Colombo",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"fattoria-del-piccione"
+],
+"primario": "fattoria-del-piccione"
+},
+{
+"slug": "pandolfa-noelia-ricci",
+"nome": "Pandolfa – Noelia Ricci",
+"regione": "Emilia-Romagna",
+"comune": "Predappio",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"pandolfa-noelia-ricci"
+],
+"primario": "pandolfa-noelia-ricci"
+},
+{
+"slug": "missiroli-giovanna",
+"nome": "Missiroli Giovanna",
+"regione": "Emilia-Romagna",
+"comune": "Civitella di Romagna",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"missiroli-giovanna"
+],
+"primario": "missiroli-giovanna"
+},
+{
+"slug": "tenuta-saiano",
+"nome": "Tenuta Saiano",
+"regione": "Emilia-Romagna",
+"comune": "Poggio Torriana",
+"tipi": {
+"romagna": [
+"Romagna"
+]
+},
+"membri": [
+"tenuta-saiano"
+],
+"primario": "tenuta-saiano"
 }
 ]

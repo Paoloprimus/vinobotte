@@ -1,0 +1,46 @@
+{
+ "nome": "Villa Venti",
+ "slug": "villa-venti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Doccia, 1442, 47020 Roncofreddo (FC) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0541 949.532 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@villaventi.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.villaventi.it|villaventi.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.villaventi.it",
+   "etichetta": "villaventi.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 5 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/villa-venti/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

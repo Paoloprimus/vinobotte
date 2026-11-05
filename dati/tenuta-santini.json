@@ -1,0 +1,46 @@
+{
+ "nome": "Tenuta Santini",
+ "slug": "tenuta-santini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Campo, 33, 47853 Coriano (RN) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0541 656527 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutasantini.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutasantini.com|tenutasantini.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.tenutasantini.com",
+   "etichetta": "tenutasantini.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 5 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/santini/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

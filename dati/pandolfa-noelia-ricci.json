@@ -1,0 +1,46 @@
+{
+ "nome": "Pandolfa – Noelia Ricci",
+ "slug": "pandolfa-noelia-ricci",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Pandolfa 35, 47016 Predappio (FC) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0543 940073 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@pandolfa.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://pandolfa.it|pandolfa.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://pandolfa.it",
+   "etichetta": "pandolfa.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 5 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/la-pandolfa/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

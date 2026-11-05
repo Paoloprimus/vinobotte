@@ -1,0 +1,42 @@
+{
+ "nome": "Palazzona di Maggio",
+ "slug": "palazzona-di-maggio",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Panzacchi, 16, 40064 Ozzano dell'Emilia (BO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 335 397030 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.palazzonadimaggio.it|palazzonadimaggio.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.palazzonadimaggio.it",
+   "etichetta": "palazzonadimaggio.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 5 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/i-n-s-i-a-srl-tenuta-la-palazzona-di-maggio/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

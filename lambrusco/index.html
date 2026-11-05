@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Lambrusco (Modena e Reggio Emilia) — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Lambrusco (Modena e Reggio Emilia)</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Lambrusco (Modena e Reggio Emilia)</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Azienda Agricola Castelvetro","s":"azienda-agricola-castelvetro","c":"Castelvetro di Modena","d":["Lambrusco"]},{"n":"Azienda Agricola Cavaliera","s":"azienda-agricola-cavaliera","c":"Castelvetro di Modena","d":["Lambrusco"]},{"n":"Bella Emilia","s":"bella-emilia","c":"Sassuolo","d":["Lambrusco"]},{"n":"Benincasa","s":"benincasa","c":"Fiorano Modenese","d":["Lambrusco"]},{"n":"Bertolani","s":"bertolani","c":"Scandiano","d":["Lambrusco"]},{"n":"Ca 'Berti","s":"ca-berti","c":"Castelvetro di Modena","d":["Lambrusco"]},{"n":"Cantina Bassoli","s":"cantina-bassoli","c":"Carpi","d":["Lambrusco"]},{"n":"Cantina di Soliera","s":"cantina-di-soliera","c":"Campogalliano","d":["Lambrusco"]},{"n":"Cantina Fantesini","s":"cantina-fantesini","c":"Bibbiano","d":["Lambrusco"]},{"n":"Cantina Ferraretti","s":"cantina-ferraretti","c":"Spilamberto","d":["Lambrusco"]},{"n":"Cantina Renzo Zanasi","s":"cantina-renzo-zanasi","c":"Spilamberto","d":["Lambrusco"]},{"n":"Cantina Valsamoggia","s":"cantina-valsamoggia","c":"Carpi","d":["Lambrusco"]},{"n":"Cleto Chiarli","s":"cleto-chiarli","c":"Modena","d":["Lambrusco"]},{"n":"Donelli","s":"donelli","c":"Gattatico","d":["Lambrusco"]},{"n":"Emilio","s":"emilio","c":"Castelvetro di Modena","d":["Lambrusco"]},{"n":"F.lli Bellei","s":"f-lli-bellei","c":"Ravarino","d":["Lambrusco"]},{"n":"Fattoria Moretto","s":"fattoria-moretto","c":"Castelvetro di Modena","d":["Lambrusco"]},{"n":"Ferretti","s":"ferretti","c":"Campegine","d":["Lambrusco"]},{"n":"Francesco Vezzelli","s":"francesco-vezzelli","c":"Modena","d":["Lambrusco"]},{"n":"Franchina e Giarone","s":"franchina-e-giarone","c":"Formigine","d":["Lambrusco"]},{"n":"Galvana","s":"galvana","c":"Castelvetro di Modena","d":["Lambrusco"]},{"n":"Gavioli Antica","s":"gavioli-antica","c":"Nonantola","d":["Lambrusco"]},{"n":"Giacobazzi","s":"giacobazzi","c":"Modena","d":["Lambrusco"]},{"n":"Gualtieri","s":"gualtieri","c":"Gualtieri","d":["Lambrusco"]},{"n":"Il Farneto","s":"il-farneto","c":"Castellarano","d":["Lambrusco"]},{"n":"Le Barbaterre","s":"le-barbaterre","c":"Quattro Castella","d":["Lambrusco"]},{"n":"Lini 910","s":"lini-910","c":"Correggio","d":["Lambrusco"]},{"n":"Lombardini","s":"lombardini","c":"Novellara","d":["Lambrusco"]},{"n":"Luigi Galeotti","s":"luigi-galeotti","c":"Reggio nell'Emilia","d":["Lambrusco"]},{"n":"Lusvardi","s":"lusvardi","c":"San Martino in Rio","d":["Lambrusco"]},{"n":"Maletti","s":"maletti","c":"Castelnuovo Rangone","d":["Lambrusco"]},{"n":"Maranello","s":"maranello","c":"Modena","d":["Lambrusco"]},{"n":"Marchesi di Ravarino","s":"marchesi-di-ravarino","c":"Ravarino","d":["Lambrusco"]},{"n":"Medici Ermete","s":"medici-ermete","c":"Reggio nell'Emilia","d":["Lambrusco"]},{"n":"Messori","s":"messori","c":"Sassuolo","d":["Lambrusco"]},{"n":"Pedroni","s":"pedroni","c":"Nonantola","d":["Lambrusco"]},{"n":"Pezzuoli","s":"pezzuoli","c":"Maranello","d":["Lambrusco"]},{"n":"Pianderna","s":"pianderna","c":"Scandiano","d":["Lambrusco"]},{"n":"Podere Beghetto","s":"podere-beghetto","c":"Carpi","d":["Lambrusco"]},{"n":"Podere Cervarola","s":"podere-cervarola","c":"Marano sul Panaro","d":["Lambrusco"]},{"n":"Podere Francesco","s":"podere-francesco","c":"Novellara","d":["Lambrusco"]},{"n":"Podere Il Saliceto","s":"podere-il-saliceto","c":"Campogalliano","d":["Lambrusco"]},{"n":"Podere Sottoilnoce","s":"podere-sottoilnoce","c":"Modena","d":["Lambrusco"]},{"n":"Rinaldini","s":"rinaldini","c":"Sant'Ilario d'Enza","d":["Lambrusco"]},{"n":"Riunite","s":"riunite","c":"Campegine","d":["Lambrusco"]},{"n":"Santacroce","s":"santacroce","c":"Carpi","d":["Lambrusco"]},{"n":"Storchi","s":"storchi","c":"Montecchio Emilia","d":["Lambrusco"]},{"n":"TerraQuilia","s":"terraquilia","c":"Guiglia","d":["Lambrusco"]},{"n":"Ventiventi","s":"ventiventi","c":"Medolla","d":["Lambrusco"]},{"n":"Villa Bianca","s":"villa-bianca","c":"Modena","d":["Lambrusco"]},{"n":"Villa di Corlo","s":"villa-di-corlo","c":"Modena","d":["Lambrusco"]},{"n":"Vini Zanasi","s":"vini-zanasi","c":"Castelnuovo Rangone","d":["Lambrusco"]},{"n":"Zucchi","s":"zucchi","c":"San Prospero","d":["Lambrusco"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    

@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Colli Bolognesi e Pignoletto — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Colli Bolognesi e Pignoletto</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Colli Bolognesi e Pignoletto</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Anonima Agricola Viticoltori Valsamoggia","s":"anonima-agricola-viticoltori-valsamoggia","c":"Valsamoggia","d":["Colli Bolognesi"]},{"n":"Azienda Agricola Fondo Grande","s":"azienda-agricola-fondo-grande","c":"Calderara di Reno","d":["Colli Bolognesi"]},{"n":"Bonfiglio","s":"bonfiglio","c":"Valsamoggia","d":["Colli Bolognesi"]},{"n":"Caccianemici","s":"caccianemici","c":"Sasso Marconi","d":["Colli Bolognesi"]},{"n":"Fattorie Fioretti","s":"fattorie-fioretti","c":"Castello d'Argile","d":["Colli Bolognesi"]},{"n":"Isola","s":"isola","c":"Monte San Pietro","d":["Colli Bolognesi"]},{"n":"La Battagliola","s":"la-battagliola","c":"Bologna","d":["Colli Bolognesi"]},{"n":"Lodi Corazza","s":"lodi-corazza","c":"Zola Predosa","d":["Colli Bolognesi"]},{"n":"Manaresi","s":"manaresi","c":"Zola Predosa","d":["Colli Bolognesi"]},{"n":"Mazzolani & Biagi","s":"mazzolani-biagi","c":"Dozza","d":["Colli Bolognesi"]},{"n":"Montevecchio Isolani","s":"montevecchio-isolani","c":"Monte San Pietro","d":["Colli Bolognesi"]},{"n":"Podere Ferraruola","s":"podere-ferraruola","c":"Dozza","d":["Colli Bolognesi"]},{"n":"Tenuta Bettozza","s":"tenuta-bettozza","c":"Sasso Marconi","d":["Colli Bolognesi"]},{"n":"Tenuta Bonzara","s":"tenuta-bonzara","c":"Monte San Pietro","d":["Colli Bolognesi"]},{"n":"Tenuta La Riva","s":"tenuta-la-riva","c":"Castello d'Argile","d":["Colli Bolognesi"]},{"n":"Tenuta Santa Cecilia alla Croara","s":"tenuta-santa-cecilia-alla-croara","c":"San Lazzaro di Savena","d":["Colli Bolognesi"]},{"n":"Terrerosse","s":"terrerosse","c":"Zola Predosa","d":["Colli Bolognesi"]},{"n":"Tomisa","s":"tomisa","c":"San Lazzaro di Savena","d":["Colli Bolognesi"]},{"n":"Vallona","s":"vallona","c":"Valsamoggia","d":["Colli Bolognesi"]},{"n":"Villa Zarri","s":"villa-zarri","c":"Castel Maggiore","d":["Colli Bolognesi"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    

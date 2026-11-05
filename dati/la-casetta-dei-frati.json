@@ -1,0 +1,42 @@
+{
+ "nome": "La Casetta dei frati",
+ "slug": "la-casetta-dei-frati",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Dei Frati, 8, 47015 Modigliana (FC) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0546 940628 [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.casettadeifrati.com|casettadeifrati.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini di Romagna [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.casettadeifrati.com",
+   "etichetta": "casettadeifrati.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Vini di Romagna, consultato il 5 novembre 2026.",
+   "url": "https://www.consorziovinidiromagna.it/cantina/casetta-dei-frati/",
+   "etichetta": "consorziovinidiromagna.it"
+  }
+ ]
+}

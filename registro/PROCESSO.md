@@ -248,3 +248,12 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 117 — Abruzzo chiuso
 - Registro `abruzzo-chiusura.md`; `stato-consorzi.csv` riga 15. Abruzzo 235; guida 5.672. Aggiunto il registro unico `cantine-scartate.csv` (sul Mac, fuori dal sito), da rigenerare a ogni regione con `registro_scartate.py`.
+
+## 118 — Emilia-Romagna: consorzio Romagna completo
+- Elenco di 120 soci letto per intero con schede: +48 schede (sede, telefono, sito dal consorzio).
+
+## 119 — Emilia-Romagna: Vivino
+- Scaricato Vivino (2.081); 726 candidate non in guida; sito 326; sede 153; +150 nuove schede. Cinque pagine nuove (Lambrusco, Colli Piacentini, Colli di Parma, Colli Bolognesi, Emilia e Ferrarese), per provincia di sede.
+
+## 120 — Emilia-Romagna chiusa
+- Registro `emilia-romagna-chiusura.md`; `stato-consorzi.csv` righe 20, 24, 25, 33, 136. Emilia-Romagna 255; guida 5.870.

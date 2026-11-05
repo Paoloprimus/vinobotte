@@ -470,5 +470,25 @@
  "villamagna": [
   "Produttori vini Villamagna",
   "<option>Villamagna</option>"
+ ],
+ "lambrusco": [
+  "Produttori vini Lambrusco (Modena e Reggio Emilia)",
+  "<option>Lambrusco (Modena e Reggio Emilia)</option>"
+ ],
+ "colli-piacentini": [
+  "Produttori vini Colli Piacentini",
+  "<option>Colli Piacentini</option>"
+ ],
+ "colli-di-parma": [
+  "Produttori vini Colli di Parma",
+  "<option>Colli di Parma</option>"
+ ],
+ "colli-bolognesi": [
+  "Produttori vini Colli Bolognesi e Pignoletto",
+  "<option>Colli Bolognesi e Pignoletto</option>"
+ ],
+ "emilia": [
+  "Produttori vini Emilia e Ferrarese",
+  "<option>Emilia e Ferrarese</option>"
  ]
 }
