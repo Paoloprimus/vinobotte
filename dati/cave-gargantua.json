@@ -1,0 +1,50 @@
+{
+ "nome": "Cave Gargantua",
+ "slug": "cave-gargantua",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01147270076 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Fraz. Clos Chatel, 1, 11020 Gressan (AO) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 329 927 19 99 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cavegargantua@gmail.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://cavegargantua.it|cavegargantua.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valle d’Aosta [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://cavegargantua.it",
+   "etichetta": "cavegargantua.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vini Valle d’Aosta, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinivalledaosta.com/produttori",
+   "etichetta": "vinivalledaosta.com"
+  }
+ ]
+}

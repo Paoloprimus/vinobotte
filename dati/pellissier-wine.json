@@ -1,0 +1,40 @@
+{
+ "nome": "Pellissier Wine",
+ "slug": "pellissier-wine",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Bussan Dessous 17, 11010 Saint-Pierre (AO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 340 570 40 29 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@pellissierwine.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://pellissierwine.it|pellissierwine.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valle d’Aosta [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini Valle d’Aosta, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinivalledaosta.com/produttori",
+   "etichetta": "vinivalledaosta.com"
+  }
+ ]
+}

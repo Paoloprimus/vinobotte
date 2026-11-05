@@ -1,0 +1,40 @@
+{
+ "nome": "Gerbelle Didier",
+ "slug": "gerbelle-didier",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Fraz. Cheriettes, 20, 11010 Aymavilles (AO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0165 902 091 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "gerbelle@hotmail.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.gerbelle.vievini.it|gerbelle.vievini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valle d’Aosta [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini Valle d’Aosta, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinivalledaosta.com/produttori",
+   "etichetta": "vinivalledaosta.com"
+  }
+ ]
+}

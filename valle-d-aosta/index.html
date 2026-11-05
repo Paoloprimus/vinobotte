@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Valle d’Aosta — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Valle d’Aosta</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Valle d’Aosta</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Azienda Agricola Vintage","s":"azienda-agricola-vintage","c":"Saint-Christophe","d":["Valle d’Aosta"]},{"n":"Betemps Matthieu","s":"betemps-matthieu","c":"Saint-Christophe","d":["Valle d’Aosta"]},{"n":"Cantina Di Barrò","s":"cantina-di-barro","c":"Saint-Pierre","d":["Valle d’Aosta"]},{"n":"Cave des Onze Communes","s":"cave-des-onze-communes","c":"Aymavilles","d":["Valle d’Aosta"]},{"n":"Cave Gargantua","s":"cave-gargantua","c":"Gressan","d":["Valle d’Aosta"]},{"n":"Cave Monaja","s":"cave-monaja","c":"Sarre","d":["Valle d’Aosta"]},{"n":"Cave Mont Blanc de Morgex et La Salle","s":"cave-mont-blanc-de-morgex-et-la-salle","c":"Morgex","d":["Valle d’Aosta"]},{"n":"Caves Coopératives de Donnas","s":"caves-cooperatives-de-donnas","c":"Donnas","d":["Valle d’Aosta"]},{"n":"Château Feuillet","s":"chateau-feuillet","c":"Saint-Pierre","d":["Valle d’Aosta"]},{"n":"Château Vieux","s":"chateau-vieux","c":"Pont-Saint-Martin","d":["Valle d’Aosta"]},{"n":"Clos Blanc","s":"clos-blanc","c":"Jovençan","d":["Valle d’Aosta"]},{"n":"CoEnfer – Cooperative de l'Enfer","s":"coenfer-cooperative-de-l-enfer","c":"Arvier","d":["Valle d’Aosta"]},{"n":"Cristofori Piero","s":"cristofori-piero","c":"Cogne","d":["Valle d’Aosta"]},{"n":"Crotta di Prado","s":"crotta-di-prado","c":"Jovençan","d":["Valle d’Aosta"]},{"n":"Curtaz Diego","s":"curtaz-diego","c":"Gressan","d":["Valle d’Aosta"]},{"n":"Di Francesco Gasperi","s":"di-francesco-gasperi","c":"Saint-Pierre","d":["Valle d’Aosta"]},{"n":"Dino Bonin","s":"dino-bonin","c":"Arnad","d":["Valle d’Aosta"]},{"n":"Edoardo Braga","s":"edoardo-braga","c":"Jovençan","d":["Valle d’Aosta"]},{"n":"Ermes Pavese","s":"ermes-pavese","c":"Morgex","d":["Valle d’Aosta"]},{"n":"Feudo di San Maurizio","s":"feudo-di-san-maurizio","c":"Sarre","d":["Valle d’Aosta"]},{"n":"Gerbelle Didier","s":"gerbelle-didier","c":"Aymavilles","d":["Valle d’Aosta"]},{"n":"Giorgio Lale Murix","s":"giorgio-lale-murix","c":"Saint-Pierre","d":["Valle d’Aosta"]},{"n":"Grosjean Vins","s":"grosjean-vins","c":"Quart","d":["Valle d’Aosta"]},{"n":"Institut Agricole Régional","s":"institut-agricole-regional","c":"Aosta","d":["Valle d’Aosta"]},{"n":"La Crotta di Vegneron","s":"la-crotta-di-vegneron","c":"Chambave","d":["Valle d’Aosta"]},{"n":"La Kiuva","s":"la-kiuva","c":"Arnad","d":["Valle d’Aosta"]},{"n":"La Plantze","s":"la-plantze","c":"Villeneuve","d":["Valle d’Aosta"]},{"n":"La Source","s":"la-source","c":"Saint-Pierre","d":["Valle d’Aosta"]},{"n":"La Toula di Martinet Jil","s":"la-toula-di-martinet-jil","c":"Arvier","d":["Valle d’Aosta"]},{"n":"La Valdôtaine","s":"la-valdotaine","c":"Saint-Marcel","d":["Valle d’Aosta"]},{"n":"La Vrille","s":"la-vrille","c":"Verrayes","d":["Valle d’Aosta"]},{"n":"Le Clocher","s":"le-clocher","c":"Jovençan","d":["Valle d’Aosta"]},{"n":"Le Grain","s":"le-grain","c":"Saint-Pierre","d":["Valle d’Aosta"]},{"n":"Les Crêtes","s":"les-cretes","c":"Aymavilles","d":["Valle d’Aosta"]},{"n":"Les Granges","s":"les-granges","c":"Nus","d":["Valle d’Aosta"]},{"n":"Les Petits Riens","s":"les-petits-riens","c":"Aosta","d":["Valle d’Aosta"]},{"n":"Lo Triolet","s":"lo-triolet","c":"Introd","d":["Valle d’Aosta"]},{"n":"Mai Domi di Salvi Alex","s":"mai-domi-di-salvi-alex","c":"Saint-Christophe","d":["Valle d’Aosta"]},{"n":"Maison D&D","s":"maison-d-d","c":"Aosta","d":["Valle d’Aosta"]},{"n":"Maison Vagneur","s":"maison-vagneur","c":"Saint-Nicolas","d":["Valle d’Aosta"]},{"n":"Maison Vevey Albert","s":"maison-vevey-albert","c":"Morgex","d":["Valle d’Aosta"]},{"n":"Nicola Del Negro","s":"nicola-del-negro","c":"Saint-Pierre","d":["Valle d’Aosta"]},{"n":"Noussan Vini","s":"noussan-vini","c":"Saint-Christophe","d":["Valle d’Aosta"]},{"n":"Ottin Vini","s":"ottin-vini","c":"Aosta","d":["Valle d’Aosta"]},{"n":"Pellissier Wine","s":"pellissier-wine","c":"Saint-Pierre","d":["Valle d’Aosta"]},{"n":"Pianta Grossa","s":"pianta-grossa","c":"Donnas","d":["Valle d’Aosta"]},{"n":"Rosset Terroir","s":"rosset-terroir","c":"Quart","d":["Valle d’Aosta"]},{"n":"Tanteun e Marietta","s":"tanteun-e-marietta","c":"Aosta","d":["Valle d’Aosta"]},{"n":"Treves Gianni Battista","s":"treves-gianni-battista","c":"Montjovet","d":["Valle d’Aosta"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    

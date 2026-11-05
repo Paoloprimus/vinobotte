@@ -1,0 +1,40 @@
+{
+ "nome": "La Vrille",
+ "slug": "la-vrille",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Hameau du Grangeon, 1, 11020 Verrayes (AO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 333 23 93 695 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "cave@lavrille.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lavrille.it|lavrille.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valle d’Aosta [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini Valle d’Aosta, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinivalledaosta.com/produttori",
+   "etichetta": "vinivalledaosta.com"
+  }
+ ]
+}

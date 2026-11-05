@@ -1,0 +1,40 @@
+{
+ "nome": "Crotta di Prado",
+ "slug": "crotta-di-prado",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Hameau de Turille, 10, 11020 Jovençan (AO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 328 7692418 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "jean-paul.praz@libero.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.crottadiprado.it|crottadiprado.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valle d’Aosta [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini Valle d’Aosta, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinivalledaosta.com/produttori",
+   "etichetta": "vinivalledaosta.com"
+  }
+ ]
+}

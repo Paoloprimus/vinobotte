@@ -1,0 +1,50 @@
+{
+ "nome": "Grosjean Vins",
+ "slug": "grosjean-vins",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00536390073 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Fraz. Ollignan 2, 11020 Quart (AO) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0165 775 791 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "grosjeanvins@pec.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.grosjeanvins.it|grosjeanvins.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valle d’Aosta [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.grosjeanvins.it",
+   "etichetta": "grosjeanvins.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vini Valle d’Aosta, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinivalledaosta.com/produttori",
+   "etichetta": "vinivalledaosta.com"
+  }
+ ]
+}

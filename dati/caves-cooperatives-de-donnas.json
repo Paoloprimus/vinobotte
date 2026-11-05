@@ -1,0 +1,40 @@
+{
+ "nome": "Caves Coopératives de Donnas",
+ "slug": "caves-cooperatives-de-donnas",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Roma, 97, 11020 Donnas (AO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0125 807096 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@donnasvini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.donnasvini.it|donnasvini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valle d’Aosta [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini Valle d’Aosta, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinivalledaosta.com/produttori",
+   "etichetta": "vinivalledaosta.com"
+  }
+ ]
+}

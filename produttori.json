@@ -72984,6 +72984,66 @@
 "primario": "cantine-del-porticello"
 },
 {
+"slug": "la-plantze",
+"nome": "La Plantze",
+"regione": "Valle d’Aosta",
+"comune": "Villeneuve",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"la-plantze"
+],
+"primario": "la-plantze"
+},
+{
+"slug": "les-petits-riens",
+"nome": "Les Petits Riens",
+"regione": "Valle d’Aosta",
+"comune": "Aosta",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"les-petits-riens"
+],
+"primario": "les-petits-riens"
+},
+{
+"slug": "la-valdotaine",
+"nome": "La Valdôtaine",
+"regione": "Valle d’Aosta",
+"comune": "Saint-Marcel",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"la-valdotaine"
+],
+"primario": "la-valdotaine"
+},
+{
+"slug": "azienda-agricola-vintage",
+"nome": "Azienda Agricola Vintage",
+"regione": "Valle d’Aosta",
+"comune": "Saint-Christophe",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"azienda-agricola-vintage"
+],
+"primario": "azienda-agricola-vintage"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",
@@ -106809,5 +106869,680 @@
 "daniele-rossi"
 ],
 "primario": "daniele-rossi"
+},
+{
+"slug": "betemps-matthieu",
+"nome": "Betemps Matthieu",
+"regione": "Valle d’Aosta",
+"comune": "Saint-Christophe",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"betemps-matthieu"
+],
+"primario": "betemps-matthieu"
+},
+{
+"slug": "cantina-di-barro",
+"nome": "Cantina Di Barrò",
+"regione": "Valle d’Aosta",
+"comune": "Saint-Pierre",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"cantina-di-barro"
+],
+"primario": "cantina-di-barro"
+},
+{
+"slug": "cave-des-onze-communes",
+"nome": "Cave des Onze Communes",
+"regione": "Valle d’Aosta",
+"comune": "Aymavilles",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"cave-des-onze-communes"
+],
+"primario": "cave-des-onze-communes"
+},
+{
+"slug": "cave-gargantua",
+"nome": "Cave Gargantua",
+"regione": "Valle d’Aosta",
+"comune": "Gressan",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"cave-gargantua"
+],
+"primario": "cave-gargantua"
+},
+{
+"slug": "cave-monaja",
+"nome": "Cave Monaja",
+"regione": "Valle d’Aosta",
+"comune": "Sarre",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"cave-monaja"
+],
+"primario": "cave-monaja"
+},
+{
+"slug": "cave-mont-blanc-de-morgex-et-la-salle",
+"nome": "Cave Mont Blanc de Morgex et La Salle",
+"regione": "Valle d’Aosta",
+"comune": "Morgex",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"cave-mont-blanc-de-morgex-et-la-salle"
+],
+"primario": "cave-mont-blanc-de-morgex-et-la-salle"
+},
+{
+"slug": "caves-cooperatives-de-donnas",
+"nome": "Caves Coopératives de Donnas",
+"regione": "Valle d’Aosta",
+"comune": "Donnas",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"caves-cooperatives-de-donnas"
+],
+"primario": "caves-cooperatives-de-donnas"
+},
+{
+"slug": "chateau-vieux",
+"nome": "Château Vieux",
+"regione": "Valle d’Aosta",
+"comune": "Pont-Saint-Martin",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"chateau-vieux"
+],
+"primario": "chateau-vieux"
+},
+{
+"slug": "chateau-feuillet",
+"nome": "Château Feuillet",
+"regione": "Valle d’Aosta",
+"comune": "Saint-Pierre",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"chateau-feuillet"
+],
+"primario": "chateau-feuillet"
+},
+{
+"slug": "clos-blanc",
+"nome": "Clos Blanc",
+"regione": "Valle d’Aosta",
+"comune": "Jovençan",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"clos-blanc"
+],
+"primario": "clos-blanc"
+},
+{
+"slug": "coenfer-cooperative-de-l-enfer",
+"nome": "CoEnfer – Cooperative de l'Enfer",
+"regione": "Valle d’Aosta",
+"comune": "Arvier",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"coenfer-cooperative-de-l-enfer"
+],
+"primario": "coenfer-cooperative-de-l-enfer"
+},
+{
+"slug": "cristofori-piero",
+"nome": "Cristofori Piero",
+"regione": "Valle d’Aosta",
+"comune": "Cogne",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"cristofori-piero"
+],
+"primario": "cristofori-piero"
+},
+{
+"slug": "crotta-di-prado",
+"nome": "Crotta di Prado",
+"regione": "Valle d’Aosta",
+"comune": "Jovençan",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"crotta-di-prado"
+],
+"primario": "crotta-di-prado"
+},
+{
+"slug": "curtaz-diego",
+"nome": "Curtaz Diego",
+"regione": "Valle d’Aosta",
+"comune": "Gressan",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"curtaz-diego"
+],
+"primario": "curtaz-diego"
+},
+{
+"slug": "di-francesco-gasperi",
+"nome": "Di Francesco Gasperi",
+"regione": "Valle d’Aosta",
+"comune": "Saint-Pierre",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"di-francesco-gasperi"
+],
+"primario": "di-francesco-gasperi"
+},
+{
+"slug": "dino-bonin",
+"nome": "Dino Bonin",
+"regione": "Valle d’Aosta",
+"comune": "Arnad",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"dino-bonin"
+],
+"primario": "dino-bonin"
+},
+{
+"slug": "edoardo-braga",
+"nome": "Edoardo Braga",
+"regione": "Valle d’Aosta",
+"comune": "Jovençan",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"edoardo-braga"
+],
+"primario": "edoardo-braga"
+},
+{
+"slug": "ermes-pavese",
+"nome": "Ermes Pavese",
+"regione": "Valle d’Aosta",
+"comune": "Morgex",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"ermes-pavese"
+],
+"primario": "ermes-pavese"
+},
+{
+"slug": "feudo-di-san-maurizio",
+"nome": "Feudo di San Maurizio",
+"regione": "Valle d’Aosta",
+"comune": "Sarre",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"feudo-di-san-maurizio"
+],
+"primario": "feudo-di-san-maurizio"
+},
+{
+"slug": "gerbelle-didier",
+"nome": "Gerbelle Didier",
+"regione": "Valle d’Aosta",
+"comune": "Aymavilles",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"gerbelle-didier"
+],
+"primario": "gerbelle-didier"
+},
+{
+"slug": "giorgio-lale-murix",
+"nome": "Giorgio Lale Murix",
+"regione": "Valle d’Aosta",
+"comune": "Saint-Pierre",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"giorgio-lale-murix"
+],
+"primario": "giorgio-lale-murix"
+},
+{
+"slug": "grosjean-vins",
+"nome": "Grosjean Vins",
+"regione": "Valle d’Aosta",
+"comune": "Quart",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"grosjean-vins"
+],
+"primario": "grosjean-vins"
+},
+{
+"slug": "institut-agricole-regional",
+"nome": "Institut Agricole Régional",
+"regione": "Valle d’Aosta",
+"comune": "Aosta",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"institut-agricole-regional"
+],
+"primario": "institut-agricole-regional"
+},
+{
+"slug": "la-crotta-di-vegneron",
+"nome": "La Crotta di Vegneron",
+"regione": "Valle d’Aosta",
+"comune": "Chambave",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"la-crotta-di-vegneron"
+],
+"primario": "la-crotta-di-vegneron"
+},
+{
+"slug": "la-kiuva",
+"nome": "La Kiuva",
+"regione": "Valle d’Aosta",
+"comune": "Arnad",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"la-kiuva"
+],
+"primario": "la-kiuva"
+},
+{
+"slug": "la-source",
+"nome": "La Source",
+"regione": "Valle d’Aosta",
+"comune": "Saint-Pierre",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"la-source"
+],
+"primario": "la-source"
+},
+{
+"slug": "la-toula-di-martinet-jil",
+"nome": "La Toula di Martinet Jil",
+"regione": "Valle d’Aosta",
+"comune": "Arvier",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"la-toula-di-martinet-jil"
+],
+"primario": "la-toula-di-martinet-jil"
+},
+{
+"slug": "la-vrille",
+"nome": "La Vrille",
+"regione": "Valle d’Aosta",
+"comune": "Verrayes",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"la-vrille"
+],
+"primario": "la-vrille"
+},
+{
+"slug": "le-clocher",
+"nome": "Le Clocher",
+"regione": "Valle d’Aosta",
+"comune": "Jovençan",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"le-clocher"
+],
+"primario": "le-clocher"
+},
+{
+"slug": "le-grain",
+"nome": "Le Grain",
+"regione": "Valle d’Aosta",
+"comune": "Saint-Pierre",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"le-grain"
+],
+"primario": "le-grain"
+},
+{
+"slug": "les-cretes",
+"nome": "Les Crêtes",
+"regione": "Valle d’Aosta",
+"comune": "Aymavilles",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"les-cretes"
+],
+"primario": "les-cretes"
+},
+{
+"slug": "les-granges",
+"nome": "Les Granges",
+"regione": "Valle d’Aosta",
+"comune": "Nus",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"les-granges"
+],
+"primario": "les-granges"
+},
+{
+"slug": "lo-triolet",
+"nome": "Lo Triolet",
+"regione": "Valle d’Aosta",
+"comune": "Introd",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"lo-triolet"
+],
+"primario": "lo-triolet"
+},
+{
+"slug": "mai-domi-di-salvi-alex",
+"nome": "Mai Domi di Salvi Alex",
+"regione": "Valle d’Aosta",
+"comune": "Saint-Christophe",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"mai-domi-di-salvi-alex"
+],
+"primario": "mai-domi-di-salvi-alex"
+},
+{
+"slug": "maison-d-d",
+"nome": "Maison D&D",
+"regione": "Valle d’Aosta",
+"comune": "Aosta",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"maison-d-d"
+],
+"primario": "maison-d-d"
+},
+{
+"slug": "maison-vagneur",
+"nome": "Maison Vagneur",
+"regione": "Valle d’Aosta",
+"comune": "Saint-Nicolas",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"maison-vagneur"
+],
+"primario": "maison-vagneur"
+},
+{
+"slug": "maison-vevey-albert",
+"nome": "Maison Vevey Albert",
+"regione": "Valle d’Aosta",
+"comune": "Morgex",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"maison-vevey-albert"
+],
+"primario": "maison-vevey-albert"
+},
+{
+"slug": "nicola-del-negro",
+"nome": "Nicola Del Negro",
+"regione": "Valle d’Aosta",
+"comune": "Saint-Pierre",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"nicola-del-negro"
+],
+"primario": "nicola-del-negro"
+},
+{
+"slug": "noussan-vini",
+"nome": "Noussan Vini",
+"regione": "Valle d’Aosta",
+"comune": "Saint-Christophe",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"noussan-vini"
+],
+"primario": "noussan-vini"
+},
+{
+"slug": "ottin-vini",
+"nome": "Ottin Vini",
+"regione": "Valle d’Aosta",
+"comune": "Aosta",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"ottin-vini"
+],
+"primario": "ottin-vini"
+},
+{
+"slug": "pellissier-wine",
+"nome": "Pellissier Wine",
+"regione": "Valle d’Aosta",
+"comune": "Saint-Pierre",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"pellissier-wine"
+],
+"primario": "pellissier-wine"
+},
+{
+"slug": "pianta-grossa",
+"nome": "Pianta Grossa",
+"regione": "Valle d’Aosta",
+"comune": "Donnas",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"pianta-grossa"
+],
+"primario": "pianta-grossa"
+},
+{
+"slug": "rosset-terroir",
+"nome": "Rosset Terroir",
+"regione": "Valle d’Aosta",
+"comune": "Quart",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"rosset-terroir"
+],
+"primario": "rosset-terroir"
+},
+{
+"slug": "tanteun-e-marietta",
+"nome": "Tanteun e Marietta",
+"regione": "Valle d’Aosta",
+"comune": "Aosta",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"tanteun-e-marietta"
+],
+"primario": "tanteun-e-marietta"
+},
+{
+"slug": "treves-gianni-battista",
+"nome": "Treves Gianni Battista",
+"regione": "Valle d’Aosta",
+"comune": "Montjovet",
+"tipi": {
+"valle-d-aosta": [
+"Valle d’Aosta"
+]
+},
+"membri": [
+"treves-gianni-battista"
+],
+"primario": "treves-gianni-battista"
 }
 ]

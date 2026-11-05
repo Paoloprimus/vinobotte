@@ -1,0 +1,50 @@
+{
+ "nome": "La Crotta di Vegneron",
+ "slug": "la-crotta-di-vegneron",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "00355710070 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Piazza Roncas 2, 11023 Chambave (AO) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0166 46670 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@lacrotta.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.lacrotta.it|lacrotta.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valle d’Aosta [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.lacrotta.it",
+   "etichetta": "lacrotta.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vini Valle d’Aosta, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinivalledaosta.com/produttori",
+   "etichetta": "vinivalledaosta.com"
+  }
+ ]
+}

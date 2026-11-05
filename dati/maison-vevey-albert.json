@@ -1,0 +1,36 @@
+{
+ "nome": "Maison Vevey Albert",
+ "slug": "maison-vevey-albert",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Strada del Villair, 67, 11017 Morgex (AO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 347 435 17 38 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "mariovevey@vievini.it [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valle d’Aosta [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini Valle d’Aosta, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinivalledaosta.com/produttori",
+   "etichetta": "vinivalledaosta.com"
+  }
+ ]
+}

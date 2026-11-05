@@ -1,0 +1,36 @@
+{
+ "nome": "Curtaz Diego",
+ "slug": "curtaz-diego",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Fraz. Viseran, 61, 11020 Gressan (AO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 347 5121025 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "diegocurtaz@tiscali.it [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valle d’Aosta [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini Valle d’Aosta, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinivalledaosta.com/produttori",
+   "etichetta": "vinivalledaosta.com"
+  }
+ ]
+}

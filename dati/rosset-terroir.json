@@ -1,0 +1,50 @@
+{
+ "nome": "Rosset Terroir",
+ "slug": "rosset-terroir",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01078630074 [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Località Torrent de Maillod, 4, 11020 Quart (AO) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0165 774 111 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@rosseterroir.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.rosseterroir.it|rosseterroir.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valle d’Aosta [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://www.rosseterroir.it",
+   "etichetta": "rosseterroir.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Vini Valle d’Aosta, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinivalledaosta.com/produttori",
+   "etichetta": "vinivalledaosta.com"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "nome": "Di Francesco Gasperi",
+ "slug": "di-francesco-gasperi",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Rue De La Gare, 1, 11010 Saint-Pierre (AO) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 349 542 21 70 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "stefano.difrancesco@libero.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.difrancescogasperi.it|difrancescogasperi.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Vini Valle d’Aosta [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Vini Valle d’Aosta, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinivalledaosta.com/produttori",
+   "etichetta": "vinivalledaosta.com"
+  }
+ ]
+}
