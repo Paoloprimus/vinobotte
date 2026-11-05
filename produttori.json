@@ -58920,6 +58920,1851 @@
 "primario": "messnerhof"
 },
 {
+"slug": "villa-matilde",
+"nome": "Villa Matilde",
+"regione": "Campania",
+"comune": "Cellole",
+"tipi": {
+"asprinio": [
+"Asprinio, Galluccio e Falerno"
+]
+},
+"membri": [
+"villa-matilde"
+],
+"primario": "villa-matilde"
+},
+{
+"slug": "donnachiara",
+"nome": "Donnachiara",
+"regione": "Campania",
+"comune": "Avellino",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"donnachiara"
+],
+"primario": "donnachiara"
+},
+{
+"slug": "quintodecimo",
+"nome": "Quintodecimo",
+"regione": "Campania",
+"comune": "Mirabella Eclano",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"quintodecimo"
+],
+"primario": "quintodecimo"
+},
+{
+"slug": "san-salvatore",
+"nome": "San Salvatore",
+"regione": "Campania",
+"comune": "Capaccio Paestum",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"san-salvatore"
+],
+"primario": "san-salvatore"
+},
+{
+"slug": "antonio-mazzella",
+"nome": "Antonio Mazzella",
+"regione": "Campania",
+"comune": "Benevento",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"antonio-mazzella"
+],
+"primario": "antonio-mazzella"
+},
+{
+"slug": "tenute-casoli",
+"nome": "Tenute Casoli",
+"regione": "Campania",
+"comune": "Candida",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"tenute-casoli"
+],
+"primario": "tenute-casoli"
+},
+{
+"slug": "ettore-sammarco",
+"nome": "Ettore Sammarco",
+"regione": "Campania",
+"comune": "Ravello",
+"tipi": {
+"costa-amalfi": [
+"Costa d’Amalfi e Penisola Sorrentina"
+]
+},
+"membri": [
+"ettore-sammarco"
+],
+"primario": "ettore-sammarco"
+},
+{
+"slug": "ciro-picariello",
+"nome": "Ciro Picariello",
+"regione": "Campania",
+"comune": "Summonte",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"ciro-picariello"
+],
+"primario": "ciro-picariello"
+},
+{
+"slug": "mastroberardino",
+"nome": "Mastroberardino",
+"regione": "Campania",
+"comune": "Atripalda",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"mastroberardino"
+],
+"primario": "mastroberardino"
+},
+{
+"slug": "le-masciare",
+"nome": "Le Masciare",
+"regione": "Campania",
+"comune": "Paternopoli",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"le-masciare"
+],
+"primario": "le-masciare"
+},
+{
+"slug": "casa-setaro",
+"nome": "Casa Setaro",
+"regione": "Campania",
+"comune": "Trecase",
+"tipi": {
+"vesuvio": [
+"Vesuvio"
+]
+},
+"membri": [
+"casa-setaro"
+],
+"primario": "casa-setaro"
+},
+{
+"slug": "montesole",
+"nome": "Montesole",
+"regione": "Campania",
+"comune": "Montefalcione",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"montesole"
+],
+"primario": "montesole"
+},
+{
+"slug": "lunarossa",
+"nome": "Lunarossa",
+"regione": "Campania",
+"comune": "Giffoni Valle Piana",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"lunarossa"
+],
+"primario": "lunarossa"
+},
+{
+"slug": "guido-marsella",
+"nome": "Guido Marsella",
+"regione": "Campania",
+"comune": "Summonte",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"guido-marsella"
+],
+"primario": "guido-marsella"
+},
+{
+"slug": "salvatore-martusciello",
+"nome": "Salvatore Martusciello",
+"regione": "Campania",
+"comune": "Pozzuoli",
+"tipi": {
+"campi-flegrei": [
+"Campi Flegrei e Napoli"
+]
+},
+"membri": [
+"salvatore-martusciello"
+],
+"primario": "salvatore-martusciello"
+},
+{
+"slug": "cantine-astroni",
+"nome": "Cantine Astroni",
+"regione": "Campania",
+"comune": "Napoli",
+"tipi": {
+"campi-flegrei": [
+"Campi Flegrei e Napoli"
+]
+},
+"membri": [
+"cantine-astroni"
+],
+"primario": "cantine-astroni"
+},
+{
+"slug": "fonzone",
+"nome": "Fonzone",
+"regione": "Campania",
+"comune": "Paternopoli",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"fonzone"
+],
+"primario": "fonzone"
+},
+{
+"slug": "marisa-cuomo",
+"nome": "Marisa Cuomo",
+"regione": "Campania",
+"comune": "Furore",
+"tipi": {
+"costa-amalfi": [
+"Costa d’Amalfi e Penisola Sorrentina"
+]
+},
+"membri": [
+"marisa-cuomo"
+],
+"primario": "marisa-cuomo"
+},
+{
+"slug": "cantina-del-vesuvio",
+"nome": "Cantina del Vesuvio",
+"regione": "Campania",
+"comune": "Trecase",
+"tipi": {
+"vesuvio": [
+"Vesuvio"
+]
+},
+"membri": [
+"cantina-del-vesuvio"
+],
+"primario": "cantina-del-vesuvio"
+},
+{
+"slug": "le-lune-del-vesuvio",
+"nome": "Le Lune del Vesuvio",
+"regione": "Campania",
+"comune": "Torre Annunziata",
+"tipi": {
+"vesuvio": [
+"Vesuvio"
+]
+},
+"membri": [
+"le-lune-del-vesuvio"
+],
+"primario": "le-lune-del-vesuvio"
+},
+{
+"slug": "crypta-castagnara-cantine",
+"nome": "Crypta Castagnara Cantine",
+"regione": "Campania",
+"comune": "Grottolella",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"crypta-castagnara-cantine"
+],
+"primario": "crypta-castagnara-cantine"
+},
+{
+"slug": "colli-di-castelfranci",
+"nome": "Colli di Castelfranci",
+"regione": "Campania",
+"comune": "Castel Baronia",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"colli-di-castelfranci"
+],
+"primario": "colli-di-castelfranci"
+},
+{
+"slug": "giuseppe-apicella",
+"nome": "Giuseppe Apicella",
+"regione": "Campania",
+"comune": "Tramonti",
+"tipi": {
+"costa-amalfi": [
+"Costa d’Amalfi e Penisola Sorrentina"
+]
+},
+"membri": [
+"giuseppe-apicella"
+],
+"primario": "giuseppe-apicella"
+},
+{
+"slug": "rocca-del-principe",
+"nome": "Rocca del Principe",
+"regione": "Campania",
+"comune": "Lapio",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"rocca-del-principe"
+],
+"primario": "rocca-del-principe"
+},
+{
+"slug": "tenuta-scuotto",
+"nome": "Tenuta Scuotto",
+"regione": "Campania",
+"comune": "Napoli",
+"tipi": {
+"campi-flegrei": [
+"Campi Flegrei e Napoli"
+]
+},
+"membri": [
+"tenuta-scuotto"
+],
+"primario": "tenuta-scuotto"
+},
+{
+"slug": "terre-di-valter",
+"nome": "Terre di Valter",
+"regione": "Campania",
+"comune": "Torre Le Nocelle",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"terre-di-valter"
+],
+"primario": "terre-di-valter"
+},
+{
+"slug": "la-sibilla",
+"nome": "La Sibilla",
+"regione": "Campania",
+"comune": "Bacoli",
+"tipi": {
+"campi-flegrei": [
+"Campi Flegrei e Napoli"
+]
+},
+"membri": [
+"la-sibilla"
+],
+"primario": "la-sibilla"
+},
+{
+"slug": "terre-d-aione",
+"nome": "Terre d'Aione",
+"regione": "Campania",
+"comune": "Tufo",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"terre-d-aione"
+],
+"primario": "terre-d-aione"
+},
+{
+"slug": "bosco-de-medici",
+"nome": "Bosco de’ Medici",
+"regione": "Campania",
+"comune": "Pompei",
+"tipi": {
+"vesuvio": [
+"Vesuvio"
+]
+},
+"membri": [
+"bosco-de-medici"
+],
+"primario": "bosco-de-medici"
+},
+{
+"slug": "tempa-di-zoe",
+"nome": "Tempa di Zoè",
+"regione": "Campania",
+"comune": "Agropoli",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"tempa-di-zoe"
+],
+"primario": "tempa-di-zoe"
+},
+{
+"slug": "casa-di-baal",
+"nome": "Casa di Baal",
+"regione": "Campania",
+"comune": "Montecorvino Rovella",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"casa-di-baal"
+],
+"primario": "casa-di-baal"
+},
+{
+"slug": "villa-diamante",
+"nome": "Villa Diamante",
+"regione": "Campania",
+"comune": "Montefalcione",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"villa-diamante"
+],
+"primario": "villa-diamante"
+},
+{
+"slug": "pietratorcia",
+"nome": "Pietratorcia",
+"regione": "Campania",
+"comune": "Forio",
+"tipi": {
+"ischia-capri": [
+"Ischia e Capri"
+]
+},
+"membri": [
+"pietratorcia"
+],
+"primario": "pietratorcia"
+},
+{
+"slug": "antica-hirpinia",
+"nome": "Antica Hirpinia",
+"regione": "Campania",
+"comune": "Taurasi",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"antica-hirpinia"
+],
+"primario": "antica-hirpinia"
+},
+{
+"slug": "sella-delle-spine",
+"nome": "Sella delle Spine",
+"regione": "Campania",
+"comune": "Taurasi",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"sella-delle-spine"
+],
+"primario": "sella-delle-spine"
+},
+{
+"slug": "il-verro",
+"nome": "Il Verro",
+"regione": "Campania",
+"comune": "Portico di Caserta",
+"tipi": {
+"asprinio": [
+"Asprinio, Galluccio e Falerno"
+]
+},
+"membri": [
+"il-verro"
+],
+"primario": "il-verro"
+},
+{
+"slug": "fiorentino",
+"nome": "Fiorentino",
+"regione": "Campania",
+"comune": "Paternopoli",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"fiorentino"
+],
+"primario": "fiorentino"
+},
+{
+"slug": "colline-del-sole",
+"nome": "Colline del Sole",
+"regione": "Campania",
+"comune": "Torrioni",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"colline-del-sole"
+],
+"primario": "colline-del-sole"
+},
+{
+"slug": "torrevigne",
+"nome": "Torrevigne",
+"regione": "Campania",
+"comune": "Montefalcione",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"torrevigne"
+],
+"primario": "torrevigne"
+},
+{
+"slug": "aia-delle-monache",
+"nome": "Aia delle Monache",
+"regione": "Campania",
+"comune": "Castel Campagnano",
+"tipi": {
+"asprinio": [
+"Asprinio, Galluccio e Falerno"
+]
+},
+"membri": [
+"aia-delle-monache"
+],
+"primario": "aia-delle-monache"
+},
+{
+"slug": "tenute-bianchino",
+"nome": "Tenute Bianchino",
+"regione": "Campania",
+"comune": "Falciano del Massico",
+"tipi": {
+"asprinio": [
+"Asprinio, Galluccio e Falerno"
+]
+},
+"membri": [
+"tenute-bianchino"
+],
+"primario": "tenute-bianchino"
+},
+{
+"slug": "francesca-fiasco",
+"nome": "Francesca Fiasco",
+"regione": "Campania",
+"comune": "Felitto",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"francesca-fiasco"
+],
+"primario": "francesca-fiasco"
+},
+{
+"slug": "sertura",
+"nome": "Sertura",
+"regione": "Campania",
+"comune": "Avellino",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"sertura"
+],
+"primario": "sertura"
+},
+{
+"slug": "tredaniele",
+"nome": "Tredaniele",
+"regione": "Campania",
+"comune": "Trentinara",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"tredaniele"
+],
+"primario": "tredaniele"
+},
+{
+"slug": "cantine-de-palma",
+"nome": "Cantine de Palma",
+"regione": "Campania",
+"comune": "Pratola Serra",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"cantine-de-palma"
+],
+"primario": "cantine-de-palma"
+},
+{
+"slug": "boccella-rosa",
+"nome": "Boccella Rosa",
+"regione": "Campania",
+"comune": "Montemarano",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"boccella-rosa"
+],
+"primario": "boccella-rosa"
+},
+{
+"slug": "cantina-corvino",
+"nome": "Cantina Corvino",
+"regione": "Campania",
+"comune": "San Valentino Torio",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"cantina-corvino"
+],
+"primario": "cantina-corvino"
+},
+{
+"slug": "alabastra",
+"nome": "Alabastra",
+"regione": "Campania",
+"comune": "Cesinali",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"alabastra"
+],
+"primario": "alabastra"
+},
+{
+"slug": "cantine-somma",
+"nome": "Cantine Somma",
+"regione": "Campania",
+"comune": "Pozzuoli",
+"tipi": {
+"campi-flegrei": [
+"Campi Flegrei e Napoli"
+]
+},
+"membri": [
+"cantine-somma"
+],
+"primario": "cantine-somma"
+},
+{
+"slug": "tenuta-sant-agostino",
+"nome": "Tenuta Sant'Agostino",
+"regione": "Campania",
+"comune": "Solopaca",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"tenuta-sant-agostino"
+],
+"primario": "tenuta-sant-agostino"
+},
+{
+"slug": "cantavitae",
+"nome": "Cantavitae",
+"regione": "Campania",
+"comune": "Marano di Napoli",
+"tipi": {
+"campi-flegrei": [
+"Campi Flegrei e Napoli"
+]
+},
+"membri": [
+"cantavitae"
+],
+"primario": "cantavitae"
+},
+{
+"slug": "guerriero",
+"nome": "Guerriero",
+"regione": "Campania",
+"comune": "Taurasi",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"guerriero"
+],
+"primario": "guerriero"
+},
+{
+"slug": "tralci-hirpini",
+"nome": "Tralci Hirpini",
+"regione": "Campania",
+"comune": "San Michele di Serino",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"tralci-hirpini"
+],
+"primario": "tralci-hirpini"
+},
+{
+"slug": "corte-dei-roberto",
+"nome": "Corte dei Roberto",
+"regione": "Campania",
+"comune": "Greci",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"corte-dei-roberto"
+],
+"primario": "corte-dei-roberto"
+},
+{
+"slug": "adelina-molettieri",
+"nome": "Adelina Molettieri",
+"regione": "Campania",
+"comune": "Montemarano",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"adelina-molettieri"
+],
+"primario": "adelina-molettieri"
+},
+{
+"slug": "rossella-cicalese",
+"nome": "Rossella Cicalese",
+"regione": "Campania",
+"comune": "Eboli",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"rossella-cicalese"
+],
+"primario": "rossella-cicalese"
+},
+{
+"slug": "monte-somma-vesuvio",
+"nome": "Monte Somma Vesuvio",
+"regione": "Campania",
+"comune": "Pollena Trocchia",
+"tipi": {
+"vesuvio": [
+"Vesuvio"
+]
+},
+"membri": [
+"monte-somma-vesuvio"
+],
+"primario": "monte-somma-vesuvio"
+},
+{
+"slug": "masseria-piccirillo",
+"nome": "Masseria Piccirillo",
+"regione": "Campania",
+"comune": "Caiazzo",
+"tipi": {
+"asprinio": [
+"Asprinio, Galluccio e Falerno"
+]
+},
+"membri": [
+"masseria-piccirillo"
+],
+"primario": "masseria-piccirillo"
+},
+{
+"slug": "santimartini",
+"nome": "Santimartini",
+"regione": "Campania",
+"comune": "Solopaca",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"santimartini"
+],
+"primario": "santimartini"
+},
+{
+"slug": "casula-vinaria",
+"nome": "Casula Vinaria",
+"regione": "Campania",
+"comune": "Campagna",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"casula-vinaria"
+],
+"primario": "casula-vinaria"
+},
+{
+"slug": "de-gaeta",
+"nome": "De' Gaeta",
+"regione": "Campania",
+"comune": "Castel Baronia",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"de-gaeta"
+],
+"primario": "de-gaeta"
+},
+{
+"slug": "case-d-alto",
+"nome": "Case d'Alto",
+"regione": "Campania",
+"comune": "Grottaminarda",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"case-d-alto"
+],
+"primario": "case-d-alto"
+},
+{
+"slug": "ponterotto",
+"nome": "Ponterotto",
+"regione": "Campania",
+"comune": "Avellino",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"ponterotto"
+],
+"primario": "ponterotto"
+},
+{
+"slug": "cantine-ruggiero",
+"nome": "Cantine Ruggiero",
+"regione": "Campania",
+"comune": "Melito Irpino",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"cantine-ruggiero"
+],
+"primario": "cantine-ruggiero"
+},
+{
+"slug": "cantine-catena",
+"nome": "Cantine Catena",
+"regione": "Campania",
+"comune": "Montefalcione",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"cantine-catena"
+],
+"primario": "cantine-catena"
+},
+{
+"slug": "tenuta-de-gregorio",
+"nome": "Tenuta de Gregorio",
+"regione": "Campania",
+"comune": "Taurasi",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"tenuta-de-gregorio"
+],
+"primario": "tenuta-de-gregorio"
+},
+{
+"slug": "terre-irpine",
+"nome": "Terre Irpine",
+"regione": "Campania",
+"comune": "Sturno",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"terre-irpine"
+],
+"primario": "terre-irpine"
+},
+{
+"slug": "cantina-francesca",
+"nome": "Cantina Francesca",
+"regione": "Campania",
+"comune": "Apollosa",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"cantina-francesca"
+],
+"primario": "cantina-francesca"
+},
+{
+"slug": "sciore",
+"nome": "Sciore",
+"regione": "Campania",
+"comune": "Ponte",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"sciore"
+],
+"primario": "sciore"
+},
+{
+"slug": "davide-campagnano",
+"nome": "Davide Campagnano",
+"regione": "Campania",
+"comune": "Castel Campagnano",
+"tipi": {
+"asprinio": [
+"Asprinio, Galluccio e Falerno"
+]
+},
+"membri": [
+"davide-campagnano"
+],
+"primario": "davide-campagnano"
+},
+{
+"slug": "firosa",
+"nome": "Firosa",
+"regione": "Campania",
+"comune": "Olevano sul Tusciano",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"firosa"
+],
+"primario": "firosa"
+},
+{
+"slug": "tenute-del-gheppio",
+"nome": "Tenute del Gheppio",
+"regione": "Campania",
+"comune": "Dugenta",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"tenute-del-gheppio"
+],
+"primario": "tenute-del-gheppio"
+},
+{
+"slug": "raiano-produzione-vini",
+"nome": "Raiano Produzione Vini",
+"regione": "Campania",
+"comune": "Napoli",
+"tipi": {
+"campi-flegrei": [
+"Campi Flegrei e Napoli"
+]
+},
+"membri": [
+"raiano-produzione-vini"
+],
+"primario": "raiano-produzione-vini"
+},
+{
+"slug": "vini-benelli",
+"nome": "Vini Benelli",
+"regione": "Campania",
+"comune": "Sturno",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"vini-benelli"
+],
+"primario": "vini-benelli"
+},
+{
+"slug": "villa-petra",
+"nome": "Villa Petra",
+"regione": "Campania",
+"comune": "Torrecuso",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"villa-petra"
+],
+"primario": "villa-petra"
+},
+{
+"slug": "episcopio",
+"nome": "Episcopio",
+"regione": "Campania",
+"comune": "Ravello",
+"tipi": {
+"costa-amalfi": [
+"Costa d’Amalfi e Penisola Sorrentina"
+]
+},
+"membri": [
+"episcopio"
+],
+"primario": "episcopio"
+},
+{
+"slug": "cantine-nesta",
+"nome": "Cantine Nesta",
+"regione": "Campania",
+"comune": "Caposele",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"cantine-nesta"
+],
+"primario": "cantine-nesta"
+},
+{
+"slug": "tenuta-mainardi",
+"nome": "Tenuta Mainardi",
+"regione": "Campania",
+"comune": "Aquara",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"tenuta-mainardi"
+],
+"primario": "tenuta-mainardi"
+},
+{
+"slug": "cantine-sciacca",
+"nome": "Cantine Sciacca",
+"regione": "Campania",
+"comune": "Falciano del Massico",
+"tipi": {
+"asprinio": [
+"Asprinio, Galluccio e Falerno"
+]
+},
+"membri": [
+"cantine-sciacca"
+],
+"primario": "cantine-sciacca"
+},
+{
+"slug": "nuova-val-calore",
+"nome": "Nuova Val Calore",
+"regione": "Campania",
+"comune": "Castel San Lorenzo",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"nuova-val-calore"
+],
+"primario": "nuova-val-calore"
+},
+{
+"slug": "terre-di-noukria",
+"nome": "Terre di Noukria",
+"regione": "Campania",
+"comune": "Nocera Inferiore",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"terre-di-noukria"
+],
+"primario": "terre-di-noukria"
+},
+{
+"slug": "chiara-morra",
+"nome": "Chiara Morra",
+"regione": "Campania",
+"comune": "Felitto",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"chiara-morra"
+],
+"primario": "chiara-morra"
+},
+{
+"slug": "casa-d-ambra",
+"nome": "Casa d'Ambra",
+"regione": "Campania",
+"comune": "Forio",
+"tipi": {
+"ischia-capri": [
+"Ischia e Capri"
+]
+},
+"membri": [
+"casa-d-ambra"
+],
+"primario": "casa-d-ambra"
+},
+{
+"slug": "i-favati",
+"nome": "I Favati",
+"regione": "Campania",
+"comune": "Cesinali",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"i-favati"
+],
+"primario": "i-favati"
+},
+{
+"slug": "joaquin",
+"nome": "Joaquin",
+"regione": "Campania",
+"comune": "Lapio",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"joaquin"
+],
+"primario": "joaquin"
+},
+{
+"slug": "cantine-di-marzo",
+"nome": "Cantine di Marzo",
+"regione": "Campania",
+"comune": "Tufo",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"cantine-di-marzo"
+],
+"primario": "cantine-di-marzo"
+},
+{
+"slug": "tenuta-san-francesco",
+"nome": "Tenuta San Francesco",
+"regione": "Campania",
+"comune": "Tramonti",
+"tipi": {
+"costa-amalfi": [
+"Costa d’Amalfi e Penisola Sorrentina"
+]
+},
+"membri": [
+"tenuta-san-francesco"
+],
+"primario": "tenuta-san-francesco"
+},
+{
+"slug": "i-pentri",
+"nome": "I Pentri",
+"regione": "Campania",
+"comune": "Castelvenere",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"i-pentri"
+],
+"primario": "i-pentri"
+},
+{
+"slug": "cenatiempo",
+"nome": "Cenatiempo",
+"regione": "Campania",
+"comune": "Ischia",
+"tipi": {
+"ischia-capri": [
+"Ischia e Capri"
+]
+},
+"membri": [
+"cenatiempo"
+],
+"primario": "cenatiempo"
+},
+{
+"slug": "cantine-federiciane-monteleone",
+"nome": "Cantine Federiciane Monteleone",
+"regione": "Campania",
+"comune": "Marano di Napoli",
+"tipi": {
+"campi-flegrei": [
+"Campi Flegrei e Napoli"
+]
+},
+"membri": [
+"cantine-federiciane-monteleone"
+],
+"primario": "cantine-federiciane-monteleone"
+},
+{
+"slug": "marino",
+"nome": "Marino",
+"regione": "Campania",
+"comune": "Agropoli",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"marino"
+],
+"primario": "marino"
+},
+{
+"slug": "guastaferro",
+"nome": "Guastaferro",
+"regione": "Campania",
+"comune": "Taurasi",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"guastaferro"
+],
+"primario": "guastaferro"
+},
+{
+"slug": "albamarina",
+"nome": "Albamarina",
+"regione": "Campania",
+"comune": "Centola",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"albamarina"
+],
+"primario": "albamarina"
+},
+{
+"slug": "viticoltori-polito",
+"nome": "Viticoltori Polito",
+"regione": "Campania",
+"comune": "Agropoli",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"viticoltori-polito"
+],
+"primario": "viticoltori-polito"
+},
+{
+"slug": "sannino",
+"nome": "Sannino",
+"regione": "Campania",
+"comune": "Ercolano",
+"tipi": {
+"vesuvio": [
+"Vesuvio"
+]
+},
+"membri": [
+"sannino"
+],
+"primario": "sannino"
+},
+{
+"slug": "ducale",
+"nome": "Ducale",
+"regione": "Campania",
+"comune": "Amorosi",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"ducale"
+],
+"primario": "ducale"
+},
+{
+"slug": "macchie-s-maria",
+"nome": "Macchie S Maria",
+"regione": "Campania",
+"comune": "Montemiletto",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"macchie-s-maria"
+],
+"primario": "macchie-s-maria"
+},
+{
+"slug": "il-iv-miglio",
+"nome": "Il IV Miglio",
+"regione": "Campania",
+"comune": "Quarto",
+"tipi": {
+"campi-flegrei": [
+"Campi Flegrei e Napoli"
+]
+},
+"membri": [
+"il-iv-miglio"
+],
+"primario": "il-iv-miglio"
+},
+{
+"slug": "di-prisco",
+"nome": "di Prisco",
+"regione": "Campania",
+"comune": "Ottaviano",
+"tipi": {
+"vesuvio": [
+"Vesuvio"
+]
+},
+"membri": [
+"di-prisco"
+],
+"primario": "di-prisco"
+},
+{
+"slug": "contrada",
+"nome": "Contrada",
+"regione": "Campania",
+"comune": "Candida",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"contrada"
+],
+"primario": "contrada"
+},
+{
+"slug": "cobellis",
+"nome": "Cobellis",
+"regione": "Campania",
+"comune": "Vallo della Lucania",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"cobellis"
+],
+"primario": "cobellis"
+},
+{
+"slug": "il-cortiglio",
+"nome": "Il Cortiglio",
+"regione": "Campania",
+"comune": "Fontanarosa",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"il-cortiglio"
+],
+"primario": "il-cortiglio"
+},
+{
+"slug": "la-molara",
+"nome": "La Molara",
+"regione": "Campania",
+"comune": "Summonte",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"la-molara"
+],
+"primario": "la-molara"
+},
+{
+"slug": "rocca-dei-sanniti",
+"nome": "Rocca dei Sanniti",
+"regione": "Campania",
+"comune": "Ponte",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"rocca-dei-sanniti"
+],
+"primario": "rocca-dei-sanniti"
+},
+{
+"slug": "de-lisio",
+"nome": "De Lisio",
+"regione": "Campania",
+"comune": "Montemarano",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"de-lisio"
+],
+"primario": "de-lisio"
+},
+{
+"slug": "meoli",
+"nome": "Meoli",
+"regione": "Campania",
+"comune": "Casalduni",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"meoli"
+],
+"primario": "meoli"
+},
+{
+"slug": "ruffano",
+"nome": "Ruffano",
+"regione": "Campania",
+"comune": "Forio",
+"tipi": {
+"ischia-capri": [
+"Ischia e Capri"
+]
+},
+"membri": [
+"ruffano"
+],
+"primario": "ruffano"
+},
+{
+"slug": "vitagliano",
+"nome": "Vitagliano",
+"regione": "Campania",
+"comune": "San Martino Valle Caudina",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"vitagliano"
+],
+"primario": "vitagliano"
+},
+{
+"slug": "nocerino",
+"nome": "Nocerino",
+"regione": "Campania",
+"comune": "Somma Vesuviana",
+"tipi": {
+"vesuvio": [
+"Vesuvio"
+]
+},
+"membri": [
+"nocerino"
+],
+"primario": "nocerino"
+},
+{
+"slug": "severino",
+"nome": "Severino",
+"regione": "Campania",
+"comune": "Napoli",
+"tipi": {
+"campi-flegrei": [
+"Campi Flegrei e Napoli"
+]
+},
+"membri": [
+"severino"
+],
+"primario": "severino"
+},
+{
+"slug": "contea-de-altavilla",
+"nome": "Contea dé Altavilla",
+"regione": "Campania",
+"comune": "Altavilla Irpina",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"contea-de-altavilla"
+],
+"primario": "contea-de-altavilla"
+},
+{
+"slug": "cantina-felix",
+"nome": "Cantina Felix",
+"regione": "Campania",
+"comune": "Grazzanise",
+"tipi": {
+"asprinio": [
+"Asprinio, Galluccio e Falerno"
+]
+},
+"membri": [
+"cantina-felix"
+],
+"primario": "cantina-felix"
+},
+{
+"slug": "borgo-s-anna",
+"nome": "Borgo S. Anna",
+"regione": "Campania",
+"comune": "Lettere",
+"tipi": {
+"costa-amalfi": [
+"Costa d’Amalfi e Penisola Sorrentina"
+]
+},
+"membri": [
+"borgo-s-anna"
+],
+"primario": "borgo-s-anna"
+},
+{
+"slug": "santa-fosca",
+"nome": "Santa Fosca",
+"regione": "Campania",
+"comune": "Venticano",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"santa-fosca"
+],
+"primario": "santa-fosca"
+},
+{
+"slug": "i-gaudi",
+"nome": "I Gaudi",
+"regione": "Campania",
+"comune": "Candida",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"i-gaudi"
+],
+"primario": "i-gaudi"
+},
+{
+"slug": "f-lli-romano",
+"nome": "F.Lli Romano",
+"regione": "Campania",
+"comune": "Lapio",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"f-lli-romano"
+],
+"primario": "f-lli-romano"
+},
+{
+"slug": "luongo",
+"nome": "Luongo",
+"regione": "Campania",
+"comune": "Raviscanina",
+"tipi": {
+"asprinio": [
+"Asprinio, Galluccio e Falerno"
+]
+},
+"membri": [
+"luongo"
+],
+"primario": "luongo"
+},
+{
+"slug": "antropoli",
+"nome": "Antropoli",
+"regione": "Campania",
+"comune": "Pontelatone",
+"tipi": {
+"asprinio": [
+"Asprinio, Galluccio e Falerno"
+]
+},
+"membri": [
+"antropoli"
+],
+"primario": "antropoli"
+},
+{
+"slug": "f-lli-pagano",
+"nome": "F Lli Pagano",
+"regione": "Campania",
+"comune": "Aquara",
+"tipi": {
+"salerno": [
+"Salerno e Cilento"
+]
+},
+"membri": [
+"f-lli-pagano"
+],
+"primario": "f-lli-pagano"
+},
+{
+"slug": "mavi",
+"nome": "Mavi",
+"regione": "Campania",
+"comune": "Limatola",
+"tipi": {
+"sannio": [
+"Sannio"
+]
+},
+"membri": [
+"mavi"
+],
+"primario": "mavi"
+},
+{
+"slug": "nobili-del-vesuvio",
+"nome": "Nobili del Vesuvio",
+"regione": "Campania",
+"comune": "Boscotrecase",
+"tipi": {
+"vesuvio": [
+"Vesuvio"
+]
+},
+"membri": [
+"nobili-del-vesuvio"
+],
+"primario": "nobili-del-vesuvio"
+},
+{
+"slug": "tenuta-c-est-la-vie",
+"nome": "Tenuta C'est La Vie",
+"regione": "Campania",
+"comune": "Forio",
+"tipi": {
+"ischia-capri": [
+"Ischia e Capri"
+]
+},
+"membri": [
+"tenuta-c-est-la-vie"
+],
+"primario": "tenuta-c-est-la-vie"
+},
+{
+"slug": "azienda-agricola-di-meo",
+"nome": "Azienda Agricola di Meo",
+"regione": "Campania",
+"comune": "Salza Irpina",
+"tipi": {
+"irpinia": [
+"Irpinia"
+]
+},
+"membri": [
+"azienda-agricola-di-meo"
+],
+"primario": "azienda-agricola-di-meo"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",

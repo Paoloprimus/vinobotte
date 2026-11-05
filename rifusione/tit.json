@@ -438,5 +438,25 @@
  "teroldego-rotaliano": [
   "Produttori vini Teroldego Rotaliano",
   "<option>Teroldego Rotaliano</option>"
+ ],
+ "irpinia": [
+  "Produttori vini Irpinia",
+  "<option>Irpinia</option>"
+ ],
+ "costa-amalfi": [
+  "Produttori vini Costa d’Amalfi e Penisola Sorrentina",
+  "<option>Costa d’Amalfi e Penisola Sorrentina</option>"
+ ],
+ "ischia-capri": [
+  "Produttori vini Ischia e Capri",
+  "<option>Ischia e Capri</option>"
+ ],
+ "campi-flegrei": [
+  "Produttori vini Campi Flegrei e Napoli",
+  "<option>Campi Flegrei e Napoli</option>"
+ ],
+ "vesuvio": [
+  "Produttori vini Vesuvio",
+  "<option>Vesuvio</option>"
  ]
 }

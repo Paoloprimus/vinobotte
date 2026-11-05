@@ -233,3 +233,9 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 112 — Trentino-Alto Adige chiuso
 - Registro `trentino-alto-adige-chiusura.md`; `stato-consorzi.csv` righe 28 e 46. Trentino-Alto Adige 300; guida 5.378. Un solo deploy per regione.
+
+## 113 — Campania: Vivino
+- Scaricato Vivino (1.507); 554 candidate non in guida; sito 281; sede 132; +123 nuove schede. Cinque pagine nuove (Irpinia, Vesuvio, Campi Flegrei e Napoli, Ischia e Capri, Costa d'Amalfi). Tessere per provincia/comune di sede.
+
+## 114 — Campania chiusa
+- Registro `campania-chiusura.md`; `stato-consorzi.csv` righe 49, 86, 101, 102, 125. Campania 207; guida 5.501. Un solo deploy per regione.
