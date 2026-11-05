@@ -73299,6 +73299,471 @@
 "primario": "casale-madonna-grande"
 },
 {
+"slug": "grifalco",
+"nome": "Grifalco",
+"regione": "Basilicata",
+"comune": "Venosa",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"grifalco"
+],
+"primario": "grifalco"
+},
+{
+"slug": "cantine-crocco",
+"nome": "Cantine Crocco",
+"regione": "Basilicata",
+"comune": "Montalbano Jonico",
+"tipi": {
+"basilicata": [
+"Matera, Pollino e altre zone"
+]
+},
+"membri": [
+"cantine-crocco"
+],
+"primario": "cantine-crocco"
+},
+{
+"slug": "cantine-cifarelli",
+"nome": "Cantine Cifarelli",
+"regione": "Basilicata",
+"comune": "Montescaglioso",
+"tipi": {
+"basilicata": [
+"Matera, Pollino e altre zone"
+]
+},
+"membri": [
+"cantine-cifarelli"
+],
+"primario": "cantine-cifarelli"
+},
+{
+"slug": "cantina-giorni",
+"nome": "Cantina Giorni",
+"regione": "Basilicata",
+"comune": "Tito",
+"tipi": {
+"basilicata": [
+"Matera, Pollino e altre zone"
+]
+},
+"membri": [
+"cantina-giorni"
+],
+"primario": "cantina-giorni"
+},
+{
+"slug": "cantine-abitante",
+"nome": "Cantine Abitante",
+"regione": "Basilicata",
+"comune": "Francavilla in Sinni",
+"tipi": {
+"basilicata": [
+"Matera, Pollino e altre zone"
+]
+},
+"membri": [
+"cantine-abitante"
+],
+"primario": "cantine-abitante"
+},
+{
+"slug": "elena-fucci",
+"nome": "Elena Fucci",
+"regione": "Basilicata",
+"comune": "Barile",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"elena-fucci"
+],
+"primario": "elena-fucci"
+},
+{
+"slug": "paternoster",
+"nome": "Paternoster",
+"regione": "Basilicata",
+"comune": "Barile",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"paternoster"
+],
+"primario": "paternoster"
+},
+{
+"slug": "donato-d-angelo",
+"nome": "Donato d'Angelo",
+"regione": "Basilicata",
+"comune": "Barile",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"donato-d-angelo"
+],
+"primario": "donato-d-angelo"
+},
+{
+"slug": "tenuta-del-portale",
+"nome": "Tenuta del Portale",
+"regione": "Basilicata",
+"comune": "Rionero in Vulture",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"tenuta-del-portale"
+],
+"primario": "tenuta-del-portale"
+},
+{
+"slug": "terra-dei-re",
+"nome": "Terra dei Re",
+"regione": "Basilicata",
+"comune": "Rionero in Vulture",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"terra-dei-re"
+],
+"primario": "terra-dei-re"
+},
+{
+"slug": "casa-maschito",
+"nome": "Casa Maschito",
+"regione": "Basilicata",
+"comune": "Maschito",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"casa-maschito"
+],
+"primario": "casa-maschito"
+},
+{
+"slug": "musto-carmelitano",
+"nome": "Musto Carmelitano",
+"regione": "Basilicata",
+"comune": "Maschito",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"musto-carmelitano"
+],
+"primario": "musto-carmelitano"
+},
+{
+"slug": "battifarano",
+"nome": "Battifarano",
+"regione": "Basilicata",
+"comune": "Nova Siri",
+"tipi": {
+"basilicata": [
+"Matera, Pollino e altre zone"
+]
+},
+"membri": [
+"battifarano"
+],
+"primario": "battifarano"
+},
+{
+"slug": "carbone",
+"nome": "Carbone",
+"regione": "Basilicata",
+"comune": "Melfi",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"carbone"
+],
+"primario": "carbone"
+},
+{
+"slug": "camerlengo",
+"nome": "Camerlengo",
+"regione": "Basilicata",
+"comune": "Rapolla",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"camerlengo"
+],
+"primario": "camerlengo"
+},
+{
+"slug": "vitis-in-vulture",
+"nome": "Vitis in Vulture",
+"regione": "Basilicata",
+"comune": "Lavello",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"vitis-in-vulture"
+],
+"primario": "vitis-in-vulture"
+},
+{
+"slug": "francesco-radino",
+"nome": "Francesco Radino",
+"regione": "Basilicata",
+"comune": "Matera",
+"tipi": {
+"basilicata": [
+"Matera, Pollino e altre zone"
+]
+},
+"membri": [
+"francesco-radino"
+],
+"primario": "francesco-radino"
+},
+{
+"slug": "lagala",
+"nome": "Lagala",
+"regione": "Basilicata",
+"comune": "Venosa",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"lagala"
+],
+"primario": "lagala"
+},
+{
+"slug": "tenute-iacovazzo",
+"nome": "Tenute Iacovazzo",
+"regione": "Basilicata",
+"comune": "Matera",
+"tipi": {
+"basilicata": [
+"Matera, Pollino e altre zone"
+]
+},
+"membri": [
+"tenute-iacovazzo"
+],
+"primario": "tenute-iacovazzo"
+},
+{
+"slug": "cantine-strapellum",
+"nome": "Cantine Strapellum",
+"regione": "Basilicata",
+"comune": "Rionero in Vulture",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"cantine-strapellum"
+],
+"primario": "cantine-strapellum"
+},
+{
+"slug": "mastrodomenico",
+"nome": "Mastrodomenico",
+"regione": "Basilicata",
+"comune": "Barile",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"mastrodomenico"
+],
+"primario": "mastrodomenico"
+},
+{
+"slug": "cantina-del-vulture",
+"nome": "Cantina del Vulture",
+"regione": "Basilicata",
+"comune": "Ripacandida",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"cantina-del-vulture"
+],
+"primario": "cantina-del-vulture"
+},
+{
+"slug": "podere-lucano",
+"nome": "Podere Lucano",
+"regione": "Basilicata",
+"comune": "Ripacandida",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"podere-lucano"
+],
+"primario": "podere-lucano"
+},
+{
+"slug": "tenute-mantegna",
+"nome": "Tenute Mantegna",
+"regione": "Basilicata",
+"comune": "Irsina",
+"tipi": {
+"basilicata": [
+"Matera, Pollino e altre zone"
+]
+},
+"membri": [
+"tenute-mantegna"
+],
+"primario": "tenute-mantegna"
+},
+{
+"slug": "cantina-di-barile",
+"nome": "Cantina di Barile",
+"regione": "Basilicata",
+"comune": "Barile",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"cantina-di-barile"
+],
+"primario": "cantina-di-barile"
+},
+{
+"slug": "catalano",
+"nome": "Catalano",
+"regione": "Basilicata",
+"comune": "Lavello",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"catalano"
+],
+"primario": "catalano"
+},
+{
+"slug": "alte-vigne-della-val-camastra",
+"nome": "Alte Vigne Della Val Camastra",
+"regione": "Basilicata",
+"comune": "Anzi",
+"tipi": {
+"basilicata": [
+"Matera, Pollino e altre zone"
+]
+},
+"membri": [
+"alte-vigne-della-val-camastra"
+],
+"primario": "alte-vigne-della-val-camastra"
+},
+{
+"slug": "troilo",
+"nome": "Troilo",
+"regione": "Basilicata",
+"comune": "Venosa",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"troilo"
+],
+"primario": "troilo"
+},
+{
+"slug": "cantina-lucana",
+"nome": "Cantina Lucana",
+"regione": "Basilicata",
+"comune": "Ripacandida",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"cantina-lucana"
+],
+"primario": "cantina-lucana"
+},
+{
+"slug": "cantine-dei-templari",
+"nome": "Cantine dei Templari",
+"regione": "Basilicata",
+"comune": "Forenza",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"cantine-dei-templari"
+],
+"primario": "cantine-dei-templari"
+},
+{
+"slug": "cantine-del-notaio",
+"nome": "Cantine del Notaio",
+"regione": "Basilicata",
+"comune": "Rionero in Vulture",
+"tipi": {
+"vulture": [
+"Vulture e Aglianico del Vulture"
+]
+},
+"membri": [
+"cantine-del-notaio"
+],
+"primario": "cantine-del-notaio"
+},
+{
 "slug": "le-fonti-di-ciucchi-simone",
 "nome": "Le Fonti di Ciucchi Simone",
 "regione": "Toscana",

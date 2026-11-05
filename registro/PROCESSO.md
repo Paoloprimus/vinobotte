@@ -323,3 +323,6 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 142 — Molise chiusa
 - Registro `molise-chiusura.md`; `stato-consorzi.csv` riga 134. Vivino 76 (39 con ≥5 vini), 21 siti: 17 schede, pagina unica. Molise 17; guida 6.867.
+
+## 143 — Basilicata chiusa
+- Registro `basilicata-chiusura.md`; `stato-consorzi.csv` riga 43. Vivino 214 (88 con ≥5 vini), 41 siti: 31 schede, due pagine nuove. Basilicata 31; guida 6.898. Corretto il motivo di Di Vito (Molise) nel wip.
