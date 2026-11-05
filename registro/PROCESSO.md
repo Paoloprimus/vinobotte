@@ -320,3 +320,6 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 
 ## 141 — Valle d'Aosta chiusa
 - Registro `valle-daosta-chiusura.md`; `stato-consorzi.csv` riga 123. Consorzio riletto (46 voci) + Vivino (94; 53 con ≥5 vini): 49 schede, pagina unica. Valle d'Aosta 49; guida 6.850. Wip aggiornato (42 righe vecchie rimosse, 43 nuove).
+
+## 142 — Molise chiusa
+- Registro `molise-chiusura.md`; `stato-consorzi.csv` riga 134. Vivino 76 (39 con ≥5 vini), 21 siti: 17 schede, pagina unica. Molise 17; guida 6.867.
