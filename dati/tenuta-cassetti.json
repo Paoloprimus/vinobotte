@@ -1,0 +1,40 @@
+{
+ "nome": "Tenuta Cassetti",
+ "slug": "tenuta-cassetti",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Località Madonna della Carità Ancarano, 64010 Ancarano (TE) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 338 807 8460 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutacassetti.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://www.tenutacassetti.it/|tenutacassetti.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

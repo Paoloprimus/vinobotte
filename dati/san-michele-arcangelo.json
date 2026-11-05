@@ -1,0 +1,50 @@
+{
+ "nome": "San Michele Arcangelo",
+ "slug": "san-michele-arcangelo",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Cooperativa Agricola [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Difenza, 66054 Vasto (CH) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0873 310122 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinasanmichele.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.cantinasanmichele.it|cantinasanmichele.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "http://www.cantinasanmichele.it",
+   "etichetta": "cantinasanmichele.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "nome": "Tenuta Micoli",
+ "slug": "tenuta-micoli",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società a Responsabilità Limitata [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via XXIV Maggio  Frisa, 66030 Frisa (CH) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 320 8891211 [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.tenutamicoli.it|tenutamicoli.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "http://www.tenutamicoli.it",
+   "etichetta": "tenutamicoli.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

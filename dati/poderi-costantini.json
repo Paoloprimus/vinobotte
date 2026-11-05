@@ -1,0 +1,59 @@
+{
+ "nome": "Poderi Costantini",
+ "slug": "poderi-costantini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Fattoria Colline Verdi di Costantini Antonio Srl [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Strada Migliori 20, 65013 Città Sant'Angelo (PE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 085 9699169 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@costantinivini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.podericostantini.it|podericostantini.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montepulciano d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Colline Pescaresi, Passerina [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "http://www.podericostantini.it",
+   "etichetta": "podericostantini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Fattoria Licia","s":"fattoria-licia","c":"Villamagna","d":["Villamagna"]},{"n":"Torre Zambra","s":"torre-zambra","c":"Villamagna","d":["Villamagna"]}];
+    const D=[{"n":"Cantina Sociale Villamagna","s":"cantina-sociale-villamagna","c":"Villamagna","d":["Villamagna"]},{"n":"Fattoria Licia","s":"fattoria-licia","c":"Villamagna","d":["Villamagna"]},{"n":"Torre Zambra","s":"torre-zambra","c":"Villamagna","d":["Villamagna"]},{"n":"Valle Martello","s":"valle-martello","c":"Villamagna","d":["Villamagna"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');

@@ -72924,6 +72924,9 @@
 "tipi": {
 "abruzzo": [
 "Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
 ]
 },
 "membri": [
@@ -72984,6 +72987,9 @@
 "tipi": {
 "abruzzo": [
 "Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
 ]
 },
 "membri": [
@@ -72999,6 +73005,12 @@
 "tipi": {
 "abruzzo": [
 "Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
+],
+"controguerra": [
+"Controguerra"
 ]
 },
 "membri": [
@@ -75183,6 +75195,9 @@
 "tipi": {
 "abruzzo": [
 "Abruzzo"
+],
+"villamagna": [
+"Villamagna"
 ]
 },
 "membri": [
@@ -75198,6 +75213,12 @@
 "tipi": {
 "abruzzo": [
 "Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
+],
+"controguerra": [
+"Controguerra"
 ]
 },
 "membri": [
@@ -75528,6 +75549,9 @@
 "tipi": {
 "abruzzo": [
 "Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
 ]
 },
 "membri": [
@@ -75603,6 +75627,9 @@
 "tipi": {
 "abruzzo": [
 "Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
 ]
 },
 "membri": [
@@ -75618,6 +75645,9 @@
 "tipi": {
 "abruzzo": [
 "Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
 ]
 },
 "membri": [
@@ -75633,6 +75663,9 @@
 "tipi": {
 "abruzzo": [
 "Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
 ]
 },
 "membri": [
@@ -88179,5 +88212,1571 @@
 "zanini-luigi"
 ],
 "primario": "zanini-luigi"
+},
+{
+"slug": "abbazia-di-propezzano",
+"nome": "Abbazia di Propezzano",
+"regione": "Abruzzo",
+"comune": "Morro d'Oro",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+],
+"colline-teramane": [
+"Colline Teramane"
+]
+},
+"membri": [
+"abbazia-di-propezzano"
+],
+"primario": "abbazia-di-propezzano"
+},
+{
+"slug": "alaterra",
+"nome": "Alaterra",
+"regione": "Abruzzo",
+"comune": "Bussi sul Tirino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"alaterra"
+],
+"primario": "alaterra"
+},
+{
+"slug": "amorotti",
+"nome": "Amorotti",
+"regione": "Abruzzo",
+"comune": "Loreto Aprutino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"amorotti"
+],
+"primario": "amorotti"
+},
+{
+"slug": "francesco-cerulli-irelli",
+"nome": "Francesco Cerulli Irelli",
+"regione": "Abruzzo",
+"comune": "Spoltore",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"francesco-cerulli-irelli"
+],
+"primario": "francesco-cerulli-irelli"
+},
+{
+"slug": "rabottini",
+"nome": "Rabottini",
+"regione": "Abruzzo",
+"comune": "Chieti",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"rabottini"
+],
+"primario": "rabottini"
+},
+{
+"slug": "donofrio",
+"nome": "D’Onofrio",
+"regione": "Abruzzo",
+"comune": "Loreto Aprutino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"donofrio"
+],
+"primario": "donofrio"
+},
+{
+"slug": "di-nicola",
+"nome": "Di Nicola",
+"regione": "Abruzzo",
+"comune": "Roseto degli Abruzzi",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"di-nicola"
+],
+"primario": "di-nicola"
+},
+{
+"slug": "luciani-giuseppe",
+"nome": "Luciani Giuseppe",
+"regione": "Abruzzo",
+"comune": "Mozzagrogna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"luciani-giuseppe"
+],
+"primario": "luciani-giuseppe"
+},
+{
+"slug": "nicola-santoleri",
+"nome": "Nicola Santoleri",
+"regione": "Abruzzo",
+"comune": "Guardiagrele",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"nicola-santoleri"
+],
+"primario": "nicola-santoleri"
+},
+{
+"slug": "enzo-galasso",
+"nome": "Enzo Galasso",
+"regione": "Abruzzo",
+"comune": "Francavilla al Mare",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"enzo-galasso"
+],
+"primario": "enzo-galasso"
+},
+{
+"slug": "fausto-zazzara",
+"nome": "Fausto Zazzara",
+"regione": "Abruzzo",
+"comune": "Tocco da Casauria",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"fausto-zazzara"
+],
+"primario": "fausto-zazzara"
+},
+{
+"slug": "natarelli",
+"nome": "Natarelli",
+"regione": "Abruzzo",
+"comune": "Bolognano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"natarelli"
+],
+"primario": "natarelli"
+},
+{
+"slug": "vaddinelli",
+"nome": "Vaddinelli",
+"regione": "Abruzzo",
+"comune": "Atri",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"vaddinelli"
+],
+"primario": "vaddinelli"
+},
+{
+"slug": "vitivinicola-lepore",
+"nome": "Vitivinicola Lepore",
+"regione": "Abruzzo",
+"comune": "Colonnella",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"vitivinicola-lepore"
+],
+"primario": "vitivinicola-lepore"
+},
+{
+"slug": "aziende-agricole-cirulli",
+"nome": "Aziende Agricole Cirulli",
+"regione": "Abruzzo",
+"comune": "Cupello",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"aziende-agricole-cirulli"
+],
+"primario": "aziende-agricole-cirulli"
+},
+{
+"slug": "bice-coletti",
+"nome": "Bice Coletti",
+"regione": "Abruzzo",
+"comune": "Ofena",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"bice-coletti"
+],
+"primario": "bice-coletti"
+},
+{
+"slug": "budano-vini",
+"nome": "Budano Vini",
+"regione": "Abruzzo",
+"comune": "Arielli",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"budano-vini"
+],
+"primario": "budano-vini"
+},
+{
+"slug": "burgus-vitae",
+"nome": "Burgus Vitae",
+"regione": "Abruzzo",
+"comune": "Tollo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"burgus-vitae"
+],
+"primario": "burgus-vitae"
+},
+{
+"slug": "ca-dabruzzo",
+"nome": "Cà d’Abruzzo",
+"regione": "Abruzzo",
+"comune": "Fara Filiorum Petri",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"ca-dabruzzo"
+],
+"primario": "ca-dabruzzo"
+},
+{
+"slug": "cantina-blancodini",
+"nome": "Cantina Blancodini",
+"regione": "Abruzzo",
+"comune": "Pratola Peligna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-blancodini"
+],
+"primario": "cantina-blancodini"
+},
+{
+"slug": "cantina-bottari",
+"nome": "Cantina Bottari",
+"regione": "Abruzzo",
+"comune": "Chieti",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-bottari"
+],
+"primario": "cantina-bottari"
+},
+{
+"slug": "cantina-bove",
+"nome": "Cantina Bove",
+"regione": "Abruzzo",
+"comune": "Avezzano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-bove"
+],
+"primario": "cantina-bove"
+},
+{
+"slug": "cantina-fosso-corno",
+"nome": "Cantina Fosso Corno",
+"regione": "Abruzzo",
+"comune": "Torano Nuovo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-fosso-corno"
+],
+"primario": "cantina-fosso-corno"
+},
+{
+"slug": "cantina-sociale-di-ortona",
+"nome": "Cantina Sociale di Ortona",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-sociale-di-ortona"
+],
+"primario": "cantina-sociale-di-ortona"
+},
+{
+"slug": "cantina-sociale-madonna-dei-miracoli",
+"nome": "Cantina Sociale Madonna dei Miracoli",
+"regione": "Abruzzo",
+"comune": "Casalbordino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-sociale-madonna-dei-miracoli"
+],
+"primario": "cantina-sociale-madonna-dei-miracoli"
+},
+{
+"slug": "cantina-sociale-rinascita-lancianese",
+"nome": "Cantina Sociale Rinascita Lancianese",
+"regione": "Abruzzo",
+"comune": "Lanciano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-sociale-rinascita-lancianese"
+],
+"primario": "cantina-sociale-rinascita-lancianese"
+},
+{
+"slug": "cantina-valsinello",
+"nome": "Cantina Valsinello",
+"regione": "Abruzzo",
+"comune": "Pollutri",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-valsinello"
+],
+"primario": "cantina-valsinello"
+},
+{
+"slug": "cantina-villa-alta",
+"nome": "Cantina Villa Alta",
+"regione": "Abruzzo",
+"comune": "Lanciano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-villa-alta"
+],
+"primario": "cantina-villa-alta"
+},
+{
+"slug": "cantina-vinum-hadrianum",
+"nome": "Cantina Vinum Hadrianum",
+"regione": "Abruzzo",
+"comune": "Atri",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-vinum-hadrianum"
+],
+"primario": "cantina-vinum-hadrianum"
+},
+{
+"slug": "cantina-wilma",
+"nome": "Cantina Wilma",
+"regione": "Abruzzo",
+"comune": "Chieti",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantina-wilma"
+],
+"primario": "cantina-wilma"
+},
+{
+"slug": "cantine-casimirri",
+"nome": "Cantine Casimirri",
+"regione": "Abruzzo",
+"comune": "Corropoli",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantine-casimirri"
+],
+"primario": "cantine-casimirri"
+},
+{
+"slug": "cantine-galasso",
+"nome": "Cantine Galasso",
+"regione": "Abruzzo",
+"comune": "Loreto Aprutino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantine-galasso"
+],
+"primario": "cantine-galasso"
+},
+{
+"slug": "cantine-maligni",
+"nome": "Cantine Maligni",
+"regione": "Abruzzo",
+"comune": "Chieti",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"cantine-maligni"
+],
+"primario": "cantine-maligni"
+},
+{
+"slug": "caravaggio",
+"nome": "Caravaggio",
+"regione": "Abruzzo",
+"comune": "Rocca San Giovanni",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"caravaggio"
+],
+"primario": "caravaggio"
+},
+{
+"slug": "casa-vinicola-italo-pietrantonj",
+"nome": "Casa Vinicola Italo Pietrantonj",
+"regione": "Abruzzo",
+"comune": "Vittorito",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"casa-vinicola-italo-pietrantonj"
+],
+"primario": "casa-vinicola-italo-pietrantonj"
+},
+{
+"slug": "casa-vinicola-roxan",
+"nome": "Casa Vinicola Roxan",
+"regione": "Abruzzo",
+"comune": "Rosciano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"casa-vinicola-roxan"
+],
+"primario": "casa-vinicola-roxan"
+},
+{
+"slug": "centofanti-piacentino",
+"nome": "Centofanti Piacentino",
+"regione": "Abruzzo",
+"comune": "Giuliano Teatino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"centofanti-piacentino"
+],
+"primario": "centofanti-piacentino"
+},
+{
+"slug": "centorame",
+"nome": "Centorame",
+"regione": "Abruzzo",
+"comune": "Atri",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"centorame"
+],
+"primario": "centorame"
+},
+{
+"slug": "crea-vini",
+"nome": "Crea Vini",
+"regione": "Abruzzo",
+"comune": "Casoli",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"crea-vini"
+],
+"primario": "crea-vini"
+},
+{
+"slug": "fattoria-teatina",
+"nome": "Fattoria Teatina",
+"regione": "Abruzzo",
+"comune": "San Giovanni Teatino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"fattoria-teatina"
+],
+"primario": "fattoria-teatina"
+},
+{
+"slug": "fratelli-donofrio",
+"nome": "Fratelli D’Onofrio",
+"regione": "Abruzzo",
+"comune": "Villamagna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"fratelli-donofrio"
+],
+"primario": "fratelli-donofrio"
+},
+{
+"slug": "gennaro-pigliacampo",
+"nome": "Gennaro Pigliacampo",
+"regione": "Abruzzo",
+"comune": "Giulianova",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"gennaro-pigliacampo"
+],
+"primario": "gennaro-pigliacampo"
+},
+{
+"slug": "gioia-del-sole",
+"nome": "Gioia del Sole",
+"regione": "Abruzzo",
+"comune": "Ripa Teatina",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"gioia-del-sole"
+],
+"primario": "gioia-del-sole"
+},
+{
+"slug": "i-vini-di-ferruccio",
+"nome": "I Vini di Ferruccio",
+"regione": "Abruzzo",
+"comune": "Giulianova",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"i-vini-di-ferruccio"
+],
+"primario": "i-vini-di-ferruccio"
+},
+{
+"slug": "le-prunaie",
+"nome": "Le Prunaie",
+"regione": "Abruzzo",
+"comune": "Catignano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"le-prunaie"
+],
+"primario": "le-prunaie"
+},
+{
+"slug": "lidia-amato-viticoltori",
+"nome": "Lidia & Amato Viticoltori",
+"regione": "Abruzzo",
+"comune": "Controguerra",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"lidia-amato-viticoltori"
+],
+"primario": "lidia-amato-viticoltori"
+},
+{
+"slug": "lidia-amato",
+"nome": "Lidia & Amato",
+"regione": "Abruzzo",
+"comune": "Controguerra",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"lidia-amato"
+],
+"primario": "lidia-amato"
+},
+{
+"slug": "madonna-di-loreto",
+"nome": "Madonna di Loreto",
+"regione": "Abruzzo",
+"comune": "Torino di Sangro",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"madonna-di-loreto"
+],
+"primario": "madonna-di-loreto"
+},
+{
+"slug": "marramiero",
+"nome": "Marramiero",
+"regione": "Abruzzo",
+"comune": "Rosciano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"marramiero"
+],
+"primario": "marramiero"
+},
+{
+"slug": "masciarelli",
+"nome": "Masciarelli",
+"regione": "Abruzzo",
+"comune": "San Martino sulla Marrucina",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"masciarelli"
+],
+"primario": "masciarelli"
+},
+{
+"slug": "mastrangelo-vini",
+"nome": "Mastrangelo Vini",
+"regione": "Abruzzo",
+"comune": "Loreto Aprutino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"mastrangelo-vini"
+],
+"primario": "mastrangelo-vini"
+},
+{
+"slug": "mazzarosa",
+"nome": "Mazzarosa",
+"regione": "Abruzzo",
+"comune": "Roseto degli Abruzzi",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"mazzarosa"
+],
+"primario": "mazzarosa"
+},
+{
+"slug": "menicucci-vini",
+"nome": "Menicucci Vini",
+"regione": "Abruzzo",
+"comune": "Canosa Sannita",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"menicucci-vini"
+],
+"primario": "menicucci-vini"
+},
+{
+"slug": "novaripa",
+"nome": "Novaripa",
+"regione": "Abruzzo",
+"comune": "Ripa Teatina",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"novaripa"
+],
+"primario": "novaripa"
+},
+{
+"slug": "olearia-vinicola-villese",
+"nome": "Olearia Vinicola Villese",
+"regione": "Abruzzo",
+"comune": "Vasto",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"olearia-vinicola-villese"
+],
+"primario": "olearia-vinicola-villese"
+},
+{
+"slug": "olivastri-tommaso",
+"nome": "Olivastri Tommaso",
+"regione": "Abruzzo",
+"comune": "San Vito Chietino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"olivastri-tommaso"
+],
+"primario": "olivastri-tommaso"
+},
+{
+"slug": "ortofrutticola-del-trigno",
+"nome": "Ortofrutticola del Trigno",
+"regione": "Abruzzo",
+"comune": "San Salvo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"ortofrutticola-del-trigno"
+],
+"primario": "ortofrutticola-del-trigno"
+},
+{
+"slug": "palmitesta-carlo",
+"nome": "Palmitesta Carlo",
+"regione": "Abruzzo",
+"comune": "Francavilla al Mare",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"palmitesta-carlo"
+],
+"primario": "palmitesta-carlo"
+},
+{
+"slug": "paolucci-giovanni",
+"nome": "Paolucci Giovanni",
+"regione": "Abruzzo",
+"comune": "Paglieta",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"paolucci-giovanni"
+],
+"primario": "paolucci-giovanni"
+},
+{
+"slug": "paride-dangelo",
+"nome": "Paride D’angelo",
+"regione": "Abruzzo",
+"comune": "Pianella",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"paride-dangelo"
+],
+"primario": "paride-dangelo"
+},
+{
+"slug": "pescara-vini",
+"nome": "Pescara Vini",
+"regione": "Abruzzo",
+"comune": "Pratola Peligna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"pescara-vini"
+],
+"primario": "pescara-vini"
+},
+{
+"slug": "pian-di-mare",
+"nome": "Pian di Mare",
+"regione": "Abruzzo",
+"comune": "Villamagna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"pian-di-mare"
+],
+"primario": "pian-di-mare"
+},
+{
+"slug": "pinto-vini",
+"nome": "Pinto Vini",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"pinto-vini"
+],
+"primario": "pinto-vini"
+},
+{
+"slug": "podere-colle-san-massimo",
+"nome": "Podere Colle San Massimo",
+"regione": "Abruzzo",
+"comune": "Giulianova",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"podere-colle-san-massimo"
+],
+"primario": "podere-colle-san-massimo"
+},
+{
+"slug": "poderi-costantini",
+"nome": "Poderi Costantini",
+"regione": "Abruzzo",
+"comune": "Città Sant'Angelo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"poderi-costantini"
+],
+"primario": "poderi-costantini"
+},
+{
+"slug": "polidori",
+"nome": "Polidori",
+"regione": "Abruzzo",
+"comune": "Pianella",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"polidori"
+],
+"primario": "polidori"
+},
+{
+"slug": "progresso-agricolo",
+"nome": "Progresso Agricolo",
+"regione": "Abruzzo",
+"comune": "Crecchio",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"progresso-agricolo"
+],
+"primario": "progresso-agricolo"
+},
+{
+"slug": "rodea",
+"nome": "Rodea",
+"regione": "Abruzzo",
+"comune": "Roseto degli Abruzzi",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"rodea"
+],
+"primario": "rodea"
+},
+{
+"slug": "san-michele-arcangelo",
+"nome": "San Michele Arcangelo",
+"regione": "Abruzzo",
+"comune": "Vasto",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"san-michele-arcangelo"
+],
+"primario": "san-michele-arcangelo"
+},
+{
+"slug": "sanmauro",
+"nome": "Sanmauro",
+"regione": "Abruzzo",
+"comune": "Bomba",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"sanmauro"
+],
+"primario": "sanmauro"
+},
+{
+"slug": "simigliani-giuseppe",
+"nome": "Simigliani Giuseppe",
+"regione": "Abruzzo",
+"comune": "Ripa Teatina",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"simigliani-giuseppe"
+],
+"primario": "simigliani-giuseppe"
+},
+{
+"slug": "sincarpa",
+"nome": "Sincarpa",
+"regione": "Abruzzo",
+"comune": "Torrevecchia Teatina",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"sincarpa"
+],
+"primario": "sincarpa"
+},
+{
+"slug": "speranza-vini",
+"nome": "Speranza Vini",
+"regione": "Abruzzo",
+"comune": "Rosciano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"speranza-vini"
+],
+"primario": "speranza-vini"
+},
+{
+"slug": "stefania-pepe",
+"nome": "Stefania Pepe",
+"regione": "Abruzzo",
+"comune": "Torano Nuovo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"stefania-pepe"
+],
+"primario": "stefania-pepe"
+},
+{
+"slug": "tenuta-agricola-pesolillo",
+"nome": "Tenuta Agricola Pesolillo",
+"regione": "Abruzzo",
+"comune": "Chieti",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-agricola-pesolillo"
+],
+"primario": "tenuta-agricola-pesolillo"
+},
+{
+"slug": "tenuta-antonini-alessio",
+"nome": "Tenuta Antonini Alessio",
+"regione": "Abruzzo",
+"comune": "Sant'Egidio alla Vibrata",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-antonini-alessio"
+],
+"primario": "tenuta-antonini-alessio"
+},
+{
+"slug": "tenuta-arabona",
+"nome": "Tenuta Arabona",
+"regione": "Abruzzo",
+"comune": "Manoppello",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-arabona"
+],
+"primario": "tenuta-arabona"
+},
+{
+"slug": "tenuta-casachiara",
+"nome": "Tenuta Casachiara",
+"regione": "Abruzzo",
+"comune": "Teramo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-casachiara"
+],
+"primario": "tenuta-casachiara"
+},
+{
+"slug": "tenuta-cassetti",
+"nome": "Tenuta Cassetti",
+"regione": "Abruzzo",
+"comune": "Ancarano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-cassetti"
+],
+"primario": "tenuta-cassetti"
+},
+{
+"slug": "tenuta-mammarella",
+"nome": "Tenuta Mammarella",
+"regione": "Abruzzo",
+"comune": "Vacri",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-mammarella"
+],
+"primario": "tenuta-mammarella"
+},
+{
+"slug": "tenuta-micoli",
+"nome": "Tenuta Micoli",
+"regione": "Abruzzo",
+"comune": "Frisa",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-micoli"
+],
+"primario": "tenuta-micoli"
+},
+{
+"slug": "tenuta-morganti",
+"nome": "Tenuta Morganti",
+"regione": "Abruzzo",
+"comune": "Torano Nuovo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-morganti"
+],
+"primario": "tenuta-morganti"
+},
+{
+"slug": "tenuta-pescarina",
+"nome": "Tenuta Pescarina",
+"regione": "Abruzzo",
+"comune": "Spoltore",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-pescarina"
+],
+"primario": "tenuta-pescarina"
+},
+{
+"slug": "tenuta-talamonti",
+"nome": "Tenuta Talamonti",
+"regione": "Abruzzo",
+"comune": "Loreto Aprutino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-talamonti"
+],
+"primario": "tenuta-talamonti"
+},
+{
+"slug": "tenuta-tre-gemme",
+"nome": "Tenuta Tre Gemme",
+"regione": "Abruzzo",
+"comune": "Catignano",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenuta-tre-gemme"
+],
+"primario": "tenuta-tre-gemme"
+},
+{
+"slug": "tenute-inverso",
+"nome": "Tenute Inverso",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenute-inverso"
+],
+"primario": "tenute-inverso"
+},
+{
+"slug": "tenute-san-tommaso",
+"nome": "Tenute San Tommaso",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tenute-san-tommaso"
+],
+"primario": "tenute-san-tommaso"
+},
+{
+"slug": "terre-di-poggio",
+"nome": "Terre di Poggio",
+"regione": "Abruzzo",
+"comune": "Poggiofiorito",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"terre-di-poggio"
+],
+"primario": "terre-di-poggio"
+},
+{
+"slug": "the-vinum",
+"nome": "The Vinum",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"the-vinum"
+],
+"primario": "the-vinum"
+},
+{
+"slug": "tocco-vini",
+"nome": "Tocco Vini",
+"regione": "Abruzzo",
+"comune": "Alanno",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"tocco-vini"
+],
+"primario": "tocco-vini"
+},
+{
+"slug": "torre-dei-beati",
+"nome": "Torre dei Beati",
+"regione": "Abruzzo",
+"comune": "Loreto Aprutino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"torre-dei-beati"
+],
+"primario": "torre-dei-beati"
+},
+{
+"slug": "torre-raone",
+"nome": "Torre Raone",
+"regione": "Abruzzo",
+"comune": "Loreto Aprutino",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"torre-raone"
+],
+"primario": "torre-raone"
+},
+{
+"slug": "valle-martello",
+"nome": "Valle Martello",
+"regione": "Abruzzo",
+"comune": "Villamagna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+],
+"villamagna": [
+"Villamagna"
+]
+},
+"membri": [
+"valle-martello"
+],
+"primario": "valle-martello"
+},
+{
+"slug": "valle-reale",
+"nome": "Valle Reale",
+"regione": "Abruzzo",
+"comune": "Popoli",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"valle-reale"
+],
+"primario": "valle-reale"
+},
+{
+"slug": "valori",
+"nome": "Valori",
+"regione": "Abruzzo",
+"comune": "San Martino sulla Marrucina",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"valori"
+],
+"primario": "valori"
+},
+{
+"slug": "valpeligna",
+"nome": "Valpeligna",
+"regione": "Abruzzo",
+"comune": "Pratola Peligna",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"valpeligna"
+],
+"primario": "valpeligna"
+},
+{
+"slug": "vigna-di-more",
+"nome": "Vigna di More",
+"regione": "Abruzzo",
+"comune": "Tione degli Abruzzi",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"vigna-di-more"
+],
+"primario": "vigna-di-more"
+},
+{
+"slug": "vignavolando",
+"nome": "Vignavolando",
+"regione": "Abruzzo",
+"comune": "Pescara",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"vignavolando"
+],
+"primario": "vignavolando"
+},
+{
+"slug": "vigneti-di-bonaventura",
+"nome": "Vigneti Di Bonaventura",
+"regione": "Abruzzo",
+"comune": "Bellante",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"vigneti-di-bonaventura"
+],
+"primario": "vigneti-di-bonaventura"
+},
+{
+"slug": "vigneti-radica",
+"nome": "Vigneti Radica",
+"regione": "Abruzzo",
+"comune": "Tollo",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"vigneti-radica"
+],
+"primario": "vigneti-radica"
+},
+{
+"slug": "villa-medoro",
+"nome": "Villa Medoro",
+"regione": "Abruzzo",
+"comune": "Atri",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"villa-medoro"
+],
+"primario": "villa-medoro"
+},
+{
+"slug": "vinco-abruzzo",
+"nome": "Vinco Abruzzo",
+"regione": "Abruzzo",
+"comune": "Ortona",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"vinco-abruzzo"
+],
+"primario": "vinco-abruzzo"
+},
+{
+"slug": "vini-biagi",
+"nome": "Vini Biagi",
+"regione": "Abruzzo",
+"comune": "Colonnella",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"vini-biagi"
+],
+"primario": "vini-biagi"
+},
+{
+"slug": "white-oak",
+"nome": "White Oak",
+"regione": "Abruzzo",
+"comune": "Pineto",
+"tipi": {
+"abruzzo": [
+"Abruzzo"
+]
+},
+"membri": [
+"white-oak"
+],
+"primario": "white-oak"
 }
 ]

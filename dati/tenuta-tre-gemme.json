@@ -1,0 +1,49 @@
+{
+ "nome": "Tenuta Tre Gemme",
+ "slug": "tenuta-tre-gemme",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Varano snc, 65011 Catignano (PE) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 085 9218100 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutatregemme.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.tenutatregemme.com|tenutatregemme.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Pecorino, Abruzzo, Colline Pescaresi, Passerina [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

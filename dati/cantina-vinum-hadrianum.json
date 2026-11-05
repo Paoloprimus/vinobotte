@@ -1,0 +1,49 @@
+{
+ "nome": "Cantina Vinum Hadrianum",
+ "slug": "cantina-vinum-hadrianum",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Picena, 64032 Atri (TE) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 333 1897841 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@hadrianum.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.vinumhadrianum.com|vinumhadrianum.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Cerasuolo d'Abruzzo, Pecorino, Abruzzo, Passerina [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

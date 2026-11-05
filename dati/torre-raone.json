@@ -1,0 +1,49 @@
+{
+ "nome": "Torre Raone",
+ "slug": "torre-raone",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Scannella Superiore 6, 65014 Loreto Aprutino (PE) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 085 8289699 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@torreraone.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.torreraone.com/|torreraone.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Terre dei Vestini, Abruzzo, Colline Pescaresi [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

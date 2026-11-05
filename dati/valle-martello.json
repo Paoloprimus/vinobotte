@@ -1,0 +1,49 @@
+{
+ "nome": "Valle Martello",
+ "slug": "valle-martello",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Valle Martello 10, 66010 Villamagna (CH) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0871 300330 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@vallemartello.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.vallemartello.it|vallemartello.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Villamagna, Abruzzo, Colline Teatine, Cococciola [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

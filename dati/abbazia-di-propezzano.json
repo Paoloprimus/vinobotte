@@ -1,0 +1,59 @@
+{
+ "nome": "Abbazia di Propezzano",
+ "slug": "abbazia-di-propezzano",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Semplice [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Contrada Propezzano, 64020 Morro d'Oro (TE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 392 2318864 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@abbaziadipropezzano.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.abbaziadipropezzano.com|abbaziadipropezzano.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Montepulciano d'Abruzzo, Colline Teramane, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Passerina [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "http://www.abbaziadipropezzano.com",
+   "etichetta": "abbaziadipropezzano.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "nome": "Cantina Sociale Rinascita Lancianese",
+ "slug": "cantina-sociale-rinascita-lancianese",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Iconicella 301, 66034 Lanciano (CH) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0872 466327 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@rinascitalancianese.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.rinascitalancianese.it|rinascitalancianese.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

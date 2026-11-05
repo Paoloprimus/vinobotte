@@ -243,5 +243,8 @@ Cinquantasettesimo passo (2 novembre, secondo lotto, parte D: Barbera d'Asti e M
 ## 115 — Abruzzo: Vivino
 - Scaricato Vivino (1.299); 457 candidate non in guida; sito 206; sede 87; +67 nuove schede. Pagine nuove: Colline Teramane, Controguerra, Villamagna.
 
-## 116 — Abruzzo chiuso
-- Registro `abruzzo-chiusura.md`; `stato-consorzi.csv` riga 15. Abruzzo 131; guida 5.568. Aggiunto il registro unico `cantine-scartate.csv` (sul Mac, fuori dal sito), da rigenerare a ogni regione con `registro_scartate.py`.
+## 116 — Abruzzo: consorzio completo
+- Elenco consorzio ricaricato per intero (241 soci): +104 schede dal consorzio; denominazioni lette anche dai siti dei soci.
+
+## 117 — Abruzzo chiuso
+- Registro `abruzzo-chiusura.md`; `stato-consorzi.csv` riga 15. Abruzzo 235; guida 5.672. Aggiunto il registro unico `cantine-scartate.csv` (sul Mac, fuori dal sito), da rigenerare a ogni regione con `registro_scartate.py`.

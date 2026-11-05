@@ -1,0 +1,50 @@
+{
+ "nome": "Novaripa",
+ "slug": "novaripa",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Cooperativa Agricola [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Via Tiboni, 66010 Ripa Teatina (CH) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0871 399001 [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@novaripa.com [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.novaripa.com|novaripa.com}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "http://www.novaripa.com",
+   "etichetta": "novaripa.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

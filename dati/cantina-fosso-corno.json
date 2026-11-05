@@ -1,0 +1,50 @@
+{
+ "nome": "Cantina Fosso Corno",
+ "slug": "cantina-fosso-corno",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Società Agricola Semplice [[1]]"
+    },
+    {
+     "etichetta": "Sede",
+     "valore": "Loc. Villa Bizzari  Torano Nuovo, 64010 Torano Nuovo (TE) [[2]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0861 82770 - 045 6201154 (Ufficio commerciale di Verona) [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@fossocornovini.it [[2]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{http://www.fossocornovini.it|fossocornovini.it}} [[2]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[2]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "http://www.fossocornovini.it",
+   "etichetta": "fossocornovini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}

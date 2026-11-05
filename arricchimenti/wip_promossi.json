@@ -21924,7 +21924,7 @@
   "email": "info@cantineagriverde.com",
   "sito": "http://www.cantineagriverde.com",
   "dom": "cantineagriverde.com",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Pecorino, Abruzzo, Terre di Chieti, Passerina",
   "wip": "Agriverde",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -21975,6 +21975,9 @@
   "tipi": {
    "abruzzo": [
     "Abruzzo"
+   ],
+   "colline-teramane": [
+    "Colline Teramane"
    ]
   },
   "rag": "",
@@ -21984,7 +21987,7 @@
   "email": "info@ausoniavini.it",
   "sito": "http://www.ausoniawines.com",
   "dom": "ausoniawines.com",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Colline Teramane, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Colli Aprutini",
   "wip": "Ausonia",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -22014,7 +22017,7 @@
   "email": "info@disipiowine.com",
   "sito": "https://www.disipiowine.com",
   "dom": "disipiowine.com",
-  "den": "",
+  "den": "Abruzzo",
   "wip": "Azienda Nicola Di Sipio",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -22044,7 +22047,7 @@
   "email": "info@aziendatilli.it",
   "sito": "http://www.aziendatilli.it",
   "dom": "aziendatilli.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Pecorino, Abruzzo, Terre di Chieti",
   "wip": "Azienda Tilli",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -22095,6 +22098,9 @@
   "tipi": {
    "abruzzo": [
     "Abruzzo"
+   ],
+   "colline-teramane": [
+    "Colline Teramane"
    ]
   },
   "rag": "",
@@ -22104,7 +22110,7 @@
   "email": "cantina@fratellibarba.it",
   "sito": "http://www.fratellibarba.it",
   "dom": "fratellibarba.it",
-  "den": "",
+  "den": "Colline Teramane, Pecorino, Abruzzo",
   "wip": "Barba",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -22125,6 +22131,12 @@
   "tipi": {
    "abruzzo": [
     "Abruzzo"
+   ],
+   "colline-teramane": [
+    "Colline Teramane"
+   ],
+   "controguerra": [
+    "Controguerra"
    ]
   },
   "rag": "",
@@ -22134,7 +22146,7 @@
   "email": "info@baronecornacchia.it",
   "sito": "https://www.baronecornacchia.it",
   "dom": "baronecornacchia.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Colline Teramane, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Controguerra, Abruzzo, Valle Peligna, Passerina",
   "wip": "Barone Cornacchia",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -25974,7 +25986,7 @@
   "email": "info@buzzarone.it",
   "sito": "http://www.buzzarone.it",
   "dom": "buzzarone.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Terre di Chieti, Cococciola",
   "wip": "Buzzarone",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26034,7 +26046,7 @@
   "email": "info@cantinacolledelsole.it",
   "sito": "https://www.cantinacolledelsole.it",
   "dom": "cantinacolledelsole.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Terre di Chieti",
   "wip": "Cantina Colle Del Sole",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26094,7 +26106,7 @@
   "email": "info@collefrisio.it",
   "sito": "http://www.collefrisio.it",
   "dom": "collefrisio.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Terre di Chieti, Passerina",
   "wip": "Cantina Collefrisio",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26124,7 +26136,7 @@
   "email": "info@cantinacolonnella.it",
   "sito": "http://www.cantinacolonnella.it/",
   "dom": "cantinacolonnella.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Passerina",
   "wip": "Cantina Colonnella",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26154,7 +26166,7 @@
   "email": "cantinadelfucino@virgilio.it",
   "sito": "http://www.cantinadelfucino.it",
   "dom": "cantinafucino.it",
-  "den": "",
+  "den": "Pecorino, Abruzzo, Terre di Chieti",
   "wip": "Cantina Del Fucino",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26214,7 +26226,7 @@
   "email": "info@eredilegonziano.it",
   "sito": "http://www.eredilegonziano.it",
   "dom": "eredilegonziano.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Terre di Chieti, Passerina",
   "wip": "Cantina Eredi",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26244,7 +26256,7 @@
   "email": "info@cantinafrentana.it",
   "sito": "http://www.cantinafrentana.it/",
   "dom": "cantinafrentana.it",
-  "den": "",
+  "den": "Pecorino, Abruzzo, Terre di Chieti, Passerina, Cococciola",
   "wip": "Cantina Frentana",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26274,7 +26286,7 @@
   "email": "info@margiottavini.it",
   "sito": "http://www.margiottavini.it",
   "dom": "margiottavini.it",
-  "den": "",
+  "den": "Abruzzo, Valle Peligna",
   "wip": "Cantina Margiotta",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26304,7 +26316,7 @@
   "email": "direzione@cantinamiglianico.it",
   "sito": "http://cantinamiglianico.it/",
   "dom": "cantinamiglianico.it",
-  "den": "",
+  "den": "Abruzzo",
   "wip": "Cantina Miglianico",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26364,7 +26376,7 @@
   "email": "info@cantinasanzefferino.it",
   "sito": "http://www.cantinasanzefferino.it",
   "dom": "cantinasanzefferino.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Terre di Chieti, Passerina",
   "wip": "Cantina San Zefferino",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26394,7 +26406,7 @@
   "email": "info@cantinagiulianoteatino.it",
   "sito": "http://www.cantinagiulianoteatino.it",
   "dom": "cantinagiulianoteatino.it",
-  "den": "",
+  "den": "Abruzzo",
   "wip": "Cantina Sociale Di Giuliano Teatino",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26424,7 +26436,7 @@
   "email": "info@cantinadipaglieta.it",
   "sito": "http://www.cantinapalea.it",
   "dom": "cantinapalea.it",
-  "den": "",
+  "den": "Pecorino, Abruzzo, Terre di Chieti, Passerina, Cococciola",
   "wip": "Cantina Sociale Di Paglieta",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26454,7 +26466,7 @@
   "email": "info@cantinasannitica.it",
   "sito": "http://www.cantinasannitica.it",
   "dom": "cantinasannitica.it",
-  "den": "",
+  "den": "Abruzzo",
   "wip": "Cantina Sociale Sannitica",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26475,6 +26487,9 @@
   "tipi": {
    "abruzzo": [
     "Abruzzo"
+   ],
+   "villamagna": [
+    "Villamagna"
    ]
   },
   "rag": "",
@@ -26484,7 +26499,7 @@
   "email": "info@cantinavillamagna.it",
   "sito": "http://www.cantinavillamagna.it",
   "dom": "cantinavillamagna.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Villamagna, Abruzzo, Terre di Chieti, Cococciola",
   "wip": "Cantina Sociale Villamagna",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26505,6 +26520,12 @@
   "tipi": {
    "abruzzo": [
     "Abruzzo"
+   ],
+   "colline-teramane": [
+    "Colline Teramane"
+   ],
+   "controguerra": [
+    "Controguerra"
    ]
   },
   "rag": "",
@@ -26514,7 +26535,7 @@
   "email": "info@cantinastrappelli.it",
   "sito": "https://cantinastrappelli.it/",
   "dom": "cantinastrappelli.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Colline Teramane, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Controguerra, Abruzzo, Colli Aprutini, Passerina",
   "wip": "Cantina Strappelli",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26544,7 +26565,7 @@
   "email": "info@cantinaterzini.it",
   "sito": "http://www.cantinaterzini.it",
   "dom": "cantinaterzini.it",
-  "den": "",
+  "den": "Pecorino, Abruzzo",
   "wip": "Cantina Terzini",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26574,7 +26595,7 @@
   "email": "info@cantinatollo.it",
   "sito": "http://www.cantinatollo.it",
   "dom": "cantinatollo.it",
-  "den": "",
+  "den": "Abruzzo",
   "wip": "Cantina Tollo",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26604,7 +26625,7 @@
   "email": "info@cantinavalletritana.it",
   "sito": "http://www.cantinavalletritana.it",
   "dom": "cantinavalletritana.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Terre di Chieti, Passerina",
   "wip": "Cantina Valle Tritana",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26664,7 +26685,7 @@
   "email": "info@cordano.it",
   "sito": "https://cantinadragani.it/",
   "dom": "cantinadragani.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Passerina",
   "wip": "Cantine Ciampoli",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26694,7 +26715,7 @@
   "email": "info@frontenac.it",
   "sito": "http://www.cantinefrontenac.it",
   "dom": "cantinefrontenac.it",
-  "den": "",
+  "den": "Abruzzo",
   "wip": "Cantine Frontenac",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26784,7 +26805,7 @@
   "email": "info@cantinesannicola.com",
   "sito": "http://www.cantinesannicola.com",
   "dom": "cantinesannicola.com",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Pecorino, Abruzzo, Terre di Chieti, Passerina",
   "wip": "Cantine San Nicola",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26814,7 +26835,7 @@
   "email": "info@cantinespinelli.it",
   "sito": "http://www.cantinespinelli.it",
   "dom": "cantinespinelli.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Terre di Chieti, Passerina, Cococciola",
   "wip": "Cantine Spinelli",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26904,7 +26925,7 @@
   "email": "casavinicola@caldirola.it",
   "sito": "http://www.caldirola.it",
   "dom": "prositgroup.it",
-  "den": "",
+  "den": "Abruzzo",
   "wip": "Casa Vinicola Caldirola",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -26994,7 +27015,7 @@
   "email": "agricola@ciavolich.com",
   "sito": "http://www.ciavolich.com",
   "dom": "ciavolich.com",
-  "den": "",
+  "den": "Abruzzo",
   "wip": "Ciavolich",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -27054,7 +27075,7 @@
   "email": "citra@citra.it",
   "sito": "http://www.citra.it/",
   "dom": "citra.it",
-  "den": "",
+  "den": "Trebbiano d'Abruzzo, Pecorino, Abruzzo, Passerina, Cococciola",
   "wip": "Citra Vini",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -27084,7 +27105,7 @@
   "email": "info@collecorviano.it",
   "sito": "http://www.collecorviano.it",
   "dom": "collecorviano.it",
-  "den": "",
+  "den": "Pecorino, Abruzzo",
   "wip": "Colle Corviano",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -27144,7 +27165,7 @@
   "email": "info@dalesiovini.it",
   "sito": "http://www.dalesiovini.it",
   "dom": "dalesiovini.it",
-  "den": "",
+  "den": "Trebbiano d'Abruzzo, Pecorino, Abruzzo, Cococciola",
   "wip": "D’Alesio Vini",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -27165,6 +27186,9 @@
   "tipi": {
    "abruzzo": [
     "Abruzzo"
+   ],
+   "colline-teramane": [
+    "Colline Teramane"
    ]
   },
   "rag": "",
@@ -27174,7 +27198,7 @@
   "email": "info@deantoniisvini.it",
   "sito": "https://www.deantoniisvini.it/",
   "dom": "deantoniisvini.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Colline Teramane, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Colli Aprutini, Passerina",
   "wip": "De Antoniis Vini",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -27204,7 +27228,7 @@
   "email": "info@dicamillovini.it",
   "sito": "https://www.dicamillovini.it",
   "dom": "dicamillovini.it",
-  "den": "",
+  "den": "Abruzzo",
   "wip": "Di Camillo Vini",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -27234,7 +27258,7 @@
   "email": "info@vignamadre.it",
   "sito": "http://www.dicarlovini.it",
   "dom": "famigliadicarlo.it",
-  "den": "",
+  "den": "Pecorino, Abruzzo, Passerina",
   "wip": "Di Carlo Vini",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -27315,6 +27339,9 @@
   "tipi": {
    "abruzzo": [
     "Abruzzo"
+   ],
+   "colline-teramane": [
+    "Colline Teramane"
    ]
   },
   "rag": "",
@@ -27324,7 +27351,7 @@
   "email": "info@emidiopepe.com",
   "sito": "http://www.emidiopepe.com",
   "dom": "emidiopepe.com",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Colline Teramane, Pecorino, Abruzzo",
   "wip": "Emidio Pepe",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -27345,6 +27372,9 @@
   "tipi": {
    "abruzzo": [
     "Abruzzo"
+   ],
+   "colline-teramane": [
+    "Colline Teramane"
    ]
   },
   "rag": "",
@@ -27354,7 +27384,7 @@
   "email": "info@faraonevini.it",
   "sito": "https://www.faraonevini.it/",
   "dom": "faraonevini.it",
-  "den": "",
+  "den": "Colline Teramane, Pecorino, Abruzzo, Colli Aprutini, Passerina",
   "wip": "Faraone",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -27375,6 +27405,9 @@
   "tipi": {
    "abruzzo": [
     "Abruzzo"
+   ],
+   "colline-teramane": [
+    "Colline Teramane"
    ]
   },
   "rag": "",
@@ -27384,7 +27417,7 @@
   "email": "info@nicodemi.com",
   "sito": "http://www.nicodemi.com",
   "dom": "nicodemi.com",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Colline Teramane, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo",
   "wip": "Fattoria Bruno Nicodemi",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -27414,7 +27447,7 @@
   "email": "cantina@fattoriagiuseppesavini.it",
   "sito": "http://www.fattoriagiuseppesavini.com",
   "dom": "fattoriagiuseppesavini.com",
-  "den": "",
+  "den": "Abruzzo",
   "wip": "Fattoria Giuseppe Savini",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -27444,7 +27477,7 @@
   "email": "contatti@fontefico.it",
   "sito": "https://www.fontefico.it",
   "dom": "fontefico.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo",
   "wip": "Fontefico",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -27474,7 +27507,7 @@
   "email": "info@guardianifarchione.it",
   "sito": "http://www.guardianifarchione.it/",
   "dom": "guardianifarchione.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Colline Pescaresi, Passerina",
   "wip": "Guardiani Farchione",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -27504,7 +27537,7 @@
   "email": "info@ilfeuduccio.it",
   "sito": "http://www.ilfeuduccio.it",
   "dom": "ilfeuduccio.it",
-  "den": "",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Passerina",
   "wip": "Il Feuduccio",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -27564,7 +27597,7 @@
   "email": "info@jasciemarchesani.it",
   "sito": "http://www.jasciemarchesani.it",
   "dom": "jasciemarchesani.it",
-  "den": "",
+  "den": "Trebbiano d'Abruzzo, Pecorino, Abruzzo",
   "wip": "Italgusto Wine",
   "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
   "social": {},
@@ -52438,5 +52471,3131 @@
   "data_consorzio": "4 novembre 2026",
   "consorzio": "trentino",
   "data_consultazione": "4 novembre 2026"
+ },
+ {
+  "slug": "abbazia-di-propezzano",
+  "nome": "Abbazia di Propezzano",
+  "regione": "Abruzzo",
+  "comune": "Morro d'Oro",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ],
+   "colline-teramane": [
+    "Colline Teramane"
+   ]
+  },
+  "rag": "Società Agricola Semplice",
+  "piva": "",
+  "sede": "Contrada Propezzano, 64020 Morro d'Oro (TE)",
+  "tel": "+39 392 2318864",
+  "email": "info@abbaziadipropezzano.com",
+  "sito": "http://www.abbaziadipropezzano.com",
+  "dom": "abbaziadipropezzano.com",
+  "den": "Montepulciano d'Abruzzo, Colline Teramane, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Passerina",
+  "wip": "Abbazia di Propezzano",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "alaterra",
+  "nome": "Alaterra",
+  "regione": "Abruzzo",
+  "comune": "Bussi sul Tirino",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Arciprandi, 65022 Bussi sul Tirino (PE)",
+  "tel": "+393343479457",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Alaterra",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "amorotti",
+  "nome": "Amorotti",
+  "regione": "Abruzzo",
+  "comune": "Loreto Aprutino",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via del Baio 31, 65014 Loreto Aprutino (PE)",
+  "tel": "+39 349 4003131",
+  "email": "info@amorotti.it",
+  "sito": "http://www.amorotti.it",
+  "dom": "amorotti.it",
+  "den": "",
+  "wip": "Amorotti",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "francesco-cerulli-irelli",
+  "nome": "Francesco Cerulli Irelli",
+  "regione": "Abruzzo",
+  "comune": "Spoltore",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Pescarina, 65010 Spoltore (PE)",
+  "tel": "+39 335 385930",
+  "email": "",
+  "sito": "https://www.tenutapescarina.it",
+  "dom": "tenutapescarina.it",
+  "den": "",
+  "wip": "Francesco Cerulli Irelli",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "rabottini",
+  "nome": "Rabottini",
+  "regione": "Abruzzo",
+  "comune": "Chieti",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Vracone, 66100 Chieti (CH)",
+  "tel": "+39 3456720317",
+  "email": "info@rabottinivini.it",
+  "sito": "https://www.fattoriarabottini.it",
+  "dom": "fattoriarabottini.it",
+  "den": "",
+  "wip": "Rabottini",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "donofrio",
+  "nome": "D’Onofrio",
+  "regione": "Abruzzo",
+  "comune": "Loreto Aprutino",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Cordano 43, 65014 Loreto Aprutino (PE)",
+  "tel": "+39 085 8289526",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "D’Onofrio",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "di-nicola",
+  "nome": "Di Nicola",
+  "regione": "Abruzzo",
+  "comune": "Roseto degli Abruzzi",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Nazionale 7, 64026 Roseto degli Abruzzi (TE)",
+  "tel": "+39 0858992180",
+  "email": "info@dinicolaazienda.it",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Di Nicola",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "luciani-giuseppe",
+  "nome": "Luciani Giuseppe",
+  "regione": "Abruzzo",
+  "comune": "Mozzagrogna",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Lucianetti 19, 66030 Mozzagrogna (CH)",
+  "tel": "+39 3351097521",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Luciani Giuseppe",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "nicola-santoleri",
+  "nome": "Nicola Santoleri",
+  "regione": "Abruzzo",
+  "comune": "Guardiagrele",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via dei Cavalieri 20, 66016 Guardiagrele (CH)",
+  "tel": "+39 0871 893301",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Nicola Santoleri",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "enzo-galasso",
+  "nome": "Enzo Galasso",
+  "regione": "Abruzzo",
+  "comune": "Francavilla al Mare",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Nazionale Adriatica Sud, 66023 Francavilla al Mare (CH)",
+  "tel": "+39 392 9961505",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Enzo Galasso",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "fausto-zazzara",
+  "nome": "Fausto Zazzara",
+  "regione": "Abruzzo",
+  "comune": "Tocco da Casauria",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Giuseppe Mazzini, 65028 Tocco da Casauria (PE)",
+  "tel": "",
+  "email": "",
+  "sito": "https://www.spumantifaustozazzara.it",
+  "dom": "spumantifaustozazzara.it",
+  "den": "",
+  "wip": "Fausto Zazzara",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "natarelli",
+  "nome": "Natarelli",
+  "regione": "Abruzzo",
+  "comune": "Bolognano",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Santa Liberata 7, 65020 Bolognano (PE)",
+  "tel": "+39 3339446427",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Natarelli",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "vaddinelli",
+  "nome": "Vaddinelli",
+  "regione": "Abruzzo",
+  "comune": "Atri",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "via Pretulo 12, 64032 Atri (TE)",
+  "tel": "+39 328 5685411",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Vaddinelli",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "vitivinicola-lepore",
+  "nome": "Vitivinicola Lepore",
+  "regione": "Abruzzo",
+  "comune": "Colonnella",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Civita, 64010 Colonnella (TE)",
+  "tel": "+39 0861 70860",
+  "email": "info@vinilepore.it",
+  "sito": "https://www.vinilepore.it",
+  "dom": "vinilepore.it",
+  "den": "",
+  "wip": "Vitivinicola Lepore",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "aziende-agricole-cirulli",
+  "nome": "Aziende Agricole Cirulli",
+  "regione": "Abruzzo",
+  "comune": "Cupello",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "Società Agricola A.r.l. unipersonale",
+  "piva": "",
+  "sede": "Co.da Bufalara, 66051 Cupello (CH)",
+  "tel": "+39",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Aziende Agricole Cirulli",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "bice-coletti",
+  "nome": "Bice Coletti",
+  "regione": "Abruzzo",
+  "comune": "Ofena",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Piazza Dante, 67025 Ofena (AQ)",
+  "tel": "+39 3663064545",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Bice Coletti",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "budano-vini",
+  "nome": "Budano Vini",
+  "regione": "Abruzzo",
+  "comune": "Arielli",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Piano Dell'Olmo, 66030 Arielli (CH)",
+  "tel": "+39 366 2585388",
+  "email": "info@budanovini.it",
+  "sito": "http://www.budanovini.it",
+  "dom": "budanovini.it",
+  "den": "",
+  "wip": "Budano Vini",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "burgus-vitae",
+  "nome": "Burgus Vitae",
+  "regione": "Abruzzo",
+  "comune": "Tollo",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via S.Pietro, 66010 Tollo (CH)",
+  "tel": "+39 3287311238",
+  "email": "info@burgusvitae.com",
+  "sito": "https://www.burgusvitae.com/",
+  "dom": "burgusvitae.com",
+  "den": "",
+  "wip": "Burgus Vitae",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "ca-dabruzzo",
+  "nome": "Cà d’Abruzzo",
+  "regione": "Abruzzo",
+  "comune": "Fara Filiorum Petri",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via San Giacomo 58/4, 66010 Fara Filiorum Petri (CH)",
+  "tel": "+39 335 6191285",
+  "email": "info@cadabruzzo.it",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Cà d’Abruzzo",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "cantina-blancodini",
+  "nome": "Cantina Blancodini",
+  "regione": "Abruzzo",
+  "comune": "Pratola Peligna",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Circonvallazione orientale 52, 67035 Pratola Peligna (AQ)",
+  "tel": "+39 335 1762741",
+  "email": "info@cantinablancodini.it",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Cantina Blancodini",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "cantina-bottari",
+  "nome": "Cantina Bottari",
+  "regione": "Abruzzo",
+  "comune": "Chieti",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Viale Europa 13, 66100 Chieti (CH)",
+  "tel": "+39 346 5737122",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Cantina Bottari",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "cantina-bove",
+  "nome": "Cantina Bove",
+  "regione": "Abruzzo",
+  "comune": "Avezzano",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Roma, 67051 Avezzano (AQ)",
+  "tel": "+39 0863 33133",
+  "email": "info@cantinebove.it",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Cantina Bove",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "cantina-fosso-corno",
+  "nome": "Cantina Fosso Corno",
+  "regione": "Abruzzo",
+  "comune": "Torano Nuovo",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "Società Agricola Semplice",
+  "piva": "",
+  "sede": "Loc. Villa Bizzari  Torano Nuovo, 64010 Torano Nuovo (TE)",
+  "tel": "+39 0861 82770 - 045 6201154 (Ufficio commerciale di Verona)",
+  "email": "info@fossocornovini.it",
+  "sito": "http://www.fossocornovini.it",
+  "dom": "fossocornovini.it",
+  "den": "",
+  "wip": "Cantina Fosso Corno",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "cantina-sociale-di-ortona",
+  "nome": "Cantina Sociale di Ortona",
+  "regione": "Abruzzo",
+  "comune": "Ortona",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Civiltà del Lavoro, 66026 Ortona (CH)",
+  "tel": "+39 0859062218",
+  "email": "info@cantinadiortona.it",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Cantina Sociale di Ortona",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "cantina-sociale-madonna-dei-miracoli",
+  "nome": "Cantina Sociale Madonna dei Miracoli",
+  "regione": "Abruzzo",
+  "comune": "Casalbordino",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Termine, 66021 Casalbordino (CH)",
+  "tel": "+39 0873 918107",
+  "email": "mail@vinicasalbordino.com",
+  "sito": "htpps://www.vinicasalbordino.com",
+  "dom": "htpps:",
+  "den": "",
+  "wip": "Cantina Sociale Madonna dei Miracoli",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "cantina-sociale-rinascita-lancianese",
+  "nome": "Cantina Sociale Rinascita Lancianese",
+  "regione": "Abruzzo",
+  "comune": "Lanciano",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Iconicella 301, 66034 Lanciano (CH)",
+  "tel": "+39 0872 466327",
+  "email": "info@rinascitalancianese.it",
+  "sito": "http://www.rinascitalancianese.it",
+  "dom": "rinascitalancianese.it",
+  "den": "",
+  "wip": "Cantina Sociale Rinascita Lancianese",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "cantina-valsinello",
+  "nome": "Cantina Valsinello",
+  "regione": "Abruzzo",
+  "comune": "Pollutri",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Colle Leone, 66020 Pollutri (CH)",
+  "tel": "+39 0873 916269",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Cantina Valsinello",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "cantina-villa-alta",
+  "nome": "Cantina Villa Alta",
+  "regione": "Abruzzo",
+  "comune": "Lanciano",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Serre, 66034 Lanciano (CH)",
+  "tel": "+39 0872 49975",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Cantina Villa Alta",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "cantina-vinum-hadrianum",
+  "nome": "Cantina Vinum Hadrianum",
+  "regione": "Abruzzo",
+  "comune": "Atri",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Picena, 64032 Atri (TE)",
+  "tel": "+39 333 1897841",
+  "email": "info@hadrianum.com",
+  "sito": "http://www.vinumhadrianum.com",
+  "dom": "vinumhadrianum.com",
+  "den": "Cerasuolo d'Abruzzo, Pecorino, Abruzzo, Passerina",
+  "wip": "Cantina Vinum Hadrianum",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "cantina-wilma",
+  "nome": "Cantina Wilma",
+  "regione": "Abruzzo",
+  "comune": "Chieti",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Madonna Della Vittoria  Chieti, 66100 Chieti (CH)",
+  "tel": "+39 320 0351963",
+  "email": "",
+  "sito": "http://cantinawilma.wixsite.com/cantinawilma",
+  "dom": "cantinawilma.wixsite.com",
+  "den": "",
+  "wip": "Cantina Wilma",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "cantine-casimirri",
+  "nome": "Cantine Casimirri",
+  "regione": "Abruzzo",
+  "comune": "Corropoli",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Pianagallo 33/A, 64013 Corropoli (TE)",
+  "tel": "+39 3483859463",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Cantine Casimirri",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "cantine-galasso",
+  "nome": "Cantine Galasso",
+  "regione": "Abruzzo",
+  "comune": "Loreto Aprutino",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Poggio Ragone 8, 65014 Loreto Aprutino (PE)",
+  "tel": "+39 085 8289720",
+  "email": "info@cantinegalasso.com",
+  "sito": "http://cantinegalasso.com",
+  "dom": "cantinegalasso.com",
+  "den": "",
+  "wip": "Cantine Galasso",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "cantine-maligni",
+  "nome": "Cantine Maligni",
+  "regione": "Abruzzo",
+  "comune": "Chieti",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Dei Frentani, 66100 Chieti (CH)",
+  "tel": "",
+  "email": "cantina@maligni.it",
+  "sito": "https://www.maligni.it",
+  "dom": "maligni.it",
+  "den": "",
+  "wip": "Cantine Maligni",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "caravaggio",
+  "nome": "Caravaggio",
+  "regione": "Abruzzo",
+  "comune": "Rocca San Giovanni",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Sterpari, 66020 Rocca San Giovanni (CH)",
+  "tel": "+39 333 9162530",
+  "email": "",
+  "sito": "https://www.cantinecaravaggio.com/",
+  "dom": "cantinecaravaggio.com",
+  "den": "Abruzzo",
+  "wip": "Caravaggio",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "casa-vinicola-italo-pietrantonj",
+  "nome": "Casa Vinicola Italo Pietrantonj",
+  "regione": "Abruzzo",
+  "comune": "Vittorito",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via San Sebastiano 38, 67030 Vittorito (AQ)",
+  "tel": "+39 0864 727102",
+  "email": "info@vinipietrantonj.it",
+  "sito": "https://www.vinipietrantonj.it",
+  "dom": "vinipietrantonj.it",
+  "den": "",
+  "wip": "Casa Vinicola Italo Pietrantonj",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "casa-vinicola-roxan",
+  "nome": "Casa Vinicola Roxan",
+  "regione": "Abruzzo",
+  "comune": "Rosciano",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Tratturo 1, 65020 Rosciano (PE)",
+  "tel": "+39 085 8505767 - +39 085 8505683",
+  "email": "info@roxan.it",
+  "sito": "http://www.roxan.it",
+  "dom": "roxan.it",
+  "den": "",
+  "wip": "Casa Vinicola Roxan",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "centofanti-piacentino",
+  "nome": "Centofanti Piacentino",
+  "regione": "Abruzzo",
+  "comune": "Giuliano Teatino",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Lentieri 38, 66010 Giuliano Teatino (CH)",
+  "tel": "+39 328 6934805",
+  "email": "info@palazzocentofanti.it",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Centofanti Piacentino",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "centorame",
+  "nome": "Centorame",
+  "regione": "Abruzzo",
+  "comune": "Atri",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via delle Fornaci snc, 64032 Atri (TE)",
+  "tel": "+39 085 8709115",
+  "email": "info@centorame.it",
+  "sito": "http://www.centorame.it",
+  "dom": "centorame.it",
+  "den": "",
+  "wip": "Centorame",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "crea-vini",
+  "nome": "Crea Vini",
+  "regione": "Abruzzo",
+  "comune": "Casoli",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Zona Industriale, 66043 Casoli (CH)",
+  "tel": "+39 0872 981870",
+  "email": "",
+  "sito": "https://www.creavini.it",
+  "dom": "creavini.it",
+  "den": "Pecorino, Abruzzo, Terre di Chieti",
+  "wip": "Crea Vini",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "fattoria-teatina",
+  "nome": "Fattoria Teatina",
+  "regione": "Abruzzo",
+  "comune": "San Giovanni Teatino",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Pietro Nenni 210, 66020 San Giovanni Teatino (CH)",
+  "tel": "+39 085 4461867",
+  "email": "info@fattoriateatina.it",
+  "sito": "http://www.fattoriateatina.it/",
+  "dom": "fattoriateatina.it",
+  "den": "",
+  "wip": "Fattoria Teatina",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "fratelli-donofrio",
+  "nome": "Fratelli D’Onofrio",
+  "regione": "Abruzzo",
+  "comune": "Villamagna",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Piana 83, 66010 Villamagna (CH)",
+  "tel": "+39 0871300106",
+  "email": "info@oliodonofrio.it",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Fratelli D’Onofrio",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "gennaro-pigliacampo",
+  "nome": "Gennaro Pigliacampo",
+  "regione": "Abruzzo",
+  "comune": "Giulianova",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "Società Agricola",
+  "piva": "",
+  "sede": "Zona Industriale Colleranesco, 64021 Giulianova (TE)",
+  "tel": "+39 085 9046830",
+  "email": "info@pigliacampo.it",
+  "sito": "https://www.gennaropigliacampo.com/ ",
+  "dom": "gennaropigliacampo.com",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Colli Aprutini, Cococciola",
+  "wip": "Gennaro Pigliacampo",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "gioia-del-sole",
+  "nome": "Gioia del Sole",
+  "regione": "Abruzzo",
+  "comune": "Ripa Teatina",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Castello, 66010 Ripa Teatina (CH)",
+  "tel": "+39 085 9151319",
+  "email": "",
+  "sito": "https://www.gioiadelsole.eu",
+  "dom": "gioiadelsole.eu",
+  "den": "",
+  "wip": "Gioia del Sole",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "i-vini-di-ferruccio",
+  "nome": "I Vini di Ferruccio",
+  "regione": "Abruzzo",
+  "comune": "Giulianova",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Traversa Moruzzi 9, 64021 Giulianova (TE)",
+  "tel": "+39 0858002569",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "I Vini di Ferruccio",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "le-prunaie",
+  "nome": "Le Prunaie",
+  "regione": "Abruzzo",
+  "comune": "Catignano",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Varano, 65011 Catignano (PE)",
+  "tel": "",
+  "email": "info@leprunaie.it",
+  "sito": "https://www.leprunaie.it/",
+  "dom": "leprunaie.it",
+  "den": "Montepulciano d'Abruzzo, Trebbiano d'Abruzzo, Abruzzo, Terre di Chieti, Colline Pescaresi",
+  "wip": "Le Prunaie",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "lidia-amato-viticoltori",
+  "nome": "Lidia & Amato Viticoltori",
+  "regione": "Abruzzo",
+  "comune": "Controguerra",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada San Biagio, 64010 Controguerra (TE)",
+  "tel": "+39 0861 817041",
+  "email": "info@lidiaeamatoviticoltori.com",
+  "sito": "http://www.lidiaeamatoviticoltori.com",
+  "dom": "lidiaeamatoviticoltori.com",
+  "den": "",
+  "wip": "Lidia & Amato Viticoltori",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "lidia-amato",
+  "nome": "Lidia & Amato",
+  "regione": "Abruzzo",
+  "comune": "Controguerra",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada San Biagio, 64010 Controguerra (TE)",
+  "tel": "+390861 817041",
+  "email": "info@lidiaeamatoviticoltori.com",
+  "sito": "https://www.lidiaeamato.com/",
+  "dom": "lidiaeamato.com",
+  "den": "",
+  "wip": "Lidia & Amato",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "madonna-di-loreto",
+  "nome": "Madonna di Loreto",
+  "regione": "Abruzzo",
+  "comune": "Torino di Sangro",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "Società Cooperativa",
+  "piva": "",
+  "sede": "Contrada Carriera, 66020 Torino di Sangro (CH)",
+  "tel": "+39 0873 911050",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Madonna di Loreto",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "marramiero",
+  "nome": "Marramiero",
+  "regione": "Abruzzo",
+  "comune": "Rosciano",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Sant'Andrea, 65020 Rosciano (PE)",
+  "tel": "+39 085 8505766",
+  "email": "info@marramiero.it",
+  "sito": "http://www.marramiero.it",
+  "dom": "marramiero.it",
+  "den": "",
+  "wip": "Marramiero",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "masciarelli",
+  "nome": "Masciarelli",
+  "regione": "Abruzzo",
+  "comune": "San Martino sulla Marrucina",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Gamberale, 66010 San Martino sulla Marrucina (CH)",
+  "tel": "+39 0871 85241",
+  "email": "info@masciarelli.it",
+  "sito": "http://www.masciarelli.it/",
+  "dom": "masciarelli.it",
+  "den": "",
+  "wip": "Masciarelli",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "mastrangelo-vini",
+  "nome": "Mastrangelo Vini",
+  "regione": "Abruzzo",
+  "comune": "Loreto Aprutino",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "Società Agricola Mastrangelo Tenimenti del Grifone Srl",
+  "piva": "",
+  "sede": "Contrada Santa Caterina, 65014 Loreto Aprutino (PE)",
+  "tel": "",
+  "email": "",
+  "sito": "http://www.vinimastrangelo.it",
+  "dom": "vinimastrangelo.it",
+  "den": "",
+  "wip": "Mastrangelo Vini",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "mazzarosa",
+  "nome": "Mazzarosa",
+  "regione": "Abruzzo",
+  "comune": "Roseto degli Abruzzi",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Nazionale 6, 64026 Roseto degli Abruzzi (TE)",
+  "tel": "+39 085 8991128",
+  "email": "",
+  "sito": "http://www.mazzarosa.com",
+  "dom": "mazzarosa.com",
+  "den": "",
+  "wip": "Mazzarosa",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "menicucci-vini",
+  "nome": "Menicucci Vini",
+  "regione": "Abruzzo",
+  "comune": "Canosa Sannita",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Verso Tollo 232/B, 66010 Canosa Sannita (CH)",
+  "tel": "+39 085 7966126",
+  "email": "info@menicuccivini.it",
+  "sito": "https://www.menicuccivini.it",
+  "dom": "menicuccivini.it",
+  "den": "Abruzzo",
+  "wip": "Menicucci Vini",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "novaripa",
+  "nome": "Novaripa",
+  "regione": "Abruzzo",
+  "comune": "Ripa Teatina",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "Società Cooperativa Agricola",
+  "piva": "",
+  "sede": "Via Tiboni, 66010 Ripa Teatina (CH)",
+  "tel": "+39 0871 399001",
+  "email": "info@novaripa.com",
+  "sito": "http://www.novaripa.com",
+  "dom": "novaripa.com",
+  "den": "",
+  "wip": "Novaripa",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "olearia-vinicola-villese",
+  "nome": "Olearia Vinicola Villese",
+  "regione": "Abruzzo",
+  "comune": "Vasto",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Colli 3/C, 66054 Vasto (CH)",
+  "tel": "+39 0873 902069",
+  "email": "info@villese.it",
+  "sito": "htpps://www.villese.it",
+  "dom": "htpps:",
+  "den": "",
+  "wip": "Olearia Vinicola Villese",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "olivastri-tommaso",
+  "nome": "Olivastri Tommaso",
+  "regione": "Abruzzo",
+  "comune": "San Vito Chietino",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Quercia del Corvo, 66038 San Vito Chietino (CH)",
+  "tel": "+39 0872 61543",
+  "email": "info@viniolivastri.com",
+  "sito": "http://www.viniolivastri.com",
+  "dom": "viniolivastri.com",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Passerina, Cococciola",
+  "wip": "Olivastri Tommaso",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "ortofrutticola-del-trigno",
+  "nome": "Ortofrutticola del Trigno",
+  "regione": "Abruzzo",
+  "comune": "San Salvo",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "Società Cooperativa",
+  "piva": "",
+  "sede": "Viale Canada, 66050 San Salvo (CH)",
+  "tel": "+39 0873 547341",
+  "email": "",
+  "sito": "http://www.eurotrigno.com/",
+  "dom": "eurotrigno.com",
+  "den": "Abruzzo",
+  "wip": "Ortofrutticola del Trigno",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "palmitesta-carlo",
+  "nome": "Palmitesta Carlo",
+  "regione": "Abruzzo",
+  "comune": "Francavilla al Mare",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via R. Paolucci 5 Francavilla al Mare, 66023 Francavilla al Mare (CH)",
+  "tel": "+39 085 4912222",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Palmitesta Carlo",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "paolucci-giovanni",
+  "nome": "Paolucci Giovanni",
+  "regione": "Abruzzo",
+  "comune": "Paglieta",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Petrino, 66020 Paglieta (CH)",
+  "tel": "+39 0872 809206",
+  "email": "info@vinipaolucci.it",
+  "sito": "https://www.vinipaolucci.it/",
+  "dom": "vinipaolucci.it",
+  "den": "Pecorino, Abruzzo, Cococciola",
+  "wip": "Paolucci Giovanni",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "paride-dangelo",
+  "nome": "Paride D’angelo",
+  "regione": "Abruzzo",
+  "comune": "Pianella",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Garofalo, 65019 Pianella (PE)",
+  "tel": "+39 327 3252046",
+  "email": "",
+  "sito": "https://www.paridedangelo.it",
+  "dom": "paridedangelo.it",
+  "den": "",
+  "wip": "Paride D’angelo",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "pescara-vini",
+  "nome": "Pescara Vini",
+  "regione": "Abruzzo",
+  "comune": "Pratola Peligna",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Strada statale 5 dir, 67035 Pratola Peligna (AQ)",
+  "tel": "+39 3397647090",
+  "email": "",
+  "sito": "https://pescaravini.it/",
+  "dom": "pescaravini.it",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Abruzzo, Valle Peligna",
+  "wip": "Pescara Vini",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "pian-di-mare",
+  "nome": "Pian di Mare",
+  "regione": "Abruzzo",
+  "comune": "Villamagna",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "Società Cooperativa Produttori Riuniti",
+  "piva": "",
+  "sede": "Via Piane 80/81, 66010 Villamagna (CH)",
+  "tel": "+39 0871 301090",
+  "email": "info@piandimarewine.it",
+  "sito": "http://piandimare.it/",
+  "dom": "piandimare.it",
+  "den": "",
+  "wip": "Pian di Mare",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "pinto-vini",
+  "nome": "Pinto Vini",
+  "regione": "Abruzzo",
+  "comune": "Ortona",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Principe, 66026 Ortona (CH)",
+  "tel": "+39 333 7695321",
+  "email": "info@pintovini.it",
+  "sito": "https://www.pintovini.it/ ",
+  "dom": "pintovini.it",
+  "den": "",
+  "wip": "Pinto Vini",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "podere-colle-san-massimo",
+  "nome": "Podere Colle San Massimo",
+  "regione": "Abruzzo",
+  "comune": "Giulianova",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Colle San Massimo, 64021 Giulianova (TE)",
+  "tel": "",
+  "email": "info@poderecollesanmassimo.com",
+  "sito": "https://www.poderecollesanmassimo.com",
+  "dom": "poderecollesanmassimo.com",
+  "den": "Abruzzo",
+  "wip": "Podere Colle San Massimo",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "poderi-costantini",
+  "nome": "Poderi Costantini",
+  "regione": "Abruzzo",
+  "comune": "Città Sant'Angelo",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "Società Agricola Fattoria Colline Verdi di Costantini Antonio Srl",
+  "piva": "",
+  "sede": "Strada Migliori 20, 65013 Città Sant'Angelo (PE)",
+  "tel": "+39 085 9699169",
+  "email": "info@costantinivini.it",
+  "sito": "http://www.podericostantini.it",
+  "dom": "podericostantini.it",
+  "den": "Montepulciano d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo, Colline Pescaresi, Passerina",
+  "wip": "Poderi Costantini",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "polidori",
+  "nome": "Polidori",
+  "regione": "Abruzzo",
+  "comune": "Pianella",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Collalto, 65019 Pianella (PE)",
+  "tel": "+39 085 972407",
+  "email": "",
+  "sito": "https://vinipolidori.com/",
+  "dom": "vinipolidori.com",
+  "den": "",
+  "wip": "Polidori",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "progresso-agricolo",
+  "nome": "Progresso Agricolo",
+  "regione": "Abruzzo",
+  "comune": "Crecchio",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "Società Cooperativa Agricola",
+  "piva": "",
+  "sede": "Via Villa Selciaroli, 66014 Crecchio (CH)",
+  "tel": "+39 0871 941135",
+  "email": "direzione@cantinacrecchio.it",
+  "sito": "http://www.cantinacrecchio.it/",
+  "dom": "cantinacrecchio.it",
+  "den": "Pecorino, Abruzzo, Passerina",
+  "wip": "Progresso Agricolo",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "rodea",
+  "nome": "Rodea",
+  "regione": "Abruzzo",
+  "comune": "Roseto degli Abruzzi",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Salara 58, 64026 Roseto degli Abruzzi (TE)",
+  "tel": "+39 0858930394",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Rodea",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "san-michele-arcangelo",
+  "nome": "San Michele Arcangelo",
+  "regione": "Abruzzo",
+  "comune": "Vasto",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "Società Cooperativa Agricola",
+  "piva": "",
+  "sede": "Contrada Difenza, 66054 Vasto (CH)",
+  "tel": "+39 0873 310122",
+  "email": "info@cantinasanmichele.it",
+  "sito": "http://www.cantinasanmichele.it",
+  "dom": "cantinasanmichele.it",
+  "den": "",
+  "wip": "San Michele Arcangelo",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "sanmauro",
+  "nome": "Sanmauro",
+  "regione": "Abruzzo",
+  "comune": "Bomba",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Località Vallecupa, 66042 Bomba (CH)",
+  "tel": "+39 0872 860138",
+  "email": "",
+  "sito": "https://www.coopsanmauro.com",
+  "dom": "coopsanmauro.com",
+  "den": "",
+  "wip": "Sanmauro",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "simigliani-giuseppe",
+  "nome": "Simigliani Giuseppe",
+  "regione": "Abruzzo",
+  "comune": "Ripa Teatina",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Feudo, 66010 Ripa Teatina (CH)",
+  "tel": "+39 3280146512",
+  "email": "",
+  "sito": "https://simigliani.it/",
+  "dom": "simigliani.it",
+  "den": "",
+  "wip": "Simigliani Giuseppe",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "sincarpa",
+  "nome": "Sincarpa",
+  "regione": "Abruzzo",
+  "comune": "Torrevecchia Teatina",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Torre, 66010 Torrevecchia Teatina (CH)",
+  "tel": "+39 0871 360198",
+  "email": "info@vinisincarpa.it",
+  "sito": "https://www.vinisincarpa.it",
+  "dom": "vinisincarpa.it",
+  "den": "",
+  "wip": "Sincarpa",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "speranza-vini",
+  "nome": "Speranza Vini",
+  "regione": "Abruzzo",
+  "comune": "Rosciano",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Coccetta, 65020 Rosciano (PE)",
+  "tel": "+39 328 2226697",
+  "email": "info@speranzavini.it",
+  "sito": "http://www.speranzavini.it",
+  "dom": "speranzavini.it",
+  "den": "Abruzzo",
+  "wip": "Speranza Vini",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "stefania-pepe",
+  "nome": "Stefania Pepe",
+  "regione": "Abruzzo",
+  "comune": "Torano Nuovo",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Grande, 64010 Torano Nuovo (TE)",
+  "tel": "+39 348 3933129 - 351 6599956",
+  "email": "",
+  "sito": "http://www.montepulcianodabruzzo.it",
+  "dom": "montepulcianodabruzzo.it",
+  "den": "",
+  "wip": "Stefania Pepe",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "tenuta-agricola-pesolillo",
+  "nome": "Tenuta Agricola Pesolillo",
+  "regione": "Abruzzo",
+  "comune": "Chieti",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Strada Colle Rotondo, 66100 Chieti (CH)",
+  "tel": "+39 0871 360245",
+  "email": "info@pesolillo.it",
+  "sito": "http://www.pesolillo.it",
+  "dom": "pesolillo.it",
+  "den": "",
+  "wip": "Tenuta Agricola Pesolillo",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "tenuta-antonini-alessio",
+  "nome": "Tenuta Antonini Alessio",
+  "regione": "Abruzzo",
+  "comune": "Sant'Egidio alla Vibrata",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Pitagora, 64016 Sant'Egidio alla Vibrata (TE)",
+  "tel": "+39 0861 855703",
+  "email": "info@tenutaantonini.it",
+  "sito": "http://www.tenutaantonini.it",
+  "dom": "tenutaantonini.it",
+  "den": "",
+  "wip": "Tenuta Antonini Alessio",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "tenuta-arabona",
+  "nome": "Tenuta Arabona",
+  "regione": "Abruzzo",
+  "comune": "Manoppello",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via dei Vigneti, 65024 Manoppello (PE)",
+  "tel": "+39 085 8561902",
+  "email": "info@tenutaarabona.it",
+  "sito": "http://www.tenutaarabona.it",
+  "dom": "tenutaarabona.it",
+  "den": "",
+  "wip": "Tenuta Arabona",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "tenuta-casachiara",
+  "nome": "Tenuta Casachiara",
+  "regione": "Abruzzo",
+  "comune": "Teramo",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Armando Diaz 26, 64100 Teramo (TE)",
+  "tel": "+39 3396069706",
+  "email": "info@tenutacasachiara.com",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Tenuta Casachiara",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "tenuta-cassetti",
+  "nome": "Tenuta Cassetti",
+  "regione": "Abruzzo",
+  "comune": "Ancarano",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Località Madonna della Carità Ancarano, 64010 Ancarano (TE)",
+  "tel": "+39 338 807 8460",
+  "email": "info@tenutacassetti.it",
+  "sito": "https://www.tenutacassetti.it/",
+  "dom": "tenutacassetti.it",
+  "den": "",
+  "wip": "Tenuta Cassetti",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "tenuta-mammarella",
+  "nome": "Tenuta Mammarella",
+  "regione": "Abruzzo",
+  "comune": "Vacri",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Regina Margherita 28, 66010 Vacri (CH)",
+  "tel": "+39 0871 71302",
+  "email": "info@tenutemammarella.it",
+  "sito": "https://aziendaagricolamammarella.com/",
+  "dom": "aziendaagricolamammarella.com",
+  "den": "",
+  "wip": "Tenuta Mammarella",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "tenuta-micoli",
+  "nome": "Tenuta Micoli",
+  "regione": "Abruzzo",
+  "comune": "Frisa",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "Società a Responsabilità Limitata",
+  "piva": "",
+  "sede": "Via XXIV Maggio  Frisa, 66030 Frisa (CH)",
+  "tel": "+39 320 8891211",
+  "email": "",
+  "sito": "http://www.tenutamicoli.it",
+  "dom": "tenutamicoli.it",
+  "den": "",
+  "wip": "Tenuta Micoli",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "tenuta-morganti",
+  "nome": "Tenuta Morganti",
+  "regione": "Abruzzo",
+  "comune": "Torano Nuovo",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Frole, 64010 Torano Nuovo (TE)",
+  "tel": "+39 349 5620519",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Tenuta Morganti",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "tenuta-pescarina",
+  "nome": "Tenuta Pescarina",
+  "regione": "Abruzzo",
+  "comune": "Spoltore",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Pescarina, 65010 Spoltore (PE)",
+  "tel": "+39 335 385930",
+  "email": "",
+  "sito": "http://www.tenutapescarina.it",
+  "dom": "tenutapescarina.it",
+  "den": "",
+  "wip": "Tenuta Pescarina",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "tenuta-talamonti",
+  "nome": "Tenuta Talamonti",
+  "regione": "Abruzzo",
+  "comune": "Loreto Aprutino",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Palazzo, 65014 Loreto Aprutino (PE)",
+  "tel": "+39 085 8289039",
+  "email": "info@tenutatalamonti.it",
+  "sito": "http://www.tenutatalamonti.it",
+  "dom": "tenutatalamonti.it",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Abruzzo",
+  "wip": "Tenuta Talamonti",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "tenuta-tre-gemme",
+  "nome": "Tenuta Tre Gemme",
+  "regione": "Abruzzo",
+  "comune": "Catignano",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Varano snc, 65011 Catignano (PE)",
+  "tel": "+39 085 9218100",
+  "email": "info@tenutatregemme.com",
+  "sito": "http://www.tenutatregemme.com",
+  "dom": "tenutatregemme.com",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Pecorino, Abruzzo, Colline Pescaresi, Passerina",
+  "wip": "Tenuta Tre Gemme",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "tenute-inverso",
+  "nome": "Tenute Inverso",
+  "regione": "Abruzzo",
+  "comune": "Ortona",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Alboreto, 66026 Ortona (CH)",
+  "tel": "+39 393 8313063",
+  "email": "info@tenuteinverso.it",
+  "sito": "http://www.tenuteinverso.it",
+  "dom": "tenuteinverso.it",
+  "den": "",
+  "wip": "Tenute Inverso",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "tenute-san-tommaso",
+  "nome": "Tenute San Tommaso",
+  "regione": "Abruzzo",
+  "comune": "Ortona",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Villa Sarchese, 66026 Ortona (CH)",
+  "tel": "+39 338 3731988",
+  "email": "",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Tenute San Tommaso",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "terre-di-poggio",
+  "nome": "Terre di Poggio",
+  "regione": "Abruzzo",
+  "comune": "Poggiofiorito",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Mortella 67, 66030 Poggiofiorito (CH)",
+  "tel": "+39 0871930082",
+  "email": "info@terredipoggio.it",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Terre di Poggio",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "the-vinum",
+  "nome": "The Vinum",
+  "regione": "Abruzzo",
+  "comune": "Ortona",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via del Lavoro, 66026 Ortona (CH)",
+  "tel": "+39 348 8525879",
+  "email": "info@thevinum.com",
+  "sito": "https://thevinum.com/",
+  "dom": "thevinum.com",
+  "den": "Pecorino, Abruzzo, Colline Pescaresi, Cococciola",
+  "wip": "The Vinum",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "tocco-vini",
+  "nome": "Tocco Vini",
+  "regione": "Abruzzo",
+  "comune": "Alanno",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Piazza Alcide De Gasperi 9, 65020 Alanno (PE)",
+  "tel": "+39 085 7996624 - +39 3400558624",
+  "email": "info@toccovini.com",
+  "sito": "http://www.toccovini.com",
+  "dom": "toccovini.com",
+  "den": "Abruzzo",
+  "wip": "Tocco Vini",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "torre-dei-beati",
+  "nome": "Torre dei Beati",
+  "regione": "Abruzzo",
+  "comune": "Loreto Aprutino",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Poggioragone, 65014 Loreto Aprutino (PE)",
+  "tel": "+39 085 4916069",
+  "email": "info@torredeibeati.it",
+  "sito": "http://www.torredeibeati.it/",
+  "dom": "torredeibeati.it",
+  "den": "Cerasuolo d'Abruzzo, Pecorino, Abruzzo",
+  "wip": "Torre dei Beati",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "torre-raone",
+  "nome": "Torre Raone",
+  "regione": "Abruzzo",
+  "comune": "Loreto Aprutino",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Scannella Superiore 6, 65014 Loreto Aprutino (PE)",
+  "tel": "+39 085 8289699",
+  "email": "info@torreraone.com",
+  "sito": "http://www.torreraone.com/",
+  "dom": "torreraone.com",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Terre dei Vestini, Abruzzo, Colline Pescaresi",
+  "wip": "Torre Raone",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "valle-martello",
+  "nome": "Valle Martello",
+  "regione": "Abruzzo",
+  "comune": "Villamagna",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ],
+   "villamagna": [
+    "Villamagna"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Valle Martello 10, 66010 Villamagna (CH)",
+  "tel": "+39 0871 300330",
+  "email": "info@vallemartello.it",
+  "sito": "http://www.vallemartello.it",
+  "dom": "vallemartello.it",
+  "den": "Montepulciano d'Abruzzo, Cerasuolo d'Abruzzo, Trebbiano d'Abruzzo, Pecorino, Villamagna, Abruzzo, Colline Teatine, Cococciola",
+  "wip": "Valle Martello",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "valle-reale",
+  "nome": "Valle Reale",
+  "regione": "Abruzzo",
+  "comune": "Popoli",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada San Callisto, 65026 Popoli (PE)",
+  "tel": "+39 085 9871039",
+  "email": "info@vallereale.it",
+  "sito": "http://www.vallereale.it/",
+  "dom": "vallereale.it",
+  "den": "Abruzzo",
+  "wip": "Valle Reale",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "valori",
+  "nome": "Valori",
+  "regione": "Abruzzo",
+  "comune": "San Martino sulla Marrucina",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Gamberale 1, 66010 San Martino sulla Marrucina (CH)",
+  "tel": "",
+  "email": "info@vinivalori.it",
+  "sito": "https://www.vinivalori.it",
+  "dom": "vinivalori.it",
+  "den": "",
+  "wip": "Valori",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "valpeligna",
+  "nome": "Valpeligna",
+  "regione": "Abruzzo",
+  "comune": "Pratola Peligna",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Enopolio, 67035 Pratola Peligna (AQ)",
+  "tel": "+39 0864 274580",
+  "email": "",
+  "sito": "http://www.valpeligna.it",
+  "dom": "valpeligna.it",
+  "den": "",
+  "wip": "Valpeligna",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "vigna-di-more",
+  "nome": "Vigna di More",
+  "regione": "Abruzzo",
+  "comune": "Tione degli Abruzzi",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via IV Novembre, 67020 Tione degli Abruzzi (AQ)",
+  "tel": "+39 335 8093737",
+  "email": "info@vignadimore.it",
+  "sito": "http://www.vignadimore.it",
+  "dom": "vignadimore.it",
+  "den": "Abruzzo, Terre Aquilane",
+  "wip": "Vigna di More",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "vignavolando",
+  "nome": "Vignavolando",
+  "regione": "Abruzzo",
+  "comune": "Pescara",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Strada Cetrullo, 65129 Pescara (PE)",
+  "tel": "+39 389 9652160",
+  "email": "info@vignavolando.com",
+  "sito": "http://www.vignavolando.com",
+  "dom": "vignavolando.com",
+  "den": "",
+  "wip": "Vignavolando",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "vigneti-di-bonaventura",
+  "nome": "Vigneti Di Bonaventura",
+  "regione": "Abruzzo",
+  "comune": "Bellante",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Colle Izzano 81, 64020 Bellante (TE)",
+  "tel": "+39 0861610749",
+  "email": "info@dibonaventuravini.com",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "Vigneti Di Bonaventura",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "vigneti-radica",
+  "nome": "Vigneti Radica",
+  "regione": "Abruzzo",
+  "comune": "Tollo",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via Piane Mozzone 4, 66010 Tollo (CH)",
+  "tel": "+39 329 2964738",
+  "email": "info@vignetiradica.it",
+  "sito": "http://www.vignetiradica.it/",
+  "dom": "vignetiradica.it",
+  "den": "",
+  "wip": "Vigneti Radica",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "villa-medoro",
+  "nome": "Villa Medoro",
+  "regione": "Abruzzo",
+  "comune": "Atri",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Frazione Fontanelle, 64032 Atri (TE)",
+  "tel": "+39 085 8708142",
+  "email": "info@villamedoro.it",
+  "sito": "https://www.villamedoro.it",
+  "dom": "villamedoro.it",
+  "den": "",
+  "wip": "Villa Medoro",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "vinco-abruzzo",
+  "nome": "Vinco Abruzzo",
+  "regione": "Abruzzo",
+  "comune": "Ortona",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Contrada Cucullo, 66026 Ortona (CH)",
+  "tel": "+39 085 7952338",
+  "email": "info@vincoabruzzo.it",
+  "sito": "http://www.vincoabruzzo.it",
+  "dom": "vincoabruzzo.it",
+  "den": "Pecorino, Abruzzo, Passerina",
+  "wip": "Vinco Abruzzo",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "vini-biagi",
+  "nome": "Vini Biagi",
+  "regione": "Abruzzo",
+  "comune": "Colonnella",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Via dei Laghi 12, 64010 Colonnella (TE)",
+  "tel": "+39 0861 714066",
+  "email": "info@vinibiagi.com",
+  "sito": "http://www.vinibiagi.com",
+  "dom": "vinibiagi.com",
+  "den": "",
+  "wip": "Vini Biagi",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
+ },
+ {
+  "slug": "white-oak",
+  "nome": "White Oak",
+  "regione": "Abruzzo",
+  "comune": "Pineto",
+  "tipi": {
+   "abruzzo": [
+    "Abruzzo"
+   ]
+  },
+  "rag": "",
+  "piva": "",
+  "sede": "Coste del Mulino, 64025 Pineto (TE)",
+  "tel": "+39 3297364476",
+  "email": "info@whiteoakvineyards.com",
+  "sito": "",
+  "dom": "",
+  "den": "",
+  "wip": "White Oak",
+  "url_consorzio": "https://www.vinidabruzzo.it/produttori/",
+  "social": {},
+  "premi_da_verificare": true,
+  "dati_consorzio": true,
+  "elenco_consorzio": false,
+  "consorzio_nome": "Consorzio Tutela Vini d’Abruzzo",
+  "dom_consorzio": "vinidabruzzo.it",
+  "data_consorzio": "5 novembre 2026",
+  "consorzio": "abruzzo",
+  "data_consultazione": "5 novembre 2026"
  }
 ]

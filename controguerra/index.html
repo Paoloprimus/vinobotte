@@ -37,7 +37,7 @@
     <ul id="l"></ul>
     </main>
     <script>
-    const D=[{"n":"Bossanova","s":"bossanova","c":"Controguerra","d":["Controguerra"]},{"n":"Camillo Montori","s":"camillo-montori","c":"Controguerra","d":["Controguerra"]},{"n":"De Angelis Corvi","s":"de-angelis-corvi","c":"Controguerra","d":["Controguerra"]}];
+    const D=[{"n":"Barone Cornacchia","s":"barone-cornacchia","c":"Torano Nuovo","d":["Controguerra"]},{"n":"Bossanova","s":"bossanova","c":"Controguerra","d":["Controguerra"]},{"n":"Camillo Montori","s":"camillo-montori","c":"Controguerra","d":["Controguerra"]},{"n":"Cantina Strappelli","s":"cantina-strappelli","c":"Torano Nuovo","d":["Controguerra"]},{"n":"De Angelis Corvi","s":"de-angelis-corvi","c":"Controguerra","d":["Controguerra"]}];
     const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
     [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
     const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');

@@ -1,0 +1,36 @@
+{
+ "nome": "Cantina Blancodini",
+ "slug": "cantina-blancodini",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Circonvallazione orientale 52, 67035 Pratola Peligna (AQ) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 335 1762741 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@cantinablancodini.it [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Vini d’Abruzzo [[1]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Elenco delle aziende del Consorzio Tutela Vini d’Abruzzo, scheda dell’azienda consultata il 5 novembre 2026.",
+   "url": "https://www.vinidabruzzo.it/produttori/",
+   "etichetta": "vinidabruzzo.it"
+  }
+ ]
+}
