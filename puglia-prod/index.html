@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Puglia: altre denominazioni — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Puglia: altre denominazioni</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Puglia: altre denominazioni</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Agricola Bruno","s":"agricola-bruno","c":"Andria","d":["Puglia"]},{"n":"Ametista","s":"ametista","c":"Zollino","d":["Puglia"]},{"n":"Antica Enotria","s":"antica-enotria","c":"Cerignola","d":["Puglia"]},{"n":"Arpi","s":"arpi","c":"Foggia","d":["Puglia"]},{"n":"Azienda Agricola Convertino","s":"azienda-agricola-convertino","c":"Fragagnano","d":["Puglia"]},{"n":"Azienda Agricola Francesco Marra","s":"azienda-agricola-francesco-marra","c":"Ugento","d":["Puglia"]},{"n":"Biocantina Giannattasio","s":"biocantina-giannattasio","c":"Trinitapoli","d":["Puglia"]},{"n":"Bonsegna","s":"bonsegna","c":"Nardò","d":["Puglia"]},{"n":"Botromagno","s":"botromagno","c":"Gravina in Puglia","d":["Puglia"]},{"n":"Cantina Apulia","s":"cantina-apulia","c":"Stornara","d":["Puglia"]},{"n":"Cantina dei Fragni","s":"cantina-dei-fragni","c":"Sammichele di Bari","d":["Puglia"]},{"n":"Cantina Giara","s":"cantina-giara","c":"Adelfia","d":["Puglia"]},{"n":"Cantina Vignuolo","s":"cantina-vignuolo","c":"Andria","d":["Puglia"]},{"n":"Cantine Dalena","s":"cantine-dalena","c":"Mottola","d":["Puglia"]},{"n":"Cantine Losito","s":"cantine-losito","c":"Foggia","d":["Puglia"]},{"n":"Capo Leuca","s":"capo-leuca","c":"Tricase","d":["Puglia"]},{"n":"Cimaglia","s":"cimaglia","c":"Vieste","d":["Puglia"]},{"n":"Colli della Murgia","s":"colli-della-murgia","c":"Gravina in Puglia","d":["Puglia"]},{"n":"Conte Spagnoletti Zeuli","s":"conte-spagnoletti-zeuli","c":"Andria","d":["Puglia"]},{"n":"Contrade","s":"contrade","c":"Andria","d":["Puglia"]},{"n":"Coppi","s":"coppi","c":"Turi","d":["Puglia"]},{"n":"Donna Palma","s":"donna-palma","c":"Racale","d":["Puglia"]},{"n":"Dono Dorato","s":"dono-dorato","c":"Trinitapoli","d":["Puglia"]},{"n":"Elda","s":"elda","c":"Foggia","d":["Puglia"]},{"n":"F.lli Tullio Cataldo - Kandea","s":"f-lli-tullio-cataldo-kandea","c":"Candela","d":["Puglia"]},{"n":"Feudi di Guagnano","s":"feudi-di-guagnano","c":"Guagnano","d":["Puglia"]},{"n":"Frisinō","s":"frisino","c":"Crispiano","d":["Puglia"]},{"n":"Giampetruzzi","s":"giampetruzzi","c":"Santeramo in Colle","d":["Puglia"]},{"n":"Giancarlo","s":"giancarlo","c":"Andria","d":["Puglia"]},{"n":"Gianfranco Fino","s":"gianfranco-fino","c":"Manduria","d":["Puglia"]},{"n":"Giovanni Aiello","s":"giovanni-aiello","c":"Putignano","d":["Puglia"]},{"n":"Giuliani","s":"giuliani","c":"Turi","d":["Puglia"]},{"n":"L'Archetipo","s":"l-archetipo","c":"Castellaneta","d":["Puglia"]},{"n":"l'Astore Masseria","s":"l-astore-masseria","c":"Cutrofiano","d":["Puglia"]},{"n":"La Curte","s":"la-curte","c":"Tuglie","d":["Puglia"]},{"n":"La Passione Segreta","s":"la-passione-segreta","c":"Mesagne","d":["Puglia"]},{"n":"M. de Santis","s":"m-de-santis","c":"Bitonto","d":["Puglia"]},{"n":"Marco Carrisi","s":"marco-carrisi","c":"San Donaci","d":["Puglia"]},{"n":"Masseria Civitella","s":"masseria-civitella","c":"Carosino","d":["Puglia"]},{"n":"Masseria Masciullo","s":"masseria-masciullo","c":"Brindisi","d":["Puglia"]},{"n":"Masseria Torre Rossa","s":"masseria-torre-rossa","c":"Fasano","d":["Puglia"]},{"n":"Mastroleo","s":"mastroleo","c":"Tricase","d":["Puglia"]},{"n":"Messapi","s":"messapi","c":"Mesagne","d":["Puglia"]},{"n":"Monsellato","s":"monsellato","c":"Presicce-Acquarica","d":["Puglia"]},{"n":"Nostre Terre","s":"nostre-terre","c":"Cerignola","d":["Puglia"]},{"n":"Paglione","s":"paglione","c":"Lucera","d":["Puglia"]},{"n":"Paolo Petrilli","s":"paolo-petrilli","c":"Lucera","d":["Puglia"]},{"n":"Petracavallo","s":"petracavallo","c":"Mottola","d":["Puglia"]},{"n":"Pirro","s":"pirro","c":"Troia","d":["Puglia"]},{"n":"Poderi delle Mura","s":"poderi-delle-mura","c":"Altamura","d":["Puglia"]},{"n":"Posta Pastorella","s":"posta-pastorella","c":"Vieste","d":["Puglia"]},{"n":"Rasciatano","s":"rasciatano","c":"Barletta","d":["Puglia"]},{"n":"Romaldo Greco","s":"romaldo-greco","c":"Seclì","d":["Puglia"]},{"n":"San Ruggiero","s":"san-ruggiero","c":"Barletta","d":["Puglia"]},{"n":"Santissimo","s":"santissimo","c":"Apricena","d":["Puglia"]},{"n":"Schola Sarmenti","s":"schola-sarmenti","c":"Nardò","d":["Puglia"]},{"n":"Tenuta Merico","s":"tenuta-merico","c":"Otranto","d":["Puglia"]},{"n":"Tenuta Planisium","s":"tenuta-planisium","c":"Volturara Appula","d":["Puglia"]},{"n":"Tenuta Potenti","s":"tenuta-potenti","c":"Manduria","d":["Puglia"]},{"n":"Tenute Salentine","s":"tenute-salentine","c":"Carosino","d":["Puglia"]},{"n":"Terra dei Trulli","s":"terra-dei-trulli","c":"Alberobello","d":["Puglia"]},{"n":"Terre di Puglia","s":"terre-di-puglia","c":"Andria","d":["Puglia"]},{"n":"Torre Ospina","s":"torre-ospina","c":"Racale","d":["Puglia"]},{"n":"Trefontane","s":"trefontane","c":"Taranto","d":["Puglia"]},{"n":"Triconza","s":"triconza","c":"Orta Nova","d":["Puglia"]},{"n":"Unione Agricola Melissano","s":"unione-agricola-melissano","c":"Melissano","d":["Puglia"]},{"n":"Valentina Passalacqua","s":"valentina-passalacqua","c":"Apricena","d":["Puglia"]},{"n":"Vetrère","s":"vetrere","c":"Taranto","d":["Puglia"]},{"n":"Villa Valentina","s":"villa-valentina","c":"Cisternino","d":["Puglia"]},{"n":"Vini Nardo","s":"vini-nardo","c":"Canosa di Puglia","d":["Puglia"]},{"n":"Vinicola Mastricci Antonio","s":"vinicola-mastricci-antonio","c":"Cerignola","d":["Puglia"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    

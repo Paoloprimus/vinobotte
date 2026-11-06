@@ -1,0 +1,57 @@
+<!doctype html>
+    <html lang="it">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Produttori vini Sicilia — VinoBotte</title>
+    <style>
+    :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+    @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+    main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+    a{color:var(--acc)}
+    .top a{text-decoration:none;font-weight:700}
+    h1{font-size:clamp(26px,7vw,32px);line-height:1.15;margin:14px 0 14px}
+    .filtri{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:10px}
+    input,select{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:8px;width:100%}
+    #n{color:var(--ink);margin:6px 0;font-size:14px}
+    ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+    li{border-bottom:1px solid var(--line)}
+    li a{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 2px;text-decoration:none;color:inherit}
+    li a:hover .nm,li a:focus-visible .nm{text-decoration:underline}
+    .nm{color:var(--acc);font-weight:700}
+    .sub{font-size:14px;grid-column:1 / -1}
+    @media (max-width:560px){.filtri{grid-template-columns:1fr}}
+    </style>
+    </head>
+    <body>
+    <main>
+    <h1>Produttori vini Sicilia</h1>
+    <div class="filtri">
+    <input id="q" type="search" placeholder="Nome cantina" aria-label="Nome cantina">
+    <select id="c" aria-label="Comune"><option value="">Tutti i comuni</option></select>
+    <select id="d" aria-label="Denominazione"><option value="">Tutte le denominazioni</option><option>Sicilia</option></select>
+    </div>
+    <div id="n" role="status"></div>
+    <ul id="l"></ul>
+    </main>
+    <script>
+    const D=[{"n":"Abbazia Santa Anastasia","s":"abbazia-santa-anastasia","c":"Castelbuono","d":["Sicilia"]},{"n":"Agrimed Scopello Ass. Impresa","s":"agrimed-scopello-ass-impresa","c":"Castellammare del Golfo","d":["Sicilia"]},{"n":"Alcesti","s":"alcesti","c":"Marsala","d":["Sicilia"]},{"n":"Antica Tindari","s":"antica-tindari","c":"Patti","d":["Sicilia"]},{"n":"Azienda Agricola Vella","s":"azienda-agricola-vella","c":"Agrigento","d":["Sicilia"]},{"n":"Baglio del Cristo di Campobello","s":"baglio-del-cristo-di-campobello","c":"Campobello di Licata","d":["Sicilia"]},{"n":"Baronia della Pietra","s":"baronia-della-pietra","c":"Alessandria della Rocca","d":["Sicilia"]},{"n":"Bonsignore","s":"bonsignore","c":"San Cataldo","d":["Sicilia"]},{"n":"Buceci","s":"buceci","c":"Bolognetta","d":["Sicilia"]},{"n":"Cantina Santa Ninfa","s":"cantina-santa-ninfa","c":"Santa Ninfa","d":["Sicilia"]},{"n":"Cantine Amato","s":"cantine-amato","c":"Piraino","d":["Sicilia"]},{"n":"Cantine Settesoli","s":"cantine-settesoli","c":"Calatafimi-Segesta","d":["Sicilia"]},{"n":"Carbona","s":"carbona","c":"Castelvetrano","d":["Sicilia"]},{"n":"Castelluccimiano-viticultura di montagna","s":"castelluccimiano-viticultura-di-montagna","c":"Valledolmo","d":["Sicilia"]},{"n":"Cummo","s":"cummo","c":"Canicattì","d":["Sicilia"]},{"n":"CVA Canicattì","s":"cva-canicatti","c":"Canicattì","d":["Sicilia"]},{"n":"Donna di Coppe","s":"donna-di-coppe","c":"Gibellina","d":["Sicilia"]},{"n":"Fazio Casa Vinicola in Erice","s":"fazio-casa-vinicola-in-erice","c":"San Vito Lo Capo","d":["Sicilia"]},{"n":"Ferreri Vini","s":"ferreri-vini","c":"Santa Ninfa","d":["Sicilia"]},{"n":"Feudo Disisa","s":"feudo-disisa","c":"Palermo","d":["Sicilia"]},{"n":"Feudo Montoni","s":"feudo-montoni","c":"Palermo","d":["Sicilia"]},{"n":"Funaro","s":"funaro","c":"Palermo","d":["Sicilia"]},{"n":"Gaglio Vignaioli dal 1910","s":"gaglio-vignaioli-dal-1910","c":"Oliveri","d":["Sicilia"]},{"n":"Gaudioso","s":"gaudioso","c":"Partanna","d":["Sicilia"]},{"n":"Giovinotto","s":"giovinotto","c":"Ramacca","d":["Sicilia"]},{"n":"Grottarossa Vini","s":"grottarossa-vini","c":"Canicattì","d":["Sicilia"]},{"n":"La Valle della Luna","s":"la-valle-della-luna","c":"Partanna","d":["Sicilia"]},{"n":"Masseria del Feudo","s":"masseria-del-feudo","c":"Caltanissetta","d":["Sicilia"]},{"n":"Milazzo Vini","s":"milazzo-vini","c":"Campobello di Licata","d":["Sicilia"]},{"n":"Morgante","s":"morgante","c":"Grotte","d":["Sicilia"]},{"n":"Morreale Vini","s":"morreale-vini","c":"Favara","d":["Sicilia"]},{"n":"Musita","s":"musita","c":"Salemi","d":["Sicilia"]},{"n":"Nadore","s":"nadore","c":"Gibellina","d":["Sicilia"]},{"n":"Nino Gandolfo","s":"nino-gandolfo","c":"Salemi","d":["Sicilia"]},{"n":"Patrì","s":"patri","c":"Riesi","d":["Sicilia"]},{"n":"Platia Vini","s":"platia-vini","c":"Naro","d":["Sicilia"]},{"n":"Podere Messina","s":"podere-messina","c":"Calatafimi-Segesta","d":["Sicilia"]},{"n":"Principi di Butera","s":"principi-di-butera","c":"Butera","d":["Sicilia"]},{"n":"Santa Maria La Nave","s":"santa-maria-la-nave","c":"Catania","d":["Sicilia"]},{"n":"Serra Ferdinandea","s":"serra-ferdinandea","c":"Palermo","d":["Sicilia"]},{"n":"Siquelia","s":"siquelia","c":"Palermo","d":["Sicilia"]},{"n":"Spadafora dei Principi di Spadafora","s":"spadafora-dei-principi-di-spadafora","c":"Palermo","d":["Sicilia"]},{"n":"Tasca d’Almerita","s":"tasca-dalmerita","c":"Palermo","d":["Sicilia"]},{"n":"Tenuta Gatti","s":"tenuta-gatti","c":"Librizzi","d":["Sicilia"]},{"n":"Tenuta Macconi","s":"tenuta-macconi","c":"Bagheria","d":["Sicilia"]},{"n":"Tenuta Morreale Agnello","s":"tenuta-morreale-agnello","c":"Agrigento","d":["Sicilia"]},{"n":"Tenuta Navarra","s":"tenuta-navarra","c":"Butera","d":["Sicilia"]},{"n":"Tenuta Tremollito","s":"tenuta-tremollito","c":"Licodia Eubea","d":["Sicilia"]},{"n":"Tenute Cuffaro","s":"tenute-cuffaro","c":"Agrigento","d":["Sicilia"]},{"n":"Tenute dei Ciclopi","s":"tenute-dei-ciclopi","c":"Catania","d":["Sicilia"]},{"n":"Tenute Lombardo","s":"tenute-lombardo","c":"Caltanissetta","d":["Sicilia"]},{"n":"Tenute Mokarta","s":"tenute-mokarta","c":"Salemi","d":["Sicilia"]},{"n":"Tenute Orestiadi","s":"tenute-orestiadi","c":"Gibellina","d":["Sicilia"]},{"n":"Tenute Racalmare","s":"tenute-racalmare","c":"Grotte","d":["Sicilia"]},{"n":"Tenute Rosselli","s":"tenute-rosselli","c":"Casteldaccia","d":["Sicilia"]},{"n":"Terrazze dell’Etna","s":"terrazze-delletna","c":"Palermo","d":["Sicilia"]},{"n":"Tornatore Azienda Agricola","s":"tornatore-azienda-agricola","c":"Catania","d":["Sicilia"]},{"n":"Umberto Romano","s":"umberto-romano","c":"Caltanissetta","d":["Sicilia"]},{"n":"Venticolli","s":"venticolli","c":"Geraci Siculo","d":["Sicilia"]},{"n":"Vinding Peter Montecarrubo","s":"vinding-peter-montecarrubo","c":"Melilli","d":["Sicilia"]},{"n":"Vini Calì","s":"vini-cali","c":"Casteldaccia","d":["Sicilia"]},{"n":"Vitivinicola Lombardo","s":"vitivinicola-lombardo","c":"San Cataldo","d":["Sicilia"]}];
+    const q=document.getElementById('q'),c=document.getElementById('c'),d=document.getElementById('d'),l=document.getElementById('l'),n=document.getElementById('n');
+    [...new Set(D.map(x=>x.c).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'it')).forEach(x=>{const o=document.createElement('option');o.textContent=x;c.appendChild(o)});
+    const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+    function esc(s){return s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
+    function mostra(){
+     const t=norm(q.value.trim());
+     const r=D.filter(x=>(!t||norm(x.n).includes(t))&&(!c.value||x.c===c.value)&&(!d.value||x.d.includes(d.value)));
+     n.textContent=r.length+(r.length===1?' cantina':' cantine');
+     l.innerHTML=r.map(x=>'<li><a href="/pagine/'+x.s+'.html"><span class="nm">'+esc(x.n)+'</span><span>'+esc(x.c)+'</span><span class="sub">'+esc(x.d.join(' · '))+'</span></a></li>').join('');
+    }
+    [q,c,d].forEach(e=>e.addEventListener('input',mostra));
+    mostra();
+    </script>
+    <script src="/shell.js" defer></script>
+    </body>
+    </html>
+    
