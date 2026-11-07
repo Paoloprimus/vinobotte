@@ -10,12 +10,12 @@
      "valore": "Via Montalto Gaium 88, 37010 Rivoli Veronese (VR) [[1]]"
     },
     {
-     "etichetta": "Telefono",
-     "valore": "+39 320 1133324 [[1]]"
+     "etichetta": "Email",
+     "valore": "info@soldemontalto.it [[2]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "info@soldemontalto.it [[3]]"
+     "etichetta": "Telefono",
+     "valore": "+39 320 1133324 [[1]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -50,7 +50,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -65,13 +65,13 @@
   },
   {
    "n": 2,
-   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
-  },
-  {
-   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina «soldemontalto.it», consultata il 7 novembre 2026.",
    "url": "https://www.soldemontalto.it/",
    "etichetta": "soldemontalto.it"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]
 }

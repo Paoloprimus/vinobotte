@@ -10,6 +10,10 @@
      "valore": "Via Valle Zaccona, 25A, 36030 Fara Vicentino (VI) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@transitfarm.com [[2]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://transitfarm.com/it/|transitfarm.com}} [[1]]"
     }
@@ -42,7 +46,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -57,6 +61,12 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «transitfarm.com/it», consultata il 7 novembre 2026.",
+   "url": "https://transitfarm.com/it/",
+   "etichetta": "transitfarm.com"
+  },
+  {
+   "n": 3,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

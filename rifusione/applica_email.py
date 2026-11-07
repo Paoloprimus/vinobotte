@@ -2,7 +2,7 @@ import json,re,os
 R=os.path.dirname(os.path.abspath(__file__))+'/..'
 em=json.load(open(R+'/arricchimenti/email.json'))
 DATA='7 novembre 2026'
-tot=dict(email=0,assenza=0,gia=0,assenti=0)
+tot=dict(email=0,assenza=0,senzasito=0,irragg=0,gia=0,assenti=0)
 for slug,o in em.items():
     f=f'{R}/dati/{slug}.json'
     if not os.path.exists(f): tot['assenti']+=1; continue
@@ -19,6 +19,10 @@ for slug,o in em.items():
         if o.get('fonte'): d.setdefault('fonti',[]).append(dict({'n':n,'testo':o['fonte']},**({'url':o['url'],'etichetta':re.sub(r'^https?://(www\.)?([^/]+).*',r'\2',o['url'])} if o.get('url') else {})))
         else: d.setdefault('fonti',[]).append({'n':n,'testo':f'Sito ufficiale della cantina, pagina «{re.sub(r"^https?://(www\.)?","",pag).rstrip("/")}», consultata il {DATA}.','url':pag,'etichetta':re.sub(r'^https?://(www\.)?([^/]+).*',r'\2',pag)})
         riga={'etichetta':'Email','valore':f'{o["email"]} [[{n}]]'}; tot['email']+=1
+    elif o.get('motivo')=='senza-sito':
+        riga={'etichetta':'Email','valore':f'Assenza di sito ufficiale, nessuna email individuata (controllo del {DATA})'}; tot['senzasito']+=1
+    elif o.get('motivo')=='irraggiungibile':
+        riga={'etichetta':'Email','valore':f'Sito ufficiale irraggiungibile, nessuna email individuata (controllo del {DATA})'}; tot['irragg']+=1
     else:
         riga={'etichetta':'Email','valore':f'Non presente nelle pagine del sito ufficiale consultate (controllo del {DATA})'}; tot['assenza']+=1
     righe=an['righe']; pos=len(righe)

@@ -10,12 +10,12 @@
      "valore": "Via S. Michele, 1, 37018 Malcesine (VR) [[1]]"
     },
     {
-     "etichetta": "Telefono",
-     "valore": "+39 347 3105555 [[1]]"
+     "etichetta": "Email",
+     "valore": "info@trattoriacampiano.com [[2]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "info@trattoriacampiano.com [[3]]"
+     "etichetta": "Telefono",
+     "valore": "+39 347 3105555 [[1]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -50,7 +50,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -65,13 +65,13 @@
   },
   {
    "n": 2,
-   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
-  },
-  {
-   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina «trattoriacampiano.com/chi-siamo», consultata il 7 novembre 2026.",
    "url": "https://trattoriacampiano.com/chi-siamo/",
    "etichetta": "trattoriacampiano.com"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]
 }

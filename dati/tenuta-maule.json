@@ -6,24 +6,24 @@
    "titolo": "Anagrafica",
    "righe": [
     {
+     "etichetta": "Email",
+     "valore": "info@tenutamaule.com [[1]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
-     "valore": "{{http://www.tenutamaule.com/|tenutamaule.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+     "valore": "{{http://www.tenutamaule.com/|tenutamaule.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[2]]\nConsorzio Tutela Vini Colli Berici e Vicenza [[3]]\nConsorzio Volontario per la Tutela dei Vini Gambellara [[4]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[3]]\nConsorzio Tutela Vini Colli Berici e Vicenza [[4]]\nConsorzio Volontario per la Tutela dei Vini Gambellara [[5]]"
     },
     {
      "etichetta": "Consorzio",
-     "valore": "Consorzio di Tutela della DOC Prosecco [[5]]"
+     "valore": "Consorzio di Tutela della DOC Prosecco [[6]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Prosecco DOC",
-     "valore": "Montebello Vicentino, Via Contrada Selva, 10 36054 VI; tel. +393519580608; info@tenutamaule.com; https://www.tenutamaule.com [[5]]"
-    },
-    {
-     "etichetta": "Email",
-     "valore": "info@tenutamaule.com [[8]]"
+     "valore": "Montebello Vicentino, Via Contrada Selva, 10 36054 VI; tel. +393519580608; info@tenutamaule.com; https://www.tenutamaule.com [[6]]"
     }
    ]
   },
@@ -63,11 +63,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=15095975370768200628|Mappa}} — valutazione 4,8 su 5 (102 recensioni) [[6]]"
+     "valore": "{{https://maps.google.com/?cid=15095975370768200628|Mappa}} — valutazione 4,8 su 5 (102 recensioni) [[7]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[7]]"
+     "valore": "Presente come produttore [[8]]"
     }
    ]
   }
@@ -76,49 +76,49 @@
  "fonti": [
   {
    "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «tenutamaule.com», consultata il 7 novembre 2026.",
+   "url": "https://www.tenutamaule.com/",
+   "etichetta": "tenutamaule.com"
+  },
+  {
+   "n": 2,
    "testo": "Sito indicato nella scheda Google Maps della cantina, ricerca del 29 ottobre 2026.",
    "url": "https://maps.google.com/?cid=15095975370768200628",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 2,
+   "n": 3,
    "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.montilessini.com/produttori-vino-durello/",
    "etichetta": "montilessini.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Elenco dei produttori del Consorzio Tutela Vini Colli Berici e Vicenza, consultato il 2 novembre 2026.",
    "url": "https://consorzio.bevidoc.it/consorzio/aziende-consorzio/",
    "etichetta": "bevidoc.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Elenco dei produttori del Consorzio Volontario per la Tutela dei Vini Gambellara, consultato il 2 novembre 2026.",
    "url": "https://www.consorziogambellara.com/il-consorzio/aziende-consorzio/",
    "etichetta": "consorziogambellara.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Consorzio di Tutela della DOC Prosecco, mappa dei produttori, consultata il 24 ottobre 2026.",
    "url": "https://www.prosecco.wine/produttori/",
    "etichetta": "prosecco.wine"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Scheda «Tenuta Maule» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=15095975370768200628",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 7,
-   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
-  },
-  {
    "n": 8,
-   "testo": "Sito ufficiale della cantina, pagina «tenutamaule.com», consultata il 7 novembre 2026.",
-   "url": "https://www.tenutamaule.com/",
-   "etichetta": "tenutamaule.com"
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]
 }

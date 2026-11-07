@@ -10,12 +10,12 @@
      "valore": "Valeggio sul Mincio (VR) [[1]]"
     },
     {
-     "etichetta": "Telefono",
-     "valore": "333 119 6317 [[1]]"
+     "etichetta": "Email",
+     "valore": "info@simonefedericorighetti.it [[2]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "info@simonefedericorighetti.it [[3]]"
+     "etichetta": "Telefono",
+     "valore": "333 119 6317 [[1]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -63,7 +63,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=14032170808954655222|Mappa}} — valutazione 4,9 su 5 (44 recensioni) [[2]]"
+     "valore": "{{https://maps.google.com/?cid=14032170808954655222|Mappa}} — valutazione 4,9 su 5 (44 recensioni) [[3]]"
     }
    ]
   }
@@ -78,15 +78,15 @@
   },
   {
    "n": 2,
-   "testo": "Scheda «Simone e Federico Righetti» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
-   "url": "https://maps.google.com/?cid=14032170808954655222",
-   "etichetta": "maps.google.com"
-  },
-  {
-   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina «simonefedericorighetti.it», consultata il 7 novembre 2026.",
    "url": "https://www.simonefedericorighetti.it/",
    "etichetta": "simonefedericorighetti.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Simone e Federico Righetti» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=14032170808954655222",
+   "etichetta": "maps.google.com"
   }
  ]
 }

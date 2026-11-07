@@ -10,12 +10,12 @@
      "valore": "Via Crevada 52/A, 31020 Refrontolo (TV) [[1]]"
     },
     {
-     "etichetta": "Telefono",
-     "valore": "+39 0438 981115 [[1]]"
+     "etichetta": "Email",
+     "valore": "agcalronche@gmail.com [[2]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "agcalronche@gmail.com [[3]]"
+     "etichetta": "Telefono",
+     "valore": "+39 0438 981115 [[1]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -50,7 +50,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -65,13 +65,13 @@
   },
   {
    "n": 2,
-   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
-  },
-  {
-   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina «calronche.it», consultata il 7 novembre 2026.",
    "url": "https://www.calronche.it",
    "etichetta": "calronche.it"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]
 }

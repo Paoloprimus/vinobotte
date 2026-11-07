@@ -14,12 +14,12 @@
      "valore": "Via IV Novembre 56, 37032 Monteforte d'Alpone (VR) [[1]]"
     },
     {
-     "etichetta": "Telefono",
-     "valore": "045 7612116 [[1]]"
+     "etichetta": "Email",
+     "valore": "info@nardellovini.it [[2]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "info@nardellovini.it [[5]]"
+     "etichetta": "Telefono",
+     "valore": "045 7612116 [[1]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -36,19 +36,19 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Azienda Agricola Daniele Nardello S.S.; la famiglia coltiva la vite da generazioni su circa 14 ettari, con viti di 40-50 anni nella maggior parte dei vigneti; anno di fondazione non indicato [[2]]"
+     "valore": "Azienda Agricola Daniele Nardello S.S.; la famiglia coltiva la vite da generazioni su circa 14 ettari, con viti di 40-50 anni nella maggior parte dei vigneti; anno di fondazione non indicato [[3]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Il sito scrive la denominazione solo per Meridies; gli altri cinque vini (Aetas, Blanc De Fè, Vigna Turbian, Monte Zoppega, Suavissimus) sono elencati senza denominazione. [[3]]",
+   "nota": "Il sito scrive la denominazione solo per Meridies; gli altri cinque vini (Aetas, Blanc De Fè, Vigna Turbian, Monte Zoppega, Suavissimus) sono elencati senza denominazione. [[4]]",
    "tipo": "vini",
    "vini": [
     {
      "nome": "Meridies",
      "denominazione": "Soave DOC Classico",
-     "annata": "— [[3]]"
+     "annata": "— [[4]]"
     }
    ]
   },
@@ -57,7 +57,7 @@
    "righe": [
     {
      "etichetta": "Premi e punteggi",
-     "valore": "Non presenti per i vini Soave nel sito della cantina [[2]]"
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[3]]"
     }
    ]
   },
@@ -70,7 +70,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=7027869268588955899|Mappa}} — valutazione 4,8 su 5 (9 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=7027869268588955899|Mappa}} — valutazione 4,8 su 5 (9 recensioni) [[5]]"
     }
    ]
   }
@@ -85,27 +85,27 @@
   },
   {
    "n": 2,
-   "testo": "Sito ufficiale della cantina, pagina «nardellovini.it», consultata il 24 ottobre 2026.",
+   "testo": "Sito ufficiale della cantina, pagina «nardellovini.it», consultata il 7 novembre 2026.",
    "url": "https://www.nardellovini.it",
    "etichetta": "nardellovini.it"
   },
   {
    "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «nardellovini.it», consultata il 24 ottobre 2026.",
+   "url": "https://www.nardellovini.it",
+   "etichetta": "nardellovini.it"
+  },
+  {
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina «nardellovini.it/meridies», consultata il 24 ottobre 2026.",
    "url": "https://www.nardellovini.it/meridies/",
    "etichetta": "nardellovini.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «AZIENDA AGRICOLA NARDELLO DANIELE S.S» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=7027869268588955899",
    "etichetta": "maps.google.com"
-  },
-  {
-   "n": 5,
-   "testo": "Sito ufficiale della cantina, pagina «nardellovini.it», consultata il 7 novembre 2026.",
-   "url": "https://www.nardellovini.it",
-   "etichetta": "nardellovini.it"
   }
  ]
 }

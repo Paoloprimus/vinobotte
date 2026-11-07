@@ -10,12 +10,12 @@
      "valore": "Via Monte Fasolo, 2, 35030 Cinto Euganeo (PD) [[1]]"
     },
     {
-     "etichetta": "Telefono",
-     "valore": "+39 0429 613088 [[1]]"
+     "etichetta": "Email",
+     "valore": "commerciale@montefasolo.eu [[2]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "commerciale@montefasolo.eu [[3]]"
+     "etichetta": "Telefono",
+     "valore": "+39 0429 613088 [[1]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -50,7 +50,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -65,13 +65,13 @@
   },
   {
    "n": 2,
-   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
-  },
-  {
-   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina «cantinamontefasolo.it/acquistare-vino-veneto», consultata il 7 novembre 2026.",
    "url": "https://www.cantinamontefasolo.it/acquistare-vino-veneto/",
    "etichetta": "cantinamontefasolo.it"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]
 }

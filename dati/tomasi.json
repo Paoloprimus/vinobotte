@@ -10,12 +10,12 @@
      "valore": "Via Borgo Molini 68, 31020 Corbanese (TV) [[1]]"
     },
     {
-     "etichetta": "Telefono",
-     "valore": "+39 339 6046096 [[1]]"
+     "etichetta": "Email",
+     "valore": "tomasi.vini@gmail.com [[2]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "tomasi.vini@gmail.com [[3]]"
+     "etichetta": "Telefono",
+     "valore": "+39 339 6046096 [[1]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -50,7 +50,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -65,13 +65,13 @@
   },
   {
    "n": 2,
-   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
-  },
-  {
-   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina «prosecco-tomasi.it», consultata il 7 novembre 2026.",
    "url": "https://www.prosecco-tomasi.it/",
    "etichetta": "prosecco-tomasi.it"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]
 }

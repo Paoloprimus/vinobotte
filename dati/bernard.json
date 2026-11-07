@@ -14,12 +14,12 @@
      "valore": "Via Casette di Sopra 5, 37060 Sona (VR) [[1]]"
     },
     {
-     "etichetta": "Telefono",
-     "valore": "+39 335 6566815\n+39 045 609 9205 [[1]]"
+     "etichetta": "Email",
+     "valore": "info@vinigiarola.com [[2]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "Non presente nelle pagine del sito ufficiale consultate (controllo del 7 novembre 2026)"
+     "etichetta": "Telefono",
+     "valore": "+39 335 6566815\n+39 045 609 9205 [[1]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -36,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Non disponibile: il sito non è stato raggiungibile (errore del server) [[2]]"
+     "valore": "Non disponibile: il sito non è stato raggiungibile (errore del server) [[3]]"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Asolo Prosecco Superiore DOCG; Treviso Prosecco DOC; Valpolicella Ripasso Superiore DOC [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Asolo Prosecco Superiore DOCG; Treviso Prosecco DOC; Valpolicella Ripasso Superiore DOC [[4]]"
     }
    ]
   },
@@ -54,7 +54,7 @@
    "righe": [
     {
      "etichetta": "Premi e punteggi",
-     "valore": "Non verificabili: il sito non è stato raggiungibile (errore del server) [[2]]"
+     "valore": "Non verificabili: il sito non è stato raggiungibile (errore del server) [[3]]"
     }
    ]
   },
@@ -63,7 +63,7 @@
    "righe": [
     {
      "etichetta": "Social",
-     "valore": "Instagram {{https://www.instagram.com/bernard.vini/|@bernard.vini}} [[4]]"
+     "valore": "Instagram {{https://www.instagram.com/bernard.vini/|@bernard.vini}} [[5]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -82,18 +82,24 @@
   },
   {
    "n": 2,
+   "testo": "Sito vinigiarola.com, raggiunto dal sito ufficiale mdbernard.it, pagina «vinigiarola.com/it», consultata il 7 novembre 2026.",
+   "url": "https://www.vinigiarola.com/it/",
+   "etichetta": "vinigiarola.com"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina «mdbernard.it», consultata il 24 ottobre 2026.",
    "url": "https://www.mdbernard.it",
    "etichetta": "mdbernard.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "https://www.mdbernard.it",
    "etichetta": "mdbernard.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 27 ottobre 2026.",
    "url": "https://www.mdbernard.it",
    "etichetta": "mdbernard.it"

@@ -10,12 +10,16 @@
      "valore": "L'Antica Quercia [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@anticaquercia.it [[2]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
-     "valore": "{{http://www.anticaquercia.it/|anticaquercia.it}} — non raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+     "valore": "{{http://www.anticaquercia.it/|anticaquercia.it}} — non raggiungibile al controllo del 29 ottobre 2026 [[3]]"
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio di Tutela del Conegliano Valdobbiadene Prosecco DOCG [[1]]\nConsorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG [[4]]"
     }
    ]
   },
@@ -55,11 +59,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=8068514045167508462|Mappa}} — valutazione 4,8 su 5 (81 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=8068514045167508462|Mappa}} — valutazione 4,8 su 5 (81 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -74,24 +78,30 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «anticaquercia.it», consultata il 7 novembre 2026.",
+   "url": "https://www.anticaquercia.it/",
+   "etichetta": "anticaquercia.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito indicato nella scheda Google Maps della cantina, ricerca del 29 ottobre 2026.",
    "url": "https://maps.google.com/?cid=8068514045167508462",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Elenco dei produttori del Consorzio Tutela del Vino Conegliano Valdobbiadene Prosecco DOCG, consultato il 2 novembre 2026.",
    "url": "https://www.prosecco.it/it/scheda-cantina/lantica-quercia/",
    "etichetta": "prosecco.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «L'Antica Quercia» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=8068514045167508462",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

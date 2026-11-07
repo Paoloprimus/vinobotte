@@ -10,6 +10,10 @@
      "valore": "Via Carbonere Nuove 7, 31040 Fossalta Maggiore (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "cantinabolzan@gmail.com [[2]]"
+    },
+    {
      "etichetta": "Telefono",
      "valore": "+39 349 1246798 [[1]]"
     },
@@ -46,7 +50,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -61,6 +65,12 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «cantinabolzan.it/it», consultata il 7 novembre 2026.",
+   "url": "https://cantinabolzan.it/it/",
+   "etichetta": "cantinabolzan.it"
+  },
+  {
+   "n": 3,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

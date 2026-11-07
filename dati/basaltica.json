@@ -10,12 +10,12 @@
      "valore": "Via Monsignor Fossà, 5, 36053 Gambellara (VI) [[1]]"
     },
     {
-     "etichetta": "Telefono",
-     "valore": "+39 0444 1791024 [[1]]"
+     "etichetta": "Email",
+     "valore": "info@basaltica.wine [[2]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "info@basaltica.wine [[3]]"
+     "etichetta": "Telefono",
+     "valore": "+39 0444 1791024 [[1]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -50,7 +50,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -65,13 +65,13 @@
   },
   {
    "n": 2,
-   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
-  },
-  {
-   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina «basaltica.wine», consultata il 7 novembre 2026.",
    "url": "https://www.basaltica.wine/",
    "etichetta": "basaltica.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]
 }

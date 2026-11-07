@@ -10,6 +10,10 @@
      "valore": "Via Risere Nuove, 14, 31040 Chiarano (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@zanattaroberto.it [[2]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://zanattaroberto.it/it/|zanattaroberto.it}} [[1]]"
     }
@@ -42,7 +46,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -57,6 +61,12 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «zanattaroberto.it/it», consultata il 7 novembre 2026.",
+   "url": "https://zanattaroberto.it/it/",
+   "etichetta": "zanattaroberto.it"
+  },
+  {
+   "n": 3,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

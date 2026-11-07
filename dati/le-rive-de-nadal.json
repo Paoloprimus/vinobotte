@@ -10,8 +10,12 @@
      "valore": "Le Rive de Nadal [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@lerivedenadal.com [[2]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
-     "valore": "{{http://www.lerivedenadal.com/|lerivedenadal.com}} — non raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+     "valore": "{{http://www.lerivedenadal.com/|lerivedenadal.com}} — non raggiungibile al controllo del 29 ottobre 2026 [[3]]"
     },
     {
      "etichetta": "Consorzio",
@@ -55,7 +59,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=12249717980351665441|Mappa}} — valutazione 4,8 su 5 (17 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=12249717980351665441|Mappa}} — valutazione 4,8 su 5 (17 recensioni) [[4]]"
     }
    ]
   }
@@ -70,12 +74,18 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «lerivedenadal.com/contatti», consultata il 7 novembre 2026.",
+   "url": "https://www.lerivedenadal.com/contatti/",
+   "etichetta": "lerivedenadal.com"
+  },
+  {
+   "n": 3,
    "testo": "Sito indicato nella scheda Google Maps della cantina, ricerca del 29 ottobre 2026.",
    "url": "https://maps.google.com/?cid=12249717980351665441",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Le Rive de Nadal» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=12249717980351665441",
    "etichetta": "maps.google.com"

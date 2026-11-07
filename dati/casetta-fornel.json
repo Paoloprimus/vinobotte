@@ -10,12 +10,12 @@
      "valore": "Sona (VR) [[1]]"
     },
     {
-     "etichetta": "Telefono",
-     "valore": "324 80 64 832 [[1]]"
+     "etichetta": "Email",
+     "valore": "casettafornel@gmail.com [[2]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "casettafornel@gmail.com [[3]]"
+     "etichetta": "Telefono",
+     "valore": "324 80 64 832 [[1]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -63,7 +63,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=15361744194946395458|Mappa}} — valutazione 5 su 5 (23 recensioni) [[2]]"
+     "valore": "{{https://maps.google.com/?cid=15361744194946395458|Mappa}} — valutazione 5 su 5 (23 recensioni) [[3]]"
     }
    ]
   }
@@ -78,15 +78,15 @@
   },
   {
    "n": 2,
-   "testo": "Scheda «Azienda Agricola Casetta Fornel di Brutti Lorenzo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
-   "url": "https://maps.google.com/?cid=15361744194946395458",
-   "etichetta": "maps.google.com"
-  },
-  {
-   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina «casettafornel.it», consultata il 7 novembre 2026.",
    "url": "https://www.casettafornel.it/",
    "etichetta": "casettafornel.it"
+  },
+  {
+   "n": 3,
+   "testo": "Scheda «Azienda Agricola Casetta Fornel di Brutti Lorenzo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=15361744194946395458",
+   "etichetta": "maps.google.com"
   }
  ]
 }

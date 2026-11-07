@@ -15,7 +15,7 @@
     },
     {
      "etichetta": "Email",
-     "valore": "info@chevalier.it [[4]]"
+     "valore": "info@chevalier.it [[2]]"
     },
     {
      "etichetta": "Consorzio",
@@ -28,7 +28,7 @@
    "righe": [
     {
      "etichetta": "Denominazioni dichiarate",
-     "valore": "Valpolicella Classico DOC, Valpolicella Classico Superiore DOC, Valpolicella Ripasso Classico Superiore DOC, Amarone della Valpolicella Classico DOCG [[2]]"
+     "valore": "Valpolicella Classico DOC, Valpolicella Classico Superiore DOC, Valpolicella Ripasso Classico Superiore DOC, Amarone della Valpolicella Classico DOCG [[3]]"
     }
    ]
   },
@@ -46,7 +46,7 @@
    "righe": [
     {
      "etichetta": "Sito ufficiale",
-     "valore": "{{https://www.chevalier.it/|chevalier.it}} [[2]]"
+     "valore": "{{https://www.chevalier.it/|chevalier.it}} [[3]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -54,7 +54,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=3832623784209109090|Mappa}} — valutazione 5 su 5 (120 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=3832623784209109090|Mappa}} — valutazione 5 su 5 (120 recensioni) [[4]]"
     }
    ]
   }
@@ -69,21 +69,21 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «chevalier.it/it/contacts.html», consultata il 7 novembre 2026.",
+   "url": "https://www.chevalier.it/it/contacts.html",
+   "etichetta": "chevalier.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale di Tenuta Chevalier, pagina iniziale, consultata il 4 novembre 2026.",
    "url": "https://www.chevalier.it/it/home.html",
    "etichetta": "chevalier.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Tenuta Chevalier» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=3832623784209109090",
    "etichetta": "maps.google.com"
-  },
-  {
-   "n": 4,
-   "testo": "Sito ufficiale della cantina, pagina «chevalier.it/it/contacts.html», consultata il 7 novembre 2026.",
-   "url": "https://www.chevalier.it/it/contacts.html",
-   "etichetta": "chevalier.it"
   }
  ]
 }

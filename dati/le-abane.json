@@ -18,16 +18,16 @@
      "valore": "Coltivatore, Imbottigliatore, Produttore [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@leabane.it [[2]]"
+    },
+    {
      "etichetta": "Telefono",
      "valore": "049 9940979 [[1]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "info@leabane.it [[4]]"
-    },
-    {
      "etichetta": "Sito ufficiale",
-     "valore": "{{https://www.leabane.it/|leabane.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+     "valore": "{{https://www.leabane.it/|leabane.it}} — raggiungibile al controllo del 29 ottobre 2026 [[3]]"
     },
     {
      "etichetta": "Consorzio",
@@ -71,7 +71,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=14887770807439068128|Mappa}} — valutazione 4,8 su 5 (16 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=14887770807439068128|Mappa}} — valutazione 4,8 su 5 (16 recensioni) [[4]]"
     }
    ]
   }
@@ -86,21 +86,21 @@
   },
   {
    "n": 2,
-   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 29 ottobre 2026.",
+   "testo": "Sito ufficiale della cantina, pagina «leabane.it», consultata il 7 novembre 2026.",
    "url": "https://www.leabane.it/",
    "etichetta": "leabane.it"
   },
   {
    "n": 3,
-   "testo": "Scheda «Az. Agricola Le Abane Di Dalla Monta' Vittorio E Simone Soc. Agricola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
-   "url": "https://maps.google.com/?cid=14887770807439068128",
-   "etichetta": "maps.google.com"
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 29 ottobre 2026.",
+   "url": "https://www.leabane.it/",
+   "etichetta": "leabane.it"
   },
   {
    "n": 4,
-   "testo": "Sito ufficiale della cantina, pagina «leabane.it», consultata il 7 novembre 2026.",
-   "url": "https://www.leabane.it/",
-   "etichetta": "leabane.it"
+   "testo": "Scheda «Az. Agricola Le Abane Di Dalla Monta' Vittorio E Simone Soc. Agricola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=14887770807439068128",
+   "etichetta": "maps.google.com"
   }
  ]
 }

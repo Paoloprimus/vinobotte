@@ -15,11 +15,11 @@
     },
     {
      "etichetta": "Email",
-     "valore": "info@contarinivini.it [[4]]"
+     "valore": "info@contarinivini.it [[2]]"
     },
     {
      "etichetta": "Sito ufficiale",
-     "valore": "{{http://contarinivini.it/|contarinivini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+     "valore": "{{http://contarinivini.it/|contarinivini.it}} — raggiungibile al controllo del 29 ottobre 2026 [[3]]"
     },
     {
      "etichetta": "Consorzio",
@@ -63,7 +63,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=9552856799535065118|Mappa}} — valutazione 4,3 su 5 (72 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=9552856799535065118|Mappa}} — valutazione 4,3 su 5 (72 recensioni) [[4]]"
     }
    ]
   }
@@ -78,21 +78,21 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «contarinivini.it», consultata il 7 novembre 2026.",
+   "url": "https://contarinivini.it/",
+   "etichetta": "contarinivini.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito indicato nella scheda Google Maps della cantina, ricerca del 29 ottobre 2026.",
    "url": "https://maps.google.com/?cid=9552856799535065118",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Contarini Vini e Spumanti Srl» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=9552856799535065118",
    "etichetta": "maps.google.com"
-  },
-  {
-   "n": 4,
-   "testo": "Sito ufficiale della cantina, pagina «contarinivini.it», consultata il 7 novembre 2026.",
-   "url": "https://contarinivini.it/",
-   "etichetta": "contarinivini.it"
   }
  ]
 }

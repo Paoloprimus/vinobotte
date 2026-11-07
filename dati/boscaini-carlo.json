@@ -15,7 +15,7 @@
     },
     {
      "etichetta": "Email",
-     "valore": "vini@boscainicarlo.it [[6]]"
+     "valore": "vini@boscainicarlo.it [[2]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -32,7 +32,7 @@
    "righe": [
     {
      "etichetta": "Etichette",
-     "valore": "Non indicate: il sito contiene solo la verifica dell’età e il carrello [[2]]"
+     "valore": "Non indicate: il sito contiene solo la verifica dell’età e il carrello [[3]]"
     }
    ]
   },
@@ -50,11 +50,11 @@
    "righe": [
     {
      "etichetta": "Sito",
-     "valore": "boscainicarlo.it, con negozio online (carrello, account utente) [[3]]"
+     "valore": "boscainicarlo.it, con negozio online (carrello, account utente) [[4]]"
     },
     {
      "etichetta": "Vendita online",
-     "valore": "Negozio online con carrello e registrazione utente [[3]]"
+     "valore": "Negozio online con carrello e registrazione utente [[4]]"
     },
     {
      "etichetta": "Piattaforme",
@@ -62,11 +62,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=2569337944066689489|Mappa}} — valutazione 4,9 su 5 (182 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=2569337944066689489|Mappa}} — valutazione 4,9 su 5 (182 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -81,31 +81,31 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «boscainicarlo.it/cantina-amarone-valpolicella», consultata il 7 novembre 2026.",
+   "url": "https://www.boscainicarlo.it/cantina-amarone-valpolicella",
+   "etichetta": "boscainicarlo.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina iniziale.",
    "url": "https://www.boscainicarlo.it/",
    "etichetta": "boscainicarlo.it"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagina «ordina».",
    "url": "https://www.boscainicarlo.it/ordina",
    "etichetta": "boscainicarlo.it/ordina"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Azienda Agricola Boscaini Carlo» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=2569337944066689489",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
-   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
-  },
-  {
    "n": 6,
-   "testo": "Sito ufficiale della cantina, pagina «boscainicarlo.it/cantina-amarone-valpolicella», consultata il 7 novembre 2026.",
-   "url": "https://www.boscainicarlo.it/cantina-amarone-valpolicella",
-   "etichetta": "boscainicarlo.it"
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]
 }

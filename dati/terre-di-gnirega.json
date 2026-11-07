@@ -15,11 +15,11 @@
     },
     {
      "etichetta": "Email",
-     "valore": "terredignirega@gmail.com [[5]]"
+     "valore": "terredignirega@gmail.com [[2]]"
     },
     {
      "etichetta": "Sito ufficiale",
-     "valore": "{{http://www.terredignirega.it/|terredignirega.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+     "valore": "{{http://www.terredignirega.it/|terredignirega.it}} — raggiungibile al controllo del 29 ottobre 2026 [[3]]"
     },
     {
      "etichetta": "Consorzio",
@@ -63,11 +63,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=17323317168191572574|Mappa}} — valutazione 5 su 5 (36 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=17323317168191572574|Mappa}} — valutazione 5 su 5 (36 recensioni) [[4]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[4]]"
+     "valore": "Presente come produttore [[5]]"
     }
    ]
   }
@@ -82,25 +82,25 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «terredignirega.it», consultata il 7 novembre 2026.",
+   "url": "https://www.terredignirega.it/",
+   "etichetta": "terredignirega.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito indicato nella scheda Google Maps della cantina, ricerca del 29 ottobre 2026.",
    "url": "https://maps.google.com/?cid=17323317168191572574",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Terre di Gnirega» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=17323317168191572574",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 4,
-   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
-  },
-  {
    "n": 5,
-   "testo": "Sito ufficiale della cantina, pagina «terredignirega.it», consultata il 7 novembre 2026.",
-   "url": "https://www.terredignirega.it/",
-   "etichetta": "terredignirega.it"
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]
 }

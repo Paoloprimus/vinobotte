@@ -10,12 +10,12 @@
      "valore": "Via A. Vivaldi, 32/E, 31056 Roncade (TV) [[1]]"
     },
     {
-     "etichetta": "Telefono",
-     "valore": "+39 389 1260990 [[1]]"
+     "etichetta": "Email",
+     "valore": "info@terredisanrocco.it [[2]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "info@terredisanrocco.it [[3]]"
+     "etichetta": "Telefono",
+     "valore": "+39 389 1260990 [[1]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -50,7 +50,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -65,13 +65,13 @@
   },
   {
    "n": 2,
-   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
-  },
-  {
-   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina «terredisanrocco.it», consultata il 7 novembre 2026.",
    "url": "https://terredisanrocco.it/",
    "etichetta": "terredisanrocco.it"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]
 }

@@ -14,12 +14,12 @@
      "valore": "Via Umbria 1, 37138 Verona [[1]]"
     },
     {
-     "etichetta": "Telefono",
-     "valore": "+39 333 6717610 [[1]]"
+     "etichetta": "Email",
+     "valore": "info@cantinamartinelli.eu [[2]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "info@cantinamartinelli.eu [[5]]"
+     "etichetta": "Telefono",
+     "valore": "+39 333 6717610 [[1]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -36,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Fondata all’inizio degli anni 2010 da Francesco Martinelli con l’agronomo e socio Antonio Zappoli per rilanciare un piccolo cru di Garganega [[2]]"
+     "valore": "Fondata all’inizio degli anni 2010 da Francesco Martinelli con l’agronomo e socio Antonio Zappoli per rilanciare un piccolo cru di Garganega [[3]]"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini Soave",
-     "valore": "Il sito elenca Neanderthal, Leviatano, Pantagruele e Il Gigante G, senza indicare la denominazione [[2]]"
+     "valore": "Il sito elenca Neanderthal, Leviatano, Pantagruele e Il Gigante G, senza indicare la denominazione [[3]]"
     }
    ]
   },
@@ -54,7 +54,7 @@
    "righe": [
     {
      "etichetta": "Premi e punteggi",
-     "valore": "Non presenti per i vini Soave nel sito della cantina [[2]]"
+     "valore": "Non presenti per i vini Soave nel sito della cantina [[3]]"
     }
    ]
   },
@@ -67,11 +67,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=12491959191901567339|Mappa}} — valutazione 5 su 5 (2 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=12491959191901567339|Mappa}} — valutazione 5 su 5 (2 recensioni) [[4]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[4]]"
+     "valore": "Presente come produttore [[5]]"
     }
    ]
   }
@@ -86,25 +86,25 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «cantinamartinelli.eu/home.html», consultata il 7 novembre 2026.",
+   "url": "https://www.cantinamartinelli.eu/home.html",
+   "etichetta": "cantinamartinelli.eu"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina «cantinamartinelli.eu», consultata il 24 ottobre 2026.",
    "url": "http://www.cantinamartinelli.eu/",
    "etichetta": "cantinamartinelli.eu"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Cantina Martinelli» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=12491959191901567339",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 4,
-   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
-  },
-  {
    "n": 5,
-   "testo": "Sito ufficiale della cantina, pagina «cantinamartinelli.eu/home.html», consultata il 7 novembre 2026.",
-   "url": "https://www.cantinamartinelli.eu/home.html",
-   "etichetta": "cantinamartinelli.eu"
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]
 }

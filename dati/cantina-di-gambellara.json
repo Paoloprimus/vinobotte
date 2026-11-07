@@ -14,12 +14,12 @@
      "valore": "Via G. Mazzini 2, 36053 Gambellara (VI) [[1]]"
     },
     {
-     "etichetta": "Telefono",
-     "valore": "0444 491360 [[1]]"
+     "etichetta": "Email",
+     "valore": "info@vitevis.com [[2]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "info@vitevis.com [[6]]"
+     "etichetta": "Telefono",
+     "valore": "0444 491360 [[1]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -36,7 +36,7 @@
    "righe": [
     {
      "etichetta": "Storia e proprietà",
-     "valore": "Prima cantina cooperativa della provincia di Vicenza, fondata nel 1947 dall’Enopolio di Gambellara attivo dal 1920; a Gambellara, tra 250 e 500 m sul livello del mare su un vulcano spento; il sito della cantina rinvia alla pagina dedicata sul sito Vitevis [[2]]"
+     "valore": "Prima cantina cooperativa della provincia di Vicenza, fondata nel 1947 dall’Enopolio di Gambellara attivo dal 1920; a Gambellara, tra 250 e 500 m sul livello del mare su un vulcano spento; il sito della cantina rinvia alla pagina dedicata sul sito Vitevis [[3]]"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "righe": [
     {
      "etichetta": "Elenco vini",
-     "valore": "Denominazioni DOC e DOCG: Recioto di Gambellara DOCG; Gambellara Classico DOC; Vin Santo di Gambellara DOC; Colli Berici DOC; Delle Venezie DOC; Soave Classico DOC; Prosecco DOC; Monti Lessini Durello DOC; Asolo Prosecco Superiore DOCG; Lugana DOC [[3]]"
+     "valore": "Denominazioni DOC e DOCG: Recioto di Gambellara DOCG; Gambellara Classico DOC; Vin Santo di Gambellara DOC; Colli Berici DOC; Delle Venezie DOC; Soave Classico DOC; Prosecco DOC; Monti Lessini Durello DOC; Asolo Prosecco Superiore DOCG; Lugana DOC [[4]]"
     }
    ]
   },
@@ -54,7 +54,7 @@
    "righe": [
     {
      "etichetta": "Premi e punteggi",
-     "valore": "Non presenti nella pagina letta; il sito ha un collegamento «Premi e Riconoscimenti» non letto [[2]]"
+     "valore": "Non presenti nella pagina letta; il sito ha un collegamento «Premi e Riconoscimenti» non letto [[3]]"
     }
    ]
   },
@@ -67,11 +67,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=3125118916476932548|Mappa}} — valutazione 4,4 su 5 (132 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=3125118916476932548|Mappa}} — valutazione 4,4 su 5 (132 recensioni) [[5]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[5]]"
+     "valore": "Presente come produttore [[6]]"
     }
    ]
   }
@@ -86,31 +86,31 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale del gruppo Vitevis, consultato il 7 novembre 2026.",
+   "url": "https://www.vitevis.com/",
+   "etichetta": "vitevis.com"
+  },
+  {
+   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina «vitevis.com/vini/cantina-di-gambellara», consultata il 24 ottobre 2026.",
    "url": "https://www.vitevis.com/vini/cantina-di-gambellara/",
    "etichetta": "vitevis.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Sito ufficiale della cantina, pagine dei vini e dei prodotti, consultato il 29 ottobre 2026.",
    "url": "http://www.cantinagambellara.com",
    "etichetta": "cantinagambellara.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «VITEVIS - Cantina di Gambellara - Wine Shop» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=3125118916476932548",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 5,
-   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
-  },
-  {
    "n": 6,
-   "testo": "Sito ufficiale del gruppo Vitevis, consultato il 7 novembre 2026.",
-   "url": "https://www.vitevis.com/",
-   "etichetta": "vitevis.com"
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]
 }

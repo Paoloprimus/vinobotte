@@ -15,11 +15,11 @@
     },
     {
      "etichetta": "Email",
-     "valore": "mariotto.massimo79@gmail.com [[4]]"
+     "valore": "mariotto.massimo79@gmail.com [[2]]"
     },
     {
      "etichetta": "Sito ufficiale",
-     "valore": "{{https://www.cantinammariotto.it/|cantinammariotto.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+     "valore": "{{https://www.cantinammariotto.it/|cantinammariotto.it}} — raggiungibile al controllo del 29 ottobre 2026 [[3]]"
     },
     {
      "etichetta": "Consorzio",
@@ -63,7 +63,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=2132280404576807486|Mappa}} — valutazione 4,8 su 5 (10 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=2132280404576807486|Mappa}} — valutazione 4,8 su 5 (10 recensioni) [[4]]"
     }
    ]
   }
@@ -78,21 +78,21 @@
   },
   {
    "n": 2,
-   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 29 ottobre 2026.",
+   "testo": "Sito ufficiale della cantina, pagina «cantinammariotto.it», consultata il 7 novembre 2026.",
    "url": "https://www.cantinammariotto.it/",
    "etichetta": "cantinammariotto.it"
   },
   {
    "n": 3,
-   "testo": "Scheda «Azienda Vitivinicola Mariotto Massimo \"Spumanti VOGLIO dal 1961\"» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
-   "url": "https://maps.google.com/?cid=2132280404576807486",
-   "etichetta": "maps.google.com"
+   "testo": "Sito ufficiale della cantina, pagina iniziale e pagine collegate, consultato il 29 ottobre 2026.",
+   "url": "https://www.cantinammariotto.it/",
+   "etichetta": "cantinammariotto.it"
   },
   {
    "n": 4,
-   "testo": "Sito ufficiale della cantina, pagina «cantinammariotto.it», consultata il 7 novembre 2026.",
-   "url": "https://www.cantinammariotto.it/",
-   "etichetta": "cantinammariotto.it"
+   "testo": "Scheda «Azienda Vitivinicola Mariotto Massimo \"Spumanti VOGLIO dal 1961\"» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
+   "url": "https://maps.google.com/?cid=2132280404576807486",
+   "etichetta": "maps.google.com"
   }
  ]
 }

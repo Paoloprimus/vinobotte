@@ -10,12 +10,12 @@
      "valore": "Via Sotto il Mur del Brolo, 18, 31049 Valdobbiadene (TV) [[1]]"
     },
     {
-     "etichetta": "Telefono",
-     "valore": "+39 0423 972650 [[1]]"
+     "etichetta": "Email",
+     "valore": "info@vanzinselezioni.com [[2]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "info@vanzinselezioni.com [[3]]"
+     "etichetta": "Telefono",
+     "valore": "+39 0423 972650 [[1]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -50,7 +50,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -65,13 +65,13 @@
   },
   {
    "n": 2,
-   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
-  },
-  {
-   "n": 3,
    "testo": "Sito ufficiale della cantina, pagina «vanzinselezioni.com/it/contattaci», consultata il 7 novembre 2026.",
    "url": "https://vanzinselezioni.com/it/contattaci/",
    "etichetta": "vanzinselezioni.com"
+  },
+  {
+   "n": 3,
+   "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]
 }

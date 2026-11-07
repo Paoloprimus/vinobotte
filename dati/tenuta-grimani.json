@@ -6,20 +6,24 @@
    "titolo": "Anagrafica",
    "righe": [
     {
+     "etichetta": "Email",
+     "valore": "info@tenutagrimani.com [[1]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
-     "valore": "{{http://www.tenutagrimani.com/|tenutagrimani.com}} — non raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+     "valore": "{{http://www.tenutagrimani.com/|tenutagrimani.com}} — non raggiungibile al controllo del 29 ottobre 2026 [[2]]"
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[2]]\nConsorzio Tutela DOC Delle Venezie [[3]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vini Soave e Recioto di Soave [[3]]\nConsorzio Tutela DOC Delle Venezie [[4]]"
     },
     {
      "etichetta": "Consorzio",
-     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[4]]"
+     "valore": "Consorzio Tutela Vini DOC Delle Venezie [[5]]"
     },
     {
      "etichetta": "Dati nell’elenco del Consorzio Tutela Vini DOC Delle Venezie",
-     "valore": "Via Moschina, 9, 37030 Roncà VR; tel. 045 7460622; info@tenutagrimani.com; tenutagrimani.com [[4]]"
+     "valore": "Via Moschina, 9, 37030 Roncà VR; tel. 045 7460622; info@tenutagrimani.com; tenutagrimani.com [[5]]"
     }
    ]
   },
@@ -44,7 +48,7 @@
     {
      "nome": "Pinot Grigio",
      "denominazione": "Delle Venezie DOC",
-     "annata": "— [[4]]"
+     "annata": "— [[5]]"
     }
    ],
    "tipo": "vini"
@@ -67,11 +71,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=7313759383139582637|Mappa}} — valutazione 4,9 su 5 (9 recensioni) [[5]]"
+     "valore": "{{https://maps.google.com/?cid=7313759383139582637|Mappa}} — valutazione 4,9 su 5 (9 recensioni) [[6]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[6]]"
+     "valore": "Presente come produttore [[7]]"
     }
    ]
   }
@@ -80,36 +84,42 @@
  "fonti": [
   {
    "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «tenutagrimani.com», consultata il 7 novembre 2026.",
+   "url": "https://www.tenutagrimani.com/",
+   "etichetta": "tenutagrimani.com"
+  },
+  {
+   "n": 2,
    "testo": "Sito indicato nella scheda Google Maps della cantina, ricerca del 29 ottobre 2026.",
    "url": "https://maps.google.com/?cid=7313759383139582637",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 2,
+   "n": 3,
    "testo": "Consorzio Tutela Vini Soave e Recioto di Soave, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.ilsoave.com/produttori-soave/",
    "etichetta": "ilsoave.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Elenco dei produttori del Consorzio Tutela DOC Delle Venezie, consultato il 2 novembre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Consorzio Tutela Vini DOC Delle Venezie, elenco delle cantine associate, consultato il 24 ottobre 2026.",
    "url": "https://dellevenezie.it/cantine/",
    "etichetta": "dellevenezie.it"
   },
   {
-   "n": 5,
+   "n": 6,
    "testo": "Scheda «Tenuta Grimani - Azienda Vitivinicola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=7313759383139582637",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 6,
+   "n": 7,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

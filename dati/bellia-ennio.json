@@ -14,16 +14,16 @@
      "valore": "Via Treviso, 106, 30026 Portogruaro [[1]]"
     },
     {
-     "etichetta": "Email",
-     "valore": "info@giovannibellia.it [[4]]"
-    },
-    {
      "etichetta": "Denominazioni Venezia dichiarate",
      "valore": "Lison Pramaggiore, Venezia, Lison [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@giovannibellia.it [[2]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
-     "valore": "{{https://www.giovannibellia.it/|giovannibellia.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
+     "valore": "{{https://www.giovannibellia.it/|giovannibellia.it}} — raggiungibile al controllo del 29 ottobre 2026 [[3]]"
     },
     {
      "etichetta": "Consorzio",
@@ -67,7 +67,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=10901519680603938969|Mappa}} — valutazione 4,5 su 5 (62 recensioni) [[3]]"
+     "valore": "{{https://maps.google.com/?cid=10901519680603938969|Mappa}} — valutazione 4,5 su 5 (62 recensioni) [[4]]"
     }
    ]
   }
@@ -82,21 +82,21 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «giovannibellia.it», consultata il 7 novembre 2026.",
+   "url": "https://www.giovannibellia.it/",
+   "etichetta": "giovannibellia.it"
+  },
+  {
+   "n": 3,
    "testo": "Sito indicato nella scheda Google Maps della cantina, ricerca del 29 ottobre 2026.",
    "url": "https://maps.google.com/?cid=10901519680603938969",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Scheda «Ennio Bellia» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=10901519680603938969",
    "etichetta": "maps.google.com"
-  },
-  {
-   "n": 4,
-   "testo": "Sito ufficiale della cantina, pagina «giovannibellia.it», consultata il 7 novembre 2026.",
-   "url": "https://www.giovannibellia.it/",
-   "etichetta": "giovannibellia.it"
   }
  ]
 }

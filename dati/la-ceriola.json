@@ -10,6 +10,10 @@
      "valore": "Via Roda, 303, 35030 Vò (PD) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "laceriola.podere@gmail.com [[2]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://laceriola.it/|laceriola.it}} [[1]]"
     }
@@ -42,7 +46,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -57,6 +61,12 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «laceriola.it», consultata il 7 novembre 2026.",
+   "url": "https://laceriola.it/",
+   "etichetta": "laceriola.it"
+  },
+  {
+   "n": 3,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

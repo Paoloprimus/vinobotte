@@ -10,6 +10,10 @@
      "valore": "via S.Carlo 12, 37138 Verona (VR) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@casato1922.wine [[2]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.casato1922.wine|casato1922.wine}} [[1]]"
     }
@@ -42,7 +46,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -57,6 +61,12 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «casato1922.wine/contatti», consultata il 7 novembre 2026.",
+   "url": "https://www.casato1922.wine/contatti/",
+   "etichetta": "casato1922.wine"
+  },
+  {
+   "n": 3,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

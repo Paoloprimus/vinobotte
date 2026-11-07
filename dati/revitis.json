@@ -10,6 +10,10 @@
      "valore": "Via degli Alpini n.49 Montecchia di Crosar a, 37030 Verona (VR) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "cavazzaalbertosas@gmail.com [[2]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://revitis.it/|revitis.it}} [[1]]"
     }
@@ -42,7 +46,7 @@
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[2]]"
+     "valore": "Presente come produttore [[3]]"
     }
    ]
   }
@@ -57,6 +61,12 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «revitis.it», consultata il 7 novembre 2026.",
+   "url": "https://revitis.it/",
+   "etichetta": "revitis.it"
+  },
+  {
+   "n": 3,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

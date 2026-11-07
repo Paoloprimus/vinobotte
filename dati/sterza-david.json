@@ -18,6 +18,10 @@
      "valore": "{{http://www.davidsterza.it/|www.davidsterza.it}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@davidsterza.it [[2]]"
+    },
+    {
      "etichetta": "Consorzio",
      "valore": "Consorzio Tutela Vini Valpolicella [[1]]"
     }
@@ -59,11 +63,11 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=16014785850749780883|Mappa}} — valutazione 4,9 su 5 (50 recensioni) [[2]]"
+     "valore": "{{https://maps.google.com/?cid=16014785850749780883|Mappa}} — valutazione 4,9 su 5 (50 recensioni) [[3]]"
     },
     {
      "etichetta": "Vivino",
-     "valore": "Presente come produttore [[3]]"
+     "valore": "Presente come produttore [[4]]"
     }
    ]
   }
@@ -78,12 +82,18 @@
   },
   {
    "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «davidsterza.it», consultata il 7 novembre 2026.",
+   "url": "http://www.davidsterza.it/",
+   "etichetta": "davidsterza.it"
+  },
+  {
+   "n": 3,
    "testo": "Scheda «David Sterza» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=16014785850749780883",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
   }
  ]

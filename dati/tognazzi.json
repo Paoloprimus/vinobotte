@@ -14,6 +14,10 @@
      "valore": "+39 030 2692695 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "agricolatognazzivini@libero.it [[2]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.tognazzivini.it/|tognazzivini.it}} [[1]]"
     },
@@ -40,6 +44,12 @@
    "testo": "Elenco delle aziende del Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 4 novembre 2026.",
    "url": "https://www.consorziolugana.it/indice-aziende",
    "etichetta": "consorziolugana.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «tognazzivini.it», consultata il 7 novembre 2026.",
+   "url": "https://www.tognazzivini.it/",
+   "etichetta": "tognazzivini.it"
   }
  ]
 }

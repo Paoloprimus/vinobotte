@@ -6,16 +6,16 @@
    "titolo": "Anagrafica",
    "righe": [
     {
+     "etichetta": "Email",
+     "valore": "info@cantinamarcazzan.com [[1]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
-     "valore": "{{http://www.cantinamarcazzan.com/|cantinamarcazzan.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
+     "valore": "{{http://www.cantinamarcazzan.com/|cantinamarcazzan.com}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
     },
     {
      "etichetta": "Consorzi",
-     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[2]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[3]]"
-    },
-    {
-     "etichetta": "Email",
-     "valore": "info@cantinamarcazzan.com [[5]]"
+     "valore": "Compare nell’elenco dei produttori del Consorzio Tutela Vino Lessini Durello DOC [[3]]\nConsorzio per la Tutela del Vino Lessini Durello DOC [[4]]"
     }
    ]
   },
@@ -55,7 +55,7 @@
     },
     {
      "etichetta": "Google Maps",
-     "valore": "{{https://maps.google.com/?cid=16494797618497587773|Mappa}} — valutazione 5 su 5 (7 recensioni) [[4]]"
+     "valore": "{{https://maps.google.com/?cid=16494797618497587773|Mappa}} — valutazione 5 su 5 (7 recensioni) [[5]]"
     }
    ]
   }
@@ -64,33 +64,33 @@
  "fonti": [
   {
    "n": 1,
+   "testo": "Sito ufficiale della cantina, pagina «cantinamarcazzan.com», consultata il 7 novembre 2026.",
+   "url": "https://www.cantinamarcazzan.com/",
+   "etichetta": "cantinamarcazzan.com"
+  },
+  {
+   "n": 2,
    "testo": "Sito indicato nella scheda Google Maps della cantina, ricerca del 29 ottobre 2026.",
    "url": "https://maps.google.com/?cid=16494797618497587773",
    "etichetta": "maps.google.com"
   },
   {
-   "n": 2,
+   "n": 3,
    "testo": "Consorzio Tutela Vino Lessini Durello DOC, elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://www.montilessini.com/produttori-vino-durello/",
    "etichetta": "montilessini.com"
   },
   {
-   "n": 3,
+   "n": 4,
    "testo": "Elenco dei produttori del Consorzio per la Tutela del Vino Lessini Durello DOC, consultato il 2 novembre 2026.",
    "url": "https://www.montilessini.com/produttori-vino-durello/",
    "etichetta": "montilessini.com"
   },
   {
-   "n": 4,
+   "n": 5,
    "testo": "Scheda «Azienda Agricola Marcazzan Fabio» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=16494797618497587773",
    "etichetta": "maps.google.com"
-  },
-  {
-   "n": 5,
-   "testo": "Sito ufficiale della cantina, pagina «cantinamarcazzan.com», consultata il 7 novembre 2026.",
-   "url": "https://www.cantinamarcazzan.com/",
-   "etichetta": "cantinamarcazzan.com"
   }
  ]
 }
