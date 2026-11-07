@@ -41,3 +41,4 @@ python3 -I rifusione/rifinisci_testi.py
 python3 -I rifusione/applica_prime15.py
 node genera-schede.mjs | tail -1
 python3 -I rifusione/costruisci2.py 2>&1 | grep -v Deprec | grep -v "re.sub" | head -3
+python3 -I costruisci-chat.py | tail -1

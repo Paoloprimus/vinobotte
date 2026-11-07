@@ -25,6 +25,7 @@ main{flex:1;min-height:0;display:flex;flex-direction:column}
 #conv .tu{align-self:flex-end;max-width:85%;background:rgba(127,127,127,.14);border-radius:14px;padding:8px 12px}
 #conv .ri{align-self:flex-start;max-width:100%}
 #conv .attesa{opacity:.6}
+#conv a{color:var(--acc)}
 #basso{flex:none;padding:8px 16px 0}
 .colonna{max-width:720px;margin:0 auto}
 .compo{position:relative;border:1px solid var(--line);border-radius:14px;background:var(--bg);padding:8px 76px 8px 12px}
@@ -83,6 +84,18 @@ function riga(testo,classe){
   conv.appendChild(li);
   return li;
 }
+function scrivi(el,testo){
+  el.textContent='';
+  var re=/https?:\/\/[^\s)]*[^\s).,;:!?]/g,ultimo=0,m;
+  while((m=re.exec(testo))){
+    if(m.index>ultimo)el.appendChild(document.createTextNode(testo.slice(ultimo,m.index)));
+    var a=document.createElement('a');
+    a.href=m[0];a.textContent=m[0].replace(/^https?:\/\/(www\.)?/,'');a.target='_blank';a.rel='noopener';
+    el.appendChild(a);
+    ultimo=m.index+m[0].length;
+  }
+  if(ultimo<testo.length)el.appendChild(document.createTextNode(testo.slice(ultimo)));
+}
 function giu(){scorri.scrollTop=scorri.scrollHeight}
 async function invia(domanda){
   domanda=domanda.trim();
@@ -106,7 +119,7 @@ async function invia(domanda){
     storia.pop();
   }
   el.classList.remove('attesa');
-  el.textContent=risposta;
+  scrivi(el,risposta);
   if(ok)storia.push({ruolo:'vinobotte',testo:risposta});
   if(el.offsetHeight>scorri.clientHeight*0.8)scorri.scrollTop=el.offsetTop-16;else giu();
   occupato=false;b.disabled=false;q.focus();
