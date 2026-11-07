@@ -13,7 +13,7 @@ for slug,o in em.items():
     if o['email']:
         n=max([x['n'] for x in d.get('fonti',[])]+[0])+1
         pag=o['pagina']
-        if o.get('fonte'): d.setdefault('fonti',[]).append({'n':n,'testo':o['fonte']})
+        if o.get('fonte'): d.setdefault('fonti',[]).append(dict({'n':n,'testo':o['fonte']},**({'url':o['url'],'etichetta':re.sub(r'^https?://(www\.)?([^/]+).*',r'\2',o['url'])} if o.get('url') else {})))
         else: d.setdefault('fonti',[]).append({'n':n,'testo':f'Sito ufficiale della cantina, pagina «{re.sub(r"^https?://(www\.)?","",pag).rstrip("/")}», consultata il {DATA}.','url':pag,'etichetta':re.sub(r'^https?://(www\.)?([^/]+).*',r'\2',pag)})
         riga={'etichetta':'Email','valore':f'{o["email"]} [[{n}]]'}; tot['email']+=1
     else:

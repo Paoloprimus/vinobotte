@@ -18,6 +18,10 @@
      "valore": "0444 491360 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@vitevis.com [[6]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{http://www.cantinagambellara.com|cantinagambellara.com}} — raggiungibile al controllo del 29 ottobre 2026 [[1]]"
     },
@@ -101,6 +105,12 @@
   {
    "n": 5,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale del gruppo Vitevis, consultato il 7 novembre 2026.",
+   "url": "https://www.vitevis.com/",
+   "etichetta": "vitevis.com"
   }
  ]
 }
