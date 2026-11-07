@@ -19,7 +19,7 @@
     },
     {
      "etichetta": "Email",
-     "valore": "Non presente nelle pagine del sito ufficiale consultate (controllo del 7 novembre 2026)"
+     "valore": "info@cantinamartinelli.eu [[5]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -99,6 +99,12 @@
   {
    "n": 4,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «cantinamartinelli.eu/home.html», consultata il 7 novembre 2026.",
+   "url": "https://www.cantinamartinelli.eu/home.html",
+   "etichetta": "cantinamartinelli.eu"
   }
  ]
 }

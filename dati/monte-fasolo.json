@@ -15,7 +15,7 @@
     },
     {
      "etichetta": "Email",
-     "valore": "Non presente nelle pagine del sito ufficiale consultate (controllo del 7 novembre 2026)"
+     "valore": "commerciale@montefasolo.eu [[3]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -66,6 +66,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «cantinamontefasolo.it/acquistare-vino-veneto», consultata il 7 novembre 2026.",
+   "url": "https://www.cantinamontefasolo.it/acquistare-vino-veneto/",
+   "etichetta": "cantinamontefasolo.it"
   }
  ]
 }

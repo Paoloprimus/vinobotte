@@ -8,8 +8,11 @@ for slug,o in em.items():
     if not os.path.exists(f): tot['assenti']+=1; continue
     d=json.load(open(f,encoding='utf8'))
     an=next((s for s in d['sezioni'] if s['titolo']=='Anagrafica'),None)
-    if an is None or any(r['etichetta'].startswith('Email') for s in d['sezioni'] for r in s.get('righe',[])):
+    ASSENZA='Non presente nelle pagine del sito ufficiale consultate'
+    esist=[(s,r) for s in d['sezioni'] for r in s.get('righe',[]) if r['etichetta'].startswith('Email')]
+    if an is None or (esist and not (o['email'] and all(r['valore'].startswith(ASSENZA) for s,r in esist))):
         tot['gia']+=1; continue
+    for s,r in esist: s['righe'].remove(r)
     if o['email']:
         n=max([x['n'] for x in d.get('fonti',[])]+[0])+1
         pag=o['pagina']

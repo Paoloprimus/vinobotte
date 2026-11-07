@@ -11,7 +11,7 @@
     },
     {
      "etichetta": "Email",
-     "valore": "Non presente nelle pagine del sito ufficiale consultate (controllo del 7 novembre 2026)"
+     "valore": "prosecco.zanon@gmail.com [[3]]"
     },
     {
      "etichetta": "Sito ufficiale",
@@ -62,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «eroszanon.wine/index-5.html», consultata il 7 novembre 2026.",
+   "url": "https://eroszanon.wine/index-5.html",
+   "etichetta": "eroszanon.wine"
   }
  ]
 }
