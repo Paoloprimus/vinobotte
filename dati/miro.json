@@ -18,6 +18,10 @@
      "valore": "+39 0422 433213 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@proseccomiro.com [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.proseccomiro.com/|proseccomiro.com}} [[1]]"
     }
@@ -66,6 +70,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «proseccomiro.com», consultata il 7 novembre 2026.",
+   "url": "https://www.proseccomiro.com/",
+   "etichetta": "proseccomiro.com"
   }
  ]
 }

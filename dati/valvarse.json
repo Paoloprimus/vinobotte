@@ -10,6 +10,10 @@
      "valore": "Via San Giacomo 1b, 31049 Valdobbiadene TV, 31049 Valdobbiadene (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "valvarse@gmail.com [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://valvarse.it/|valvarse.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «valvarse.it/contatti», consultata il 7 novembre 2026.",
+   "url": "https://valvarse.it/contatti/",
+   "etichetta": "valvarse.it"
   }
  ]
 }

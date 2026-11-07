@@ -14,6 +14,10 @@
      "valore": "+39 045 7550300 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@zenato.it [[2]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.zenato.it/|zenato.it}} [[1]]"
     },
@@ -40,6 +44,12 @@
    "testo": "Elenco delle aziende del Consorzio Tutela Lugana DOC, scheda dell’azienda consultata il 4 novembre 2026.",
    "url": "https://www.consorziolugana.it/indice-aziende",
    "etichetta": "consorziolugana.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «zenato.it», consultata il 7 novembre 2026.",
+   "url": "https://www.zenato.it/",
+   "etichetta": "zenato.it"
   }
  ]
 }

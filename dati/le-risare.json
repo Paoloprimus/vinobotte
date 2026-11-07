@@ -14,6 +14,10 @@
      "valore": "+39 340 7562551 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "bb.lerisare@gmail.com [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://lerisare.it/|lerisare.it}} [[1]]"
     }
@@ -62,6 +66,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «lerisare.it», consultata il 7 novembre 2026.",
+   "url": "https://lerisare.it/",
+   "etichetta": "lerisare.it"
   }
  ]
 }

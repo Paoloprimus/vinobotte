@@ -18,6 +18,10 @@
      "valore": "+39 0438 499040 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@peruzza.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{http://www.peruzza.it|peruzza.it}} [[1]]"
     }
@@ -66,6 +70,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «peruzza.it», consultata il 7 novembre 2026.",
+   "url": "http://www.peruzza.it",
+   "etichetta": "peruzza.it"
   }
  ]
 }

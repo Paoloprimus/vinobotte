@@ -14,6 +14,10 @@
      "valore": "+39 389 1260990 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@terredisanrocco.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://terredisanrocco.it/|terredisanrocco.it}} [[1]]"
     }
@@ -62,6 +66,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «terredisanrocco.it», consultata il 7 novembre 2026.",
+   "url": "https://terredisanrocco.it/",
+   "etichetta": "terredisanrocco.it"
   }
  ]
 }
