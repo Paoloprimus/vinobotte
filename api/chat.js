@@ -180,7 +180,11 @@ async function chiamaClaude(messaggi) {
       messages: messaggi,
     }),
   });
-  if (!r.ok) throw new Error('anthropic ' + r.status);
+  if (!r.ok) {
+    let dettaglio = '';
+    try { dettaglio = (await r.text()).slice(0, 400); } catch (e) { /* ignora */ }
+    throw new Error('anthropic ' + r.status + ' ' + dettaglio);
+  }
   return r.json();
 }
 
