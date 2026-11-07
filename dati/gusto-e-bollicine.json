@@ -10,6 +10,10 @@
      "valore": "Via Cal di Zoc, 1, 31049 Valdobbiadene (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "antonio.crusco@libero.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.gustoebollicine.it|gustoebollicine.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «gustoebollicine.it», consultata il 7 novembre 2026.",
+   "url": "https://www.gustoebollicine.it",
+   "etichetta": "gustoebollicine.it"
   }
  ]
 }

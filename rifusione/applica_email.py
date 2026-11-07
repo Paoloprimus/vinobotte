@@ -13,7 +13,8 @@ for slug,o in em.items():
     if o['email']:
         n=max([x['n'] for x in d.get('fonti',[])]+[0])+1
         pag=o['pagina']
-        d.setdefault('fonti',[]).append({'n':n,'testo':f'Sito ufficiale della cantina, pagina «{re.sub(r"^https?://(www\.)?","",pag).rstrip("/")}», consultata il {DATA}.','url':pag,'etichetta':re.sub(r'^https?://(www\.)?([^/]+).*',r'\2',pag)})
+        if o.get('fonte'): d.setdefault('fonti',[]).append({'n':n,'testo':o['fonte']})
+        else: d.setdefault('fonti',[]).append({'n':n,'testo':f'Sito ufficiale della cantina, pagina «{re.sub(r"^https?://(www\.)?","",pag).rstrip("/")}», consultata il {DATA}.','url':pag,'etichetta':re.sub(r'^https?://(www\.)?([^/]+).*',r'\2',pag)})
         riga={'etichetta':'Email','valore':f'{o["email"]} [[{n}]]'}; tot['email']+=1
     else:
         riga={'etichetta':'Email','valore':f'Non presente nelle pagine del sito ufficiale consultate (controllo del {DATA})'}; tot['assenza']+=1
