@@ -10,6 +10,10 @@
      "valore": "Via C. Battisti, 13, 31036 Istrana (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@condottasocagricola.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://condottafratelli.com/|condottafratelli.com}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «condottafratelli.com», consultata il 7 novembre 2026.",
+   "url": "https://condottafratelli.com/",
+   "etichetta": "condottafratelli.com"
   }
  ]
 }

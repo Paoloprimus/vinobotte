@@ -10,6 +10,10 @@
      "valore": "Via Cavalla e Bruscole, 21, 31015 Conegliano (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "elisabetta.marullo@libero.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.legrizze.com/|legrizze.com}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «legrizze.com», consultata il 7 novembre 2026.",
+   "url": "https://www.legrizze.com/",
+   "etichetta": "legrizze.com"
   }
  ]
 }
