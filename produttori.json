@@ -7984,7 +7984,8 @@
 "tipi": {
 "valpolicella": [
 "Amarone",
-"Ripasso"
+"Ripasso",
+"Valpolicella"
 ],
 "soave": [
 "Soave Classico"
@@ -7992,7 +7993,8 @@
 },
 "membri": [
 "beretta-cecilia",
-"beretta-cecilia-soave"
+"beretta-cecilia-soave",
+"cecilia-beretta"
 ],
 "primario": "beretta-cecilia"
 },
@@ -37189,22 +37191,6 @@
 "cavit-delle-venezie"
 ],
 "primario": "cavit-delle-venezie"
-},
-{
-"slug": "cecilia-beretta",
-"nome": "Cecilia Beretta",
-"regione": "Veneto",
-"comune": "",
-"tipi": {
-"valpolicella": [
-"Amarone",
-"Valpolicella"
-]
-},
-"membri": [
-"cecilia-beretta"
-],
-"primario": "cecilia-beretta"
 },
 {
 "slug": "fratelli-degani",

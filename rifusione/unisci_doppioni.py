@@ -34,6 +34,21 @@ for keep,drop,*nm in C['coppie']:
             if rk: rk['valore']=rk['valore']+'\n'+txt; rk['etichetta']='Consorzi'
             else: dk['sezioni'][0]['righe'].append({'etichetta':'Consorzio' if len(nuove)==1 else 'Consorzi','valore':txt})
             json.dump(dk,open('dati/'+keep+'.json','w',encoding='utf8'),ensure_ascii=False,indent=1)
+    if drop in C.get('porta_contenuto',[]):
+        # porta nella scheda tenuta le righe 'Azienda' e 'Riconoscimenti' della doppia (con le fonti), al posto di quelle vuote
+        off=max([f['n'] for f in dk['fonti']]+[0]); usate=set()
+        ref=lambda t:re.sub(r'\[\[(\d+)\]\]',lambda m:'[['+str(int(m.group(1))+off)+']]',t)
+        for tit_d,tit_k in (('Azienda','Azienda'),('Riconoscimenti','Riconoscimenti')):
+            sd_=next((x for x in dd['sezioni'] if x['titolo']==tit_d),None)
+            sk_=next((x for x in dk['sezioni'] if x['titolo'].startswith(tit_k)),None)
+            if not sd_ or not sk_ or not sd_.get('righe'): continue
+            sk_['righe']=[r for r in sk_.get('righe',[]) if not re.match(r'^(Non disponibil|Non present)',r['valore'])]
+            for r in sd_['righe']:
+                usate|={int(n) for n in re.findall(r'\[\[(\d+)\]\]',r['valore'])}
+                sk_['righe'].append({'etichetta':r['etichetta'],'valore':ref(r['valore'])})
+        for f in dd['fonti']:
+            if f['n'] in usate: dk['fonti'].append(dict(f,n=f['n']+off))
+        json.dump(dk,open('dati/'+keep+'.json','w',encoding='utf8'),ensure_ascii=False,indent=1)
     if nm:
         K['nome']=nm[0]; dk['nome']=nm[0]
         json.dump(dk,open('dati/'+keep+'.json','w',encoding='utf8'),ensure_ascii=False,indent=1)
