@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded',function(){
 var t2=document.querySelector('.sh-tit .t2');
 if(t2)t2.textContent='Produttori italiani di vino DOP';
 var ft=document.querySelector('.sh-foot');
-if(ft){var dv=ft.querySelectorAll('div');if(dv[1])dv[1].innerHTML='<a href="mailto:info@vinobotte.it">info@vinobotte.it</a>';}
+if(ft){var ct=ft.querySelector('a[href^="mailto:"]');if(ct)ct.remove();var dv=ft.querySelectorAll('div');if(dv[1])dv[1].innerHTML='<a href="mailto:info@vinobotte.it">info@vinobotte.it</a>';}
 var f=document.getElementById('f'),q=document.getElementById('q'),b=document.getElementById('b');
 var conv=document.getElementById('conv'),scorri=document.getElementById('scorri'),sugg=document.getElementById('sugg');
 var storia=[],occupato=false,inviato=false;
