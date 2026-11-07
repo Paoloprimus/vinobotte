@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>VinoBotte — Chiedi dei produttori italiani di vino DOP</title>
+<meta name="description" content="Chiedi dei produttori italiani di vino DOP.">
+<style>
+:root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
+@media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif;padding:40px 16px 56px}
+main{max-width:720px;margin:0 auto}
+.cerca{display:flex;gap:8px;max-width:380px;margin:32px auto 22px}
+.cerca button{font:inherit;font-size:14px;color:var(--bg);background:var(--acc);border:0;border-radius:4px;padding:0 12px;cursor:pointer}
+.cerca button:disabled{opacity:.5;cursor:default}
+#q{flex:1;min-width:0;font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:5px 8px;width:100%;font-size:14px}
+#q::placeholder{color:#a7a196;opacity:1}
+#esempi{list-style:none;margin:0 auto;padding:0;max-width:380px;border-top:1px solid var(--line)}
+#esempi li{border-bottom:1px solid var(--line)}
+#esempi button{display:block;width:100%;text-align:left;font:inherit;font-size:17px;color:var(--acc);background:none;border:0;padding:12px 4px;cursor:pointer}
+#esempi button:hover,#esempi button:focus-visible{text-decoration:underline}
+#conv{list-style:none;margin:0 auto 22px;padding:0;border-top:1px solid var(--line)}
+#conv li{border-bottom:1px solid var(--line);padding:12px 2px;white-space:pre-wrap;overflow-wrap:anywhere}
+#conv .tu{color:var(--acc);font-weight:700}
+#conv .attesa{opacity:.6}
+.nota{margin:22px 0 0;font-size:13px;color:var(--ink);opacity:.75;text-align:center;letter-spacing:.02em}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<main>
+<ul id="conv" role="log" aria-live="polite" aria-label="Conversazione" hidden></ul>
+<form id="f" class="cerca"><input id="q" type="text" placeholder="Scrivi la tua domanda ..." aria-label="Scrivi la tua domanda" autocomplete="off" maxlength="500"><button id="b" type="submit">Invio</button></form>
+<ul id="esempi">
+<li><button type="button">Chi produce Amarone in Valpolicella?</button></li>
+<li><button type="button">Quali cantine di La Morra fanno Barolo?</button></li>
+<li><button type="button">Dove si trova Corte Giara Allegrini?</button></li>
+<li><button type="button">Quali cantine di Montalcino hanno un negozio online?</button></li>
+</ul>
+<p class="nota">VinoBotte è in sviluppo e può sbagliare. I dati sono pubblici e possono cambiare.</p>
+</main>
+<script src="/shell.js" defer></script>
+<script>
+document.addEventListener('DOMContentLoaded',function(){
+var t2=document.querySelector('.sh-tit .t2');
+if(t2)t2.textContent='Chiedi dei produttori italiani di vino DOP';
+var f=document.getElementById('f'),q=document.getElementById('q'),b=document.getElementById('b');
+var conv=document.getElementById('conv'),esempi=document.getElementById('esempi');
+var storia=[],occupato=false;
+function riga(testo,classe){
+  conv.hidden=false;
+  var li=document.createElement('li');
+  if(classe)li.className=classe;
+  li.textContent=testo;
+  conv.appendChild(li);
+  li.scrollIntoView({block:'nearest'});
+  return li;
+}
+async function invia(domanda){
+  domanda=domanda.trim();
+  if(!domanda||occupato)return;
+  occupato=true;b.disabled=true;
+  esempi.hidden=true;
+  riga(domanda,'tu');
+  q.value='';
+  storia.push({ruolo:'utente',testo:domanda});
+  var attesa=riga('…','attesa');
+  var risposta='';
+  try{
+    var r=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({messaggi:storia.slice(-6)})});
+    if(!r.ok)throw new Error('http '+r.status);
+    var d=await r.json();
+    risposta=(d&&d.risposta)?String(d.risposta):'';
+    if(!risposta)throw new Error('vuota');
+  }catch(e){
+    risposta='Al momento non riesco a rispondere. Riprova tra poco.';
+    storia.pop();
+  }
+  attesa.classList.remove('attesa');
+  attesa.textContent=risposta;
+  if(risposta.indexOf('Al momento non riesco')!==0)storia.push({ruolo:'vinobotte',testo:risposta});
+  occupato=false;b.disabled=false;q.focus();
+}
+f.addEventListener('submit',function(e){e.preventDefault();invia(q.value)});
+esempi.addEventListener('click',function(e){
+  var el=e.target.closest('button');
+  if(el)invia(el.textContent);
+});
+});
+</script>
+</body>
+</html>
