@@ -10,6 +10,10 @@
      "valore": "BORGO DEI VETTOR Via Calmaor 36, 31049 San Giovanni (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@ilborgodeivettor.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.ilborgodeivettor.it|ilborgodeivettor.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «ilborgodeivettor.it», consultata il 7 novembre 2026.",
+   "url": "https://www.ilborgodeivettor.it",
+   "etichetta": "ilborgodeivettor.it"
   }
  ]
 }

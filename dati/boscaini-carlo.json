@@ -14,6 +14,10 @@
      "valore": "Via Sengia 15, 37015 Sant’Ambrogio di Valpolicella (VR) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "vini@boscainicarlo.it [[6]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.boscainicarlo.it/|www.boscainicarlo.it}} — raggiungibile al controllo del 29 ottobre 2026"
     },
@@ -96,6 +100,12 @@
   {
    "n": 5,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina «boscainicarlo.it/cantina-amarone-valpolicella», consultata il 7 novembre 2026.",
+   "url": "https://www.boscainicarlo.it/cantina-amarone-valpolicella",
+   "etichetta": "boscainicarlo.it"
   }
  ]
 }

@@ -14,6 +14,10 @@
      "valore": "+39 0458 240690 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@natiia.com [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://natiia.com/|natiia.com}} [[1]]"
     }
@@ -62,6 +66,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «natiia.com», consultata il 7 novembre 2026.",
+   "url": "https://natiia.com/",
+   "etichetta": "natiia.com"
   }
  ]
 }

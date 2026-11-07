@@ -14,6 +14,10 @@
      "valore": "Via Canal Vecchio, 37, 31020 Col San Martino (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@casefarel.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://casefarel.it|casefarel.it}} [[1]]"
     }
@@ -62,6 +66,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «casefarel.it/contatti», consultata il 7 novembre 2026.",
+   "url": "https://casefarel.it/contatti/",
+   "etichetta": "casefarel.it"
   }
  ]
 }

@@ -14,6 +14,10 @@
      "valore": "+39 392 6817719 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@caspineda.com [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{http://caspineda.com/|caspineda.com}} [[1]]"
     }
@@ -62,6 +66,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «caspineda.com/contacts», consultata il 7 novembre 2026.",
+   "url": "http://caspineda.com/contacts/",
+   "etichetta": "caspineda.com"
   }
  ]
 }

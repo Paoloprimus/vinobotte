@@ -35,6 +35,7 @@ python3 -I rifusione/dividi_fornacelle.py
 python3 -I rifusione/completa_bolgheri.py
 python3 -I rifusione/unisci_doppioni.py
 python3 -I rifusione/forza_regione.py
+python3 -I rifusione/applica_email.py
 python3 -I rifusione/rifinisci_presenza.py
 python3 -I rifusione/rifinisci_anagrafica.py
 python3 -I rifusione/rifinisci_testi.py

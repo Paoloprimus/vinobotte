@@ -14,6 +14,10 @@
      "valore": "+39 390 4238777 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "monvin@monvin.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://monvin.it/|monvin.it}} [[1]]"
     }
@@ -62,6 +66,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «monvin.it/it/contatti», consultata il 7 novembre 2026.",
+   "url": "https://monvin.it/it/contatti",
+   "etichetta": "monvin.it"
   }
  ]
 }

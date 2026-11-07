@@ -14,6 +14,10 @@
      "valore": "Via Crear 12, Mazzurega, 37022 Fumane (VR) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@cavarena.it [[5]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{http://www.cavarena.it/|cavarena.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
     },
@@ -91,6 +95,12 @@
   {
    "n": 4,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «cavarena.it», consultata il 7 novembre 2026.",
+   "url": "https://www.cavarena.it/",
+   "etichetta": "cavarena.it"
   }
  ]
 }

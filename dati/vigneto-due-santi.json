@@ -10,6 +10,10 @@
      "valore": "Viale Asiago 174, 36061 Bassano del Grappa (VI) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@vignetoduesanti.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.vignetoduesanti.it/|vignetoduesanti.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «vignetoduesanti.it», consultata il 7 novembre 2026.",
+   "url": "https://www.vignetoduesanti.it/",
+   "etichetta": "vignetoduesanti.it"
   }
  ]
 }

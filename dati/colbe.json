@@ -14,6 +14,10 @@
      "valore": "+39 0423 987453 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@proseccocolbe.com [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.proseccocolbe.com/|proseccocolbe.com}} [[1]]"
     }
@@ -62,6 +66,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «proseccocolbe.com/contatti», consultata il 7 novembre 2026.",
+   "url": "https://www.proseccocolbe.com/contatti/",
+   "etichetta": "proseccocolbe.com"
   }
  ]
 }

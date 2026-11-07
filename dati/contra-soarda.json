@@ -10,6 +10,10 @@
      "valore": "Strada Soarda 26, 36061 Bassano del Grappa (VI) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@contrasoarda.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.contrasoarda.it/|contrasoarda.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «contrasoarda.it/contatti», consultata il 7 novembre 2026.",
+   "url": "https://www.contrasoarda.it/contatti",
+   "etichetta": "contrasoarda.it"
   }
  ]
 }

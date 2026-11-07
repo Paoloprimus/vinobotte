@@ -10,6 +10,10 @@
      "valore": "Via Cironel 1, 31040 Guia di Valdobbiadene (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@rivacironel.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://rivacironel.it/|rivacironel.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «rivacironel.it», consultata il 7 novembre 2026.",
+   "url": "https://rivacironel.it/",
+   "etichetta": "rivacironel.it"
   }
  ]
 }

@@ -10,6 +10,10 @@
      "valore": "Via Le Canevare 30, 31100 Treviso (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@permani.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://permani.it/|permani.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «permani.it», consultata il 7 novembre 2026.",
+   "url": "https://permani.it/",
+   "etichetta": "permani.it"
   }
  ]
 }

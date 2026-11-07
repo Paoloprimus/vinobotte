@@ -14,6 +14,10 @@
      "valore": "+39 0445 897359 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@costa-delsole.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.costa-delsole.it/|costa-delsole.it}} [[1]]"
     }
@@ -62,6 +66,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «costa-delsole.it/contatti.htm», consultata il 7 novembre 2026.",
+   "url": "https://www.costa-delsole.it/contatti.htm",
+   "etichetta": "costa-delsole.it"
   }
  ]
 }

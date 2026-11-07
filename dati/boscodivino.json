@@ -10,6 +10,10 @@
      "valore": "Via Gutelmo 5, 36030 Zugliano (VI) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@boscodivino.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.boscodivino.it/it/|boscodivino.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «boscodivino.it/it», consultata il 7 novembre 2026.",
+   "url": "https://www.boscodivino.it/it/",
+   "etichetta": "boscodivino.it"
   }
  ]
 }

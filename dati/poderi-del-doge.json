@@ -18,6 +18,10 @@
      "valore": "+39 0429 760280 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@poderideldoge.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.poderideldoge.eu/|poderideldoge.eu}} [[1]]"
     }
@@ -66,6 +70,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «poderideldoge.eu/contatti», consultata il 7 novembre 2026.",
+   "url": "https://www.poderideldoge.eu/contatti/",
+   "etichetta": "poderideldoge.eu"
   }
  ]
 }

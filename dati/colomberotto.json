@@ -10,6 +10,10 @@
      "valore": "Via Montegrappa 68/72, 31010 Moriago della Battaglia (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "colomberottocert@pec.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://colomberotto.it/|colomberotto.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «colomberotto.it», consultata il 7 novembre 2026.",
+   "url": "https://colomberotto.it/",
+   "etichetta": "colomberotto.it"
   }
  ]
 }

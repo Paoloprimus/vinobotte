@@ -10,6 +10,10 @@
      "valore": "Via Vendri 1/R , Vero a, 37142 Via Valpantena (VR) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@tenutasantapollonia.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://tenutasantapollonia.it/|tenutasantapollonia.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «tenutasantapollonia.it», consultata il 7 novembre 2026.",
+   "url": "https://tenutasantapollonia.it/",
+   "etichetta": "tenutasantapollonia.it"
   }
  ]
 }

@@ -20,6 +20,10 @@
     {
      "etichetta": "Dati nell’elenco del Consorzio Prosecco DOC",
      "valore": "Montebello Vicentino, Via Contrada Selva, 10 36054 VI; tel. +393519580608; info@tenutamaule.com; https://www.tenutamaule.com [[5]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@tenutamaule.com [[8]]"
     }
    ]
   },
@@ -109,6 +113,12 @@
   {
    "n": 7,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina «tenutamaule.com», consultata il 7 novembre 2026.",
+   "url": "https://www.tenutamaule.com/",
+   "etichetta": "tenutamaule.com"
   }
  ]
 }

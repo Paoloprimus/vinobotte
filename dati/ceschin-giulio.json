@@ -10,6 +10,10 @@
      "valore": "Via Colle 13, 31020 S. Pietro di Feletto (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@ceschingiulio.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.ceschingiulio.it/|ceschingiulio.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «ceschingiulio.it», consultata il 7 novembre 2026.",
+   "url": "https://www.ceschingiulio.it/",
+   "etichetta": "ceschingiulio.it"
   }
  ]
 }

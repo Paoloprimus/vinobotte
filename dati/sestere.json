@@ -10,6 +10,10 @@
      "valore": "Via Soler, 3, 31043 Fontanelle (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@sestere.com [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.sestere.com|sestere.com}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «sestere.com/contatti», consultata il 7 novembre 2026.",
+   "url": "https://www.sestere.com/contatti/",
+   "etichetta": "sestere.com"
   }
  ]
 }

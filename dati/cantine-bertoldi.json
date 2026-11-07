@@ -22,6 +22,10 @@
      "valore": "+39 045 7170410 (visite e consegne) [[3]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@cantinebertoldi.it [[13]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.cantinebertoldi.it/|www.cantinebertoldi.it}} — raggiungibile al controllo del 29 ottobre 2026"
     },
@@ -215,6 +219,12 @@
    "testo": "Consorzio Tutela Vino Bardolino D.O.C., elenco dei produttori, consultato il 24 ottobre 2026.",
    "url": "https://consorziobardolino.it/cantine/",
    "etichetta": "consorziobardolino.it"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina «cantinebertoldi.it/PRIVACY/PrivacyIT.html», consultata il 7 novembre 2026.",
+   "url": "https://www.cantinebertoldi.it/PRIVACY/PrivacyIT.html",
+   "etichetta": "cantinebertoldi.it"
   }
  ]
 }

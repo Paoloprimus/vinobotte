@@ -14,6 +14,10 @@
      "valore": "Via Gnirega 7, Valgatara, 37020 Marano di Valpolicella (VR) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "terredignirega@gmail.com [[5]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{http://www.terredignirega.it/|terredignirega.it}} — raggiungibile al controllo del 29 ottobre 2026 [[2]]"
     },
@@ -91,6 +95,12 @@
   {
    "n": 4,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina «terredignirega.it», consultata il 7 novembre 2026.",
+   "url": "https://www.terredignirega.it/",
+   "etichetta": "terredignirega.it"
   }
  ]
 }

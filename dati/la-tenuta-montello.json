@@ -10,6 +10,10 @@
      "valore": "Via Str. Muson, 2/C, 31011 Asolo (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@asolomontello.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.asolomontello.it/|asolomontello.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «asolomontello.it», consultata il 7 novembre 2026.",
+   "url": "https://www.asolomontello.it/",
+   "etichetta": "asolomontello.it"
   }
  ]
 }

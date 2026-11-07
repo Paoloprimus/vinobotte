@@ -10,6 +10,10 @@
      "valore": "Via Pozzetto 9/A, 31050 Monastier di Treviso (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@pierobonvini.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.pierobonvini.it|pierobonvini.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «pierobonvini.it», consultata il 7 novembre 2026.",
+   "url": "https://www.pierobonvini.it",
+   "etichetta": "pierobonvini.it"
   }
  ]
 }

@@ -14,6 +14,10 @@
      "valore": "+39 347 3105555 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@trattoriacampiano.com [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://trattoriacampiano.com/|trattoriacampiano.com}} [[1]]"
     }
@@ -62,6 +66,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «trattoriacampiano.com/chi-siamo», consultata il 7 novembre 2026.",
+   "url": "https://trattoriacampiano.com/chi-siamo/",
+   "etichetta": "trattoriacampiano.com"
   }
  ]
 }

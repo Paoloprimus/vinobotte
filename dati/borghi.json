@@ -10,6 +10,10 @@
      "valore": "Via Pajone, 35032 Arqua' Petrarca (PD) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@terredeiborghi.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.terredeiborghi.it/|terredeiborghi.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «terredeiborghi.it», consultata il 7 novembre 2026.",
+   "url": "https://www.terredeiborghi.it/",
+   "etichetta": "terredeiborghi.it"
   }
  ]
 }

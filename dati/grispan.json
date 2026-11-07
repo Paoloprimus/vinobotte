@@ -10,6 +10,10 @@
      "valore": "via Belfiore 15, 30020 Belfiore di Pramaggiore (VE) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@grispanvini.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.grispanvini.it/|grispanvini.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «grispanvini.it», consultata il 7 novembre 2026.",
+   "url": "https://www.grispanvini.it/",
+   "etichetta": "grispanvini.it"
   }
  ]
 }

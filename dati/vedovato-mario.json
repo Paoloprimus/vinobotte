@@ -14,6 +14,10 @@
      "valore": "Via Cornariola, 3B, 35010 Trebaseleghe (PD) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@vinicolavedovato.com [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.vinicolavedovato.com/|vinicolavedovato.com}} [[1]]"
     }
@@ -62,6 +66,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «vinicolavedovato.com», consultata il 7 novembre 2026.",
+   "url": "https://www.vinicolavedovato.com/",
+   "etichetta": "vinicolavedovato.com"
   }
  ]
 }

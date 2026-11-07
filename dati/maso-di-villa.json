@@ -14,6 +14,10 @@
      "valore": "+39 0438 841414 [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@masodivilla.it [[2]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.masodivilla.it/|masodivilla.it}} [[1]]"
     },
@@ -40,6 +44,12 @@
    "testo": "Elenco delle aziende del Consorzio Colli di Conegliano DOCG, scheda dell’azienda consultata il 4 novembre 2026.",
    "url": "http://www.colliconegliano.it/it/soci-it",
    "etichetta": "colliconegliano.it"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina «masodivilla.it/it», consultata il 7 novembre 2026.",
+   "url": "https://www.masodivilla.it/it/",
+   "etichetta": "masodivilla.it"
   }
  ]
 }

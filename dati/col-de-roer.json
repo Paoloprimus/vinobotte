@@ -10,6 +10,10 @@
      "valore": "Vicolo Col de Roèr, 7, 31049 Valdobbiadene (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "admin@colderoer.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.colderoer.it|colderoer.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «colderoer.it», consultata il 7 novembre 2026.",
+   "url": "https://www.colderoer.it",
+   "etichetta": "colderoer.it"
   }
  ]
 }

@@ -10,6 +10,10 @@
      "valore": "Via Cargador, 21, 31049 Valdobbiadene (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "info@vettoretti1902.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://vettoretti1902.it/|vettoretti1902.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «vettoretti1902.it/contatti», consultata il 7 novembre 2026.",
+   "url": "https://vettoretti1902.it/contatti/",
+   "etichetta": "vettoretti1902.it"
   }
  ]
 }
