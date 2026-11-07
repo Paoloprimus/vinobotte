@@ -3,70 +3,97 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>VinoBotte — Chiedi dei produttori italiani di vino DOP</title>
-<meta name="description" content="Chiedi dei produttori italiani di vino DOP.">
+<title>VinoBotte — Produttori italiani di vino DOP</title>
+<meta name="description" content="Produttori italiani di vino DOP.">
 <style>
 :root{--bg:#faf8f4;--ink:#1d1b19;--line:#d9d3c8;--acc:#7a1f2b}
 @media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#f1ece4;--line:#3a352f;--acc:#e08a96}}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif;padding:40px 16px 56px}
-main{max-width:720px;margin:0 auto}
-.cerca{display:flex;gap:8px;max-width:380px;margin:32px auto 22px}
-.cerca button{font:inherit;font-size:14px;color:var(--bg);background:var(--acc);border:0;border-radius:4px;padding:0 12px;cursor:pointer}
-.cerca button:disabled{opacity:.5;cursor:default}
-#q{flex:1;min-width:0;font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:5px 8px;width:100%;font-size:14px}
-#q::placeholder{color:#a7a196;opacity:1}
-#esempi{list-style:none;margin:0 auto;padding:0;max-width:380px;border-top:1px solid var(--line)}
-#esempi li{border-bottom:1px solid var(--line)}
-#esempi button{display:block;width:100%;text-align:left;font:inherit;font-size:17px;color:var(--acc);background:none;border:0;padding:12px 4px;cursor:pointer}
-#esempi button:hover,#esempi button:focus-visible{text-decoration:underline}
-#conv{list-style:none;margin:0 auto 22px;padding:0;border-top:1px solid var(--line)}
-#conv li{border-bottom:1px solid var(--line);padding:12px 2px;white-space:pre-wrap;overflow-wrap:anywhere}
-#conv .tu{color:var(--acc);font-weight:700}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,'Times New Roman',serif}
+html body.chat{display:flex!important;flex-direction:column;height:100vh;height:100dvh;padding:0!important;overflow:hidden}
+.chat .sh-head{flex:none}
+.chat .sh-head>div{visibility:hidden}
+.chat .sh-bc{display:none!important}
+.chat .sh-foot{flex:none;margin:0;padding:4px 16px 10px;border-top:0;font-size:12px;line-height:1.5}
+.chat .sh-foot div{display:inline}
+main{flex:1;min-height:0;display:flex;flex-direction:column}
+#scorri{flex:1;min-height:0;overflow-y:auto;scrollbar-width:none;-ms-overflow-style:none;padding:16px}
+#scorri::-webkit-scrollbar{display:none}
+#conv{list-style:none;margin:0 auto;padding:0;max-width:720px;display:flex;flex-direction:column;gap:18px}
+#conv li{white-space:pre-wrap;overflow-wrap:anywhere}
+#conv .tu{align-self:flex-end;max-width:85%;background:rgba(127,127,127,.14);border-radius:14px;padding:8px 12px}
+#conv .ri{align-self:flex-start;max-width:100%}
 #conv .attesa{opacity:.6}
-.nota{margin:22px 0 0;font-size:13px;color:var(--ink);opacity:.75;text-align:center;letter-spacing:.02em}
+#basso{flex:none;padding:8px 16px 0}
+.colonna{max-width:720px;margin:0 auto}
+.compo{position:relative;border:1px solid var(--line);border-radius:14px;background:var(--bg);padding:8px 76px 8px 12px}
+.compo:focus-within{border-color:var(--acc)}
+#q{display:block;width:100%;min-height:24px;max-height:40vh;border:0;outline:0;resize:none;background:transparent;color:inherit;font:inherit;font-size:16px;line-height:1.4;padding:2px 0;overflow-y:auto;scrollbar-width:none}
+#q::-webkit-scrollbar{display:none}
+.compo.con-sugg #q{min-height:68px}
+#sugg{position:absolute;left:12px;right:76px;top:8px;font-size:13px;line-height:1.55;color:#a7a196;pointer-events:none}
+#sugg button{display:block;max-width:100%;text-align:left;pointer-events:auto;background:none;border:0;padding:0;font:inherit;color:inherit;cursor:pointer}
+#sugg button:hover,#sugg button:focus-visible{text-decoration:underline}
+#b{position:absolute;right:8px;bottom:8px;font:inherit;font-size:14px;color:var(--bg);background:var(--acc);border:0;border-radius:8px;padding:6px 12px;cursor:pointer}
+#b:disabled{opacity:.5;cursor:default}
+.nota{margin:6px 0 0;font-size:12px;line-height:1.4;color:var(--ink);opacity:.75;text-align:center}
 [hidden]{display:none!important}
 </style>
 </head>
-<body>
+<body class="chat">
 <main>
-<ul id="conv" role="log" aria-live="polite" aria-label="Conversazione" hidden></ul>
-<form id="f" class="cerca"><input id="q" type="text" placeholder="Scrivi la tua domanda ..." aria-label="Scrivi la tua domanda" autocomplete="off" maxlength="500"><button id="b" type="submit">Invio</button></form>
-<ul id="esempi">
-<li><button type="button">Chi produce Amarone in Valpolicella?</button></li>
-<li><button type="button">Quali cantine di La Morra fanno Barolo?</button></li>
-<li><button type="button">Dove si trova Corte Giara Allegrini?</button></li>
-<li><button type="button">Quali cantine di Montalcino hanno un negozio online?</button></li>
-</ul>
-<p class="nota">VinoBotte è in sviluppo e può sbagliare. I dati sono pubblici e possono cambiare.</p>
+<div id="scorri"><ul id="conv" role="log" aria-live="polite" aria-label="Conversazione"></ul></div>
+<div id="basso"><div class="colonna">
+<form id="f" class="compo con-sugg">
+<textarea id="q" rows="1" aria-label="Scrivi la tua domanda" maxlength="500"></textarea>
+<div id="sugg">
+<button type="button">Chi produce Amarone in Valpolicella?</button>
+<button type="button">Dove si trova Corte Giara Allegrini?</button>
+<button type="button">Quali cantine di Montalcino hanno un negozio online?</button>
+</div>
+<button id="b" type="submit">Invio</button>
+</form>
+<p class="nota">VinoBotte è uno strumento IA in sviluppo e può sbagliare. I dati sono pubblici e possono cambiare.</p>
+</div></div>
 </main>
 <script src="/shell.js" defer></script>
 <script>
 document.addEventListener('DOMContentLoaded',function(){
 var t2=document.querySelector('.sh-tit .t2');
-if(t2)t2.textContent='Chiedi dei produttori italiani di vino DOP';
+if(t2)t2.textContent='Produttori italiani di vino DOP';
+var ft=document.querySelector('.sh-foot');
+if(ft){var dv=ft.querySelectorAll('div');if(dv[1])dv[1].innerHTML='<a href="mailto:info@vinobotte.it">info@vinobotte.it</a>';}
 var f=document.getElementById('f'),q=document.getElementById('q'),b=document.getElementById('b');
-var conv=document.getElementById('conv'),esempi=document.getElementById('esempi');
-var storia=[],occupato=false;
+var conv=document.getElementById('conv'),scorri=document.getElementById('scorri'),sugg=document.getElementById('sugg');
+var storia=[],occupato=false,inviato=false;
+function adatta(){
+  q.style.height='auto';
+  q.style.height=Math.min(q.scrollHeight,Math.round(window.innerHeight*0.4))+'px';
+}
+function aggiornaSugg(){
+  var mostra=!inviato&&q.value==='';
+  sugg.hidden=!mostra;
+  f.classList.toggle('con-sugg',!inviato);
+}
 function riga(testo,classe){
-  conv.hidden=false;
   var li=document.createElement('li');
-  if(classe)li.className=classe;
+  li.className=classe;
   li.textContent=testo;
   conv.appendChild(li);
-  li.scrollIntoView({block:'nearest'});
   return li;
 }
+function giu(){scorri.scrollTop=scorri.scrollHeight}
 async function invia(domanda){
   domanda=domanda.trim();
   if(!domanda||occupato)return;
-  occupato=true;b.disabled=true;
-  esempi.hidden=true;
+  occupato=true;b.disabled=true;inviato=true;
+  q.value='';aggiornaSugg();adatta();
   riga(domanda,'tu');
-  q.value='';
   storia.push({ruolo:'utente',testo:domanda});
-  var attesa=riga('…','attesa');
-  var risposta='';
+  var el=riga('…','ri attesa');
+  giu();
+  var risposta='',ok=true;
   try{
     var r=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({messaggi:storia.slice(-6)})});
     if(!r.ok)throw new Error('http '+r.status);
@@ -74,19 +101,27 @@ async function invia(domanda){
     risposta=(d&&d.risposta)?String(d.risposta):'';
     if(!risposta)throw new Error('vuota');
   }catch(e){
+    ok=false;
     risposta='Al momento non riesco a rispondere. Riprova tra poco.';
     storia.pop();
   }
-  attesa.classList.remove('attesa');
-  attesa.textContent=risposta;
-  if(risposta.indexOf('Al momento non riesco')!==0)storia.push({ruolo:'vinobotte',testo:risposta});
+  el.classList.remove('attesa');
+  el.textContent=risposta;
+  if(ok)storia.push({ruolo:'vinobotte',testo:risposta});
+  if(el.offsetHeight>scorri.clientHeight*0.8)scorri.scrollTop=el.offsetTop-16;else giu();
   occupato=false;b.disabled=false;q.focus();
 }
 f.addEventListener('submit',function(e){e.preventDefault();invia(q.value)});
-esempi.addEventListener('click',function(e){
+q.addEventListener('input',function(){aggiornaSugg();adatta()});
+q.addEventListener('keydown',function(e){
+  if(e.key==='Enter'&&!e.shiftKey&&window.matchMedia('(hover:hover) and (pointer:fine)').matches){e.preventDefault();invia(q.value)}
+});
+sugg.addEventListener('click',function(e){
   var el=e.target.closest('button');
   if(el)invia(el.textContent);
 });
+window.addEventListener('resize',adatta);
+aggiornaSugg();adatta();
 });
 </script>
 </body>
