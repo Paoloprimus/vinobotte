@@ -41,6 +41,30 @@
     {
      "etichetta": "Storia e proprietà",
      "valore": "Di proprietà della Società di Esecutori di Pie Disposizioni Onlus, ente di origine risalente al XIII secolo. [[1]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Monastero dell'Ardenga (XI sec.); proprietà delle Pie Disposizioni; socio fondatore del Consorzio del Brunello (1967) [[5]]"
+    },
+    {
+     "etichetta": "Proprietà",
+     "valore": "Famiglia Ciacci (Mario Ciacci dal 1967; enologo Paolo Ciacci) [[6]]"
+    },
+    {
+     "etichetta": "Ettari",
+     "valore": "650 di tenuta, circa 10 a Sangiovese (italytraveller) [[7]]"
+    },
+    {
+     "etichetta": "Bottiglie all’anno",
+     "valore": "circa 40.000 (italytraveller) [[7]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "\"produzione biologica\" indicata su itinerarinelgusto, non confermata dal sito [[8]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Grappa, olio [[6]]"
     }
    ]
   },
@@ -55,6 +79,35 @@
      "etichetta": "Denominazioni citate sul sito ufficiale",
      "valore": "Brunello di Montalcino DOCG; Brunello di Montalcino Riserva DOCG; Rosso di Montalcino DOC; Vinsanto Sant'Antimo DOC [[1]]"
     }
+   ],
+   "nota": "Elenco dalle pagine dei vini del sito della cantina, consultato il 6 novembre 2026. Solo vini a denominazione DOC/DOCG. [[6]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Brunello di Montalcino",
+     "denominazione": "Brunello di Montalcino DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Vigna Piaggia",
+     "denominazione": "Brunello di Montalcino DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Brunello Riserva",
+     "denominazione": "Brunello di Montalcino DOCG",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Rosso di Montalcino",
+     "denominazione": "Rosso di Montalcino DOC",
+     "annata": "— [[6]]"
+    },
+    {
+     "nome": "Vinsanto",
+     "denominazione": "Sant'Antimo DOC",
+     "annata": "— [[6]]"
+    }
    ]
   },
   {
@@ -63,6 +116,14 @@
     {
      "etichetta": "Premi e punteggi",
      "valore": "Non presenti nelle fonti consultate"
+    },
+    {
+     "etichetta": "Premi",
+     "valore": "Brunello 89-90/100 su Wine-Searcher (75 recensioni) [[17]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Vinous Rosso di Montalcino 2020 90; Jancis Robinson (25 recensioni); Natalie MacLean; vertdevin 91-92 [[18]] [[14]] [[19]] [[20]]"
     }
    ]
   },
@@ -80,6 +141,35 @@
     {
      "etichetta": "Vivino",
      "valore": "Presente come produttore [[4]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Facebook, Instagram [[6]] [[9]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "no (\"Richiedi informazioni\") [[10]]"
+    },
+    {
+     "etichetta": "Marketplace",
+     "valore": "LCBO (Canada), Systembolaget (Svezia), ABFW (UK), Delectable [[11]] [[12]] [[13]] [[14]]"
+    },
+    {
+     "etichetta": "Vivino (prezzi)",
+     "valore": "cantina 12 vini, 4,1 (11.492 voti); Rosso di Montalcino 3,7 [[15]]"
+    },
+    {
+     "etichetta": "Turismo ed enti",
+     "valore": "Consorzio Brunello di Montalcino, itinerarinelgusto, icastelli.net (appartamenti), Parco Val d'Orcia [[8]] [[16]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Degustazioni lun-sab 9-17 su prenotazione, da oltre 25 anni [[6]]"
     }
    ]
   }
@@ -107,6 +197,102 @@
   {
    "n": 4,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.abbadiardengapoggio.it/le-nuove-annate-di-brunello-e-rosso-di-montalcino-firmati-abbadia-ardenga-al-vinitaly/",
+   "etichetta": "abbadiardengapoggio.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.abbadiardengapoggio.it/",
+   "etichetta": "abbadiardengapoggio.it"
+  },
+  {
+   "n": 7,
+   "testo": "Italy Traveller, consultata il 6 novembre 2026.",
+   "url": "https://www.italytraveller.com/en/e/worshipping-brunello",
+   "etichetta": "italytraveller.com"
+  },
+  {
+   "n": 8,
+   "testo": "Itinerari nel Gusto, consultata il 6 novembre 2026.",
+   "url": "https://www.itinerarinelgusto.it/produttore/it/1784/abbadia-ardenga",
+   "etichetta": "itinerarinelgusto.it"
+  },
+  {
+   "n": 9,
+   "testo": "Facebook, consultata il 6 novembre 2026.",
+   "url": "https://www.facebook.com",
+   "etichetta": "facebook.com"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.abbadiardengapoggio.it/olio-extra-vergine-di-oliva/",
+   "etichetta": "abbadiardengapoggio.it"
+  },
+  {
+   "n": 11,
+   "testo": "Systembolaget, consultata il 6 novembre 2026.",
+   "url": "https://www.systembolaget.se",
+   "etichetta": "systembolaget.se"
+  },
+  {
+   "n": 12,
+   "testo": "Delectable, consultata il 6 novembre 2026.",
+   "url": "https://delectable.com",
+   "etichetta": "delectable.com"
+  },
+  {
+   "n": 13,
+   "testo": "Abbey Brook Fine Wines, consultata il 6 novembre 2026.",
+   "url": "https://abfw.co.uk/ourwines/italy/abbadia-ardenga",
+   "etichetta": "abfw.co.uk"
+  },
+  {
+   "n": 14,
+   "testo": "LCBO / Natalie MacLean, consultata il 6 novembre 2026.",
+   "url": "https://nataliemaclean.com/wineries/info/abbadia-ardenga/21819",
+   "etichetta": "nataliemaclean.com"
+  },
+  {
+   "n": 15,
+   "testo": "Vivino, consultata il 6 novembre 2026.",
+   "url": "https://www.vivino.com/it/wineries/abbadia-ardenga",
+   "etichetta": "vivino.com"
+  },
+  {
+   "n": 16,
+   "testo": "Consorzio del Brunello di Montalcino, consultata il 6 novembre 2026.",
+   "url": "https://www.consorziobrunellodimontalcino.it/en/1391/abbadia-ardenga",
+   "etichetta": "consorziobrunellodimontalcino.it"
+  },
+  {
+   "n": 17,
+   "testo": "Wine-Searcher, consultata il 6 novembre 2026.",
+   "url": "https://www.wine-searcher.com",
+   "etichetta": "wine-searcher.com"
+  },
+  {
+   "n": 18,
+   "testo": "Jancis Robinson, consultata il 6 novembre 2026.",
+   "url": "https://www.jancisrobinson.com",
+   "etichetta": "jancisrobinson.com"
+  },
+  {
+   "n": 19,
+   "testo": "Vinous, consultata il 6 novembre 2026.",
+   "url": "https://vinous.com",
+   "etichetta": "vinous.com"
+  },
+  {
+   "n": 20,
+   "testo": "Vert de Vin, consultata il 6 novembre 2026.",
+   "url": "https://vertdevin.com/?p=253731",
+   "etichetta": "vertdevin.com"
   }
  ]
 }

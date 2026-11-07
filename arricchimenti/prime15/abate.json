@@ -1,0 +1,188 @@
+{
+ "nome": "Abate",
+ "slug": "abate",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Centenaro 73, 25017 Lonato del Garda (BS) [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "351 5303939 [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@abatewine.com [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://abatewine.com/|abatewine.com}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio Tutela Lugana DOC [[2]]"
+    },
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Cantina Abate (P.IVA non pubblicata sul sito) [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "righe": [
+    {
+     "etichetta": "Denominazioni dichiarate",
+     "valore": "Lugana [[1]]"
+    }
+   ],
+   "nota": "Elenco dalle pagine dei vini del sito della cantina, consultato il 6 novembre 2026. Solo vini a denominazione DOC/DOCG. [[1]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Lugana",
+     "denominazione": "Lugana DOC",
+     "annata": "2025 [[1]]"
+    },
+    {
+     "nome": "Classico Chiaretto",
+     "denominazione": "Riviera del Garda Classico Chiaretto DOC",
+     "annata": "2024 [[1]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Famiglia Abate in vigna dal 1920 (Sergio, Stefano, Marco) [[3]]"
+    },
+    {
+     "etichetta": "Proprietà",
+     "valore": "Sergio Abate e i figli Stefano e Marco [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook abatewine (2 recensioni) [[1]] [[4]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "sì (Shopify; spedizione gratis oltre 100 €) [[1]]"
+    },
+    {
+     "etichetta": "Marketplace",
+     "valore": "Morwine $24, Dolce Vita Wines, Eataly Vino Boston, Epernay Nantucket (USA); Enoteca Ferrari €16; w-die-weinbar.de €13,90; GardaVino (Tiracollo IGT €10,57) [[5]] [[6]] [[7]] [[8]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "5 vini, 457 voti, 4,1 [[9]]"
+    },
+    {
+     "etichetta": "Vivino (prezzi)",
+     "valore": "Lugana 4,2 (406 voti); cantina 4,1 (452 voti) [[9]]"
+    },
+    {
+     "etichetta": "Wine-Searcher",
+     "valore": "Lugana 90/100 (5 recensioni critici: Jancis Robinson, Decanter 90-91) [[10]] [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Mundus Vini argento (2019), CWSA oro (2018) per il Lugana [[12]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Mundus Vini argento 2019; CWSA oro 2018; Decanter; Jancis Robinson [[10]] [[12]] [[11]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Fonti consultate il 31 ottobre 2026. Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 31 ottobre 2026.",
+   "url": "https://abatewine.com/",
+   "etichetta": "abatewine.com"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio Tutela Lugana DOC, consultato il 31 ottobre 2026.",
+   "url": "https://www.consorziolugana.it/elenco-aziende/2015/7/7/abate-claudia",
+   "etichetta": "consorziolugana.it"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://abatewine.com/pages/famiglia",
+   "etichetta": "abatewine.com"
+  },
+  {
+   "n": 4,
+   "testo": "Facebook, consultata il 6 novembre 2026.",
+   "url": "https://www.facebook.com",
+   "etichetta": "facebook.com"
+  },
+  {
+   "n": 5,
+   "testo": "Morwine, consultata il 6 novembre 2026.",
+   "url": "https://www.morwine.com",
+   "etichetta": "morwine.com"
+  },
+  {
+   "n": 6,
+   "testo": "Enoteca Ferrari, consultata il 6 novembre 2026.",
+   "url": "https://www.enotecaferrari.it",
+   "etichetta": "enotecaferrari.it"
+  },
+  {
+   "n": 7,
+   "testo": "w-die-weinbar.de, consultata il 6 novembre 2026.",
+   "url": "https://www.w-die-weinbar.de",
+   "etichetta": "w-die-weinbar.de"
+  },
+  {
+   "n": 8,
+   "testo": "GardaVino, consultata il 6 novembre 2026.",
+   "url": "https://www.gardavino.it",
+   "etichetta": "gardavino.it"
+  },
+  {
+   "n": 9,
+   "testo": "Vivino, consultata il 6 novembre 2026.",
+   "url": "https://www.vivino.com/it/wineries/abate",
+   "etichetta": "vivino.com"
+  },
+  {
+   "n": 10,
+   "testo": "Jancis Robinson, consultata il 6 novembre 2026.",
+   "url": "https://www.jancisrobinson.com",
+   "etichetta": "jancisrobinson.com"
+  },
+  {
+   "n": 11,
+   "testo": "Decanter, consultata il 6 novembre 2026.",
+   "url": "https://www.decanter.com",
+   "etichetta": "decanter.com"
+  },
+  {
+   "n": 12,
+   "testo": "Mundus Vini, consultata il 6 novembre 2026.",
+   "url": "https://www.mundusvini.com",
+   "etichetta": "mundusvini.com"
+  }
+ ]
+}

@@ -20,6 +20,14 @@
     {
      "etichetta": "Consorzio",
      "valore": "Consorzio Vini del Trentino [[1]]"
+    },
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Abate Nero di Luciano Lunelli Srl [[21]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@abatenero.it [[21]]"
     }
    ]
   },
@@ -29,6 +37,108 @@
     {
      "etichetta": "Denominazioni dichiarate",
      "valore": "Trentino, Trento DOC [[1]]"
+    }
+   ],
+   "nota": "Elenco dalle pagine dei vini del sito della cantina, consultato il 6 novembre 2026. Solo vini a denominazione DOC/DOCG. [[20]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Abate Nero Trentodoc Dosaggio Zero",
+     "denominazione": "Trento DOC",
+     "annata": "— [[20]]"
+    },
+    {
+     "nome": "Abate Nero Trentodoc Brut",
+     "denominazione": "Trento DOC",
+     "annata": "— [[20]]"
+    },
+    {
+     "nome": "Abate Nero Trentodoc Brut Rosè",
+     "denominazione": "Trento DOC",
+     "annata": "— [[20]]"
+    },
+    {
+     "nome": "Abate Nero Trentodoc “Domini” Brut Millesimato",
+     "denominazione": "Trento DOC",
+     "annata": "2020 [[20]]"
+    },
+    {
+     "nome": "Abate Nero Trentodoc “Domini Nero” Brut Millesimato",
+     "denominazione": "Trento DOC",
+     "annata": "2019 [[20]]"
+    },
+    {
+     "nome": "Abate Nero Trentodoc Brut Riserva “Cuvée dell’Abate”",
+     "denominazione": "Trento DOC",
+     "annata": "2015 [[20]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Proprietà",
+     "valore": "Famiglia Lunelli (Luciano Lunelli); Roberta Lunelli e Roberto Sebastiani (Vitae 2024) [[2]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "nessuna; conduzione convenzionale (Divine Golosità Toscane) [[3]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Nata agli inizi degli anni ’70 dall’impegno di alcuni amici del settore agronomico e del vino; la prima cuvée risale al 1973 [[12]]"
+    },
+    {
+     "etichetta": "Bottiglie all’anno",
+     "valore": "circa 50-60.000 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Vendita al dettaglio lun-ven 9-12; visite su prenotazione secondo Hello Taste, \"no\" secondo Vitae [[2]] [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram e Facebook [[5]]"
+    },
+    {
+     "etichetta": "Marketplace",
+     "valore": "Vino.com, Callmewine, Bottle of Italy, Xtrawine, Tannico [[6]] [[7]] [[8]] [[9]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "10 vini, 4532 voti, 3,9 [[10]]"
+    },
+    {
+     "etichetta": "Turismo ed enti",
+     "valore": "Visit Trentino, vinideltrentino.com, Quattrocalici, Hello Taste, Consorzio Trentodoc [[4]] [[12]] [[13]] [[14]] [[15]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "Sì [[20]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "Gambero Rosso 3 bicchieri (Domini 2010), Bibenda; segnalato da Vino.com tra i 100 vini d'Italia (Corriere della Sera) [[16]] [[9]] [[17]] [[18]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Gambero Rosso 3 bicchieri, Bibenda, Vitae, Winenews, Jancis Robinson, Visit Trentino; Bibenda 4-5 grappoli, Vitae 3-4 viti, Gambero Rosso Tre Bicchieri 2021 (Cuvée dell'Abate Ris. 2009) [[16]] [[2]] [[19]] [[11]] [[18]] [[14]]"
     }
    ]
   }
@@ -40,6 +150,126 @@
    "testo": "Elenco delle aziende del Consorzio Vini del Trentino, scheda dell’azienda consultata il 4 novembre 2026.",
    "url": "https://www.winetrentino.it/azienda/abate-nero/",
    "etichetta": "winetrentino.it"
+  },
+  {
+   "n": 2,
+   "testo": "AIS Vitae, consultata il 6 novembre 2026.",
+   "url": "https://www.vitaeonline.it",
+   "etichetta": "vitaeonline.it"
+  },
+  {
+   "n": 3,
+   "testo": "Divine Golosità Toscane, consultata il 6 novembre 2026.",
+   "url": "https://www.divinegolositatoscane.it/it/cantina/1214-abate-nero",
+   "etichetta": "divinegolositatoscane.it"
+  },
+  {
+   "n": 4,
+   "testo": "Hello Taste, consultata il 6 novembre 2026.",
+   "url": "https://www.hellotaste.it/vino/cantine/p/abate-nero",
+   "etichetta": "hellotaste.it"
+  },
+  {
+   "n": 5,
+   "testo": "Facebook, consultata il 6 novembre 2026.",
+   "url": "https://www.facebook.com",
+   "etichetta": "facebook.com"
+  },
+  {
+   "n": 6,
+   "testo": "Callmewine, consultata il 6 novembre 2026.",
+   "url": "https://www.callmewine.com",
+   "etichetta": "callmewine.com"
+  },
+  {
+   "n": 7,
+   "testo": "Xtrawine, consultata il 6 novembre 2026.",
+   "url": "https://www.xtrawine.com",
+   "etichetta": "xtrawine.com"
+  },
+  {
+   "n": 8,
+   "testo": "Bottle of Italy, consultata il 6 novembre 2026.",
+   "url": "https://bottleofitaly.com",
+   "etichetta": "bottleofitaly.com"
+  },
+  {
+   "n": 9,
+   "testo": "Vino.com, consultata il 6 novembre 2026.",
+   "url": "https://www.vino.com/en/dettaglio/trento-doc-brut-abate-nero.html",
+   "etichetta": "vino.com"
+  },
+  {
+   "n": 10,
+   "testo": "Vivino, consultata il 6 novembre 2026.",
+   "url": "https://www.vivino.com/it/wineries/abate",
+   "etichetta": "vivino.com"
+  },
+  {
+   "n": 11,
+   "testo": "Winenews, consultata il 6 novembre 2026.",
+   "url": "https://static.winenews.it/2021/11/I-QUADERNI-DI-WINENEWS-NOVEMBRE-2021-TRENTODOC.pdf",
+   "etichetta": "static.winenews.it"
+  },
+  {
+   "n": 12,
+   "testo": "Vini del Trentino, consultata il 6 novembre 2026.",
+   "url": "https://vinideltrentino.com/azienda/abate-nero/",
+   "etichetta": "vinideltrentino.com"
+  },
+  {
+   "n": 13,
+   "testo": "Quattrocalici, consultata il 6 novembre 2026.",
+   "url": "https://guida.quattrocalici.it/produttori/vino/abate-nero/",
+   "etichetta": "guida.quattrocalici.it"
+  },
+  {
+   "n": 14,
+   "testo": "Visit Trentino, consultata il 6 novembre 2026.",
+   "url": "https://www.visittrentino.info",
+   "etichetta": "visittrentino.info"
+  },
+  {
+   "n": 15,
+   "testo": "Istituto Trentodoc, consultata il 6 novembre 2026.",
+   "url": "https://www.trentodoc.com/en/trentodoc-producers/abate-nero/",
+   "etichetta": "trentodoc.com"
+  },
+  {
+   "n": 16,
+   "testo": "Gambero Rosso, consultata il 6 novembre 2026.",
+   "url": "https://www.gamberorosso.it",
+   "etichetta": "gamberorosso.it"
+  },
+  {
+   "n": 17,
+   "testo": "Corriere della Sera, consultata il 6 novembre 2026.",
+   "url": "https://www.corriere.it",
+   "etichetta": "corriere.it"
+  },
+  {
+   "n": 18,
+   "testo": "Bibenda, consultata il 6 novembre 2026.",
+   "url": "https://www.bibenda.it",
+   "etichetta": "bibenda.it"
+  },
+  {
+   "n": 19,
+   "testo": "Jancis Robinson, consultata il 6 novembre 2026.",
+   "url": "https://www.jancisrobinson.com",
+   "etichetta": "jancisrobinson.com"
+  },
+  {
+   "n": 20,
+   "testo": "Sito ufficiale della cantina, pagina del negozio consultata il 6 novembre 2026.",
+   "url": "https://www.abatenero.it/negozio/",
+   "etichetta": "abatenero.it"
+  },
+  {
+   "n": 21,
+   "testo": "Sito ufficiale della cantina, pagina dei contatti consultata il 6 novembre 2026.",
+   "url": "https://www.abatenero.it/contatti/",
+   "etichetta": "abatenero.it"
   }
  ]
 }

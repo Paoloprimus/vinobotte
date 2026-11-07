@@ -24,6 +24,118 @@
     {
      "etichetta": "Consorzio",
      "valore": "Consorzio per la Tutela e la Valorizzazione dei vini D.O.C. Valsusa [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "13344350015 [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Nata nel 2006 per recuperare la tradizione di famiglia; viticoltura 'eroica' su terrazzamenti, vitigni autoctoni (Avanà, Becuet, Baratuciat) [[2]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "Biologico (Camera di commercio TO) [[3]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Miele, ZafferanoValsusa, ulivo, grappa, passito; ristorante, eventi [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Ristorante, eventi (matrimoni, cene aziendali) [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Instagram garbin_vini [[2]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "10 vini, 228 voti, 3,9 [[5]]"
+    },
+    {
+     "etichetta": "Vivino (prezzi)",
+     "valore": "non trovati [[5]]"
+    },
+    {
+     "etichetta": "Turismo ed enti",
+     "valore": "Turismo Torino, Camera di commercio TO, Winedering (esperienze), Consorzio Valsusa DOC [[6]]"
+    },
+    {
+     "etichetta": "Wikipedia",
+     "valore": "nessuna scheda trovata"
+    },
+    {
+     "etichetta": "YouTube",
+     "valore": "nessun canale trovato"
+    },
+    {
+     "etichetta": "Wine-Searcher",
+     "valore": "nessuna scheda trovata"
+    },
+    {
+     "etichetta": "Vino.com",
+     "valore": "nessuna scheda trovata"
+    },
+    {
+     "etichetta": "Italy’s Finest Wines",
+     "valore": "nessuna scheda trovata"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dalle pagine dei vini del sito della cantina, consultato il 6 novembre 2026. Solo vini a denominazione DOC/DOCG. [[7]] [[8]] [[9]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Becuet",
+     "denominazione": "Valsusa DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Avanà",
+     "denominazione": "Valsusa DOC",
+     "annata": "— [[8]]"
+    },
+    {
+     "nome": "Avanà metodo classico",
+     "denominazione": "Valsusa DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Baratuciat",
+     "denominazione": "Valsusa DOC",
+     "annata": "— [[7]]"
+    },
+    {
+     "nome": "Rosso (da Avanà)",
+     "denominazione": "Valsusa DOC",
+     "annata": "— [[9]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Premi",
+     "valore": "nessun premio indicato sul sito"
     }
    ]
   }
@@ -35,6 +147,54 @@
    "testo": "Elenco delle aziende del Consorzio per la Tutela e la Valorizzazione dei vini D.O.C. Valsusa, scheda dell’azienda consultata il 2 novembre 2026.",
    "url": "http://www.consorziovalsusadoc.com/cantine.html",
    "etichetta": "consorziovalsusadoc.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.garbin.info",
+   "etichetta": "garbin.info"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.garbin.info/menu/",
+   "etichetta": "garbin.info"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.garbin.info/cantina/",
+   "etichetta": "garbin.info"
+  },
+  {
+   "n": 5,
+   "testo": "Vivino, consultata il 6 novembre 2026.",
+   "url": "https://www.vivino.com/it/wineries/l-garbin",
+   "etichetta": "vivino.com"
+  },
+  {
+   "n": 6,
+   "testo": "Winedering, consultata il 6 novembre 2026.",
+   "url": "https://www.winedering.com/winery-47-anno-domini_d117",
+   "etichetta": "winedering.com"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina dei vini consultata il 6 novembre 2026.",
+   "url": "https://www.garbin.info/cartadeivini/",
+   "etichetta": "garbin.info"
+  },
+  {
+   "n": 8,
+   "testo": "Sito ufficiale della cantina, pagina dei vini consultata il 6 novembre 2026.",
+   "url": "https://www.garbin.info/matrimoni/",
+   "etichetta": "garbin.info"
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina dei vini consultata il 6 novembre 2026.",
+   "url": "https://www.garbin.info/vigna-veja/",
+   "etichetta": "garbin.info"
   }
  ]
 }

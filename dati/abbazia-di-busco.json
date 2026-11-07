@@ -28,6 +28,10 @@
     {
      "etichetta": "Consorzio",
      "valore": "Consorzio di Tutela della DOC Prosecco [[2]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "nessuna sul sito (solo modulo contatti); non in scheda [[3]]"
     }
    ]
   },
@@ -37,33 +41,50 @@
     {
      "etichetta": "Storia e proprietà",
      "valore": "Il nome richiama i monaci benedettini dell’Abbazia di Sant’Andrea a Busco; il sito non indica anno di fondazione né proprietari [[1]]"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Famiglia Zeno, due secoli; villa palladiana [[5]]"
+    },
+    {
+     "etichetta": "Proprietà",
+     "valore": "Famiglia Zeno; gestione Giangiacomo Gallarati Scotti Bonaldi [[5]]"
+    },
+    {
+     "etichetta": "Ettari",
+     "valore": "42 (vinit.net) [[6]]"
     }
    ]
   },
   {
    "titolo": "Vini",
-   "nota": "Solo vini a denominazione DOC/DOCG; esclusi IGT, vini senza denominazione e distillati. [[1]]",
+   "nota": "Elenco dalle pagine dei vini del sito della cantina, consultato il 6 novembre 2026. Solo vini a denominazione DOC/DOCG. [[3]] [[11]]",
    "tipo": "vini",
    "vini": [
     {
-     "nome": "Battistero (Prosecco Brut Millesimato)",
+     "nome": "Prosecco Brut Millesimato Battistero",
      "denominazione": "Prosecco DOC",
-     "annata": "— [[1]]"
+     "annata": "— [[3]]"
     },
     {
-     "nome": "Portico (Prosecco Extra Dry)",
+     "nome": "Prosecco Extra Dry Portico",
      "denominazione": "Prosecco DOC",
-     "annata": "— [[1]]"
+     "annata": "— [[3]]"
     },
     {
-     "nome": "Pulpito (Prosecco Frizzante)",
+     "nome": "Prosecco Rosé Extra Dry Novizio",
      "denominazione": "Prosecco DOC",
-     "annata": "— [[1]]"
+     "annata": "— [[11]]"
     },
     {
-     "nome": "Capitolo",
-     "denominazione": "Pinot Grigio delle Venezie DOC",
-     "annata": "— [[1]]"
+     "nome": "Prosecco Frizzante Pulpito",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Pinot Grigio Capitolo",
+     "denominazione": "delle Venezie DOC",
+     "annata": "— [[3]]"
     }
    ]
   },
@@ -94,6 +115,27 @@
     {
      "etichetta": "Google Maps",
      "valore": "{{https://maps.google.com/?cid=5500910253664075981|Mappa}} — valutazione 4,8 su 5 (4 recensioni) [[4]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "12 vini, 52 voti, 3,8 [[8]]"
+    },
+    {
+     "etichetta": "Vivino (prezzi)",
+     "valore": "cantina 12 vini, 3,9 (54 voti) [[8]]"
+    },
+    {
+     "etichetta": "Turismo ed enti",
+     "valore": "ICE (scheda azienda, dal 2004), vinit.net (fondata 1960, 42 ha, vendita diretta e visite), Villa Abbazia di Busco su matrimonio.com (5,0, 25 recensioni) [[6]] [[9]] [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Cantina lun-ven 9-12; Villa Zeno per eventi [[7]]"
     }
    ]
   }
@@ -123,6 +165,48 @@
    "testo": "Scheda «Abbazia di Busco - Società Agricola Liasora, Azienda Vitivinicola» su Google Maps, trovata con ricerca del 29 ottobre 2026 (Google Places).",
    "url": "https://maps.google.com/?cid=5500910253664075981",
    "etichetta": "maps.google.com"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.abbaziadibusco.com/notizie/vini-abbazia-fossanova-programma-2026-espositori",
+   "etichetta": "abbaziadibusco.com"
+  },
+  {
+   "n": 6,
+   "testo": "Vinit.net, consultata il 6 novembre 2026.",
+   "url": "https://www.vinit.net",
+   "etichetta": "vinit.net"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.abbaziadibusco.com/notizie/my-cup-of-tea-popup-autunno-roma-palazzo-firenze",
+   "etichetta": "abbaziadibusco.com"
+  },
+  {
+   "n": 8,
+   "testo": "Vivino, consultata il 6 novembre 2026.",
+   "url": "https://www.vivino.com/it/wineries/abbazia-di-busco",
+   "etichetta": "vivino.com"
+  },
+  {
+   "n": 9,
+   "testo": "ICE - Agenzia per la promozione all'estero, consultata il 6 novembre 2026.",
+   "url": "https://www.ice.it/en/my-home/find-your-italian-partner/company-details/507419/ABBAZIA-DI-BUSCO",
+   "etichetta": "ice.it"
+  },
+  {
+   "n": 10,
+   "testo": "matrimonio.com, consultata il 6 novembre 2026.",
+   "url": "https://www.matrimonio.com",
+   "etichetta": "matrimonio.com"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina dei vini consultata il 6 novembre 2026.",
+   "url": "https://www.abbaziadibusco.com/notizie/38-edizione-my-cup-of-tea-popup-primavera-palazzo-firenze-roma",
+   "etichetta": "abbaziadibusco.com"
   }
  ]
 }

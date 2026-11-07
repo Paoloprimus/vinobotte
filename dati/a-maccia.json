@@ -12,6 +12,18 @@
     {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.amaccia.it|amaccia.it}} [[1]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "01496260082 [[1]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 0183 318003; cell. 366 9022107 (Carlotta), 328 0176445 (Fulvio) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@amaccia.it [[1]]"
     }
    ]
   },
@@ -22,6 +34,30 @@
      "etichetta": "Denominazioni citate sul sito ufficiale",
      "valore": "Pigato; Ormeasco [[1]]"
     }
+   ],
+   "nota": "Elenco dalle pagine dei vini del sito della cantina, consultato il 6 novembre 2026. Solo vini a denominazione DOC/DOCG. [[1]] [[11]] [[3]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Pigato",
+     "denominazione": "Riviera Ligure di Ponente DOC",
+     "annata": "2025 [[1]]"
+    },
+    {
+     "nome": "Pigato Collezione \"Di una volta\"",
+     "denominazione": "Riviera Ligure di Ponente DOC",
+     "annata": "2024 [[11]]"
+    },
+    {
+     "nome": "Ormeasco",
+     "denominazione": "Ormeasco di Pornassio DOC",
+     "annata": "2025 [[1]]"
+    },
+    {
+     "nome": "Rossese",
+     "denominazione": "Riviera Ligure di Ponente DOC",
+     "annata": "2025 [[3]]"
+    }
    ]
   },
   {
@@ -30,6 +66,14 @@
     {
      "etichetta": "Premi e punteggi",
      "valore": "Non presenti nelle fonti consultate"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Gambero Rosso (Premio Foglia; 3,8 ha, 25.000 bt), Vite in Riviera [[4]] [[5]]"
+    },
+    {
+     "etichetta": "Premi",
+     "valore": "nessun premio indicato sul sito"
     }
    ]
   },
@@ -43,6 +87,56 @@
     {
      "etichetta": "Vivino",
      "valore": "Presente come produttore [[2]]"
+    },
+    {
+     "etichetta": "Social",
+     "valore": "Instagram azienda_amaccia [[1]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "sì (minimo ordine 6 bottiglie) [[6]]"
+    },
+    {
+     "etichetta": "Google Maps",
+     "valore": "4,5 (23 recensioni, via liguriawinetours.com) [[7]]"
+    },
+    {
+     "etichetta": "Turismo ed enti",
+     "valore": "Tripadvisor (scheda senza recensioni), vinievino.it, Pagine Gialle [[8]] [[9]] [[10]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Azienda agricola e agriturismo di famiglia a Ranzo (valle Arroscia) [[1]]"
+    },
+    {
+     "etichetta": "Proprietà",
+     "valore": "Carlotta e Fulvio; quattro generazioni di donne in vigna [[3]]"
+    },
+    {
+     "etichetta": "Bottiglie all’anno",
+     "valore": "25.000 (Gambero Rosso) [[4]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "nessuna indicata; conduzione convenzionale (Vite in Riviera) [[5]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio EVO monocultivar taggiasca [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Agriturismo con 4 appartamenti (maggio-settembre) [[1]]"
     }
    ]
   }
@@ -58,6 +152,60 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.amaccia.it/2016/04/11/azienda-agricola-amaccia/",
+   "etichetta": "amaccia.it"
+  },
+  {
+   "n": 4,
+   "testo": "Gambero Rosso, consultata il 6 novembre 2026.",
+   "url": "https://www.gamberorosso.it",
+   "etichetta": "gamberorosso.it"
+  },
+  {
+   "n": 5,
+   "testo": "Vite in Riviera, consultata il 6 novembre 2026.",
+   "url": "https://www.viteinriviera.it",
+   "etichetta": "viteinriviera.it"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.amaccia.it/negozio/Vino-c72637991",
+   "etichetta": "amaccia.it"
+  },
+  {
+   "n": 7,
+   "testo": "Liguria Wine Tours, consultata il 6 novembre 2026.",
+   "url": "https://www.liguriawinetours.com",
+   "etichetta": "liguriawinetours.com"
+  },
+  {
+   "n": 8,
+   "testo": "Tripadvisor, consultata il 6 novembre 2026.",
+   "url": "https://www.tripadvisor.it",
+   "etichetta": "tripadvisor.it"
+  },
+  {
+   "n": 9,
+   "testo": "Vinievino, consultata il 6 novembre 2026.",
+   "url": "https://www.vinievino.it",
+   "etichetta": "vinievino.it"
+  },
+  {
+   "n": 10,
+   "testo": "Pagine Gialle, consultata il 6 novembre 2026.",
+   "url": "https://www.paginegialle.it",
+   "etichetta": "paginegialle.it"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina dei vini consultata il 6 novembre 2026.",
+   "url": "https://www.amaccia.it/riciclo/",
+   "etichetta": "amaccia.it"
   }
  ]
 }

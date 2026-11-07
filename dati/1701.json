@@ -42,6 +42,35 @@
      "etichetta": "Denominazioni dichiarate",
      "valore": "Franciacorta, Franciacorta Satèn, Franciacorta Rosé, Franciacorta Millesimato, Franciacorta Riserva [[2]]"
     }
+   ],
+   "nota": "Elenco dalle pagine dei vini del sito della cantina, consultato il 6 novembre 2026. Solo vini a denominazione DOC/DOCG. [[3]] [[17]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Brut Nature",
+     "denominazione": "Franciacorta DOCG",
+     "annata": "— [[3]]"
+    },
+    {
+     "nome": "Blanc de Noirs Raccolta",
+     "denominazione": "Franciacorta DOCG",
+     "annata": "2021 [[3]]"
+    },
+    {
+     "nome": "Dosaggio Zero Riserva",
+     "denominazione": "Franciacorta DOCG",
+     "annata": "2019 [[17]]"
+    },
+    {
+     "nome": "Rosé Nature Raccolta",
+     "denominazione": "Franciacorta DOCG",
+     "annata": "2022 [[3]]"
+    },
+    {
+     "nome": "Satèn Raccolta",
+     "denominazione": "Franciacorta DOCG",
+     "annata": "2022 [[17]]"
+    }
    ]
   },
   {
@@ -63,6 +92,68 @@
     {
      "etichetta": "Social",
      "valore": "Facebook {{https://www.facebook.com/1701franciacorta|facebook.com/1701franciacorta}}\nInstagram {{https://www.instagram.com/1701franciacorta|instagram.com/1701franciacorta}} [[2]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "sì (Shopify; spedizioni martedì e giovedì, gratis da 129 €) [[7]]"
+    },
+    {
+     "etichetta": "Marketplace",
+     "valore": "Callmewine (anche US/CA), Xtrawine, Bottle of Italy, Sip Wines; Le Caveau (Irlanda) [[5]] [[8]] [[9]] [[10]] [[11]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "19 vini, 4877 voti, 3,9 [[12]]"
+    },
+    {
+     "etichetta": "Vivino (prezzi)",
+     "valore": "da 26 a 82 $ (Sullerba 26, Rosé 42, Satèn 44-82) [[12]]"
+    },
+    {
+     "etichetta": "Wine-Searcher",
+     "valore": "collegato alle recensioni Jancis Robinson [[13]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Primo Franciacorta biodinamico; storia e team nelle pagine 1701 / Team (non lette per intero) [[3]]"
+    },
+    {
+     "etichetta": "Proprietà",
+     "valore": "Fratelli Silvia e Federico Stefini; agronomo Marco Benedini [[4]]"
+    },
+    {
+     "etichetta": "Ettari",
+     "valore": "11 ettari (8 Chardonnay, 3 Pinot Nero) - Callmewine [[5]]"
+    },
+    {
+     "etichetta": "Bottiglie all’anno",
+     "valore": "80.000 (Callmewine) [[5]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "Biologico 2015, biodinamico 2016 (Demeter) [[3]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Vini fermi e rifermentati [[6]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Riconoscimenti",
+   "righe": [
+    {
+     "etichetta": "Punteggi",
+     "valore": "Jancis Robinson (Brut Nature), Gambero Rosso, Vitae AIS, Slow Wine [[14]] [[15]] [[13]] [[16]]"
+    },
+    {
+     "etichetta": "Premi",
+     "valore": "nessun premio indicato sul sito"
     }
    ]
   }
@@ -80,6 +171,96 @@
    "testo": "Elenco delle aziende del Consorzio per la tutela del Franciacorta, scheda dell’azienda consultata il 31 ottobre 2026.",
    "url": "https://franciacorta.wine/it/cantine/1701-franciacorta/",
    "etichetta": "franciacorta.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://1701franciacorta.com/pages/1701",
+   "etichetta": "1701franciacorta.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://1701franciacorta.com/pages/team",
+   "etichetta": "1701franciacorta.com"
+  },
+  {
+   "n": 5,
+   "testo": "Callmewine, consultata il 6 novembre 2026.",
+   "url": "https://www.callmewine.com",
+   "etichetta": "callmewine.com"
+  },
+  {
+   "n": 6,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://1701franciacorta.com/pages/vini",
+   "etichetta": "1701franciacorta.com"
+  },
+  {
+   "n": 7,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://1701franciacorta.com/",
+   "etichetta": "1701franciacorta.com"
+  },
+  {
+   "n": 8,
+   "testo": "Xtrawine, consultata il 6 novembre 2026.",
+   "url": "https://www.xtrawine.com",
+   "etichetta": "xtrawine.com"
+  },
+  {
+   "n": 9,
+   "testo": "Bottle of Italy, consultata il 6 novembre 2026.",
+   "url": "https://bottleofitaly.com",
+   "etichetta": "bottleofitaly.com"
+  },
+  {
+   "n": 10,
+   "testo": "Sip Wines, consultata il 6 novembre 2026.",
+   "url": "https://sipwines.shop",
+   "etichetta": "sipwines.shop"
+  },
+  {
+   "n": 11,
+   "testo": "Corkbilly (Le Caveau), consultata il 6 novembre 2026.",
+   "url": "https://www.corkbilly.com/search/label/1701",
+   "etichetta": "corkbilly.com"
+  },
+  {
+   "n": 12,
+   "testo": "Vivino, consultata il 6 novembre 2026.",
+   "url": "https://www.vivino.com/it/wineries/seventeen-zero-one-franciacorta",
+   "etichetta": "vivino.com"
+  },
+  {
+   "n": 13,
+   "testo": "Jancis Robinson, consultata il 6 novembre 2026.",
+   "url": "https://www.jancisrobinson.com",
+   "etichetta": "jancisrobinson.com"
+  },
+  {
+   "n": 14,
+   "testo": "Gambero Rosso, consultata il 6 novembre 2026.",
+   "url": "https://www.gamberorosso.it",
+   "etichetta": "gamberorosso.it"
+  },
+  {
+   "n": 15,
+   "testo": "AIS Vitae, consultata il 6 novembre 2026.",
+   "url": "https://www.vitaeonline.it",
+   "etichetta": "vitaeonline.it"
+  },
+  {
+   "n": 16,
+   "testo": "Slow Wine, consultata il 6 novembre 2026.",
+   "url": "https://www.slowfood.it",
+   "etichetta": "slowfood.it"
+  },
+  {
+   "n": 17,
+   "testo": "Sito ufficiale della cantina, pagina dei vini consultata il 6 novembre 2026.",
+   "url": "https://1701franciacorta.com/pages/territorio",
+   "etichetta": "1701franciacorta.com"
   }
  ]
 }

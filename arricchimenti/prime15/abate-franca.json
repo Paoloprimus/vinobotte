@@ -1,0 +1,179 @@
+{
+ "nome": "Abate Franca",
+ "slug": "abate-franca",
+ "sezioni": [
+  {
+   "titolo": "Anagrafica",
+   "righe": [
+    {
+     "etichetta": "Sede",
+     "valore": "Via Virgilio, 1, 91100 Trapani (TP) [[1]]"
+    },
+    {
+     "etichetta": "Email",
+     "valore": "info@abatevini.it [[1]]"
+    },
+    {
+     "etichetta": "Sito ufficiale",
+     "valore": "{{https://abatevini.it/|abatevini.it}} [[1]]"
+    },
+    {
+     "etichetta": "Consorzio",
+     "valore": "Consorzio di Tutela Vini DOC Sicilia [[2]]"
+    },
+    {
+     "etichetta": "Ragione sociale",
+     "valore": "Azienda Agricola Abate Franca Srl [[3]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "02655700819 (REA TP-187334) [[3]]"
+    },
+    {
+     "etichetta": "Telefono",
+     "valore": "+39 338 6434947 [[3]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Tre generazioni con vitigni autoctoni; internazionali dal 1999; enologo Alongi dal 2005 [[4]]"
+    },
+    {
+     "etichetta": "Proprietà",
+     "valore": "Enologo Maurizio Alongi (dal 2005) [[4]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Grappe, olio EVO bio, grano e cereali, riserva di caccia, caseificio [[4]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook abatevini, Instagram abate_franca_alba [[5]] [[6]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "sì, ma vende solo olio (i vini non hanno carrello) [[5]]"
+    },
+    {
+     "etichetta": "Marketplace",
+     "valore": "vinisicilia.com (Achiana €9), cadelber.com, Enoteca Randazzo (Cuti Bianco €14), Wine Folly guida Sicilia (€10,1), Winedexer 3,7 [[7]] [[8]] [[9]] [[10]] [[11]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "14 vini, 1175 voti, 3,8 [[12]]"
+    },
+    {
+     "etichetta": "Vivino (prezzi)",
+     "valore": "14 vini, 3,8 (Achiana Grillo 3,9; Aulentissimo 4,0) [[12]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Vini",
+   "nota": "Elenco dalle pagine dei vini del sito della cantina, consultato il 6 novembre 2026. Solo vini a denominazione DOC/DOCG. [[13]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Achiana Grillo Bio",
+     "denominazione": "Sicilia DOC",
+     "annata": "— [[13]]"
+    },
+    {
+     "nome": "Cuti Nero d'Avola Bio",
+     "denominazione": "Sicilia DOC",
+     "annata": "— [[13]]"
+    }
+   ]
+  }
+ ],
+ "consultate": "Ogni dato della scheda rinvia alla fonte con il numero tra parentesi quadre.",
+ "fonti": [
+  {
+   "n": 1,
+   "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 5 novembre 2026.",
+   "url": "https://abatevini.it/",
+   "etichetta": "abatevini.it"
+  },
+  {
+   "n": 2,
+   "testo": "Elenco dei produttori associati al Consorzio di Tutela Vini DOC Sicilia, consultato il 5 novembre 2026.",
+   "url": "https://siciliadoc.wine/i-produttori/",
+   "etichetta": "siciliadoc.wine"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.abatevini.it/",
+   "etichetta": "abatevini.it"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.abatevini.it/azienda/",
+   "etichetta": "abatevini.it"
+  },
+  {
+   "n": 5,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.abatevini.it/cookie-policy-ue/",
+   "etichetta": "abatevini.it"
+  },
+  {
+   "n": 6,
+   "testo": "Facebook, consultata il 6 novembre 2026.",
+   "url": "https://www.facebook.com",
+   "etichetta": "facebook.com"
+  },
+  {
+   "n": 7,
+   "testo": "Vini Sicilia, consultata il 6 novembre 2026.",
+   "url": "https://www.vinisicilia.com",
+   "etichetta": "vinisicilia.com"
+  },
+  {
+   "n": 8,
+   "testo": "Cadelber, consultata il 6 novembre 2026.",
+   "url": "https://www.cadelber.com",
+   "etichetta": "cadelber.com"
+  },
+  {
+   "n": 9,
+   "testo": "Enoteca Randazzo, consultata il 6 novembre 2026.",
+   "url": "https://www.enotecarandazzo.it",
+   "etichetta": "enotecarandazzo.it"
+  },
+  {
+   "n": 10,
+   "testo": "Wine Folly, consultata il 6 novembre 2026.",
+   "url": "https://winefolly.com",
+   "etichetta": "winefolly.com"
+  },
+  {
+   "n": 11,
+   "testo": "Winedexer, consultata il 6 novembre 2026.",
+   "url": "https://www.winedexer.com",
+   "etichetta": "winedexer.com"
+  },
+  {
+   "n": 12,
+   "testo": "Vivino, consultata il 6 novembre 2026.",
+   "url": "https://www.vivino.com/it/wineries/abate",
+   "etichetta": "vivino.com"
+  },
+  {
+   "n": 13,
+   "testo": "Sito ufficiale della cantina, pagina dei vini consultata il 6 novembre 2026.",
+   "url": "https://www.abatevini.it/shop/",
+   "etichetta": "abatevini.it"
+  }
+ ]
+}

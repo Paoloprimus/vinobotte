@@ -36,6 +36,10 @@
     {
      "etichetta": "Dati nell’elenco del Consorzio Vini Venezia",
      "valore": "35010 Trebaseleghe; info@47annodomini.it; denominazioni: Piave, Venezia [[5]]"
+    },
+    {
+     "etichetta": "Partita IVA",
+     "valore": "03384780262 (REA TV-336251) [[6]]"
     }
    ]
   },
@@ -45,6 +49,22 @@
     {
      "etichetta": "Storia e proprietà",
      "valore": "Non disponibile nelle fonti consultate"
+    },
+    {
+     "etichetta": "Storia",
+     "valore": "Cantina con linea bio, design e arte; pagine Heritage e Stories non lette [[9]]"
+    },
+    {
+     "etichetta": "Proprietà",
+     "valore": "Famiglia Tombacco; Cristian e Andrea; enologo Cristian Tombacco [[10]]"
+    },
+    {
+     "etichetta": "Certificazioni",
+     "valore": "Biologico (linea Bio Vegan) [[11]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Grappe, cosmetici, confezioni regalo [[6]]"
     }
    ]
   },
@@ -53,9 +73,34 @@
    "tipo": "vini",
    "vini": [
     {
-     "nome": "Pinot Grigio Biovegan",
-     "denominazione": "Delle Venezie DOC",
-     "annata": "— [[3]]"
+     "nome": "Merlot",
+     "denominazione": "DOC Venezia",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Pinot Grigio",
+     "denominazione": "DOC delle Venezie",
+     "annata": "— [[24]]"
+    },
+    {
+     "nome": "Chardonnay",
+     "denominazione": "DOC Venezia",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Prosecco frizzante bio",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[24]]"
+    },
+    {
+     "nome": "Prosecco spumante extra dry bio",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[11]]"
+    },
+    {
+     "nome": "Prosecco Rosé spumante",
+     "denominazione": "Prosecco DOC",
+     "annata": "— [[25]]"
     }
    ],
    "righe": [
@@ -63,7 +108,8 @@
      "etichetta": "Elenco vini Prosecco DOC",
      "valore": "Il sito elenca solo le linee (Diamante, Sottovoce, Riserve, I versatili, Perlage 47), senza indicare le denominazioni [[2]]"
     }
-   ]
+   ],
+   "nota": "Elenco dalle pagine dei vini del sito della cantina, consultato il 6 novembre 2026. Solo vini a denominazione DOC/DOCG. [[11]] [[24]] [[25]]"
   },
   {
    "titolo": "Riconoscimenti",
@@ -71,6 +117,14 @@
     {
      "etichetta": "Premi e punteggi",
      "valore": "Non presenti nelle fonti consultate"
+    },
+    {
+     "etichetta": "Premi",
+     "valore": "Molti: Luca Maroni 92-95 punti, Berliner Wine Trophy oro, London Wine Competition, Mundus Vini, IWC bronzo [[21]] [[22]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Falstaff, Luca Maroni 92 (Extra Dry) [[23]] [[22]]"
     }
    ]
   },
@@ -96,6 +150,27 @@
     {
      "etichetta": "Vivino",
      "valore": "Presente come produttore [[8]]"
+    },
+    {
+     "etichetta": "Marketplace",
+     "valore": "wine.com, midvalleywine (USA), Flaschenpost e Galaxus (CH), Systembolaget (SE), Pinewood (HK), Delectable [[12]] [[13]] [[14]] [[15]] [[16]] [[17]]"
+    },
+    {
+     "etichetta": "Vivino (prezzi)",
+     "valore": "non letti [[18]]"
+    },
+    {
+     "etichetta": "Turismo ed enti",
+     "valore": "Winedering (degustazioni da €17), Marcadoc [[19]] [[20]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Ospitalità",
+   "righe": [
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Degustazioni, hospitality, eventi, 'Vivere 47' (sedi) [[6]]"
     }
    ]
   }
@@ -147,6 +222,108 @@
   {
    "n": 8,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 9,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.47annodomini.it/47-anno-domini-sceglie-pa",
+   "etichetta": "47annodomini.it"
+  },
+  {
+   "n": 10,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.47annodomini.it/en/47-anno-domini-and-apritivino-present-from-vineyard-to-vineyard-tasting",
+   "etichetta": "47annodomini.it"
+  },
+  {
+   "n": 11,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.47annodomini.it/il-design-parla-del-vino",
+   "etichetta": "47annodomini.it"
+  },
+  {
+   "n": 12,
+   "testo": "Systembolaget, consultata il 6 novembre 2026.",
+   "url": "https://www.systembolaget.se",
+   "etichetta": "systembolaget.se"
+  },
+  {
+   "n": 13,
+   "testo": "Flaschenpost, consultata il 6 novembre 2026.",
+   "url": "https://www.flaschenpost.ch",
+   "etichetta": "flaschenpost.ch"
+  },
+  {
+   "n": 14,
+   "testo": "Galaxus, consultata il 6 novembre 2026.",
+   "url": "https://galaxus.ch",
+   "etichetta": "galaxus.ch"
+  },
+  {
+   "n": 15,
+   "testo": "wine.com, consultata il 6 novembre 2026.",
+   "url": "https://www.wine.com",
+   "etichetta": "wine.com"
+  },
+  {
+   "n": 16,
+   "testo": "Delectable, consultata il 6 novembre 2026.",
+   "url": "https://delectable.com",
+   "etichetta": "delectable.com"
+  },
+  {
+   "n": 17,
+   "testo": "Pinewood, consultata il 6 novembre 2026.",
+   "url": "https://pinewoodwine.com/pages/47-anno-domini",
+   "etichetta": "pinewoodwine.com"
+  },
+  {
+   "n": 18,
+   "testo": "Vivino, consultata il 6 novembre 2026.",
+   "url": "https://www.vivino.com/it/wineries/fortyseven-anno-domini",
+   "etichetta": "vivino.com"
+  },
+  {
+   "n": 19,
+   "testo": "Winedering, consultata il 6 novembre 2026.",
+   "url": "https://www.winedering.com/winery-47-anno-domini_d117",
+   "etichetta": "winedering.com"
+  },
+  {
+   "n": 20,
+   "testo": "Marcadoc, consultata il 6 novembre 2026.",
+   "url": "https://marcadoc.com/?p=95496",
+   "etichetta": "marcadoc.com"
+  },
+  {
+   "n": 21,
+   "testo": "Mundus Vini, consultata il 6 novembre 2026.",
+   "url": "https://www.mundusvini.com",
+   "etichetta": "mundusvini.com"
+  },
+  {
+   "n": 22,
+   "testo": "Luca Maroni, consultata il 6 novembre 2026.",
+   "url": "https://www.lucamaroni.com",
+   "etichetta": "lucamaroni.com"
+  },
+  {
+   "n": 23,
+   "testo": "Falstaff, consultata il 6 novembre 2026.",
+   "url": "https://www.falstaff.com",
+   "etichetta": "falstaff.com"
+  },
+  {
+   "n": 24,
+   "testo": "Sito ufficiale della cantina, pagina dei vini consultata il 6 novembre 2026.",
+   "url": "https://www.47annodomini.it/en/welcome-promotion",
+   "etichetta": "47annodomini.it"
+  },
+  {
+   "n": 25,
+   "testo": "Sito ufficiale della cantina, pagina dei vini consultata il 6 novembre 2026.",
+   "url": "https://www.47annodomini.it/47-anno-domini-sceglie-rossella-ghigliotti",
+   "etichetta": "47annodomini.it"
   }
  ]
 }

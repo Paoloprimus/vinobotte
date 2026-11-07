@@ -38,6 +38,15 @@
      "etichetta": "Denominazioni dichiarate",
      "valore": "Grance Senesi DOC [[1]]"
     }
+   ],
+   "nota": "Elenco dalle pagine dei vini del sito della cantina, consultato il 6 novembre 2026. Solo vini a denominazione DOC/DOCG. [[12]]",
+   "tipo": "vini",
+   "vini": [
+    {
+     "nome": "Cœnobium",
+     "denominazione": "Grance Senesi DOC",
+     "annata": "— [[12]]"
+    }
    ]
   },
   {
@@ -50,6 +59,10 @@
     {
      "etichetta": "Ingresso",
      "valore": "Libero e gratuito [[1]]"
+    },
+    {
+     "etichetta": "Visite e degustazioni",
+     "valore": "Agriturismo; visite 10-13 / 14:30-18:30, ingresso libero [[2]]"
     }
    ]
   },
@@ -59,6 +72,64 @@
     {
      "etichetta": "Premi e punteggi",
      "valore": "Non presenti nelle fonti consultate"
+    },
+    {
+     "etichetta": "Premi",
+     "valore": "Lona di bronzo Premio Vermentino 2024 (In Albis, IGT) [[2]]"
+    },
+    {
+     "etichetta": "Punteggi",
+     "valore": "Passito del Priore nella guida \"100 migliori vini\" Corriere della Sera (Ferraro/Suckling) [[11]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Azienda: proprietà e struttura",
+   "righe": [
+    {
+     "etichetta": "Storia",
+     "valore": "Abbazia benedettina olivetana, fondata nel 1313-1319 [[2]]"
+    },
+    {
+     "etichetta": "Proprietà",
+     "valore": "Soc. Agr. Abbazia di Monte Oliveto Maggiore Srl; don Antonio Bran presidente consorzio DOC Grance Senesi [[3]]"
+    },
+    {
+     "etichetta": "Ettari",
+     "valore": "circa 7 a vigneto su circa 850 di tenuta [[4]]"
+    },
+    {
+     "etichetta": "Altri prodotti",
+     "valore": "Olio, farro, zafferano, tartufo, grappa [[2]]"
+    }
+   ]
+  },
+  {
+   "titolo": "Presenza online",
+   "righe": [
+    {
+     "etichetta": "Social",
+     "valore": "Facebook, Instagram [[5]]"
+    },
+    {
+     "etichetta": "Marketplace",
+     "valore": "tuscanico.eu (Cœnobium €14), emporiumest.it, shop.monteolivetomaggiore.it [[6]] [[7]]"
+    },
+    {
+     "etichetta": "Vivino",
+     "valore": "11 vini, 1398 voti, 3,7 [[8]]"
+    },
+    {
+     "etichetta": "Vivino (prezzi)",
+     "valore": "Grance Senesi Rosso 3,6 (287 voti) [[8]]"
+    },
+    {
+     "etichetta": "Turismo ed enti",
+     "valore": "docgrancesenesi.it, intoscana.it; don Antonio Bran presidente consorzio DOC Grance Senesi [[9]] [[10]]"
+    },
+    {
+     "etichetta": "Negozio online",
+     "valore": "Sì [[13]]"
     }
    ]
   }
@@ -70,6 +141,78 @@
    "testo": "Sito ufficiale della cantina, pagine iniziale, contatti e vini consultate il 30 ottobre 2026.",
    "url": "https://agricolamonteoliveto.com/",
    "etichetta": "agricolamonteoliveto.com"
+  },
+  {
+   "n": 2,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.agricolamonteoliveto.com/",
+   "etichetta": "agricolamonteoliveto.com"
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.agricolamonteoliveto.com/visite-e-degustazioni/informazioni",
+   "etichetta": "agricolamonteoliveto.com"
+  },
+  {
+   "n": 4,
+   "testo": "Sito ufficiale della cantina, pagina consultata il 6 novembre 2026.",
+   "url": "https://www.agricolamonteoliveto.com/cereali-e-zafferano/farro",
+   "etichetta": "agricolamonteoliveto.com"
+  },
+  {
+   "n": 5,
+   "testo": "Facebook, consultata il 6 novembre 2026.",
+   "url": "https://www.facebook.com",
+   "etichetta": "facebook.com"
+  },
+  {
+   "n": 6,
+   "testo": "Tuscanico, consultata il 6 novembre 2026.",
+   "url": "https://www.tuscanico.eu",
+   "etichetta": "tuscanico.eu"
+  },
+  {
+   "n": 7,
+   "testo": "Emporium Est, consultata il 6 novembre 2026.",
+   "url": "https://www.emporiumest.it",
+   "etichetta": "emporiumest.it"
+  },
+  {
+   "n": 8,
+   "testo": "Vivino, consultata il 6 novembre 2026.",
+   "url": "https://www.vivino.com/it/wineries/abbazia-di-busco",
+   "etichetta": "vivino.com"
+  },
+  {
+   "n": 9,
+   "testo": "Intoscana, consultata il 6 novembre 2026.",
+   "url": "https://www.intoscana.it",
+   "etichetta": "intoscana.it"
+  },
+  {
+   "n": 10,
+   "testo": "Consorzio DOC Grance Senesi, consultata il 6 novembre 2026.",
+   "url": "https://www.docgrancesenesi.it",
+   "etichetta": "docgrancesenesi.it"
+  },
+  {
+   "n": 11,
+   "testo": "Corriere della Sera, consultata il 6 novembre 2026.",
+   "url": "https://www.corriere.it",
+   "etichetta": "corriere.it"
+  },
+  {
+   "n": 12,
+   "testo": "Sito ufficiale della cantina, pagina dei vini consultata il 6 novembre 2026.",
+   "url": "https://www.agricolamonteoliveto.com/vino/i-nostri-vini",
+   "etichetta": "agricolamonteoliveto.com"
+  },
+  {
+   "n": 13,
+   "testo": "Negozio online dell’Abbazia di Monte Oliveto Maggiore. Consultata il 6 novembre 2026.",
+   "url": "https://shop.monteolivetomaggiore.it",
+   "etichetta": "shop.monteolivetomaggiore.it"
   }
  ]
 }
