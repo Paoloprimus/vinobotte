@@ -10,6 +10,10 @@
      "valore": "Via Col Buso, 8/A, 31010 Col San Martino (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "dferronato@libero.it [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.ferronatodenis.it/index.php|ferronatodenis.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «ferronatodenis.it/index.php», consultata il 7 novembre 2026.",
+   "url": "https://www.ferronatodenis.it/index.php",
+   "etichetta": "ferronatodenis.it"
   }
  ]
 }

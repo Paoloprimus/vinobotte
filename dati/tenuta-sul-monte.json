@@ -10,6 +10,10 @@
      "valore": "via Vittorio Alfieri, 1/A, 35011 Campodarsego (PD) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "agribarss@gmail.com [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.tenutasulmonte.it|tenutasulmonte.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «tenutasulmonte.it», consultata il 7 novembre 2026.",
+   "url": "https://www.tenutasulmonte.it",
+   "etichetta": "tenutasulmonte.it"
   }
  ]
 }

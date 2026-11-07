@@ -10,6 +10,10 @@
      "valore": "Via Solstizio 20, 31040 Giavera del Montello (TV) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "vettorel.nicola@gmail.com [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://www.cantinavettorel.com/|cantinavettorel.com}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «cantinavettorel.com», consultata il 7 novembre 2026.",
+   "url": "https://www.cantinavettorel.com/",
+   "etichetta": "cantinavettorel.com"
   }
  ]
 }

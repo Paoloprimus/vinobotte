@@ -10,6 +10,10 @@
      "valore": "Strada mont 7 Valdobbiadene (TV) - P.Iva: 04, 30260 Privacy Policy Informativa Sui (VE) [[1]]"
     },
     {
+     "etichetta": "Email",
+     "valore": "agostinettoalex@gmail.com [[3]]"
+    },
+    {
      "etichetta": "Sito ufficiale",
      "valore": "{{https://aziendaagricolamont.it/|aziendaagricolamont.it}} [[1]]"
     }
@@ -58,6 +62,12 @@
   {
    "n": 2,
    "testo": "Vivino (sito di terzi): la cantina compare tra i produttori, ricerca del 29 ottobre 2026."
+  },
+  {
+   "n": 3,
+   "testo": "Sito ufficiale della cantina, pagina «aziendaagricolamont.it», consultata il 7 novembre 2026.",
+   "url": "https://aziendaagricolamont.it/",
+   "etichetta": "aziendaagricolamont.it"
   }
  ]
 }
