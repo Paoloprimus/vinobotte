@@ -174,7 +174,6 @@ async function chiamaClaude(messaggi) {
     body: JSON.stringify({
       model: MODELLO,
       max_tokens: MAX_TOKEN_RISPOSTA,
-      temperature: 0.2,
       system: SISTEMA,
       tools: STRUMENTI,
       messages: messaggi,
