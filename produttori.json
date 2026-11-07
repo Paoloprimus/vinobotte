@@ -52229,21 +52229,6 @@
 "primario": "bolzan"
 },
 {
-"slug": "sancolodi",
-"nome": "Sancolodi",
-"regione": "Veneto",
-"comune": "Mussolente",
-"tipi": {
-"prosecco": [
-"Prosecco"
-]
-},
-"membri": [
-"sancolodi"
-],
-"primario": "sancolodi"
-},
-{
 "slug": "vanzin",
 "nome": "Vanzin",
 "regione": "Veneto",
@@ -52887,21 +52872,6 @@
 "la-reggenza"
 ],
 "primario": "la-reggenza"
-},
-{
-"slug": "cadoro",
-"nome": "Cadoro",
-"regione": "Veneto",
-"comune": "Quarto D’Altino",
-"tipi": {
-"venezia": [
-"Venezia, Piave e Lison Pramaggiore"
-]
-},
-"membri": [
-"cadoro"
-],
-"primario": "cadoro"
 },
 {
 "slug": "bardi",
@@ -83385,21 +83355,6 @@
 "i-moncalvi"
 ],
 "primario": "i-moncalvi"
-},
-{
-"slug": "torboli",
-"nome": "Torboli",
-"regione": "Veneto",
-"comune": "Soave",
-"tipi": {
-"soave": [
-"Soave"
-]
-},
-"membri": [
-"torboli"
-],
-"primario": "torboli"
 },
 {
 "slug": "agrintesa",
